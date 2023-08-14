@@ -164,6 +164,31 @@
   }
 }
 
+/* Accordion */
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc; 
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+ 
 
 
 </style>
@@ -175,6 +200,8 @@
     <span class="sublogo">EXPORT IMPORT </span>
 </div>
 
+
+ 
 <div class="main" >
 
 
@@ -201,7 +228,7 @@
      </div>
 
     <br>
- <h4>The Procedure</h4>
+ <h4>The BLUE SEA EXPORT IMPORT S.R.L. Commission contract Procedure</h4>
 <div class="theprocedure" >
 
 We only buy your product for clients at their demand ( we don't store products if not requested by client company )
@@ -254,17 +281,65 @@ https://www.docdroid.net/eqpwaTm/commision-contract-the-principal-reads-fills-hi
 
 <div class="thetext">
 Read the commission contract , the procedure, the exclusive rights agreement on www.blueseaexportimport.com so you understand what we do or look at SUISSENÉGOCE Members List to see others similar to us ( we are a start up , those are big companies in that list , we don't have storage - silos , we don't have transport - logistic companies and so on , we buy for our clients products they want from our suppliers and hire transporters for them if they request  ) 
-<br><br>
-<b>a) Do i have to pay BLUE SEA EXPORT IMPORT S.R.L. any money to become a supplier - partner?</b><br> Answer: NO, we don't take any money from you, the client company pays us 30% commission, you must send us proof you are a legal company and that you have all the documents  to add you in our list of suppliers. 
-<br><br>
-<b>b) If i am exclusive rights supplier-partner will BLUE SEA EXPORT IMPORT S.R.L. buy for their clients only from me ?</b><br> Answer: No, we buy only from supplier-partners that signed the exclusive agreement, that have the best offer and the best price and that client wants. Just like in a supermarket we sign agreements with suppliers - partners and client company picks product he wants from catalog.
-<br><br>
-<b>c) Is it possible to run away with clients 100% advance payment or to scam the clients or suppliers ?</b><br> Answer: No because the money is traceable, it is all done electronic via bank transfer, it can be easy traced. For large amounts of money, banks request all documents before you can deposit, send or withdraw. There are security measures to prevent bad things. Company bank accounts are not like personal bank accounts or cash. You can use them for company needs only.
-<br><br>
-<b>d) If i am a supplier - partner can i get my money in cash ?</b><br> Answer: No , you will get your money via bank transfer only after client inspects the product(s) on arrival and after he signs over the handover receipt. If products are not like in commission contract either transporter did not transport properly the products, you the supplier did not packaged properly the products or the products or not the same we agreed in exclusive rights contract. You will not get payed for damaged products or products that are not the same as in commission contract and exclusive rights agreement. All have to be traced for governments taxes and accounting reasons also.
-<br><br>
-<b>e) Can i get my money via letter of credit 30% in advance or via other method ?</b><br> Answer: No , the commission contract is standard for all companies. We all get payed after client inspects product when it arrives at his location and after he signs handover receipt. BLUE SEA EXPORT IMPORT S.R.L. just escrows the electronic money for all parties until goods are delivered.  
+  
+<br>
+
+<button class="accordion">Do i have to pay BLUE SEA EXPORT IMPORT S.R.L. any money to become a supplier - partner?</</button>
+<div class="panel">
+  <p>Answer: NO, we don't take any money from you, the client company pays us 30% commission, you must send us proof you are a legal company and that you have all the documents  to add you in our list of suppliers.<p>
 </div>
+
+<button class="accordion">If i am exclusive rights supplier-partner will BLUE SEA EXPORT IMPORT S.R.L. buy for their clients only from me ?</button>
+<div class="panel">
+  <p> Answer: No, we buy only from supplier-partners that signed the exclusive agreement, that have the best offer and the best price and that client wants. Just like in a supermarket we sign agreements with suppliers - partners and client company picks product he wants from catalog</p>
+</div>
+
+<button class="accordion">Is it possible to run away with clients 100% advance payment or to scam the clients or suppliers ?</button>
+<div class="panel">
+ <p>Answer: No because the money is traceable, it is all done electronic via bank transfer, it can be easy traced. For large amounts of money, banks request all documents before you can deposit, send or withdraw. There are security measures to prevent bad things. Company bank accounts are not like personal bank accounts or cash. You can use them for company needs only.</p>
+</div>
+
+<button class="accordion">If i am a supplier - partner can i get my money in cash ?</button>
+<div class="panel">
+ <p>Answer: No , you will get your money via bank transfer only after client inspects the product(s) on arrival and after he signs over the handover receipt. If products are not like in commission contract either transporter did not transport properly the products, you the supplier did not packaged properly the products or the products or not the same we agreed in exclusive rights contract. You will not get payed for damaged products or products that are not the same as in commission contract and exclusive rights agreement. All have to be traced for governments taxes and accounting reasons also.</p>
+</div>
+
+<button class="accordion">Can i get my money via letter of credit 30% in advance or via other method ?</button>
+<div class="panel">
+ <p>Answer: No , the commission contract is standard for all companies. We all get payed after client inspects product when it arrives at his location and after he signs handover receipt. BLUE SEA EXPORT IMPORT S.R.L. just escrows the electronic money for all parties until goods are delivered. </p>
+</div>
+ 
+<button class="accordion">Does  BLUE SEA EXPORT IMPORT S.R.L. advertise my products ? </button>
+<div class="panel">
+<p>Answer: No, we advertise BLUE SEA EXPORT IMPORT S.R.L. like a supermarket but B2B, your product will be in a catalog and people will buy it if they want it.</p>
+</div>
+
+<button class="accordion">Does BLUE SEA EXPORT IMPORT S.R.L. store and transport the products ?</button>
+<div class="panel">
+ Answer: No, we aquire products for client companies only on demand, we store products only if they pay for this service and we hire transporters to transport the goods if client companies pay for this service.<br> 
+ We don't store products just to have them on stock, and pay bills for things we don't need, we try to lower product(s) prices, buy quality products only on demand from clients and we try to reduce energy costs us and for our clients.  
+</div>
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
+
+</div>
+
+
  
 <br><br>
  
@@ -296,7 +371,7 @@ Read the commission contract , the procedure, the exclusive rights agreement on 
 </ul>
     <br>
 <ul>
-<li><b>b) Goods Department price list</b></li>
+<li><b>b) Goods Department</b></li>
 <li>1.    Hygiene and Personal Care Products </li> 
 <li>2.   Flowers and Ornamental Plants </li>
 <li>3.    Lighting and Home Decor Items </li> 
@@ -402,7 +477,7 @@ Read the commission contract , the procedure, the exclusive rights agreement on 
     <h4>Company Policy</h4>
     <div class="thetext"> BLUE SEA EXPORT IMPORT S.R.L.  does not export or import tobacco, hunting articles, guns, ammo, products that contain drinking alcohol, hemp, hemp seeds, toxic plants and mushrooms,prohibited substances, drinks that contain chemicals, snacks and sweets that contain additives or refined sugar
     </div><br>
-    <h4>Company Public Documents </h4>
+    <h4>BLUE SEA EXPORT IMPORT S.R.L. Company Public Documents </h4>
     <div class="thetext"> 
     
     <b>a) Business license / O.N.R.C. Registration certificate - BLUE SEA EXPORT IMPORT S.R.L.</b> 
