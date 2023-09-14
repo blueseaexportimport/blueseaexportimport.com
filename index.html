@@ -29,83 +29,20 @@
      li{text-align:left;}
  
 /* Accordion */
-
     .nav{margin:0;padding: 0;list-style-type:none;}
     .nav li{border:3px solid #FFF;}
-
-button{
- cursor: pointer;
- font-family: 'Alumni Sans', sans-serif;
- font-size:29px;
- background:#151fba;
- color:#FFF;
- display:block;
- width:100%;
- text-align:left;
- border:0px solid #FFF;
- padding:13px;
- transition: 0.4s;
-}
- 
-.active, .accordion:hover{background:#0f178f;}
-
-.panel {
-  padding: 13px;
-  display: none;
-  background-color: white;
-  overflow: hidden;
-  font-family: 'Alumni Sans', sans-serif;
-  font-size:29px;
-  border:1px solid #ccc;
-}
-
-
-.catalogpanel {
-  padding: 13px;
-  display: none;
-  background-color: white;
-  overflow: hidden;
-  font-family: 'Alumni Sans', sans-serif;
-  font-size:1.9vw;
-  border:1px solid #ccc;
-}
-
-table{
-border-spacing: 0px;
-border-collapse: collapse;
-background:black;
-color:white;
-width:100%;
-font-size:23px;
-}
-th{
- padding:7px 7px;
- margin:0;
- font-weight:bold;
- width:25%;
- text-transform:uppercase;
- color:black;
- background:#f4f4f4;
-  border-top:1px solid #999;
-  border-right:1px solid #999;
-}
-th:first-child{border-left:1px solid #999;} 
-td{
- padding:7px 7px;
- margin:0;
- font-weight:normal;
- width:25%;
- color:white;
- font-family: 'Roboto Condensed', sans-serif;
- border-left:1px solid #999;
- border-right:1px solid #fff;
- font-size:19px;
-}
-td:last-child{color: #39ff14;border-right:1px solid #999;}
-td.active {background: #999;}
-tr{background-color: black;border:1px solid #ffffff;}
-
-h5{font-size:29px;padding:7px 0;margin:0;color:black; background:gold;text-indent:7px;}
+     button{cursor: pointer;font-family: 'Alumni Sans', sans-serif;font-size:29px;background:#151fba;color:#FFF;display:block;width:100%;text-align:left;border:0px solid #FFF;padding:13px;transition: 0.4s;}
+    .active, .accordion:hover{background:#0f178f;}
+    .panel {padding: 13px;display: none;background-color: white;overflow: hidden;font-family: 'Alumni Sans', sans-serif;font-size:29px;border:1px solid #ccc;}
+    .catalogpanel {padding: 13px;display: none;background-color: white;overflow: hidden;font-family: 'Alumni Sans', sans-serif;border:1px solid #ccc;}
+     table{border-spacing: 0px;border-collapse: collapse;background:black;color:white;width:100%;font-size:19px;}
+     th{padding:7px 7px;margin:0;font-weight:bold;width:25%;text-transform:uppercase;color:black;background:#f4f4f4;border-top:1px solid #999;border-right:1px solid #999;}
+     th:first-child{border-left:1px solid #999;} 
+     td{padding:7px 7px;margin:0;font-weight:normal;width:25%;color:white;font-family: 'Roboto Condensed', sans-serif;border-left:1px solid #999;border-right:1px solid #fff;}
+     td:last-child{color: #39ff14;border-right:1px solid #999;}
+     td.active {background: #999;}
+     tr{background-color: black;border:1px solid #ffffff;}
+     h5{font-size:29px;padding:7px 0;margin:0;color:black; background:gold;text-indent:7px;}
 
 @media (max-width: 580px) {
    .fa {
@@ -116,6 +53,7 @@ h5{font-size:29px;padding:7px 0;margin:0;color:black; background:gold;text-inden
   button{font-size:19px;}
   .panel{ font-size:19px;}
   h5{font-size:19px;}
+  table{font-size:13px;}
 }
  
 
@@ -125,13 +63,7 @@ h5{font-size:29px;padding:7px 0;margin:0;color:black; background:gold;text-inden
 <body>
 <div class="logo" >BLUE SEA<br><span class="sublogo">EXPORT IMPORT </span></div>
 
-
-
 <div class="main" >
-
-
-
-
 
  <ul class="nav" >
     <li><button class="accordion" ><b>The BLUE SEA EXPORT IMPORT S.R.L. Catalog</b></button>
