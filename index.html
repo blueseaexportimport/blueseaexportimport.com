@@ -6,7 +6,8 @@
  <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Alumni+Sans:wght@300;700;900&family=Roboto+Condensed&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
 <style>
      body{ margin:0;padding:0;font-family: 'Alumni Sans', sans-serif;}
      a{outline:none;text-decoration:none;color:darkred;}
@@ -43,6 +44,8 @@
      td.active {background: #999;}
      tr{background-color: black;border:1px solid #ffffff;}
      h5{font-size:29px;padding:7px 0;margin:0;color:black; background:gold;text-indent:7px;}
+     .languages{text-align:right;padding-top:7px;padding-bottom:7px;}
+     .btnlang{margin-left:7px;cursor: pointer;display:inline-block;padding:4px;background-color:#151fba;font-family: 'Alumni Sans', sans-serif;font-size:29px;color:#fff;text-align:center;border:0px solid #FFF;transition: 0.4s;}         
 
 @media (max-width: 580px) {
    .fa {
@@ -54,6 +57,7 @@
   .panel{ font-size:19px;}
   h5{font-size:19px;}
   table{font-size:11px;}
+ .btnlang{font-size:19px;}
 }
  
 
@@ -64,7 +68,12 @@
 <div class="logo" >BLUE SEA<br><span class="sublogo">EXPORT IMPORT </span></div>
 
 <div class="main" >
-
+ 
+<div class="languages" >
+			<button class="btnlang id="ro_button" onclick="setLanguage('ro') >RO</button>
+   <button class="btnlang" id="en_button" onclick="setLanguage('en') >EN</button>
+</div>
+ 
  <ul class="nav" >
     <li><button class="accordion" ><b>The BLUE SEA EXPORT IMPORT S.R.L. Catalog</b></button>
     <div class="panel" >
@@ -4463,6 +4472,15 @@ for (i = 0; i < acc.length; i++) {
 <br> <span class="srlinfo">C.U.I. 47626664, REG. Com.: J39/124/2023</span> 
 
 </div>
+
+
+
+    
+
+
+
+
+    
 
 <script>
 const d = new Date();
