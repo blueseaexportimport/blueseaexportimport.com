@@ -45,8 +45,8 @@
      tr{background-color: black;border:1px solid #ffffff;}
      h5{font-size:29px;padding:7px 0;margin:0;color:black; background:gold;text-indent:7px;}
      .languages{text-align:right;padding-top:7px;padding-bottom:7px;overflow:hidden;}
-     .btnlang{margin-left:3px;width: calc(50% - 4px);font-weight:bold;cursor: pointer;display:inline-block !important;padding:13px;background-color:#151fba;font-family: 'Alumni Sans', sans-serif;font-size:29px;color:#fff;text-align:center;border:0px solid #FFF !important;transition: 0.4s;}         
-
+     .btnlang{margin-left:3%;width: 20%;font-weight:bold;cursor: pointer;display:inline-block !important;padding:13px;background-color:#151fba;font-family: 'Alumni Sans', sans-serif;font-size:29px;color:#fff;text-align:center;border:0px solid #FFF !important;transition: 0.4s;}         
+     .new {background-color: darkred;}
 @media (max-width: 580px) {
    .fa {
      padding: 10px;
@@ -62,6 +62,18 @@
  
 
 </style>
+
+<script>
+
+$(document).ready(function() {
+  $(".btnlang").click(function() {
+    $(this).toggleClass("new");
+  });
+});
+</script>
+
+
+ 
 </head>
 
 <body>
