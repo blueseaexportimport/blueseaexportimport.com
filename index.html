@@ -67,11 +67,11 @@
 
 $(document).ready(function() {
   $("#ro_button").click(function() { 
-     $(this).addClass("new");
+     $(this).toggleClass("new");
      $("#en_button").removeClass("new");
   });
    $("#en_button").click(function() { 
-     $(this).addClass("new");
+     $(this).toggleClass("new");
      $("#ro_button").removeClass("new");
   });
 });
@@ -88,7 +88,7 @@ $(document).ready(function() {
  
 <div class="languages" >
    <a class="btnlang" id="ro_button" onclick="setLanguage('ro')" >RO</a>
-   <a class="btnlang" id="en_button" onclick="setLanguage('en')" >EN</a>
+   <a class="btnlang new" id="en_button" onclick="setLanguage('en')" >EN</a>
 </div>
  
  <ul class="nav" >
