@@ -36,7 +36,7 @@
     .active, .accordion:hover{background:#0f178f;}
     .panel {padding: 4px;display: none;background-color: white;overflow: hidden;font-family: 'Alumni Sans', sans-serif;font-size:29px;border:1px solid #ccc;}
     .catalogpanel {padding: 4px;display: none;background-color: white;overflow: hidden;font-family: 'Alumni Sans', sans-serif;border:1px solid #ccc;}
-     table{border-spacing: 0px;border-collapse: collapse;background:black;color:white;width:100%;font-size:19px;}
+     table{display: none;border-spacing: 0px;border-collapse: collapse;background:black;color:white;width:100%;font-size:19px;}
      th{padding:7px 7px;margin:0;font-weight:bold;width:25%;text-transform:uppercase;color:black;background:#f4f4f4;border-top:1px solid #999;border-right:1px solid #999;}
      th:first-child{border-left:1px solid #999;} 
      td{padding:7px 7px;margin:0;font-weight:normal;width:25%;color:white;font-family: 'Roboto Condensed', sans-serif;border-left:1px solid #999;border-right:1px solid #fff;}
@@ -105,8 +105,8 @@ $(document).ready(function() {
        <div class="catalogpanel" style="overflow-x:auto;" >No suppliers at the moment , we are looking for them and we are in talks to get exclusive rights. 
        
        
-   <h5>Grains Best Prices ( minimum order 1 HACCP container non mixed pallets ) </h5>    
-   <table>
+   <h5 class="categoryaccordion" >Grains Best Prices ( minimum order 1 HACCP container non mixed pallets ) </h5>    
+   <table class="categorypanel" >
     <tr><th>Name <br>( Origin )</th><th>Hibrid / Variaty <br>( Calibre )</th><th>Supplier Name</th><th>Price per unit <br>( In Stock )</th></tr>   
     <tr><td>Common wheat for baking <br>( Romania )</td><td>Starkrimson <br>( Cal. 30+mm )</td><td><span style="color:red;" >No supplier</span></td><td>$000.00 / tone<br> <span style="color:white;" >(0000 tones )</span></td></tr>    
     <tr><td>Maize <br>( Zea mays indurata ) ( Romania )</td><td>Starkrimson <br>( Cal. 30+mm )</td><td><span style="color:red;" >No supplier</span></td><td>$000.00 / tone<br>  <span style="color:white;" >(0000 tones )</span></td></tr>    
@@ -119,8 +119,8 @@ $(document).ready(function() {
    </table>
    <br>
         
-    <h5>Rice Best Prices  ( minimum order 1 HACCP container non mixed pallets )  </h5>    
-    <table>
+    <h5 class="categoryaccordion" >Rice Best Prices  ( minimum order 1 HACCP container non mixed pallets )  </h5>    
+    <table class="categorypanel" >
     <tr><th>Name <br>( Origin )</th><th>Type</th><th>Supplier Name</th><th>Price per unit <br>( In Stock )</th></tr>   
     
     <tr><td>Long grain white rice <br>( Thailand )</td><td>5% Broken Long grain</td><td><span style="color:red;" >No supplier</span></td><td>$000.00 / tone<br> <span style="color:white;" >(0000 tones )</span></td></tr>    
@@ -152,8 +152,8 @@ $(document).ready(function() {
    </table>
      <br>   
    
-   <h5>Pulses Best Prices  ( minimum order 1 HACCP container non mixed pallets ) </h5>    
-   <table>
+   <h5 class="categoryaccordion" >Pulses Best Prices  ( minimum order 1 HACCP container non mixed pallets ) </h5>    
+   <table class="categorypanel" >
     <tr><th>Name <br>( Origin )</th><th>Hibrid / Variaty <br>( Calibre )</th><th>Supplier Name</th><th>Price per unit <br>( In Stock )</th></tr>   
     <tr><td>Beans <br>( Romania )</td><td>White Beans <br>( 530 - 570 beans per 100g )</td><td><span style="color:red;" >No supplier</span></td><td>$000.00 / tone<br>  <span style="color:white;" >(0000 tones )</span></td></tr>   
     <tr><td>Beans <br>( Romania )</td><td>White Beans <br>( 300 - 430 beans per 100g )</td><td><span style="color:red;" >No supplier</span></td><td>$000.00 / tone<br>  <span style="color:white;" >(0000 tones )</span></td></tr>
@@ -4458,6 +4458,25 @@ $(document).ready(function() {
       </li>
       
       </ul>
+
+
+<script>
+var acc = document.getElementsByClassName("categoryaccordion");
+var i;
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
+
+    
     
 <script>
 var acc = document.getElementsByClassName("catalogaccordion");
