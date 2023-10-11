@@ -59,7 +59,18 @@
 }
 </style>
 
-
+<script>
+$(document).ready(function() {
+  $("#ro_button").click(function() { 
+     $(this).addClass("new");
+     $("#en_button").removeClass("new");
+  });
+   $("#en_button").click(function() { 
+     $(this).addClass("new");
+     $("#ro_button").removeClass("new");
+  });
+});
+</script>
  
 </head>
 
@@ -68,9 +79,12 @@
 
 <div class="main" >
  
-
-    <div class="zcatalogpanel" >
+<div class="languages" >
+   <a class="btnlang new" id="en_button" onclick="setLanguage('en')" >EN</a>
+   <a class="btnlang" id="ro_button" onclick="setLanguage('ro')" >RO</a>
+</div>
  
+    <div class="zcatalogpanel" >
 
       <ul class="nav" >
       <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><b>A. PLANT ORIGIN FOOD</b></button>
