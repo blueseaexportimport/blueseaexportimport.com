@@ -66,14 +66,14 @@ $(document).ready(function() {
   $("#ro_button").click(function() { 
      $(this).addClass("new");
      $("#en_button").removeClass("new");
-     $("#ro").show();
-     $("#en").hide();
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
   });
    $("#en_button").click(function() { 
      $(this).addClass("new");
      $("#ro_button").removeClass("new");
-     $("#ro").hide();
-     $("#en").show();
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
   });
 });
 </script>
