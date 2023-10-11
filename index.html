@@ -29,6 +29,7 @@
     .contact{display:block;text-align:center;padding:7px 0;font-size:19px;} 
      ul{list-style-type:none;display:block;margin:0;padding:0;}
      li{text-align:left;}
+     #ro{display:none;}
  
 /* Accordion */
     .nav{margin:0;padding: 0;list-style-type:none;}
@@ -65,14 +66,17 @@ $(document).ready(function() {
   $("#ro_button").click(function() { 
      $(this).addClass("new");
      $("#en_button").removeClass("new");
+     $("#ro").show();
+     $("#en").hide();
   });
    $("#en_button").click(function() { 
      $(this).addClass("new");
      $("#ro_button").removeClass("new");
+     $("#ro").hide();
+     $("#en").show();
   });
 });
 </script>
- 
 </head>
 
 <body>
@@ -88,7 +92,7 @@ $(document).ready(function() {
     <div class="zcatalogpanel" >
 
       <ul class="nav" >
-      <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><b>A. PLANT ORIGIN FOOD</b></button>
+      <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>A. PLANT ORIGIN FOOD</b></span> <span id="ro"><b>A. ALIMENTE DE ORIGINE VEGETALĂ</b></span></button>
       
        <div class="catalogpanel"  >
        
