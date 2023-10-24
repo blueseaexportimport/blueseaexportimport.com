@@ -130,7 +130,7 @@ $(document).ready(function() {
            function search_table(value){  
                console.log(value);
                 $('.categorypanel').each(function(){
-                   if($(this).find('td').eq(0).text() == value ){
+                   if($(this).find('tr').eq(0).text() == value ){
                        $(this).css('background','red');
                    }
                 });
