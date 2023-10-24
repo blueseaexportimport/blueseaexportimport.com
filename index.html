@@ -117,28 +117,6 @@ $(document).ready(function() {
 </div>
 
 
-<div align="center">  
-     <input type="text" name="search" id="search" class="form-control" />  
-</div>  
-<br>
-<script>  
-      $(document).ready(function(){  
-             $('#search').keyup(function(){
-                    var search = $(this).val();
-                    $('.nav').hide();
-                    var len = $('.nav tbody td:contains("'+search+'")').length;
-                    if(len > 0){
-                      $('.nav tbody td:contains("'+search+'")').each(function(){
-                          $(this).closest('tr').show();
-                      });
-                    }
-             });
-      });  
- </script>  
-<br> 
-
-
- 
     <div class="zcatalogpanel" >
 
       <ul class="nav" >
