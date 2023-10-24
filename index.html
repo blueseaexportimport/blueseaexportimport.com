@@ -118,6 +118,38 @@ $(document).ready(function() {
  
     <div class="zcatalogpanel" >
 
+                <div align="center">  
+                     <input type="text" name="search" id="search" class="form-control" />  
+                </div>  
+                <br>
+<script>  
+      $(document).ready(function(){  
+           $('#search').keyup(function(){  
+                search_table($(this).val());  
+           });  
+           function search_table(value){  
+                $('.categorypanel tr').each(function(){  
+                     var found = 'false';  
+                     $(this).each(function(){  
+                          if($(this).text().toLowerCase().indexOf(value.toLowerCase()) >= 0)  
+                          {  
+                               found = 'true';  
+                          }  
+                     });  
+                     if(found == 'true')  
+                     {  
+                          $(this).show();  
+                     }  
+                     else  
+                     {  
+                          $(this).hide();  
+                     }  
+                });  
+           }  
+      });  
+ </script>  
+<br> 
+     
       <ul class="nav" >
       <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>A. PLANT ORIGIN FOOD</b></span> <span id="ro"><b>A. ALIMENTE DE ORIGINE VEGETALĂ</b></span></button>
       
