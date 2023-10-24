@@ -115,39 +115,32 @@ $(document).ready(function() {
    <a class="btnlang new" id="en_button" >English</a>
    <a class="btnlang" id="ro_button" >Română</a>
 </div>
- 
-    <div class="zcatalogpanel" >
 
-                <div align="center">  
-                     <input type="text" name="search" id="search" class="form-control" />  
-                </div>  
-                <br>
+
+<div align="center">  
+     <input type="text" name="search" id="search" class="form-control" />  
+</div>  
+<br>
 <script>  
       $(document).ready(function(){  
              $('#search').keyup(function(){
-                    
-                    
-                    // Search Text
                     var search = $(this).val();
-
-                    // Hide all table tbody rows
-                    $('.catalogpanel tbody tr').hide();
-
-                    // Count total search result
-                    var len = $('.catalogpanel tbody tr:not(.notfound) td:contains("'+search+'")').length;
-
+                    $('.nav tbody tr').hide();
+                    var len = $('.nav tbody td:contains("'+search+'")').length;
                     if(len > 0){
-                      // Searching text in columns and show match row
-                      $('.catalogpanel tbody tr:not(.notfound) td:contains("'+search+'")').each(function(){
+                      $('.nav tbody td:contains("'+search+'")').each(function(){
                           $(this).closest('tr').show();
                       });
                     }
-                    
              });
       });  
  </script>  
 <br> 
-     
+
+
+ 
+    <div class="zcatalogpanel" >
+
       <ul class="nav" >
       <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>A. PLANT ORIGIN FOOD</b></span> <span id="ro"><b>A. ALIMENTE DE ORIGINE VEGETALĂ</b></span></button>
       
