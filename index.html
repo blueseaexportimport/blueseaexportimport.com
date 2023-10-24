@@ -125,7 +125,7 @@ $(document).ready(function() {
       $(document).ready(function(){  
              $('#search').keyup(function(){
                     var search = $(this).val();
-                    $('.nav tbody tr').hide();
+                    $('.nav').hide();
                     var len = $('.nav tbody td:contains("'+search+'")').length;
                     if(len > 0){
                       $('.nav tbody td:contains("'+search+'")').each(function(){
