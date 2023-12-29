@@ -34,7 +34,7 @@
            url('RobotoCondensed-Regular.woff') format('woff');
      }
 
- 
+  * { box-sizing: border-box;}
      body{ margin:0;padding:0;font-family: 'Alumni Sans', Arial, sans-serif;}
      a{outline:none;text-decoration:none;color:darkred;}
     .logo{font-family: 'Alumni Sans Bold';background-color:#151fba;color:white;text-align:center;font-size:53px;margin:0;padding:14px 0 7px 0;font-weight:bold;line-height:30px;}
@@ -57,7 +57,7 @@
      ul{list-style-type:none;display:block;margin:0;padding:0;}
      li{text-align:left;}
      #ro{display:none;}
- 
+
 /* Accordion */
     .nav{margin:0;padding: 0;list-style-type:none;}
     .nav li{border:3px solid #FFF;}
@@ -78,6 +78,21 @@
      .languages{text-align:right;padding-top:7px;padding-bottom:7px;overflow:hidden;margin-bottom:7px;margin-top:4px;}
      .btnlang{margin-right:5px;width:50px;font-weight:bold;cursor: pointer;display:inline !important;padding:13px;background-color:#151fba;font-family: 'Alumni Sans', Arial, sans-serif;font-size:29px;color:#fff;text-align:center;border:0px solid #FFF !important;transition: 0.4s;}         
      .new {background-color: darkred;}
+
+/* Grid */
+     .row {
+     display: -ms-flexbox; /* IE10 */
+     display: flex;
+     -ms-flex-wrap: wrap; /* IE10 */
+     flex-wrap: wrap;
+     padding: 0 4px;
+     }	
+     .column {-ms-flex: 25%; /* IE10 */flex: 25%;max-width: 25%;padding: 0 4px;}
+     .column img {margin-top: 8px;vertical-align: middle;width: 100%;}
+	
+@media (max-width: 8000px) {
+     .column {-ms-flex: 100%;flex: 100%;max-width: 100%;}
+}	
 @media (max-width: 580px) {
      .fa {padding: 10px;font-size: 17px;width: 30px;}
      button{font-size:19px;}
@@ -85,7 +100,9 @@
      h5{font-size:19px;}
      .categorypanel{font-size:11px;}
      .btnlang{font-size:19px;width:30px;font-size: 19px;}
+     .column {-ms-flex: 100%;flex: 100%;max-width: 100%;}
 }
+
 </style>
 
 <script>
@@ -120,7 +137,29 @@ $(document).ready(function() {
     <div class="zcatalogpanel" >
      <h4><span id="en">B2B Weekly Circular / Catalog</span><span id="en" style="font-size:21px;" ><br>We do not sell or offer services to private persons</span><span id="ro">Catalog B2B</span><span id="ro" style="font-size:21px;" ><br>Nu vindem și nu prestăm servicii către persoane fizice</span></h4>
      
-   
+
+
+<!-- Photo Grid -->
+<div class="row"> 
+  <div class="column">
+    <img alt="Chamomile Supplier Partner El Yasmina Herbs Egypt" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/Chamomile%20Supplier%20Partner%20El%20Yasmina%20Herbs%20Egypt.png" style="width:100%">
+    <img alt="Hibiscus flower Supplier Partner El Yasmina Herbs Egypt" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/Hibiscus%20flower%20Supplier%20Partner%20El%20Yasmina%20Herbs%20Egypt.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img alt="Marjoram Supplier Partner El Yasmina Herbs Egypt" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/Marjoram%20Supplier%20Partner%20El%20Yasmina%20Herbs%20Egypt.png" style="width:100%">
+    <img alt="Parsley sun dried Supplier Partner El Yasmina Herbs Egypt" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/Parsley%20sun%20dried%20Supplier%20Partner%20El%20Yasmina%20Herbs%20Egypt.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img alt="Peppermint Supplier Partner El Yasmina Herbs Egypt" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/Peppermint%20Supplier%20Partner%20El%20Yasmina%20Herbs%20Egypt.png" style="width:100%">
+    <img alt="Basil Supplier Partner El Yasmina Herbs Egypt" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/Basil%20Supplier%20Partner%20El%20Yasmina%20Herbs%20Egypt.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img alt="Thyme Supplier Partner El Yasmina Herbs Egypt" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/Thyme%20Supplier%20Partner%20El%20Yasmina%20Herbs%20Egypt.png" style="width:100%">
+    <img alt="Spearmint Supplier Partner El Yasmina Herbs Egypt" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/Spearmint%20Supplier%20Partner%20El%20Yasmina%20Herbs%20Egypt.png" style="width:100%">
+  </div>
+</div><!-- End Row Photo Grid -->
+
+	    
     </div><!-- END CATALOG PANEL -->
 
 
