@@ -1,6 +1,5 @@
-   <table class="categorypanel" >
    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
    <tr><td><span id="en">Biodiesel EN 14214</span><span id="ro">Biodiesel lichid EN 14214</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / L</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
    <tr><td><span id="en">Hydrotreated Vegetable Oil (HVO) EN 15940</span><span id="ro">Ulei vegetal hidrotratat (UVH) EN 15940</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / L</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
    <tr><td><span id="en">Bioethanol EN 15376</span><span id="ro">Bioetanol EN 15376</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / L</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-   </table>
+
