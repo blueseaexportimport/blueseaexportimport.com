@@ -136,7 +136,13 @@ $(document).ready(function() {
 </script>
 <script>
 $(document).ready(function () { 
-
+    // Grab liquid fuels info on click start
+    $("#liquidfuelsbtn").click(function(){
+      $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/liquidfuels.txt", success: function(result){
+      $("#liquidfuels").html(result);
+      }});
+    });
+    // Grab liquid fuels info on click end
 });
 </script>
 
@@ -173,7 +179,7 @@ $(document).ready(function () {
    <tr><td><span id="en">Sawdust pellets - aprx. 5 kWh/kg / water content under 10%</span><span id="ro">Peleți rumeguș - aprx. 5 kWh/kg / conținut apă sub 10%</span></td><td><span id="" >Supplier:SimForest - Romania</span><span id="ro" >Furnizor: SimForest - Romania</span></td><td><div style="border-bottom:1px solid #FFF;" >23.5 RON / 15kg </div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  
 
    </table>
-   <h5 class="categoryaccordion" ><span id="en">Bio Liquids / Fuels produced from biomass</span><span id="ro">Bio Combustibili produși din biomasă</span></h5> 
+   <h5 class="categoryaccordion" id="liquidfuelsbtn" ><span id="en">Bio Liquids / Fuels produced from biomass</span><span id="ro">Bio Combustibili produși din biomasă</span></h5> 
    <table id="liquidfuels" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
