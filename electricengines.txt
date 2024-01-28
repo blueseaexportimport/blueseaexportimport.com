@@ -1,0 +1,515 @@
+<tbody>
+<tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Supplier Price per unit</span><span id="ro">Pret Per Unitate Furnizor</span></th></tr> 
+<!-- Start Product -->
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Constructive form:<br> MMF B3 - foot mounted</span>
+	<span id="ro">Forma constructie:<br> MMF B3 - constructie cu talpa</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Type:<br> CS - with aluminium cage and load capacitor</span>
+	<span id="ro">Tip:<br> CS - cu carcasa de aluminiu si condensator de sarcina</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Warranty:<br> 2 years ( transport to and from service not included )</span>
+	<span id="ro">Garantie:<br> 2 ani ( transport de la / spre service nu este inclus )</span>
+   </td>	
+</tr>	   
+        <tr>
+	<td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F0N0221340000 MMF63 0.18-3000B3IP5</td>
+          <td><span id="en">Size: 063 - Current voltage: 230V</span><span id="ro">Gabarit: 063 - Tensiune: 230V</span> - RPM: 3000 - P: 0.18Kw</td>
+          <td>493,50 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div></td>
+	</tr><tr>
+	<td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F0N0321340000 MMF63CSD90 0.18-1500</td>
+          <td><span id="en">Size: 063 - Current voltage: 230V</span><span id="ro">Gabarit: 063 - Tensiune: 230V</span> - RPM: 1500 - P: 0.18Kw</td>
+          <td>531,87 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+	<td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F0N1821340000 MMF71CS 0.37-3000 B3</td>
+          <td><span id="en">Size: 071 - Current voltage: 230V</span><span id="ro">Gabarit: 071 - Tensiune: 230V</span> - RPM: 3000 - P: 0.37Kw</td>
+          <td>545,69 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+	<td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F0N1721340000 MMF71CS0.25-1500B3IP</td>
+          <td><span id="en">Size: 071 - Current voltage: 230V</span><span id="ro">Gabarit: 071 - Tensiune: 230V</span> - RPM: 1500 - P: 0.25Kw</td>
+          <td>613,06 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+	<td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F0N1921340000 MMF71CS 0.37-1500 B3</td>
+          <td><span id="en">Size: 071 - Current voltage: 230V</span><span id="ro">Gabarit: 071 - Tensiune: 230V</span> - RPM: 1500 - P: 0.37Kw</td>
+          <td>639,02 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F0N2221340000 MMF71CS 0.75-3000 B3</td>
+          <td><span id="en">Size: 071 - Current voltage: 230V</span><span id="ro">Gabarit: 071 - Tensiune: 230V</span> - RPM: 3000 - P: 0.75Kw</td>
+          <td>642,76 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F053221340000 MMF80CS 0.75-3000 B3</td>
+          <td><span id="en">Size: 080 - Current voltage: 230V</span><span id="ro">Gabarit: 080 - Tensiune: 230V</span> - RPM: 3000 - P: 0.75Kw</td>
+          <td>688,58 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F053321340000 MMF71CS 0.55-1500 B3</td>
+          <td><span id="en">Size: 071 - Current voltage: 230V</span><span id="ro">Gabarit: 071 - Tensiune: 230V</span> - RPM: 3000 - P: 0.55Kw</td>
+          <td>736,88 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F052421340000 MMF80CS 1.1-3000 B3I</td>
+          <td><span id="en">Size: 080 - Current voltage: 230V</span><span id="ro">Gabarit: 080 - Tensiune: 230V</span> - RPM: 1500 - P: 1.1Kw</td>
+          <td>762,73 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F052321340000 MMF80CS 0.75-1500 B3</td>
+          <td><span id="en">Size: 080 - Current voltage: 230V</span><span id="ro">Gabarit: 080 - Tensiune: 230V</span> - RPM: 1500 - P: 0.75Kw</td>
+          <td>800,45 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F054241341000 MMF90S* 1.1-3000 B3</td>
+          <td><span id="en">Size: 090S - Current voltage: 230V</span><span id="ro">Gabarit: 090S - Tensiune: 230V</span> - RPM: 3000 - P: 1.1Kw</td>
+          <td>896,51 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F052521340000 MMF90CS 1.1-1500 B3</td>
+          <td><span id="en">Size: 090L - Current voltage: 230V</span><span id="ro">Gabarit: 090L - Tensiune: 230V</span> - RPM: 3000 - P: 1.1Kw</td>
+          <td>977,67 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F052621310000 MMF90LCS 1.5-3000 B3</td>
+          <td><span id="en">Size: 090L - Current voltage: 230V</span><span id="ro">Gabarit: 090L - Tensiune: 230V</span> - RPM: 3000 - P: 1.5Kw</td>
+          <td>1.018,78 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F054341341000 MMF90 L-CS;1.5-1500 B3</td>
+          <td><span id="en">Size: 090L - Current voltage: 230V</span><span id="ro">Gabarit: 090L - Tensiune: 230V</span> - RPM: 1500 - P: 1.5Kw</td>
+          <td>1.049,48 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F053521340000 MMF90L CS 1.84-3000</td>
+          <td><span id="en">Size: 090L - Current voltage: 230V</span><span id="ro">Gabarit: 090L - Tensiune: 230V</span> - RPM: 3000 - P: 1.84Kw</td>
+          <td>1.092,59 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>		
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F052921340000 MMF100CS 1.84-1500 B</td>
+          <td><span id="en">Size: 100 - Current voltage: 230V</span><span id="ro">Gabarit: 100 - Tensiune: 230V</span> - RPM: 3000 - P: 1.84Kw</td>
+          <td>1.380,43 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F053141340000 MMF100CS 2.2-1500B3I</td>
+          <td><span id="en">Size: 100 - Current voltage: 230V</span><span id="ro">Gabarit: 100 - Tensiune: 230V</span> - RPM: 1500 - P: 2.2Kw</td>
+          <td>1.412,81 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr>
+<!-- Start Product -->
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Constructive form:<br> MMF B14 - flange mounted (with threaded holes)</span>
+	<span id="ro">Forma constructie:<br> MMF B14 - constructie cu flansa ( gauri filetate )</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Type:<br> CS - with aluminium cage and load capacitor</span>
+	<span id="ro">Tip:<br> CS - cu carcasa de aluminiu si condensator de sarcina<</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Warranty:<br> 2 years ( transport to and from service not included )</span>
+	<span id="ro">Garantie:<br> 2 ani ( transport de la / spre service nu este inclus )</span>
+   </td>	
+</tr>	
+        <tr>		
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F052327340000 MMF80CS 0.75-1500 B14</td>
+          <td><span id="en">Size: 080 - Current voltage: 230V</span><span id="ro">Gabarit: 080 - Tensiune: 230V</span> - RPM: 1500 - P: 0.75Kw</td>
+          <td>769,33 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr>
+
+<!-- Start Product -->
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Constructive form:<br> MMF B3/B14 - foot mounted/flange mounted (with threaded holes)</span>
+	<span id="ro">Forma constructie:<br> MMF B3/B14 - constructie cu talpa si flansa ( gauri filetate )</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Type:<br> CS - with aluminium cage and load capacitor</span>
+	<span id="ro">Tip:<br> CS - cu carcasa de aluminiu si condensator de sarcina<</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Warranty:<br> 2 years ( transport to and from service not included )</span>
+	<span id="ro">Garantie:<br> 2 ani ( transport de la / spre service nu este inclus )</span>
+   </td>	
+</tr>	
+        <tr>		
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F0N0229340000 MMF63D90CS 0.18-3000</td>
+          <td><span id="en">Size: 063 - Current voltage: 230V</span><span id="ro">Gabarit: 063 - Tensiune: 230V</span> - RPM: 3000 - P: 0.18Kw</td>
+          <td>517,21 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr>		
+<!-- Start Product -->
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Constructive form:<br> MMF B3 Type CS-SIL - foot mounted/flange mounted (with threaded holes)</span>
+	<span id="ro">Forma constructie:<br> MMF B3 Type CS-SIL - constructie cu talpa si flansa ( gauri filetate )</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Type:<br> CS-SIL - with Silumin cage and load capacitor</span>
+	<span id="ro">Tip:<br> CS-SIL - cu carcasa de Silumin si condensator de sarcina</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Warranty:<br> 2 years ( transport to and from service not included )</span>
+	<span id="ro">Garantie:<br> 2 ani ( transport de la / spre service nu este inclus )</span>
+   </td>	
+</tr>	
+        <tr>		
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F0N2041341000 MMF71CS 0.55-3000B3</td>
+          <td><span id="en">Size: 063 - Current voltage: 230V</span><span id="ro">Gabarit: 063 - Tensiune: 230V</span> - RPM: 3000 - P: 0.55Kw</td>
+          <td>587,91 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F054421341000 MMF90LCS 2.2-3000 B3</td>
+          <td><span id="en">Size: 090L - Current voltage: 230V</span><span id="ro">Gabarit: 090L - Tensiune: 230V</span> - RPM: 3000 - P: 2.2Kw</td>
+          <td>1.133,41 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F054041311000 MMF100CS 2.4-3000 B3</td>
+          <td><span id="en">Size: 100 - Current voltage: 230V</span><span id="ro">Gabarit: 100 - Tensiune: 230V</span> - RPM: 3000 - P: 2.4Kw</td>
+          <td>1.391,71 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	   
+	<td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F056021341000 MMF100CS 3-3000 B3</td>
+          <td><span id="en">Size: 100 - Current voltage: 230V</span><span id="ro">Gabarit: 100 - Tensiune: 230V</span> - RPM: 3000 - P: 3Kw</td>
+          <td>1.500,23 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+	<td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F055921341000 MMF100CS 3-1500 B3</td>
+          <td><span id="en">Size: 100 - Current voltage: 230V</span><span id="ro">Gabarit: 100 - Tensiune: 230V</span> - RPM: 1500 - P: 3Kw</td>
+          <td>1.617,25 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr>
+
+<!-- Start Product -->
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Constructive form:<br> MMF B5 - flange mounted (with clearance holes)</span>
+	<span id="ro">Forma constructie:<br> MMF B5 - flansa ( gauri nefiletate )</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Type:<br> CS-SIL - with Silumin cage and load capacitor</span>
+	<span id="ro">Tip:<br> CS-SIL - cu carcasa de Silumin si condensator de sarcina</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Warranty:<br> 2 years ( transport to and from service not included )</span>
+	<span id="ro">Garantie:<br> 2 ani ( transport de la / spre service nu este inclus )</span>
+   </td>	
+</tr>	
+        <tr>		
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F054444341000 MMF90L CS2.2-3000B5I</td>
+          <td><span id="en">Size: 090L - Current voltage: 230V</span><span id="ro">Gabarit: 090L - Tensiune: 230V</span> - RPM: 3000 - P: 2.2Kw</td>
+          <td>1.084,36 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr>	
+<!-- Start Product -->
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Constructive form:<br> MMF B3B5 - foot mounted / flange mounted (with clearance holes)</span>
+	<span id="ro">Forma constructie:<br> MMF B3B5 - constructie cu talpa / flansa ( gauri nefiletate )</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Type:<br> CS-SIL - with Silumin cage and load capacitor</span>
+	<span id="ro">Tip:<br> CS-SIL - cu carcasa de Silumin si condensator de sarcina</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Warranty:<br> 2 years ( transport to and from service not included )</span>
+	<span id="ro">Garantie:<br> 2 ani ( transport de la / spre service nu este inclus )</span>
+   </td>	
+</tr>	
+        <tr>		
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F054425341000 MMF90LCS 2.2-3000 B3</td>
+          <td><span id="en">Size: 090L - Current voltage: 230V</span><span id="ro">Gabarit: 090L - Tensiune: 230V</span> - RPM: 3000 - P: 2.2Kw</td>
+          <td>1.147,11 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr>	
+<!-- Start Product -->
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Constructive form:<br> MMF B14 - flange mounted (with threaded holes)</span>
+	<span id="ro">Forma constructie:<br> MMF B14 - constructie cu flansa ( gauri filetate )</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Type:<br> CS-SIL - with Silumin cage and load capacitor</span>
+	<span id="ro">Tip:<br> CS-SIL - cu carcasa de Silumin si condensator de sarcina</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Warranty:<br> 2 years ( transport to and from service not included )</span>
+	<span id="ro">Garantie:<br> 2 ani ( transport de la / spre service nu este inclus )</span>
+   </td>	
+</tr>	
+        <tr>		
+        <td><span id="en">Single-phase motor</span><span id="ro">Motor monofazat</span> - ( Electroprecizia - Romania ) - model F054152341000 MMF100CS 2.4-1500B14</td>
+          <td><span id="en">Size: 100 - Current voltage: 230V</span><span id="ro">Gabarit: 100 - Tensiune: 230V</span> - RPM: 1500 - P: 2.4Kw</td>
+          <td>1.322,70 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr>	
+	 
+<!-- Start Product -->
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Constructive form:<br> MA-AL B3 - foot mounted</span>
+	<span id="ro">Forma constructie:<br> MA-AL B3 - constructie cu talpa</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Type:<br> MA-AL - with aluminium cage</span>
+	<span id="ro">Tip:<br> MA-AL - cu carcasa de aluminiu</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Warranty:<br> 2 years ( transport to and from service not included )</span>
+	<span id="ro">Garantie:<br> 2 ani ( transport de la / spre service nu este inclus )</span>
+   </td>	
+</tr>	
+        <tr>
+	<td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T05N221370000 MA-AL63 0.18-3000 B3</td>
+          <td><span id="en">Size: 063 - Current voltage: 2/4V</span><span id="ro">Gabarit: 063 - Tensiune: 2/4V</span> - RPM: 3000 - P: 0.18Kw</td>
+          <td>463,71 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+	<td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T05N321370000 MA-AL63 0.18-1500 B3</td>
+          <td><span id="en">Size: 063 - Current voltage: 2/4V</span><span id="ro">Gabarit: 063 - Tensiune: 2/4V</span> - RPM: 1500 - P: 0.18Kw</td>
+          <td>483,14 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+	<td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T05N121370000 MA-AL63D90 0.25-3000</td>
+          <td><span id="en">Size: 063 - Current voltage: 2/4V</span><span id="ro">Gabarit: 063 - Tensiune: 2/4V</span> - RPM: 3000 - P: 0.25Kw</td>
+          <td>485,95 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+	<td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T05N921370000 MAAL63D90 0.25-1500</td>
+          <td><span id="en">Size: 063 - Current voltage: 2/4V</span><span id="ro">Gabarit: 063 - Tensiune: 2/4V</span> - RPM: 1500 - P: 0.25Kw</td>
+          <td>515,67 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+	<td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T0N1221370000 MA-AL71 0.37-1500B3I</td>
+          <td><span id="en">Size: 071 - Current voltage: 2/4V</span><span id="ro">Gabarit: 071 - Tensiune: 2/4V</span> - RPM: 1500 - P: 0.37Kw</td>
+          <td>558,13 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+	<td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T0N1021370000 MA-AL71 0.55-3000B3I</td>
+          <td><span id="en">Size: 071 - Current voltage: 2/4V</span><span id="ro">Gabarit: 071 - Tensiune: 2/4V</span> - RPM: 3000 - P: 0.55Kw</td>
+          <td>559,70 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+	<td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T0N1821370000 MA-AL71 0.75-3000 B3</td>
+          <td><span id="en">Size: 071 - Current voltage: 2/4V</span><span id="ro">Gabarit: 071 - Tensiune: 2/4V</span> - RPM: 3000 - P: 0.75Kw</td>
+          <td>586,37 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+	<td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T0N1621370000 MA-AL71 0.55-1500 B3</td>
+          <td><span id="en">Size: 071 - Current voltage: 2/4V</span><span id="ro">Gabarit: 071 - Tensiune: 2/4V</span> - RPM: 1500 - P: 0.55Kw</td>
+          <td>601,91 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>		
+       <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T0N1721370000 MA-AL71 0.75-1500 B3</td>
+          <td><span id="en">Size: 071 - Current voltage: 2/4V</span><span id="ro">Gabarit: 071 - Tensiune: 2/4V</span> - RPM: 1500 - P: 0.75Kw</td>
+          <td>625,91 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>			
+       <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T052221370000 MA-AL80 0.75-1500 B3</td>
+          <td><span id="en">Size: 080 - Current voltage: 2/4V</span><span id="ro">Gabarit: 080 - Tensiune: 2/4V</span> - RPM: 1500 - P: 0.75Kw</td>
+          <td>669,42 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+       <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T052021370000 MA-AL80 1.1-3000 B3I</td>
+          <td><span id="en">Size: 080 - Current voltage: 2/4V</span><span id="ro">Gabarit: 080 - Tensiune: 2/4V</span> - RPM: 3000 - P: 1.1Kw</td>
+          <td>678,90 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+       <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T052421370000 MA-AL80 0.55-1000 B3</td>
+          <td><span id="en">Size: 080 - Current voltage: 2/4V</span><span id="ro">Gabarit: 080 - Tensiune: 2/4V</span> - RPM: 1000 - P: 0.55Kw</td>
+          <td>703,38 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+       <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T052921370000 MA-AL80 1.5-3000 B3</td>
+          <td><span id="en">Size: 080 - Current voltage: 2/4V</span><span id="ro">Gabarit: 080 - Tensiune: 2/4V</span> - RPM: 3000 - P: 1.5Kw</td>
+          <td>772,89 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>		
+       <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T052821370000 MA-AL80 1.1-1500 B3I</td>
+          <td><span id="en">Size: 080 - Current voltage: 2/4V</span><span id="ro">Gabarit: 080 - Tensiune: 2/4V</span> - RPM: 1500 - P: 1.1Kw</td>
+          <td>773,48 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+       <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T053221370000 MA-AL90 1.5-1500 B3</td>
+          <td><span id="en">Size: 090 - Current voltage: 2/4V</span><span id="ro">Gabarit: 090 - Tensiune: 2/4V</span> - RPM: 1500 - P: 1.1Kw</td>
+          <td>903,52 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+       <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T053021370000 MA-AL90L 2.2-3000 B3</td>
+          <td><span id="en">Size: 090L - Current voltage: 2/4V</span><span id="ro">Gabarit: 090L - Tensiune: 2/4V</span> - RPM: 3000 - P: 2.2Kw</td>
+          <td>958,38 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+       <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T055821370000 MA-AL90L 2.2-1500 B3</td>
+          <td><span id="en">Size: 090L - Current voltage: 2/4V</span><span id="ro">Gabarit: 090L - Tensiune: 2/4V</span> - RPM: 1500 - P: 2.2Kw</td>
+          <td>1.029,80 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+      <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T053821370000 MA-AL90 3-3000 B3 IP</td>
+          <td><span id="en">Size: 090L - Current voltage: 2/4V</span><span id="ro">Gabarit: 090L - Tensiune: 2/4V</span> - RPM: 3000 - P: 3Kw</td>
+          <td>1.118,65 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+       <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T054221370000 MAAL100- 2.2-4PB3</td>
+          <td><span id="en">Size: 100L - Current voltage: 2/4V</span><span id="ro">Gabarit: 100L - Tensiune: 2/4V</span> - RPM: 1500 - P: 2.2Kw</td>
+          <td>1.201,66 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+      <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T054021370000 MA-AL100 3-3000 B3IP55 2/4F</td>
+          <td><span id="en">Size: 100 - Current voltage: 2/4V</span><span id="ro">Gabarit: 100 - Tensiune: 2/4V</span> - RPM: 3000 - P: 3Kw</td>
+          <td>1.246,05 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+      <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T054121370000 MA-AL100 3-1500 B3IP</td>
+          <td><span id="en">Size: 100L - Current voltage: 2/4V</span><span id="ro">Gabarit: 100L - Tensiune: 2/4V</span> - RPM: 1500 - P: 3Kw</td>
+          <td>1.350,11 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+        <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T055021380000 MA-AL112 4-3000 B3IP</td>
+          <td><span id="en">Size: 112M - Current voltage: 400V</span><span id="ro">Gabarit: 112M - Tensiune: 400V</span> - RPM: 3000 - P: 4Kw</td>
+          <td>1.535,84 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+        <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T055121370000 MA-AL112 4-1500 B3IP</td>
+          <td><span id="en">Size: 112M - Current voltage: 2/4V</span><span id="ro">Gabarit: 112M - Tensiune: 2/4V</span> - RPM: 1500 - P: 4Kw</td>
+          <td>1.546,07 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+        <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T055121380000 MA-AL112 4-1500 B3IP</td>
+          <td><span id="en">Size: 112M - Current voltage: 2/4V</span><span id="ro">Gabarit: 112M - Tensiune: 2/4V</span> - RPM: 3000 - P: 4Kw</td>
+          <td>1.548,70 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+        <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T055121380000 MA-AL112 4-1500 B3IP</td>
+          <td><span id="en">Size: 112M - Current voltage: 400V</span><span id="ro">Gabarit: 112M - Tensiune: 400V</span> - RPM: 1500 - P: 4Kw</td>
+          <td>1.604,26 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+       <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T055221370000 MA-AL112 2.2-1000 B3</td>
+          <td><span id="en">Size: 112M - Current voltage: 2/4V</span><span id="ro">Gabarit: 112M - Tensiune: 2/4V</span> - RPM: 1000 - P: 2.2Kw</td>
+          <td>1.618,97 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+        <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T056121380000 MA-AL132 5.5-3000 B3</td>
+          <td><span id="en">Size: 132S - Current voltage: 400V</span><span id="ro">Gabarit: 132S - Tensiune: 400V</span> - RPM: 3000 - P: 5.5Kw</td>
+          <td>1.982,65 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+        <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T056611370000 MA-AL 132S 3-1000 B3</td>
+          <td><span id="en">Size: 132S - Current voltage: 2/4V</span><span id="ro">Gabarit: 132S - Tensiune: 2/4V</span> - RPM: 1000 - P: 3Kw</td>
+          <td>2.048,96 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+        <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T056321380000 MA-AL132 5.5-1500 B3</td>
+          <td><span id="en">Size: 132S - Current voltage: 400V</span><span id="ro">Gabarit: 132S - Tensiune: 400V</span> - RPM: 1500 - P: 5.5Kw</td>
+          <td>2.144,76 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+        <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T056721380000 MA-AL132M 3-750 B3IP</td>
+          <td><span id="en">Size: 132M - Current voltage: 400V</span><span id="ro">Gabarit: 132M - Tensiune: 400V</span> - RPM: 750 - P: 3Kw</td>
+          <td>2.157,75 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+	 <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T056021380000 MA-AL132 7.5-3000 B3</td>
+          <td><span id="en">Size: 132S - Current voltage: 4/6V</span><span id="ro">Gabarit: 132S - Tensiune: 4/6V</span> - RPM: 3000 - P: 7.5Kw</td>
+          <td>2.171,23 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+        <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T056521380000 MA-AL112 4-1000 B3IP</td>
+          <td><span id="en">Size: 132M - Current voltage: 400V</span><span id="ro">Gabarit: 132M - Tensiune: 400V</span> - RPM: 1000 - P: 4Kw</td>
+          <td>2.268,24 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+	 <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T056221380000 MA-AL132 7.5-1500 B3</td>
+          <td><span id="en">Size: 132S - Current voltage: 4/6V</span><span id="ro">Gabarit: 132S - Tensiune: 4/6V</span> - RPM: 1500 - P: 7.5Kw</td>
+          <td>2.462,76 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+        <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T056421380000 MA-AL132M 5.5-1000 B</td>
+          <td><span id="en">Size: 132M - Current voltage: 400V</span><span id="ro">Gabarit: 132M - Tensiune: 400V</span> - RPM: 1000 - P: 5.5Kw</td>
+          <td>2.509,87 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+	 <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T058321380000 MA-AL132 9.2-3000 B3</td>
+          <td><span id="en">Size: 132M - Current voltage: 4/6V</span><span id="ro">Gabarit: 132M - Tensiune: 4/6V</span> - RPM: 3000 - P: 9.2Kw</td>
+          <td>2.569,21 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+	 <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T059521380000 MAAL132M11-3000B3IP5</td>
+          <td><span id="en">Size: 132M - Current voltage: 400V</span><span id="ro">Gabarit: 132M - Tensiune: 400V</span> - RPM: 3000 - P: 11Kw</td>
+          <td>2.573,91 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+	 <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T058221380000 MA-AL132 9.2-1500 B3</td>
+          <td><span id="en">Size: 132M - Current voltage: 4/6V</span><span id="ro">Gabarit: 132M - Tensiune: 4/6V</span> - RPM: 1500 - P: 9.2Kw</td>
+          <td>2.594,17 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+	 <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T059621380000 MAAL132M 11-1500B3IP</td>
+          <td><span id="en">Size: 132M - Current voltage: 400V</span><span id="ro">Gabarit: 132M - Tensiune: 400V</span> - RPM: 1500 - P: 11Kw</td>
+          <td>2.647,48 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>
+	 <td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model TR87201210000 MA-AL132 7.5-1000 B3</td>
+          <td><span id="en">Size: 132S - Current voltage: 4/6V</span><span id="ro">Gabarit: 132S - Tensiune: 4/6V</span> - RPM: 1000 - P: 7.5Kw</td>
+          <td>4.633,25 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr>	
+<!-- Start Product -->
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Constructive form:<br> MA-AL B14 - flange mounted (with threaded holes)</span>
+	<span id="ro">Forma constructie:<br> MA-AL B14 - constructie cu flansa ( gauri filetate )</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Type:<br> MA-AL - with aluminium cage</span>
+	<span id="ro">Tip:<br> MA-AL - cu carcasa de aluminiu</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Warranty:<br> 2 years ( transport to and from service not included )</span>
+	<span id="ro">Garantie:<br> 2 ani ( transport de la / spre service nu este inclus )</span>
+   </td>	
+</tr>	
+        <tr>
+	<td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T05N327370000 MAAL63D90 0.18-1500</td>
+          <td><span id="en">Size: 063 - Current voltage: 2/4V</span><span id="ro">Gabarit: 063 - Tensiune: 2/4V</span> - RPM: 1500 - P: 0.18Kw</td>
+          <td>457,62 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr>
+<!-- Start Product -->
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Constructive form:<br> MA-AL B5 - flange mounted (with clearance holes)</span>
+	<span id="ro">Forma constructie:<br> MA-AL B5 - flansa ( gauri nefiletate )</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Type:<br> MA-AL - with aluminium cage</span>
+	<span id="ro">Tip:<br> MA-AL - cu carcasa de aluminiu</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Warranty:<br> 2 years ( transport to and from service not included )</span>
+	<span id="ro">Garantie:<br> 2 ani ( transport de la / spre service nu este inclus )</span>
+   </td>	
+</tr>	
+        <tr>
+	<td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T0N1123370000 MAAL71 0.37-3000B5 I</td>
+          <td><span id="en">Size: 071 - Current voltage: 2/4V</span><span id="ro">Gabarit: 071 - Tensiune: 2/4V</span> - RPM: 3000 - P: 0.37Kw</td>
+          <td>520,75 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>		
+	<td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T0N1223370000 MAAL71 0.37-1500B5 I</td>
+          <td><span id="en">Size: 071 - Current voltage: 2/4V</span><span id="ro">Gabarit: 071 - Tensiune: 2/4V</span> - RPM: 1500 - P: 0.37Kw</td>
+          <td>537,91 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>		
+	<td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T052423370000 MA-AL80 0.55-1000 B5</td>
+          <td><span id="en">Size: 080 - Current voltage: 2/4V</span><span id="ro">Gabarit: 080 - Tensiune: 2/4V</span> - RPM: 1000 - P: 0.55Kw</td>
+          <td>690,92 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+	<td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T053823370000 MA-AL90 3-3000 B5IP5</td>
+          <td><span id="en">Size: 090L - Current voltage: 2/4V</span><span id="ro">Gabarit: 090L - Tensiune: 2/4V</span> - RPM: 3000 - P: 3Kw</td>
+          <td>690,92 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr><tr>	
+	<td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T055123370000 MA-AL112 4-1500 B5IP</td>
+          <td><span id="en">Size: 112 - Current voltage: 2/4V</span><span id="ro">Gabarit: 112 - Tensiune: 2/4V</span> - RPM: 1500 - P: 4Kw</td>
+          <td>1.532,08 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr>
+
+<!-- Start Product -->
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Constructive form:<br> MF-AL B5 - flange mounted (with clearance holes)</span>
+	<span id="ro">Forma constructie:<br> MF-AL B5 - flansa ( gauri nefiletate )</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Type:<br> MF-AL - three-phase motor with brake</span>
+	<span id="ro">Tip:<br> MF-AL - motor trifazat cu frana</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Warranty:<br> 2 years ( transport to and from service not included )</span>
+	<span id="ro">Garantie:<br> 2 ani ( transport de la / spre service nu este inclus )</span>
+   </td>	
+</tr>	
+        <tr>
+	<td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model S0N9733320000 MF-AL71 0.55-1500B5</td>
+          <td><span id="en">Size: 071 - Current voltage: 2/4V</span><span id="ro">Gabarit: 071 - Tensiune: 2/4V</span> - RPM: 1500 - P: 0.55Kw</td>
+          <td>1.048,45 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr>
+<!-- Start Product -->
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Constructive form:<br> MA-AL B3/B14 - foot mounted/flange mounted (with threaded holes)</span>
+	<span id="ro">Forma constructie:<br> MA-AL B3/B14 - constructie cu talpa si flansa ( gauri filetate )</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Type:<br> MA-AL - with aluminium cage</span>
+	<span id="ro">Tip:<br> MA-AL - cu carcasa de aluminiu</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Warranty:<br> 2 years ( transport to and from service not included )</span>
+	<span id="ro">Garantie:<br> 2 ani ( transport de la / spre service nu este inclus )</span>
+   </td>	
+</tr>	
+        <tr>
+	<td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model T054229370000 MAAL100- 2.2-4PB34</td>
+          <td><span id="en">Size: 100L - Current voltage: 2/4V</span><span id="ro">Gabarit: 100L - Tensiune: 2/4V</span> - RPM: 1500 - P: 2.2Kw</td>
+          <td>1.207,36 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr>
+<!-- Start Product -->
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Constructive form:<br> 2MA-AL B5 - flange mounted (with clearance holes)</span>
+	<span id="ro">Forma constructie:<br> 2MA-AL B5 - flansa ( gauri nefiletate )</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Type:<br> 2MA-AL - three-phase motor with 2 speeds</span>
+	<span id="ro">Tip:<br> 2MA-AL - motor trifazat cu 2 viteze</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Warranty:<br> 2 years ( transport to and from service not included )</span>
+	<span id="ro">Garantie:<br> 2 ani ( transport de la / spre service nu este inclus )</span>
+   </td>	
+</tr>	
+        <tr>
+	<td><span id="en">Three-phase motor</span><span id="ro">Motor trifazat</span> - ( Electroprecizia - Romania ) - model V045204020000 2MA-AL 3/6-8/4 B5IP5</td>
+          <td><span id="en">Size: 132M - Current voltage: 400V</span><span id="ro">Gabarit: 132M - Tensiune: 400V</span> - RPM: 750/1500 - P: 3/6Kw</td>
+          <td>2.668,56 RON / <span id="en">pcs - VAT not included</span><span id="ro">buc - TVA nu este inclus</span></div>
+	</td></tr>
+</tbody>
