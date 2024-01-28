@@ -1,0 +1,242 @@
+<tbody>
+    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Pret</span></th></tr>  
+    <tr>
+    <td><span id="en">Stamps - Year 2004 - 1 value set Michael the Brave </span><span id="ro">Timbre - An 2004 - set 1 valoare Mihai Viteazul </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 21000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 21000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >0.4 RON / 1<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 1 value set Christmas 2004 </span><span id="ro">Timbre - An 2004 - set 1 valoare Craciun 2004 </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 5000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 5000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >0.6 RON / 1<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 1 value set House of Savings and Deposits - 140 years since its foundation </span><span id="ro">Timbre - An 2004 - set 1 valoare Casa de Economii si Consemnațiuni – 140 de ani de la înființare </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 5000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 5000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >0.6 RON / 1<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 2 values set Lacquered objects and ceramics</span><span id="ro">Timbre - An 2004 - set 2 valori Obiecte lăcuite și ceramică</span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 5000L, 5000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 5000L, 5000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >1.5 RON / 2<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 2 values set Firemen </span><span id="ro">Timbre - An 2004 - set 2 valori Pompieri </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 12000L, 12000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 12000L, 12000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >2.5 RON / 2<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 1 value set 100 years since the birth of Johnny Weissmüller (Tarzan) </span><span id="ro">Timbre - An 2004 - set 1 valoare 100 de ani de la naşterea lui Johnny Weissmüller (Tarzan) </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 210000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 210000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >2.6 RON / 1<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 1 value set Centenary of FIFA 2004 – football and the history of FIFA </span><span id="ro">Timbre - An 2004 - set 1 valoare Centenar FIFA 2004 – fotbalul si istoria FIFA </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 310000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 310000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >3.5 RON / 1<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 2 values set Romanian Postmark Day </span><span id="ro">Timbre - An 2004 - set 2 valori Ziua Mărcii Poștale Românești </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 10000L, 21000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 10000L, 21000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >3.5 RON / 1<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 1 value set Valentine s Day </span><span id="ro">Timbre - An 2004 - set 1 valoare Ziua indrăgostiților (Valentine s Day) </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 21000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 21000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >3.5 RON / 1<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 3 values set World Organizations </span><span id="ro">Timbre - An 2004 - set 3 valori Organizații Mondiale </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 12000L, 16000L, 19000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 12000L, 16000L, 19000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >5.2 RON / 3<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 2 values set Ten years from the death of Idel Ianchelevici</span><span id="ro">Timbre - An 2004 - set 2 valori Zece ani de la moartea lui Idel Ianchelevici</span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 21000L, 31000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 21000L, 31000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >5.5 RON / 2<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 1 value set Ilie Nastase – An Ace among Aces! </span><span id="ro">Timbre - An 2004 - set 1 valoare Ilie Nastase – Un As intre asi! </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 10000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 10000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >6 RON / 1<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 2 values set 550 years since the birth of Amerigo Vespucci </span><span id="ro">Timbre - An 2004 - set 2 valori 550 de ani de la nașterea lui Amerigo Vespucci </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 16000L, 31000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 16000L, 31000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >6.3 RON / 2<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 1 value set 75 years since the zeppelin s flight over Brașov </span><span id="ro">Timbre - An 2004 - set 1 valoare 75 de ani de la zborul zeppelinului deasupra Brașovului </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 31000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 31000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >6.5 RON / 1<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 4 values set Famous people anniversaries (II) </span><span id="ro">Timbre - An 2004 - set 4 valori Aniversări personalități (II) </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 2000L, 3000L, 6000L, 56000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 2000L, 3000L, 6000L, 56000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >8 RON / 4<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	    
+    <td><span id="en">Stamps - Year 2004 - 2 values set 23rd Universal Postal Union Congress – Bucharest 2004, Romania</span><span id="ro">Timbre  - An 2004  - set 2 valori Al 23-lea Congres Uniunea Poștală Universală – București 2004, România</span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 31000L, 31000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 31000L, 31000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >8.4 RON / 2<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 4 values set Famous people anniversaries (I) </span><span id="ro">Timbre - An 2004 - set 4 valori Aniversări personalități (I) </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 4000L, 16000L, 21000L, 31000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 4000L, 16000L, 21000L, 31000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >9.1 RON / 4<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 4 values set Romanian Roses </span><span id="ro">Timbre - An 2004 - set 4 valori Emisunea Trandafiri Românești </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 8000L, 15000L, 25000L, 36000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 8000L, 15000L, 25000L, 36000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >9.5 RON / 4<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 4 values set Fragments from Trajan s Column (I) </span><span id="ro">Timbre - An 2004 - set 4 valori Fragmente din Columna lui Traian (I) </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 7000L, 12000L, 19000L, 56000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 7000L, 12000L, 19000L, 56000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >10.5 RON / 4<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 3 values set Romania s golden athletes </span><span id="ro">Timbre - An 2004 - set 3 valori Sportivi “de aur” ai României </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 5000L, 33000L, 77000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 5000L, 33000L, 77000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >17 RON / 3<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 6 values set Universal Postal Union congress</span><span id="ro">Timbre  - An 2004  - set 6 valori Congrese Uniunea Poștală Universală</span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 8000L, 10000L, 19000, 31000L, 47000L, 77000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 8000L, 10000L, 19000, 31000L, 47000L, 77000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >20 RON / 6<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	    
+    <td><span id="en">Stamps - Year 2004 - 6 values set Modern Trains </span><span id="ro">Timbre - An 2004 - set 6 valori Trenuri moderne </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 4000L, 6000L, 16000L, 47000L, 56000L, 100000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 4000L, 6000L, 16000L, 47000L, 56000L, 100000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >20 RON / 6<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2004 - 3 values set Fragments from Trajan s Column (II) </span><span id="ro">Timbre - An 2004 - set 3 valori Fragmente din Columna lui Traian (II) </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 21000L, 31000L, 145000L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 21000L, 31000L, 145000L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >24 RON / 3<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2006 - 1 value set 11th High-Level Meeting of the International Organization of La Francophonie - Bucharest 2006 </span><span id="ro">Timbre - An 2006 - set 1 valoare A XI- A Reuniune La Nivel Înalt A Organizației Internaționale A Francofoniei – Bucureşti 2006 </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 2.2L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 2.2L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >1.4 RON / 1<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2006 - 1 value set National Museum of Village Life Dimitrie Gusti 70 YEARS </span><span id="ro">Timbre - An 2006 - set 1 valoare Muzeul Național al Satului Dimitrie Gusti 70 ANI </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 2.2L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 2.2L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >2.6 RON / 1<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2006 - 2 values set Romania and Bulgaria together in the European Union – Joint Issue Romania-Bulgaria </span><span id="ro">Timbre - An 2006 - set 2 valori România şi Bulgaria împreunã în Uniunea Europeanã – Emisiune comunã România-Bulgaria </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 0.5L, 2.1L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 0.5L, 2.1L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >3.1 RON / 3<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	 
+    <td><span id="en">Stamps - Year 2006 - 3 values set Anniversaries – Commemorations Personalities (II) </span><span id="ro">Timbre - An 2006 - set 3 valori Aniversãri – Comemorãri Personalitãți (II) </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 0.5L, 1L, 1.2L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 0.5L, 1L, 1.2L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >3.2 RON / 3<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	 
+    <td><span id="en">Stamps - Year 2006 - 1 value set June 26 – International Day Against Illicit Drug Use and Trafficking </span><span id="ro">Timbre - An 2006 - set 1 valoare 26 Iunie – Ziua Internaţională Împotriva Consumului şi Traficului Ilicit de Droguri </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 2.2L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 2.2L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >4 RON / 1<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2006 - 4 values set Protected Birds - Eurasian Shoveler (WWF - World Wide Fund For Nature) </span><span id="ro">Timbre - An 2006 - set 4 valori Pãsãri Protejate – Lopãtarul Eurasian (WWF – World Wide Fund For Nature) </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 0.8L, 0.8L, 0.8L, 0.8L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 0.8L, 0.8L, 0.8L, 0.8L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >4.5 RON / 4<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	     
+    <td><span id="en">Stamps - Year 2006 - 4 values set Romanian Ceramics – Wedding jugs (III) </span><span id="ro">Timbre - An 2006 - set 4 valori Ceramicã Româneascã – Ulcioare de nuntã (III) </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 0.3L, 0.7L, 1L, 2.2L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 0.3L, 0.7L, 1L, 2.2L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >5 RON / 4<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	 
+    <td><span id="en">Stamps - Year 2006 - 4 values set Romanian Postmark Day – Decebal (106 – 2006) </span><span id="ro">Timbre - An 2006 - set 4 valori Ziua Mãrcii Poştale Româneşti – Decebal (106 – 2006) </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 0.3L, 0.5L, 1.2L, 3.1L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 0.3L, 0.5L, 1.2L, 3.1L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >6.1 RON / 4<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	 
+    <td><span id="en">Stamps - Year 2006 - 4 values set The centenary of the Museum of the Romanian Peasant </span><span id="ro">Timbre - An 2006 - set 4 valori Centenarul Muzeului Țãranului Român </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 0.4L, 0.7L, 1.6L, 3.1L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 0.4L, 0.7L, 1.6L, 3.1L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >6.1 RON / 4<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	 
+    <td><span id="en">Stamps - Year 2006 - 4 values set Great Contemporary Romanian Actors </span><span id="ro">Timbre - An 2006 - set 4 valori Mari Actori Români Contemporani </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 0.4L, 1L, 1.5L, 2.2L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 0.4L, 1L, 1.5L, 2.2L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >6.1 RON / 4<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	 
+    <td><span id="en">Stamps - Year 2006 - 3 values set Contemporary Romanian artists - Ciprian Paleologu - The Human Project </span><span id="ro">Timbre - An 2006 - set 3 valori Artişti români contemporani – Ciprian Paleologu – Proiectul Uman </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 0.3L, 1.5L, 3.6L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 0.3L, 1.5L, 3.6L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >6.5 RON / 4<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	 
+    <td><span id="en">Stamps - Year 2006 - 4 values set The knightly orders of Romania </span><span id="ro">Timbre - An 2006 - set 4 valori Ordinele României </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 0.3L, 0.8L, 2.2L, 2.5L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 0.3L, 0.8L, 2.2L, 2.5L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >7 RON / 4<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	 
+    <td><span id="en">Stamps - Year 2006 - 6 values set Minerals </span><span id="ro">Timbre - An 2006 - set 6 valori Minerale </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 0.3L, 0.5L, 1L, 1.2L, 1.5L, 2.2L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 0.3L, 0.5L, 1L, 1.2L, 1.5L, 2.2L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >8 RON / 6<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2006 - 6 values set Centenary of the General Exhibition and the Carol I Park in Bucharest - 1906 </span><span id="ro">Timbre - An 2006 - set 6 valori Centenarul Expoziției Generale şi al Parcului Carol I din Bucuresti – 1906 </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 0.3L, 0.5L, 1L, 1.2L, 1.6L, 2.2L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 0.3L, 0.5L, 1L, 1.2L, 1.6L, 2.2L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >8.3 RON / 6<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	 
+    <td><span id="en">Stamps - Year 2007 - 1 value set 140 years since the creation of the Modern Romanian Monetary System </span><span id="ro">Timbre - An 2007 - set 1 valoare 140 de ani de la crearea Sistemului Monetar Românesc Modern </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 3.9L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 3.9L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >4.7 RON / 1<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2007 - 1 value set Romania in the European Union </span><span id="ro">Timbre - An 2007 - set 1 valoare România În Uniunea Europeanã </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 2.2L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 2.2L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >2.6 RON / 1<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2007 - 1 value set International Holocaust Remembrance Day </span><span id="ro">Timbre - An 2007 - set 1 valoare Ziua Internaționalã de Comemorare A Holocaustului</span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 3.3L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 3.3L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >4 RON / 1<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2007 - 1 value set 110 Years Since the Laying of the Foundation Stone of the CEC Palace </span><span id="ro">Timbre - An 2007 - set 1 valoare 110 Ani De La Punerea Pietrei De Temelie A Palatului CEC </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 3.9L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 3.9L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >5.7 RON / 1<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2007 - 4 values set Romanian Ceramics – Peasant Plates (I) </span><span id="ro">Timbre - An 2007 - set 4 valori Ceramicã Româneascã – Farfurii Țãrãneşti (I) </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 0.7L, 1L, 2.1L, 2.2L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 0.7L, 1L, 2.1L, 2.2L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >7.4 RON / 4<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	 
+    <td><span id="en">Stamps - Year 2007 - 4 values set Romanian Ceramics – Peasant Plates (II) </span><span id="ro">Timbre - An 2007 - set 4 valori Ceramicã Româneascã – Farfurii Țãrãneşti (II) </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 0.7L, 0.8L, 1.6L, 3.1L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 0.7L, 0.8L, 1.6L, 3.1L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >7.5 RON / 4<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	
+    <td><span id="en">Stamps - Year 2007 - 4 values set Famous people anniversaries </span><span id="ro">Timbre - An 2007 - set 4 valori Aniversãri Personalitãți </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 0.6L, 0.8L, 2.1L, 3.5L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 0.6L, 0.8L, 2.1L, 3.5L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >7.8 RON / 4<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	 
+    <td><span id="en">Stamps - Year 2007 - 2 values set Europe 2007 – Centenary of Scouts </span><span id="ro">Timbre - An 2007 - set 2 valori Europa 2007 – Centenarul Cercetăşiei </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 2.1L, 7.7L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 2.1L, 7.7L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >11.8 RON / 2<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	 
+    <td><span id="en">Stamps - Year 2007 - 6 values set Old Bucharest </span><span id="ro">Timbre - An 2007 - set 6 valori Vechiul Bucureşti </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 0.3L, 0.5L, 0.7L, 1.6L, 3.1L, 4.7L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 0.3L, 0.5L, 0.7L, 1.6L, 3.1L, 4.7L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >13.1 RON / 4<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	 
+    <td><span id="en">Stamps - Year 2007 - 6 values set Wild Orchids From Romania </span><span id="ro">Timbre - An 2007 - set 6 valori Orhidee Sãlbatice Din România </span></td>
+    <td><span id="en">Supplier: Romfilatelia - Romania / Values: 0.3L, 1.2L, 1.6L, 2.5L, 2.7L, 6L</span><span id="ro">Furnizor: Romfilatelia - România / Valori: 0.3L, 1.2L, 1.6L, 2.5L, 2.7L, 6L</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >17.4 RON / 4<span id="en">pcs</span><span id="ro">buc</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    </tr><tr>	 
+    
+
+</tbody>
+
