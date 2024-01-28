@@ -137,11 +137,18 @@ $(document).ready(function() {
 <script>
 $(document).ready(function () { 
     // Grab liquid fuels info on click start
-    $("#liquidfuelsbtn").click(function(){
-      $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/liquidfuels.txt", success: function(result){
-      $("#liquidfuels").html(result);
-      }});
-    });
+    $("#liquidfuelsbtn").click(function() {
+    if ($("#liquidfuels").hasClass("clickedliquidfuels")) {
+        // already been clicked once, hide it
+        $("#liquidfuels").html("");
+        $( "#liquidfuels" ).removeClass( "clickedliquidfuels" )
+    }else {
+        // first time this is clicked, mark it
+        $("#liquidfuels").addClass("clickedliquidfuels");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/liquidfuels.txt", success: function(result){
+         $("#liquidfuels").html(result);
+        }});
+    }
     // Grab liquid fuels info on click end
 });
 </script>
