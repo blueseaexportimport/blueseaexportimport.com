@@ -1,0 +1,610 @@
+<tbody>
+<tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Pret</span></th></tr>   
+<tr>	
+    <td><span id="en">A4 Maths Notepad 70g/mp 80sheets</span><span id="ro">Caiet A4 matematică 70g/mp 80foi</span></td>
+    <td><span id="en">Supplier: Herlitz - Romania</span><span id="ro">Furnizor: Herlitz - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >9.31 RON / 5<span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">A4 biology notepad 60g/mp 24sheets</span><span id="ro">Caiet biologie 60g/mp 24foi</span></td>
+    <td><span id="en">Supplier: Herlitz - Romania / 23x16.7cm</span><span id="ro">Furnizor: Herlitz - Romania / 23x16.7cm</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >2.71 RON / 1<span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">A4 biology music 60g/mp 24sheets</span><span id="ro">Caiet muzică 60g/mp 24foi</span></td>
+    <td><span id="en">Supplier: Herlitz - Romania / 23x16.7cm</span><span id="ro">Furnizor: Herlitz - Romania / 23x16.7cm</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >2.71 RON / 1<span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">A4 geography notepad 60g/mp 24sheets</span><span id="ro">Caiet geografie 60g/mp 24foi</span></td>
+    <td><span id="en">Supplier: Herlitz - Romania / 23x16.7cm</span><span id="ro">Furnizor: Herlitz - Romania / 23x16.7cm</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >2.71 RON / 1<span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Geometry set</span><span id="ro">Set geometrie</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >17.01 RON / set - <span id="en">small</span><span id="ro">mic</span></div>   
+    <div style="border-bottom:1px solid #FFF;" >18 RON / set - <span id="en">medium</span><span id="ro">mediu</span></div>   
+    <div style="border-bottom:1px solid #FFF;" >19 RON / set - <span id="en">large</span><span id="ro">mare</span></div>   
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Compass</span><span id="ro">Compas</span></td>
+    <td><span id="en">Supplier: Herlitz - Romania</span><span id="ro">Furnizor: Herlitz - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >10.95 RON / <span id="en">pcs</span><span id="ro">buc</span></div>   
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Plastic ruler</span><span id="ro">Riglă plastic</span></td>
+    <td><span id="en">Supplier: Herlitz - Romania</span><span id="ro">Furnizor: Herlitz - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >2.4 RON / 1 <span id="en">pcs - 15cm</span><span id="ro">buc - 15cm</span></div>   
+    <div style="border-bottom:1px solid #FFF;" >2.5 RON / 1 <span id="en">pcs - 17cm</span><span id="ro">buc - 17cm</span></div>   
+    <div style="border-bottom:1px solid #FFF;" >3.11 RON / 1 <span id="en">pcs - 20cm</span><span id="ro">buc - 20cm</span></div>   
+    <div style="border-bottom:1px solid #FFF;" >3.3 RON / 1 <span id="en">pcs - 30cm</span><span id="ro">buc - 30cm</span></div>
+    <div style="border-bottom:1px solid #FFF;" >5.7 RON / 1 <span id="en">pcs - 40cm</span><span id="ro">buc - 40cm</span></div>
+    <div style="border-bottom:1px solid #FFF;" >8.6 RON / 1 <span id="en">pcs - 50cm</span><span id="ro">buc - 50cm</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Drawing block A4 180 g Girafa</span><span id="ro">Bloc de desen A4 180 g Girafa</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania / 16 Sheets / White paper aquarell</span><span id="ro">Furnizor: Koh-I-Noor - Romania / 16 foi / Hârtie albă aquarell </span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >18.6 RON / <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Colored paper set Pelikan A4 120g/m2 - Summer 20sheets</span><span id="ro">Hârtie colorată set Pelikan 120g/m2 - Summer 20foi</span></td>
+    <td><span id="en">Supplier: Herlitz - Romania</span><span id="ro">Furnizor: Herlitz - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >16.9 RON / 1 top</div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Colored paper set Pelikan A4 120g/m2 - Rainbow 20sheets</span><span id="ro">Hârtie colorată set Pelikan 120g/m2 - Rainbow  20foi</span></td>
+    <td><span id="en">Supplier: Herlitz - Romania</span><span id="ro">Furnizor: Herlitz - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >16.9 RON / 1 top</div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Cube notes - Multicolor 700sheets</span><span id="ro">Bloc cub notițe - Multicolor 700foi</span></td>
+    <td><span id="en">Supplier: Herlitz - Romania</span><span id="ro">Furnizor: Herlitz - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >27.49 RON / 1 <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Disposable needlepoint pen Croma - 100pcs</span><span id="ro">Pix unică folosință Croma - 100pcs</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >0.8 RON / 1 <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Fountain pen Octopus - 36pcs</span><span id="ro">Pix unică folosință Octopus - 36pcs</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >7 RON / 1 <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Bottled pen ink 50g</span><span id="ro">Călimară cerneală 50g</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >7.6 lei / 1 <span id="en">pcs - blue</span><span id="ro">buc - albastru</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >7.6 RON / 1 <span id="en">pcs - red</span><span id="ro">buc - rosu</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >8.7 RON / 1 <span id="en">pcs - green</span><span id="ro">buc - verde</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >8.7 RON / 1 <span id="en">pcs - black</span><span id="ro">buc - negru</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Rollerball gel pen - metalic 0.7mm</span><span id="ro">Pix cu gel - metalic 0.7mm</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >2.25 RON / 1 <span id="en">pcs - blue</span><span id="ro">buc - albastru</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >2.25 RON / 1 <span id="en">pcs - golder</span><span id="ro">buc - auriu</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >2.25 RON / 1 <span id="en">pcs - black</span><span id="ro">buc - negru</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >2.25 RON / 1 <span id="en">pcs - red</span><span id="ro">buc - rosu</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >2.25 RON / 1 <span id="en">pcs - green</span><span id="ro">buc - verde</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >2.25 RON / 1 <span id="en">pcs - brown</span><span id="ro">buc - maro</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >2.25 RON / 1 <span id="en">pcs - silver</span><span id="ro">buc - argintiu</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >2.25 RON / 1 <span id="en">pcs - magenta</span><span id="ro">buc - magenta</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >2.25 RON / 1 <span id="en">pcs - purple</span><span id="ro">buc - violet</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >2.25 RON / 1 <span id="en">pcs - light blue</span><span id="ro">buc - albastru deschis</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Writing pencil 7x175mm graphite thickness 2mm</span><span id="ro">Creion scris 7x175mm grosime grafit 2mm</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >0.5 RON / 1 <span id="en">pcs</span><span id="ro">buc</span></div>   
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Mines for mechanical pencils</span><span id="ro">Rezerve creion mecanic</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >3.2 RON / 1 <span id="en">pcs</span><span id="ro">buc</span> 0.5mm</div>   
+    <div style="border-bottom:1px solid #FFF;" >5 RON / 1 <span id="en">pcs</span><span id="ro">buc</span> 0.7mm</div>   
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Mechanical pencil Swell School</span><span id="ro">Creion mecanic Swell School</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >11 RON / 1 <span id="en">pcs</span><span id="ro">buc</span> 0.5mm</div>   
+    <div style="border-bottom:1px solid #FFF;" >11 RON / 1 <span id="en">pcs</span><span id="ro">buc</span> 0.7mm</div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Rubber eraser Elefant 80pcs set</span><span id="ro">Radieră Elefant set 80buc</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >80 RON / 80 <span id="en">pcs</span><span id="ro">buc</span> 26x18,5x8</div>   
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Sharpener Dubla - metalic</span><span id="ro">Ascuțitoare Dubla - metalică</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >4.2 RON / 1 <span id="en">pcs</span><span id="ro">buc</span></div>   
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Modelling clay 10 colors 200g</span><span id="ro">Plastilină 10 culori 200g</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >9.81 RON / 1 <span id="en">pcs</span><span id="ro">buc</span></div>   
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Colored pencils set</span><span id="ro">Creioane color</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >5.5 RON / 1 <span id="en">pcs - 6 colors</span><span id="ro">buc - 6 culori</span></div>   
+    <div style="border-bottom:1px solid #FFF;" >19.5 RON / 1 <span id="en">pcs - 24 colors</span><span id="ro">buc - 24 culori</span></div>   
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Coloring markers pens ( Fiber pens ) BEES</span><span id="ro">Carioci BEES</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >5.2 RON / 1 <span id="en">pcs - 6 colors</span><span id="ro">buc - 6 culori</span></div>   
+    <div style="border-bottom:1px solid #FFF;" >8.7 RON / 1 <span id="en">pcs - 10 colors</span><span id="ro">buc - 10 culori</span></div>   
+    <div style="border-bottom:1px solid #FFF;" >11.2 RON / 1 <span id="en">pcs - 12 colors</span><span id="ro">buc - 12 culori</span></div>   
+    <div style="border-bottom:1px solid #FFF;" >17.5 RON / 1 <span id="en">pcs - 18 colors</span><span id="ro">buc - 18 culori</span></div>   
+    <div style="border-bottom:1px solid #FFF;" >24.5 RON / 1 <span id="en">pcs - 24 colors</span><span id="ro">buc - 24 culori</span></div>   
+    <div style="border-bottom:1px solid #FFF;" >29 RON / 1 <span id="en">pcs - 30 colors</span><span id="ro">buc - 30 culori</span></div>   
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Watercolors set 12 colors Girafa</span><span id="ro">Acuarele 12 culori Girafa</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >12.9 RON / 1 <span id="en">pcs - 12 colors</span><span id="ro">buc - 12 culori</span></div>   
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Tempera colors Girafa 16ml</span><span id="ro">Culori Tempera Girafa 16ml</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >22.9 RON / 1 <span id="en">pcs - 6 colors</span><span id="ro">buc - 6 culori</span></div>   
+    <div style="border-bottom:1px solid #FFF;" >36.9 RON / 1 <span id="en">pcs - 10 colors</span><span id="ro">buc - 10 culori</span></div>   
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Wax pencil - round shape tips</span><span id="ro">Creioane cerate - varfuri forma rotundă</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >24.8 RON / 1 <span id="en">pcs - 48 colors</span><span id="ro">buc - 48 culori</span></div>   
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Paint brushes 5pcs set Pelikan</span><span id="ro">Set pensule pictat Pelikan set 5buc</span></td>
+    <td><span id="en">Supplier: Herlitz - Romania</span><span id="ro">Furnizor: Herlitz - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >13.69 RON / set</div>   
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Whiteboard market 741 Pelikan</span><span id="ro">Marker whiteboard 741 Pelikan</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >4.38 RON / 1 <span id="en">pcs - black</span><span id="ro">buc - negru</span></div>   
+    <div style="border-bottom:1px solid #FFF;" >4.38 RON / 1 <span id="en">pcs - blue</span><span id="ro">buc - albastru</span></div>   
+    <div style="border-bottom:1px solid #FFF;" >4.38 RON / 1 <span id="en">pcs - rosu</span><span id="ro">buc - red</span></div>   
+    <div style="border-bottom:1px solid #FFF;" >4.38 RON / 1 <span id="en">pcs - green</span><span id="ro">buc - verde</span></div>   
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Whiteboard magnetic sponge Spree</span><span id="ro">Burete magnetic pentru whiteboard Spree</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >5.5 RON / 1 <span id="en">pcs</span><span id="ro">buc</span></div>      
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">White chalk set 12pcs</span><span id="ro">Cretă albă tablă 12pcs</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >9.9 RON / 1 <span id="en">pcs</span><span id="ro">buc</span></div>      
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">School backpack Evolution</span><span id="ro">Ghiozdan școlar</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >65 RON / <span id="en">pcs - blue</span><span id="ro">buc - albastru</span></div>      
+    <div style="border-bottom:1px solid #FFF;" >65 RON / <span id="en">pcs - pink</span><span id="ro">buc - roz</span></div>
+    <div style="border-bottom:1px solid #FFF;" >65 RON / <span id="en">pcs - green</span><span id="ro">buc - verde</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Magnetic whiteboard SR EN 14434:2010</span><span id="ro">Tablă whiteboard magnetică SR EN 14434:2010</span></td>
+    <td><span id="en">Supplier: Eurodidactica - Romania</span><span id="ro">Furnizor: Eurodidactica - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >678.30 RON / <span id="en">pcs</span><span id="ro">buc</span></div>      
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Office fluid corrector 20ml Spree</span><span id="ro">Corector fluid birotică 20ml Spree</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >3.9 RON / <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Recycled Cardboard folder with rail Herlitz</span><span id="ro">Dosar carton reciclat cu șină Herlitz</span></td>
+    <td><span id="en">Supplier: Herlitz - Romania</span><span id="ro">Furnizor:  Herlitz - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >2.36 RON / <span id="en">pcs - yellow</span><span id="ro">buc - galben</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >2.36 RON / <span id="en">pcs - orange</span><span id="ro">buc - portocaliu</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >2.36 RON / <span id="en">pcs - red</span><span id="ro">buc - rosu</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >2.36 RON / <span id="en">pcs - green</span><span id="ro">buc - verde</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Plastic punched pockets A4 Spree 100pcs</span><span id="ro">Folie documente Spree A4 100pcs</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >20 RON / <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Folder binder A4 material PP</span><span id="ro">Biblioraft A4 material PP</span></td>
+    <td><span id="en">Supplier: Herlitz - Romania</span><span id="ro">Furnizor: Herlitz - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >11.52 RON / <span id="en">pcs</span><span id="ro">buc</span> 7.5cm</div>  
+     <div style="border-bottom:1px solid #FFF;" >11.52 RON / <span id="en">pcs</span><span id="ro">buc</span> 5cm</div> 
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Plastic PP folder with rail Herlitz</span><span id="ro">Dosar plastic PP cu șină</span></td>
+    <td><span id="en">Supplier: Herlitz - Romania</span><span id="ro">Furnizor:  Herlitz - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >1.59 RON / <span id="en">pcs - yellow</span><span id="ro">buc - galben</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >1.59 RON / <span id="en">pcs - orange</span><span id="ro">buc - portocaliu</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >1.59 RON / <span id="en">pcs - red</span><span id="ro">buc - rosu</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >1.59 RON / <span id="en">pcs - green</span><span id="ro">buc - verde</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >1.59 RON / <span id="en">pcs - light blue</span><span id="ro">buc - bleumarin</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >1.59 RON / <span id="en">pcs - white</span><span id="ro">buc - alb</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >1.59 RON / <span id="en">pcs - black</span><span id="ro">buc - negru</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >1.59 RON / <span id="en">pcs - blue</span><span id="ro">buc - albastru</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Filing strip Spree 150x34mm</span><span id="ro">Alonje dosare PP Spree 150x34mm</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >0.5 RON / <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Blue indigo paper Concorde A4 25sheets</span><span id="ro">Hârtie indigo albastru Concorde 25foi</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >17.01 RON / 1 top</div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Black indigo paper Concorde A4 25sheets</span><span id="ro">Hârtie indigo Concorde negru 25foi</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >17.01 RON / 1 top</div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Staple remover with blocking mechanism Spree</span><span id="ro">Decapsator cu blocator Spree</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >3.5 RON / <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Office hole punch Spree 10sheets</span><span id="ro">Perforator Birou Spree 10coli</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania</span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >16.2 RON / <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Stapler Spree 12sheets - No. 10 staples</span><span id="ro">Capsator Spree 12coli - Capse nr. 10</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania </span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >8.5 RON / <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Staples set - No. 10 Spree 1000pcs</span><span id="ro">Rezerve capse nr. 10 capsator 1000pcs</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania </span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >2.3 RON / <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Permanent marker - 2 tips</span><span id="ro">Marker permanent - 2 varfuri</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania </span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >2.3 RON / <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Paper clips 100pcs</span><span id="ro">Agrafe birou 100pcs</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania </span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >2.7 RON / <span id="en">pcs</span><span id="ro">buc</span> 26mm</div>  
+    <div style="border-bottom:1px solid #FFF;" >3.3 RON / <span id="en">pcs</span><span id="ro">buc</span> 30mm</div>
+    <div style="border-bottom:1px solid #FFF;" >3.5 RON / <span id="en">pcs</span><span id="ro">buc</span> 50mm</div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Push pins 20pcs different colors</span><span id="ro">Pioneze pentru tabla pluta 20pcs culori diferite</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania </span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >2.4 RON / <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Thumbtacks 40pcs metalic </span><span id="ro">Pioneze metalice 40pcs metalic</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania </span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >2.4 RON / <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Pearl pins - different colors 32mm</span><span id="ro">Ace gamalie - culori diferite 32mm</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania </span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >2.4 RON / 25<span id="en">pcs box</span><span id="ro">buc cutie</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Office pins 28mm</span><span id="ro">Ace gamalie 28mm</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania </span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >2.4 RON / <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Rubber bands 50g 1.4x1.2x55mm</span><span id="ro">Elastic 50g 1.4x1.2x55mm</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania </span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >2.4 RON / <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Elastic for money 100g</span><span id="ro">Elastic bani 100g</span></td>
+    <td><span id="en">Supplier: Lecom - Romania </span><span id="ro">Furnizor: Lecom - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >5.41 RON / <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Non-slip sponge with glycerine</span><span id="ro">Buretieră cu glicerină</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania </span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >12 RON / <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Binder clips 12x12pcs</span><span id="ro">Clipsuri metalice 12x12pcs</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania </span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >0.4 RON / <span id="en">pcs</span><span id="ro">buc</span> 15mm</div>  
+     <div style="border-bottom:1px solid #FFF;" >0.5 RON / <span id="en">pcs</span><span id="ro">buc</span> 19mm</div>
+     <div style="border-bottom:1px solid #FFF;" >0.8 RON / <span id="en">pcs</span><span id="ro">buc</span> 25mm</div>
+     <div style="border-bottom:1px solid #FFF;" >1 RON / <span id="en">pcs</span><span id="ro">buc</span> 32mm</div>
+     <div style="border-bottom:1px solid #FFF;" >1.59 RON / <span id="en">pcs</span><span id="ro">buc</span> 41mm</div>
+     <div style="border-bottom:1px solid #FFF;" >1.9 RON / <span id="en">pcs</span><span id="ro">buc</span> 51mm</div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Stamp pad ink 50g</span><span id="ro">Tuș stampilă 50g</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania </span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >10 RON / <span id="en">pcs - blue</span><span id="ro">buc - albastru</span></div>  
+     <div style="border-bottom:1px solid #FFF;" >10 RON / <span id="en">pcs - red</span><span id="ro">buc - roșu</span></div>
+     <div style="border-bottom:1px solid #FFF;" >10 RON / <span id="en">pcs - black</span><span id="ro">buc - negru</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Stamp pad Koh-I-Noor</span><span id="ro">Tușieră stampilă Koh-I-Noor</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania </span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >14.4 RON / <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Photo paper A4</span><span id="ro">Hârtie foto A4</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania </span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >45.9 RON / 20<span id="en">pcs - glossy</span><span id="ro">buc - lucioasă</span> 150g</div>  
+    <div style="border-bottom:1px solid #FFF;" >52.9 RON / 20<span id="en">pcs - glossy</span><span id="ro">buc - lucioasă</span> 200g</div>  
+    <div style="border-bottom:1px solid #FFF;" >37.8 RON / 50<span id="en">pcs - matte</span><span id="ro">buc - mată</span> 120g</div>  
+    <div style="border-bottom:1px solid #FFF;" >50.8 RON / 50<span id="en">pcs - matte</span><span id="ro">buc - mată</span> 190g</div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Clipboard material PP plastic A4</span><span id="ro">Clipboard material plastic PP A4</span></td>
+    <td><span id="en">Supplier: Koh-I-Noor - Romania </span><span id="ro">Furnizor: Koh-I-Noor - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >9.31 RON / <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Graph paper A4 80g</span><span id="ro">Hârtie milimetrică A4 80g</span></td>
+    <td><span id="en">Supplier: Herlitz - Romania </span><span id="ro">Furnizor: Herlitz - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >12.32 RON / <span id="en">pcs</span><span id="ro">buc</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Thermal paper rolls</span><span id="ro">Hârtie case marcat role</span></td>
+    <td><span id="en">Supplier: Lecom - Romania </span><span id="ro">Furnizor: Lecom - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >1.4 RON / <span id="en">pcs</span><span id="ro">buc</span> 28mm 30m</div>  
+    <div style="border-bottom:1px solid #FFF;" >2.59 RON / <span id="en">pcs</span><span id="ro">buc 35+20mm 30m</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >0.8 RON / <span id="en">pcs</span><span id="ro">buc 37mm 1Ex 25m</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >1.08 RON / <span id="en">pcs</span><span id="ro">buc 37mm 12m</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >1.67 RON / <span id="en">pcs</span><span id="ro">buc 57mm 12m</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >1.83 RON / <span id="en">pcs</span><span id="ro">buc 57mm 1Ex 25m</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >2.17 RON / <span id="en">pcs</span><span id="ro">buc 57mm 18m</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >2.93 RON / <span id="en">pcs</span><span id="ro">buc 57mm 25m</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >2.93 RON / <span id="en">pcs</span><span id="ro">buc 57mm 30m</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >2.83 RON / <span id="en">pcs</span><span id="ro">buc 76mm 1Ex 25m</span></div> 
+    <div style="border-bottom:1px solid #FFF;" >4.17 RON / <span id="en">pcs</span><span id="ro">buc 76mm 25m</span></div> 
+    <div style="border-bottom:1px solid #FFF;" >5 RON / <span id="en">pcs</span><span id="ro">buc 80mm 30m</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >6.58 RON / <span id="en">pcs</span><span id="ro">buc 80mm 40m</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >9.66 RON / <span id="en">pcs</span><span id="ro">buc 80mm 60m</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >12 RON / <span id="en">pcs</span><span id="ro">buc 80mm 75m</span></div>  
+    <div style="border-bottom:1px solid #FFF;" >5.74 RON / <span id="en">pcs</span><span id="ro">buc 110mm 25m</span></div>  
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Copy paper Nexo Everyday A4 80 g/m2 - FSC Certified</span><span id="ro">Hârtie copiator Nexo Everyday A4 80 g/m2 - Certificată FSC</span></td>
+    <td><span id="en">Supplier: Europapier - Romania</span><span id="ro">Furnizor: Europapier - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >12.70 RON / <span id="en">top ( minimum order one pallet )</span><span id="ro">top ( comandă minimă 1 palet )</span></div>  
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	    	    
+    </tr><tr>
+    <td><span id="en">Paper Envelope C6 (114 x 162 mm) Color White</span><span id="ro">Plic din hârtie C6 (114 x 162 mm) Culoare Albă</span></td>
+    <td><span id="en">Gum seal  / Window position - / Window diameter - / Envelopes per box 1000pcs / Notes: V shape flap / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire gumată / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 1000buc / Observații: Clapa formă V / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >57 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr> 
+    <td><span id="en">Paper Envelope C6 (114 x 162 mm) Color White</span><span id="ro">Plic din hârtie C6 (114 x 162 mm) Culoare Albă</span></td>
+    <td><span id="en">Self adhesive seal / Window position - / Window diameter - / Envelopes per box 1000pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire autoadezivă / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 1000buc / Observații: - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >59.7 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr> 
+    <td><span id="en">Paper Envelope C6 (114 x 162 mm) Color White</span><span id="ro">Plic din hârtie C6 (114 x 162 mm) Culoare Albă</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 1000pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 1000buc / Observații - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >60 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Paper Envelope C6 (114 x 162 mm) Color White</span><span id="ro">Plic din hârtie C6 (114 x 162 mm) Culoare Albă</span></td>
+    <td><span id="en">Self adhesive seal / Window position Right side / Window diameter 35 x 90 * / Envelopes per box 1000pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire autoadezivă / Poziție fereastră Dreapta / Diametru fereastră 35 x 90 * / Plicuri per cutie 1000buc / Observații: - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >66 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr> 
+    <td><span id="en">Paper Envelope C6 (114 x 162 mm) Color White</span><span id="ro">Plic din hârtie C6 (114 x 162 mm) Culoare Albă</span></td>
+    <td><span id="en">Gum seal  / Window position - / Window diameter - / Envelopes per box 1000pcs / Notes: Insertion / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire gumată / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 1000buc / Observații Inserare / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >76 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr> 
+    <td><span id="en">Paper Envelope C7 (90 x 140 mm) Color White</span><span id="ro">Plic din hârtie C7 (90 x 140 mm) Culoare Albă</span></td>
+    <td><span id="en">Gum seal  / Window position - / Window diameter - / Envelopes per box 1000pcs / Notes: V shape flap / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire gumată / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 1000buc / Observații: Clapa formă V / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >79 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr> 
+    <td><span id="en">Paper Envelope DL (110 x 220 mm) Color White</span><span id="ro">Plic din hârtie DL (110 x 220 mm) Culoare Albă</span></td>
+    <td><span id="en">Gum seal  / Window position - / Window diameter - / Envelopes per box 1000pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire gumată / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 1000buc / Observații - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >72 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr> 
+    <td><span id="en">Paper Envelope DL (110 x 220 mm) Color White</span><span id="ro">Plic din hârtie DL (110 x 220 mm) Culoare Albă</span></td>
+    <td><span id="en">Self adhesive seal  / Window position - / Window diameter - / Envelopes per box 1000pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire autoadezivă / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 1000buc / Observații - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >74 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr> 
+    <td><span id="en">Paper Envelope DL (110 x 220 mm) Color White</span><span id="ro">Plic din hârtie DL (110 x 220 mm) Culoare Albă</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 1000pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 1000buc / Observații - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >77 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr> 
+    <td><span id="en">Paper Envelope DL (110 x 220 mm) Color White</span><span id="ro">Plic din hârtie DL (110 x 220 mm) Culoare Albă</span></td>
+    <td><span id="en">Self adhesive seal  / Window position Right or Left side your choice / Window diameter 45 x 90 * / Envelopes per box 1000pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire autoadezivă / Poziție fereastră Dreapta sau Stânga / Diametru fereastră 45 x 90 * / Plicuri per cutie 1000buc / Observații - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >78 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Paper Envelope DL (110 x 220 mm) Color White</span><span id="ro">Plic din hârtie DL (110 x 220 mm) Culoare Albă</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position Right or Left side your choice / Window diameter 35 x 90 * / Envelopes per box 1000pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră Dreapta sau Stânga / Diametru fereastră 35 x 90 * / Plicuri per cutie 1000buc / Observații - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >78 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Paper Envelope DL (110 x 220 mm) Color White</span><span id="ro">Plic din hârtie DL (110 x 220 mm) Culoare Albă</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position Right or Left side your choice / Window diameter 45 x 90 * / Envelopes per box 1000pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră Dreapta sau Stânga / Diametru fereastră 45 x 90 * / Plicuri per cutie 1000buc / Observații - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >78 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Paper Envelope C6/C5 (114 x 229 mm) Color White</span><span id="ro">Plic din hârtie C6/C5 (114 x 229 mm) Culoare Albă</span></td>
+    <td><span id="en">Gum seal  / Window position - / Window diameter - / Envelopes per box 1000pcs / Notes: Insertion / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire gumată / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 1000buc / Observații Inserare / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >71 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Paper Envelope C6/C5 (114 x 229 mm) Color White</span><span id="ro">Plic din hârtie C6/C5 (114 x 229 mm) Culoare Albă</span></td>
+    <td><span id="en">Gum seal  / Window position Right or Left side your choice / Window diameter 35 x 90 * / Envelopes per box 1000pcs / Notes: Insertion / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire gumată / Poziție fereastră Dreapta sau Stânga / Diametru fereastră 35 x 90 * / Plicuri per cutie 1000buc / Observații Inserare / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >75 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Paper Envelope C5 (162 x 229 mm) Color White</span><span id="ro">Plic din hârtie C5 (162 x 229 mm) Culoare Albă</span></td>
+    <td><span id="en">Gum seal  / Window position - / Window diameter - / Envelopes per box 500pcs / Notes: Opening on the long side LC/5 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire gumată / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 500buc / Observații: deschidere pe latura lungă LC/5 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >98 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Paper Envelope C5 (162 x 229 mm) Color White</span><span id="ro">Plic din hârtie C5 (162 x 229 mm) Culoare Albă</span></td>
+    <td><span id="en">Self adhesive seal  / Window position - / Window diameter - / Envelopes per box 500pcs / Notes: Opening on the long side LC/5 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire autoadezivă / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 500buc / Observații: deschidere pe latura lungă LC/5 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >119 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Paper Envelope C5 (162 x 229 mm) Color White</span><span id="ro">Plic din hârtie C5 (162 x 229 mm) Culoare Albă</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 500pcs / Notes: Opening on the long side TC/5 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 500buc / Observații: deschidere pe latura lungă TC/5 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >120 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>	
+    <td><span id="en">Paper Envelope C5 (162 x 229 mm) Color White</span><span id="ro">Plic din hârtie C5 (162 x 229 mm) Culoare Albă</span></td>
+    <td><span id="en">Self adhesive seal  / Window position Right side / Window diameter 35 x 90 * / Envelopes per box 500pcs / Notes: Opening on the long side LC/5 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire autoadezivă / Poziție fereastră Dreapta / Diametru fereastră 35 x 90 * / Plicuri per cutie 500buc / Observații: deschidere pe latura lungă LC/5 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >126 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Paper Envelope C5 (162 x 229 mm) Color White</span><span id="ro">Plic din hârtie C5 (162 x 229 mm) Culoare Albă</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 500pcs / Notes: Opening on the long side LC/5 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 500buc / Observații: deschidere pe latura lungă LC/5 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >129 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Paper Envelope C5 (162 x 229 mm) Color White</span><span id="ro">Plic din hârtie C5 (162 x 229 mm) Culoare Albă</span></td>
+    <td><span id="en">Gum seal  / Window position Right or Left side your choice / Window diameter - / Envelopes per box 500pcs / Notes: Opening on the long side TC/5 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire gumată / Poziție fereastră Dreapta sau Stânga / Diametru fereastră - / Plicuri per cutie 500buc / Observații: deschidere pe latura lungă TC/5 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >132 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>    
+    <td><span id="en">Paper Envelope C5 (162 x 229 mm) Color White</span><span id="ro">Plic din hârtie C5 (162 x 229 mm) Culoare Albă</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position Right or Left side your choice / Window diameter - / Envelopes per box 500pcs / Notes: Opening on the long side LC/5 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră Dreapta sau Stânga / Diametru fereastră 45 x 90 ** / Plicuri per cutie 500buc / Observații: deschidere pe latura lungă LC/5 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >135 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>	    
+    <td><span id="en">Paper Envelope C5 (162 x 229 mm) Color White</span><span id="ro">Plic din hârtie C5 (162 x 229 mm) Culoare Albă</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 500pcs / Notes: Opening on the long side TC/5 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 500buc / Observații: deschidere pe latura lungă TC/5 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >139 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>	
+    <td><span id="en">Paper Envelope C4 (229 x 324 mm) Color White</span><span id="ro">Plic din hârtie C4 (229 x 324 mm) Culoare Albă</span></td>
+    <td><span id="en">Gum seal  / Window position - / Window diameter - / Envelopes per box 250pcs / Notes: TC/4 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire gumată / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 250buc / Observații: TC/4 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >208 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>		   
+    <td><span id="en">Paper Envelope C4 (229 x 324 mm) Color White</span><span id="ro">Plic din hârtie C4 (229 x 324 mm) Culoare Albă</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 250pcs / Notes: TC/4 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 250buc / Observații: TC/4 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >210 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Paper Envelope C4 (229 x 324 mm) Color White</span><span id="ro">Plic din hârtie C4 (229 x 324 mm) Culoare Albă</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position Right or Left side your choice / Window diameter 50 x 100 * / Envelopes per box 250pcs / Notes: TC/4 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră Dreapta sau Stânga / Diametru fereastră 50 x 100 * / Plicuri per cutie 250buc / Observații: TC/4 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >210 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Paper Envelope C4 (229 x 324 mm) Color Kraft</span><span id="ro">Plic din hârtie C4 (229 x 324 mm) Culoare Kraft</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 250pcs / Notes: TC/4 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 250buc / Observații: TC/4 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >226 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>	    
+    <td><span id="en">Paper Envelope C4 (229 x 324 mm) Color Kraft</span><span id="ro">Plic din hârtie C4 (229 x 324 mm) Culoare Kraft</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 250pcs / Notes: with bellow 30cm TC/4 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 250buc / Observații: burduf de 30mm TC/4 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >603 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Paper Envelope B4 (250 x 353 mm) Color White</span><span id="ro">Plic din hârtie C4 (250 x 353 mm) Culoare Albă</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 250pcs / Notes: TB/4 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 250buc / Observații: TB/4 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >329 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Paper Envelope B4 (250 x 353 mm) Color White</span><span id="ro">Plic din hârtie C4 (250 x 353 mm) Culoare Albă</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 250pcs / Notes: TB/4 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 250buc / Observații: TB/4 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >365 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Paper Envelope B4 (250 x 353 mm) Color Kraft</span><span id="ro">Plic din hârtie C4 (250 x 353 mm) Culoare Kraft</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 250pcs / Notes: with bellow 30cm TB/4 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 250buc / Observații: burduf de 30mm TB/4 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >603 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Paper Envelope B4 (250 x 353 mm) Color Kraft</span><span id="ro">Plic din hârtie C4 (250 x 353 mm) Culoare Kraft</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 250pcs / Notes: with bellow 50cm TB/4 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 250buc / Observații: burduf de 50mm TB/4 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >699 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Paper Envelope B4 (250 x 353 mm) Color Kraft</span><span id="ro">Plic din hârtie C4 (250 x 353 mm) Culoare Kraft</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 100pcs / Notes: with bellow 100cm TB/4 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 100buc / Observații: burduf de 100mm TB/4 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >2395 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Paper Envelope B4 (250 x 353 mm) Color Kraft</span><span id="ro">Plic din hârtie C4 (250 x 353 mm) Culoare Kraft</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 100pcs / Notes: with bellow 150cm TB/4 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 100buc / Observații: burduf de 150mm TB/4 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >3066 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>	  
+    <td><span id="en">Paper Envelope E4 (280 x 400 mm) Color White</span><span id="ro">Plic din hârtie E4 (280 x 400 mm) Culoare Albă</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 100pcs / Notes: TE/4 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 250buc / Observații: TE/4 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >625 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>	
+    <td><span id="en">Paper Envelope E4 (280 x 400 mm) Color Kraft</span><span id="ro">Plic din hârtie E4 (280 x 400 mm) Culoare Kraft</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 100pcs / Notes: TE/4 / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 250buc / Observații: TE/4 / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >625 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>	
+    <td><span id="en">Anti-shock with bubbles envelope A11 ( Int: 100 x 165 mm) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer A11 ( Int: 100 x 165 mm) Color Albă Kraft sau Maro Kraft</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 200pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 200buc / Observații: - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >232 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr> 
+    <td><span id="en">Anti-shock with bubbles envelope B12 ( Int: 115 x 215 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer B12 ( Int: 115 x 215 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 100pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 100buc / Observații: - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >289 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr> 
+    <td><span id="en">Anti-shock with bubbles envelope C13 ( Int: 150 x 215 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer C13 ( Int: 150 x 215 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 100pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 100buc / Observații: - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >339 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Anti-shock with bubbles envelope CD ( Int: 175 x 165 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer CD ( Int: 175 x 165 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 100pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 100buc / Observații: - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >378 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>
+    <td><span id="en">Anti-shock with bubbles envelope D14 ( Int: 180 x 265 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer D14 ( Int: 180 x 265 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 100pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 100buc / Observații: - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >459 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>	    
+    <td><span id="en">Anti-shock with bubbles envelope E15 ( Int: 215 x 265 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer E15 ( Int: 215 x 265 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 100pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 100buc / Observații: - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >505 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>	
+    <td><span id="en">Anti-shock with bubbles envelope F16 ( Int: 220 x 340 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer F16 ( Int: 220 x 340 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 100pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 100buc / Observații: - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >597 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>	
+    <td><span id="en">Anti-shock with bubbles envelope G17 ( Int: 230 x 340 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer G17 ( Int: 230 x 340 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 100pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 100buc / Observații: - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >623 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>	
+    <td><span id="en">Anti-shock with bubbles envelope H18 ( Int: 270 x 360 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer H18 ( Int: 270 x 360 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 100pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 100buc / Observații: - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >756 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>	
+    <td><span id="en">Anti-shock with bubbles envelope I19 ( Int: 295 x 445 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer I19 ( Int: 295 x 445 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 100pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 100buc / Observații: - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >1230 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr><tr>	
+    <td><span id="en">Anti-shock with bubbles envelope K20 ( Int: 345 x 470 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer K20 ( Int: 345 x 470 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+    <td><span id="en">Silicon adhesive seal  / Window position - / Window diameter - / Envelopes per box 100pcs / Notes: - / Supplier: GPV - Romania</span>
+    <span id="ro">Lipire siliconică / Poziție fereastră - / Diametru fereastră - / Plicuri per cutie 100buc / Observații: - / Furnizor: GPV - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >1356 RON / 1000pcs</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>
+    </tr>
+</tbody>
