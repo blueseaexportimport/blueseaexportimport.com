@@ -9497,8 +9497,10 @@ for (i = 0; i < acc.length; i++) {
  <li><br><h4><span id="en">Notes:</span><span id="ro">Note:</span></h4>
  <li><span id="en" style="padding:7px;font-size:24px;margin-bottom:7px;font-weight:bold;" >1. In the Catalog Price does not include:</span><span id="ro" style="padding:7px;font-size:24px;margin-bottom:7px;font-weight:bold;" > 1. În Catalog Prețul nu include:</span></li>
  <li><br></li>
- <li style="background:gold; padding:9px 0;" >
 
+
+<li style="background:gold; padding:9px 0;" ><button class="accordion" style="background: #bb0000;" class="costsaccordion" ><span id="en">THE ESTIMATED COSTS LIST - PRESS HERE</span><span id="ro">LISTA DE COSTURI ESTIMATIVE - APASĂ AICI</span> </button>
+<div class="panel">
 <ul>
    <li style="border-top:7px solid #FFF;display:block;background:gold;color:black;padding:9px;font-size:19px;font-weight:bold;" ><span id="en" >Sample and sample shipping costs</span> <span id="ro" > Preț monstră și cost livrare monstră</span></li>
    <li style="border-top:7px solid #FFF;display:block;background:gold;color:black;padding:9px;font-size:19px;font-weight:bold;" ><span id="en" >Guarantees for participation in public auctions</span> <span id="ro" >Garanții participare licitații publice</span></li>
@@ -9533,13 +9535,35 @@ for (i = 0; i < acc.length; i++) {
    <li style="border-top:7px solid #FFF;display:block;background:gold;color:black;padding:9px;font-size:19px;font-weight:bold;" ><span id="en" >Periodic tehnical inspections for some goods</span> <span id="ro" >Inspecții periodice tehnice pentru unele bunuri</span></li>
    <li style="border-top:7px solid #FFF;display:block;background:gold;color:black;padding:9px;font-size:19px;font-weight:bold;" ><span id="en" >Systematic risks backup funds ( example: insurance company bankrupcy for unknown reasons )</span> <span id="ro" >Fonduri de rezerva pentru riscuri sistematice ( examplu: faliment companie de asigurări din cauze necunoscute )</span></li>
 </ul>
-</li>
+</div></li>
+	
+<script>
+var acc = document.getElementsByClassName("costsaccordion");
+var i;
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
+
+
 <li><br></li>
 <li><span id="en" style="padding:7px;font-size:24px;margin-bottom:7px;font-weight:bold;" >2. Your company activity must match seller company activity to buy some of the products ( Example: if the seller company is a medicinal plants producer, you must be a medicinal plants authorised proccesing company )</span> <span id="ro" style="padding:7px;font-size:24px;margin-bottom:7px;font-weight:bold;" > 2. Pentru a cumpăra unele produse activitatea companiei dumneavoastră trebuie să fie compatibilă cu activitatea furnizorului ( Exemplu: Dacă furnizorul este un cultivator de plante medicinale, dumneavoastră trebuie să aveți un punct de lucru autorizat pentru procesare plante medicinale )</span></li>
 <li><span id="en" style="padding:7px;font-size:24px;margin-bottom:7px;font-weight:bold;" >3. Prices are not in real time, they are estimates, please contact us do give you exact prices before you buy</span> <span id="ro" style="padding:7px;font-size:24px;margin-bottom:7px;font-weight:bold;" > 3. Prețurile nu sunt în timp real, sunt estimative, vă rugăm să ne contactați pentru a vă transmite prețurile exacte înainte să cumpărați</span></li>
 <li><span id="en" style="padding:7px;font-size:24px;margin-bottom:7px;font-weight:bold;" >4. The costs above are not the same for all prroducts, the real costs you will see on the proforma before you sign the contract</span> <span id="ro" style="padding:7px;font-size:24px;margin-bottom:7px;font-weight:bold;" > 4. Costule de mai sus nu sunt la fel pentru toate produsele din catalog, costul real îl veți vedea în proformă, înainte să semnați contractul</span></li>
 </ul>
 
+
+
+
+	
  <br>
 
 
