@@ -6,557 +6,383 @@
     <td><div style="border-bottom:1px solid #FFF;" >2,2 RON / 0,2L</div>
     <div style="border-bottom:1px solid #FFF;" >3,7 RON / 0,5L</div>
     <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
-    </tr><tr>	    
-    <td><span id="en">Solid soap Safeguard ( Pink Punch or Chamomile or Classic )</span><span id="ro">Săpun solid Safeguard ( Pink Punch sau Chamomile sau Classic )</span></td>
-    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >3.20 RON / 90g</div>
+    </tr>
+
+    <td><span id="en">Calendula ointment Herbagen (SNPMAPS, EX 0030/2015)</span><span id="ro">Unguent cu gălbenele Herbagen (SNPMAPS, EX 0030/2015)</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >8.00  RON / 50ml</div>
     <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
     </tr><tr>
-    <td><span id="en">Solid soap Baby Dove Crema Rich</span><span id="ro">Săpun solid Baby Dove Crema Rich</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >6.15 RON / 75g</div>
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>
-    <td><span id="en">Solid soap Dove ( Beauty or Sensitive or Oil or Purely Coconut or Go Fresh Touch or Go Fresh Restore or Gentle Exfoliating or Pink )  </span><span id="ro">Săpun solid Dove ( Beauty sau Sensitive sau Oil sau Purely Coconut sau Go Fresh Touch sau Go Fresh Restore sau Gentle Exfoliating sau Pink )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >7.39 RON / 90g</div>
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>
-    <td><span id="en">Solid soap Dove Men+Care Cream Extra Fresh</span><span id="ro">Săpun solid Dove Men+Care Cream Extra Fresh</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >7.39 RON / 90g</div>
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>
-    <td><span id="en">Solid soap Dove Cream ( Beauty or Oil or Go Fresh Touch or Exfoliating )</span><span id="ro">Săpun solid Dove Cream ( Beauty sau Oil sau Go Fresh Touch sau Exfoliating )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >29.56 RON / 4X90g</div>
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>
-    <td><span id="en">Liquid soap Dove ( Beauty or Shea Butter or Fresh Touch or Silk Pump or Pump Lotus or Pump Coconut or Care&Protect or Pump Renewing )</span><span id="ro">Săpun lichid Dove ( Beauty sau Shea Butter sau Fresh Touch sau Silk Pump sau Pump Lotus sau Pump Coconut sau Care&Protect sau Pump Renewing )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >19.93 RON / 250ml</div>
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>
-    <td><span id="en">Liquid soap Lux ( Freesia or Paradise Bird or Ylang-Ylang  )</span><span id="ro">Liquid soap Lux ( Freesia sau Paradise Bird sau Ylang-Ylang  )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >20.31 RON / 400ml</div>
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>
-    <td><span id="en">Liquid soap Safeguard ( Aloe Vera or Classic Pure )</span><span id="ro">Liquid soap Safeguard ( Aloe Vera sau Classic Pure )</span></td>
-    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >10.32 RON / 400ml</div>
+
+<!-- solid soap stard 1 --> 
+
+    <td><span id="en">Solid handmade soap Herbagen</span><span id="ro">Săpun solid handmade Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >6.00  RON / 50g <span id="en">with glycerin and vegetable oils</span><span id="ro">cu glicerina si uleiuri vegetale</span></div>
+    <div style="border-bottom:1px solid #FFF;" >11.00  RON / 100g <span id="en">with glycerin and avocado and castor vegetable oils</span><span id="ro">cu glicerina si uleiuri vegetale de avocado si ricin</span></div>
+    <div style="border-bottom:1px solid #FFF;" >11.00  RON / 100g <span id="en">with glycerin, active carbon and tea tree essential oil</span><span id="ro">cu glicerina, carbon activ si ulei esential de arbore de ceai</span></div>
+    <div style="border-bottom:1px solid #FFF;" >11.00  RON / 75g <span id="en">with glycerin and vegetable oils</span><span id="ro">cu glicerina si uleiuri vegetale</span></div>
+    <div style="border-bottom:1px solid #FFF;" >11.00  RON / 75g <span id="en">with white musk</span><span id="ro">cu mosc alb</span></div>
+    <div style="border-bottom:1px solid #FFF;" >11.00  RON / 75g <span id="en">with coffee</span><span id="ro">cu cafea</span></div>
+    <div style="border-bottom:1px solid #FFF;" >11.00  RON / 75g <span id="en">with cinnamon and apple</span><span id="ro">cu mar si scortisoara</span></div>
+    <div style="border-bottom:1px solid #FFF;" >11.00  RON / 75g <span id="en">with lavender</span><span id="ro">cu lavanda</span></div>
+    <div style="border-bottom:1px solid #FFF;" >11.00  RON / 75g <span id="en">with candy</span><span id="ro">cu candy</span></div>
+    <div style="border-bottom:1px solid #FFF;" >13.00  RON / 100g <span id="en">with glycerin and vegetable oils</span><span id="ro">cu glicerina si uleiuri vegetale</span></div>
+    <div style="border-bottom:1px solid #FFF;" >15.00  RON / 150g <span id="en">with glycerin and vegetable oils</span><span id="ro">cu glicerina si uleiuri vegetale</span></div>
     <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
     </tr><tr>
-    <td><span id="en">Liquid soap reserve Lux ( Original or Fresh Touch or Nourishing Silk )</span><span id="ro">Rezervă săpun lichid Dove ( Original sau Fresh Touch sau Nourishing Silk )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >19.10 RON / 500ml</div>
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>
-    <td><span id="en">Liquid soap reserve Dove ( Beauty or Shea Butter or Fresh Touch or Silk Pump or Pump Lotus or Pump Coconut or Care&Protect or Pump Renewing )</span><span id="ro">Rezervă săpun lichid Dove ( Beauty sau Shea Butter sau Fresh Touch sau Silk Pump sau Pump Lotus sau Pump Coconut sau Care&Protect sau Pump Renewing )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >26.53 RON / 500ml</div>
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>
-    <td><span id="en">Liquid soap reserve Dove ( Original or Fresh Touch or Nourishing Silk )</span><span id="ro">Rezervă săpun lichid Dove ( Original sau Fresh Touch sau Nourishing Silk )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >31.43 RON / 750ml</div>
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>
-    <td><span id="en">Shower gel Nivea Men</span><span id="ro">Gel de duș Nivea Men</span></td>
-    <td><span id="en">Supplier: Beiersdorf - Romania</span><span id="ro">Furnizor: Beiersdorf - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >11,90 RON / 250ml - Energy</div> 
-    <div style="border-bottom:1px solid #FFF;" >14,49 RON / 250ml - Active Energy</div>    
-    <div style="border-bottom:1px solid #FFF;" >16,49 RON / 250ml - Silver Protect</div>    
-    <div style="border-bottom:1px solid #FFF;" >18,39 RON / 250ml - Protect & Care</div>    
-    <div style="border-bottom:1px solid #FFF;" >18,95 RON / 250ml - Active Clean</div>    
-    <div style="border-bottom:1px solid #FFF;" >18,95 RON / 250ml - Sensitive</div>    
-    <div style="border-bottom:1px solid #FFF;" >18,99 RON / 250ml - Deep</div>    
-    <div style="border-bottom:1px solid #FFF;" >24,15 RON / 250ml - Sport</div>    
-    <div style="border-bottom:1px solid #FFF;" >24,95 RON / 500ml - Sport</div>    
-    <div style="border-bottom:1px solid #FFF;" >24,95 RON / 500ml - Sport</div>    
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Shower gel Old Spice Rock</span><span id="ro">Gel de duș Old Spice Rock</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >14.62 RON / 250ml</div>
-    <div style="border-bottom:1px solid #FFF;" >18.97 RON / 400ml</div>   
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>
-    <td><span id="en">Shower gel Old Spice Citron</span><span id="ro">Gel de duș Old Spice Citron</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >14.62 RON / 250ml</div>
-    <div style="border-bottom:1px solid #FFF;" >18.97 RON / 400ml</div>   
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>
-    <td><span id="en">Shower gel Old Spice Bearglove</span><span id="ro">Gel de duș Old Spice Bearglove</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >14.62 RON / 250ml</div>
-    <div style="border-bottom:1px solid #FFF;" >18.97 RON / 400ml</div>   
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>
-    <td><span id="en">Shower gel Old Spice Original</span><span id="ro">Gel de duș Old Spice Original</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >14.62 RON / 250ml</div>
-    <div style="border-bottom:1px solid #FFF;" >18.97 RON / 400ml</div>   
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>
-    <td><span id="en">Shower gel Old Spice Captain</span><span id="ro">Gel de duș Old Spice Captain</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >14.62 RON / 250ml</div>
-    <div style="border-bottom:1px solid #FFF;" >18.97 RON / 400ml</div>   
-    <div style="border-bottom:1px solid #FFF;" >29.38 RON / 675ml</div>   
-    <div style="border-bottom:1px solid #FFF;" >41.42 RON / 1000ml</div>   
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>
-    <td><span id="en">Shower gel Old Spice Whitewater</span><span id="ro">Gel de duș Old Spice Whitewater</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >18.97 RON / 400ml</div>   
-    <div style="border-bottom:1px solid #FFF;" >29.38 RON / 675ml</div>   
-    <div style="border-bottom:1px solid #FFF;" >41.42 RON / 1000ml</div>   
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>
-    <td><span id="en">Shower gel Old Spice ( Whitewolf or Deep Sea or Restart or Ultra Smooth or Oasis  or Tigerclaw or Nightpanther or Hair&Body Cooling or Wolfthorn )</span><span id="ro">Gel de duș Old Spice ( Whitewolf sau Deep Sea sau Restart sau Ultra Smooth sau Oasis sau Tigerclaw sau Nightpanther sau Hair&Body Cooling sau Wolfthorn )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >18.97 RON / 400ml</div>   
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>
-    <td><span id="en">Shower gel Old Spice Duswolfthorn</span><span id="ro">Gel de duș Old Spice Duswolfthorn</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >29.38 RON / 675ml</div>   
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	    
-    <td><span id="en">Shower gel Head & Shoulders ( Deep Cleansing or Sensitive or Sport )</span><span id="ro">Gel de duș Head & Shoulders ( Deep Cleansing or Sensitive or Sport )</span></td>
-    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >23.31 RON / 360ml</div>   
+
+<!-- solid soap end --> 
+
+<!-- liquid soap stard 1 --> 
+
+    <td><span id="en">Liquid soap Herbagen</span><span id="ro">Săpun lichid Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >13.00  RON / 350ml <span id="en">with glycerin and linden extract</span><span id="ro">cu glicerina si extract de tei</span></div>
+    <div style="border-bottom:1px solid #FFF;" >13.00  RON / 350ml <span id="en">with aloe and chamomile extract</span><span id="ro">cu extract de aloe si musetel</span></div>
+    <div style="border-bottom:1px solid #FFF;" >6.00  RON / 100ml <span id="en">with echinacea extract - travel</span><span id="ro">cu extract de aloe si musetel - pentru calatorii</span></div>
     <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Shower gel Dove Deeply Nourishing</span><span id="ro">Gel de duș Dove Deeply Nourishing</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >6.82 RON / 55ml</div>   
-    <div style="border-bottom:1px solid #FFF;" >23.56 RON / 225ml</div>   
-    <div style="border-bottom:1px solid #FFF;" >26.19 RON / 400ml</div>   
-    <div style="border-bottom:1px solid #FFF;" >38.02 RON / 720ml</div>   
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Shower gel Dove ( Mango Almond Butter or Matcha & Sakura Blossom or Glowing )</span><span id="ro">Gel de duș Dove ( Mango Almond Butter sau Matcha & Sakura Blossom sau Glowing )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >23.56 RON / 225ml</div>   
-    <div style="border-bottom:1px solid #FFF;" >26.19 RON / 400ml</div>   
-    <div style="border-bottom:1px solid #FFF;" >39.84 RON / 600ml</div>   
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Shower gel Dove ( Nourish Oil & Care or Antistress or Hydrating Care or Cherry & Chia )</span><span id="ro">Gel de duș Dove ( Nourish Oil & Care sau Antistress sau Hydrating Care sau Cherry & Chia )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >23.56 RON / 225ml</div>   
-    <div style="border-bottom:1px solid #FFF;" >26.19 RON / 400ml</div>   
-    <div style="border-bottom:1px solid #FFF;" >38.02 RON / 720ml</div>   
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Shower gel Dove Goji</span><span id="ro">Gel de duș Dove Goji</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >26.19 RON / 400ml</div>   
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Shower gel Dove ( Nourishing Silk or Bujor or Refreshing or Care & Protect )</span><span id="ro">Gel de duș Dove ( Nourishing Silk sau Bujor sau Refreshing sau Care & Protect )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >26.19 RON / 400ml</div>   
-    <div style="border-bottom:1px solid #FFF;" >38.02 RON / 720ml</div>   
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Shower gel Dove ( Gentle Scrub or Shea Butter or Pink Clay )</span><span id="ro">Gel de duș Dove ( Gentle Scrub sau Shea Butter sau Pink Clay )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >26.19 RON / 400ml</div>   
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Shower gel Dove ( Sweet Peony or Fresh Touch or Gentle Exfoliating or Fine Silk )</span><span id="ro">Gel de duș Dove ( Sweet Peony sau Fresh Touch sau Gentle Exfoliating sau Fine Silk )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >23.56 RON / 225ml</div>   
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Shower gel Dove Men+Care ( Extra Fresh or Clean Comfort )</span><span id="ro">Gel de duș Dove Men+Care ( Extra Fresh or Clean Comfort )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >25.43 RON / 250ml</div>   
-    <div style="border-bottom:1px solid #FFF;" >30.98 RON / 400ml</div>     
-    <div style="border-bottom:1px solid #FFF;" >38.20 RON / 700ml</div>         
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>		    
-    <td><span id="en">Shower gel Dove Men+Care ( Cool Fresh or Minerals & Sage or Charcoal & Clay or Sport Active )</span><span id="ro">Gel de duș Dove Men+Care ( Cool Fresh sau Minerals & Sage sau Charcoal & Clay sau Sport Active )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >25.43 RON / 250ml</div>   
-    <div style="border-bottom:1px solid #FFF;" >30.98 RON / 400ml</div>      
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Shower gel Dove Men+Care ( Sensitive or Endurance )</span><span id="ro">Gel de duș Dove Men+Care ( Sensitive or Endurance )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >30.98 RON / 400ml</div>            
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Shower gel Lux ( Freesia or Paradise Bird or Ylang-Ylang )</span><span id="ro">Gel de duș Lux ( Freesia sau Paradise Bird sau Ylang-Ylang )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >23.50 RON / 500ml</div> 
-    <div style="border-bottom:1px solid #FFF;" >28.56 RON / 750ml</div>     
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Deodorant Spray Nivea Men</span><span id="ro">Deodorant Spray Nivea Men</span></td>
-    <td><span id="en">Supplier: Beiersdorf - Romania</span><span id="ro">Furnizor: Beiersdorf - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >16,05 RON / 150ml - Fresh Ocean</div> 
-    <div style="border-bottom:1px solid #FFF;" >18,55 RON / 150ml - Black & White Invisible Power</div>    
-    <div style="border-bottom:1px solid #FFF;" >18,79 RON / 150ml - Silver Protect</div>    
-    <div style="border-bottom:1px solid #FFF;" >18,39 RON / 150ml - Protect & Care</div>    
-    <div style="border-bottom:1px solid #FFF;" >18,79 RON / 150ml - Deep Espresso</div>    
-    <div style="border-bottom:1px solid #FFF;" >18,95 RON / 150ml - Black & White Invisible Fresh</div>    
-    <div style="border-bottom:1px solid #FFF;" >18,95 RON / 150ml - Fresh Active</div>    
-    <div style="border-bottom:1px solid #FFF;" >18,95 RON / 150ml - Black & White Ultimate Impact</div>    
-    <div style="border-bottom:1px solid #FFF;" >18,95 RON / 100ml - Men Deep</div>    
-    <div style="border-bottom:1px solid #FFF;" >18,95 RON / 100ml - Protect & Care</div>    
-    <div style="border-bottom:1px solid #FFF;" >18,95 RON / 100ml - Dry Active</div>    
-    <div style="border-bottom:1px solid #FFF;" >18,95 RON / 100ml - Active Energy</div>    
-    <div style="border-bottom:1px solid #FFF;" >18,95 RON / 100ml - Fresh Kick</div>    
-    <div style="border-bottom:1px solid #FFF;" >19,95 RON / 200ml - Fresh Active</div>    
-    <div style="border-bottom:1px solid #FFF;" >20,69 RON / 150ml - Fresh Sensation</div>    
-    <div style="border-bottom:1px solid #FFF;" >20,74 RON / 150ml - Deep Beat</div>    
-    <div style="border-bottom:1px solid #FFF;" >20,96 RON / 150ml - Deep Amazonia</div>    
-    <div style="border-bottom:1px solid #FFF;" >21,99 RON / 150ml - Fresh Aquatic</div>    
-    <div style="border-bottom:1px solid #FFF;" >21,42 RON / 150ml - Fresh Intense</div>    
-    <div style="border-bottom:1px solid #FFF;" >39,99 RON / 250ml - Fresh Active</div>    
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Deodorant Rexona W Spray </span><span id="ro">Deodorant Rexona W Spray</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - Aloe Vera</div> 
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - Invisible Aqua</div> 	
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - Cotton Dry</div> 	
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - Invisible On B+W Clothes</div> 	
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - Sexy Bouquet</div> 	
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - Shower Fresh</div> 	
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - Pink Blush</div> 	
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - Active Protection + Invisible</div> 	
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - Blue Poppy & Apple</div> 	
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - White Flowers & Lychee</div> 	
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - Invisible Fresh Power</div> 	
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - Invisible Pure</div> 	
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Deodorant Rexona Spray Max Pro</span><span id="ro">Deodorant Rexona Spray Max Pro</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >25.43 RON / 150ml - Clean Scent</div> 
-    <div style="border-bottom:1px solid #FFF;" >25.43 RON / 150ml - Invisible</div> 	
-    <div style="border-bottom:1px solid #FFF;" >25.43 RON / 150ml - Fresh</div> 	
-    <div style="border-bottom:1px solid #FFF;" >25.43 RON / 150ml - Waterlily</div> 	
-    <div style="border-bottom:1px solid #FFF;" >25.43 RON / 150ml - Bouquet</div> 	
-    <div style="border-bottom:1px solid #FFF;" >25.43 RON / 150ml - Watermelon</div> 	
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Deodorant Rexona Men Spray</span><span id="ro">Deodorant Rexona Men Spray</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - Cobalt Dry</div> 
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - Invisible On B+W Clothes</div> 	
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - Quantum Dry</div> 	
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - Invisible Ice Fresh</div> 	
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - Sport Defence</div> 	
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - Marine</div> 	
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - Active Prot+Fresh</div> 	
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 150ml - Invisible Fresh Power</div> 		    
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Deodorant Rexona Men Spray Max Pro</span><span id="ro">Deodorant Rexona Men Spray Max Pro</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >25.43 RON / 150ml - Power</div> 
-    <div style="border-bottom:1px solid #FFF;" >25.43 RON / 150ml - Invisible</div> 	
-    <div style="border-bottom:1px solid #FFF;" >25.43 RON / 150ml - Cobalt Dry</div> 	
-    <div style="border-bottom:1px solid #FFF;" >25.43 RON / 150ml - Sport Defence</div> 		
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Deodorant Dove Gentle Care Spray Original</span><span id="ro">Deodorant Dove Gentle Care Spray Original</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >10.08 RON / 35ml</div> 	
-    <div style="border-bottom:1px solid #FFF;" >24.41 RON / 150ml</div> 
-    <div style="border-bottom:1px solid #FFF;" >31.24 RON / 200ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Deodorant Dove Gentle Care Spray (Cucumber&Green Tea or Go Fresh Passion Fruit & Lemongras or Powder Soft)</span><span id="ro">Deodorant Dove Gentle Care Spray (Cucumber&Green Tea sau Go Fresh Passion Fruit & Lemongras sau Powder Soft)</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >24.41 RON / 150ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Deodorant Dove Advanced Care Spray ( Cucumber&Green Tea or Invisible Dry or Pomegranate )</span><span id="ro">Deodorant Dove Advanced Care Spray ( Cucumber&Green Tea sau Invisible Dry sau Pomegranate )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >29.29 RON / 150ml</div> 
-    <div style="border-bottom:1px solid #FFF;" >31.24 RON / 200ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Deodorant Dove Advanced Care Spray</span><span id="ro">Deodorant Dove Advanced Care Spray</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >29.29 RON / 150ml - Invisible Care</div> 
-    <div style="border-bottom:1px solid #FFF;" >29.29 RON / 150ml - Pear Aloe Vera</div>
-    <div style="border-bottom:1px solid #FFF;" >29.29 RON / 150ml - Matcha & Sakura Blossom</div>
-    <div style="border-bottom:1px solid #FFF;" >29.29 RON / 150ml - Coconut & Jasmine</div>
-    <div style="border-bottom:1px solid #FFF;" >29.29 RON / 150ml - Acai Berry & Waterlily</div>
-    <div style="border-bottom:1px solid #FFF;" >29.29 RON / 150ml - Calming Blossom</div>
-    <div style="border-bottom:1px solid #FFF;" >29.29 RON / 150ml - Clean Touch</div>
-    <div style="border-bottom:1px solid #FFF;" >29.29 RON / 150ml - Talco</div>
-    <div style="border-bottom:1px solid #FFF;" >29.29 RON / 150ml - Go Fresh Passion Fruit & Lemongrass</div>
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Deodorant Dove Spray Alufree ( Original or Invisible  )</span><span id="ro">Deodorant Dove Spray Alufree ( Original sau Invisible )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >29.29 RON / 150ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Deodorant Dove Men+Care Gentle Care Spray ( Clean Comfort or Extra Fresh )</span><span id="ro">Deodorant Dove Men+Care Gentle Care Spray ( Clean Comfort sau Extra Fresh )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >24.41 RON / 150ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Deodorant Dove Men+Care Advanced Care Spray ( Invisible Dry or Extra Fresh or Cool Fresh or Clean Comfort )</span><span id="ro">Deodorant Dove Men+Care Advanced Care Spray ( Invisible Dry sau Extra Fresh sau Cool Fresh sau Clean Comfort )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >29.29 RON / 150ml</div> 
-    <div style="border-bottom:1px solid #FFF;" >31.24 RON / 150ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Deodorant Dove Men+Care Advanced Care Spray ( Invisible Fresh or Sport Fresh )</span><span id="ro">Deodorant Dove Men+Care Advanced Care Spray ( Invisible Fresh sau Sport Fresh )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >29.29 RON / 150ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Deodorant Deodorant Dove Men+Care Spray Alufree Clean Comfort</span><span id="ro">Deodorant Deodorant Dove Men+Care Spray Alufree Clean Comfort</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >29.29 RON / 150ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Deodorant Spray Old Spice</span><span id="ro">Deodorant Spray Old Spice</span></td>
-    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >16.46 RON / 150ml - Oasis</div>    
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 150ml - Bearglove</div>     
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 150ml - Ultra Defence</div>     
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 150ml - Original</div>     
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 150ml - Whitewater</div>     
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 150ml - Wolfthorn</div>     
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 150ml - Captain</div>     
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 150ml - Restart</div>     
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 150ml - Rock</div>     
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 150ml - Deep Sea</div>     
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 150ml - Nightpanther</div>     
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 150ml - Tigerclaw</div>     
-    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Roll-on Deodorant Nivea Men</span><span id="ro">Roll-on Deodorant Spray Nivea Men</span></td>
-    <td><span id="en">Supplier: Beiersdorf - Romania</span><span id="ro">Furnizor: Beiersdorf - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >13,09 RON / 50ml - Deep Espresso</div> 
-    <div style="border-bottom:1px solid #FFF;" >13,20 RON / 50ml - Fresh Active</div>    
-    <div style="border-bottom:1px solid #FFF;" >14,99 RON / 50ml - Deep Beat</div>    
-    <div style="border-bottom:1px solid #FFF;" >17,95 RON / 50ml - Deep</div>    
-    <div style="border-bottom:1px solid #FFF;" >17,95 RON / 50ml - Cool Kick</div>    
-    <div style="border-bottom:1px solid #FFF;" >17,95 RON / 50ml - Silver Protect</div>    
-    <div style="border-bottom:1px solid #FFF;" >18,62 RON / 50ml - Deep Amazonia</div>    
-    <div style="border-bottom:1px solid #FFF;" >18,75 RON / 50ml - Fresh Active</div> 
-    <div style="border-bottom:1px solid #FFF;" >18,75 RON / 50ml - Black & White Invisible Fresh</div> 
-    <div style="border-bottom:1px solid #FFF;" >18,75 RON / 50ml - Fresh Sensation</div> 
-    <div style="border-bottom:1px solid #FFF;" >18,75 RON / 50ml - Kick</div> 
-    <div style="border-bottom:1px solid #FFF;" >18,75 RON / 50ml - Fresh Kick</div> 
-    <div style="border-bottom:1px solid #FFF;" >18,75 RON / 50ml - Fresh Ocean</div> 
-    <div style="border-bottom:1px solid #FFF;" >18,75 RON / 50ml - Fresh Active</div> 
-    <div style="border-bottom:1px solid #FFF;" >18,99 RON / 50ml - Active Energy</div> 
-    <div style="border-bottom:1px solid #FFF;" >20,89 RON / 50ml - Black & White Ultimate Impact</div> 
-    <div style="border-bottom:1px solid #FFF;" >23,26 RON / 50ml - Protect & Care</div> 
-    <div style="border-bottom:1px solid #FFF;" >26,22 RON / 50ml - Black & White Invisible</div> 
-    <div style="border-bottom:1px solid #FFF;" >28,17 RON / 50ml - Fresh Ocean</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Roll-on Deodorant Rexona Deo</span><span id="ro">Roll-on Deodorant Rexona Deo</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >19.56 RON / 50ml - Invisible On B+W Clothes</div> 
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 50ml - Aloe Vera</div>    
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 40ml - Invisible Aqua</div>    
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 40ml - Invisible Pure</div>    
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 40ml - Invisible On B+W Clothes</div>    
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 40ml - Active Protection + Fresh</div>    
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 40ml - Active Protection + Invisible</div>    
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 40ml - Sexy Bouque</div>    
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Roll-on Deodorant Rexona Stick Max Pro Clean Scento</span><span id="ro">Roll-on Deodorant Rexona Stick Max Pro Clean Scent</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >25.43 RON / 45ml</div>     
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Roll-on Deodorant Dove Stick</span><span id="ro">Roll-on Deodorant Dove Stick</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >19.56 RON / 40ml - Fresh Touch</div>     
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 40ml - Invisible Dry</div> 
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 40ml - Original</div> 
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 40ml - Pear Aloe Vera</div> 
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 40ml - Invisible Care</div> 
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 40ml - Apple & White Tea</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Roll-on Deodorant Dove Stick</span><span id="ro">Roll-on Deodorant Dove Stick</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >24.41 RON / 50ml - Cream Original</div>     
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Roll-on Deodorant Dove Advanced Care</span><span id="ro">Roll-on Deodorant Dove Advanced Care</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >29.29 RON / 50ml - Original</div>     
-    <div style="border-bottom:1px solid #FFF;" >29.29 RON / 50ml - Cucumber Green Tea</div>
-    <div style="border-bottom:1px solid #FFF;" >29.29 RON / 50ml - Coconut & Jasmine</div>
-    <div style="border-bottom:1px solid #FFF;" >29.29 RON / 50ml - Acai Berry</div>
-    <div style="border-bottom:1px solid #FFF;" >29.29 RON / 50ml - Passion Fruit</div>
-    <div style="border-bottom:1px solid #FFF;" >29.29 RON / 50ml - Invisible Dry</div>
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Roll-on Deodorant Dove Alufree Original</span><span id="ro">Roll-on Deodorant Dove Alufree Original</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >29.29 RON / 50ml</div>     
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Roll-on Deodorant Rexona Men</span><span id="ro">Roll-on Deodorant Deodorant Rexona Men</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >19.56 RON / 50ml - Cobalt Dry</div>    
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 50ml - Invisible On B+W Clothes</div>    
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 50ml - Quantum</div>    
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 50ml - Invisible Fresh</div>    
-    <div style="border-bottom:1px solid #FFF;" >19.56 RON / 50ml - Act+Prot Invisible</div>    
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Roll-on Deodorant Rexona Men Max Pro</span><span id="ro">Roll-on Deodorant Deodorant Rexona Men Max Pro</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >25.43 RON / 50ml - Cobalt Dry</div>    
-    <div style="border-bottom:1px solid #FFF;" >25.43 RON / 50ml - Clean Scent</div>     
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Roll-on Deodorant Dove Men+Care</span><span id="ro">Roll-on Deodorant Deodorant Dove Men+Care</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >24.41 RON / 50ml - Clean Comfort</div>    
-    <div style="border-bottom:1px solid #FFF;" >24.41 RON / 50ml - Cool Fresh</div>     
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Roll-on Deodorant Dove Men+Care Advanced Care</span><span id="ro">Roll-on Deodorant Deodorant Dove Men+Care Advanced Care</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >29.29 RON / 50ml - Clean Comfort</div>    
-    <div style="border-bottom:1px solid #FFF;" >29.29 RON / 50ml - Extra Fresh</div>     
-    <div style="border-bottom:1px solid #FFF;" >29.29 RON / 50ml - Invisible Dry</div>     
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Roll-on Gel Deodorant Old Spice</span><span id="ro">Roll-on Gel Deodorant Old Spice</span></td>
-    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >16.46 RON / 70ml - Captain</div>    
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 70ml - Whitewater</div>        
-    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Roll-on Deodorant Old Spice</span><span id="ro">Roll-on Deodorant Old Spice</span></td>
-    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >25.07 RON / 85ml - Captain</div>    
-    <div style="border-bottom:1px solid #FFF;" >25.07 RON / 85ml - Whitewater</div>        
-    <div style="border-bottom:1px solid #FFF;" >25.07 RON / 85ml - Wolfthorn</div>  
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 50ml - Captain</div>  
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 50ml - Bearglove</div>  
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 50ml - Citron</div>  
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 50ml - White Water</div>  
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 50ml - Oasis</div>  
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 50ml - Original</div>  
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 50ml - Restart</div>  
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 50ml - Nightpanther</div>  
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 50ml - Ultra Defence</div>  
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 50ml - Rock</div>  
-    <div style="border-bottom:1px solid #FFF;" >16.46 RON / 50ml - Wolfthorn</div>  
-    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Roll-on Deodorant Gillette</span><span id="ro">Roll-on Deodorant Gillette</span></td>
-    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >17.42 RON / 70ml - Cool Wave</div>    
-    <div style="border-bottom:1px solid #FFF;" >17.42 RON / 70ml - Triumph Sport</div>
-    <div style="border-bottom:1px solid #FFF;" >17.42 RON / 70ml - Hydragel Aloe</div>
-    <div style="border-bottom:1px solid #FFF;" >17.42 RON / 70ml - Hydragel Eucalyptus</div>
-    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">General Use Cream Dove</span><span id="ro">Crema De Uz General Dove</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >15.26 RON / 75ml</div> 
-    <div style="border-bottom:1px solid #FFF;" >21.57 RON / 150ml</div>     
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Body Lotion Dove Cocos&Almonds</span><span id="ro">Loțiune corp Dove Cocos&Almonds</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >30.35 RON / 250ml</div> 
-    <div style="border-bottom:1px solid #FFF;" >41.64 RON / 400ml</div>     
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Body Lotion Dove ( Lotus Oil or Matcha & Sakura Blossom )</span><span id="ro">Loțiune corp Dove ( Lotus Oil sau Matcha & Sakura Blossom )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >30.35 RON / 250ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Body Lotion Dove ( Night Renew  or Hydro Nourishment or Shea Butter)</span><span id="ro">Loțiune corp Dove ( Night Renew sau Hydro Nourishment sau Shea Butter )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >41.64 RON / 400ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Hand Cream Dove (  Avocado Extract or Coconut Milk or Matcha & Sakura Blossom )</span><span id="ro">Cremă De Mâini Dove ( Avocado Extract sau Coconut Milk sau Matcha & Sakura Blossom )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >15.02 RON / 75ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Body Milk Dove Essential Nourishment</span><span id="ro">Lapte Corp Dove Essential Nourishment</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >30.35 RON / 250ml</div> 
-    <div style="border-bottom:1px solid #FFF;" >41.64 RON / 400ml</div> 	    
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Body Cream Dove Goodness</span><span id="ro">Cremă De Corp Dove Goodness</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >43.15 RON / 300ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Body lotion Baby Dove Rich</span><span id="ro">Loțiune de corp Baby Dove Rich</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >29.71 RON / 200ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Bath salt Dove ( Renew or Glow )</span><span id="ro">Sare de baie Dove ( Renew sau Glow )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >28.62 RON / 400ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Body scrub Dove ( Macadamia & Rice or Pomegranat & Shea )</span><span id="ro">Scrub exfoliant corp Dove ( Macadamia & Rice sau Pomegranat & Shea )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >48.94 RON / 225ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	
-    <td><span id="en">Bubblebath shampoo Dove ( Renew or Glow )</span><span id="ro">Spumă de baie Dove ( Renew sau Glow )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >28.62 RON / 400ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
     </tr><tr>
-    <td><span id="en">Shower Foam Dove ( Renew or Glow )</span><span id="ro">Spumă de duș Dove ( Renew sau Glow )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >28.62 RON / 200ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+
+<!-- liquid soap end --> 
+
+<!-- intimate liquid soap stard 1 --> 
+
+    <td><span id="en">Intimate liquid soap Herbagen</span><span id="ro">Săpun lichid intim Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >34.00  RON / 500ml <span id="en">with lavender & echinacea extract</span><span id="ro">cu extracte de lavanda si echinacea</span></div>
+    <div style="border-bottom:1px solid #FFF;" >34.00  RON / 500ml <span id="en">with centella asiatica extract</span><span id="ro">cu extract de centella asiatica</span></div>
+    <div style="border-bottom:1px solid #FFF;" >23.00  RON / 350ml <span id="en">with achillea and chamomile extract</span><span id="ro">cu extracte de achillea milefolium si musetel</span></div>
+    <div style="border-bottom:1px solid #FFF;" >23.00  RON / 350ml <span id="en">with viola tricolor extract</span><span id="ro">cu extract de viola tricolor</span></div>
+    <div style="border-bottom:1px solid #FFF;" >23.00  RON / 350ml <span id="en">with echinacea extract</span><span id="ro">cu extract de echinacea</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
     </tr><tr>
-    <td><span id="en">Self-Tan Dove Light/Medium</span><span id="ro">Loțiune Autobronzantă Dove Light/Medium</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >38.04 RON / 200ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+
+<!-- intimate liquid soap end --> 
+
+<!-- shower gel stard 22--> 
+
+
+   <tr><td><span id="en">Shower Gel Herbagen</span><span id="ro">Gel de dus Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >13.00  RON / 250ml <span id="en">Coconut and Vanilla Shower Gel</span><span id="ro">Gel de dus Vanilie & Cocos</span></div>
+    <div style="border-bottom:1px solid #FFF;" >13.00  RON / 250ml <span id="en">Chocolate Dream Shower Gel</span><span id="ro">Gel de dus Chocolate Dream</span></div>
+    <div style="border-bottom:1px solid #FFF;" >13.00  RON / 250ml <span id="en">Mint Leaves Shower Gel</span><span id="ro">Gel de dus Mint Leaves</span></div>
+    <div style="border-bottom:1px solid #FFF;" >13.00  RON / 250ml <span id="en">Spirulina Shower Gel</span><span id="ro">Gel de dus Spirulina</span></div>
+    <div style="border-bottom:1px solid #FFF;" >13.00  RON / 250ml <span id="en">Lilac Shower Gel</span><span id="ro">Gel de dus Liliac</span></div>
+    <div style="border-bottom:1px solid #FFF;" >13.00  RON / 250ml <span id="en">Ocean Shower Gel</span><span id="ro">Gel de dus Ocean</span></div>
+    <div style="border-bottom:1px solid #FFF;" >13.00  RON / 250ml <span id="en">Grapefruit Shower Gel</span><span id="ro">Gel de dus Grapefruit</span></div>
+    <div style="border-bottom:1px solid #FFF;" >13.00  RON / 250ml <span id="en">Chinese Fruit Shower Gel</span><span id="ro">Gel de dus Chinese Fruit</span></div>
+    <div style="border-bottom:1px solid #FFF;" >13.00  RON / 250ml <span id="en">Rose Shower Gel</span><span id="ro">Gel de dus Rose</span></div>
+    <div style="border-bottom:1px solid #FFF;" >13.00  RON / 250ml <span id="en">White musk Shower Gel</span><span id="ro">Gel de dus Mosc alb</span></div>
+    <div style="border-bottom:1px solid #FFF;" >13.00  RON / 250ml <span id="en">Lavender Shower Gel</span><span id="ro">Gel de dus Lavanda</span></div>
+    <div style="border-bottom:1px solid #FFF;" >13.00  RON / 250ml <span id="en">Candy Shower Gel</span><span id="ro">Gel de dus Candy</span></div>
+    <div style="border-bottom:1px solid #FFF;" >13.00  RON / 250ml <span id="en">Shower Gel with verveine essential oil</span><span id="ro">Gel de dus cu ulei esential de verveina</span></div>
+    <div style="border-bottom:1px solid #FFF;" >14.00  RON / 250ml <span id="en">Grape Elixir Shower Gel</span><span id="ro">Gel de dus Elixir din struguri</span></div>
+    <div style="border-bottom:1px solid #FFF;" >16.00  RON / 300ml <span id="en">Banana Shower Gel</span><span id="ro">Gel de dus cu extract de banana</span></div>
+    <div style="border-bottom:1px solid #FFF;" >20.00  RON / 300ml <span id="en">Anti-Cellulite Exfoliating Shower Gel</span><span id="ro">Gel de dus exfoliant anticelulita</span></div>
+    <div style="border-bottom:1px solid #FFF;" >20.00  RON / 300ml <span id="en">Eco/bio Honey Shower Gel</span><span id="ro">Gel de dus cu miere de albine bio</span></div>
+    <div style="border-bottom:1px solid #FFF;" >35.00  RON / 1000ml <span id="en">Shower Gel with oranges and verveine</span><span id="ro">Gel de dus portocala si verveina</span></div>
+    <div style="border-bottom:1px solid #FFF;" >35.00  RON / 1000ml <span id="en">Jasmine Shower Gel</span><span id="ro">Gel de dus Jasmine</span></div>
+    <div style="border-bottom:1px solid #FFF;" >35.00  RON / 1000ml <span id="en">Coffee Shower Gel</span><span id="ro">Gel de dus Cafea</span></div>
+    <div style="border-bottom:1px solid #FFF;" >35.00  RON / 1000ml <span id="en">Cinnamon and Apple Shower Gel </span><span id="ro">Gel de dus mar si scortisoara</span></div>
+    <div style="border-bottom:1px solid #FFF;" >35.00  RON / 1000ml <span id="en">Green Tea Shower Gel</span><span id="ro">Gel de dus ceai verde</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
     </tr><tr>
-    <td><span id="en">Self-Tan Foam Dove ( Medium/Dark or Light/Medium )</span><span id="ro">Spumă Autobronzantă Dove ( Medium/Dark sau Light/Medium )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >38.04 RON / 150ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+
+<!-- shower gel end --> 
+
+    <td><span id="en">Roll-on Deodorant Herbagen</span><span id="ro">Roll-on Deodorant Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >11.00  RON / 50ml <span id="en">ENERGY with silver ions</span><span id="ro">ENERGY cu ioni de argint</span></div>
+    <div style="border-bottom:1px solid #FFF;" >11.00  RON / 50ml <span id="en">FANTASIA with silver ions</span><span id="ro">FANTASIA cu ioni de argint</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
     </tr><tr>
-    <td><span id="en">Self-Tan Foam Dove ( Medium/Dark or Light/Medium )</span><span id="ro">Spumă Autobronzantă Dove ( Medium/Dark sau Light/Medium )</span></td>
-    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >38.04 RON / 150ml</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr><tr>	    
-    <td><span id="en">Body Cream Nivea Men</span><span id="ro">Cremă De Corp Nivea Men</span></td>
-    <td><span id="en">Supplier: Beiersdorf - Romania</span><span id="ro">Furnizor: Beiersdorf - Romania</span></td>
-    <td><div style="border-bottom:1px solid #FFF;" >12,45 RON / 75ml - Nivea Men Creme</div> 
-    <div style="border-bottom:1px solid #FFF;" >25,99 RON / 75ml - Fresh</div> 
-    <div style="border-bottom:1px solid #FFF;" >53,99 RON / 50ml - <span id="en" >Revitalizing Gel for Active Energy Skin</span><span id="ro" >Gel Revitalizant Pentru Ten Active Energy</span></div> 
-    <div style="border-bottom:1px solid #FFF;" >60,99 RON / 50ml - <span id="en" >Nivea Men Active Energy Revitalizing Face Cream<span id="ro" >Cremă De Față Revitalizantă Nivea Men Active Energy</span></div> 
-    <div style="border-bottom:1px solid #FFF;" >69,90 RON / 50ml - <span id="en" >Anti-Wrinkle Cream With Hyaluron</span><span id="ro" >Cremă Anti-rid Cu Hialuron Fps</span></div> 
-    <div style="border-bottom:1px solid #FFF;" >70,25 RON / 50ml - Gel Active Energy Morning Fix</div> 
-    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
-    </tr>   
+
+    <td><span id="en">Antiperspirant for feet Herbagen</span><span id="ro">Antiperspirant pentru picioare Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >7.00  RON / 100ml - Gel</div>
+    <div style="border-bottom:1px solid #FFF;" >15.00  RON / 150ml - Spray</div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+<!-- Deodorant end --> 
+
+    <td><span id="en">Argan Oil 100% Organic Herbagen</span><span id="ro">Ulei Argan 100% Organic Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >110.00  RON / 150ml</div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Body milk Herbagen</span><span id="ro">Lapte de corp Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >15.00  RON / 150ml <span id="en">with marine collagen</span><span id="ro">cu cu colagen marin</span></div>
+    <div style="border-bottom:1px solid #FFF;" >18.00  RON / 200ml <span id="en">with macadamia oil Rose</span><span id="ro">cu ulei de macadamia Rose</span></div>
+    <div style="border-bottom:1px solid #FFF;" >18.00  RON / 200ml <span id="en">with macadamia oil Sensual</span><span id="ro">cu ulei de macadamia Sensual</span></div>
+    <div style="border-bottom:1px solid #FFF;" >18.00  RON / 200ml <span id="en">with macadamia oil Herbal</span><span id="ro">cu ulei de macadamia Herbal</span></div>
+    <div style="border-bottom:1px solid #FFF;" >18.00  RON / 200ml <span id="en">with macadamia oil White Flower</span><span id="ro">cu ulei de macadamia White Flower</span></div>
+    <div style="border-bottom:1px solid #FFF;" >18.00  RON / 200ml <span id="en">with olive oil Donna Verde</span><span id="ro">cu ulei de masline Donna Verde</span></div>
+    <div style="border-bottom:1px solid #FFF;" >18.00  RON / 200ml <span id="en">with olive oil Petali & Fiori</span><span id="ro">cu ulei de masline Petali & Fiori</span></div>
+    <div style="border-bottom:1px solid #FFF;" >18.00  RON / 200ml <span id="en">with olive oil Fiori di Campo</span><span id="ro">cu ulei de masline Fiori di Campo</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Relaxing fragrant and effervescent bath salt Herbagen</span><span id="ro">Sare relaxantă de baie parfumată și efervescentă Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >4.00  RON / 25g</div>
+    <div style="border-bottom:1px solid #FFF;" >5.00  RON / 50g</div>
+    <div style="border-bottom:1px solid #FFF;" >6.00  RON / 80g</div>
+    <div style="border-bottom:1px solid #FFF;" >10.00  RON / 120g</div>
+    <div style="border-bottom:1px solid #FFF;" >15.00  RON / 200g</div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Body oil 150ml Herbagen</span><span id="ro">Ulei de masaj Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >19 RON / 50ml <span id="en">artromio-calmin forte</span><span id="ro">artromio-calmin forte</span></div>
+    <div style="border-bottom:1px solid #FFF;" >32 RON / 100g <span id="en">artromio-calmin gel</span><span id="ro">artromio-calmin gel</span></div>
+    <div style="border-bottom:1px solid #FFF;" >14 RON / 50ml <span id="en">antistress relaxant</span><span id="ro">relaxant antistres</span></div>
+    <div style="border-bottom:1px solid #FFF;" >23.00 RON / 150ml <span id="en">biphasic with aloe vera and grape seed oil</span><span id="ro">bifazic cu aloe vera si ulei samburi struguri</span></div>
+    <div style="border-bottom:1px solid #FFF;" >23 RON / 150ml <span id="en">with mint leaves</span><span id="ro">cu mint leave</span></div>
+    <div style="border-bottom:1px solid #FFF;" >25 RON / 150ml <span id="en">with organic coconut and olive oil</span><span id="ro">cu ulei cocos organic si masline</span></div>
+    <div style="border-bottom:1px solid #FFF;" >29 RON / 150ml <span id="en">with chocolate dream</span><span id="ro">cu chocolate dream</span></div>
+    <div style="border-bottom:1px solid #FFF;" >30.00 RON / 150ml <span id="en">with banana extract</span><span id="ro">cu extract de banana</span></div>
+    <div style="border-bottom:1px solid #FFF;" >60.00 RON / 1000ml <span id="en">scentless</span><span id="ro">neparfumat</span></div>
+    <div style="border-bottom:1px solid #FFF;" >80 RON / 1000ml <span id="en">massage cream</span><span id="ro">cremă pentru masaj</span></div>
+    <div style="border-bottom:1px solid #FFF;" >180 RON / 1000ml <span id="en">with macadamia oil and white musk</span><span id="ro">cu ulei de macadamia si mosc alb</span></div>
+    <div style="border-bottom:1px solid #FFF;" >180 RON / 1000ml <span id="en">with macadamia oil, apple and cinnamon</span><span id="ro">cu ulei de macadamia, mar si scortisoara</span></div>
+    <div style="border-bottom:1px solid #FFF;" >180 RON / 1000ml <span id="en">with macadamia oil and lavender</span><span id="ro">cu ulei de macadamia si lavanda</span></div>
+    <div style="border-bottom:1px solid #FFF;" >180 RON / 1000ml <span id="en">with macadamia oil and coffee</span><span id="ro">cu ulei de macadamia si cafea</span></div>
+    <div style="border-bottom:1px solid #FFF;" >180 RON / 1000ml <span id="en">with macadamia oil and candy</span><span id="ro">cu ulei de macadamia si candy</span></div>
+
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Body oil with essential oils Herbagen</span><span id="ro">Ulei de masaj cu uleiuri esentiale Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >22.00 RON / 250ml <span id="en">bergamot and grapefruit</span><span id="ro">bergamota si grapefruit</span></div>
+    <div style="border-bottom:1px solid #FFF;" >22.00 RON / 250ml <span id="en">lavender</span><span id="ro">lavanda</span></div>
+    <div style="border-bottom:1px solid #FFF;" >22.00 RON / 250ml <span id="en">orange</span><span id="ro">portocala</span></div>
+    <div style="border-bottom:1px solid #FFF;" >22.00 RON / 250ml <span id="en">rose</span><span id="ro">trandafir</span></div>
+    <div style="border-bottom:1px solid #FFF;" >22.00 RON / 250ml <span id="en">ylang-ylang + patchouli + lavender</span><span id="ro">grapefruit + menta + geraniu + portocala</span></div>
+    <div style="border-bottom:1px solid #FFF;" >22.00 RON / 250ml <span id="en">ylang-ylang + patchoulli + lavender</span><span id="ro">ylang-ylang + patchoulli + lavanda</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Body Cream Herbagen</span><span id="ro">Cremă de corp Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >18.00 RON / 150ml <span id="en">Body cream with red grape microzest</span><span id="ro">Cremă de corp cu micronizat de strugure roșu</span></div>
+    <div style="border-bottom:1px solid #FFF;" >18.00 RON / 150ml <span id="en">Body cream with lavender water and shea butter</span><span id="ro">Crema de corp cu apă de lavandă și unt de shea</span></div>
+    <div style="border-bottom:1px solid #FFF;" >18.00 RON / 150ml <span id="en">Body cream with bergamot and basil</span><span id="ro">Crema de corp cu bergamota si busuioc</span></div>
+    <div style="border-bottom:1px solid #FFF;" >19 RON / 150ml <span id="en">Body cream with jojoba and vitamins A & E</span><span id="ro">Cremă de corp cu ulei de jojoba și vitaminele A și E</span></div>
+    <div style="border-bottom:1px solid #FFF;" >20.00 RON / 150ml <span id="en">Body cream with jojoba, olive oil and A & E vitamins</span><span id="ro">Cremă de corp cu ulei de jojoba, măsline și vitaminele A și E</span></div>
+    <div style="border-bottom:1px solid #FFF;" >23.00 RON / 150g <span id="en">Mint Leaves body cream</span><span id="ro">Cremă de fata si corp mint leaves</span></div>
+    <div style="border-bottom:1px solid #FFF;" >36.00 RON / 150g <span id="en">Banana body cream</span><span id="ro">Crema de corp cu extract de banana</span></div>
+    <div style="border-bottom:1px solid #FFF;" >65.00 RON / 200g <span id="en">Snail extract body fluid cream</span><span id="ro">Cremă de corp fluida cu extract de melc</span></div>
+    <div style="border-bottom:1px solid #FFF;" >85.00 RON / 200g <span id="en">Body cream with local slimming effect</span><span id="ro">Crema de corp cu efect de slabire locala</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Serum Herbagen</span><span id="ro">Ser Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >35.00  RON / 150g <span id="en">Anti-cellulite body remodeling serum with viper venom</span><span id="ro">Ser remodelant anti-celulită cu venin de viperă</span></div>
+    <div style="border-bottom:1px solid #FFF;" >36.00  RON / 100g <span id="en">Indian Summer Radiant Serum</span><span id="ro">Ser stralucitor Indian Summer</span></div>
+    <div style="border-bottom:1px solid #FFF;" >45.00  RON / 50g <span id="en">Anti-wrinkle & Lifting Serum for men</span><span id="ro">Ser antirid si lifting pentru barbati</span></div>
+    <div style="border-bottom:1px solid #FFF;" >50.00  RON / 30g <span id="en">Viper venom and snail extract face serum</span><span id="ro">Ser facial cu venin de vipera si extract din melc</span></div>
+    <div style="border-bottom:1px solid #FFF;" >50.00  RON / 30ml <span id="en">Anti-dark circles, anti-eyebags serum</span><span id="ro">Ser anticearcăne, antipungi</span></div>
+    <div style="border-bottom:1px solid #FFF;" >50.00  RON / 30ml <span id="en">Antiwrinkle and lifting brightening serum</span><span id="ro">Ser iluminator antirid si lifting</span></div>
+    <div style="border-bottom:1px solid #FFF;" >50.00  RON / 30ml <span id="en">Serum for impure skin</span><span id="ro">Ser pentru ten impur - încărcat</span></div>
+    <div style="border-bottom:1px solid #FFF;" >55.00  RON / 30g <span id="en">Argireline serum</span><span id="ro">Ser cu argireline</span></div>
+    <div style="border-bottom:1px solid #FFF;" >120.00  RON / 30ml <span id="en">Repairing serum with snail extract</span><span id="ro">Ser reparator cu extract din melc</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Solar protection Herbagen</span><span id="ro">Protecție solară Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >14.00  RON / 150ml <span id="en">Sun milk SPF15 with carrot oil</span><span id="ro">Lapte de plaja SPF15 cu ulei de morcov</span></div>
+    <div style="border-bottom:1px solid #FFF;" >24.00  RON / 150ml <span id="en">Sun milk SPF15 with raspberry and macadamia oil</span><span id="ro">Lapte de plaja SPF15 cu ulei de zmeura si macadamia</span></div>
+    <div style="border-bottom:1px solid #FFF;" >24.00  RON / 150ml <span id="en">Sun milk SPF20 with marine collagen</span><span id="ro">Lapte de plaja SPF20 cu colagen marin</span></div>
+    <div style="border-bottom:1px solid #FFF;" >34.00  RON / 150ml <span id="en">Sun milk SPF25 with raspberry and macadamia oil</span><span id="ro">Lapte de plaja SPF25 cu ulei de zmeura si macadamia</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Grape elixir Herbagen</span><span id="ro">Elixir din struguri Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >39.00  RON / 200g <span id="en">Slimming grape elixir</span><span id="ro">Elixir din struguri cu efect de slăbire</span></div>
+    <div style="border-bottom:1px solid #FFF;" >24.00  RON / 50g <span id="en">Skin lightening grape elixir</span><span id="ro">Elixir din struguri cu efect luminozitate</span></div>
+    <div style="border-bottom:1px solid #FFF;" >30.00  RON / 50g <span id="en">Anti-Wrinkle Grape Elixir</span><span id="ro">Elixir din struguri cu efect antirid</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Unt de corp Herbagen</span><span id="ro">Body butter Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >19.00  RON / 150ml <span id="en">Vanilla & Coconut</span><span id="ro">Vanilie & Cocos</span></div>
+    <div style="border-bottom:1px solid #FFF;" >19.00  RON / 150ml <span id="en">Chocolate Dream</span><span id="ro">Chocolate Dream</span></div>
+    <div style="border-bottom:1px solid #FFF;" >45.00  RON / 150ml <span id="en">Organic Coconutr</span><span id="ro">Cocos organic</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Day cream Herbagen</span><span id="ro">Cremă de zi Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >30.00  RON / 50g <span id="en">with bio/eco honey</span><span id="ro">cu miere de albine bio</span></div>
+    <div style="border-bottom:1px solid #FFF;" >37.00  RON / 50g <span id="en">with snail extract SPF15</span><span id="ro">cu extract din melc SPF15</span></div>
+    <div style="border-bottom:1px solid #FFF;" >35.00  RON / 30g <span id="en">with stem cells SPF30</span><span id="ro">cu celule stem SPF30</span></div>
+    <div style="border-bottom:1px solid #FFF;" >44.00  RON / 50g <span id="en">with mineral filters and argan oil SPF30</span><span id="ro">cu filtre minerale si ulei de argan SPF30</span></div>
+    <div style="border-bottom:1px solid #FFF;" >55.00  RON / 50g <span id="en">BB with raspberry and macadamia oil SPF15</span><span id="ro">BB cu ulei de zmeura si macadamia SPF15</span></div>
+    <div style="border-bottom:1px solid #FFF;" >55.00  RON / 30g <span id="en">BB Argireline day cream</span><span id="ro">Crema de zi BB cu argireline</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Night cream Herbagen</span><span id="ro">Cremă de noapte Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >21.00  RON / 50g <span id="en">with bio/eco honey</span><span id="ro">cu miere de albine bio</span></div>
+    <div style="border-bottom:1px solid #FFF;" >35.00  RON / 30g <span id="en">with stem cells - anti-wrinkle</span><span id="ro">cu celule stem - antirid</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Face cream Herbagen</span><span id="ro">Cremă de față Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >16.00  RON / 100g <span id="en">for men - with organic jojoba oil and vitamin A+E</span><span id="ro">pentru bărbați - cu ulei de jojoba bio si vitamina A+E </span></div>
+    <div style="border-bottom:1px solid #FFF;" >17.00  RON / 100g <span id="en">with micronized red grapes</span><span id="ro">cu micronizat de strugure rosu</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Anti-acne cream Herbagen</span><span id="ro">Cremă antiacnee Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >20.00  RON / 150ml <span id="en">lotion with calendula and echinacea extract</span><span id="ro">loțiune cu extract de galbenele si echinacea </span></div>
+    <div style="border-bottom:1px solid #FFF;" >15.00  RON / 60ml <span id="en">with marigold and St John's wort extract</span><span id="ro">cu extract de galbenele si sunatoare</span></div>
+    <div style="border-bottom:1px solid #FFF;" >16.00  RON / 50g <span id="en">with allantoin, marigold oil, lavender, tea tree</span><span id="ro">cu alantoina, ulei galbenele, lavanda, arbore ceai</span></div>
+    <div style="border-bottom:1px solid #FFF;" >30.00  RON / 50g <span id="en">CC Cream Soothing & Correcting</span><span id="ro">CC Cremă calmantă și corectoare</span></div>
+    <div style="border-bottom:1px solid #FFF;" >33.00  RON / 50g <span id="en">intensive anti-acne with snail extract</span><span id="ro">intensivă antiacneică cu extract din melc</span></div>
+    <div style="border-bottom:1px solid #FFF;" >46.00  RON / 50g <span id="en">gel with snail extract for oily/acne skin</span><span id="ro">gel cu extract din melc pentru ten gras/acneic</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Anti wrinkle cream Herbagen</span><span id="ro">Cremă antirid Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >19.00  RON / 100ml <span id="en">superfat, with chamomile extract, calendula, St. John's wort and vitamin A+E</span><span id="ro">supergrasa, cu extract de musetel, galbenele, sunatoare si vitamina A+E</span></div>
+    <div style="border-bottom:1px solid #FFF;" >30.00  RON / 50g <span id="en">Banana extract cream</span><span id="ro">Crema cu extract de banana</span></div>
+    <div style="border-bottom:1px solid #FFF;" >40.00  RON / 50g <span id="en">cream - anti-wrinkle balm with snail extract</span><span id="ro">cremă - balsam antirid cu extract din melc</span></div>
+    <div style="border-bottom:1px solid #FFF;" >46.00  RON / 50g <span id="en">with snail extract, hyaluronic acid, retinol and vitamin E</span><span id="ro">cu extract din melc, acid hialuronic, retinol si vitamina E</span></div>
+    <div style="border-bottom:1px solid #FFF;" >50.00  RON / 50g <span id="en">Argireline cream</span><span id="ro">Crema cu argireline</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Anti-cellulite cream Herbagen</span><span id="ro">Cremă anticelulită Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >28.00  RON / 200g <span id="en">with seaweed extract</span><span id="ro">cu extracte din alge marine</span></div>
+    <div style="border-bottom:1px solid #FFF;" >44.00  RON / 200g <span id="en">cryo</span><span id="ro">cryo</span></div>
+    <div style="border-bottom:1px solid #FFF;" >70.00  RON / 200g <span id="en">warm</span><span id="ro">warm</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Hand cream Herbagen</span><span id="ro">Cremă pentru mâini Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >12.00  RON / 100g <span id="en">cu ulei de masline si vitaminele A, E</span><span id="ro">with olive oil and vitamins A, E</span></div>
+    <div style="border-bottom:1px solid #FFF;" >12.00  RON / 100g <span id="en">with macadamia oil and jojoba</span><span id="ro">cu ulei de macadamia si jojoba</span></div>
+    <div style="border-bottom:1px solid #FFF;" >12.00  RON / 100g <span id="en">with aloe vera gel and collagen</span><span id="ro">cu gel aloe vera si colagen</span></div>
+    <div style="border-bottom:1px solid #FFF;" >12.00  RON / 100g <span id="en">with citrus essential oil, glycerin and olive oil</span><span id="ro">cu ulei esențial de citrice, glicerină și ulei de măsline</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Foot care cream Keritogen</span><span id="ro">Cremă îngrijire picioare Keritogen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >12.00  RON / 50g <span id="en">KERITOGEN urea 10%</span><span id="ro">KERITOGEN uree 10%</span></div>
+    <div style="border-bottom:1px solid #FFF;" >12.00  RON / 50g <span id="en">KERITOGEN urea 20%</span><span id="ro">KERITOGEN uree 20%</span></div>
+    <div style="border-bottom:1px solid #FFF;" >12.00  RON / 50g <span id="en">KERITOGEN urea 30%</span><span id="ro">KERITOGEN uree 30%</span></div>
+    <div style="border-bottom:1px solid #FFF;" >12.00  RON / 50g <span id="en">KERITOGEN forte</span><span id="ro">KERITOGEN forte</span></div>
+    <div style="border-bottom:1px solid #FFF;" >16.00  RON / 50g <span id="en">KERITOGEN total</span><span id="ro">KERITOGEN total</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Skin care cream Herbagen</span><span id="ro">Cremă pentru ten Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >19.00  RON / 100ml <span id="en">with marine collagen and marigold extract</span><span id="ro">cu colagen marin si extract de galbenele</span></div>
+    <div style="border-bottom:1px solid #FFF;" >20.00  RON / 100g <span id="en">with marine collagen</span><span id="ro">cu colagen marin</span></div>
+    <div style="border-bottom:1px solid #FFF;" >21.00  RON / 50g <span id="en">nutritious with phytoceramides and organic argan oil</span><span id="ro">nutritiva cu fitoceramide și ulei de argan bio </span></div>
+    <div style="border-bottom:1px solid #FFF;" >46.00  RON / 100g <span id="en">with snail extract</span><span id="ro">cu extract din melc</span></div>
+    <div style="border-bottom:1px solid #FFF;" >46.00  RON / 30g <span id="en">for eye contour with snail extract</span><span id="ro">pentru contur ochi cu extract din melc</span></div>
+    <div style="border-bottom:1px solid #FFF;" >50.00  RON / 50g <span id="en">repairing balm with extracts of cica (centella asiatica) and snail</span><span id="ro">balsam reparator cu extracte de cica (centella asiatica) si melc</span></div>
+    <div style="border-bottom:1px solid #FFF;" >69.00  RON / 50g <span id="en">lifting and luminosity</span><span id="ro">lifting și luminozitate</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Moisturizing gel Herbagen</span><span id="ro">Gel hidratant Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >23.00  RON / 150g - <span id="en">with aloe vera</span><span id="ro">cu aloe vera</span></div>
+    <div style="border-bottom:1px solid #FFF;" >15 RON / 50g - <span id="en">instant refresher with arnica extract and essential oils</span><span id="ro">revigorant instant cu extract arnica si uleiuri esentiale</span></div>
+    <div style="border-bottom:1px solid #FFF;" >22 RON / 30ml - <span id="en">with loaded unispheres and vitamins A, E, C</span><span id="ro">cu unisfere incarcate si vitaminele A,E,C</span></div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Moisturizing cream with Abyssinian oil and shea butter Herbagen</span><span id="ro">Cremă hidratantă cu ulei abisinian si unt de shea Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >17.00 RON / 100g</div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Lavender floral water with a high content of silver ions Herbagen</span><span id="ro">Apă florală de lavandă cu conținut ridicat de ioni de argint Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >18.00  RON / 50ml</div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Coffee scrub Herbagen</span><span id="ro">Scrub cu cafea Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td>
+    <div style="border-bottom:1px solid #FFF;" >29.00  RON / 100g</div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Aftercare tattoo balm oil with CBD 30ml Herbagen</span><span id="ro">Ulei balsam dupa tatuaje cu CBD 30ml Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >50.00  RON / 30ml</div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Deo Fresh Spray body, scalp & feet 200ml Herbagen</span><span id="ro">Deo Fresh Spray corp, scalp, picioare 200ml Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >40.00  RON / 200ml</div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Artromio-calmin viper balm 50g Herbagen</span><span id="ro">Balsam viper artromio-calmin 50g Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >20.00  RON / 50g</div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+    <td><span id="en">Instant filler peel off mask 100g Herbagen</span><span id="ro">Masca Filler instant filmogena 100g Herbagen</span></td>
+    <td><span id="en">Supplier: GENMAR COSMETICS SRL - Romania</span><span id="ro">Furnizor: GENMAR COSMETICS SRL - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >70.00  RON / 100g</div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    </tr><tr>
+
+
 
 </tbody>
