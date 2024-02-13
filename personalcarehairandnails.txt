@@ -1,0 +1,441 @@
+<tbody>
+
+    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Pret</span></th></tr>  
+    
+
+
+
+
+
+    <tr><td><span id="en">Shampoo Dove Intensive Repair</span><span id="ro">Șampon Dove Intensive Repair</span></td>
+    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >22.34 RON / 250ml</div>	 
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Dove ( Clean Fresh or Thickening )</span><span id="ro">Șampon Dove ( Clean Fresh sau Thickening )</span></td>
+    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >22.34 RON / 250ml</div>	 
+    <div style="border-bottom:1px solid #FFF;" >31.45 RON / 400ml</div>	
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Baby Dove Rich</span><span id="ro">Șampon Baby Dove Rich</span></td>
+    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >29.19 RON / 400ml</div>	 
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Dove Advance Hair ( Oxygen Moisture or Color Care Vibrancy )</span><span id="ro">Șampon Dove Advance Hair ( Oxygen Moisture sau Color Care Vibrancy )</span></td>
+    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >30.07 RON / 250ml</div>	 
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Dove Advance Hair ( Daily Moisture or Intense Repair Damage or Radiance or Aloe Vera & Rose )</span><span id="ro">Șampon Dove Advance Hair ( Daily Moisture sau Intense Repair Damage sau Radiance sau Aloe Vera & Rose )</span></td>
+    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >31.45 RON / 400ml</div>	 
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Dove Dry Shampoo Refresh</span><span id="ro">Șampon Dove Dry Shampoo Refresh</span></td>
+    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >40.59 RON / 250ml</div>	 
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Clear W ( Scalp Oil or Hydration or Ice Cool or Antihair Fall )</span><span id="ro">Șampon Clear W ( Scalp Oil sau Hydration sau Ice Cool sau Antihair Fall )</span></td>
+    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >26.30 RON / 250ml</div>	 
+    <div style="border-bottom:1px solid #FFF;" >36.77 RON / 400ml</div>	
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Clear W ( Colored or Clean & Refresh )</span><span id="ro">Șampon Clear W ( Colored sau Clean & Refresh )</span></td>
+    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >36.77 RON / 400ml</div>	
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Clear Men Refreshing</span><span id="ro">Șampon Clear Men Refreshing</span></td>
+    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >26.30 RON / 250ml</div>	
+    <div style="border-bottom:1px solid #FFF;" >36.77 RON / 400ml</div>	
+    <div style="border-bottom:1px solid #FFF;" >47.60 RON / 600ml</div>	
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Clear Men ( 24H Fresh or Classic ) </span><span id="ro">Șampon Clear Men ( 24H Fresh sau Classic )</span></td>
+    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >26.30 RON / 250ml</div>	
+    <div style="border-bottom:1px solid #FFF;" >36.77 RON / 400ml</div>	
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Clear Men ( Cool Sport or Deep Clean ) </span><span id="ro">Șampon Clear Men ( Cool Sport sau Deep Clean )</span></td>
+    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >36.77 RON / 400ml</div>	
+    <div style="border-bottom:1px solid #FFF;" >47.60 RON / 600ml</div>	   
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Clear Men ( Herbal Fusion or Antihair Fall ) </span><span id="ro">Șampon Clear Men ( Herbal Fusion or Antihair Fall )</span></td>
+    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >36.77 RON / 400ml</div>	
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Clear Men 3 in 1 ( Active Cool or Active Clean )</span><span id="ro">Șampon Clear Men 3 in 1 ( Active Cool sau Active Clean )</span></td>
+    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >36.77 RON / 360ml</div>	
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Head & Shoulders ( 2in1 Classic Clean  or  Citrus Fresh or Classic Clean or Extra Volume or Menthol or Ocean Fresh or Apple Fresh ) </span><span id="ro">Șampon Head & Shoulders ( 2in1 Classic Clean  sau  Citrus Fresh sau Classic Clean sau Extra Volume sau Menthol sau Ocean Fresh sau Apple Fresh )</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >7.47 RON / 200ml</div>	    
+    <div style="border-bottom:1px solid #FFF;" >15.65 RON / 360ml</div>	    
+    <div style="border-bottom:1px solid #FFF;" >48.86 RON / 675ml</div>	    
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Head & Shoulders 2in1 Menthol </span><span id="ro">Șampon Head & Shoulders 2in1 Menthol</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >15.65 RON / 360ml</div>	    
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Head & Shoulders Anti-hair Fall </span><span id="ro">Șampon Head & Shoulders Anti-hair Fall</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >32.42 RON / 270ml</div>	 
+    <div style="border-bottom:1px solid #FFF;" >48.86 RON / 675ml</div>	   
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Head & Shoulders Anti Hairfall Cafeine </span><span id="ro">Șampon Head & Shoulders Anti Hairfall Cafeine</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >32.42 RON / 360ml</div>	 
+    <div style="border-bottom:1px solid #FFF;" >48.86 RON / 675ml</div>	   
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Head & Shoulders Derma ( X Pro Hydrate or X Pro Repair or X Pro Soothe or X Pro Strength ) </span><span id="ro">Șampon Head & Shoulders Derma ( X Pro Hydrate sau X Pro Repair sau X Pro Soothe sau X Pro Strength )</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >32.42 RON / 220ml</div>	 
+    <div style="border-bottom:1px solid #FFF;" >32.42 RON / 300ml</div>		    
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Head & Shoulders Derma ( Deep Cleanse Oil Control or Deep Cleanse Itch Relief or Deep Cleanse Scalp Detox )</span><span id="ro">Șampon Head & Shoulders Derma ( Deep Cleanse Oil Control sau Deep Cleanse Itch Relief sau Deep Cleanse Scalp Detox )</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >32.42 RON / 300ml</div>	 
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Head & Shoulders 7in1 ( Multi Action or Cooling ) </span><span id="ro">Șampon Head & Shoulders 7in1 ( Multi Action sau Cooling )</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >32.42 RON / 270ml</div>	 
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Head & Shoulders Derma ( X Pro Hydrate Balm or X Pro Soothe Balm ) </span><span id="ro">Șampon Head & Shoulders Derma ( X Pro Hydrate Balm sau X Pro Soothe Balm )</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >32.42 RON / 220ml</div>	 
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Head & Shoulders Men Ultra 2in1 Total Care</span><span id="ro">Șampon Head & Shoulders Men Ultra 2in1 Total Care</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >32.42 RON / 225ml</div>	 
+    <div style="border-bottom:1px solid #FFF;" >48.86 RON / 675ml</div>		    
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Head & Shoulders Men ( Anti-hairfall or Deep Cleansing or Total Care or Ultra Sport Fresh )</span><span id="ro">Șampon Head & Shoulders Men ( Anti-hairfall sau Deep Cleansing sau Total Care sau Ultra Sport Fresh )</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >32.42 RON / 360ml</div>	 
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Pantene Repair & Protect</span><span id="ro">Șampon Pantene Repair & Protect</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >7.22 RON / 200ml</div>	 
+    <div style="border-bottom:1px solid #FFF;" >16.37 RON / 250ml</div>
+    <div style="border-bottom:1px solid #FFF;" >24.84 RON / 360ml</div>
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Pantene Aqua Light</span><span id="ro">Șampon Pantene Aqua Light</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >16.37 RON / 250ml</div>	
+    <div style="border-bottom:1px solid #FFF;" >24.84 RON / 400ml</div>	
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Pantene ( Colour Protect & Shine or Oil Therapy or Defined Curls or Hair Superfood )</span><span id="ro">Șampon Pantene ( Colour Protect & Shine sau Oil Therapy sau Defined Curls sau Hair Superfood )</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >24.84 RON / 360ml</div>	
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>	    
+    <td><span id="en">Shampoo Pantene ( 3in1 Repair & Protect or Lift & volume or Pro-V Silk Glow )</span><span id="ro">Șampon Pantene ( 3in1 Repair & Protect sau Lift & volume sau Pro-V Silk Glow )</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >24.84 RON / 300ml</div>	
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>	
+    <td><span id="en">Shampoo Pantene Perfect Hydration</span><span id="ro">Șampon Pantene Perfect Hydration</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >16.37 RON / 250ml</div>	
+    <div style="border-bottom:1px solid #FFF;" >24.84 RON / 360ml</div>	
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Pantene Pro-V ( Purple Silk Glow or Silk Glow )</span><span id="ro">Șampon Pantene Pro-V ( Purple Silk Glow or Silk Glow )</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >24.84 RON / 225ml</div>	
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>		    
+    <td><span id="en">Shampoo Pantene 3mm ( Aqua Light or Superfood or Color or Repair & Protect )</span><span id="ro">Șampon Pantene 3mm ( Aqua Light or Superfood or Color or Repair & Protect )</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >24.84 RON / 200ml</div>	
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>	
+    <td><span id="en">Shampoo Pantene 3in1 Classic Care</span><span id="ro">Șampon Pantene 3in1 Classic Care</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >7.22 RON / 200ml</div>	 
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Nivea Men</span><span id="ro">Șampon Nivea Men</span></td>
+    <td><span id="en">Supplier: Beiersdorf - Romania</span><span id="ro">Furnizor: Beiersdorf - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >21,80 RON / 400ml - Anti Grease</div>
+    <div style="border-bottom:1px solid #FFF;" >19,89 RON / 250ml - Strong Power</div>	
+    <div style="border-bottom:1px solid #FFF;" >23 RON / 250ml - Cool Fresh</div>	
+    <div style="border-bottom:1px solid #FFF;" >24,38 RON / 250ml - Power</div>	
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shampoo Nivea Baby</span><span id="ro">Șampon Nivea Baby</span></td>
+    <td><span id="en">Supplier: Beiersdorf - Romania</span><span id="ro">Furnizor: Beiersdorf - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >14,45 RON / 200ml - Extra-delicat</div>
+    <div style="border-bottom:1px solid #FFF;" >17,99 RON / 200ml - <span id="en" >Shampoo and Bath Foam</span><span id="ro" >Sampon Și Spumă De Baie</span></div>	
+    <div style="border-bottom:1px solid #FFF;" >28,79 RON / 500ml - <span id="en" >Shampoo and Shower Gel 2in1 with Apples for Kids</span><span id="ro" >Șampon Și Gel De Duș 2în1 Cu Măr Pentru Copii, Cu Pompiță</span></div>
+    <div style="border-bottom:1px solid #FFF;" >29,99 RON / 500ml - <span id="en" >Shampoo and Shower Gel 2in1 with Forest Fruits for Kids</span><span id="ro" >Șampon Și Gel De Duș 2în1 Cu Fructe De Pădure Pentru Copii</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Hair mask Pantene Masque ( Color or Repair & Protect or Superfood )</span><span id="ro">Mască de pâr Pantene Masque ( Color or Repair & Protect or Superfood )</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >40.69 RON / 300ml</div>	 
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Hair mask Pantene Pro-V Mask Silk Glow</span><span id="ro">Mască de pâr Pantene Pro-V Mask Silk Glow</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >24.84 RON / 160ml</div>	 
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Hair mask Pantene Oil Repair & Protect</span><span id="ro">Mască de pâr Pantene Oil Repair & Protect</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >24.84 RON / 100ml</div>	 
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Hair Balm Pantene Repair & Protect</span><span id="ro">Balsam păr Pantene Repair & Protect</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >7.22 RON / 180ml</div>	 
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Hair Balm Pantene Pro-V Cond Silk Glow</span><span id="ro">Balsam păr Pantene Pro-V Cond Silk Glow</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >24.84 RON / 200ml</div>	 
+    <span id="en">VAT no included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Hair Balm Dove</span><span id="ro">Balsam păr Dove</span></td>
+    <td><span id="en">Supplier: Unilever - Romania</span><span id="ro">Furnizor: Unilever - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >22.34 RON / 200ml - Intensive</div>	 
+    <div style="border-bottom:1px solid #FFF;" >30.07 RON / 250ml - Color Care Vibrancy</div>	 	
+    <div style="border-bottom:1px solid #FFF;" >31.45 RON / 350ml - Aloe Vera & Rose</div>	 	
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>	    
+    <td><span id="en">Hair Balm Dove Advance Hair ( Oxygen Moisture or Color Care Vibrancy )</span><span id="ro">Mască de pâr Balsam păr Dove Advance Hair ( Oxygen Moisture sau Color Care Vibrancy )</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >30.07 RON / 250ml</div>	 
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shaving gel Gillette </span><span id="ro">Gel de ras Gillette</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >9.69 RON / 200ml - Regular</div>	 
+    <div style="border-bottom:1px solid #FFF;" >17.90 RON / 200ml - Venus Satin Care Dry Skin</div>	 
+    <div style="border-bottom:1px solid #FFF;" >17.90 RON / 200ml - Venus Satin Care Gel Sensitive</div>	 
+    <div style="border-bottom:1px solid #FFF;" >20.59 RON / 200ml - Series Revital</div>	 
+    <div style="border-bottom:1px solid #FFF;" >20.59 RON / 200ml - Series Cleansing</div>	 
+    <div style="border-bottom:1px solid #FFF;" >20.59 RON / 200ml - Series Hidratant</div>	 
+    <div style="border-bottom:1px solid #FFF;" >20.59 RON / 200ml - Series Sensitive</div>	 
+    <div style="border-bottom:1px solid #FFF;" >22.24 RON / 200ml - Fusion Ultra Moist</div>	 
+    <div style="border-bottom:1px solid #FFF;" >22.25 RON / 200ml - Ultra Sensitive</div>	 
+    <div style="border-bottom:1px solid #FFF;" >23.49 RON / 200ml - Proglide 2in1 Sensitive</div>	 
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shaving gel Nivea Men</span><span id="ro">Gel de ras Nivea Men</span></td>
+    <td><span id="en">Supplier: Beiersdorf - Romania</span><span id="ro">Furnizor: Beiersdorf - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >16,94 RON / 200ml - Sensitive Recovery</div>
+    <div style="border-bottom:1px solid #FFF;" >19,62 RON / 200ml - Sensitive</div>	
+    <div style="border-bottom:1px solid #FFF;" >20,99 RON / 200ml - Silver Protect</div>	
+    <div style="border-bottom:1px solid #FFF;" >21,05 RON / 200ml - Fresh Kick</div>	
+    <div style="border-bottom:1px solid #FFF;" >32,98 RON / 200ml - Sensitive Pentru Barba De Câteva Zile</div>	
+    <div style="border-bottom:1px solid #FFF;" >35,99 RON / 200ml - Protect & Care</div>	
+    <div style="border-bottom:1px solid #FFF;" >62,37 RON / 100ml - Cool Kick</div>	
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shaving cream Nivea Men</span><span id="ro">Cremă de ras Nivea Men</span></td>
+    <td><span id="en">Supplier: Beiersdorf - Romania</span><span id="ro">Furnizor: Beiersdorf - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >13,95 RON / 100ml - Protect & Care</div>
+    <div style="border-bottom:1px solid #FFF;" >19,90 RON / 100ml - Sensitive</div>	
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shaving foam Nivea Men</span><span id="ro">Spumă de ras Nivea Men</span></td>
+    <td><span id="en">Supplier: Beiersdorf - Romania</span><span id="ro">Furnizor: Beiersdorf - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >15,16 RON / 200ml - Deep</div>
+    <div style="border-bottom:1px solid #FFF;" >21,38 RON / 200ml - Sensitive Recovery</div>
+    <div style="border-bottom:1px solid #FFF;" >34,12 RON / 200ml - Sensitive</div>	
+    <div style="border-bottom:1px solid #FFF;" >38,23 RON / 200ml - Protect & Care</div>	
+    <div style="border-bottom:1px solid #FFF;" >43,22 RON / 200ml - Senstive Pro</div>	
+    <div style="border-bottom:1px solid #FFF;" >66,64 RON / 200ml - Sensitive Cooling</div>	
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shaving foam Gillette Regular</span><span id="ro">Spumă de ras Gillette Regular</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >9.58 RON / 200ml - Lemon</div>	 
+    <div style="border-bottom:1px solid #FFF;" >9.58 RON / 200ml - Sensitive Skin</div>	 
+    <div style="border-bottom:1px solid #FFF;" >9.58 RON / 300ml - Sensitive Skin</div>	 
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Shaving foam Gillette Series ( Cooling or Sensitive )</span><span id="ro">Spumă de ras Gillette Series ( Cooling or Sensitive )</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >15.26 RON / 250ml - Lemon</div>	 
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">After Shave Gillette Balsam ( Sensitive Protection or Cooling or Hydrates )</span><span id="ro">After Shave Gillette Balsam ( Sensitive Protection or Cooling or Hydrates )</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >26.02 RON / 100ml</div>	 
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">After Shave Gillette Revitalising Splash</span><span id="ro">After Shave Gillette Revitalising Splash</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >26.02 RON / 100ml</div>	 
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">After Shave Lotion Old Spice ( Original or Captain or Wolfthorn or Whitewater )</span><span id="ro">Loțiune Aftershave Old Spice ( Original or Captain or Wolfthorn or Whitewater )</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >28.45 RON / 100ml</div>	 
+    <span id="en">VAT not included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">After Shave Lotion Nivea Men</span><span id="ro">Loțiune Aftershave Nivea Men</span></td>
+    <td><span id="en">Supplier: Beiersdorf - Romania</span><span id="ro">Furnizor: Beiersdorf - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >28,70 RON / 100ml - Silver Protect</div>
+    <div style="border-bottom:1px solid #FFF;" >28,95 RON / 100ml - 2-in-1 Refresh & Care</div>
+    <div style="border-bottom:1px solid #FFF;" >29,61 RON / 100ml - Sensitive</div>	
+    <div style="border-bottom:1px solid #FFF;" >30,24 RON / 100ml - Fresh Kick</div>	
+    <div style="border-bottom:1px solid #FFF;" >32,99 RON / 100ml - Deep</div>	
+    <div style="border-bottom:1px solid #FFF;" >88,99 RON / 100ml - Protect & Care</div>	
+    <div style="border-bottom:1px solid #FFF;" >56,40 RON / 75ml - Sensitive Pro</div>	
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">After Shave Balm Nivea Men</span><span id="ro">Balsam Aftershave Nivea Men</span></td>
+    <td><span id="en">Supplier: Beiersdorf - Romania</span><span id="ro">Furnizor: Beiersdorf - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >23,00 RON / 125ml - Sensitive Skin & Stubble</div>
+    <div style="border-bottom:1px solid #FFF;" >31,45 RON / 100ml - Protect & Care</div>
+    <div style="border-bottom:1px solid #FFF;" >31,45 RON / 100ml - Sensitive Pro</div>	
+    <div style="border-bottom:1px solid #FFF;" >32,23 RON / 100ml - Silver Protect</div>	
+    <div style="border-bottom:1px solid #FFF;" >34,00 RON / 100ml - Sensitive Recovery/div>	
+    <div style="border-bottom:1px solid #FFF;" >38,99 RON / 100ml - Sensitive</div>	
+    <div style="border-bottom:1px solid #FFF;" >57,99 RON / 100ml - Skin Energy</div>	
+    <div style="border-bottom:1px solid #FFF;" >62,37 RON / 100ml - Sensitive Cooling</div>	
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Hair gel Nivea Men</span><span id="ro">Gel de păr Nivea Men</span></td>
+    <td><span id="en">Supplier: Beiersdorf - Romania</span><span id="ro">Furnizor: Beiersdorf - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >27 RON / 150ml - <span id="en" >Hair Fixing Gel</span><span id="ro" >Gel Pentru Fixarea Părului</span></div>
+    <div style="border-bottom:1px solid #FFF;" >31,50 RON / 150ml - <span id="en" >Hair Cream For Men</span><span id="ro" >Cremă De Păr Pentru Bărbați</span></div>	
+    <div style="border-bottom:1px solid #FFF;" >34,95 RON / 150ml - <span id="en" >Defining Hair Gel</span><span id="ro" >Gel De Păr Pentru Definire</span></div>
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Cleansing Gel For Face And Beard Nivea Men</span><span id="ro">Gel De Curățare Pentru Față Și Barbă Nivea Men</span></td>
+    <td><span id="en">Supplier: Beiersdorf - Romania</span><span id="ro">Furnizor: Beiersdorf - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >29,70 RON / 100ml - Deep</div>
+    <div style="border-bottom:1px solid #FFF;" >38,99 RON / 100ml - Sensitive</span></div>	
+    <span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>	   
+    <tr></tr>
+
+
+
+
+
+
+
+
+    <td><span id="en">Razor with spare blades Gillette</span><span id="ro">Aparat De Ras Gillette</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >52.23 RON / Mach 3 + 2 Rezerves</div>	
+    <div style="border-bottom:1px solid #FFF;" >52.24 RON / Mach3 Charcoal + 1 Rezerves</div>	    
+    <div style="border-bottom:1px solid #FFF;" >68.77 RON / Skinguard 2up</div>	    
+    <div style="border-bottom:1px solid #FFF;" >71.57 RON / Fusion Manual + 2 Rezerves</div>	    
+    <div style="border-bottom:1px solid #FFF;" >74.28 RON / Fusion Proglide Power + 1 Rezerves Flexi</div>	    
+    <div style="border-bottom:1px solid #FFF;" >81.10 RON / Fusion Proglide Mnl + 2 Rezerves Flexi</div>	    
+    <div style="border-bottom:1px solid #FFF;" >99.62 RON / Fusion Proglide Styler + 1 Rezerves</div>	    
+    <div style="border-bottom:1px solid #FFF;" >126.79 RON / Mach 3 + 12 Rezerves</div>	    
+    <div style="border-bottom:1px solid #FFF;" >182.88 RON / Fusion5 + 11 Rezerves</div>	    
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Disposable Razor Gillette</span><span id="ro">Aparat ras unică folosință Gillette</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >9.44 RON / Blue Iii Slalom Comfort 3+1</span></div>	
+    <div style="border-bottom:1px solid #FFF;" >9.48 RON / v2 5<span id="en" >pcs</span><span id="ro" >buc</span></div>	    
+    <div style="border-bottom:1px solid #FFF;" >10.05 RON / Blue Ii Plus Ultragrip 5<span id="en" >pcs</span><span id="ro" >buc</span></div>	    
+    <div style="border-bottom:1px solid #FFF;" >14.97 RON / Blue Iii Slalom Comfort 3+2</div>	    
+    <div style="border-bottom:1px solid #FFF;" >23.04 RON / Blue Iii Plus Nitro 3<span id="en" >pcs<span id="ro" >buc</span></div>	    
+    <div style="border-bottom:1px solid #FFF;" >23.04 RON / Blue Iii Plus Sensitive 3<span id="en" >pcs<span id="ro" >buc</span></div>	    
+    <div style="border-bottom:1px solid #FFF;" >25 RON / Blue Iii 3+1</div>	    
+    <div style="border-bottom:1px solid #FFF;" >26.29 RON / Blue Iii Plus Slalom 9+3</div>	    
+    <div style="border-bottom:1px solid #FFF;" >29.40 RON / Blue Iii Excel Card 10 Comfort</div>	  
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Disposable Razor Gillette</span><span id="ro">Aparat ras unică folosință Gillette</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >40.50 RON / Blue Iii Excel Card 10 Comfort</span></div>	
+    <div style="border-bottom:1px solid #FFF;" >40.50 RON / Blue Iii Plus Sensitive 6<span id="en" >pcs<span id="ro" >buc</span></div>	    
+    <div style="border-bottom:1px solid #FFF;" >40.50 RON / Blue Iii Plus Cool 6+2</div>	    
+    <div style="border-bottom:1px solid #FFF;" >40.50 RON / Blue Iii Comfort 6+2</div>	    
+    <div style="border-bottom:1px solid #FFF;" >40.50 RON / Blue Iii Nitro 6+2</div>	    
+    <div style="border-bottom:1px solid #FFF;" >40.50 RON / Blue Iii Sensitive 6+2</div>	
+    <div style="border-bottom:1px solid #FFF;" >40.50 RON / Blue Iii Sensitive 6<span id="en" >pcs<span id="ro" >buc</span></div>	
+    <div style="border-bottom:1px solid #FFF;" >41.44 RON / Blue Ii Regular Hrdc 24</div>	    
+    <div style="border-bottom:1px solid #FFF;" >46.24 RON / Blue Ii Plus Ultragrip Card 24</div>	
+    <div style="border-bottom:1px solid #FFF;" >48.05 RON / v2 Card 48<span id="en" >pcs<span id="ro" >buc</span></div>	
+    <div style="border-bottom:1px solid #FFF;" >51.27 RON / Blue Iii Comfort 12<span id="en" >pcs<span id="ro" >buc</span></div>	
+    <div style="border-bottom:1px solid #FFF;" >51.27 RON / Blue Iii Plus Nitro 12<span id="en" >pcs<span id="ro" >buc</span></div>	
+    <div style="border-bottom:1px solid #FFF;" >61.40 RON / Blue Iii 16<span id="en" >pcs<span id="ro" >buc</span></div>	
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Razor Blades Gillette</span><span id="ro">Lame de ras Gillette</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >23.90 RON / Platinum 10 <span id="en" >pcs/box</span><span id="ro" >buc/cutie</span></div>	
+    <div style="border-bottom:1px solid #FFF;" >30.91 RON / Sensor Excel Set 5</div>	    
+    <div style="border-bottom:1px solid #FFF;" >54.93 RON / Manual Fusion 2</div>	    
+    <div style="border-bottom:1px solid #FFF;" >61.49 RON / Fusion Proglide Man Set 2</div>	    
+    <div style="border-bottom:1px solid #FFF;" >77.99 RON / Mach3 Card 10</div>	    
+    <div style="border-bottom:1px solid #FFF;" >126.40 RON / Manual Fusion 8<span id="en" >pcs<span id="ro" >buc</span></div>	
+    <div style="border-bottom:1px solid #FFF;" >148.79 RON / Fusion Proglide Man Set 8</div>	
+    <div style="border-bottom:1px solid #FFF;" >175.72 RON / Fusion Proglide Power Set 8</div>	    
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Disposable Razor Gillette Venus</span><span id="ro">Aparat ras unică folosință Gillette Venus</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >12.96 RON / Simply 3 Basic 4cts</div>	
+    <div style="border-bottom:1px solid #FFF;" >13.32 RON / v3 4<span id="en" >pcs<span id="ro" >buc</span></div>	    
+    <div style="border-bottom:1px solid #FFF;" >19.21 RON / Colors 3 Basic 4cts</div>	    
+    <div style="border-bottom:1px solid #FFF;" >19.21 RON / Dragonfruit 3 Basic 4cts</div>	    
+    <div style="border-bottom:1px solid #FFF;" >19.21 RON / v3 Sensitive Disposable 3c</div>	    
+    <div style="border-bottom:1px solid #FFF;" >22.88 RON / Simply 3 Basic 8cts</div>	
+    <div style="border-bottom:1px solid #FFF;" >24.27 RON / Smooth Sensitive Crt 2ct</div>	
+    <div style="border-bottom:1px solid #FFF;" >24.76 RON / Sensitive Disposable 3cts</div>	    
+    <div style="border-bottom:1px solid #FFF;" >24.76 RON / Sensitive Disposable 3+1</div>	    
+    <div style="border-bottom:1px solid #FFF;" >24.76 RON / v3 Tropical</div>	    
+    <div style="border-bottom:1px solid #FFF;" >24.76 RON / Oceana 3cts</div>	    
+    <div style="border-bottom:1px solid #FFF;" >24.76 RON / Riviera 2<span id="en" >pcs<span id="ro" >buc</span></div>	    
+    <div style="border-bottom:1px solid #FFF;" >24.76 RON / Oceana 3+1ct</div>	    
+    <div style="border-bottom:1px solid #FFF;" >26.58 RON / v2 Hrdc 12</div>	    
+    <div style="border-bottom:1px solid #FFF;" >27.94 RON / Treasures Pink 3cts</div>	    
+    <div style="border-bottom:1px solid #FFF;" >31.09 RON / Simply 3 Basic 12<span id="en" >pcs<span id="ro" >buc</span></div>	    
+    <div style="border-bottom:1px solid #FFF;" >32.48 RON / v3 Hrdc 12</div>	    
+    <div style="border-bottom:1px solid #FFF;" >47.12 RON / Breeze Carts 4<span id="en" >pcs<span id="ro" >buc</span></div>	    
+    <div style="border-bottom:1px solid #FFF;" >47.40 RON / v3 Colors Hrdc 12</div>	    
+    <div style="border-bottom:1px solid #FFF;" >52.50 RON / Swirl Blades 3<span id="en" >pcs<span id="ro" >buc</span></div>	    
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr></tr>
+    <td><span id="en">Razor with spare blades Gillette Venus</span><span id="ro">Aparat ras cu lame rezervă Gillette Venus</span></td>
+    <td><span id="en">Supplier: Procter & Gamble - Romania</span><span id="ro">Furnizor: Procter & Gamble - Romania</span></td>
+    <td><div style="border-bottom:1px solid #FFF;" >47.12 RON / Breeze 2up</div>	
+    <div style="border-bottom:1px solid #FFF;" >47.13 RON / Comfort Glide Sugarberry</div>
+    <div style="border-bottom:1px solid #FFF;" >47.55 RON / Classic +5 Reserves</div>
+    <div style="border-bottom:1px solid #FFF;" >52.50 RON / Swirls 1 Reserve</div>
+    <div style="border-bottom:1px solid #FFF;" >56.19 RON / Spa Breeze 3<span id="en" >pcs<span id="ro" >buc</span></div>
+    <div style="border-bottom:1px solid #FFF;" >56.19 RON / Breeze Spa+3 Rezerves</div>
+    <div style="border-bottom:1px solid #FFF;" >56.19 RON / Comfort Glide Breeze+1 Rezerves</div>
+    <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td>	   
+    <tr>
+
+
+
+
+
+</tbody>
