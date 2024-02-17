@@ -10,7 +10,10 @@
 	<td><span id="en">Aluminium-clad steel wires for electrical purposes EN 61232:2002 + EN 61232:2002/A11:2002</span><span id="ro">Sârme de oţel acoperite cu aluminiu pentru utilizare electrică EN 61232:2002 + EN 61232:2002/A11:2002</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
 	<td>-</td></tr>
-	<td><span id="en">Non-alloy steel wire rod for conversion to wire - Rimmed and rimmed substitute, low-carbon steel wire rod EN ISO 16120-3:2011</span><span id="ro">Sârmă semifabricat de oțel nealiat pentru fabricarea sârmei - sârma semifabricat de oțel necalmat sau semicalmat cu conținut scăzut de carbon EN ISO 16120-3:2011</span></td>
+       <tr><td><span id="en">Coated or cladded metallic wire for concentric lay stranded conductors for overhead electrical power lines EN IEC 63248:2022</span><span id="ro">Sârmă metalică acoperită sau învelită pentru conductoare înfuniate în straturi concentrice pentru linii electrice aeriene EN IEC 63248:2022</span></td>
+    <td><span id="en">Supplier:-</span><span id="ro">Furnizor: -</span></td>
+    <td>-</td></tr>
+	<tr><td><span id="en">Non-alloy steel wire rod for conversion to wire - Rimmed and rimmed substitute, low-carbon steel wire rod EN ISO 16120-3:2011</span><span id="ro">Sârmă semifabricat de oțel nealiat pentru fabricarea sârmei - sârma semifabricat de oțel necalmat sau semicalmat cu conținut scăzut de carbon EN ISO 16120-3:2011</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
 	<td>-</td></tr>
 	<td><span id="en">Non-alloy steel wire rod for conversion to wire - Wire rod for special applications EN ISO 16120-4:2017</span><span id="ro">Sârmă semifabricat de oţel nealiat pentru fabricarea sârmei - Sârma semifabricat pentru aplicaţii speciale EN ISO 16120-4:2017</span></td>
