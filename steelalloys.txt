@@ -1,7 +1,45 @@
 <tbody>
   <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Pret</span></th></tr>   
 
+<!-- OTELURI COSMOS START -->
+
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Space Grade steels</span>
+	<span id="ro">Oțeluri pentru utilizare in spațiu cosmic</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+</tr>
+        <tr><td><span id="en">-</span><span id="ro">-</span></td>
+	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
+	<td>-</td></tr>
+
+<!-- OTELURI COSMOS END -->
+
+
 <!-- OTELURI CONSTRUCTII START -->
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Structural steels</span>
+	<span id="ro">Oțeluri de construcții</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+</tr>	  
+
         <tr><td><span id="en">Hot rolled products of structural steels - Steels with improved atmospheric corrosion resistance EN 10025-5:2019 </span><span id="ro">Produse laminate la cald din oțeluri de construcții - Oțeluri de construcții cu rezistență îmbunătățită la coroziunea atmosferică EN 10025-5:2019</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
 	<td>-</td></tr>
@@ -63,6 +101,22 @@
 
 <!-- OTELURI PENTRU FORMARE LA RECE START  -->
 
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Steels for cold forming</span>
+	<span id="ro">Oțeluri pentru deformare la rece</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+</tr>
+
+
         <tr><td><span id="en">Hot rolled flat products made of high yield strength steels for cold forming - General requirements EN 10149-1:2014</span><span id="ro">Produse plate laminate la cald din oţeluri cu limită de curgere ridicată pentru deformare la rece - Condiţii generale tehnice EN 10149-1:2014</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
 	<td>-</td></tr>
@@ -113,6 +167,21 @@
 
 <!-- OTELURI PENTRU PRELUCRARE SI TURNARE START  -->
 
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Steels for machining and casting</span>
+	<span id="ro">Oțeluri pentru prelucrare și turnare</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+</tr>
+
 
         <tr><td><span id="en">Tools steels EN ISO 4957:2018</span><span id="ro">Oţel pentru scule EN ISO 4957:2018</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
@@ -146,6 +215,21 @@
 
 <!-- OTELURI PENTRU FORJARE START  -->
 
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Forging steels</span>
+	<span id="ro">Oțeluri pentru forjare</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+</tr>
+
         <tr><td><span id="en">Open die steel forgings for general engineering purposes - General requirements EN 10250-1:2022</span><span id="ro">Piese forjate din oţel pentru uz general - Cerințe generale EN 10250-1:2022</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
 	<td>-</td></tr>
@@ -163,6 +247,21 @@
 
 <!-- OTELURI PENTRU EMAILATE START  -->
 
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Vitreous enamelling steels</span>
+	<span id="ro">Oțeluri pentru emailare</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+</tr>
+
         <tr><td><span id="en">Cold rolled low carbon steel flat products for vitreous enamelling EN 10209:2023</span><span id="ro">Produse plate laminate la rece din oțeluri cu conținut scăzut de carbon pentru emailare prin vitrifiere EN 10209:2023</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
 	<td>-</td></tr>
@@ -170,6 +269,21 @@
 <!-- OTELURI PENTRU EMAILATE END  -->
 
 <!-- OTELURI MAGNETICE START  -->
+
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Magnetic steels</span>
+	<span id="ro">Oțeluri magnetice</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+</tr>
 
         <tr><td><span id="en">Magnetic materials - Sintered soft magnetic materials EN 10331:2003</span><span id="ro">Materiale magnetice - Materialele magnetice moi sinterizate EN 10331:2003</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
@@ -183,6 +297,21 @@
 
 <!-- OTELURI REZISTENTE LA COROZIUNE START  -->
 
+
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Corrosion resistant steels</span>
+	<span id="ro">Oțeluri rezistente la coroziune</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+</tr>
 
         <tr><td><span id="en">Cold reduced tinmill products - Electrolytic tinplate and electrolytic chromium/chromium oxide coated steel EN 10202:2022</span><span id="ro">Produse plate laminate la rece destinate ambalării - Oţeluri acoperite electrochimic cu staniu şi oţeluri acoperite electrochimic cu crom/oxid de crom EN 10202:2022</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
@@ -201,6 +330,21 @@
 <!-- OTELURI REZISTENTE LA COROZIUNE END  -->
 
 <!-- OTELURI PENTRU RACORDURI START -->
+
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Pipe fittings steels</span>
+	<span id="ro">Oțeluri pentru racorduri țevi </span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+</tr>
 
         <tr><td><span id="en">Butt-welding pipe fittings - Wrought carbon steel for general use and without specific inspection requirements EN 10253-1:2002</span><span id="ro">Racorduri pentru sudare cap la cap - Oţel carbon forjabil pentru utilizări generale şi fără condiţii de inspecţie specifică EN 10253-1:2002</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
@@ -221,6 +365,21 @@
 <!-- OTELURI PENTRU RACORDURI END -->
 
 <!-- OTELURI PENTRU TEVI START -->
+
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Pipes and tubes steels</span>
+	<span id="ro">Oțeluri pentru țevi </span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+</tr>
 
         <tr><td><span id="en">Non-alloy steel tubes and fittings for the conveyance of aqueous liquids including water for human consumption EN 10224:2003</span><span id="ro">Ţevi şi racorduri de oţel nealiat pentru transportul lichidelor apoase, inclusiv apa potabilă EN 10224:2003</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
@@ -251,6 +410,21 @@
 
 <!-- OTELURI PENTRU ARCURI START - produse cu dubla utilizare -->
 
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Steels for springs</span>
+	<span id="ro">Oțeluri pentru arcuri </span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+</tr>
+
         <td><span id="en">Stainless steel strip for springs EN 10151:2003</span><span id="ro">Benzi de oţel inoxidabil pentru arcuri EN 10151:2003</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
 	<td>-</td></tr>
@@ -264,6 +438,21 @@
 <!-- OTELURI PENTRU ARCURI END - produse cu dubla utilizare  -->
 
 <!-- OTELURI REZISTENTE LA TEMPERATURI START - produse cu dubla utilizare -->
+
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Steels for low or high temperature use</span>
+	<span id="ro">Oțeluri pentru temperaturi inalte și scăzute</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+</tr>
 
         <tr><td><span id="en">Creep resisting steels, nickel and cobalt alloys EN 10302:2008</span><span id="ro">Oţeluri, aliaje de nichel şi de cobalt rezistente la fluaj EN 10302:2008</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
@@ -282,6 +471,22 @@
 
 
 <!-- OTELURI PENTRU TEVI PRECIZIE START - produse cu dubla utilizare -->
+
+
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Steels for precision tubes and pipes</span>
+	<span id="ro">Oțeluri pentru tevi de precizie</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+</tr>
 
         <tr><td><span id="en">Steel tubes for precision applications - Seamless cold drawn tubes EN 10305-1:2016</span><span id="ro">Țevi de oțel pentru utilizări de precizie - Țevi fără sudură trase la rece EN 10305-1:2016</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
@@ -306,6 +511,21 @@
 
 
 <!-- OTELURI PRESIUNE START - produse cu dubla utilizare  -->
+
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Steels for for pressure purposes</span>
+	<span id="ro">Oțeluri pentru recipiente sub presiune</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+</tr>
 
 	<tr><td><span id="en">Flat products made of steels for pressure purposes - General requirements EN 10028-1:2017</span><span id="ro">Produse plate din oţel pentru recipiente sub presiune - Cerinţe generale EN 10028-1:2017</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
