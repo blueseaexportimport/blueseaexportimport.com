@@ -4,7 +4,10 @@
 	<td><span id="en">Tools steels EN ISO 4957:2018</span><span id="ro">Oţel pentru scule EN ISO 4957:2018</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
 	<td>-</td></tr>
-	<td><span id="en">Non-alloy steel wire rod for conversion to wire - General requirements EN ISO 16120-1:2017</span><span id="ro">Sârmă semifabricat de oţel nealiat pentru fabricarea sârmei - Cerinţe generale EN ISO 16120-1:2017</span></td>
+	<td><span id="en">Non-alloy steel wire rod for conversion to wire EN ISO 16120-1:2017</span><span id="ro">Sârmă semifabricat de oţel nealiat pentru fabricarea sârmei - EN ISO 16120-1:2017</span></td>
+	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
+	<td>-</td></tr>
+	<td><span id="en">Aluminium-clad steel wires for electrical purposes EN 61232:2002 + EN 61232:2002/A11:2002</span><span id="ro">Sârme de oţel acoperite cu aluminiu pentru utilizare electrică EN 61232:2002 + EN 61232:2002/A11:2002</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
 	<td>-</td></tr>
 	<td><span id="en">Non-alloy steel wire rod for conversion to wire - Rimmed and rimmed substitute, low-carbon steel wire rod EN ISO 16120-3:2011</span><span id="ro">Sârmă semifabricat de oțel nealiat pentru fabricarea sârmei - sârma semifabricat de oțel necalmat sau semicalmat cu conținut scăzut de carbon EN ISO 16120-3:2011</span></td>
