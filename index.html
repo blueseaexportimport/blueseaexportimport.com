@@ -110,6 +110,25 @@ $(document).ready(function() {
 	
 <script>
 $(document).ready(function () { 
+
+  // Grab solid fuels info on click start
+  $("#solidfuelsbtn").click(function() {
+    if ($("#solidfuels").hasClass("clickedsolidfuels")) {
+        // already been clicked once, hide it
+        $("#solidfuels").html("");
+        $( "#solidfuels" ).removeClass( "clickedsolidfuels" )
+    }else {
+        // first time this is clicked, mark it
+        $("#solidfuels").addClass("clickedliquidfuels");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/solidfuels.txt", success: function(result){
+         $("#solidfuels").html(result);
+        }});
+    }
+   });
+  // Grab solid fuels info on click end
+
+
+	
   // Grab liquid fuels info on click start
   $("#liquidfuelsbtn").click(function() {
     if ($("#liquidfuels").hasClass("clickedliquidfuels")) {
@@ -125,6 +144,61 @@ $(document).ready(function () {
     }
    });
   // Grab liquid fuels info on click end
+
+
+  // Grab compressed gas fuels info on click start
+  $("#compressedgasfuelsbtn").click(function() {
+    if ($("#compressedgasfuels").hasClass("clickedcompressedgasfuels")) {
+        // already been clicked once, hide it
+        $("#compressedgasfuels").html("");
+        $( "#compressedgasfuels" ).removeClass( "clickedcompressedgasfuels" )
+    }else {
+        // first time this is clicked, mark it
+        $("#compressedgasfuels").addClass("clickedcompressedgasfuels");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/compressedgasfuels.txt", success: function(result){
+         $("#compressedgasfuels").html(result);
+        }});
+    }
+   });
+  // Grab compressed gas fuels info on click end
+
+  // Grab mineral ores info on click start
+  $("#mineraloresbtn").click(function() {
+    if ($("#mineralores").hasClass("clickedmineralores")) {
+        // already been clicked once, hide it
+        $("#mineralores").html("");
+        $( "#mineralores" ).removeClass( "clickedmineralores" )
+    }else {
+        // first time this is clicked, mark it
+        $("#mineralores").addClass("clickedmineralores");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/mineralores.txt", success: function(result){
+         $("#mineralores").html(result);
+        }});
+    }
+   });
+  // Grab mineral ores info on click end
+
+
+	
+	
+
+  // Grab steel alloys info on click start
+  $("#steelalloysbtn").click(function() {
+    if ($("#steelalloys").hasClass("clickedsteelalloys")) {
+        // already been clicked once, hide it
+        $("#steelalloys").html("");
+        $( "#steelalloys" ).removeClass( "clickedsteelalloys" )
+    }else {
+        // first time this is clicked, mark it
+        $("#steelalloys").addClass("clickedsteelalloys");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/steelalloys.txt", success: function(result){
+         $("#steelalloys").html(result);
+        }});
+    }
+   });
+  // Grab steel alloys supplies info on click end
+
+	
 
   // Grab electric engines info on click start
   $("#electricenginesbtn").click(function() {
@@ -190,24 +264,233 @@ $(document).ready(function () {
     }
    });
 	
-  // Grab office and school supplies info on click end
+  // Grab iron ores supplies info on click end
 
-  // Grab steel alloys info on click start
-  $("#steelalloysbtn").click(function() {
-    if ($("#steelalloys").hasClass("clickedsteelalloys")) {
+
+  // Grab iron ores supplies info on click start
+  $("#ironoresbtn").click(function() {
+    if ($("#ironores").hasClass("clickedironores")) {
         // already been clicked once, hide it
-        $("#steelalloys").html("");
-        $( "#steelalloys" ).removeClass( "clickedsteelalloys" )
+        $("#ironores").html("");
+        $( "#ironores" ).removeClass( "clickedironores" )
     }else {
         // first time this is clicked, mark it
-        $("#steelalloys").addClass("clickedsteelalloys");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/steelalloys.txt", success: function(result){
-         $("#steelalloys").html(result);
+        $("#ironores").addClass("clickedironores");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/ironores.txt", success: function(result){
+         $("#ironores").html(result);
         }});
     }
    });
-  // Grab steel alloys supplies info on click end
-	
+  // Grab iron ores supplies info on click end
+
+  // Grab copper ores supplies info on click start
+  $("#copperoresbtn").click(function() {
+    if ($("#copperores").hasClass("clickedcopperores")) {
+        // already been clicked once, hide it
+        $("#copperores").html("");
+        $( "#copperores" ).removeClass( "clickedcopperores" )
+    }else {
+        // first time this is clicked, mark it
+        $("#copperores").addClass("clickedcopperores");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/copperores.txt", success: function(result){
+         $("#copperores").html(result);
+        }});
+    }
+   });
+  // Grab copper ores supplies info on click end
+
+  // Grab aluminium ores supplies info on click start
+  $("#aluminiumoresbtn").click(function() {
+    if ($("#aluminiumores").hasClass("clickedaluminiumores")) {
+        // already been clicked once, hide it
+        $("#aluminiumores").html("");
+        $( "#aluminiumores" ).removeClass( "clickedaluminiumores" )
+    }else {
+        // first time this is clicked, mark it
+        $("#aluminiumores").addClass("clickedaluminiumores");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/aluminiumores.txt", success: function(result){
+         $("#aluminiumores").html(result);
+        }});
+    }
+   });
+  // Grab aluminium ores supplies info on click end
+
+  // Grab titanium ores supplies info on click start
+  $("#titaniumoresbtn").click(function() {
+    if ($("#titaniumores").hasClass("clickedtitaniumores")) {
+        // already been clicked once, hide it
+        $("#titaniumores").html("");
+        $( "#titaniumores" ).removeClass( "clickedtitaniumores" )
+    }else {
+        // first time this is clicked, mark it
+        $("#titaniumores").addClass("clickedtitaniumores");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/titaniumores.txt", success: function(result){
+         $("#titaniumores").html(result);
+        }});
+    }
+   });
+  // Grab titanium ores supplies info on click end
+
+  // Grab tungsten ores supplies info on click start
+  $("#tungstenoresbtn").click(function() {
+    if ($("#tungstenores").hasClass("clickedtungstenores")) {
+        // already been clicked once, hide it
+        $("#tungstenores").html("");
+        $( "#tungstenores" ).removeClass( "clickedtungstenores" )
+    }else {
+        // first time this is clicked, mark it
+        $("#tungstenores").addClass("clickedtungstenores");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/tungstenores.txt", success: function(result){
+         $("#tungstenores").html(result);
+        }});
+    }
+   });
+  // Grab tungsten ores supplies info on click end
+
+  // Grab molybdenum ores supplies info on click start
+  $("#molybdenumoresbtn").click(function() {
+    if ($("#molybdenumores").hasClass("clickedmolybdenumores")) {
+        // already been clicked once, hide it
+        $("#molybdenumores").html("");
+        $( "#molybdenumores" ).removeClass( "clickedmolybdenumores" )
+    }else {
+        // first time this is clicked, mark it
+        $("#molybdenumores").addClass("clickedmolybdenumores");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/molybdenumores.txt", success: function(result){
+         $("#molybdenumores").html(result);
+        }});
+    }
+   });
+  // Grab molybdenum ores supplies info on click end
+
+  // Grab chromium ores supplies info on click start
+  $("#chromiumoresbtn").click(function() {
+    if ($("#chromiumores").hasClass("clickedchromiumores")) {
+        // already been clicked once, hide it
+        $("#chromiumores").html("");
+        $( "#chromiumores" ).removeClass( "clickedchromiumores" )
+    }else {
+        // first time this is clicked, mark it
+        $("#chromiumores").addClass("clickedchromiumores");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/chromiumores.txt", success: function(result){
+         $("#chromiumores").html(result);
+        }});
+    }
+   });
+  // Grab chromium ores supplies info on click end
+
+  // Grab antimony ores supplies info on click start
+  $("#antimonyoresbtn").click(function() {
+    if ($("#antimonyores").hasClass("clickedantimonyores")) {
+        // already been clicked once, hide it
+        $("#antimonyores").html("");
+        $( "#antimonyores" ).removeClass( "clickedantimonyores" )
+    }else {
+        // first time this is clicked, mark it
+        $("#antimonyores").addClass("clickedantimonyores");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/antimonyores.txt", success: function(result){
+         $("#antimonyores").html(result);
+        }});
+    }
+   });
+  // Grab antimony ores supplies info on click end
+
+  // Grab manganese ores supplies info on click start
+  $("#manganeseoresbtn").click(function() {
+    if ($("#manganeseores").hasClass("clickedmanganeseores")) {
+        // already been clicked once, hide it
+        $("#manganeseores").html("");
+        $( "#manganeseores" ).removeClass( "clickedmanganeseores" )
+    }else {
+        // first time this is clicked, mark it
+        $("#manganeseores").addClass("clickedmanganeseores");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/manganeseores.txt", success: function(result){
+         $("#manganeseores").html(result);
+        }});
+    }
+   });
+  // Grab manganese ores supplies info on click end
+
+  // Grab lead ores supplies info on click start
+  $("#leadoresbtn").click(function() {
+    if ($("#leadores").hasClass("clickedleadores")) {
+        // already been clicked once, hide it
+        $("#leadores").html("");
+        $( "#leadores" ).removeClass( "clickedleadores" )
+    }else {
+        // first time this is clicked, mark it
+        $("#leadores").addClass("clickedleadores");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/leadores.txt", success: function(result){
+         $("#leadores").html(result);
+        }});
+    }
+   });
+  // Grab lead ores supplies info on click end
+
+  // Grab tin ores supplies info on click start
+  $("#tinoresbtn").click(function() {
+    if ($("#tinores").hasClass("clickedtinores")) {
+        // already been clicked once, hide it
+        $("#tinores").html("");
+        $( "#tinores" ).removeClass( "clickedtinores" )
+    }else {
+        // first time this is clicked, mark it
+        $("#tinores").addClass("clickedtinores");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/tinores.txt", success: function(result){
+         $("#tinores").html(result);
+        }});
+    }
+   });
+  // Grab tin ores supplies info on click end
+
+  // Grab zinc ores supplies info on click start
+  $("#zincoresbtn").click(function() {
+    if ($("#zincores").hasClass("clickedzincores")) {
+        // already been clicked once, hide it
+        $("#zincores").html("");
+        $( "#zincores" ).removeClass( "clickedzincores" )
+    }else {
+        // first time this is clicked, mark it
+        $("#zincores").addClass("clickedzincores");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/zincores.txt", success: function(result){
+         $("#zincores").html(result);
+        }});
+    }
+   });
+  // Grab zinc ores supplies info on click end
+
+  // Grab fluorine ores supplies info on click start
+  $("#fluorineoresbtn").click(function() {
+    if ($("#fluorineores").hasClass("clickedfluorineores")) {
+        // already been clicked once, hide it
+        $("#fluorineores").html("");
+        $( "#fluorineores" ).removeClass( "clickedfluorineores" )
+    }else {
+        // first time this is clicked, mark it
+        $("#fluorineores").addClass("clickedfluorineores");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/fluorineores.txt", success: function(result){
+         $("#fluorineores").html(result);
+        }});
+    }
+   });
+  // Grab fluorine ores supplies info on click end
+
+  // Grab boron ores supplies info on click start
+  $("#boronoresbtn").click(function() {
+    if ($("#boronores").hasClass("clickedboronores")) {
+        // already been clicked once, hide it
+        $("#boronores").html("");
+        $( "#boronores" ).removeClass( "clickedboronores" )
+    }else {
+        // first time this is clicked, mark it
+        $("#boronores").addClass("clickedboronores");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/boronores.txt", success: function(result){
+         $("#boronores").html(result);
+        }});
+    }
+   });
+  // Grab boron ores supplies info on click end
+
 
 });
 </script>
@@ -239,115 +522,109 @@ $(document).ready(function () {
 	    
    <ul class="nav" >
    <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>A. RENEWABLE LOW / ZERO CARBON EMISSIONS ENERGY (1) </b></span> <span id="ro"><b>A. ENERGIE REGENERABILĂ CU EMISII REDUSE / ZERO CO2 (1)</b></span></button><div class="catalogpanel">
-   <h5 class="categoryaccordion" ><span id="en">Solid fuels (1)</span><span id="ro">Combustibili solizi (1)</span></h5>   
-   <table class="categorypanel" >
-   <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-   <tr><td><span id="en">Barbeque wood STAS 2340-90</span><span id="ro">Lemne grătar STAS 2340-90</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / 3kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
-   <tr><td><span id="en">Barbeque charcoal - wood SR EN 1860-2</span><span id="ro">Cărbune grătar - din lemn SR EN 1860-2</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / 3kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
-   <tr><td><span id="en">Barbeque smokeless charcoal - nuts husks</span><span id="ro">Cărbune grătar fară fum - din coji nuci</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / 3kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  
-   <tr><td><span id="en">Barbeque smokeless charcoal - bamboo</span><span id="ro">Cărbune grătar fară fum - din bambus</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / 3kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  
-   <tr><td><span id="en">Barbeque smokeless charcoal - coconut husks</span><span id="ro">Cărbune grătar fară fum - din coji nuci cocos</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / 3kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  
-   <tr><td><span id="en">Barbeque smokeless charcoal - bare corn cobs</span><span id="ro">Cărbune grătar fară fum - din știuleți porumb</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / 3kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  
-   <tr><td><span id="en">Sawdust pellets - aprx. 5 kWh/kg / water content under 10%</span><span id="ro">Peleți rumeguș - aprx. 5 kWh/kg / conținut apă sub 10%</span></td><td><span id="" >Supplier:SimForest - Romania</span><span id="ro" >Furnizor: SimForest - Romania</span></td><td><div style="border-bottom:1px solid #FFF;" >23.5 RON / 15kg </div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  
+   <h5 class="categoryaccordion" id="solidfuelsbtn" ><span id="en">Solid fuels (1)</span><span id="ro">Combustibili solizi (1)</span></h5>   
+   <table id="solidfuels" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
    </table>
    <h5 class="categoryaccordion" id="liquidfuelsbtn" ><span id="en">Bio Liquids / Fuels produced from biomass</span><span id="ro">Bio Combustibili produși din biomasă</span></h5> 
    <table id="liquidfuels" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table>
-   <h5 class="categoryaccordion" ><span id="en">Compressed gas fuels</span><span id="ro">Combustibili gazoși comprimați</span></h5>    
-   <table class="categorypanel" >
-   <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-   <tr><td><span id="en">Hydrogen ISO 14687</span><span id="ro">Hidrogen ISO 14687</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / m3</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
-   <tr><td><span id="en">Biomethane (Methane content minimum 94–99.9 %) EN 16723 / CAS 74-82-8 / EC Nr. 200-812-7 </span><span id="ro">Biometan ( Conținut metan minimum 94–99.9 % ) EN 16723 / CAS 74-82-8 / Nr. EC 200-812-7</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / m3</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-   <tr><td><span id="en">Butane UN Nr. 1011 / CAS 106-97-8 / EINECS 200-448-7</span><span id="ro">Butan Nr. ONU 1011 / CAS 106-97-8 / EINECS 200-448-7</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
-   <tr><td><span id="en">Propane UN Nr. 1978 / CAS 74-98-6  / EINECS 200-827-9</span><span id="ro">Propan Nr. ONU 1978 / CAS 74-98-6 / EINECS 200-827-9</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-   <tr><td><span id="en">Liquefied petroleum gas ( LPG ) UN Nr. 1965 / CAS 68512-91-4* / EINECS 271-094-00-0</span><span id="ro">Gaz petrolier lichefiat ( GPL ) Nr. ONU 1965 / CAS 68512-91-4* / EINECS 271-094-00-0</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / L</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-   <tr><td><span id="en">Liquefied petroleum gas ( LPG ) UN Nr. 1965 / CAS 68606-26-8* / EINECS 271-094-00-0</span><span id="ro">Gaz petrolier lichefiat ( GPL ) Nr. ONU 1965 / CAS CAS 68606-26-8* / EINECS 271-094-00-0</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / L</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-   <tr><td><span id="en">Liquefied petroleum gas ( LPG ) UN Nr. 1965 / CAS 68476-85-7  / EINECS 271-094-00-0</span><span id="ro">Gaz petrolier lichefiat ( GPL ) Nr. ONU 1965 / CAS 68476-85-7 / EINECS 271-094-00-0</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / L</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-   <tr><td><span id="en">Vehicles Liquefied petroleum gas ( LPG ) UN Nr. 1965 / CAS 73-98-6  / EINECS 270-990-9</span><span id="ro">Gaz petrolier lichefiat auto ( GPL ) Nr. ONU 1965 / CAS 73-98-6 / EINECS 270-990-9</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / L</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
+   <h5 class="categoryaccordion" id="compressedgasfuelsbtn" ><span id="en">Compressed gas fuels</span><span id="ro">Combustibili gazoși comprimați</span></h5>    
+   <table id="compressedgasfuels" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
    </table>	      
    </div></li><!--END SECTION-->
     <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>B. MINERALS - ORES (0)</b></span> <span id="ro"><b>B. MINEREURI (0)</b></span></button><div class="catalogpanel">
    
-    <h5 class="categoryaccordion" ><span id="en">Iron Ores</span><span id="ro">Minereuri Fier</span></h5>    	
-    <table class="categorypanel" >
-    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-     <tr><td><span id="en">Magnetite Fe3O4 ( 70-72.4% Fe )</span><span id="ro">Magnetit Fe3O4 ( 70-72.4% Fe )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-     <tr><td><span id="en">Hematite Fe2O3 ( 60-68% Fe )</span><span id="ro">Hematit Fe2O3 ( 60-68% Fe )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
+    <h5 class="categoryaccordion" id="ironoresbtn" ><span id="en">Iron Ores</span><span id="ro">Minereuri Fier</span></h5>    	
+    <table id="ironores" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
     </table>	
-    <h5 class="categoryaccordion" ><span id="en">Copper Ores</span><span id="ro">Minereuri Cupru</span></h5>    	
-   <table class="categorypanel" >
-    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-      <tr><td><span id="en">Chalcocite Cu2S ( aprx 79.8% Cu )</span><span id="ro">Concentrat Chalcocite Cu2S ( aprx 79.8% Cu )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     	    
+	    
+    <h5 class="categoryaccordion" id="copperoresbtn" ><span id="en">Copper Ores</span><span id="ro">Minereuri Cupru</span></h5>    	
+   <table id="copperores" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>	
+	    
+    <h5 class="categoryaccordion" id="aluminiumoresbtn" ><span id="en">Aluminium Ores</span><span id="ro">Minereuri Aluminiu</span></h5>   
+   <table id="aluminiumores" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end -->
+   </table>	
+	    
+    <h5 class="categoryaccordion" id="titaniumoresbtn" ><span id="en">Titanium Ores</span><span id="ro">Minereuri Titan</span></h5>    	
+    <table id="titaniumores" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end -->
     </table>	
-    <h5 class="categoryaccordion" ><span id="en">Aluminium Ores</span><span id="ro">Minereuri Aluminiu</span></h5>   
-   <table class="categorypanel" >
-    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-     <tr><td><span id="en">Bauxite ( 44-50% Al2O3 )</span><span id="ro">Bauxită ZnS ( 44-50% Al2O3 )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
+	    
+    <h5 class="categoryaccordion" id="tungstenoresbtn" ><span id="en">Tungsten Ores</span><span id="ro">Minereuri Wolfram</span></h5>    	
+    <table id="tungstenores" class="categorypanel" >
+    <!-- Load info start --> 
+    <!-- Load info end -->
     </table>	
-    <h5 class="categoryaccordion" ><span id="en">Titanium Ores</span><span id="ro">Minereuri Titan</span></h5>    	
-    <table class="categorypanel" >
-    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-     <tr><td><span id="en">Rutile sand / concentrate TiO2 ( 94-97% TiO2 )</span><span id="ro">Nisip / Concentrat Rutil TiO2 ( 94-97% TiO2 )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-     <tr><td><span id="en">Ilmenite sand / concentrate FeTIO3 ( 53-65% TiO2 )</span><span id="ro">Nisip / Concentrat Ilmenit FeTIO3 ( 53-65% TiO2 )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
+	    
+    <h5 class="categoryaccordion" id="molybdenumoresbtn" ><span id="en">Molybdenum Ores</span><span id="ro">Minereuri Molibden</span></h5>    	
+   <table id="molybdenumores" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end -->
+   </table>	
+	    
+    <h5 class="categoryaccordion" id="chromiumoresbtn" ><span id="en">Chromium Ores</span><span id="ro">Minereuri Crom</span></h5>    	
+   <table id="chromiumores" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end -->
+   </table>	
+	    
+    <h5 class="categoryaccordion" id="antimonyoresbtn" ><span id="en">Antimony Ores</span><span id="ro">Minereuri Antimoniu</span></h5>    	
+   <table id="antimonyores" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end -->
+   </table>	
+	    
+    <h5 class="categoryaccordion" id="manganeseoresbtn" ><span id="en">Manganese Ores</span><span id="ro">Minereuri Mangan</span></h5>    	
+    <table id="manganeseores" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end -->    
     </table>	
-    <h5 class="categoryaccordion" ><span id="en">Tungsten Ores</span><span id="ro">Minereuri Wolfram</span></h5>    	
-   <table class="categorypanel" >
-    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-     <tr><td><span id="en">Wolframite concentrate (Fe,Mn)WO4 ( >65% WO3 )</span><span id="ro">Concentrat Wolframit TiO2 ( (Fe,Mn)WO4 )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-     <tr><td><span id="en">Scheelite concentrate CaWO4 ( >65% WO3 )</span><span id="ro">Concentrat Scheelit CaWO4 ( >65% WO3 )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
+	    
+    <h5 class="categoryaccordion" id="leadoresbtn" ><span id="en">Lead Ores</span><span id="ro">Minereuri Plumb</span></h5>    	
+    <table id="leadores" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end -->  
     </table>	
-    <h5 class="categoryaccordion" ><span id="en">Molybdenum Ores</span><span id="ro">Minereuri Molibden</span></h5>    	
-   <table class="categorypanel" >
-    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-     <tr><td><span id="en">Molybdenite sand / concentrate MoS2 ( >60% Mo )</span><span id="ro">Nisip / Concentrat Molibdenit MoS2 ( >60% Mo )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
+	    
+    <h5 class="categoryaccordion" id="tinoresbtn" ><span id="en">Tin Ores</span><span id="ro">Minereuri Staniu</span></h5>    	
+    <table id="tinores" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
     </table>	
-    <h5 class="categoryaccordion" ><span id="en">Chromium Ores</span><span id="ro">Minereuri Crom</span></h5>    	
-   <table class="categorypanel" >
-    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-     <tr><td><span id="en">Metallurgical grade Chromite ( high chromium chromite, minimum 40% Cr2O3 )</span><span id="ro">Cromit metalurgic ( cromit cu conținut ridicat de crom, minim 40% Cr2O3 )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-     <tr><td><span id="en">Chemical grade Chromite ( high iron chromite, 46% Cr2O3 )</span><span id="ro">Cromit pentru chimicale ( cromit cu conținut ridicat de fier, 46% Cr2O3 )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-     <tr><td><span id="en">Foundry grade Chromite ( low silica chromite, 45% Cr2O3 )</span><span id="ro">Cromit pentru turnătorie ( cromit cu conținut scăzut de siliciu, 45% Cr2O3 )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-     <tr><td><span id="en">Refractory grade Chromite ( high aluminium chromite, 46% Cr2O3 )</span><span id="ro">Cromit refractar ( cromit cu conținut ridicat de aluminiu, 46% Cr2O3 )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
+	    
+    <h5 class="categoryaccordion" id="zincoresbtn" ><span id="en">Zinc Ores</span><span id="ro">Minereuri Zinc</span></h5>    	
+    <table id="zincores" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
     </table>	
-    <h5 class="categoryaccordion" ><span id="en">Antimony Ores</span><span id="ro">Minereuri Antimoniu</span></h5>    	
-   <table class="categorypanel" >
-    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-     <tr><td><span id="en">Stibnite concentrate Sb2S3 ( >55% Sb )</span><span id="ro">Concentrat Stibnit Sb2S3 ( >55% Sb )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
+	    
+    <h5 class="categoryaccordion" id="fluorineoresbtn" ><span id="en">Fluorine Ores</span><span id="ro">Minereuri Fluor</span></h5>    	
+    <table id="fluorineores" class="categorypanel" >
+    <!-- Load info start --> 
+    <!-- Load info end --> 
+    </table>		
+	    
+    <h5 class="categoryaccordion" id="boronoresbtn" ><span id="en">Boron Ores</span><span id="ro">Minereuri Bor</span></h5>    	
+    <table id="boronores" class="categorypanel" >
+    <!-- Load info start --> 
+    <!-- Load info end --> 
     </table>	
-    <h5 class="categoryaccordion" ><span id="en">Manganese Ores</span><span id="ro">Minereuri Mangan</span></h5>    	
-    <table class="categorypanel" >
-    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-     <tr><td><span id="en">Pyrolusite concentrate MnO2 ( >47% Mn )</span><span id="ro">Concentrat Piroluzit MnO2 ( >47% Mn )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-    </table>	
-    <h5 class="categoryaccordion" ><span id="en">Lead Ores</span><span id="ro">Minereuri Plumb</span></h5>    	
-    <table class="categorypanel" >
-    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-     <tr><td><span id="en">Galena PbS ( aprx 86.6% Pb )</span><span id="ro">Galenă PbS ( aprx 86.6% Pb )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-    </table>	
-    <h5 class="categoryaccordion" ><span id="en">Tin Ores</span><span id="ro">Minereuri Staniu</span></h5>    	
-    <table class="categorypanel" >
-    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-     <tr><td><span id="en">Cassiterite SnO2 ( >70% Sn )</span><span id="ro">Casiterit SnO2 ( >70% Sn )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-    </table>	
-    <h5 class="categoryaccordion" ><span id="en">Zinc Ores</span><span id="ro">Minereuri Zinc</span></h5>    	
-    <table class="categorypanel" >
-    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-     <tr><td><span id="en">Sphalerite ZnS ( >50% Zn )</span><span id="ro">Blendă ZnS ( >50% Zn )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-    </table>	
-    <h5 class="categoryaccordion" ><span id="en">Fluorine Ores</span><span id="ro">Minereuri Fluor</span></h5>    	
-    <table class="categorypanel" >
-    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-     <tr><td><span id="en">Acid grade Fluorite ( +97% CaF2 )</span><span id="ro">Fluorină pentru acid ( +97% CaF2 )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-     <tr><td><span id="en">Metallurgical grade Fluorite ( 60-96% CaF2 )</span><span id="ro">Fluorină metalurgică ( 60-96% CaF2 )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-    </table>		    
-    <h5 class="categoryaccordion" ><span id="en">Boron Ores</span><span id="ro">Minereuri Bor</span></h5>    	
-    <table class="categorypanel" >
-    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-     <tr><td><span id="en">Colemanite ( >= 43% B2O3 )</span><span id="ro">Colemanit ( >= 43% B2O3 )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-     <tr><td><span id="en">Ulexite ( >= 37% B2O3 )</span><span id="ro">Ulexită ( >= 37% B2O3 )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-    </table>	
+
+	    
       </div></li><!--END SECTION-->   
       <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>C. FACTORIES MACHINARY AND EQUIPMENT (0)</b></span> <span id="ro"><b>C. FABRICI ECHIPAMENTE ȘI UTILAJE (0)</b></span></button><div class="catalogpanel">
          <h5 class="categoryaccordion" ><span id="en">Renewable energy power plant</span><span id="ro">Centrală electrică energie regenerabilă</span></h5>    	
