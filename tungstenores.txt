@@ -1,0 +1,5 @@
+<tbody>
+     <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
+     <tr><td><span id="en">Wolframite concentrate (Fe,Mn)WO4 ( >65% WO3 )</span><span id="ro">Concentrat Wolframit TiO2 ( (Fe,Mn)WO4 )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
+     <tr><td><span id="en">Scheelite concentrate CaWO4 ( >65% WO3 )</span><span id="ro">Concentrat Scheelit CaWO4 ( >65% WO3 )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
+</tbody>
