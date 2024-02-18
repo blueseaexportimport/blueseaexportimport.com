@@ -162,112 +162,7 @@ $(document).ready(function () {
    });
   // Grab compressed gas fuels info on click end
 
-  // Grab mineral ores info on click start
-  $("#mineraloresbtn").click(function() {
-    if ($("#mineralores").hasClass("clickedmineralores")) {
-        // already been clicked once, hide it
-        $("#mineralores").html("");
-        $( "#mineralores" ).removeClass( "clickedmineralores" )
-    }else {
-        // first time this is clicked, mark it
-        $("#mineralores").addClass("clickedmineralores");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/mineralores.txt", success: function(result){
-         $("#mineralores").html(result);
-        }});
-    }
-   });
-  // Grab mineral ores info on click end
-
-
-	
-	
-
-  // Grab steel alloys info on click start
-  $("#steelalloysbtn").click(function() {
-    if ($("#steelalloys").hasClass("clickedsteelalloys")) {
-        // already been clicked once, hide it
-        $("#steelalloys").html("");
-        $( "#steelalloys" ).removeClass( "clickedsteelalloys" )
-    }else {
-        // first time this is clicked, mark it
-        $("#steelalloys").addClass("clickedsteelalloys");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/steelalloys.txt", success: function(result){
-         $("#steelalloys").html(result);
-        }});
-    }
-   });
-  // Grab steel alloys supplies info on click end
-
-	
-
-  // Grab electric engines info on click start
-  $("#electricenginesbtn").click(function() {
-    if ($("#electricengines").hasClass("clickedelectricengines")) {
-        // already been clicked once, hide it
-        $("#electricengines").html("");
-        $( "#electricengines" ).removeClass( "clickedelectricengines" )
-    }else {
-        // first time this is clicked, mark it
-        $("#electricengines").addClass("clickedelectricengines");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/electricengines.txt", success: function(result){
-         $("#electricengines").html(result);
-        }});
-    }
-   });
-  // Grab electric engines info on click end
-
-  // Grab personal care - body and skin info on click start
-  $("#personalcarebodyandskinbtn").click(function() {
-    if ($("#personalcarebodyandskin").hasClass("clickedpersonalcarebodyandskin")) {
-        // already been clicked once, hide it
-        $("#personalcarebodyandskin").html("");
-        $( "#personalcarebodyandskin" ).removeClass( "clickedpersonalcarebodyandskin" )
-    }else {
-        // first time this is clicked, mark it
-        $("#personalcarebodyandskin").addClass("clickedpersonalcarebodyandskin");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/personalcarebodyandskin.txt", success: function(result){
-         $("#personalcarebodyandskin").html(result);
-        }});
-    }
-   });
-  // Grab personal care - body and skin info on click end
-
-  // Grab personal care - hair and nails info on click start
-  $("#personalcarehairandnailsbtn").click(function() {
-    if ($("#personalcarehairandnails").hasClass("clickedpersonalcarehairandnails")) {
-        // already been clicked once, hide it
-        $("#personalcarehairandnails").html("");
-        $( "#personalcarehairandnails" ).removeClass( "clickedpersonalcarehairandnails" )
-    }else {
-        // first time this is clicked, mark it
-        $("#personalcarehairandnails").addClass("clickedpersonalcarehairandnails");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/personalcarehairandnails.txt", success: function(result){
-         $("#personalcarehairandnails").html(result);
-        }});
-    }
-   });
-  // Grab personal care - hair and nails info on click end
-	
-
-  // Grab office and school supplies info on click start
-  $("#officeandschoolsuppliesbtn").click(function() {
-    if ($("#officeandschoolsupplies").hasClass("clickedofficeandschoolsupplies")) {
-        // already been clicked once, hide it
-        $("#officeandschoolsupplies").html("");
-        $( "#officeandschoolsupplies" ).removeClass( "clickedofficeandschoolsupplies" )
-    }else {
-        // first time this is clicked, mark it
-        $("#officeandschoolsupplies").addClass("clickedofficeandschoolsupplies");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/officeandschoolsupplies.txt", success: function(result){
-         $("#officeandschoolsupplies").html(result);
-        }});
-    }
-   });
-	
-  // Grab iron ores supplies info on click end
-
-
-  // Grab iron ores supplies info on click start
+// Grab iron ores supplies info on click start
   $("#ironoresbtn").click(function() {
     if ($("#ironores").hasClass("clickedironores")) {
         // already been clicked once, hide it
@@ -490,6 +385,93 @@ $(document).ready(function () {
     }
    });
   // Grab boron ores supplies info on click end
+
+  // Grab steel alloys info on click start
+  $("#steelalloysbtn").click(function() {
+    if ($("#steelalloys").hasClass("clickedsteelalloys")) {
+        // already been clicked once, hide it
+        $("#steelalloys").html("");
+        $( "#steelalloys" ).removeClass( "clickedsteelalloys" )
+    }else {
+        // first time this is clicked, mark it
+        $("#steelalloys").addClass("clickedsteelalloys");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/steelalloys.txt", success: function(result){
+         $("#steelalloys").html(result);
+        }});
+    }
+   });
+  // Grab steel alloys supplies info on click end
+
+	
+
+  // Grab electric engines info on click start
+  $("#electricenginesbtn").click(function() {
+    if ($("#electricengines").hasClass("clickedelectricengines")) {
+        // already been clicked once, hide it
+        $("#electricengines").html("");
+        $( "#electricengines" ).removeClass( "clickedelectricengines" )
+    }else {
+        // first time this is clicked, mark it
+        $("#electricengines").addClass("clickedelectricengines");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/electricengines.txt", success: function(result){
+         $("#electricengines").html(result);
+        }});
+    }
+   });
+  // Grab electric engines info on click end
+
+  // Grab personal care - body and skin info on click start
+  $("#personalcarebodyandskinbtn").click(function() {
+    if ($("#personalcarebodyandskin").hasClass("clickedpersonalcarebodyandskin")) {
+        // already been clicked once, hide it
+        $("#personalcarebodyandskin").html("");
+        $( "#personalcarebodyandskin" ).removeClass( "clickedpersonalcarebodyandskin" )
+    }else {
+        // first time this is clicked, mark it
+        $("#personalcarebodyandskin").addClass("clickedpersonalcarebodyandskin");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/personalcarebodyandskin.txt", success: function(result){
+         $("#personalcarebodyandskin").html(result);
+        }});
+    }
+   });
+  // Grab personal care - body and skin info on click end
+
+  // Grab personal care - hair and nails info on click start
+  $("#personalcarehairandnailsbtn").click(function() {
+    if ($("#personalcarehairandnails").hasClass("clickedpersonalcarehairandnails")) {
+        // already been clicked once, hide it
+        $("#personalcarehairandnails").html("");
+        $( "#personalcarehairandnails" ).removeClass( "clickedpersonalcarehairandnails" )
+    }else {
+        // first time this is clicked, mark it
+        $("#personalcarehairandnails").addClass("clickedpersonalcarehairandnails");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/personalcarehairandnails.txt", success: function(result){
+         $("#personalcarehairandnails").html(result);
+        }});
+    }
+   });
+  // Grab personal care - hair and nails info on click end
+	
+
+  // Grab office and school supplies info on click start
+  $("#officeandschoolsuppliesbtn").click(function() {
+    if ($("#officeandschoolsupplies").hasClass("clickedofficeandschoolsupplies")) {
+        // already been clicked once, hide it
+        $("#officeandschoolsupplies").html("");
+        $( "#officeandschoolsupplies" ).removeClass( "clickedofficeandschoolsupplies" )
+    }else {
+        // first time this is clicked, mark it
+        $("#officeandschoolsupplies").addClass("clickedofficeandschoolsupplies");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/officeandschoolsupplies.txt", success: function(result){
+         $("#officeandschoolsupplies").html(result);
+        }});
+    }
+   });
+  // Grab office and school supplies info on click end
+
+
+
+  
 
 
 });
