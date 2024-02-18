@@ -1,1 +1,14 @@
 
+<tbody>
+
+   <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
+   <tr><td><span id="en">Barbeque wood STAS 2340-90</span><span id="ro">Lemne grătar STAS 2340-90</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / 3kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
+   <tr><td><span id="en">Barbeque charcoal - wood SR EN 1860-2</span><span id="ro">Cărbune grătar - din lemn SR EN 1860-2</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / 3kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
+   <tr><td><span id="en">Barbeque smokeless charcoal - nuts husks</span><span id="ro">Cărbune grătar fară fum - din coji nuci</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / 3kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  
+   <tr><td><span id="en">Barbeque smokeless charcoal - bamboo</span><span id="ro">Cărbune grătar fară fum - din bambus</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / 3kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  
+   <tr><td><span id="en">Barbeque smokeless charcoal - coconut husks</span><span id="ro">Cărbune grătar fară fum - din coji nuci cocos</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / 3kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  
+   <tr><td><span id="en">Barbeque smokeless charcoal - bare corn cobs</span><span id="ro">Cărbune grătar fară fum - din știuleți porumb</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / 3kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  
+   <tr><td><span id="en">Sawdust pellets - aprx. 5 kWh/kg / water content under 10%</span><span id="ro">Peleți rumeguș - aprx. 5 kWh/kg / conținut apă sub 10%</span></td><td><span id="" >Supplier:SimForest - Romania</span><span id="ro" >Furnizor: SimForest - Romania</span></td><td><div style="border-bottom:1px solid #FFF;" >23.5 RON / 15kg </div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  
+   
+
+</tbody>
