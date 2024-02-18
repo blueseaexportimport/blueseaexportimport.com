@@ -469,9 +469,21 @@ $(document).ready(function () {
    });
   // Grab office and school supplies info on click end
 
-
-
-  
+  // Grab high voltage systems info on click start
+  $("#highvoltagesystemsbtn").click(function() {
+    if ($("#highvoltagesystems").hasClass("clickedhighvoltagesystems")) {
+        // already been clicked once, hide it
+        $("#highvoltagesystems").html("");
+        $( "#highvoltagesystems" ).removeClass( "clickedhighvoltagesystems" )
+    }else {
+        // first time this is clicked, mark it
+        $("#highvoltagesystems").addClass("clickedhighvoltagesystems");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/highvoltagesystems.txt", success: function(result){
+         $("#highvoltagesystems").html(result);
+        }});
+    }
+   });
+  // Grab high voltage systems info on click end
 
 
 });
@@ -3356,150 +3368,11 @@ $(document).ready(function () {
         <div class="rowbin" >-</div> 	
         <h5 class="categoryaccordion" ><span id="en">Public Electric Energy Generators Systems  ( Non-Nuclear )</span><span id="ro">Sisteme Publice Generatoare Curent Electric ( Non-Nucleare )</span></h5>    
         <div class="rowbin" >-</div> 	
-        <h5 class="categoryaccordion" ><span id="en">High Voltage Systems</span><span id="ro">Sisteme Înaltă Tensiune</span></h5>    
-
-    <table class="categorypanel" >
-    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Pret</span></th></tr>  
-
-
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Electricity conductors</span>
-	<span id="ro">Conductoare electrice</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
-
-	    
-    <tr><td><span id="en">Formed wire, concentric lay, stranded conductors for overhead electrical power lines EN 62219:2004</span><span id="ro">Conductoare cu sârme profilate cablate în straturi concentrice pentru linii electrice aeriene EN 62219:2004</span></td>
-    <td><span id="en">Supplier:-</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Round wire concentric lay stranded conductors for overhead electrical power lines EN 50182:2004 + EN 50182:2004/AC:2013 + EN 50182:2004/AC:2014</span><span id="ro">Conductoare cu sârme rotunde cablate în straturi concentrice pentru linii electrice aeriene EN 50182:2004 + EN 50182:2004/AC:2013 + EN 50182:2004/AC:2014</span></td>
-    <td><span id="en">Supplier:-</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Zinc coated steel wires conductors for overhead electrical power lines EN 50189:2002</span><span id="ro">Conductoare sârme de oţel zincate pentru linii electrice aeriene EN 50189:2002</span></td>
-    <td><span id="en">Supplier:-</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Round wire concentric lay overhead electrical stranded conductors SR CEI 61089:1996</span><span id="ro">Conductoare pentru linii aeriene cu sârme rotunde, cablate în straturi concentrice SR CEI 61089:1996</span></td>
-    <td><span id="en">Supplier:-</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Aluminium-clad steel wires for electrical purposes EN 61232:2002 + EN 61232:2002/A11:2002</span><span id="ro">Sârme de oţel acoperite cu aluminiu pentru utilizare electrică EN 61232:2002 + EN 61232:2002/A11:2002</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Coated or cladded metallic wire for concentric lay stranded conductors for overhead electrical power lines EN IEC 63248:2022</span><span id="ro">Sârmă metalică acoperită sau învelită pentru conductoare înfuniate în straturi concentrice pentru linii electrice aeriene EN IEC 63248:2022</span></td>
-    <td><span id="en">Supplier:-</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Aluminium-magnesium-silicon alloy wires for overhead electrical power lines  EN 50183:2002</span><span id="ro">Sârme de aliaj de aluminiu-magneziu-siliciu pentru linii electrice aeriene EN 50183:2002</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>	
-
-
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Power cables</span>
-	<span id="ro">Cabluri electrice</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
-
-	    
-    <tr><td><span id="en">Power cables with extruded insulation and their accessories for rated voltages above 36 kV (Um = 42 kV) up to 150 kV (Um = 170 kV) SR HD 632 S3:2017</span><span id="ro">Cabluri de energie cu izolaţie extrudată şi accesoriile lor, de tensiune nominală peste 36 kV (Um=42 kV) şi până la 150 kV (Um=170 kV) SR HD 632 S3:2017</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>	
-    <tr><td><span id="en">Distribution cables with extruded insulation for rated voltages from 3,6/6 (7,2) kV up to and including 20,8/36 (42) kV SR HD 620 S2:2010 + SR HD 620 S3:2023</span><span id="ro">Cabluri de distribuţie cu izolaţie extrudată de tensiune nominală de la 3,6/6 (7,2) kV până la 20,8/36 (42) kV, inclusiv SR HD 620 S2:2010 + SR HD 620 S3:2023</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>	
-    <tr><td><span id="en">Power cables having rated voltages from 3,6/6 (7,2) kV up to and including 20,8/36 (42) kV with special fire performance for use in power stations SR HD 622 S1:2002 + SR HD 622 S1:2002/A1:2002 + SR HD 622 S1:2002/A2:2006</span><span id="ro">Cabluri de energie de tensiune nominală de la 3,6/6 (7,2) kV până la 20,8/36 (42) kV inclusiv, cu comportare specială la foc, pentru utilizare în centralele electrice SR HD 622 S1:2002 + SR HD 622 S1:2002/A1:2002 + SR HD 622 S1:2002/A2:2006</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Overhead distribution cables of rated voltage Uo/U(Um): 0,6/1 (1,2) kV SR HD 626 S1:2001 + SR HD 626 S1:2001/A1:2002 + SR HD 626 S1:2001/A2:2003</span><span id="ro">Cabluri de distribuţie aeriene, de tensiune nominală Uo/U (Um): 0,6 / 1 (1,2) kV SR HD 626 S1:2001 + SR HD 626 S1:2001/A1:2002 + SR HD 626 S1:2001/A2:2003</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>	   
-    <tr><td><span id="en">Distribution cables of rated voltage 0,6/1 kV SR HD 604 S1:2001 + SR HD 604 S1:2001/A1:2002 + SR HD 604 S1:2001/A2:2004 + SR HD 604 S1:2001/A3:2007</span><span id="ro">Cabluri de distribuţie de tensiune nominală 0,6/1 kV SR HD 604 S1:2001 + SR HD 604 S1:2001/A1:2002 + SR HD 604 S1:2001/A2:2004 + SR HD 604 S1:2001/A3:2007</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Medium voltage impregnated paper insulated distribution cables SR HD 621 S1:2002 + SR HD 621 S1:2002/A1:2003 + SR HD 621 S1:2002/A1:2003</span><span id="ro">Cabluri de distribuţie de medie tensiune cu izolaţie de hârtie impregnată SR HD 621 S1:2002 + SR HD 621 S1:2002/A1:2003 + SR HD 621 S1:2002/A1:2003</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">0,6/1 kV and 1,9/3,3 kV power cables with special fire performance for use in power stations SR HD 604 S1:2001 + SR HD 604 S1:2001/A3:2006 + SR HD 604 S1:2001/A2:2003 + SR HD 604 S1:2001/A1:2002</span><span id="ro">Cabluri de energie 0,6/1 kV şi 1,9/3,3 kV, cu comportare particulară la foc, pentru utilizare în centralele electrice SR HD 604 S1:2001 + SR HD 604 S1:2001/A3:2006 + SR HD 604 S1:2001/A2:2003 + SR HD 604 S1:2001/A1:2002</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Electrical Insulators</span>
-	<span id="ro">Izolatoare electrice</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
-    <tr><td><span id="en">Ceramic or glass insulators for overhead lines with a nominal voltage above 1 kV for a.c. systems SR EN 60383-1:2002</span><span id="ro">Izolatoare din material ceramic sau de sticlă pentru linii aeriene cu tensiune nominală mai mare de 1000 V - sisteme de curent alternativ SR EN 60383-1:2002</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Ceramic or glass insulators for overhead lines with a nominal voltage above 1 kV for d.c. systems SR EN 61325:2004</span><span id="ro">Izolatoare din material ceramic sau de sticlă pentru linii aeriene cu tensiunea nominală mai mare de 1 000 V - sisteme de curent continuu SR EN 61325:2004</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Hollow pressurized and unpressurized ceramic and glass insulators for use in electrical equipment with rated voltages greater than 1 000 V SR EN 62155:2004</span><span id="ro">Izolatoare tip carcasă cu sau fără presiune internă de material ceramic sau de sticlă, pentru utilizare în aparatajul electric cu tensiuni nominale mai mari de 1 000 V SR EN 62155:2004</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Composite line post insulators for A.C. systems with a nominal voltage greater than 1 000 V SR EN 61952:2008 + SR EN IEC 61952-1:2019</span><span id="ro">Izolatoare compozite suport de linie cu soclu pentru sisteme de curent alternativ cu tensiune nominală mai mare de 1 000 V SR EN 61952:2008 + SR EN IEC 61952-1:2019</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Hollow pressurized and unpressurized ceramic and glass insulators for use in electrical equipment with rated voltages greater than 1 000 V SR EN 61109:2009</span><span id="ro">Izolatoare compozite de susţinere şi întindere pentru sistemele de curent alternativ cu tensiunea nominală mai mare de 1 000 V SR EN 61109:2009</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Electrical steel sheets</span>
-	<span id="ro">Table şi benzi din oţel electrotehnic</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
-	    
-    <tr><td><span id="en">Cold rolled non-oriented electrical steel sheet and strip delivered in the fully processed state EN 10106:2016</span><span id="ro">Table şi benzi din oţel electrotehnic cu grăunţi neorientaţi laminate la rece şi livrate în stare finită EN 10106:2016</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Grain-oriented electrical steel sheet and strip delivered in the fully processed state EN 10107:2022</span><span id="ro">Table şi benzi din oţel magnetic cu grăunţi orientaţi livrate în stare finită EN 10107:2022</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Cold rolled electrical non-alloy and alloy steel sheet and strip delivered in the semi-processed state EN 10341:2006</span><span id="ro">Table şi benzi laminate la rece din oţeluri nealiate şi aliate pentru electrotehnică livrate în stare semifinită EN 10341:2006</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>	
-
-
-	    
-    </table>
-
-
-	      
+        <h5 class="categoryaccordion" id="highvoltagesystemsbtn" ><span id="en">High Voltage Systems</span><span id="ro">Sisteme Înaltă Tensiune</span></h5>    
+       <table id="highvoltagesystems" class="categorypanel" >
+      <!-- Load info start --> 
+      <!-- Load info end --> 
+       </table>
         <h5 class="categoryaccordion" ><span id="en">Public Lighting Systems</span><span id="ro">Sisteme Iluminat Public</span></h5>    
         <div class="rowbin" >-</div> 	
         <h5 class="categoryaccordion" ><span id="en">Hospital Equipment, Accessories and Materials</span><span id="ro">Echipamente, Accesorii și Materiale Spitale</span></h5>    
