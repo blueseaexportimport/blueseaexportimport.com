@@ -8,7 +8,7 @@
 
 <tr>
    <td style="background:#39ff14;color:black;" >
-	<span id="en">Space Grade steels</span>
+	<span id="en">Space grade steels</span>
 	<span id="ro">Oțeluri pentru utilizare in spațiu cosmic</span>
    </td>
    <td style="background:#39ff14;color:black;" >
