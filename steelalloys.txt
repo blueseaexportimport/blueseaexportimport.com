@@ -61,9 +61,6 @@
         <tr><td><span id="en">Hot finished structural hollow sections of non-alloy and fine grain steels EN 10210-1:2006</span><span id="ro">Profile cave finisate la cald pentru construcţii, din oţeluri de construcţie nealiate şi cu granulaţie fină EN 10210-1:2006</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
 	<td>-</td></tr>
-        <tr><td><span id="en">Hot finished structural hollow sections of non-alloy and fine grain steels EN 10210-1:2006</span><span id="ro">Profile cave finisate la cald pentru construcţii, din oţeluri de construcţie nealiate şi cu granulaţie fină EN 10210-1:2006</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
         <tr><td><span id="en">Cold rolled steel sections - Dimensional and cross-sectional tolerances EN 10162:2003</span><span id="ro">Profile de oţel formate la rece - Toleranţe la secţiuni transversale şi la dimensiuni EN 10162:2003</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
 	<td>-</td></tr>
