@@ -55,9 +55,6 @@
 	<tr><td><span id="en">Hot rolled products of structural steel EN 10025-1:2005 </span><span id="ro">Produse laminate la cald din oţel pentru construcţii EN 10025-1:2005</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
 	<td>-</td></tr>
-         <tr><td><span id="en">Hot rolled products of structural steels - Flat products of high yield strength structural steels in the quenched and tempered condition EN 10025-6+A1:2023  </span><span id="ro">Produse laminate la cald din oțeluri de construcții - Produse plate din oţeluri cu limită de curgere ridicată în stare călită şi revenită EN 10025-6+A1:2023</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
 	<tr><td><span id="en">Hot rolled products of structural steels - Flat products of high yield strength structural steels in the quenched and tempered condition EN 10025-6+A1:2023  </span><span id="ro">Produse laminate la cald din oțeluri de construcții - Produse plate din oţeluri cu limită de curgere ridicată în stare călită şi revenită EN 10025-6+A1:2023</span></td>
 	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
 	<td>-</td></tr>
