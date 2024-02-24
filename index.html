@@ -162,229 +162,21 @@ $(document).ready(function () {
    });
   // Grab compressed gas fuels info on click end
 
-// Grab iron ores supplies info on click start
-  $("#ironoresbtn").click(function() {
-    if ($("#ironores").hasClass("clickedironores")) {
+  // Grab mineral ores supplies info on click start
+  $("#mineraloresbtn").click(function() {
+    if ($("#mineralores").hasClass("clickedmineralores")) {
         // already been clicked once, hide it
-        $("#ironores").html("");
-        $( "#ironores" ).removeClass( "clickedironores" )
+        $("#mineralores").html("");
+        $( "#mineralores" ).removeClass( "clickedmineralores" )
     }else {
         // first time this is clicked, mark it
-        $("#ironores").addClass("clickedironores");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/ironores.txt", success: function(result){
-         $("#ironores").html(result);
+        $("#mineralores").addClass("clickedmineralores");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/mineralores.txt", success: function(result){
+         $("#mineralores").html(result);
         }});
     }
    });
-  // Grab iron ores supplies info on click end
-
-  // Grab copper ores supplies info on click start
-  $("#copperoresbtn").click(function() {
-    if ($("#copperores").hasClass("clickedcopperores")) {
-        // already been clicked once, hide it
-        $("#copperores").html("");
-        $( "#copperores" ).removeClass( "clickedcopperores" )
-    }else {
-        // first time this is clicked, mark it
-        $("#copperores").addClass("clickedcopperores");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/copperores.txt", success: function(result){
-         $("#copperores").html(result);
-        }});
-    }
-   });
-  // Grab copper ores supplies info on click end
-
-  // Grab aluminium ores supplies info on click start
-  $("#aluminiumoresbtn").click(function() {
-    if ($("#aluminiumores").hasClass("clickedaluminiumores")) {
-        // already been clicked once, hide it
-        $("#aluminiumores").html("");
-        $( "#aluminiumores" ).removeClass( "clickedaluminiumores" )
-    }else {
-        // first time this is clicked, mark it
-        $("#aluminiumores").addClass("clickedaluminiumores");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/aluminiumores.txt", success: function(result){
-         $("#aluminiumores").html(result);
-        }});
-    }
-   });
-  // Grab aluminium ores supplies info on click end
-
-  // Grab titanium ores supplies info on click start
-  $("#titaniumoresbtn").click(function() {
-    if ($("#titaniumores").hasClass("clickedtitaniumores")) {
-        // already been clicked once, hide it
-        $("#titaniumores").html("");
-        $( "#titaniumores" ).removeClass( "clickedtitaniumores" )
-    }else {
-        // first time this is clicked, mark it
-        $("#titaniumores").addClass("clickedtitaniumores");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/titaniumores.txt", success: function(result){
-         $("#titaniumores").html(result);
-        }});
-    }
-   });
-  // Grab titanium ores supplies info on click end
-
-  // Grab tungsten ores supplies info on click start
-  $("#tungstenoresbtn").click(function() {
-    if ($("#tungstenores").hasClass("clickedtungstenores")) {
-        // already been clicked once, hide it
-        $("#tungstenores").html("");
-        $( "#tungstenores" ).removeClass( "clickedtungstenores" )
-    }else {
-        // first time this is clicked, mark it
-        $("#tungstenores").addClass("clickedtungstenores");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/tungstenores.txt", success: function(result){
-         $("#tungstenores").html(result);
-        }});
-    }
-   });
-  // Grab tungsten ores supplies info on click end
-
-  // Grab molybdenum ores supplies info on click start
-  $("#molybdenumoresbtn").click(function() {
-    if ($("#molybdenumores").hasClass("clickedmolybdenumores")) {
-        // already been clicked once, hide it
-        $("#molybdenumores").html("");
-        $( "#molybdenumores" ).removeClass( "clickedmolybdenumores" )
-    }else {
-        // first time this is clicked, mark it
-        $("#molybdenumores").addClass("clickedmolybdenumores");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/molybdenumores.txt", success: function(result){
-         $("#molybdenumores").html(result);
-        }});
-    }
-   });
-  // Grab molybdenum ores supplies info on click end
-
-  // Grab chromium ores supplies info on click start
-  $("#chromiumoresbtn").click(function() {
-    if ($("#chromiumores").hasClass("clickedchromiumores")) {
-        // already been clicked once, hide it
-        $("#chromiumores").html("");
-        $( "#chromiumores" ).removeClass( "clickedchromiumores" )
-    }else {
-        // first time this is clicked, mark it
-        $("#chromiumores").addClass("clickedchromiumores");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/chromiumores.txt", success: function(result){
-         $("#chromiumores").html(result);
-        }});
-    }
-   });
-  // Grab chromium ores supplies info on click end
-
-  // Grab antimony ores supplies info on click start
-  $("#antimonyoresbtn").click(function() {
-    if ($("#antimonyores").hasClass("clickedantimonyores")) {
-        // already been clicked once, hide it
-        $("#antimonyores").html("");
-        $( "#antimonyores" ).removeClass( "clickedantimonyores" )
-    }else {
-        // first time this is clicked, mark it
-        $("#antimonyores").addClass("clickedantimonyores");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/antimonyores.txt", success: function(result){
-         $("#antimonyores").html(result);
-        }});
-    }
-   });
-  // Grab antimony ores supplies info on click end
-
-  // Grab manganese ores supplies info on click start
-  $("#manganeseoresbtn").click(function() {
-    if ($("#manganeseores").hasClass("clickedmanganeseores")) {
-        // already been clicked once, hide it
-        $("#manganeseores").html("");
-        $( "#manganeseores" ).removeClass( "clickedmanganeseores" )
-    }else {
-        // first time this is clicked, mark it
-        $("#manganeseores").addClass("clickedmanganeseores");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/manganeseores.txt", success: function(result){
-         $("#manganeseores").html(result);
-        }});
-    }
-   });
-  // Grab manganese ores supplies info on click end
-
-  // Grab lead ores supplies info on click start
-  $("#leadoresbtn").click(function() {
-    if ($("#leadores").hasClass("clickedleadores")) {
-        // already been clicked once, hide it
-        $("#leadores").html("");
-        $( "#leadores" ).removeClass( "clickedleadores" )
-    }else {
-        // first time this is clicked, mark it
-        $("#leadores").addClass("clickedleadores");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/leadores.txt", success: function(result){
-         $("#leadores").html(result);
-        }});
-    }
-   });
-  // Grab lead ores supplies info on click end
-
-  // Grab tin ores supplies info on click start
-  $("#tinoresbtn").click(function() {
-    if ($("#tinores").hasClass("clickedtinores")) {
-        // already been clicked once, hide it
-        $("#tinores").html("");
-        $( "#tinores" ).removeClass( "clickedtinores" )
-    }else {
-        // first time this is clicked, mark it
-        $("#tinores").addClass("clickedtinores");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/tinores.txt", success: function(result){
-         $("#tinores").html(result);
-        }});
-    }
-   });
-  // Grab tin ores supplies info on click end
-
-  // Grab zinc ores supplies info on click start
-  $("#zincoresbtn").click(function() {
-    if ($("#zincores").hasClass("clickedzincores")) {
-        // already been clicked once, hide it
-        $("#zincores").html("");
-        $( "#zincores" ).removeClass( "clickedzincores" )
-    }else {
-        // first time this is clicked, mark it
-        $("#zincores").addClass("clickedzincores");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/zincores.txt", success: function(result){
-         $("#zincores").html(result);
-        }});
-    }
-   });
-  // Grab zinc ores supplies info on click end
-
-  // Grab fluorine ores supplies info on click start
-  $("#fluorineoresbtn").click(function() {
-    if ($("#fluorineores").hasClass("clickedfluorineores")) {
-        // already been clicked once, hide it
-        $("#fluorineores").html("");
-        $( "#fluorineores" ).removeClass( "clickedfluorineores" )
-    }else {
-        // first time this is clicked, mark it
-        $("#fluorineores").addClass("clickedfluorineores");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/fluorineores.txt", success: function(result){
-         $("#fluorineores").html(result);
-        }});
-    }
-   });
-  // Grab fluorine ores supplies info on click end
-
-  // Grab boron ores supplies info on click start
-  $("#boronoresbtn").click(function() {
-    if ($("#boronores").hasClass("clickedboronores")) {
-        // already been clicked once, hide it
-        $("#boronores").html("");
-        $( "#boronores" ).removeClass( "clickedboronores" )
-    }else {
-        // first time this is clicked, mark it
-        $("#boronores").addClass("clickedboronores");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/boronores.txt", success: function(result){
-         $("#boronores").html(result);
-        }});
-    }
-   });
-  // Grab boron ores supplies info on click end
+  // Grab mineral ores supplies info on click end
 
   // Grab steel alloys info on click start
   $("#steelalloysbtn").click(function() {
@@ -683,8 +475,11 @@ $(document).ready(function () {
   </div></li><!--END SECTION-->
 
    <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (1)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (1)</b></span></button><div class="catalogpanel">
-   <h5 class="categoryaccordion" ><span id="en">Space mining minerals ( ores )</span><span id="ro">Minereuri provenit din minerit spațial</span></h5>    	
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="mineraloresbtn" ><span id="en">Space mining minerals ( ores )</span><span id="ro">Minereuri provenit din minerit spațial</span></h5>    	
+   <table id="mineralores" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>     
    <h5 class="categoryaccordion" ><span id="en">Non-ferrous foundry</span><span id="ro">Turnătorie de aliaje neferoase</span></h5>    	
    <div class="rowbin" >-</div> 
    <h5 class="categoryaccordion" ><span id="en">Cast iron foundry</span><span id="ro">Turnătorie de fontă</span></h5>    	
