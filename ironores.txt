@@ -1,7 +1,0 @@
-<tbody>
-
-     <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-     <tr><td><span id="en">Magnetite Fe3O4 ( 70-72.4% Fe )</span><span id="ro">Magnetit Fe3O4 ( 70-72.4% Fe )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-     <tr><td><span id="en">Hematite Fe2O3 ( 60-68% Fe )</span><span id="ro">Hematit Fe2O3 ( 60-68% Fe )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-    
-</tbody>
