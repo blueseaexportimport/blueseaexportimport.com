@@ -1,0 +1,7 @@
+<tbody>
+     <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
+
+     <tr><td><span id="en">Bauxite ( 44-50% Al2O3 )</span><span id="ro">Bauxită ( 44-50% Al2O3 )</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
+
+
+</tbody>
