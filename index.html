@@ -269,7 +269,7 @@ $(document).ready(function () {
         // first time this is clicked, mark it
         $("#castiron").addClass("clickedcastiron");
          $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/castiron.txt", success: function(result){
-         $("#magnesiumalloys").html(result);
+         $("#castiron").html(result);
         }});
     }
    });
