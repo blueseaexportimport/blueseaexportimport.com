@@ -1,5 +1,5 @@
 
-</tbody>
+<tbody>
 <tr>
    <td style="background:#39ff14;color:black;" >
 	<span id="en">Welding consumables and soft solder alloys</span>
