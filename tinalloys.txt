@@ -1,0 +1,82 @@
+<tbody>
+
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Zinc alloys</span>
+	<span id="ro">Aliaje zinc</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+</tr>
+
+<tr>
+  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
+  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
+  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
+  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
+  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
+  <th><span id="en">Price</span><span id="ro">Pret</span></th>
+</tr>
+
+<tr><td>ZAAA00001</td><td>-</td><td>EN 988:2001</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ZABA00001</td><td>-</td><td>EN 1179:2006</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ZACA00001</td><td>-</td><td>EN 1774:2001</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ZADA00001</td><td>-</td><td>EN 12438:2018</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ZAEA00001</td><td>-</td><td>EN 13283:2003</td><td>-</td><td>-</td><td>-</td></tr>
+
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Tin alloys</span>
+	<span id="ro">Aliaje staniu</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+</tr>
+<tr>
+  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
+  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
+  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
+  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
+  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
+  <th><span id="en">Price</span><span id="ro">Pret</span></th>
+</tr>
+<tr><td>SAAA00001</td><td>-</td><td>EN 610:2000</td><td>-</td><td>-</td><td>-</td></tr>
+</tbody>
+
+</tbody>
