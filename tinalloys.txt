@@ -1,39 +1,45 @@
 <tbody>
-<tr style="background:#39ff14;color:black !important;" ><td><span id="en">Zinc</span><span id="ro">Zinc</span></td><td style="background:#39ff14;color:black;"></td></tr>
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Zinc</span><span id="ro">Zinc</span></td><td></td></tr>
 
-<tr style="background:#ccc;color:black !important;" ><td><span id="en">Zinc alloy grade</span><span id="ro">Calitate aliaj zinc</span></td><td>ZAAA00001</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Zinc alloy grade</span><span id="ro">Calitate aliaj zinc</span></td>
+<td style="color:black;">ZAAA00001</td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 988:2001</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 mm x 000.00 mm x 000.00 mm</td></tr>
 <tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">Sheet</span><span id="ro">Tabla</span></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;color:black;" ><td><span id="en">Zinc alloy grade</span><span id="ro">Calitate aliaj zinc</span></td><td>ZAAA00001</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Zinc alloy grade</span><span id="ro">Calitate aliaj zinc</span></td>
+<td style="color:black;">ZAAA00001</td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 1179:2006</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 mm x 000.00 mm x 000.00 mm</td></tr>
 <tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">Sheet</span><span id="ro">Tabla</span></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;color:black;" ><td><span id="en">Zinc alloy grade</span><span id="ro">Calitate aliaj zinc</span></td><td>ZAAA00001</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Zinc alloy grade</span><span id="ro">Calitate aliaj zinc</span></td>
+<td style="color:black;">ZAAA00001</td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 1774:2001</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 mm x 000.00 mm x 000.00 mm</td></tr>
 <tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">Sheet</span><span id="ro">Tabla</span></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;color:black;" ><td><span id="en">Zinc alloy grade</span><span id="ro">Calitate aliaj zinc</span></td><td>ZAAA00001</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Zinc alloy grade</span><span id="ro">Calitate aliaj zinc</span></td>
+<td style="color:black;">ZAAA00001</td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 12438:2018</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 mm x 000.00 mm x 000.00 mm</td></tr>
 <tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">Sheet</span><span id="ro">Tabla</span></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;color:black;" ><td><span id="en">Zinc alloy grade</span><span id="ro">Calitate aliaj zinc</span></td><td>ZAAA00001</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Zinc alloy grade</span><span id="ro">Calitate aliaj zinc</span></td>
+<td style="color:black;">ZAAA00001</td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 13283:2003</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 mm x 000.00 mm x 000.00 mm</td></tr>
 <tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">Sheet</span><span id="ro">Tabla</span></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#39ff14;color:black !important;" ><td><span id="en">Tin</span><span id="ro">Staniu</span></td><td></td></tr>
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Tin</span><span id="ro">Staniu</span></td><td></td></tr>
 
-<tr style="background:#ccc;color:black;" ><td><span id="en">Tin alloy grade</span><span id="ro">Calitate aliaj staniu</span></td><td>SAAA00001</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Tin alloy grade</span><span id="ro">Calitate aliaj staniu</span></td>
+<td style="color:black;">ZAAA00001</td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 610:2000</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 mm x 000.00 mm x 000.00 mm</td></tr>
 <tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">Sheet</span><span id="ro">Tabla</span></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
