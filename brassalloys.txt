@@ -1,0 +1,73 @@
+<tbody>
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Copper alloys</span>
+	<span id="ro">Aliaje cupru</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+</tr>	  
+
+<tr>
+  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
+  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
+  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
+  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
+  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
+  <th><span id="en">Price</span><span id="ro">Pret</span></th>
+</tr>
+
+<tr><td>CUAAA00001</td><td>-</td><td>STAS 685-74</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUABA00001</td><td>-</td><td>STAS 4130-77</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUACA00001</td><td>-</td><td>EN 1172:2012</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUADA00001</td><td>-</td><td>EN 1652:2000</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUAEA00001</td><td>-</td><td>EN 1653:2003</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUAFA00001</td><td>-</td><td>EN 1654:2002</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUAGA00001</td><td>-</td><td>EN 1758:1999</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUAHA00001</td><td>-</td><td>EN 1976:2013</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUAIA00001</td><td>-</td><td>EN 1981:2003</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUAJA00001</td><td>-</td><td>EN 1982:2018</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUAKA00001</td><td>-</td><td>EN 12163:2016</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUALA00001</td><td>-</td><td>EN 12164:2016</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUAMA00001</td><td>-</td><td>EN 12165:2016</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUANA00001</td><td>-</td><td>EN 12166:2016</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUAOA00001</td><td>-</td><td>EN 12167:2016</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUAPA00001</td><td>-</td><td>EN 12168:2016</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUAQA00001</td><td>-</td><td>EN 12420:2014</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUARA00001</td><td>-</td><td>EN 12449:2023</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUASA00001</td><td>-</td><td>EN 12451:2012</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUATA00001</td><td>-</td><td>EN 12452:2012</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUAUA00001</td><td>-</td><td>EN 12861:2018</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUAVA00001</td><td>-</td><td>EN 13148:2011</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUAWA00001</td><td>-</td><td>EN 13600:2021</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUAXA00001</td><td>-</td><td>EN 13601:2021</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUAYA00001</td><td>-</td><td>EN 13602:2013</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>CUAZA00001</td><td>-</td><td>EN 13605:2021</td><td>-</td><td>-</td><td>-</td></tr>
+
+</tbody>
+
+
+
+
+
+
+
+</tbody>
