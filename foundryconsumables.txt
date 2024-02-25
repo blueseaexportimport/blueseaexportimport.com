@@ -1,0 +1,15 @@
+<tbody>
+<tr>
+  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
+  <th><span id="en">Name</span><span id="ro">Calitate</span></th>
+  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
+  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
+  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
+  <th><span id="en">Price</span><span id="ro">Pret</span></th>
+</tr>
+
+<tr><td>FCAAA00001</td><td><span id="en">CaO Quicklime / calcium oxide for industrial use CL 90-Q (R5, Psv) </span><span id="ro">CaO Var industrial Tip I CL 90-Q (R5, Psv)</span</td><td>EN 459-1:2011</td><td>-</td><td><span id="en">bulk</span><span id="ro">vrac</span></td><td>740 RON / t <br> <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td></tr>
+<tr><td>FCABA00001</td><td><span id="en">Foundry bentonite</span><span id="ro">Bentonită pentru turnătorie</span</td><td>STAS 3624-74</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>FCACA00001</td><td><span id="en">Foundry clay</span><span id="ro">Bentonită pentru turnătorie</span</td><td>STAS 3624-74</td><td>-</td><td>-</td><td>-</td></tr>
+
+</tbody>
