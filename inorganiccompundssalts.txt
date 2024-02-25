@@ -1,0 +1,44 @@
+
+<tbody>
+<tr>
+  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
+  <th><span id="en">Type</span><span id="ro">Forma</span></th>
+  <th><span id="en">Name</span><span id="ro">Nume</span></th>
+  <th><span id="en">CAS</span><span id="ro">CAS</span></th>
+  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
+  <th><span id="en">Purity</span><span id="ro">Puritate</span></th>
+  <th><span id="en">Price</span><span id="ro">Pret</span></th>
+</tr>
+<tr><td>ICSAAA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Aluminium hydroxide technical grade</span><span id="ro">Hidroxid de aluminiu tehnic</span></td><td>21645-51-2</td><td>STAS 8738-86</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSABA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Crystallized copper sulfate technical grade</span><span id="ro">Sulfat de cupru tehnic cristalizat</span></td><td>7758-98-7</td><td>STAS 341-80</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSACA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Zinc sulfate technical grade</span><span id="ro">Sulfat de zinc tehnic</span></td><td>7446-20-0</td><td>STAS 2367-88</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSADA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Sodium sulfate anhydrous technical grade</span><span id="ro">Sulfat de sodiu anhidru tehnic</span></td><td>7757-82-6</td><td>STAS 2126-84</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSAEA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Iron (II) sulfate technical grade</span><span id="ro">Sulfat de fier (II) tehnic</span></td><td>7782-63-0</td><td>STAS 2189-80</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSAFA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Ammonium alum technical grade</span><span id="ro">Alaun de amoniu tehnic</span></td><td>7784-26-1</td><td>STAS 2959-79</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSAGA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Magnesium sulfate technical grade</span><span id="ro">Sulfat de magneziu tehnic</span></td><td>7487-88-9</td><td>STAS 9373-73</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSAHA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Sodium sulfide technical grade</span><span id="ro">Sulfură de sodiu tehnică</span></td><td>1313-82-2</td><td>STAS 992-75</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSAIA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Sodium metabisulfite technical grade</span><span id="ro">Pirosulfit de sodiu tehnic</span></td><td>7681-57-4</td><td>STAS 8738-86</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSAJA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Crystallized sodium thiosulphate anhydrous technical grade</span><span id="ro">Tiosulfat de sodiu cristalizat tehnic</span></td><td>7772-98-7</td><td>STAS 1817/2-75</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSAKA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Potassium metabisulfite technical grade</span><span id="ro">Metabisulfit de potasiu tehnic</span></td><td>16731-55-8</td><td>STAS 2190-67</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSALA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Aluminium chloride anhydrous technical grade</span><span id="ro">Clorură de aluminiu anhidră tehnică</span></td><td>7446-70-0</td><td>STAS 7108-83</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSAMA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Potassium chloride technical grade</span><span id="ro">Clorură de potasiu tehnică</span></td><td>7447-40-7</td><td>STAS 10544-84</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSANA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Aluminium chloride anhydrous technical grade</span><span id="ro">Clorură de aluminiu anhidră tehnică</span></td><td>7446-70-0</td><td>STAS 7108-83</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSAOA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Ammonium chloride</span><span id="ro">Clorură de amoniu tehnică</span></td><td>12125-02-9</td><td>STAS 10305-85</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSAPA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Calcium chloride technical grade</span><span id="ro">Clorură de calciu tehnică</span></td><td>7440-70-2</td><td>STAS 2073-75</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSAQA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Calcium hypochlorite technical grade</span><span id="ro">Hipoclorit de calciu tehnic</span></td><td>75-20-7</td><td>STAS 932-75</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSARA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Calcium carbide technical grade</span><span id="ro">Carbură de calciu tehnică</span></td><td>75-20-7</td><td>STAS 102-86</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSASA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Sodium bicarbonate</span><span id="ro">Bicarbonat de sodiu</span></td><td>144-55-8</td><td>STAS 1050-76</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSATA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Ammonium bicarbonate for food industry</span><span id="ro">Bicarbonat de amoniu pentru scopuri alimentare</span></td><td>1066-33-7</td><td>SR 3659:1995</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSAUA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Anhydrous barium chloride technical grade</span><span id="ro">Clorură de bariu anhidră, tehnică</span></td><td>10361-37-2</td><td>STAS 12102-83</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSAVA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Barium carbonate technical grade</span><span id="ro">Carbonat de bariu tehnic</span></td><td>513-77-9</td><td>STAS 11090-78</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSAWA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Barium sulphate technical grade</span><span id="ro">Sulfat de bariu tehnic</span></td><td>7727-43-7</td><td>STAS 7719-86</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSAXA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Potassium carbonate technical grade</span><span id="ro">Carbonat de potasiu tehnic</span></td><td>584-08-7</td><td>STAS 10985-88</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSAYA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Sodium anhidre carbonate</span><span id="ro">Carbonat de sodiu anhidru</span></td><td>497-19-8</td><td>STAS 99-91</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSAZA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Magnesium carbonate basic</span><span id="ro">Carbonat bazic de magneziu tehnic</span></td><td>39409-82-0</td><td>STAS 4996-80</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSBAA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Calcium carbonate precipitated, technical grade</span><span id="ro">Carbonat de calciu precipitat tehnic</span></td><td>471-34-1</td><td>STAS 1083-76</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSBBA00001</td><td><span id="en">Liquid</span><span id="ro">Lichid</span></td><td><span id="en">Zinc chloride technical grade, solution</span><span id="ro">Clorură de zinc tehnică, soluţie</span></td><td>7646-85-7</td><td>STAS 2262-88</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICSBCA00001</td><td><span id="en">Liquid</span><span id="ro">Lichid</span></td><td><span id="en">Iron chloride</span><span id="ro">Clorură ferică</span></td><td>10043-52-4</td><td>STAS 8650-70</td><td>min. 99.99%</td><td>-</td></tr>
+
+</tbody>
+
+       
