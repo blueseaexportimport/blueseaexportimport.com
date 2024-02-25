@@ -1,0 +1,59 @@
+<tbody>
+
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Aluminium alloys</span>
+	<span id="ro">Aliaje de aluminiu</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+</tr>	  
+
+<tr>
+  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
+  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
+  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
+  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
+  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
+  <th><span id="en">Price</span><span id="ro">Pret</span></th>
+</tr>
+
+<tr><td>ALAAA00001</td><td>-</td><td>EN 485-1:2016</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ALABA00001</td><td>-</td><td>EN 546-1:2007</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ALACA00001</td><td>-</td><td>EN 570:2007</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ALADA00001</td><td>-</td><td>EN 573-3+A1:2022</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ALAEA00001</td><td>-</td><td>EN 603-2:1999</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ALAFA00001</td><td>-</td><td>EN 754-2:2017</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ALAGA00001</td><td>-</td><td>EN 755-2:2016</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ALAHA00001</td><td>-</td><td>EN 851:2022</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ALAIA00001</td><td>-</td><td>EN 941:2022</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ALAJA00001</td><td>-</td><td>EN 1301-2:2009</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ALAKA00001</td><td>-</td><td>EN 1386:2007</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ALALA00001</td><td>-</td><td>EN 1396:2023</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ALAMA00001</td><td>-</td><td>EN 1592-2:2002</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ALANA00001</td><td>-</td><td>EN 1706+A1:2021</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ALAOA00001</td><td>-</td><td>EN 1715-3:2008</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ALAOB00001</td><td>-</td><td>EN 1715-4:2008</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ALAPA00001</td><td>-</td><td>EN 12392+A1:2022</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ALAQA00001</td><td>-</td><td>EN 14121:2009</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ALARA00001</td><td>-</td><td>EN 60889:2002</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>ALASA00001</td><td>-</td><td>EN IEC 62641:2022</td><td>-</td><td>-</td><td>-</td></tr>
+</tbody>
