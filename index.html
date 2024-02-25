@@ -178,6 +178,24 @@ $(document).ready(function () {
    });
   // Grab mineral ores supplies info on click end
 
+  // Grab welding alloys info on click start
+  $("#weldingalloysbtn").click(function() {
+    if ($("#weldingalloys").hasClass("clickedweldingalloys")) {
+        // already been clicked once, hide it
+        $("#weldingalloys").html("");
+        $( "#weldingalloys" ).removeClass( "clickedweldingalloys" )
+    }else {
+        // first time this is clicked, mark it
+        $("#weldingalloys").addClass("clickedweldingalloys");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/weldingalloys.txt", success: function(result){
+         $("#weldingalloys").html(result);
+        }});
+    }
+   });
+  // Grab welding alloys supplies info on click end
+
+
+	
   // Grab steel alloys info on click start
   $("#steelalloysbtn").click(function() {
     if ($("#steelalloys").hasClass("clickedsteelalloys")) {
@@ -514,91 +532,15 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">CNC milling & machining center</span><span id="ro">Centru strunjire, frezare și prelucrare CNC</span></h5>    	
    <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" ><span id="en">Welding and soldering alloys</span><span id="ro">Aliaje sudură și lipire</span></h5>    	
+   <h5 class="categoryaccordion" id="weldingalloysbtn" ><span id="en">Welding and soldering alloys</span><span id="ro">Aliaje sudură și lipire</span></h5>    
+   <table id="weldingalloys" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>    
+
+	   
         <table class="categorypanel" >
-        <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Pret</span></th></tr>   
-        <tr>
-	<td><span id="en">Soft solder alloys - Chemical compositions and forms EN ISO 9453:2020 </span><span id="ro"> Aliaje pentru lipire moale - Compoziție chimică și forme EN ISO 9453:2020</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-        <td><span id="en">Welding consumables - Welding consumables for hard-facing EN 14700:2023</span><span id="ro">Materiale consumabile pentru sudare - Materiale consumabile pentru încărcare prin sudare cu straturi dure EN 14700:2023</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Welding consumables - Covered electrodes, wires, rods and tubular cored electrodes for fusion welding of cast iron EN ISO 1071:2016</span><span id="ro">Materiale consumabile pentru sudare - Electrozi înveliţi, sârme electrod, vergele şi sârme tubulare pentru sudarea prin topire a fontelor. Clasificare EN ISO 1071:2016</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-        <td><span id="en">Welding consumables - Covered electrodes for manual metal arc welding of creep-resisting steels EN ISO 3580:2017</span><span id="ro">Materiale consumabile pentru sudare - Electrozi înveliţi pentru sudarea manuală cu arc electric a oţelurilor termorezistente. Clasificare  EN ISO 3580:2017</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-        <td><span id="en">Welding consumables - Covered electrodes for manual metal arc welding of stainless and heat-resisting steels EN ISO 3581:2017</span><span id="ro">Materiale consumabile pentru sudare. Electrozi înveliţi pentru sudarea manuală cu arc a oţelurilor inoxidabile şi a oţelurilor refractare. Clasificare EN ISO 3581:2017</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-        <td><span id="en">Welding consumables - Covered electrodes for manual metal arc welding of non-alloy and fine grain steels EN ISO 2560:2020</span><span id="ro">Materiale consumabile pentru sudare - Electrozi înveliţi pentru sudarea manuală cu arc electric a oţelurilor nealiate şi cu granulaţie fină. Clasificare EN ISO 2560:2020</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Welding consumables - Covered electrodes for manual metal arc welding of nickel and nickel alloys. Classification EN ISO 14172:2016</span><span id="ro">Materiale pentru sudare - Electrozi înveliţi pentru sudarea manuală cu arc electric a nichelului şi aliajelor de nichel. Clasificare EN ISO 14172:2016</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-        <td><span id="en">Welding consumables - Covered electrodes for manual metal arc welding of high-strength steels EN ISO 18275:2019</span><span id="ro">Materiale consumabile pentru sudare - Electrozi înveliţi pentru sudarea manuală cu arc electric a oţelurilor de înaltă rezistenţă EN ISO 18275:2019</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-        <td><span id="en">Welding consumables - Covered electrodes for manual metal arc welding of copper and copper alloys EN ISO 17777:2016</span><span id="ro">Materiale consumabile pentru sudare - Electrozi înveliţi pentru sudarea manuală cu arc electric a cuprului şi aliajelor de cupru EN ISO 17777:2016</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Welding consumables - Rods for gas welding of non-alloy and creep-resisting steels EN ISO 20378:2019</span><span id="ro">Materiale consumabile pentru sudare - Vergele pentru sudarea cu gaze a oţelurilor nealiate şi a oţelurilor termorezistente EN ISO 20378:2019</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Welding consumables - Rods, wires and deposits for tungsten inert gas welding of non-alloy and fine-grain steels EN 1561:2012</span><span id="ro">Materiale consumabile pentru sudare - Vergele, sârme şi depuneri prin sudare pentru sudarea WIG a oţelurilor nealiate şi a oţelurilor cu granulaţie fină. Clasificare EN ISO 636:2017</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-        <td><span id="en">Welding consumables - Tubular cored electrodes for gas shielded metal arc welding of creep-resisting steels EN ISO 17634:2016</span><span id="ro">Materiale consumabile pentru sudare - Sârme tubulare pentru sudarea cu arc electric în mediu de gaz protector a oţelurilor termorezistente EN ISO 17634:2016</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-        <td><span id="en">Welding consumables - Tubular cored electrodes and rods for gas shielded and non-gas shielded metal arc welding of stainless and heat-resisting steels EN ISO 17633:2018</span><span id="ro">Materiale consumabile pentru sudare - Sârme și vergele tubulare pentru sudarea cu arc electric cu sau fără gaz protector a oțelurilor inoxidabile și a oțelurilor rezistente la temperaturi ridicate EN ISO 17633:2018</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-        <td><span id="en">Welding consumables - Tubular cored electrodes for gas shielded and non-gas shielded metal arc welding of non-alloy and fine grain steels EN ISO 17632:2016</span><span id="ro">Materiale consumabile pentru sudare - Sârme tubulare pentru sudarea cu arc electric cu sau fără gaz protector a oţelurilor nealiate şi cu granulaţie fină EN ISO 17632:2016</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-        <td><span id="en">Welding consumables - Tubular-cored electrodes for gas-shielded and non-gas-shielded metal arc welding of nickel and nickel alloys EN ISO 12153:2023</span><span id="ro">Materiale consumabile pentru sudare. Sârmă tubulară pentru sudarea cu arc electric, cu și fără gaz de protecție, a nichelului şi aliajelor de nichel. Clasificare EN ISO 12153:2023</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-        <td><span id="en">Welding consumables - Tubular cored electrodes for gas-shielded and non-gas-shielded metal arc welding of high strength steels EN ISO 18276:2017</span><span id="ro">Materiale consumabile pentru sudare - Sârmă tubulară pentru sudarea cu arc electric în mediu de gaz protector şi fără protecţie a oţelurilor de înaltă rezistenţă EN ISO 18276:2017</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-        <td><span id="en">Welding consumables - Solid wire electrodes, tubular cored electrodes and electrode/flux combinations for submerged arc welding of non alloy and fine grain steels EN ISO 14171:2016</span><span id="ro">Materiale consumabile pentru sudare - Sârme pline, sârme tubulare şi cupluri sârmă-flux pentru sudarea cu arc electric sub strat de flux a oţelurilor nealiate şi a oţelurilor cu granulaţie fină. Clasificare EN ISO 14171:2016</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Welding consumables - Solid wire electrodes, tubular cored electrodes and electrode-flux combinations for submerged arc welding of creep-resisting steels EN ISO 24598:2019</span><span id="ro">Materiale consumabile pentru sudare - Sârme pline, sârme tubulare și cupluri sârmă-flux pentru sudarea cu arc electric sub strat de flux a oțelurilor rezistente la fluaj. Clasificare EN ISO 24598:2019</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Welding consumables - Solid wires and rods for fusion welding of copper and copper alloys - Classification EN ISO 24373:2019</span><span id="ro">Materiale consumabile pentru sudare - Sârme şi vergele pline pentru sudarea prin topire a cuprului şi aliajelor de cupru. Clasificare EN ISO 24373:2019</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Welding consumables - Solid wire electrodes, solid wires and rods for fusion welding of titanium and titanium alloys EN ISO 24034:2020</span><span id="ro">Materiale consumabile pentru sudare - Electrozi fuzibili, sârme şi vergele pline pentru sudarea prin topire a titanului şi aliajelor de titan. Clasificare  EN ISO 24034:2020</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-        <td><span id="en">Welding consumables - Solid wire electrodes, solid strip electrodes, solid wires and solid rods for fusion welding of nickel and nickel alloys EN ISO 18274:2023</span><span id="ro">Materiale consumabile pentru sudare - Sârme-electrod pline, benzi-electrod pline, sârme şi vergele pline pentru sudarea prin topire a nichelului şi aliajelor de nichel EN ISO 18274:2023</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-        <td><span id="en">Welding consumables - Solid wire electrodes, solid wires and rods for fusion welding of magnesium and magnesium alloys EN ISO 19288:2016</span><span id="ro">Materiale consumabile pentru sudare - Sârme electrod pline, sârme şi vergele pline pentru sudarea prin topire a magneziului şi aliajelor de magneziu EN ISO 19288:2016</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Welding consumables - Wire electrodes, strip electrodes, wires and rods for arc welding of stainless and heat resisting steels. EN ISO 14343:2017</span><span id="ro">Materiale consumabile pentru sudare - Sârme electrod, electrozi bandă, sârme și vergele pentru sudarea cu arc electric a oțelurilor inoxidabile și a oțelurilor rezistente la temperaturi ridicate. Clasificare EN ISO 14343:2017</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Welding consumables - Wire electrodes and weld deposits for gas shielded metal arc welding of non alloy and fine grain steels EN ISO 14341:2020</span><span id="ro">Materiale consumabile pentru sudare - Sârme electrod și depuneri prin sudare pentru sudare cu arc electric în mediu de gaz protector cu electrod fuzibil a oțelurilor nealiate și cu granulație fină. Clasificare EN ISO 14341:2020</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Welding consumables - Wire electrodes, wires and rods for welding of aluminium and aluminium alloys EN ISO 18273:2016</span><span id="ro">Materiale consumabile pentru sudare - Sârme electrod, sârme şi vergele pentru sudarea aluminiului şi aliajelor de aluminiu. Clasificare EN ISO 18273:2016</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Welding consumables - Wire electrodes, wires, rods and deposits for gas shielded arc welding of creep-resisting steels EN ISO 21952:2012</span><span id="ro">Materiale consumabile pentru sudare - Sârme electrod, sârme, vergele şi metal depus pentru sudarea cu arc electric în mediu de gaz protector a oţelurilor rezistente la fluaj EN ISO 21952:2012</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-        <td><span id="en">Welding consumables - Wire electrodes, wires, rods and deposits for gas shielded arc welding of high strength steels EN ISO 16834:2012</span><span id="ro">Materiale consumabile pentru sudare - Sârme electrod, sârme vergele şi depuneri prin sudare pentru sudarea cu arc electric în mediu de gaz protector a oţelurilor cu limită de curgere ridicată EN ISO 16834:2012</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
+
 	</table>
    <h5 class="categoryaccordion" ><span id="en">Tin, lead and zinc alloys</span><span id="ro">Aliaje staniu, plumb și zinc</span></h5>    	
         <table class="categorypanel" >
