@@ -111,6 +111,38 @@ $(document).ready(function() {
 <script>
 $(document).ready(function () { 
 
+  // Grab solar panels info on click start
+  $("#solarpanelsbtn").click(function() {
+    if ($("#solarpanels").hasClass("clickedsolarpanels")) {
+        // already been clicked once, hide it
+        $("#solarpanels").html("");
+        $( "#solarpanels" ).removeClass( "clickedsolarpanels" )
+    }else {
+        // first time this is clicked, mark it
+        $("#solarpanels").addClass("clickedsolarpanels");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/solarpanels.txt", success: function(result){
+         $("#solarpanels").html(result);
+        }});
+    }
+   });
+  // Grab high voltage systems info on click end
+
+  // Grab high voltage systems info on click start
+  $("#highvoltagesystemsbtn").click(function() {
+    if ($("#highvoltagesystems").hasClass("clickedhighvoltagesystems")) {
+        // already been clicked once, hide it
+        $("#highvoltagesystems").html("");
+        $( "#highvoltagesystems" ).removeClass( "clickedhighvoltagesystems" )
+    }else {
+        // first time this is clicked, mark it
+        $("#highvoltagesystems").addClass("clickedhighvoltagesystems");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/highvoltagesystems.txt", success: function(result){
+         $("#highvoltagesystems").html(result);
+        }});
+    }
+   });
+  // Grab high voltage systems info on click end
+
   // Grab solid fuels info on click start
   $("#solidfuelsbtn").click(function() {
     if ($("#solidfuels").hasClass("clickedsolidfuels")) {
@@ -502,21 +534,7 @@ $(document).ready(function () {
    });
   // Grab office and school supplies info on click end
 
-  // Grab high voltage systems info on click start
-  $("#highvoltagesystemsbtn").click(function() {
-    if ($("#highvoltagesystems").hasClass("clickedhighvoltagesystems")) {
-        // already been clicked once, hide it
-        $("#highvoltagesystems").html("");
-        $( "#highvoltagesystems" ).removeClass( "clickedhighvoltagesystems" )
-    }else {
-        // first time this is clicked, mark it
-        $("#highvoltagesystems").addClass("clickedhighvoltagesystems");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/highvoltagesystems.txt", success: function(result){
-         $("#highvoltagesystems").html(result);
-        }});
-    }
-   });
-  // Grab high voltage systems info on click end
+
 
 
 });
@@ -551,8 +569,11 @@ $(document).ready(function () {
    <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>A. ELECTRICITY</b></span> <span id="ro"><b>A. ENERGIE ELECTRICĂ</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" ><span id="en">Fusion reactors</span><span id="ro">Reactoare fuziune</span></h5>    	
    <div class="rowbin" >-</div> 
-   <h5 class="categoryaccordion" ><span id="en">Solar cells</span><span id="ro">Celule solare</span></h5>    	
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="solarpanelsbtn" ><span id="en">Solar panels</span><span id="ro">Panouri solare</span></h5>    	
+   <table id="solarpanels" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 	
    <h5 class="categoryaccordion" ><span id="en">Horizontal axis wind turbines (HAWT)</span><span id="ro">Turbine eoliene cu ax orizontal (HAWT)</span></h5>    	
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Synchronous electric generators</span><span id="ro">Generatoare electrice sincrone</span></h5>    	
