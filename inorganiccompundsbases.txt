@@ -1,0 +1,17 @@
+<tbody>
+<tr>
+  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
+  <th><span id="en">Type</span><span id="ro">Forma</span></th>
+  <th><span id="en">Name</span><span id="ro">Nume</span></th>
+  <th><span id="en">CAS</span><span id="ro">CAS</span></th>
+  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
+  <th><span id="en">Purity</span><span id="ro">Puritate</span></th>
+  <th><span id="en">Price</span><span id="ro">Pret</span></th>
+</tr>
+<tr><td>ICBAAA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Caustic soda flakes</span><span id="ro">Fulgi sodă caustică</span></td><td>1310-73-2</td><td>STAS 98-76</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>ICBABA00001</td><td><span id="en">Liquid</span><span id="ro">Lichid</span></td><td><span id="en">Sodium hydroxide solution</span><span id="ro">Hidroxid de sodiu soluție</span></td><td>1310-73-2</td><td>STAS 3068-80</td><td>48%</td><td>-</td></tr>
+<tr><td>ICBACA00001</td><td><span id="en">Liquid</span><span id="ro">Lichid</span></td><td><span id="en">Sodium hypochlorite solution technical grade</span><span id="ro">Hipoclorit de sodiu tehnic soluție</span></td><td>7681-52-9</td><td>STAS 918-83</td><td>12.5%</td><td>-</td></tr>
+<tr><td>ICBADA00001</td><td><span id="en">Liquid</span><span id="ro">Lichid</span></td><td><span id="en">Ammonia</span><span id="ro">Amoniac</span></td><td>7664-41-7</td><td>STAS 448/1-84</td><td>99,8%</td><td>-</td></tr>
+<tr><td>ICBAEA00001</td><td><span id="en">Liquid</span><span id="ro">Lichid</span></td><td><span id="en">Ammonia solution</span><span id="ro">Amoniac soluție</span></td><td>7664-41-7</td><td>STAS 448/2-84/td><td>25%</td><td>-</td></tr>
+</tbody>
+
