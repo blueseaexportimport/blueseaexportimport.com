@@ -95,15 +95,8 @@
   <th><span id="en">Price</span><span id="ro">Pret</span></th>
 </tr>
 
+<tr><td>AAA00001</td><td>-</td><td>EN 10025-2:2019</td><td>-</td><td>-</td><td>-</td></tr>
 
-<tr>
-  <td>AAA00001</td>
-  <td>-</td>
-  <td>EN 10025-2:2019</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
 
 <tr>
   <td>AAB00001</td>
