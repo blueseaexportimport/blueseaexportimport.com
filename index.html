@@ -192,10 +192,10 @@ $(document).ready(function () {
         }});
     }
    });
-  // Grab tin alloys supplies info on click end
+  // Grab welding alloys supplies info on click end
 
   // Grab tin alloys info on click start
-  $("#tinalloyssbtn").click(function() {
+  $("#tinalloysbtn").click(function() {
     if ($("#tinalloys").hasClass("clickedtinalloys")) {
         // already been clicked once, hide it
         $("#tinalloys").html("");
@@ -209,6 +209,87 @@ $(document).ready(function () {
     }
    });
   // Grab tin alloys supplies info on click end
+
+
+  // Grab aluminium alloys info on click start
+  $("#aluminiumalloysbtn").click(function() {
+    if ($("#aluminiumalloys").hasClass("clickedaluminiumalloys")) {
+        // already been clicked once, hide it
+        $("#aluminiumalloys").html("");
+        $( "#aluminiumalloys" ).removeClass( "clickedaluminiumalloys" )
+    }else {
+        // first time this is clicked, mark it
+        $("#aluminiumalloys").addClass("clickedaluminiumalloys");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/aluminiumalloys.txt", success: function(result){
+         $("#aluminiumalloys").html(result);
+        }});
+    }
+   });
+  // Grab aluminium alloys supplies info on click end
+
+  // Grab brass alloys info on click start
+  $("#brassalloysbtn").click(function() {
+    if ($("#brassalloys").hasClass("clickedbrassalloys")) {
+        // already been clicked once, hide it
+        $("#brassalloys").html("");
+        $( "#brassalloys" ).removeClass( "clickedbrassalloys" )
+    }else {
+        // first time this is clicked, mark it
+        $("#brassalloys").addClass("clickedbrassalloys");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/brassalloys.txt", success: function(result){
+         $("#brassalloys").html(result);
+        }});
+    }
+   });
+  // Grab brass alloys supplies info on click end
+
+  // Grab magnesium alloys info on click start
+  $("#magnesiumalloysbtn").click(function() {
+    if ($("#magnesiumalloys").hasClass("clickedmagnesiumalloys")) {
+        // already been clicked once, hide it
+        $("#magnesiumalloys").html("");
+        $( "#magnesiumalloys" ).removeClass( "clickedmagnesiumalloys" )
+    }else {
+        // first time this is clicked, mark it
+        $("#magnesiumalloys").addClass("clickedmagnesiumalloys");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/magnesiumalloys.txt", success: function(result){
+         $("#magnesiumalloys").html(result);
+        }});
+    }
+   });
+  // Grab magnesium alloys supplies info on click end
+
+ // Grab castiron info on click start
+  $("#castironbtn").click(function() {
+    if ($("#castiron").hasClass("clickedcastiron")) {
+        // already been clicked once, hide it
+        $("#castiron").html("");
+        $( "#castiron" ).removeClass( "clickedcastiron" )
+    }else {
+        // first time this is clicked, mark it
+        $("#castiron").addClass("clickedcastiron");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/castiron.txt", success: function(result){
+         $("#magnesiumalloys").html(result);
+        }});
+    }
+   });
+  // Grab castiron supplies info on click end
+
+ // Grab ferro alloys info on click start
+  $("#ferroalloysbtn").click(function() {
+    if ($("#ferroalloys").hasClass("clickedferroalloys")) {
+        // already been clicked once, hide it
+        $("#ferroalloys).html("");
+        $( "#ferroalloys" ).removeClass( "clickedferroalloys" )
+    }else {
+        // first time this is clicked, mark it
+        $("#ferroalloys").addClass("clickedferroalloys");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/ferroalloys.txt", success: function(result){
+         $("#ferroalloys").html(result);
+        }});
+    }
+   });
+  // Grab ferro alloys supplies info on click end
 
 
   // Grab steel alloys info on click start
@@ -227,7 +308,134 @@ $(document).ready(function () {
    });
   // Grab steel alloys supplies info on click end
 
+  // Grab steel alloys info on click start
+  $("#foundryconsumablesbtn").click(function() {
+    if ($("#foundryconsumables").hasClass("clickedfoundryconsumables")) {
+        // already been clicked once, hide it
+        $("#foundryconsumables").html("");
+        $( "#foundryconsumables" ).removeClass( "clickedfoundryconsumables" )
+    }else {
+        // first time this is clicked, mark it
+        $("#foundryconsumables").addClass("clickedfoundryconsumables");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/foundryconsumables.txt", success: function(result){
+         $("#foundryconsumables").html(result);
+        }});
+    }
+   });
+  // Grab steel alloys supplies info on click end
+
+  // Grab chemical plant info on click start
+  $("#chemicalplantbtn").click(function() {
+    if ($("#chemicalplant").hasClass("clickedchemicalplant")) {
+        // already been clicked once, hide it
+        $("#chemicalplant").html("");
+        $( "#chemicalplant" ).removeClass( "clickedchemicalplant" )
+    }else {
+        // first time this is clicked, mark it
+        $("#chemicalplant").addClass("clickedchemicalplant");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/chemicalplant.txt", success: function(result){
+         $("#chemicalplant").html(result);
+        }});
+    }
+   });
+  // Grab chemical plant supplies info on click end
+
+  // Grab inorganiccompunds elements info on click start
+  $("#inorganiccompundselementsbtn").click(function() {
+    if ($("#inorganiccompundselements").hasClass("clickedinorganiccompundselements")) {
+        // already been clicked once, hide it
+        $("#inorganiccompundselements").html("");
+        $( "#inorganiccompundselements" ).removeClass( "clickedinorganiccompundselements" )
+    }else {
+        // first time this is clicked, mark it
+        $("#inorganiccompundselements").addClass("clickedinorganiccompundselements");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/inorganiccompundselements.txt", success: function(result){
+         $("#inorganiccompundselements").html(result);
+        }});
+    }
+   });
+  // Grab inorganiccompunds elements supplies info on click end
+
+  // Grab inorganiccompunds water info on click start
+  $("#inorganiccompundswaterbtn").click(function() {
+    if ($("#inorganiccompundswater").hasClass("clickedinorganiccompundswater")) {
+        // already been clicked once, hide it
+        $("#inorganiccompundswater").html("");
+        $( "#inorganiccompundswater" ).removeClass( "clickedinorganiccompundswater" )
+    }else {
+        // first time this is clicked, mark it
+        $("#inorganiccompundswater").addClass("clickedinorganiccompundswater");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/inorganiccompundswater.txt", success: function(result){
+         $("#inorganiccompundswater").html(result);
+        }});
+    }
+   });
+  // Grab inorganiccompunds water supplies info on click end
+
+  // Grab inorganiccompunds bases info on click start
+  $("#inorganiccompundsbasesbtn").click(function() {
+    if ($("#inorganiccompundsbases").hasClass("clickedinorganiccompundsbases")) {
+        // already been clicked once, hide it
+        $("#inorganiccompundsbases").html("");
+        $( "#inorganiccompundsbases" ).removeClass( "clickedinorganiccompundsbases" )
+    }else {
+        // first time this is clicked, mark it
+        $("#inorganiccompundsbases").addClass("clickedinorganiccompundsbases");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/inorganiccompundsbases.txt", success: function(result){
+         $("#inorganiccompundsbases").html(result);
+        }});
+    }
+   });
+  // Grab inorganiccompunds bases supplies info on click end
+
+  // Grab inorganiccompunds salts info on click start
+  $("#inorganiccompundssaltsbtn").click(function() {
+    if ($("#inorganiccompundssalts").hasClass("clickedinorganiccompundssalts")) {
+        // already been clicked once, hide it
+        $("#inorganiccompundssalts").html("");
+        $( "#inorganiccompundssalts" ).removeClass( "clickedinorganiccompundssalts" )
+    }else {
+        // first time this is clicked, mark it
+        $("#inorganiccompundssalts").addClass("clickedinorganiccompundssalts");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/inorganiccompundssalts.txt", success: function(result){
+         $("#inorganiccompundssalts").html(result);
+        }});
+    }
+   });
+  // Grab inorganiccompunds salts supplies info on click end
+
+  // Grab inorganiccompunds oxides info on click start
+  $("#inorganiccompundsoxidesbtn").click(function() {
+    if ($("#inorganiccompundsoxides").hasClass("clickedinorganiccompundsoxides")) {
+        // already been clicked once, hide it
+        $("#inorganiccompundsoxides").html("");
+        $( "#inorganiccompundsoxides" ).removeClass( "clickedinorganiccompundsoxides" )
+    }else {
+        // first time this is clicked, mark it
+        $("#inorganiccompundsoxides").addClass("clickedinorganiccompundsoxides");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/inorganiccompundsoxides.txt", success: function(result){
+         $("#inorganiccompundsoxides").html(result);
+        }});
+    }
+   });
+  // Grab inorganiccompunds oxides info on click end
 	
+  // Grab simple organic ccompunds info on click start
+  $("#simpleorganiccompundsbtn").click(function() {
+    if ($("#simpleorganiccompunds").hasClass("clickedsimpleorganiccompunds")) {
+        // already been clicked once, hide it
+        $("#simpleorganiccompunds").html("");
+        $( "#simpleorganiccompunds" ).removeClass( "clickedsimpleorganiccompunds" )
+    }else {
+        // first time this is clicked, mark it
+        $("#simpleorganiccompunds").addClass("clickedsimpleorganiccompunds");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/simpleorganiccompunds.txt", success: function(result){
+         $("#simpleorganiccompunds").html(result);
+        }});
+    }
+   });
+  // Grab simple organic ccompunds supplies info on click end
+
 
   // Grab electric engines info on click start
   $("#electricenginesbtn").click(function() {
@@ -552,383 +760,100 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table>    
-
    <h5 class="categoryaccordion" id="tinalloysbtn" ><span id="en">Tin, lead and zinc alloys</span><span id="ro">Aliaje staniu, plumb și zinc</span></h5>    	
    <table id="tinalloys" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table>    
-
-   <h5 class="categoryaccordion" ><span id="en">Aluminium alloys</span><span id="ro">Aliaje aluminiu</span></h5>    	
-        <table class="categorypanel" >
-        <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Pret</span></th></tr>   
-        <tr>
-	<td><span id="en">Aluminium and aluminium alloys - Sheet, strip and plate EN 485-1:2016</span><span id="ro">Aluminiu şi aliaje de aluminiu - Table, benzi şi table groase EN 485-1:2016</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Aluminium and aluminium alloys - Foil EN 546-1:2007</span><span id="ro">Aluminiu şi aliaje de aluminiu - Folii EN 546-1:2007</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Aluminium and aluminium alloys - Impact extrusion slugs obtained from wrought products EN 570:2007</span><span id="ro">Aluminiu şi aliaje de aluminiu - Rondele pentru extruziune prin impact, realizate din produse obţinute prin deformare plastică EN 570:2007</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Aluminium and aluminium alloys - Chemical composition and form of wrought products EN 573-3+A1:2022</span><span id="ro">Aluminiu și aliaje de aluminiu - Compoziția chimică și forma produselor obținute prin deformare plastică EN 573-3+A1:2022</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Aluminium and aluminium alloys - Wrought forging stock EN 603-2:1999</span><span id="ro">Aluminiu şi aliaje de aluminiu - Semifabricate obţinute prin deformare plastică destinate forjării EN 603-2:1999</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Aluminium and aluminium alloys - Finstock EN 683-2:2007</span><span id="ro">Aluminiu şi aliaje de aluminiu - Benzi pentru schimbătoare de căldură EN 683-2:2007</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Aluminium and aluminium alloys - Cold drawn rod/bar and tube EN 754-2:2017</span><span id="ro">Aluminiu şi aliaje de aluminiu - Bare şi ţevi trase la rece EN 754-2:2017</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
- 	<td><span id="en">Aluminium and aluminium alloys - Extruded rod/bar, tube and profiles EN 755-2:2016</span><span id="ro">Aluminiu şi aliaje de aluminiu - Bare, ţevi şi profile extrudate EN 755-2:2016</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Aluminium and aluminium alloys - Circle and circle stock for the production of culinary utensils EN 851:2022</span><span id="ro">Aluminiu şi aliaje de aluminiu - Semifabricate pentru discuri şi discuri pentru aplicaţii culinare EN 851:2022</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
- 	<td><span id="en">Aluminium and aluminium alloys - Circle and circle stock for general applications EN 941:2022</span><span id="ro">Aluminiu şi aliaje de aluminiu - Semifabricate pentru discuri şi discuri pentru aplicaţii generale EN 941:2022</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
- 	<td><span id="en">Aluminium and aluminium alloys - Drawn wire EN 1301-2:2009</span><span id="ro">Aluminiu şi aliaje de aluminiu - Sârmă trasă EN 1301-2:2009</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
- 	<td><span id="en">Aluminium and aluminium alloys - Tread plate EN 1386:2007</span><span id="ro">Aluminiu şi aliaje de aluminiu - Table striate EN 1386:2007</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
- 	<td><span id="en">Aluminium and aluminium alloys - Coil coated sheet and strip for general applications EN 1396:2023</span><span id="ro">Aluminiu şi aliaje de aluminiu - Table și benzi acoperite în rulou pentru aplicații generale EN 1396:2023</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
- 	<td><span id="en">Aluminium and aluminium alloys - HF seam welded tubes EN 1592-2:2002</span><span id="ro">Aluminiu şi aliaje de aluminiu - Ţevi sudate prin curenţi de înaltă frecvenţă (CIF) EN 1592-2:2002</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
- 	<td><span id="en">Aluminium and aluminium alloys - Castings EN 1706+A1:2021</span><span id="ro">Aluminiu şi aliaje de aluminiu - Piese turnate EN 1706+A1:2021</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
- 	<td><span id="en">Aluminium and aluminium alloys - Drawing stock. Specific requirements for mechanical uses (excluding welding) EN 1715-3:2008</span><span id="ro">Aluminiu şi aliaje de aluminiu - Sârmă-semifabricat.Condiţii speciale pentru aplicaţii mecanice (fără sudură) EN 1715-3:2008</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
- 	<td><span id="en">Aluminium and aluminium alloys - Drawing stock. Specific requirements for welding applications EN 1715-4:2008</span><span id="ro">Aluminiu şi aliaje de aluminiu - Sârmă-semifabricat. Partea 4: Condiţii speciale pentru aplicaţii în sudare EN 1715-4:2008</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
- 	<td><span id="en">Aluminium and aluminium alloys - Wrought products. Special requirements for products intended for the production of pressure equipment EN 12392+A1:2022</span><span id="ro">Aluminiu şi aliaje de aluminiu - Produse obţinute prin deformare plastică şi produse turnate. Cerinţe speciale pentru produsele destinate fabricației de echipamente sub presiune EN 12392+A1:2022</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
- 	<td><span id="en">Aluminium and aluminium alloys - Sheet, strip and plate for electrotechnical applications EN 14121:2009</span><span id="ro">Aluminiu şi aliaje de aluminiu - Table, benzi şi table groase de aluminiu pentru aplicaţii electrotehnice EN 14121:2009</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
- 	<td><span id="en">Aluminium and aluminium alloys - Hard-drawn aluminium wire for overhead line conductors EN 60889:2002</span><span id="ro">Aluminiu şi aliaje de aluminiu - Sârmă de aluminiu trasă la rece în stare de ecruisare tare pentru conductoarele liniilor aeriene EN 60889:2002</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
- 	<td><span id="en">Aluminium and aluminium alloys - Hard-drawn aluminium wire for overhead line conductors EN 60889:2002</span><span id="ro">Aluminiu şi aliaje de aluminiu - Sârmă de aluminiu trasă la rece în stare de ecruisare tare pentru conductoarele liniilor aeriene EN 60889:2002</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<tr><td><span id="en">Aluminium and aluminium alloys - wires for concentric lay stranded conductors EN IEC 62641:2022</span><span id="ro">Aluminiu şi aliaje de aluminiu - Sârme din aluminiu și din aliaj de aluminiu pentru conductoare înfuniate în straturi concentrice pentru linii electrice aeriene EN IEC 62641:2022</span></td>
-        <td><span id="en">Supplier:-</span><span id="ro">Furnizor: -</span></td>
-        <td>-</td></tr>
-	</table>
-   <h5 class="categoryaccordion" ><span id="en">Brass, copper and bronze alloys</span><span id="ro">Aliaje alame, cupru și bronz</span></h5>    	
-        <table class="categorypanel" >
-        <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Pret</span></th></tr>   
-        <tr>
-	<td><span id="en">Copper and copper alloys - Sheet and strip for building purposes EN 1172:2012</span><span id="ro">Cupru şi aliaje de cupru - Table şi benzi pentru construcţii EN 1172:2012</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Plate, sheet, strip and circles for general purposes EN 1652:2000</span><span id="ro">Cupru şi aliaje de cupru - Plăci, table, benzi şi discuri pentru aplicaţii generale EN 1652:2000</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Plate, sheet and circles for boilers, pressure vessels and hot water storage units EN 1653:2003</span><span id="ro">Cupru şi aliaje de cupru - Plăci, table şi discuri pentru boilere, vase sub presiune şi rezervoare pentru depozitarea apei calde EN 1653:2003</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Strip for springs and connectors EN 1654:2002</span><span id="ro">Cupru şi aliaje de cupru - Benzi pentru arcuri şi conectoare EN 1654:2002</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Strip for lead frames EN 1758:1999</span><span id="ro">Cupru şi aliaje de cupru - Benzi pentru cablaje ştanţate EN 1758:1999</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Cast unwrought copper products EN 1758:1999</span><span id="ro">Cupru şi aliaje de cupru - Produse brut turnate de cupru EN 1976:2013</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Master alloys EN 1981:2003</span><span id="ro">Cupru şi aliaje de cupru - Prealiaje EN 1981:20033</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Ingots and castings EN 1982:2018</span><span id="ro">Cupru şi aliaje de cupru - Lingouri şi piese turnate EN 1982:2018</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Rod for general purposes EN 12163:2016</span><span id="ro">Cupru şi aliaje de cupru - Bare pentru aplicații generale EN 12163:2016</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Rod for free machining purposes EN 12164:2016</span><span id="ro">Cupru şi aliaje de cupru - Bare pentru prelucrare mecanică EN 12164:2016</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Wrought and unwrought forging stock EN 12165:2016</span><span id="ro">Cupru şi aliaje de cupru - Semifabricate obţinute prin deformare plastică şi brut turnate pentru forjare EN 12165:2016</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Wire for general purposes EN 12166:2016</span><span id="ro">Cupru şi aliaje de cupru - Sârme pentru aplicaţii generale EN 12166:2016</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Profiles and rectangular bar for general purposes EN 12167:2016</span><span id="ro">Cupru şi aliaje de cupru - Profile şi bare pentru aplicaţii generale EN 12167:2016</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Hollow rod for free machining purposes EN 12168:2016</span><span id="ro">Cupru şi aliaje de cupru - Semifabricat cav pentru prelucrare mecanică simplă EN 12168:2016</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Forgings EN 12420:2014</span><span id="ro">Cupru şi aliaje de cupru - Piese forjate EN 12420:2014</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Seamless, round tubes for general purposes EN 12449:2023</span><span id="ro">Cupru şi aliaje de cupru - Țevi rotunde fără sudură pentru aplicații generale EN 12449:2023</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Seamless, round tubes for heat exchangers EN 12451:2012</span><span id="ro">Cupru şi aliaje de cupru - Ţevi rotunde, fără sudură, pentru schimbătoare de căldură EN 12451:2012</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Rolled, finned, seamless tubes for heat exchangers EN 12420:2014</span><span id="ro">Cupru şi aliaje de cupru - Ţevi laminate, fără sudură, cu aripioare pentru schimbătoare de căldură EN 12420:2014</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Scrap EN 12420:2014</span><span id="ro">Cupru şi aliaje de cupru - Materiale recirculabile EN 12861:2018</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Hot-dip tinned strip EN 12420:2014</span><span id="ro">Cupru şi aliaje de cupru - Benzi stanate termic EN 12420:2014</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Seamless copper tubes for electrical purposes EN 13600:2021</span><span id="ro">Cupru şi aliaje de cupru - Ţevi de cupru fără sudură pentru aplicaţii electrice EN 13600:2021</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Copper rod, bar and wire for general electrical purposes EN 13601:2021</span><span id="ro">Cupru şi aliaje de cupru - Bare şi sârme de cupru pentru aplicaţii electrice generale EN 13601:2021</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Drawn, round copper wire for the manufacture of electrical conductors EN 13602:2013</span><span id="ro">Cupru şi aliaje de cupru - Sârmă rotundă trasă de cupru pentru fabricarea conductoarelor electrice EN 13602:2013</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Copper profiles and profiled wire for electrical purposes EN 13605:2021</span><span id="ro">Cupru şi aliaje de cupru - Profile şi sârme profilate de cupru pentru aplicaţii electrice EN 13605:2021</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Copper conductor for round winding wires STAS 685-74</span><span id="ro">Cupru şi aliaje de cupru - Sârmă rotundă de cupru pentru conductoare de bobinaj STAS 685-74</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Copper and copper alloys - Copper round wire for electrotechnical purposes STAS 4130-77</span><span id="ro">Cupru şi aliaje de cupru - Sârmă rotundă de cupru pentru electrotehnică STAS 4130-77</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	</table>  
-   <h5 class="categoryaccordion" ><span id="en">Magnesium alloys</span><span id="ro">Aliaje magneziu</span></h5>    	
-        <table class="categorypanel" >
-        <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Pret</span></th></tr>   
-        <tr>
-	<td><span id="en">Magnesium and magnesium alloys - Magnesium alloy ingots and castings EN 1753:2020</span><span id="ro">Magneziu și aliaje de magneziu - Lingouri și piese turnate din aliaje de magneziu EN 1753:2020</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Magnesium and magnesium alloys - Unalloyed magnesium EN 12421:2017 </span><span id="ro">Magneziu şi aliaje de magneziu - Magneziu nealiat EN 12421:2017</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Magnesium and magnesium alloys - Magnesium alloys for cast anodes EN 12438:2018 </span><span id="ro">Magneziu şi aliaje de magneziu - Aliaje de magneziu pentru anozi turnaţi EN 12438:2018</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	</table> 
-   <h5 class="categoryaccordion" ><span id="en">Cast iron</span><span id="ro">Fonte</span></h5>    	
-        <table class="categorypanel" >
-        <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Pret</span></th></tr>   
-        <tr>
-	<td><span id="en">Grey cast iron EN 1561:2012</span><span id="ro">Fontă cu grafit lamelar EN 1561:2012</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Malleable cast iron EN 1562:2019 </span><span id="ro">Fontă maleabilă EN 1562:2019</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Spheroidal graphite cast iron EN 1563:2019 </span><span id="ro">Fontă cu grafit nodular EN 1563:2019</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Austempered ductile cast iron EN 1564:2012 </span><span id="ro">Fontă ausferitică cu grafit nodular EN 1564:2012</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Abrasion resistant cast iron EN 1564:2012 </span><span id="ro">Fontă rezistentă la uzură abrazivă EN 1564:2012</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Austenitic cast iron EN 13835:2012</span><span id="ro">Fontă austenitică SR EN 13835:2012</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	</table>   
-   <h5 class="categoryaccordion" ><span id="en">Ferroalloys</span><span id="ro">Feroaliaje</span></h5>    
-        <table class="categorypanel" >
-        <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Pret</span></th></tr>   
-        <tr>
-	<td><span id="en">Ferroboron standard ISO 10386:1996</span><span id="ro">Ferobor standard SR ISO 10386:1996</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Ferrosilicomanganese standard ISO 5447:1995</span><span id="ro">Ferosilicomangan standard SR ISO 5447:1995</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Ferrosilicochromium standard SR ISO 5449:1995</span><span id="ro">Ferosilicocrom standard SR ISO 5449:1995</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Ferrotungsten standard SR ISO 5450:1996</span><span id="ro">Ferowolfram standard SR ISO 5450:1996</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Ferromolybdenum standard SR ISO 5452:1995</span><span id="ro">Feromolibden standard SR ISO 5452:1995</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Ferroniobium standard SR ISO 5453:1996</span><span id="ro">Feroniobiu standard SR ISO 5453:1996</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Ferrotitanium  standard SR ISO 5454:1995</span><span id="ro">Ferotitan standard SR ISO 5454:1995</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Ferrosilicon standard SR ISO 5445:1995</span><span id="ro">Ferosiliciu standard SR ISO 5445:1995</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Ferrophosphorus standard STAS 7433-77</span><span id="ro">Ferofosfor STAS 7433-77</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	</table>  
+   <h5 class="categoryaccordion" id="aluminiumalloysbtn" ><span id="en">Aluminium alloys</span><span id="ro">Aliaje aluminiu</span></h5>    	
+   <table id="aluminiumalloys" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>   
+   <h5 class="categoryaccordion" id="brassalloysbtn" ><span id="en">Brass, copper and bronze alloys</span><span id="ro">Aliaje alame, cupru și bronz</span></h5>    	
+   <table id="brassalloys" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+   <h5 class="categoryaccordion" id="magnesiumalloysbtn" ><span id="en">Magnesium alloys</span><span id="ro">Aliaje magneziu</span></h5>    	
+   <table id="magnesiumalloys" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+   <h5 class="categoryaccordion" id="castironbtn" ><span id="en">Cast iron</span><span id="ro">Fonte</span></h5>    	
+   <table id="castiron" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+   <h5 class="categoryaccordion" id="ferroalloysbtn" ><span id="en">Ferroalloys</span><span id="ro">Feroaliaje</span></h5>    
+   <table id="ferroalloys" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
    <h5 class="categoryaccordion" id="steelalloysbtn" ><span id="en">Steel alloys</span><span id="ro">Aliaje oțel</span></h5>    
-        <table id="steelalloys" class="categorypanel" >
-        <!-- Load info start --> 
-        <!-- Load info end --> 
-        </table>     
-   <h5 class="categoryaccordion" ><span id="en">Consumables (1)</span><span id="ro">Consumabile (1)</span></h5>    	
-   <table>
-   <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-   <tr><td><span id="en">Foundry bentonite STAS 3624-74</span><span id="ro">Bentonită pentru turnătorie STAS 3624-74</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td></tr>  	   
-   <tr><td><span id="en">Foundry clay STAS 5608-87</span><span id="ro">Argilă pentru turnătorie STAS 5608-87</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td></tr>  	   
-   <tr><td><span id="en">Quicklime / calcium oxide for industrial use CL 90-Q (R5, Psv) EN 459-1:2011 (CaO)</span><span id="ro">Var industrial Tip I CL 90-Q (R5, Psv) EN 459-1:2011 (CaO)</span></td><td><span id="en">Supplier: Simcor Var S.A. - Romania</span><span id="ro" >Furnizor: Simcor Var S.A. - Romania</span></div></td><td><div style="border-bottom:1px solid #FFF;" >740 RON / t ( <span id="en">bulk</span><span id="ro">vrac</span> )</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td></tr><tr>  
-   </table>  
+   <table id="steelalloys" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>     
+   <h5 class="categoryaccordion" id="foundryconsumablesbtn" ><span id="en">Consumables (1)</span><span id="ro">Consumabile (1)</span></h5>    	
+   <table id="foundryconsumables" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+
    <h5 class="categoryaccordion" ><span id="en">Tools and safety equipment</span><span id="ro">Unelte și echipamente de protecție</span></h5>    	
    <div class="rowbin" >-</div> 
    </div></li><!--END SECTION-->
 	   
    <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>J. CHEMICALS</b></span> <span id="ro"><b>J. CHIMICALE</b></span></button><div class="catalogpanel">
-   <h5 class="categoryaccordion" ><span id="en">Chemicals plant</span><span id="ro">Uzină chimică</span></h5>    	
-   <div class="rowbin" >-</div> 
-   <h5 class="categoryaccordion" ><span id="en">Inorganic compounds - Chemical elements</span><span id="ro">Compuși anorganici - Elemente chimice</span></h5>    	
-       <table class="categorypanel" >
-       <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-       <tr>
-       <td><span id="en">Gas - Hydrogen tehnical grade compressed min. 99.9% STAS 3100-85 - ( H ) CAS: 7782-50-5</span><span id="ro">Gaz - Hidrogen tehnic comprimat min. 99.9% STAS 3100-85 - ( H ) CAS: 1333-74-0</span></td>
-       <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-       <td><div style="border-bottom:1px solid #FFF;" >-</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span>
-       </td></tr>  
-       <tr><td><span id="en">Liquid - Nitrogen tehnical grade STAS 1494-75 - ( N ) CAS: 7727-37-9</span><span id="ro">Lichid - Azot tehnic STAS 1494-75 - ( N ) CAS: 7727-37-9</span></td>
-       <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-       <td><div style="border-bottom:1px solid #FFF;" >-</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span>
-       </td></tr>  
-       <tr><td><span id="en">Gas - Nitrogen tehnical grade compressed min. 99.9% STAS 1494-75 - ( N ) CAS: 7727-37-9</span><span id="ro">Gaz - Azot tehnic comprimat min. 99.9% STAS 1494-75 - ( N ) CAS: 7727-37-9</span></td>
-       <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-       <td><div style="border-bottom:1px solid #FFF;" >-</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span>
-       </td></tr>  
-       <tr><td><span id="en">Liquid - Oxygen tehnical grade min. 99.5% STAS 2031-77 - ( O ) CAS: 7782-44-7</span><span id="ro">Lichid - Oxigen tehnic min. 99.5% STAS 2031-77 - ( O ) CAS: 7782-44-7</span></td>
-       <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-       <td><div style="border-bottom:1px solid #FFF;" >-</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span>
-       </td></tr>  
-       <tr><td><span id="en">Gas - Oxygen tehnical grade compressed min. 99.5% STAS 2031-77 - (O ) CAS: 7782-44-7</span><span id="ro">Gaz - Oxigen tehnic comprimat min. 99.5% STAS 2031-77 - ( O ) CAS: 7782-44-7</span></td>
-       <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-       <td><div style="border-bottom:1px solid #FFF;" >-</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span>
-       </td></tr>  	       
-       <tr><td><span id="en">Gas - Oxygen medical grade compressed min. 99.5% STAS 2961-82 - ( O ) CAS: 7782-44-7</span><span id="ro">Gaz - Oxigen medical comprimat min. 99.5% STAS 2961-82 - ( O ) CAS: 7782-44-7</span></td>
-       <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-       <td><div style="border-bottom:1px solid #FFF;" >-</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span>
-       </td></tr>  
-       <tr><td><span id="en">Solid - Sulfur from oil refining min. 99.9% STAS 9098/1-80 - ( S ) CAS: 7704-34-9</span><span id="ro">Solid - Sulf de petrol min. 99.9% STAS STAS 9098/1-80 - ( S ) CAS: 7704-34-9</span></td>
-       <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-       <td><div style="border-bottom:1px solid #FFF;" >-</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span>
-       </td></tr>  
-       <tr><td><span id="en">Solid - Coking plant technical sulphur refining min. 99.9% STAS 9098/2-89 - ( S ) CAS: 7704-34-9</span><span id="ro">Solid - Sulf tehnic de cocserie min. 99.9% STAS 9098/2-89 - ( S ) CAS: 7704-34-9</span></td>
-       <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-       <td><div style="border-bottom:1px solid #FFF;" >-</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span>
-       </td></tr>         
-       <tr><td><span id="en">Liquid - Chlorine min. 99.8% STAS 991-73 - ( Cl ) CAS: 7782-50-5</span><span id="ro">Lichid - Clor min. 99.8% STAS 991-73 - ( Cl ) CAS: 7782-50-5</span></td><td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-       <td>
-       <div style="border-bottom:1px solid #FFF;" >-</div>
--      <span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td></tr>  
-       <tr><td><span id="en">Gas - Argon tehnical grade compressed min. 99.9%  STAS 7956-85 - ( Ar ) CAS: 7440-37-1</span><span id="ro">Gaz - Argon tehnic comprimat min. 99.9% STAS 7956-85 - ( Ar ) CAS: 7440-37-1</span></td>
-       <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-       <td><div style="border-bottom:1px solid #FFF;" >-</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span>
-       </td>
-       </table>  
-   <h5 class="categoryaccordion" ><span id="en">Inorganic compounds - Water</span><span id="ro">Compuși anorganici - Apă</span></h5>    	
-        <table class="categorypanel" >
-       <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-       <tr><td><span id="en">Liquid - Water for analytical laboratory use SR EN ISO 3696:2002 - CAS: 7732-18-5</span><span id="ro">Lichid - Apă utilizată pentru laboratoare analitice SR EN ISO 3696:2002 - CAS: 7732-18-5</span></td><td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td><td><div style="border-bottom:1px solid #FFF;" >-</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td></tr>  
-       </table>
-   <h5 class="categoryaccordion" ><span id="en">Inorganic compounds - Bases</span><span id="ro">Compuși anorganici - Baze</span></h5>    	
-       <table class="categorypanel" >
-       <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-       <tr><td><span id="en">Solid - Caustic soda flakes STAS 98-76 - CAS:1310-73-2</span><span id="ro">Solid - Fulgi sodă caustică STAS 98-76 - CAS:1310-73-2</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Liquid - Sodium hydroxide solution 48% STAS 3068-80 - CAS: 1310-73-2</span><span id="ro">Lichid - Hidroxid de sodiu soluție 48% STAS 3068-80 CAS: 1310-73-2</span></td><td><span id="en">-</span><span id="ro">-</span></td><td><div style="border-bottom:1px solid #FFF;" >-</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Liquid - Sodium hypochlorite solution technical grade 12.5% STAS 918-83 - CAS: 7681-52-9</span><span id="ro">Lichid - Hipoclorit de sodiu tehnic soluție 12.5% STAS 918-83 - CAS: 7681-52-9</span></td><td><span id="en">-</span><span id="ro">-</span></td><td><div style="border-bottom:1px solid #FFF;" >-</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td></tr>  	
-       <tr><td><span id="en">Liquid - Ammonia 99,8% STAS 448/1-84 - CAS: 7664-41-7</span><span id="ro">Lichid - Amoniac 99,8% STAS 448/1-84 - CAS: 7664-41-7</span></td><td><span id="en">-</span><span id="ro">-</span></td><td><div style="border-bottom:1px solid #FFF;" >-</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td></tr>  	
-       <tr><td><span id="en">Liquid - Ammonia solution 25% STAS 448/2-84 - CAS: 7664-41-7</span><span id="ro">Lichid - Amoniac solution 25% STAS 448/2-84 - CAS: 7664-41-7</span></td><td><span id="en">-</span><span id="ro">-</span></td><td><div style="border-bottom:1px solid #FFF;" >-</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td></tr>  	
-       <tr><td><span id="en">Liquid - Potassium hydroxide tehnical grade, solution STAS 11494-80 - CAS:1310-58-3</span><span id="ro">Lichid - Hidroxid de potasiu tehnic, solutie STAS 11494-80 - CAS:1310-58-3</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       </table>	
-   <h5 class="categoryaccordion" ><span id="en">Inorganic compounds - Acids</span><span id="ro">Compuși anorganici - Acizi</span></h5>    	
-       <table class="categorypanel" >
-       <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-       <tr><td><span id="en">Liquid - Hydrochloric acid tehnical grade STAS 339-80 - CAS: 7647-01-0</span><span id="ro">Lichid - Acid clorhidric tehnic STAS 339-80 -  CAS: 7647-01-0</span></td><td><span id="en">-</span><span id="ro">-</span></td><td><div style="border-bottom:1px solid #FFF;" >- RON / t</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td></tr>  	 
-       <tr><td><span id="en">Solid - Boric acid technical grade STAS 7954-91 - CAS:10043-35-3</span><span id="ro">Solid - Acid boric tehnic STAS 7954-91 - CAS:10043-35-3</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Liquid - Sulfuric acid technical grade, solution STAS 97-80 - CAS:7664-93-9</span><span id="ro">Lichid - Acid sulfuric tehnic STAS 97-80 - CAS:7664-93-9</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Liquid - Sulfuric acid for batteries STAS 164-75 - CAS:7664-93-9</span><span id="ro">Lichid - Acid sulfuric pentru acumulatoare STAS 164-75 - CAS:7664-93-9</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Liquid - Oleum ( Fuming sulfuric acid ) STAS 9482-74 - CAS:8014-95-7</span><span id="ro">Lichid - Oleum ( Acid sulfuric fumans ) STAS 9482-74 - CAS:8014-95-7</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Liquid - Nitric acid technical grade SR 447:1995 - CAS:7697-37-2</span><span id="ro">Lichid - Acid azotic tehnic SR 447:1995 - CAS:7697-37-2</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Liquid - Purified acetic acid STAS 267-84 - CAS:64-19-7</span><span id="ro">Lichid - Acid acetic purificat STAS 267-84 - CAS:64-19-7</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Liquid - Acetic acid technical grade from synthesis STAS 267-84 - CAS:64-19-7</span><span id="ro">Lichid - Acid acetic tehnic de sinteză STAS 6365-88 - CAS:64-19-7</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Liquid - Orthophosphoric acid STAS 97-80 - CAS:7664-38-2</span><span id="ro">Lichid - Acid ortofosforic STAS 10788-76 - CAS:7664-38-2</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Liquid - Sulfuric acid technical grade STAS 97-80 - CAS:7664-93-9</span><span id="ro">Lichid - Acid sulfuric tehnic STAS 97-80 - CAS:7664-93-9</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       </table> 
-   <h5 class="categoryaccordion" ><span id="en">Inorganic compounds - Salts</span><span id="ro">Compuși anorganici - Săruri</span></h5>    	
-       <table class="categorypanel" >
-       <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-       <tr><td><span id="en">Solid - Aluminium hydroxide technical grade STAS 8738-86 - CAS:21645-51-2</span><span id="ro">Solid - Hidroxid de aluminiu tehnic STAS 8738-86 - CAS:21645-51-2</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Crystallized copper sulfate technical grade STAS 341-80 - CAS:7758-98-7</span><span id="ro">Solid - Sulfat de cupru tehnic cristalizat STAS 341-80 - CAS:7758-98-7</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Zinc sulfate technical grade STAS 2367-88 - CAS:7446-20-0</span><span id="ro">Solid - Sulfat de zinc tehnic STAS 2367-88 - CAS:7446-20-0</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Sodium sulfate anhydrous technical grade STAS 2126-84 - CAS:7757-82-6</span><span id="ro">Solid - Sulfat de sodiu anhidru tehnic STAS 2126-84 - CAS:7757-82-6</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Iron (II) sulfate technical grade STAS 2189-80 - CAS:7782-63-0</span><span id="ro">Solid - Sulfat de fier (II) tehnic STAS 2189-80 - CAS:7782-63-0</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Ammonium alum technical grade STAS 2959-79 - CAS:7784-26-1</span><span id="ro">Solid - Alaun de amoniu tehnic STAS 2959-79 - CAS:7784-26-1</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Magnesium sulfate technical grade STAS 9373-73 - CAS:7487-88-9</span><span id="ro">Solid - Sulfat de magneziu tehnic STAS 9373-73 - CAS:7487-88-9</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Sodium sulfide technical grade STAS 1491-70 - CAS:1313-82-2</span><span id="ro">Solid - Sulfură de sodiu tehnică STAS 1491-70 - CAS:1313-82-2</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Sodium metabisulfite technical grade STAS 992-75 - CAS:7681-57-4</span><span id="ro">Solid - Pirosulfit de sodiu tehnic STAS 992-75 - CAS:7681-57-4</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Crystallized sodium thiosulphate anhydrous technical grade STAS 1817/2-75 - CAS:7772-98-7</span><span id="ro">Solid - Tiosulfat de sodiu cristalizat tehnic STAS 1817/2-75 - CAS:7772-98-7</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Potassium metabisulfite technical grade STAS 2190-67 - CAS:16731-55-8</span><span id="ro">Solid - Metabisulfit de potasiu tehnic STAS 2190-67 - CAS:16731-55-8</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Aluminium chloride anhydrous technical grade STAS 7108-83 - CAS:7446-70-0</span><span id="ro">Solid - Clorură de aluminiu anhidră tehnică STAS 7108-83 - CAS:7446-70-0</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	       
-       <tr><td><span id="en">Liquid - Zinc chloride technical grade, solution STAS 2262-88 - CAS:7646-85-7</span><span id="ro">Lichid - Clorură de zinc tehnică, soluţie STAS 2262-88 - CAS:7646-85-7</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Liquid - Iron chloride STAS 8650-70 - CAS: 10043-52-4</span><span id="ro">Lichid - Clorură ferică STAS 8650-70 - CAS: 10043-52-4</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     	       
-       <tr><td><span id="en">Solid - Potassium chloride technical grade STAS 10544-84 - CAS:7447-40-7</span><span id="ro">Solid - Clorură de potasiu tehnică STAS 10544-84 - CAS:7447-40-7</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Aluminium chloride anhydrous technical grade STAS 7108-83 - CAS:7446-70-0</span><span id="ro">Solid - Clorură de aluminiu anhidră tehnică STAS 7108-83 - CAS:7446-70-0</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Ammonium chloride STAS 10305-85 - CAS:12125-02-9</span><span id="ro">Solid - Clorură de amoniu tehnică STAS 10305-85 - CAS:12125-02-9</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Calcium chloride technical grade STAS 2073-75 - CAS:7440-70-2</span><span id="ro">Solid - Clorură de calciu tehnică STAS 2073-75 - CAS:7440-70-2</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Calcium hypochlorite technical grade STAS 932-75 - CAS:75-20-7</span><span id="ro">Solid - Hipoclorit de calciu tehnic STAS 932-75 - CAS:75-20-7</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Calcium carbide technical grade STAS 102-86 - CAS:75-20-7</span><span id="ro">Solid - Carbură de calciu tehnică STAS 102-86 - CAS:75-20-7</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Sodium bicarbonate STAS 1050-76 - CAS:144-55-8</span><span id="ro">Solid - Bicarbonat de sodiu STAS 1050-76 - CAS:144-55-8</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Ammonium bicarbonate for food industry SR 3659:1995 - CAS:1066-33-7</span><span id="ro">Solid - Bicarbonat de amoniu pentru scopuri alimentare SR 3659:1995 - CAS:1066-33-7</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Anhydrous barium chloride technical grade STAS 12102-83 - CAS:10361-37-2</span><span id="ro">Solid - Clorură de bariu anhidră, tehnică STAS 12102-83 - CAS:10361-37-2</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Barium carbonate technical grade STAS 11090-78 - CAS:513-77-9</span><span id="ro">Solid - Carbonat de bariu tehnic STAS 11090-78 - CAS:513-77-9</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Paste - Barium sulphate technical grade STAS 7719-86 - CAS:7727-43-7</span><span id="ro">Pastă - Sulfat de bariu tehnic STAS 7719-86 - CAS:7727-43-7</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Potassium carbonate technical grade STAS 10985-88 - CAS:584-08-7</span><span id="ro">Solid - Carbonat de potasiu tehnic STAS 10985-88 - CAS:584-08-7</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Sodium anhidre carbonate STAS 99-91 - CAS:497-19-8</span><span id="ro">Solid - Carbonat de sodiu anhidru STAS 99-91 - CAS:497-19-8</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Magnesium carbonate basice STAS 4996-80 - CAS:39409-82-0</span><span id="ro">Solid - Carbonat bazic de magneziu tehnic STAS 4996-80 - CAS:39409-82-0</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Calcium carbonate precipitated, technical grade STAS 1083-76 - CAS:471-34-1</span><span id="ro">Solid - Carbonat de calciu precipitat tehnic STAS 1083-76 - CAS:471-34-1</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       </table>    
-   <h5 class="categoryaccordion" ><span id="en">Inorganic compounds - Oxides</span><span id="ro">Compuși anorganici - Oxizi</span></h5>    	
-       <table class="categorypanel" >
-       <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>          
-       <tr><td><span id="en">Solid - Zinc oxide technical grade STAS 421-84 - CAS:1314-13-2</span><span id="ro">Solid - Oxid de zinc tehnic STAS 421-84 - CAS:1314-13-2</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Magnesium oxide technical grade STAS 421-84 - CAS:1309-48-4 </span><span id="ro">Solid - Oxid de magneziu tehnic STAS 4995-80 - CAS:1309-48-4 </span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Iron oxide for ferrites STAS 8137-90 - CAS:1309-37-1 </span><span id="ro">Solid - Oxid de fier pentru ferite STAS 8137-90 - CAS:1309-37-1 </span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       </table>
-   <h5 class="categoryaccordion" ><span id="en">Simple organic compounds</span><span id="ro">Compuși organici simpli</span></h5>    	
-       <table class="categorypanel" >
-       <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-       <tr><td><span id="en">Gas - Disolved acetylene technical grade min. 98%  STAS 3660-79 - ( C2H2 ) CAS: 74-86-2</span><span id="ro">Gaz - Acetilenă tehnică dizolvată min. 98% STAS 3660-79 - ( C2H2 ) CAS: 74-86-2</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Gas - Ethyl mercaptan STAS 8401-87 - CAS: 75-08-1</span><span id="ro">Gaz - Etilmercaptan STAS 8401-87 - CAS:75-08-1</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Liquid - Methanol STAS 6552-83 - CAS: 67-56-1</span><span id="ro">Lichid - Metanol STAS 6552-83 - CAS: 67-56-1</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Liquid - Acetone technical grade STAS 6552-83 - CAS:67-64-1</span><span id="ro">Lichid - Acetonă tehnică de sinteză STAS 6552-83 - CAS:67-64-1</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Liquid - Vegetable glycerin (VG) tehnical grade STAS 193-77 - CAS: 56-81-5</span><span id="ro">Lichid - Glicerină vegetala (VG) tehnică STAS 193-77 - CAS: 56-81-5</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Liquid - Synthetic ethanol STAS 12238-84 - CAS: 64-17-5</span><span id="ro">Lichid - Alcool etilic de sinteză STAS 12238-84 - CAS: 64-17-5</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Liquid - Formic acid technical grade STAS 4993-83 CAS: 64-18-6</span><span id="ro">Lichid - Acid formic tehnic STAS 4993-83 CAS: 64-18-6</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Liquid - Methyl acetate technical grade STAS 2311-76 CAS:79-20-9</span><span id="ro">Lichid - Acetat de metil tehnic tehnic STAS 2311-76 CAS:79-20-9</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Stearin STAS 2618-85 CAS:555-43-1</span><span id="ro">Solid - Stearină STAS 2618-85 CAS:555-43-1</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-       <tr><td><span id="en">Solid - Methyl cellulose STAS 10516-76 CAS:9004-67-5</span><span id="ro">Solid - Metilceluloză STAS 10516-76 CAS:9004-67-5</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     	       
-       </table>
+   <h5 class="categoryaccordion" id="chemicalplantbtn" ><span id="en">Chemicals plant</span><span id="ro">Uzină chimică</span></h5>    	
+   <table id="chemicalplant" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+	   
+   <h5 class="categoryaccordion" id="inorganiccompundselementsbtn"  ><span id="en">Inorganic compounds - Chemical elements</span><span id="ro">Compuși anorganici - Elemente chimice</span></h5>    	
+   <table id="inorganiccompundselements" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+
+   <h5 class="categoryaccordion" id="inorganiccompundswaterbtn" ><span id="en">Inorganic compounds - Water</span><span id="ro">Compuși anorganici - Apă</span></h5>    	
+   <table id="inorganiccompundswater" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+
+   <h5 class="categoryaccordion" id="inorganiccompundsbasesbtn" ><span id="en">Inorganic compounds - Bases</span><span id="ro">Compuși anorganici - Baze</span></h5>    	
+   <table id="inorganiccompundsbases" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+	   
+   <h5 class="categoryaccordion" id="inorganiccompundsacidsbtn" ><span id="en">Inorganic compounds - Acids</span><span id="ro">Compuși anorganici - Acizi</span></h5>    
+   <table id="inorganiccompundsacids" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+	   
+   <h5 class="categoryaccordion" id="inorganiccompundssaltsbtn" ><span id="en">Inorganic compounds - Salts</span><span id="ro">Compuși anorganici - Săruri</span></h5>    	
+   <table id="inorganiccompundssalts" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>
+
+   <h5 class="categoryaccordion" id="inorganiccompundsoxidesbtn" ><span id="en">Inorganic compounds - Oxides</span><span id="ro">Compuși anorganici - Oxizi</span></h5>    	
+   <table id="inorganiccompundsoxides" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>
+
+   <h5 class="categoryaccordion" id="simpleorganiccompundsbtn" ><span id="en">Simple organic compounds</span><span id="ro">Compuși organici simpli</span></h5>    	
+   <table id="simpleorganiccompunds" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>
+	   
    <h5 class="categoryaccordion" ><span id="en">Lubricants</span><span id="ro">Uleiuri și unsori</span></h5>    
    <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" ><span id="en">Adhesives</span><span id="ro">Adezivi</span></h5>    
@@ -1018,7 +943,14 @@ $(document).ready(function () {
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Leatherwork factory</span><span id="ro">Fabrica de pielărie / marochinărie</span></h5> 
   <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" ><span id="en">Raw and semifabricated textiles, yarns, threads</span><span id="ro">Materii prime textile, fire și ațe </span></h5>  
+  <h5 class="categoryaccordion"  id="rawtextilesbtn" ><span id="en">Raw and semifabricated textiles, yarns, threads</span><span id="ro">Materii prime textile, fire și ațe </span></h5>  
+
+   <table id="rawtextiles" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>
+
+	  
    <table class="categorypanel" >
    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
    <tr><td><span id="en">Raw unwashed wool - not sorted</span><span id="ro">Lână nespălată și nesortată</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
@@ -1198,7 +1130,14 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Ciment factory</span><span id="ro">Fabrică ciment</span></h5> 
    <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" ><span id="en">Building materials</span><span id="ro">Materiale construcții</span></h5> 
+   <h5 class="categoryaccordion" id="buildingmaterialsbtn" ><span id="en">Building materials</span><span id="ro">Materiale construcții</span></h5> 
+
+   <table id="buildingmaterials" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>
+
+	   
    <table>
    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
        <tr><td><span id="en">Portland cement CEM I EN 197-1:2011</span><span id="ro">Ciment portland CEM I EN 197-1:2011</span></td><td>- </td><td>-</td></tr>   
@@ -1247,7 +1186,14 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Precast concrete</span><span id="ro">Prefabricate beton</span></h5> 
    <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" ><span id="en">Bricks</span><span id="ro">Cărămizi</span></h5>    
+   <h5 class="categoryaccordion" id="bricksbtn" ><span id="en">Bricks</span><span id="ro">Cărămizi</span></h5>    
+
+   <table id="bricks" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>
+
+	   
    <table>
    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
    <tr><td><span id="en">Burnt clay brick EN 771-1+A1:2015</span><span id="ro">Cărămidă arsă EN 771-1+A1:2015</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td></tr>  	   
