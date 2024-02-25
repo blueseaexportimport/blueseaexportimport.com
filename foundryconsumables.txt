@@ -1,10 +1,10 @@
 <tbody>
 <tr>
   <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
-  <th><span id="en">Name</span><span id="ro">Calitate</span></th>
+  <th><span id="en">Name</span><span id="ro">Nume</span></th>
   <th><span id="en">Standard</span><span id="ro">Standard</span></th>
   <th><span id="en">Shape</span><span id="ro">Forma</span></th>
-  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
+  <th><span id="en">Packaging</span><span id="ro">Ambalaj</span></th>
   <th><span id="en">Price</span><span id="ro">Pret</span></th>
 </tr>
 
