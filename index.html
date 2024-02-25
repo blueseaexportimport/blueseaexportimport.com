@@ -192,10 +192,25 @@ $(document).ready(function () {
         }});
     }
    });
-  // Grab welding alloys supplies info on click end
+  // Grab tin alloys supplies info on click end
+
+  // Grab tin alloys info on click start
+  $("#tinalloyssbtn").click(function() {
+    if ($("#tinalloys").hasClass("clickedtinalloys")) {
+        // already been clicked once, hide it
+        $("#tinalloys").html("");
+        $( "#tinalloys" ).removeClass( "clickedtinalloys" )
+    }else {
+        // first time this is clicked, mark it
+        $("#tinalloys").addClass("clickedtinalloys");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/tinalloys.txt", success: function(result){
+         $("#tinalloys").html(result);
+        }});
+    }
+   });
+  // Grab tin alloys supplies info on click end
 
 
-	
   // Grab steel alloys info on click start
   $("#steelalloysbtn").click(function() {
     if ($("#steelalloys").hasClass("clickedsteelalloys")) {
@@ -538,33 +553,12 @@ $(document).ready(function () {
    <!-- Load info end --> 
    </table>    
 
-	   
-        <table class="categorypanel" >
+   <h5 class="categoryaccordion" id="tinalloysbtn" ><span id="en">Tin, lead and zinc alloys</span><span id="ro">Aliaje staniu, plumb și zinc</span></h5>    	
+   <table id="tinalloys" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>    
 
-	</table>
-   <h5 class="categoryaccordion" ><span id="en">Tin, lead and zinc alloys</span><span id="ro">Aliaje staniu, plumb și zinc</span></h5>    	
-        <table class="categorypanel" >
-        <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Pret</span></th></tr>   
-        <tr>
-	<td><span id="en">Zinc and zinc alloys - Specification for rolled flat products for building EN 988:2001</span><span id="ro">Zinc şi aliaje de zinc - Condiţii tehnice pentru produse plate laminate utilizate în construcţii EN 988:2001</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Zinc and zinc alloys - Primary zinc EN 1179:2006</span><span id="ro">Zinc şi aliaje de zinc - Zinc primar EN 1179:2006</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Zinc and zinc alloys - Alloys for foundry purposes. Ingot and liquid EN 1774:2001 </span><span id="ro">Zinc şi aliaje de zinc - Aliaje pentru turnătorie. Lingou şi lichid EN 1774:2001</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	<td><span id="en">Zinc and zinc alloys - Castings EN 12438:2018 </span><span id="ro">Zinc şi aliaje de zinc - Piese turnate EN 12844:2001</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-        <td><span id="en">Zinc and zinc alloys - Secondary zinc EN 13283:2003</span><span id="ro">Zinc şi aliaje de zinc - Zinc secundar EN 13283:2003</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-        <td><span id="en">Tin and tin alloys - Ingot tin EN 610:2000</span><span id="ro">Staniu şi aliaje de staniu - Lingou de staniu EN 610:2000</span></td>
-	<td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-	<td>-</td></tr>
-	</table>
    <h5 class="categoryaccordion" ><span id="en">Aluminium alloys</span><span id="ro">Aliaje aluminiu</span></h5>    	
         <table class="categorypanel" >
         <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Pret</span></th></tr>   
