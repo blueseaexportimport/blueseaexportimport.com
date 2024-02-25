@@ -1,11 +1,58 @@
 <tbody>
-   <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-   <tr><td><span id="en">Hydrogen ISO 14687</span><span id="ro">Hidrogen ISO 14687</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / m3</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
-   <tr><td><span id="en">Biomethane (Methane content minimum 94–99.9 %) EN 16723 / CAS 74-82-8 / EC Nr. 200-812-7 </span><span id="ro">Biometan ( Conținut metan minimum 94–99.9 % ) EN 16723 / CAS 74-82-8 / Nr. EC 200-812-7</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / m3</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-   <tr><td><span id="en">Butane UN Nr. 1011 / CAS 106-97-8 / EINECS 200-448-7</span><span id="ro">Butan Nr. ONU 1011 / CAS 106-97-8 / EINECS 200-448-7</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
-   <tr><td><span id="en">Propane UN Nr. 1978 / CAS 74-98-6  / EINECS 200-827-9</span><span id="ro">Propan Nr. ONU 1978 / CAS 74-98-6 / EINECS 200-827-9</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-   <tr><td><span id="en">Liquefied petroleum gas ( LPG ) UN Nr. 1965 / CAS 68512-91-4* / EINECS 271-094-00-0</span><span id="ro">Gaz petrolier lichefiat ( GPL ) Nr. ONU 1965 / CAS 68512-91-4* / EINECS 271-094-00-0</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / L</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-   <tr><td><span id="en">Liquefied petroleum gas ( LPG ) UN Nr. 1965 / CAS 68606-26-8* / EINECS 271-094-00-0</span><span id="ro">Gaz petrolier lichefiat ( GPL ) Nr. ONU 1965 / CAS CAS 68606-26-8* / EINECS 271-094-00-0</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / L</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-   <tr><td><span id="en">Liquefied petroleum gas ( LPG ) UN Nr. 1965 / CAS 68476-85-7  / EINECS 271-094-00-0</span><span id="ro">Gaz petrolier lichefiat ( GPL ) Nr. ONU 1965 / CAS 68476-85-7 / EINECS 271-094-00-0</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / L</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
-   <tr><td><span id="en">Vehicles Liquefied petroleum gas ( LPG ) UN Nr. 1965 / CAS 73-98-6  / EINECS 270-990-9</span><span id="ro">Gaz petrolier lichefiat auto ( GPL ) Nr. ONU 1965 / CAS 73-98-6 / EINECS 270-990-9</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / L</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Hydrogen</span><span id="ro">Hidrogen</span></td>
+<td style="color:black;">CAS 74-82-8</td></tr><tr><td>Standard</td><td style="color:#39ff14;" >ISO 14687</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / m3</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Biomethane</span><span id="ro">Biometan</span></td>
+<td style="color:black;">CAS 74-82-8</td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 16723</td></tr><tr><td>EC Nr.</td><td style="color:#39ff14;" >200-812-7</td></tr>
+<tr><td><span id="en">Methane content minimum</span><span id="en">Conținut metan minimum</span></td><td style="color:#39ff14;" >94–99.9 %</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / m3</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Butane</span><span id="ro">Butan</span></td>
+<td style="color:black;">CAS 106-97-8</td></tr>
+<td>UN Nr.</td><td style="color:#39ff14;" >1011</td></tr>
+<td>EINECS</td><td style="color:#39ff14;" >200-448-7</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / kg</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Propane</span><span id="ro">Propan</span></td>
+<td style="color:black;">CAS 74-98-6</td></tr>
+<td>UN Nr.</td><td style="color:#39ff14;" >1978</td></tr>
+<td>EINECS</td><td style="color:#39ff14;" >200-827-9</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / kg</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Liquefied petroleum gas ( LPG )</span><span id="ro">Gaz petrolier lichefiat ( GPL )</span></td>
+<td style="color:black;">CAS 68512-91-4*</td></tr>
+<td>UN Nr.</td><td style="color:#39ff14;" >1965</td></tr>
+<td>EINECS</td><td style="color:#39ff14;" >271-094-00-0</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / L</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+       
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Liquefied petroleum gas ( LPG )</span><span id="ro">Gaz petrolier lichefiat ( GPL )</span></td>
+<td style="color:black;">CAS 68606-26-8*</td></tr>
+<td>UN Nr.</td><td style="color:#39ff14;" >1965</td></tr>
+<td>EINECS</td><td style="color:#39ff14;" >271-094-00-0</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / L</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+ 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Liquefied petroleum gas ( LPG )</span><span id="ro">Gaz petrolier lichefiat ( GPL )</span></td>
+<td style="color:black;">CAS 68476-85-7</td></tr>
+<td>UN Nr.</td><td style="color:#39ff14;" >1965</td></tr>
+<td>EINECS</td><td style="color:#39ff14;" >271-094-00-0</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / L</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+ 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Vehicles Liquefied petroleum gas ( LPG )</span><span id="ro">Gaz petrolier lichefiat auto ( GPL )</span></td>
+<td style="color:black;">CAS 73-98-6</td></tr>
+<td>UN Nr.</td><td style="color:#39ff14;" >1965</td></tr>
+<td>EINECS</td><td style="color:#39ff14;" >270-990-9</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / L</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+   
+  
 </tbody>
