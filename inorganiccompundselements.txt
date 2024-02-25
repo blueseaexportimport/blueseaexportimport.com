@@ -1,0 +1,24 @@
+
+<tbody>
+<tr>
+  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
+  <th><span id="en">Type</span><span id="ro">Forma</span></th>
+  <th><span id="en">Name</span><span id="ro">Nume</span></th>
+  <th><span id="en">CAS</span><span id="ro">CAS</span></th>
+  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
+  <th><span id="en">Purity</span><span id="ro">Puritate</span></th>
+  <th><span id="en">Price</span><span id="ro">Pret</span></th>
+</tr>
+<tr><td>IOEAAA00001</td><td><span id="en">Solid - from oil refining</span><span id="ro">Solid - de petrol</span></td><td><span id="en">Sulfur</span><span id="ro">Sulf</span></td><td>7704-34-9</td><td>STAS 9098/1-80</td><td>min. 99.9%</td><td>-</td></tr>
+<tr><td>IOEABA00001</td><td><span id="en">Solid - from coking plant technical</span><span id="ro">Solid - tehnic de cocserie</span></td><td><span id="en">Sulfur</span><span id="ro">Sulf</span></td><td>7704-34-9</td><td>STAS 9098/2-89</td><td>min. 99.9%</td><td>-</td></tr>
+<tr><td>IOEACA00001</td><td><span id="en">Liquid - tehnical grade</span><span id="ro">Lichid - tehnic</span></td><td><span id="en">Nitrogen</span><span id="ro">Azot</span></td><td>7727-37-9</td><td>STAS 1494-75</td><td>99.9%</td><td>-</td></tr>
+<tr><td>IOEADA00001</td><td><span id="en">Liquid - tehnical grade</span><span id="ro">Lichid - tehnic</span></td><td><span id="en">Oxygen</span><span id="ro">Oxigen</span></td><td>7782-50-5</td><td>STAS 2031-77</td><td>99.5%</td><td>-</td></tr>
+<tr><td>IOEAEA00001</td><td><span id="en">Liquid - tehnical grade</span><span id="ro">Lichid - tehnic</span></td><td><span id="en">Chlorine</span><span id="ro">Clor</span></td><td>7782-50-5</td><td>STAS 991-73</td><td>99.8%</td><td>-</td></tr>
+<tr><td>IOEAFA00001</td><td><span id="en">Gas - tehnical grade compressed</span><span id="ro">Gaz - tehnic comprimat</span></td><td><span id="en">Hydrogen</span><span id="ro">Hidrogen</span></td><td>7782-50-5</td><td>STAS 3100-85</td><td>min. 99.9%</td><td>-</td></tr>
+<tr><td>IOEAGA00001</td><td><span id="en">Gas - tehnical grade compressed</span><span id="ro">Gaz -tehnic comprimat</span></td><td><span id="en">Nitrogen</span><span id="ro">Azot</span></td><td>7727-37-9</td><td>STAS 1494-75</td><td>99.9%</td><td>-</td></tr>
+<tr><td>IOEAHA00001</td><td><span id="en">Gas - tehnical grade compressed</span><span id="ro">Gaz - tehnic comprimat</span></td><td><span id="en">Oxygen</span><span id="ro">Oxigen</span></td><td>7782-44-7</td><td>STAS 2031-77</td><td>99.5%</td><td>-</td></tr>
+<tr><td>IOEAIA00001</td><td><span id="en">Gas - medical compressed</span><span id="ro">Gaz - medical comprimat</span></td><td><span id="en">Oxygen</span><span id="ro">Oxigen</span></td><td>7782-44-7</td><td>STAS 2961-82</td><td>min. 99.9%</td><td>-</td></tr>
+<tr><td>IOEAJA00001</td><td><span id="en">Gas - tehnical grade compressed</span><span id="ro">Gaz - tehnic comprimat</span></td><td><span id="en">Argon</span><span id="ro">Argon</span></td><td>7440-37-1</td><td>STAS 7956-85</td><td>99.9%</td><td>-</td></tr>
+</tbody>
+
+
