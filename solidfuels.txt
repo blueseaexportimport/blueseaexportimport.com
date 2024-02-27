@@ -1,14 +1,44 @@
 
 <tbody>
 
-   <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-   <tr><td><span id="en">Barbeque wood STAS 2340-90</span><span id="ro">Lemne grătar STAS 2340-90</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / 3kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
-   <tr><td><span id="en">Barbeque charcoal - wood SR EN 1860-2</span><span id="ro">Cărbune grătar - din lemn SR EN 1860-2</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / 3kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
-   <tr><td><span id="en">Barbeque smokeless charcoal - nuts husks</span><span id="ro">Cărbune grătar fară fum - din coji nuci</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / 3kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  
-   <tr><td><span id="en">Barbeque smokeless charcoal - bamboo</span><span id="ro">Cărbune grătar fară fum - din bambus</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / 3kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  
-   <tr><td><span id="en">Barbeque smokeless charcoal - coconut husks</span><span id="ro">Cărbune grătar fară fum - din coji nuci cocos</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / 3kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  
-   <tr><td><span id="en">Barbeque smokeless charcoal - bare corn cobs</span><span id="ro">Cărbune grătar fară fum - din știuleți porumb</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / 3kg</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  
-   <tr><td><span id="en">Sawdust pellets - aprx. 5 kWh/kg / water content under 10%</span><span id="ro">Peleți rumeguș - aprx. 5 kWh/kg / conținut apă sub 10%</span></td><td><span id="" >Supplier:SimForest - Romania</span><span id="ro" >Furnizor: SimForest - Romania</span></td><td><div style="border-bottom:1px solid #FFF;" >23.5 RON / 15kg </div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  
-   
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en" >Sawdust pellets - aprx. 5 kWh/kg / water content under 10%</span><span id="ro">Peleți rumeguș - aprx. 5 kWh/kg / conținut apă sub 10%</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >non standard</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >>23.5 RON / 15kg</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en" >Barbeque wood</span><span id="ro">Lemne grătar</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >STAS 2340-90</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / m3</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en" >Barbeque charcoal - wood</span><span id="ro">Cărbune grătar - din lemn</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >SR EN 1860-2</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / m3</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en" >Barbeque smokeless briquettes - bamboo</span><span id="ro">Brichete cărbune grătar fară fum - din bambus</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >ISO 21626-1:2020</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / m3</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en" >Barbeque smokeless charcoal - bamboo</span><span id="ro">Cărbune grătar fară fum - din bambus</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >ISO 21626-2:2020</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / m3</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en" >Barbeque smokeless charcoal - nuts husks</span><span id="ro">Cărbune grătar fară fum - din coji nuci</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >non standard</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / m3</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en" >Barbeque smokeless charcoal - coconut husks</span><span id="ro">Cărbune grătar fară fum - din coji nuci cocos</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >non standard</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / m3</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en" >Barbeque smokeless charcoal - bare corn cobs</span><span id="ro">Cărbune grătar fară fum - din știuleți porumb</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >non standard</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / m3</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 </tbody>
