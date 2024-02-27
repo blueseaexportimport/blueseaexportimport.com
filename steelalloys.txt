@@ -1527,5 +1527,76 @@
 
 <!-- OTELURI PRESIUNE END - produse cu dubla utilizare  -->
 
+<!-- OTELURI ELECTRICE END - produse cu dubla utilizare  -->
+
+
+<tr>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en">Electrical steel</span>
+	<span id="ro">Oţel electrotehnic</span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+   <td style="background:#39ff14;color:black;" >
+	<span id="en"></span>
+	<span id="ro"></span>
+   </td>	
+</tr>
+
+<tr>
+  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
+  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
+  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
+  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
+  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
+  <th><span id="en">Price</span><span id="ro">Pret</span></th>
+</tr>
+
+
+<tr>
+  <td>CAA00001</td>
+  <td>-</td>
+  <td>EN 10106:2016</td>
+  <td>-</td>
+  <td>-</td>
+  <td>-</td>
+</tr>
+
+<tr>
+  <td>CAA00001</td>
+  <td>-</td>
+  <td>EN 10107:2022</td>
+  <td>-</td>
+  <td>-</td>
+  <td>-</td>
+</tr>
+
+<tr>
+  <td>CAA00001</td>
+  <td>-</td>
+  <td>EN 10341:2006</td>
+  <td>-</td>
+  <td>-</td>
+  <td>-</td>
+</tr>
+
+
+<!-- OTELURI ELECTRICE END - produse cu dubla utilizare  -->
+
+
 
 </tbody>
