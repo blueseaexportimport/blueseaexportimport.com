@@ -1,339 +1,309 @@
 <tbody>
- <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Pret</span></th></tr>  
 
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Electricity conductors</span><span id="ro">Conductoare electrice</span></td><td></td></tr>
 
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Electricity conductors</span>
-	<span id="ro">Conductoare electrice</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Formed wire, concentric lay, stranded conductors for overhead electrical power lines</span><span id="ro">Conductoare cu sârme profilate cablate în straturi concentrice pentru linii electrice aeriene</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 62219:2004</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Round wire concentric lay stranded conductors for overhead electrical power lines</span><span id="ro">Conductoare cu sârme rotunde cablate în straturi concentrice pentru linii electrice aeriene</span></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 50182:2004 + EN 50182:2004/AC:2013 + EN 50182:2004/AC:2014</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;">an id="en">Zinc coated steel wires conductors for overhead electrical power lines</span><span id="ro">Conductoare sârme de oţel zincate pentru linii electrice aeriene</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 50189:2002</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Round wire concentric lay overhead electrical stranded conductors</span><span id="ro">Conductoare pentru linii aeriene cu sârme rotunde, cablate în straturi concentrice</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >CEI 61089:1996</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Aluminium-clad steel wires for electrical purposes</span><span id="ro">Sârme de oţel acoperite cu aluminiu pentru utilizare electrică</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 61232:2002 + EN 61232:2002/A11:2002</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Coated or cladded metallic wire for concentric lay stranded conductors for overhead electrical power lines</span><span id="ro">Sârmă metalică acoperită sau învelită pentru conductoare înfuniate în straturi concentrice pentru linii electrice aeriene</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN IEC 63248:2022</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Aluminium-magnesium-silicon alloy wires for overhead electrical power lines</span><span id="ro">Sârme de aliaj de aluminiu-magneziu-siliciu pentru linii electrice aeriene</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 50183:2002</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Power cables</span><span id="ro">Cabluri electrice</span></td><td></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Power cables with extruded insulation and their accessories for rated voltages above 36 kV (Um = 42 kV) up to 150 kV (Um = 170 kV)</span><span id="ro">Cabluri de energie cu izolaţie extrudată şi accesoriile lor, de tensiune nominală peste 36 kV (Um=42 kV) şi până la 150 kV (Um=170 kV)</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >SR HD 632 S3:2017</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Distribution cables with extruded insulation for rated voltages from 3,6/6 (7,2) kV up to and including 20,8/36 (42) kV</span><span id="ro">Cabluri de distribuţie cu izolaţie extrudată de tensiune nominală de la 3,6/6 (7,2) kV până la 20,8/36 (42) kV, inclusiv</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >SR HD 620 S2:2010 + SR HD 620 S3:2023</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Power cables having rated voltages from 3,6/6 (7,2) kV up to and including 20,8/36 (42) kV with special fire performance for use in power stations</span><span id="ro">Cabluri de energie de tensiune nominală de la 3,6/6 (7,2) kV până la 20,8/36 (42) kV inclusiv, cu comportare specială la foc, pentru utilizare în centralele electrice</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >SR HD 622 S1:2002 + SR HD 622 S1:2002/A1:2002 + SR HD 622 S1:2002/A2:2006</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Overhead distribution cables of rated voltage Uo/U(Um): 0,6/1 (1,2) kV</span><span id="ro">Cabluri de distribuţie aeriene, de tensiune nominală Uo/U (Um): 0,6 / 1 (1,2) kV</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >SR HD 626 S1:2001 + SR HD 626 S1:2001/A1:2002 + SR HD 626 S1:2001/A2:2003</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Distribution cables of rated voltage 0,6/1 kV</span><span id="ro">Cabluri de distribuţie de tensiune nominală 0,6/1 kV</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >SR HD 604 S1:2001 + SR HD 604 S1:2001/A1:2002 + SR HD 604 S1:2001/A2:2004 + SR HD 604 S1:2001/A3:2007</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Medium voltage impregnated paper insulated distribution cables</span><span id="ro">Cabluri de distribuţie de medie tensiune cu izolaţie de hârtie impregnată</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >SR HD 621 S1:2002 + SR HD 621 S1:2002/A1:2003 + SR HD 621 S1:2002/A1:2003</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">0,6/1 kV and 1,9/3,3 kV power cables with special fire performance for use in power stations </span><span id="ro">Cabluri de energie 0,6/1 kV şi 1,9/3,3 kV, cu comportare particulară la foc, pentru utilizare în centralele electrice</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >SR HD 604 S1:2001 + SR HD 604 S1:2001/A3:2006 + SR HD 604 S1:2001/A2:2003 + SR HD 604 S1:2001/A1:2002</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Rigid gas-insulated transmission lines ( GIL )</span><span id="ro">Linii de transport rigide, cu izolaţie gazoasă ( GIL )</span></td><td></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Rigid gas-insulated transmission lines for rated voltage above 52 kV</span><span id="ro">Linii de transport rigide, cu izolaţie gazoasă, pentru tensiuni nominale mai mari de 52 kV</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 62271-204:2012 + EN IEC 62271-204:2022</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Electrical Insulators</span><span id="ro">Izolatoare electrice</span></td><td></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Ceramic or glass insulators for overhead lines with a nominal voltage above 1 kV for a.c. systems</span><span id="ro">Izolatoare din material ceramic sau de sticlă pentru linii aeriene cu tensiune nominală mai mare de 1000 V - sisteme de curent alternativ</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 60383-1:2002</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Ceramic or glass insulators for overhead lines with a nominal voltage above 1 kV for d.c. systems</span><span id="ro">Izolatoare din material ceramic sau de sticlă pentru linii aeriene cu tensiunea nominală mai mare de 1 000 V - sisteme de curent continuu</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 61325:2004</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Hollow pressurized and unpressurized ceramic and glass insulators for use in electrical equipment with rated voltages greater than 1 000 V</span><span id="ro">Izolatoare tip carcasă cu sau fără presiune internă de material ceramic sau de sticlă, pentru utilizare în aparatajul electric cu tensiuni nominale mai mari de 1 000 V</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 62155:2004</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Composite line post insulators for A.C. systems with a nominal voltage greater than 1 000 V</span><span id="ro">Izolatoare compozite suport de linie cu soclu pentru sisteme de curent alternativ cu tensiune nominală mai mare de 1 000 V</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 61952:2008 + EN IEC 61952-1:2019</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Composite suspension and tension insulators for a.c. systems with a nominal voltage greater than 1 000 V</span><span id="ro">Izolatoare compozite de susţinere şi întindere pentru sistemele de curent alternativ cu tensiunea nominală mai mare de 1 000 V</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 61109:2009</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Surge arresters</span><span id="ro">Descărcătoare</span></td><td></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Metal-oxide surge arresters without gaps for a.c. systems</span><span id="ro">Descărcătoare cu oxid metalic fără eclator pentru reţele de c.a.</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 60099-4:2015</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Metal-oxide surge arresters with external series gap (EGLA) for overhead transmission and distribution lines of a.c. systems above 1 kV </span><span id="ro">Descărcătoare cu oxizi metalici cu eclator exterior în serie (EGLA) pentru linii aeriene de transport şi de distribuţie ale reţelelor de curent alternativ mai mari de 1 kV</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN IEC 60099-8:2018</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Metal-oxide surge arresters without gaps for HVDC converter stations</span><span id="ro">Descărcătoare cu oxid metalic fără eclator pentru staţiei de conversiune HVDC</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 60099-9:2015</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">High-voltage fuses</span><span id="ro">Siguranțe fuzibile de înaltă tensiune</span></td><td></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Current-limiting fuses</span><span id="ro">Siguranțe fuzibile limitatoare de curent</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN IEC 60282-1:2020</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">High-voltage switchgear</span><span id="ro">Întreruptoare Înaltă Tensiune</span></td><td></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Alternating current switches for rated voltages higher than 52 kV</span><span id="ro">Întreruptoare de curent alternativ pentru tensiuni nominale mai mari de 52 kV</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN IEC 62271-104:2020</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">High-voltage alternating current disconnecting circuit-breakers for rated voltages above 52 kV</span><span id="ro">Întreruptor-separator de înaltă tensiune şi de curent alternativ cu tensiuni nominale egale sau mai mari de 52 kV</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN IEC 62271-108:2020</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Alternating current switches for rated voltages above 1 kV up to and including 52 kV</span><span id="ro">Întreruptoare de curent alternativ pentru tensiuni normate mai mari de 1 kV și mai mici sau egale cu 52 kV</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN IEC 62271-103:2023</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Switches (mechanical) for rated voltages above 1 kV up to and including 52 kV</span><span id="ro">Întreruptoare (mecanice de sarcină) pentru tensiuni nominale mai mari de 1 kV şi mai mici sau egale cu 52 kV</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 62271-103:2012</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Alternating current fused circuit-switchers for rated voltages above 1 kV up to and including 52 kV</span><span id="ro">Întreruptoare de curent alternativ cu siguranțe fuzibile pentru tensiuni nominale mai mari de 1 kV și până la 52 kV inclusiv</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN IEC 62271-107:2020</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Alternating-current circuit-breakers</span><span id="ro">Întreruptoare de putere (disjunctoare) de curent alternativ</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 62271-100:2009/A1:2013 + EN 62271-100:2009/A2:2018 + EN IEC 62271-100:2021 + EN IEC 62271-100:2021/AC:2022 + EN IEC 62271-100:2021/AC:2023</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Alternating-current series capacitor by-pass switches</span><span id="ro">Întreruptoare pentru comutarea bateriilor de condensatoare serie de curent alternativ</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN IEC 62271-109:2019</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Alternating current switch-fuse combinations for rated voltages above 1 kV up to and including 52 kV </span><span id="ro">Combinații întreruptoare – siguranțe fuzibile de curent alternativ pentru tensiuni normate mai mari de 1 kV și mai mici sau egale cu 52 kV</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 62271-105:2013 + EN IEC 62271-105:2023</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">High-voltage contactors</span><span id="ro">Contactoare Înaltă Tensiune</span></td><td></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Alternating current contactors, contactor-based controllers and motor-starters</span><span id="ro">Contactoare de curent alternativ şi demaroare cu contactoare pentru motoare</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 62271-106:2012 + EN IEC 62271-106:2021</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Alternating current disconnectors and earthing switches</span><span id="ro">Separatoare şi separatoare de legare la pământ de curent alternativ</span></td><td></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Alternating current disconnectors and earthing switches</span><span id="ro">Separatoare şi separatoare de legare la pământ de curent alternativ</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN IEC 62271-102:2019 + EN IEC 62271-102:2019/A1:2022</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Alternating current high-speed earthing switches for secondary arc extinction on transmission lines</span><span id="ro">Separatoare rapide de legare la pământ, de curent alternativ, pentru stingerea arcului electric secundar pe liniile de transport al energiei electrice</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 62271-112:2014 + EN IEC 62271-112:2021</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Detectors and indicators</span><span id="ro">Detectoare şi indicatoare</span></td><td></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Phase comparator used with VDIS</span><span id="ro">Comparator de fază utilizat cu un sistem de detectare și indicare a prezenței/absenței tensiunii (VDIS)</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN IEC 62271-215:2021</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Digital interfaces based on IEC 61850</span><span id="ro">Interfeţe digitale bazate pe CEI 61850</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 62271-3:2015</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Voltage presence indicating systems for rated voltages above 1 kV and up to and including 52 kV</span><span id="ro">Sisteme indicatoare de prezenţă a tensiunii nominale mai mare de 1 kV şi mai mică sau egală cu 52 kV</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 62271-206:2011</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Cable terminations</span><span id="ro">Terminale cablu</span></td><td></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Fluid-filled and dry-type cable-terminations</span><span id="ro">Terminale de cablu de tip uscat şi umplute cu fluid</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN IEC 62271-209:2019 + EN IEC 62271-209:2019/A1:2022</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Enclosures</span><span id="ro">Carcase</span></td><td></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Gas-filled cast aluminium alloy enclosures</span><span id="ro"> Carcase turnate de aluminiu pentru aparataj de înaltă tensiune cu gaz sub presiune</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 50052:2017</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 	    
-    <tr><td><span id="en">Formed wire, concentric lay, stranded conductors for overhead electrical power lines EN 62219:2004</span><span id="ro">Conductoare cu sârme profilate cablate în straturi concentrice pentru linii electrice aeriene EN 62219:2004</span></td>
-    <td><span id="en">Supplier:-</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Round wire concentric lay stranded conductors for overhead electrical power lines EN 50182:2004 + EN 50182:2004/AC:2013 + EN 50182:2004/AC:2014</span><span id="ro">Conductoare cu sârme rotunde cablate în straturi concentrice pentru linii electrice aeriene EN 50182:2004 + EN 50182:2004/AC:2013 + EN 50182:2004/AC:2014</span></td>
-    <td><span id="en">Supplier:-</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Zinc coated steel wires conductors for overhead electrical power lines EN 50189:2002</span><span id="ro">Conductoare sârme de oţel zincate pentru linii electrice aeriene EN 50189:2002</span></td>
-    <td><span id="en">Supplier:-</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Round wire concentric lay overhead electrical stranded conductors SR CEI 61089:1996</span><span id="ro">Conductoare pentru linii aeriene cu sârme rotunde, cablate în straturi concentrice SR CEI 61089:1996</span></td>
-    <td><span id="en">Supplier:-</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Aluminium-clad steel wires for electrical purposes EN 61232:2002 + EN 61232:2002/A11:2002</span><span id="ro">Sârme de oţel acoperite cu aluminiu pentru utilizare electrică EN 61232:2002 + EN 61232:2002/A11:2002</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Coated or cladded metallic wire for concentric lay stranded conductors for overhead electrical power lines EN IEC 63248:2022</span><span id="ro">Sârmă metalică acoperită sau învelită pentru conductoare înfuniate în straturi concentrice pentru linii electrice aeriene EN IEC 63248:2022</span></td>
-    <td><span id="en">Supplier:-</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Aluminium-magnesium-silicon alloy wires for overhead electrical power lines  EN 50183:2002</span><span id="ro">Sârme de aliaj de aluminiu-magneziu-siliciu pentru linii electrice aeriene EN 50183:2002</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>	
-
-
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Power cables</span>
-	<span id="ro">Cabluri electrice</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
-
-	    
-    <tr><td><span id="en">Power cables with extruded insulation and their accessories for rated voltages above 36 kV (Um = 42 kV) up to 150 kV (Um = 170 kV) SR HD 632 S3:2017</span><span id="ro">Cabluri de energie cu izolaţie extrudată şi accesoriile lor, de tensiune nominală peste 36 kV (Um=42 kV) şi până la 150 kV (Um=170 kV) SR HD 632 S3:2017</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>	
-    <tr><td><span id="en">Distribution cables with extruded insulation for rated voltages from 3,6/6 (7,2) kV up to and including 20,8/36 (42) kV SR HD 620 S2:2010 + SR HD 620 S3:2023</span><span id="ro">Cabluri de distribuţie cu izolaţie extrudată de tensiune nominală de la 3,6/6 (7,2) kV până la 20,8/36 (42) kV, inclusiv SR HD 620 S2:2010 + SR HD 620 S3:2023</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>	
-    <tr><td><span id="en">Power cables having rated voltages from 3,6/6 (7,2) kV up to and including 20,8/36 (42) kV with special fire performance for use in power stations SR HD 622 S1:2002 + SR HD 622 S1:2002/A1:2002 + SR HD 622 S1:2002/A2:2006</span><span id="ro">Cabluri de energie de tensiune nominală de la 3,6/6 (7,2) kV până la 20,8/36 (42) kV inclusiv, cu comportare specială la foc, pentru utilizare în centralele electrice SR HD 622 S1:2002 + SR HD 622 S1:2002/A1:2002 + SR HD 622 S1:2002/A2:2006</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Overhead distribution cables of rated voltage Uo/U(Um): 0,6/1 (1,2) kV SR HD 626 S1:2001 + SR HD 626 S1:2001/A1:2002 + SR HD 626 S1:2001/A2:2003</span><span id="ro">Cabluri de distribuţie aeriene, de tensiune nominală Uo/U (Um): 0,6 / 1 (1,2) kV SR HD 626 S1:2001 + SR HD 626 S1:2001/A1:2002 + SR HD 626 S1:2001/A2:2003</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>	   
-    <tr><td><span id="en">Distribution cables of rated voltage 0,6/1 kV SR HD 604 S1:2001 + SR HD 604 S1:2001/A1:2002 + SR HD 604 S1:2001/A2:2004 + SR HD 604 S1:2001/A3:2007</span><span id="ro">Cabluri de distribuţie de tensiune nominală 0,6/1 kV SR HD 604 S1:2001 + SR HD 604 S1:2001/A1:2002 + SR HD 604 S1:2001/A2:2004 + SR HD 604 S1:2001/A3:2007</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Medium voltage impregnated paper insulated distribution cables SR HD 621 S1:2002 + SR HD 621 S1:2002/A1:2003 + SR HD 621 S1:2002/A1:2003</span><span id="ro">Cabluri de distribuţie de medie tensiune cu izolaţie de hârtie impregnată SR HD 621 S1:2002 + SR HD 621 S1:2002/A1:2003 + SR HD 621 S1:2002/A1:2003</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">0,6/1 kV and 1,9/3,3 kV power cables with special fire performance for use in power stations SR HD 604 S1:2001 + SR HD 604 S1:2001/A3:2006 + SR HD 604 S1:2001/A2:2003 + SR HD 604 S1:2001/A1:2002</span><span id="ro">Cabluri de energie 0,6/1 kV şi 1,9/3,3 kV, cu comportare particulară la foc, pentru utilizare în centralele electrice SR HD 604 S1:2001 + SR HD 604 S1:2001/A3:2006 + SR HD 604 S1:2001/A2:2003 + SR HD 604 S1:2001/A1:2002</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Rigid gas-insulated transmission lines ( GIL )</span>
-	<span id="ro">Linii de transport rigide, cu izolaţie gazoasă ( GIL )</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
-    <tr><td><span id="en">Rigid gas-insulated transmission lines for rated voltage above 52 kV EN 62271-204:2012 + EN IEC 62271-204:2022</span><span id="ro">Linii de transport rigide, cu izolaţie gazoasă, pentru tensiuni nominale mai mari de 52 kV EN 62271-204:2012 + EN IEC 62271-204:2022</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Electrical Insulators</span>
-	<span id="ro">Izolatoare electrice</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
-    <tr><td><span id="en">Ceramic or glass insulators for overhead lines with a nominal voltage above 1 kV for a.c. systems SR EN 60383-1:2002</span><span id="ro">Izolatoare din material ceramic sau de sticlă pentru linii aeriene cu tensiune nominală mai mare de 1000 V - sisteme de curent alternativ SR EN 60383-1:2002</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Ceramic or glass insulators for overhead lines with a nominal voltage above 1 kV for d.c. systems SR EN 61325:2004</span><span id="ro">Izolatoare din material ceramic sau de sticlă pentru linii aeriene cu tensiunea nominală mai mare de 1 000 V - sisteme de curent continuu SR EN 61325:2004</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Hollow pressurized and unpressurized ceramic and glass insulators for use in electrical equipment with rated voltages greater than 1 000 V SR EN 62155:2004</span><span id="ro">Izolatoare tip carcasă cu sau fără presiune internă de material ceramic sau de sticlă, pentru utilizare în aparatajul electric cu tensiuni nominale mai mari de 1 000 V SR EN 62155:2004</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Composite line post insulators for A.C. systems with a nominal voltage greater than 1 000 V SR EN 61952:2008 + SR EN IEC 61952-1:2019</span><span id="ro">Izolatoare compozite suport de linie cu soclu pentru sisteme de curent alternativ cu tensiune nominală mai mare de 1 000 V SR EN 61952:2008 + SR EN IEC 61952-1:2019</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Hollow pressurized and unpressurized ceramic and glass insulators for use in electrical equipment with rated voltages greater than 1 000 V SR EN 61109:2009</span><span id="ro">Izolatoare compozite de susţinere şi întindere pentru sistemele de curent alternativ cu tensiunea nominală mai mare de 1 000 V SR EN 61109:2009</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Surge arresters</span>
-	<span id="ro">Descărcătoare</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
-    <tr><td><span id="en">Metal-oxide surge arresters without gaps for a.c. systems EN 60099-4:2015</span><span id="ro">Descărcătoare cu oxid metalic fără eclator pentru reţele de c.a. EN 60099-4:2015</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Metal-oxide surge arresters with external series gap (EGLA) for overhead transmission and distribution lines of a.c. systems above 1 kV EN IEC 60099-8:2018</span><span id="ro">Descărcătoare cu oxizi metalici cu eclator exterior în serie (EGLA) pentru linii aeriene de transport şi de distribuţie ale reţelelor de curent alternativ mai mari de 1 kV EN IEC 60099-8:2018</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Metal-oxide surge arresters without gaps for HVDC converter stations EN 60099-9:2015</span><span id="ro">Descărcătoare cu oxid metalic fără eclator pentru staţiei de conversiune HVDC EN 60099-9:2015</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-
-</tr>    
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">High-voltage fuses</span>
-	<span id="ro">Siguranțe fuzibile de înaltă tensiune</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
-    <tr><td><span id="en">Current-limiting fuses EN IEC 60282-1:2020</span><span id="ro">Siguranțe fuzibile limitatoare de curent EN IEC 60282-1:2020</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-
-</tr>    
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">High-voltage switchgear</span>
-	<span id="ro">Întreruptoare Înaltă Tensiune</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
-    <tr><td><span id="en">Alternating current switches for rated voltages higher than 52 kV EN IEC 62271-104:2020</span><span id="ro">Întreruptoare de curent alternativ pentru tensiuni nominale mai mari de 52 kV EN IEC 62271-104:2020</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">High-voltage alternating current disconnecting circuit-breakers for rated voltages above 52 kV EN IEC 62271-108:2020</span><span id="ro">Întreruptor-separator de înaltă tensiune şi de curent alternativ cu tensiuni nominale egale sau mai mari de 52 kV EN IEC 62271-108:2020</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Alternating current switches for rated voltages above 1 kV up to and including 52 kV EN IEC 62271-103:2023</span><span id="ro">Întreruptoare de curent alternativ pentru tensiuni normate mai mari de 1 kV și mai mici sau egale cu 52 kV EN IEC 62271-103:2023</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Switches (mechanical) for rated voltages above 1 kV up to and including 52 kV EN 62271-103:2012</span><span id="ro">Întreruptoare (mecanice de sarcină) pentru tensiuni nominale mai mari de 1 kV şi mai mici sau egale cu 52 kV EN 62271-103:2012</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Alternating current fused circuit-switchers for rated voltages above 1 kV up to and including 52 kV EN IEC 62271-107:2020</span><span id="ro">Întreruptoare de curent alternativ cu siguranțe fuzibile pentru tensiuni nominale mai mari de 1 kV și până la 52 kV inclusiv EN IEC 62271-107:2020</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Alternating-current circuit-breakers EN 62271-100:2009/A1:2013 + EN 62271-100:2009/A2:2018 + EN IEC 62271-100:2021 + EN IEC 62271-100:2021/AC:2022 + EN IEC 62271-100:2021/AC:2023</span><span id="ro">Întreruptoare de putere (disjunctoare) de curent alternativ EN 62271-100:2009/A1:2013 + EN 62271-100:2009/A2:2018 + EN IEC 62271-100:2021 + EN IEC 62271-100:2021/AC:2022 + EN IEC 62271-100:2021/AC:2023</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Alternating-current series capacitor by-pass switches EN IEC 62271-109:2019</span><span id="ro">Întreruptoare pentru comutarea bateriilor de condensatoare serie de curent alternativ EN IEC 62271-109:2019</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Alternating current switch-fuse combinations for rated voltages above 1 kV up to and including 52 kV EN 62271-105:2013 + EN IEC 62271-105:2023</span><span id="ro">Combinații întreruptoare – siguranțe fuzibile de curent alternativ pentru tensiuni normate mai mari de 1 kV și mai mici sau egale cu 52 kV EN 62271-105:2013 + EN IEC 62271-105:2023</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-
-</tr>    
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">High-voltage switchgear</span>
-	<span id="ro">Contactoare Înaltă Tensiune</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
-    <tr><td><span id="en">Alternating current contactors, contactor-based controllers and motor-starters EN 62271-106:2012 + EN IEC 62271-106:2021</span><span id="ro">Contactoare de curent alternativ şi demaroare cu contactoare pentru motoare EN 62271-106:2012 + EN IEC 62271-106:2021</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-
-</tr>    
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Alternating current disconnectors and earthing switches</span>
-	<span id="ro">Separatoare şi separatoare de legare la pământ de curent alternativ</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
-    <tr><td><span id="en">Alternating current disconnectors and earthing switches EN IEC 62271-102:2019 + EN IEC 62271-102:2019/A1:2022</span><span id="ro">Separatoare şi separatoare de legare la pământ de curent alternativ EN IEC 62271-102:2019 + EN IEC 62271-102:2019/A1:2022</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Alternating current high-speed earthing switches for secondary arc extinction on transmission lines EN 62271-112:2014 + EN IEC 62271-112:2021</span><span id="ro">Separatoare rapide de legare la pământ, de curent alternativ, pentru stingerea arcului electric secundar pe liniile de transport al energiei electrice EN 62271-112:2014 + EN IEC 62271-112:2021</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-
-</tr>    
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Detectors and indicators</span>
-	<span id="ro">Detectoare şi indicatoare</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>	    
-    <tr><td><span id="en">Phase comparator used with VDIS EN IEC 62271-215:2021</span><span id="ro">Comparator de fază utilizat cu un sistem de detectare și indicare a prezenței/absenței tensiunii (VDIS) EN IEC 62271-215:2021</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Digital interfaces based on IEC 61850 EN 62271-3:2015</span><span id="ro">Interfeţe digitale bazate pe CEI 61850 EN 62271-3:2015</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Voltage presence indicating systems for rated voltages above 1 kV and up to and including 52 kV EN 62271-206:2011</span><span id="ro">Sisteme indicatoare de prezenţă a tensiunii nominale mai mare de 1 kV şi mai mică sau egală cu 52 kV EN 62271-206:2011</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-	    
-
-</tr>    
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Cable terminations</span>
-	<span id="ro">Terminale cablu</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
-    <tr><td><span id="en">Fluid-filled and dry-type cable-terminations EN IEC 62271-209:2019 + EN IEC 62271-209:2019/A1:2022</span><span id="ro">Terminale de cablu de tip uscat şi umplute cu fluid EN IEC 62271-209:2019 + EN IEC 62271-209:2019/A1:2022</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-
-</tr>    
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Enclosures</span>
-	<span id="ro">Carcase</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
-    <tr><td><span id="en">Fluid-filled and dry-type cable-terminations EN 50052:2017</span><span id="ro">Terminale de cablu de tip uscat şi umplute cu fluid EN 50052:2017</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-
-	    
-	    
-</tr>    
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Electrical steel sheets</span>
-	<span id="ro">Table şi benzi din oţel electrotehnic</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
-    <tr><td><span id="en">Cold rolled non-oriented electrical steel sheet and strip delivered in the fully processed state EN 10106:2016</span><span id="ro">Table şi benzi din oţel electrotehnic cu grăunţi neorientaţi laminate la rece şi livrate în stare finită EN 10106:2016</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Grain-oriented electrical steel sheet and strip delivered in the fully processed state EN 10107:2022</span><span id="ro">Table şi benzi din oţel magnetic cu grăunţi orientaţi livrate în stare finită EN 10107:2022</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>
-    <tr><td><span id="en">Cold rolled electrical non-alloy and alloy steel sheet and strip delivered in the semi-processed state EN 10341:2006</span><span id="ro">Table şi benzi laminate la rece din oţeluri nealiate şi aliate pentru electrotehnică livrate în stare semifinită EN 10341:2006</span></td>
-    <td><span id="en">Supplier: -</span><span id="ro">Furnizor: -</span></td>
-    <td>-</td></tr>	
-
 
 
 </tbody>
