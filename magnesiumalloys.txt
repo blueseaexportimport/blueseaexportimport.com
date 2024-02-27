@@ -1,47 +1,27 @@
 
+
 <tbody>
 
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Magnesium alloys</span>
-	<span id="ro">Aliaje magneziu</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>	  
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Magnesium alloy grade</span><span id="ro">Aliaj magneziu</span></td>
+<td style="color:black;">ZAAA00001</td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 1753:2020</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 mm x 000.00 mm x 000.00 mm</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">Sheet</span><span id="ro">Tabla</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Magnesium alloy grade</span><span id="ro">Aliaj magneziu</span></td>
+<td style="color:black;">ZAAA00001</td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 12421:2017</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 mm x 000.00 mm x 000.00 mm</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">Sheet</span><span id="ro">Tabla</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-
-<tr>
-  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
-  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
-  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
-  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
-  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
-  <th><span id="en">Price</span><span id="ro">Pret</span></th>
-</tr>
-
-<tr><td>MGAAA00001</td><td>-</td><td>EN 1753:2020</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><td>MGABA00001</td><td>-</td><td>EN 12421:2017</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><td>MGACA00001</td><td>-</td><td>EN 12438:2018</td><td>-</td><td>-</td><td>-</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Magnesium alloy grade</span><span id="ro">Aliaj magneziu</span></td>
+<td style="color:black;">ZAAA00001</td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 12438:2018</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 mm x 000.00 mm x 000.00 mm</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">Sheet</span><span id="ro">Tabla</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 </tbody>
 
