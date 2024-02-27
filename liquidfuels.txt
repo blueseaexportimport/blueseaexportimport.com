@@ -1,6 +1,18 @@
 <tbody>
-   <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-   <tr><td><span id="en">Biodiesel EN 14214</span><span id="ro">Biodiesel lichid EN 14214</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / L</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
-   <tr><td><span id="en">Hydrotreated Vegetable Oil (HVO) EN 15940</span><span id="ro">Ulei vegetal hidrotratat (UVH) EN 15940</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / L</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
-   <tr><td><span id="en">Bioethanol EN 15376</span><span id="ro">Bioetanol EN 15376</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / L</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	     
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Biodiesel</span><span id="ro">Biodiesel lichid</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >EN 14214</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / L</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Hydrotreated Vegetable Oil</span><span id="ro">Ulei vegetal hidrotratat</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >EN 15940</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / L</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Bioethanol</span><span id="ro">Bioetanol</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >EN 15376</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / L</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+     
 </tbody>
