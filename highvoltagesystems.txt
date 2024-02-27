@@ -295,15 +295,7 @@
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Enclosures</span><span id="ro">Carcase</span></td><td></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:black;"><span id="en">Gas-filled cast aluminium alloy enclosures</span><span id="ro"> Carcase turnate de aluminiu pentru aparataj de înaltă tensiune cu gaz sub presiune</span></td></tr>
-<tr><td>Standard</td><td style="color:#39ff14;" >EN 50052:2017</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 m x 000.00 mm</td></tr>
-<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="ro">-</span></td></tr>
-<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-	    
+    
 
 
 </tbody>
