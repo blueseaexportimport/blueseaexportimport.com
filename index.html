@@ -159,8 +159,6 @@ $(document).ready(function () {
    });
   // Grab solid fuels info on click end
 
-
-	
   // Grab liquid fuels info on click start
   $("#liquidfuelsbtn").click(function() {
     if ($("#liquidfuels").hasClass("clickedliquidfuels")) {
@@ -468,6 +466,24 @@ $(document).ready(function () {
    });
   // Grab simple organic compunds supplies info on click end
 
+
+  // Grab building materials info on click start
+  $("#buildingmaterialsbtn").click(function() {
+    if ($("#buildingmaterials").hasClass("clickedbuildingmaterials")) {
+        // already been clicked once, hide it
+        $("#buildingmaterials").html("");
+        $( "#buildingmaterials" ).removeClass( "clickedbuildingmaterials" )
+    }else {
+        // first time this is clicked, mark it
+        $("#buildingmaterials").addClass("clickedbuildingmaterials");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/buildingmaterials.txt", success: function(result){
+         $("#buildingmaterials").html(result);
+        }});
+    }
+   });
+  // Grab building materials info on click end
+
+	
 
   // Grab electric engines info on click start
   $("#electricenginesbtn").click(function() {
@@ -1155,44 +1171,11 @@ $(document).ready(function () {
    <h5 class="categoryaccordion" ><span id="en">Ciment factory</span><span id="ro">Fabrică ciment</span></h5> 
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="buildingmaterialsbtn" ><span id="en">Building materials</span><span id="ro">Materiale construcții</span></h5> 
-
    <table id="buildingmaterials" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table>
 
-	   
-   <table>
-   <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-       <tr><td><span id="en">Portland cement CEM I EN 197-1:2011</span><span id="ro">Ciment portland CEM I EN 197-1:2011</span></td><td>- </td><td>-</td></tr>   
-       <tr><td><span id="en">Portland slag cement CEM II/A-S EN 197-1:2011</span><span id="ro">Ciment portland cu zgură CEM I EN 197-1:2011</span></td><td>- </td><td>-</td></tr>   
-       <tr><td><span id="en">Portland silica fume cement CEM II/A-D EN 197-1:2011</span><span id="ro">Ciment portland cu silice ultrafină CEM II/A-D EN 197-1:2011</span></td><td>- </td><td>-</td></tr>   
-       <tr><td><span id="en">Portland pozzolana cement CEM II/A-P EN 197-1:2011</span><span id="ro">Ciment portland cu pozzolană CEM II/A-P EN 197-1:2011</span></td><td>- </td><td>-</td></tr>   
-       <tr><td><span id="en">Portland pozzolana cement CEM II/B-P EN 197-1:2011</span><span id="ro">Ciment portland cu pozzolană CEM II/B-P 197-1:2011</span></td><td>- </td><td>-</td></tr>   
-       <tr><td><span id="en">Portland pozzolana cement CEM II/A-Q EN 197-1:2011</span><span id="ro">Ciment portland cu pozzolană CEM II/A-Q EN 197-1:2011</span></td><td>- </td><td>-</td></tr>   
-       <tr><td><span id="en">Portland pozzolana cement CEM II/B-Q EN 197-1:2011</span><span id="ro">Ciment portland cu pozzolană CEM II/B-Q EN 197-1:2011</span></td><td>- </td><td>-</td></tr>   
-       <tr><td><span id="en">Portland fly ash cement CEM II/A-V EN 197-1:2011</span><span id="ro">Ciment portland cu cenușă zburătoare CEM II/A-V  EN 197-1:2011</span></td><td>- </td><td>-</td></tr>   
-       <tr><td><span id="en">Portland fly ash cement CEM II/B-V EN 197-1:2011</span><span id="ro">Ciment portland cu cenușă zburătoare CEM II/B-V 197-1:2011</span></td><td>- </td><td>-</td></tr>   
-       <tr><td><span id="en">Portland fly ash cement CEM II/A-W EN 197-1:2011</span><span id="ro">Ciment portland cu cenușă zburătoare CEM II/A-W EN 197-1:2011</span></td><td>- </td><td>-</td></tr>   
-       <tr><td><span id="en">Portland fly ash cement CEM II/B-W EN 197-1:2011</span><span id="ro">Ciment portland cu cenușă zburătoare CEM II/B-W EN 197-1:2011</span></td><td>- </td><td>-</td></tr>   
-       <tr><td><span id="en">Portland burnt shale cement CEM II/A-T EN 197-1:2011</span><span id="ro">Ciment portland cu șist calcinat CEM II/A-T EN 197-1:2011</span></td><td>- </td><td>-</td></tr>   
-       <tr><td><span id="en">Portland burnt shale cement CEM II/B-T EN 197-1:2011</span><span id="ro">Ciment portland cu șist calcinat CEM II/B-T EN 197-1:2011</span></td><td>- </td><td>-</td></tr>   
-       <tr><td><span id="en">Portland limestone cement CEM II/A-L EN 197-1:2011</span><span id="ro">Ciment portland cu calcar CEM II/A-L EN 197-1:2011</span></td><td>- </td><td>-</td></tr>   
-       <tr><td><span id="en">Portland limestone cement CEM II/B-L EN 197-1:2011</span><span id="ro">Ciment portland cu calcar CEM II/B-L EN 197-1:2011</span></td><td>- </td><td>-</td></tr>   
-       <tr><td><span id="en">Portland limestone cement CEM II/A-LL EN 197-1:2011</span><span id="ro">Ciment portland cu calcar CEM II/A-LL 197-1:2011</span></td><td>- </td><td>-</td></tr>   
-       <tr><td><span id="en">Portland limestone cement CEM II/B-LL EN 197-1:2011</span><span id="ro">Ciment portland cu calcar CEM II/B-LL EN 197-1:2011</span></td><td>- </td><td>-</td></tr>   
-       <tr><td><span id="en">Portland-composite cement CEM II/A-M EN 197-1:2011</span><span id="ro">Ciment portland-compozit CEM II/A-M EN 197-1:2011</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Portland-composite cement CEM II/B-M EN 197-1:2011</span><span id="ro">Ciment portland-compozit CEM II/B-M EN 197-1:2011</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Blastfurnace cement CEM III/A EN 197-1:2011</span><span id="ro">Ciment de furnal CEM/A III EN 197-1:2011</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Blastfurnace cement CEM III/B EN 197-1:2011</span><span id="ro">Ciment de furnal CEM/B III EN 197-1:2011</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Blastfurnace cement CEM III/C EN 197-1:2011</span><span id="ro">Ciment de furnal CEM/C III EN 197-1:2011</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Pozzolanic cement CEM IV/A EN 197-1:2011</span><span id="ro">Ciment pozzolanic CEM IV/A EN 197-1:2011</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Pozzolanic cement CEM IV/B EN 197-1:2011</span><span id="ro">Ciment pozzolanic CEM IV/B EN 197-1:2011</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Composite cement CEM V/A EN 197-1:2011</span><span id="ro">Ciment compozit CEM V/A EN 197-1:2011</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Composite cement CEM V/B EN 197-1:2011</span><span id="ro">Ciment compozit CEM V/B EN 197-1:2011</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Non-standard - Rock-based / MK-geopolymer cement</span><span id="ro">Non-standard - Ciment pe bază de rocă / MK-geopolymer</span></td><td><span id="en">For decorative use only</span><span id="en">Numai pentru uz decorativ</span></td><td>-</td></tr>
-       <tr><td><span id="en">Non-standard - Slag / fly ash-based geopolymer cement</span><span id="ro">Non-standard - Ciment geopolimer pe bază de zgură / cenuşă zburătoare</span></td><td><span id="en">For decorative use only</span><span id="en">Numai pentru uz decorativ</span></td><td>-</td></tr>
-   </table>
 	   
    <h5 class="categoryaccordion" ><span id="en">Screeds materials</span><span id="ro">Materiale pentru șape</span></h5>    
    <div class="rowbin" >-</div> 	
