@@ -1,9 +1,5 @@
 <tbody>
   
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:black;"><span id="en">Kaolin for fine ceramics industry</span><span id="ro">Caolin fin pentru industria ceramicii</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >SR 9217:2012</td></tr>
-<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000.00 RON / 15kg</td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
 <td style="color:black;"><span id="en">Kaolin for fine ceramics industry</span><span id="ro">Caolin fin pentru industria ceramicii</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >SR 9217:2012</td></tr>
