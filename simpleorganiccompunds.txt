@@ -9,7 +9,7 @@
   <th><span id="en">Purity</span><span id="ro">Puritate</span></th>
   <th><span id="en">Price</span><span id="ro">Pret</span></th>
 </tr>
-<tr><td>ICSAAA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Fuller's earth</span><span id="ro">Pământul lui Fuller</span></td><td>8031-18-3</td><td>non standard</td><td>min. 99.99%</td><td>-</td></tr>
+<tr><td>OCSAAAAAAA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Fuller's earth</span><span id="ro">Pământul lui Fuller</span></td><td>8031-18-3</td><td>non standard</td><td>min. 99.99%</td><td>-</td></tr>
 <tr><td>OCSAAAAAAA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Stearin</span><span id="ro">Stearină</span></td><td>555-43-1</td><td>STAS 2618-85</td><td>min. 99.99%</td><td>-</td></tr>
 <tr><td>OCSABAAAAA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Methyl cellulose</span><span id="ro">Metilceluloză</span></td><td>9004-67-5</td><td>STAS 10516-76</td><td>min. 99.99%</td><td>-</td></tr>
 <tr><td>OCSACAAAAA00001</td><td><span id="en">Liquid</span><span id="ro">Lichid</span></td><td><span id="en">Methanol</span><span id="ro">Metanol</span></td><td>67-56-1</td><td>STAS 6552-83</td><td>min. 99.99%</td><td>-</td></tr>
