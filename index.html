@@ -516,24 +516,21 @@ $(document).ready(function () {
    });
   // Grab building materials info on click end
 
-
-	
-
-  // Grab electric engines info on click start
-  $("#electricenginesbtn").click(function() {
-    if ($("#electricengines").hasClass("clickedelectricengines")) {
+  // Grab ceramics and glass materials info on click start
+  $("#ceramicsandglassmaterialsbtn").click(function() {
+    if ($("#ceramicsandglassmaterials").hasClass("clickedceramicsandglassmaterials")) {
         // already been clicked once, hide it
-        $("#electricengines").html("");
-        $( "#electricengines" ).removeClass( "clickedelectricengines" )
+        $("#ceramicsandglassmaterials").html("");
+        $( "#ceramicsandglassmaterials" ).removeClass( "clickedceramicsandglassmaterials" )
     }else {
         // first time this is clicked, mark it
-        $("#electricengines").addClass("clickedelectricengines");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/electricengines.txt", success: function(result){
-         $("#electricengines").html(result);
+        $("#ceramicsandglassmaterials").addClass("clickedelectricengines");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/ceramicsandglassmaterials.txt", success: function(result){
+         $("#ceramicsandglassmaterials").html(result);
         }});
     }
    });
-  // Grab electric engines info on click end
+  // Grab ceramics and glass materials info on click end
 
   // Grab personal care - body and skin info on click start
   $("#personalcarebodyandskinbtn").click(function() {
@@ -981,7 +978,12 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>L. GLASS AND MIRRORS</b></span><span id="ro"><b>L. STICLĂ ȘI OGLINZI</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>L. CERAMICS, GLASS AND MIRRORS</b></span><span id="ro"><b>L. CERAMICĂ, STICLĂ ȘI OGLINZI</b></span></button><div class="catalogpanel">
+   <h5 class="categoryaccordion" id="ceramicsandglassmaterials" ><span id="en">Ceramics, glass and mirrors materials</span><span id="ro">Materiale ceramică, sticlă și oglinzi</span></h5>    	
+   <table id="ceramicsandglassmaterials" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
    <h5 class="categoryaccordion" ><span id="en">Glassmaking equipment and tools</span><span id="ro">Echipamente și unelte pentru fabricarea sticlei</span></h5>    	
    <div class="rowbin" >-</div> 
    <h5 class="categoryaccordion" ><span id="en">Glass containers factory</span><span id="ro">Fabrică recipiente din sticlă</span></h5> 
@@ -1000,6 +1002,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Mirrors</span><span id="ro">Oglinzi</span></h5>    	
    <div class="rowbin" >-</div>
+   <h5 class="categoryaccordion" ><span id="en">Industrial ceramics</span><span id="ro">Ceramică industrială</span></h5> 
+   <div class="rowbin" >-</div>
+   <h5 class="categoryaccordion" ><span id="en">Ornamental ceramics</span><span id="ro">Ceramică ornamentală</span></h5>    	
+   <div class="rowbin" >-</div>
+
    </div></li><!--END SECTION-->
 
   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>M. TEXTILES, LEATHER AND FURS</b></span><span id="ro"><b>M. TEXTILE, PIELE ȘI BLĂNURI</b></span></button><div class="catalogpanel">
