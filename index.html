@@ -468,6 +468,23 @@ $(document).ready(function () {
 
 
   // Grab building materials info on click start
+  $("#aggregatesbtn").click(function() {
+    if ($("#aggregates").hasClass("clickedaggregates")) {
+        // already been clicked once, hide it
+        $("#aggregates").html("");
+        $( "#aggregates" ).removeClass( "clickedaggregates" )
+    }else {
+        // first time this is clicked, mark it
+        $("#aggregates").addClass("clickedbricks");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/aggregates.txt", success: function(result){
+         $("#bricks").html(result);
+        }});
+    }
+   });
+  // Grab building materials info on click end
+
+
+  // Grab building materials info on click start
   $("#buildingmaterialsbtn").click(function() {
     if ($("#buildingmaterials").hasClass("clickedbuildingmaterials")) {
         // already been clicked once, hide it
@@ -1178,11 +1195,15 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 	   	   
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>P. CONSTRUCTION MATERIALS (4)</b></span> <span id="ro"><b>P. MATERIALE DE CONSTRUCȚII (4)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>P. CONSTRUCTION MATERIALS (8)</b></span> <span id="ro"><b>P. MATERIALE DE CONSTRUCȚII (8)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" ><span id="en">Construction machinery</span><span id="ro">Utilaje construcții</span></h5> 
    <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" ><span id="en">Construction Aggregates</span><span id="ro">Agregate construcții</span></h5> 
-   <div class="rowbin" >-</div>
+   <h5 class="categoryaccordion" id="aggregatesbtn" ><span id="en">Construction Aggregates</span><span id="ro">Agregate construcții</span></h5> 
+   <table id="aggregates" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>
+	   
    <h5 class="categoryaccordion" ><span id="en">Brick factory</span><span id="ro">Fabrică cărămizi</span></h5> 
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Cement factory</span><span id="ro">Fabrică ciment</span></h5> 
