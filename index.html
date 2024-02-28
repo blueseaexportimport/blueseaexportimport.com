@@ -483,6 +483,23 @@ $(document).ready(function () {
    });
   // Grab building materials info on click end
 
+  // Grab building materials info on click start
+  $("#bricksbtn").click(function() {
+    if ($("#bricks").hasClass("clickedbricks")) {
+        // already been clicked once, hide it
+        $("#bricks").html("");
+        $( "#bricks" ).removeClass( "clickedbricks" )
+    }else {
+        // first time this is clicked, mark it
+        $("#bricks").addClass("clickedbricks");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/bricks.txt", success: function(result){
+         $("#bricks").html(result);
+        }});
+    }
+   });
+  // Grab building materials info on click end
+
+
 	
 
   // Grab electric engines info on click start
@@ -1161,7 +1178,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 	   	   
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>P. CONSTRUCTION MATERIALS</b></span> <span id="ro"><b>P. MATERIALE DE CONSTRUCȚII</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>P. CONSTRUCTION MATERIALS (4)</b></span> <span id="ro"><b>P. MATERIALE DE CONSTRUCȚII (4)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" ><span id="en">Construction machinery</span><span id="ro">Utilaje construcții</span></h5> 
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Construction Aggregates</span><span id="ro">Agregate construcții</span></h5> 
@@ -1197,26 +1214,11 @@ $(document).ready(function () {
    <h5 class="categoryaccordion" ><span id="en">Precast concrete</span><span id="ro">Prefabricate beton</span></h5> 
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="bricksbtn" ><span id="en">Bricks</span><span id="ro">Cărămizi</span></h5>    
-
    <table id="bricks" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table>
 
-	   
-   <table>
-   <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
-   <tr><td><span id="en">Burnt clay brick EN 771-1+A1:2015</span><span id="ro">Cărămidă arsă EN 771-1+A1:2015</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td></tr>  	   
-   <tr><td><span id="en">Calcium silicate brick EN 771-2+A1:2015</span><span id="ro">Cărămidă silico-calcar EN 771-2+A1:2015</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td></tr>  	   
-   <tr><td><span id="en">Aggregate concrete brick EN 771-3+A1:2015</span><span id="ro">Cărămidă beton cu agregate EN 771-3+A1:2015</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td></tr>  	   
-   <tr><td><span id="en">Autoclaved aerated concrete brick EN 771-4+A1:2015</span><span id="ro">Cărămidă beton celular autoclavizat EN 771-4+A1:2015</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td></tr>  	   
-   <tr><td><span id="en">Manufactured stone brick EN 771-5+A1:2015</span><span id="ro">Cărămidă piatră artificială EN 771-5+A1:2015</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td></tr>  	   
-   <tr><td><span id="en">Natural stone brick EN 771-6+A1:2015</span><span id="ro">Cărămidă piatră naturală EN 771-6+A1:2015</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON</div><span id="en">VAT not included</span><span id="ro">TVA nu este inclus</span></td></tr>  	   
-   </table>
-
-
-
-	   
    <h5 class="categoryaccordion" ><span id="en">Roofs and Gutter Systems</span><span id="ro">Acoperișuri, Jgheaburi și Burlane</span></h5>    
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Insulation Materials</span><span id="ro">Materiale Pentru Izolat</span></h5>    
