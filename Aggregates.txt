@@ -1,7 +1,33 @@
 <tbody>
 
+
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:black;"><span id="en">Limestone for lime</span><span id="ro">Zgură granulată de furnal măcinată pentru utilizare în beton, mortar şi pastă</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >STAS 5938-75</td></tr>
+<td style="color:black;"><span id="en">Raw limestone rock aggregate for marine - fluvial use</span><span id="ro">Calcar brut pentru anrocamente</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >EN 13242+A1:2008</td></tr>
+<tr><td><span id="en">Size:</span><span id="ro">Mărime:</span></td><td style="color:#39ff14;" >0 - 3000 kg</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >39 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Limestone residue rock for construction use only</span><span id="ro">Calcar subgabaritic care se poate folosi doar în construcţii</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >EN 13242+A1:2008</td></tr>
+<tr><td><span id="en">Size:</span><span id="ro">Mărime:</span></td><td style="color:#39ff14;" >0 - 40mm</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >45 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Limestone residue rock for construction use only</span><span id="ro">Calcar subgabaritic care se poate folosi doar în construcţii</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >EN 13242+A1:2008</td></tr>
+<tr><td><span id="en">Size:</span><span id="ro">Mărime:</span></td><td style="color:#39ff14;" >10 - 40mm</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >47 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Calibrated limestone for construction use only</span><span id="ro">Calcar calibrat care se poate folosi doar în construcţii</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >EN 13242+A1:2008</td></tr>
+<tr><td><span id="en">Size:</span><span id="ro">Mărime:</span></td><td style="color:#39ff14;" >40-80mm</td></tr>
+<tr><td><span id="en">Size:</span><span id="ro">Mărime:</span></td><td style="color:#39ff14;" >80-160mm</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >115 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Limestone for lime</span><span id="ro">Calcar pentru var</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >STAS 5938-75</td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000.00 RON / 15kg</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
