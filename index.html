@@ -477,7 +477,7 @@ $(document).ready(function () {
         // first time this is clicked, mark it
         $("#aggregates").addClass("clickedbricks");
          $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/aggregates.txt", success: function(result){
-         $("#bricks").html(result);
+         $("#aggregates").html(result);
         }});
     }
    });
