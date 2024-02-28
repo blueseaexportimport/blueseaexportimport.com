@@ -9,6 +9,7 @@
   <th><span id="en">Purity</span><span id="ro">Puritate</span></th>
   <th><span id="en">Price</span><span id="ro">Pret</span></th>
 </tr>
+<tr><td>ICSAAA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Limestone for soda industry</span><span id="ro">Calcar pentru industria sodei</span></td><td>471-34-1</td><td>STAS 11016-78</td><td>min. 99.99%</td><td>-</td></tr>
 <tr><td>ICSAAA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Aluminium hydroxide technical grade</span><span id="ro">Hidroxid de aluminiu tehnic</span></td><td>21645-51-2</td><td>STAS 8738-86</td><td>min. 99.99%</td><td>-</td></tr>
 <tr><td>ICSABA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Crystallized copper sulfate technical grade</span><span id="ro">Sulfat de cupru tehnic cristalizat</span></td><td>7758-98-7</td><td>STAS 341-80</td><td>min. 99.99%</td><td>-</td></tr>
 <tr><td>ICSACA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Zinc sulfate technical grade</span><span id="ro">Sulfat de zinc tehnic</span></td><td>7446-20-0</td><td>STAS 2367-88</td><td>min. 99.99%</td><td>-</td></tr>
