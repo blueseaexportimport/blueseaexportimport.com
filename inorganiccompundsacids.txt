@@ -9,9 +9,6 @@
   <th><span id="en">Purity</span><span id="ro">Puritate</span></th>
   <th><span id="en">Price</span><span id="ro">Pret</span></th>
 </tr>
-<tr><td>ICAABA00001</td><td><span id="en">Liquid</span><span id="ro">Lichid</span></td><td><span id="en">Hydrochloric acid tehnical grade</span><span id="ro">Acid clorhidric tehnic</span></td><td>7647-01-0</td><td>STAS 339-80</td><td>min. 99.99%</td><td>-</td></tr>
-<tr><td>ICAAGA00001</td><td><span id="en">Liquid</span><span id="ro">Lichid</span></td><td><span id="en">Purified acetic acid</span><span id="ro">Acid acetic purificat</span></td><td>7647-01-0</td><td>STAS 267-84</td><td>min. 99.99%</td><td>-</td></tr>
-<tr><td>ICAAHA00001</td><td><span id="en">Liquid</span><span id="ro">Lichid</span></td><td><span id="en">Acetic acid technical grade from synthesis</span><span id="ro">Acid acetic tehnic de sinteză</span></td><td>64-19-7</td><td>STAS 6365-88</td><td>min. 99.99%</td><td>-</td></tr>
 <tr><td>ICAAIA00001</td><td><span id="en">Liquid</span><span id="ro">Lichid</span></td><td><span id="en">Orthophosphoric acid</span><span id="ro">Acid ortofosforic</span></td><td>7664-38-2</td><td>STAS 10788-76</td><td>min. 99.99%</td><td>-</td></tr>
 </tbody>
 
