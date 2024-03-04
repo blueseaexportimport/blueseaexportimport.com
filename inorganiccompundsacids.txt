@@ -9,12 +9,7 @@
   <th><span id="en">Purity</span><span id="ro">Puritate</span></th>
   <th><span id="en">Price</span><span id="ro">Pret</span></th>
 </tr>
-<tr><td>ICAAAA00001</td><td><span id="en">Solid</span><span id="ro">Solid</span></td><td><span id="en">Boric acid technical grade</span><span id="ro">Acid boric tehnic</span></td><td>10043-35-3</td><td>STAS 7954-91</td><td>min. 99.99%</td><td>-</td></tr>
 <tr><td>ICAABA00001</td><td><span id="en">Liquid</span><span id="ro">Lichid</span></td><td><span id="en">Hydrochloric acid tehnical grade</span><span id="ro">Acid clorhidric tehnic</span></td><td>7647-01-0</td><td>STAS 339-80</td><td>min. 99.99%</td><td>-</td></tr>
-<tr><td>ICAACA00001</td><td><span id="en">Liquid</span><span id="ro">Lichid</span></td><td><span id="en">Sulfuric acid technical grade, solution</span><span id="ro">Acid sulfuric tehnic</span></td><td>7664-93-9</td><td>STAS 97-80</td><td>min. 99.99%</td><td>-</td></tr>
-<tr><td>ICAADA00001</td><td><span id="en">Liquid</span><span id="ro">Lichid</span></td><td><span id="en">Sulfuric acid for batteries</span><span id="ro">Acid sulfuric pentru acumulatoare</span></td><td>7664-93-9</td><td>STAS 164-75</td><td>min. 99.99%</td><td>-</td></tr>
-<tr><td>ICAAEA00001</td><td><span id="en">Liquid</span><span id="ro">Lichid</span></td><td><span id="en">Oleum ( Fuming sulfuric acid )</span><span id="ro">Oleum ( Acid sulfuric fumans )</span></td><td>8014-95-7</td><td>STAS 9482-74</td><td>min. 99.99%</td><td>-</td></tr>
-<tr><td>ICAAFA00001</td><td><span id="en">Liquid</span><span id="ro">Lichid</span></td><td><span id="en">Nitric acid technical grade</span><span id="ro">Acid azotic tehnic</span></td><td>7697-37-2</td><td>SR 447:1995</td><td>min. 99.99%</td><td>-</td></tr>
 <tr><td>ICAAGA00001</td><td><span id="en">Liquid</span><span id="ro">Lichid</span></td><td><span id="en">Purified acetic acid</span><span id="ro">Acid acetic purificat</span></td><td>7647-01-0</td><td>STAS 267-84</td><td>min. 99.99%</td><td>-</td></tr>
 <tr><td>ICAAHA00001</td><td><span id="en">Liquid</span><span id="ro">Lichid</span></td><td><span id="en">Acetic acid technical grade from synthesis</span><span id="ro">Acid acetic tehnic de sinteză</span></td><td>64-19-7</td><td>STAS 6365-88</td><td>min. 99.99%</td><td>-</td></tr>
 <tr><td>ICAAIA00001</td><td><span id="en">Liquid</span><span id="ro">Lichid</span></td><td><span id="en">Orthophosphoric acid</span><span id="ro">Acid ortofosforic</span></td><td>7664-38-2</td><td>STAS 10788-76</td><td>min. 99.99%</td><td>-</td></tr>
