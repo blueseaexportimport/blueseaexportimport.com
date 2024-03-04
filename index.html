@@ -419,6 +419,22 @@ $(document).ready(function () {
    });
   // Grab inorganiccompunds bases supplies info on click end
 
+  // Grab inorganiccompunds acids info on click start
+  $("#inorganiccompundsacidsbtn").click(function() {
+    if ($("#inorganiccompundsacids").hasClass("clickedinorganiccompundsacids")) {
+        // already been clicked once, hide it
+        $("#inorganiccompundsacids").html("");
+        $( "#inorganiccompundsacids" ).removeClass( "clickedinorganiccompundsacids" )
+    }else {
+        // first time this is clicked, mark it
+        $("#inorganiccompundsacids").addClass("clickedinorganiccompundsacids");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/inorganiccompundsacids.txt", success: function(result){
+         $("#inorganiccompundsacids").html(result);
+        }});
+    }
+   });
+  // Grab inorganiccompunds acids supplies info on click end
+
   // Grab inorganiccompunds salts info on click start
   $("#inorganiccompundssaltsbtn").click(function() {
     if ($("#inorganiccompundssalts").hasClass("clickedinorganiccompundssalts")) {
