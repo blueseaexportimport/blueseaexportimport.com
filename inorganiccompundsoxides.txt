@@ -9,7 +9,6 @@
   <th><span id="en">Purity</span><span id="ro">Puritate</span></th>
   <th><span id="en">Price</span><span id="ro">Pret</span></th>
 </tr>
-<tr><td>ICOAAA00001</td><td>Solid</td><td><span id="en">Zinc oxide technical grade</span><span id="ro">Oxid de zinc tehnic</span></td><td>1314-13-2</td><td>STAS 421-84</td><td>min. 99.99%</td><td>-</td></tr>
 <tr><td>ICOABA00001</td><td>Solid</td><td><span id="en">Magnesium oxide technical grade</span><span id="ro">Oxid de magneziu tehnic</span></td><td>1309-48-4</td><td>STAS 4995-80</td><td>min. 99.99%</td><td>-</td></tr>
 <tr><td>ICOACA00001</td><td>Solid</td><td><span id="en">Iron oxide for ferrites</span><span id="ro">Oxid de fier pentru ferite</span></td><td>1309-37-1</td><td>STAS 8137-90</td><td>min. 99.99%</td><td>-</td></tr>
 
