@@ -3,6 +3,15 @@
 
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Calcium carbide technical grade</span><span id="ro">Carbură de calciu tehnică ( carbit )</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >STAS 102-86</td></tr>
+<tr><td><span id="en">CAS:</span></td><td style="color:#39ff14;" >75-20-7</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">Powder</span><span id="ro">Pulbere</span></td></tr>
+<tr><td><span id="en">Packaging:</span><span id="ro">Ambalaj:</span></td><td style="color:#39ff14;" ><span id="en">Bulk</span><span id="ro">Vrac</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
 <td style="color:black;"><span id="en">Foundry bentonite </span><span id="ro">Bentonită pentru turnătorie</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >STAS 3624-74</td></tr>
 <tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">Powder</span><span id="ro">Pulbere</span></td></tr>
