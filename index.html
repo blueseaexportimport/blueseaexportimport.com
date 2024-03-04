@@ -582,7 +582,21 @@ $(document).ready(function () {
    });
   // Grab office and school supplies info on click end
 
-
+  // Grab raw textiles supplies info on click start
+  $("#rawtextilesbtn").click(function() {
+    if ($("#rawtextiles").hasClass("clickedrawtextiles")) {
+        // already been clicked once, hide it
+        $("#rawtextiles").html("");
+        $( "#rawtextiles" ).removeClass( "clickedrawtextiles" )
+    }else {
+        // first time this is clicked, mark it
+        $("#rawtextiles").addClass("clickedrawtextiles");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/rawtextiles.txt", success: function(result){
+         $("#rawtextiles").html(result);
+        }});
+    }
+   });
+  // Grab raw textiles info on click end
 
 
 });
@@ -1402,7 +1416,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Cement factory</span><span id="ro">Fabrică ciment</span></h5> 
    <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" id="buildingmaterialsbtn" ><span id="en">Building materials (4)</span><span id="ro">Materiale construcții (4)</span></h5> 
+   <h5 class="categoryaccordion" id="buildingmaterialsbtn" ><span id="en">Building materials</span><span id="ro">Materiale construcții</span></h5> 
    <table id="buildingmaterials" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
