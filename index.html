@@ -615,6 +615,24 @@ $(document).ready(function () {
   // Grab raw textiles info on click end
 
 
+  // Grab gadgets for old and young info on click start
+  $("#gadgetsforoldandyoungbtn").click(function() {
+    if ($("#gadgetsforoldandyoung").hasClass("clickedgadgetsforoldandyoung")) {
+        // already been clicked once, hide it
+        $("#gadgetsforoldandyoung").html("");
+        $( "#gadgetsforoldandyoung" ).removeClass( "clickedgadgetsforoldandyoung" )
+    }else {
+        // first time this is clicked, mark it
+        $("#gadgetsforoldandyoung").addClass("clickedgadgetsforoldandyoung");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/gadgetsforoldandyoung.txt", success: function(result){
+         $("#gadgetsforoldandyoung").html(result);
+        }});
+    }
+   });
+  // Grab gadgets for old and young info on click end
+
+
+
 });
 </script>
 
@@ -713,11 +731,11 @@ $(document).ready(function () {
    UK: <a style="color:darkred;" href="https://www.gov.uk/government/publications/the-uk-sanctions-list" >https://www.gov.uk/government/publications/the-uk-sanctions-list</a><br>
    Australia: <a style="color:darkred;" href="https://www.dfat.gov.au/international-relations/security/sanctions/consolidated-list" >https://www.dfat.gov.au/international-relations/security/sanctions/consolidated-list</a> 
   </li>
-  <li><span id="en" >Any funds that are send or come from the following countries click here, Romanian banks needs justificative documents ( contracts, invoices, customs import-export documents, certificate of orign ) before allowing funds to be transfered in our out</span><span id="ro" >Orice fonduri care sunt trimise sau vin din următoarele țări click aici, toate băncile din România solicită documente justificative ( contracte, facturi, documente vamale import-export, certificat de origine ) înainte ca banii să poată să fie transferați de la / către </span>
+  <li><span id="en" >Any funds that are send or come from the following countries, Romanian banks needs justificative documents ( contracts, invoices, customs import-export documents, certificate of orign ) before allowing funds to be transfered in our out</span><span id="ro" >Orice fonduri care sunt trimise sau vin din următoarele țări click aici, toate băncile din România solicită documente justificative ( contracte, facturi, documente vamale import-export, certificat de origine ) înainte ca banii să poată să fie transferați de la / către </span>
   <a style="color:darkred;" href="www.otpbank.ro/sites/default/files/downloads/LISTA-TARI-CU-RISC-RIDICAT.pdf" >www.otpbank.ro/sites/default/files/downloads/LISTA-TARI-CU-RISC-RIDICAT.pdf</a>
   </li>	 
  <li><span id="en" >27) From  December 30th 2024, Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 will enter into force<br>
- For "relevant products" that have <b>bovine, cacao, coffee, oil palm tree, rubber, soya, wood</b> we must do <b>due diligence</b> before we can put them on the market inside the European Union market. Some countries will be on a high risk list, that means imports of "relevant products" from this countries will be banned.
+ For "relevant products" that have <b>bovine, cacao, coffee, oil palm tree, rubber, soya, wood</b> we must do <b>due diligence</b> before we can put them on the market inside the European Union. Some countries will be on a high risk list, that means imports of "relevant products" from this countries will be banned.
  </span><span id="ro" >27) Din 30 Decembrie 2024 intra in vigoare Regulamentul UE 2023/1115 al Parlamentului si Consiliului European din 31 Mai 2023<br> 
  Ceea ce înseamnă că pentru "produse relevante" care provin din următoarele surse: <b>bovine, cacao, cafea, palmier pentru ulei, cauciuc, soia, lemn</b>, trebuie să facem investigații-due diligence înainte de putea fi puse pe piață europeană. Unele țări vor fi pe lista de risc ridicat, importurile de "produse relevante" din aceste țări vor fi interzise. 
  </span><br>
@@ -1421,7 +1439,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div> 	   
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>Q. DECORATIVE ITEMS, APPLIANCES AND AID GADGETS  (0)</b></span><span id="ro"><b>Q. DECORAȚIUNI, ELECTROCASNICE ȘI GADGETURI DE AJUTOR  (0)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>Q. DECORATIVE ITEMS, APPLIANCES AND AID GADGETS  (1)</b></span><span id="ro"><b>Q. DECORAȚIUNI, ELECTROCASNICE ȘI GADGETURI DE AJUTOR  (1)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" ><span id="en">Home furniture</span><span id="ro">Mobilă pentru casă</span></h5>    
    <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" ><span id="en">Brand new clocks</span><span id="ro">Ceasuri decorative noi</span></h5>    
@@ -1448,8 +1466,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" ><span id="en">House temperature control electrical appliances</span><span id="ro">Electrocasnice control temperatură</span></h5>  
    <div class="rowbin" >-</div> 	
-   <h5 class="categoryaccordion" ><span id="en">Gagets for elderly people and children</span><span id="ro">Gadget-uri pentru bătrâni și copii</span></h5>    
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="gadgetsforoldandyoungbtn" ><span id="en">Gagets for elderly people and children (1)</span><span id="ro">Gadget-uri pentru bătrâni și copii (1)</span></h5>    
+   <table id="gadgetsforoldandyoung" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>   
    </div></li><!--END SECTION-->
 
    <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>R. PERSONAL CARE AND HYGIENE  (0)</b></span> <span id="ro"><b>R. IGIENĂ ȘI ÎNGRIJIRE PERSONALĂ  (0)</b></span></button><div class="catalogpanel">
