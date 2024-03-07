@@ -1,11 +1,16 @@
-<tbody>
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:black;">AllView D2 Senior</td></tr>
-<tr><td><span id="en" >Phone type:</span><span id="ro">Tip telefon:</span></td><td style="color:#39ff14;" >clasic</td></tr>
-<tr><td><span id="en" >Talk time:</span><span id="ro">Timp convorbire:</span></td><td style="color:#39ff14;" >max. 1200 min</td></tr>
-<tr><td><span id="en">Flashlight:</span><span id="ro">Lanternă:</span></td><td style="color:#39ff14;" ><span id="en">Yes</span><span id="ro">Da</span></td></tr>
-<tr><td><span id="en">Radio:</span><span id="ro">Radio:</span></td><td style="color:#39ff14;" ><span id="en">Yes</span><span id="ro">Da</span></td></tr>
-<tr><td><span id="en">Color:</span><span id="ro">Culoare:</span></td><td style="color:#39ff14;" ><span id="en">Black</span><span id="ro">Negru</span></td></tr>
-<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >140 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-</tbody>
+
+<div class="gadget" > 
+<img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/pictures/telefonallviewsenioriD2.jpg" alt="AllView D2 Senior" />
+</div>
+<br>
+<div class="gadget" > 
+<img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/pictures/telefonallviewsenioriD2.jpg" alt="AllView D2 Senior" />
+</div>
+<br>
+<div class="gadget" > 
+<img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/pictures/telefonallviewsenioriD2.jpg" alt="AllView D2 Senior" />
+</div>
+<br>
+<div class="gadget" > 
+<img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/pictures/telefonallviewsenioriD2.jpg" alt="AllView D2 Senior" />
+</div>
