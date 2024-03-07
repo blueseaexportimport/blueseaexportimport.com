@@ -2,15 +2,15 @@
 <div class="gadget" > 
 <img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/pictures/telefonallviewsenioriD2.jpg" alt="AllView D2 Senior" />
 </div>
-<div class="productid" style="background:#151fba;color:white;padding:7px 0;font-size: 29px;text-indent:7px;" ><span id="en" >Product No.</span><span id="ro" >Nr. Produs</span> 1</div>
+<div class="productid" style="background:#151fba;color:white;padding:7px 0;font-size: 29px;text-indent:7px;" ><span id="en" >Product No.</span><span id="ro" >Nr. Produs</span> 2</div>
 <div class="gadget" > 
 <img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/pictures/telefonallviewsenioriD2.jpg" alt="AllView D2 Senior" />
 </div>
-<div class="productid" style="background:#151fba;color:white;padding:7px 0;font-size: 29px;text-indent:7px;" ><span id="en" >Product No.</span><span id="ro" >Nr. Produs</span> 1</div>
+<div class="productid" style="background:#151fba;color:white;padding:7px 0;font-size: 29px;text-indent:7px;" ><span id="en" >Product No.</span><span id="ro" >Nr. Produs</span> 3</div>
 <div class="gadget" > 
 <img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/pictures/telefonallviewsenioriD2.jpg" alt="AllView D2 Senior" />
 </div>
-<div class="productid" style="background:#151fba;color:white;padding:7px 0;font-size: 29px;text-indent:7px;" ><span id="en" >Product No.</span><span id="ro" >Nr. Produs</span> 1</div>
+<div class="productid" style="background:#151fba;color:white;padding:7px 0;font-size: 29px;text-indent:7px;" ><span id="en" >Product No.</span><span id="ro" >Nr. Produs</span> 4</div>
 <div class="gadget" > 
 <img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/pictures/telefonallviewsenioriD2.jpg" alt="AllView D2 Senior" />
 </div>
