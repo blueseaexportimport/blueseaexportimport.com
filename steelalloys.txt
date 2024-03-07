@@ -1,1598 +1,1169 @@
 <tbody>
-
-
-  
-
-
 <!-- OTELURI COSMOS START -->
 
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Space grade steels</span>
-	<span id="ro">Oțeluri pentru utilizare in spațiu cosmic</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
-
-
-
-<tr>
-  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
-  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
-  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
-  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
-  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
-  <th><span id="en">Price</span><span id="ro">Pret</span></th>
-</tr>
-
-<tr>
-  <td>0AA00001</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Space grade steel</span><span id="ro">Oțel pentru utilizare in spațiu cosmic</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">ingot</span><span id="ro">lingou</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+  
 <!-- OTELURI COSMOS END -->
 
+<!-- OTELURI CONSTRUCTII START  -->
 
-<!-- OTELURI CONSTRUCTII START -->
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Structural steels</span>
-	<span id="ro">Oțeluri de construcții</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>	  
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Structural steel</span><span id="ro">Oțel de construcții</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10025-2:2019</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">bloom</span><span id="ro">blum</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+  
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Structural steel</span><span id="ro">Oțel de construcții</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10025-3:2019</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+  
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Structural steel</span><span id="ro">Oțel de construcții</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10025-4+A1:2023</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+  
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Structural steel</span><span id="ro">Oțel de construcții</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10025-5:2019</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+  
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Structural steel</span><span id="ro">Oțel de construcții</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10025-6+A1:2023</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+  
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Structural steel</span><span id="ro">Oțel de construcții</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10162:2003</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+  
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Structural steel</span><span id="ro">Oțel de construcții</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10210-1:2006</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Structural steel</span><span id="ro">Oțel de construcții</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10219-1:2006</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Structural steel</span><span id="ro">Oțel de construcții</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10225-2:2019</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
-  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
-  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
-  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
-  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
-  <th><span id="en">Price</span><span id="ro">Pret</span></th>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Structural steel</span><span id="ro">Oțel de construcții</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10225-2:2019</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr><td>AAA00001</td><td>-</td><td>EN 10025-2:2019</td><td>-</td><td>-</td><td>-</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Structural steel</span><span id="ro">Oțel de construcții</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10225-3+A1:2023</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Structural steel</span><span id="ro">Oțel de construcții</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10225-4:2019</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>AAB00001</td>
-  <td>-</td>
-  <td>EN 10025-3:2019</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Structural steel</span><span id="ro">Oțel de construcții</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10340:2008</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>AAC00001</td>
-  <td>-</td>
-  <td>EN 10025-4+A1:2023</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Structural steel</span><span id="ro">Oțel de construcții</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN ISO 16120-1:2017</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>AAD00001</td>
-  <td>-</td>
-  <td>EN 10025-5:2019</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Structural steel</span><span id="ro">Oțel de construcții</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN ISO 16120-2:2017</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>AAE00001</td>
-  <td>-</td>
-  <td>EN 10025-6+A1:2023</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Structural steel</span><span id="ro">Oțel de construcții</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN ISO 16120-3:2011</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>ABA00001</td>
-  <td>-</td>
-  <td>EN 10162:2003</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>ACA00001</td>
-  <td>-</td>
-  <td>EN 10210-1:2006</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>ADA00001</td>
-  <td>-</td>
-  <td>EN 10219-1:2006</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>ADB00001</td>
-  <td>-</td>
-  <td>EN 10219-1:2006</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>AEA00001</td>
-  <td>-</td>
-  <td>EN 10225-2:2019</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>AEB00001</td>
-  <td>-</td>
-  <td>EN 10225-3+A1:2023</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>AEC00001</td>
-  <td>-</td>
-  <td>EN 10225-4:2019</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>AFA00001</td>
-  <td>-</td>
-  <td>EN 10340:2008</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
- 
-<tr>
-  <td>AGA00001</td>
-  <td>-</td>
-  <td>EN ISO 16120-1:2017</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>AGB00001</td>
-  <td>-</td>
-  <td>EN ISO 16120-2:2017</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>AGC00001</td>
-  <td>-</td>
-  <td>EN ISO 16120-3:2011</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>AGD00001</td>
-  <td>-</td>
-  <td>EN ISO 16120-4:2017</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Structural steel</span><span id="ro">Oțel de construcții</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN ISO 16120-4:2017</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 <!-- OTELURI CONSTRUCTII END  -->
 
 <!-- OTELURI PENTRU FORMARE LA RECE START  -->
 
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Steels for cold forming</span>
-	<span id="ro">Oțeluri pentru deformare la rece</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for cold forming</span><span id="ro">Oțel pentru deformare la rece</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10111:2008</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
-  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
-  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
-  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
-  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
-  <th><span id="en">Price</span><span id="ro">Pret</span></th>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for cold forming</span><span id="ro">Oțel pentru deformare la rece</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10139+A1:2020</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>AHA00001</td>
-  <td>-</td>
-  <td>EN 10111:2008</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for cold forming</span><span id="ro">Oțel pentru deformare la rece</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10149-1:2014</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>AIA00001</td>
-  <td>-</td>
-  <td>EN 10139+A1:2020</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for cold forming</span><span id="ro">Oțel pentru deformare la rece</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10149-2:2014</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>AJA00001</td>
-  <td>-</td>
-  <td>EN 10149-1:2014</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for cold forming</span><span id="ro">Oțel pentru deformare la rece</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10149-3:2014</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for cold forming</span><span id="ro">Oțel pentru deformare la rece</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10152:2017</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>AJB00001</td>
-  <td>-</td>
-  <td>EN 10149-2:2014</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for cold forming</span><span id="ro">Oțel pentru deformare la rece</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10263-1:2018</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>AJC00001</td>
-  <td>-</td>
-  <td>EN 10149-3:2014</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for cold forming</span><span id="ro">Oțel pentru deformare la rece</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10263-2:2018</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>AKA00001</td>
-  <td>-</td>
-  <td>EN 10152:2017</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for cold forming</span><span id="ro">Oțel pentru deformare la rece</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10263-3:2018</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>ALA00001</td>
-  <td>-</td>
-  <td>EN 10263-1:2018</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for cold forming</span><span id="ro">Oțel pentru deformare la rece</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10263-4:2018</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>ALB00001</td>
-  <td>-</td>
-  <td>EN 10263-2:2018</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for cold forming</span><span id="ro">Oțel pentru deformare la rece</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10263-5:2018</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>ALC00001</td>
-  <td>-</td>
-  <td>EN 10263-3:2018</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for cold forming</span><span id="ro">Oțel pentru deformare la rece</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10268+A1:2014</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>ALD00001</td>
-  <td>-</td>
-  <td>EN 10263-4:2018</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for cold forming</span><span id="ro">Oțel pentru deformare la rece</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10277:2018</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>ALE00001</td>
-  <td>-</td>
-  <td>EN 10263-5:2018</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>AMA00001</td>
-  <td>-</td>
-  <td>EN 10268+A1:2014</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>ANA00001</td>
-  <td>-</td>
-  <td>EN 10277:2018</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>AOA00001</td>
-  <td>-</td>
-  <td>EN 10346:2015</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for cold forming</span><span id="ro">Oțel pentru deformare la rece</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10346:2015</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 <!-- OTELURI PENTRU FORMARE LA RECE END  -->
 
 
 <!-- OTELURI PENTRU PRELUCRARE SI TURNARE START  -->
 
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Steels for machining and casting</span>
-	<span id="ro">Oțeluri pentru prelucrare și turnare</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for machining and casting</span><span id="ro">Oțel pentru prelucrare și turnare</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN ISO 683-1,2:2018</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
-  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
-  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
-  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
-  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
-  <th><span id="en">Price</span><span id="ro">Pret</span></th>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for machining and casting</span><span id="ro">Oțel pentru prelucrare și turnare</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN ISO 683-3:2022</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>APA00001</td>
-  <td>-</td>
-  <td>EN ISO 683-1,2:2018</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for machining and casting</span><span id="ro">Oțel pentru prelucrare și turnare</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN ISO 683-4:2018</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>APB00001</td>
-  <td>-</td>
-  <td>EN ISO 683-3:2022</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for machining and casting</span><span id="ro">Oțel pentru prelucrare și turnare</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN ISO 683-5:2021</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>APC00001</td>
-  <td>-</td>
-  <td>EN ISO 683-4:2018</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for machining and casting</span><span id="ro">Oțel pentru prelucrare și turnare</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN ISO 683-17:2023</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>APD00001</td>
-  <td>-</td>
-  <td>EN ISO 683-5:2021</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for machining and casting</span><span id="ro">Oțel pentru prelucrare și turnare</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN ISO 4957:2018</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>APE00001</td>
-  <td>-</td>
-  <td>EN ISO 683-17:2023</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for machining and casting</span><span id="ro">Oțel pentru prelucrare și turnare</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10269:2014</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>AQA00001</td>
-  <td>-</td>
-  <td>EN ISO 4957:2018</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for machining and casting</span><span id="ro">Oțel pentru prelucrare și turnare</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10293:2015</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>ARA00001</td>
-  <td>-</td>
-  <td>EN 10269:2014</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>ASA00001</td>
-  <td>-</td>
-  <td>EN 10293:2015</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>ATA00001</td>
-  <td>-</td>
-  <td>EN 10349:2010</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for machining and casting</span><span id="ro">Oțel pentru prelucrare și turnare</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10349:2010</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 <!-- OTELURI PENTRU PRELUCRARE SI TURNARE END  -->
 
 <!-- OTELURI PENTRU FORJARE START  -->
 
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Forging steels</span>
-	<span id="ro">Oțeluri pentru forjare</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Forging steel</span><span id="ro">Oțel pentru forjare</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10250-1:2022</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
-  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
-  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
-  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
-  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
-  <th><span id="en">Price</span><span id="ro">Pret</span></th>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Forging steel</span><span id="ro">Oțel pentru forjare</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10250-2:2022</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>AUA00001</td>
-  <td>-</td>
-  <td>EN 10250-1:2022</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>AUB00001</td>
-  <td>-</td>
-  <td>EN 10250-2:2022</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>AUC00001</td>
-  <td>-</td>
-  <td>EN 10250-3:2022</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>AUD00001</td>
-  <td>-</td>
-  <td>EN 10250-4:2021</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Forging steel</span><span id="ro">Oțel pentru forjare</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10250-3:2022</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Forging steel</span><span id="ro">Oțel pentru forjare</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10250-4:2021</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 <!-- OTELURI PENTRU FORJARE END  -->
 
 <!-- OTELURI PENTRU EMAILATE START  -->
 
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Vitreous enamelling steels</span>
-	<span id="ro">Oțeluri pentru emailare</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
-
-<tr>
-  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
-  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
-  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
-  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
-  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
-  <th><span id="en">Price</span><span id="ro">Pret</span></th>
-</tr>
-
-<tr>
-  <td>AVA00001</td>
-  <td>-</td>
-  <td>EN 10209:2023</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Vitreous enamelling steel</span><span id="ro">Oțel pentru emailare</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10209:2023</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 <!-- OTELURI PENTRU EMAILATE END  -->
 
 <!-- OTELURI MAGNETICE START  -->
 
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Magnetic steels</span>
-	<span id="ro">Oțeluri magnetice</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
 
-<tr>
-  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
-  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
-  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
-  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
-  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
-  <th><span id="en">Price</span><span id="ro">Pret</span></th>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Magnetic steel</span><span id="ro">Oțel magnetic</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10265:2001</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>AWA00001</td>
-  <td>-</td>
-  <td>EN 10265:2001</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>AXA00001</td>
-  <td>-</td>
-  <td>EN 10331:2003</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Magnetic steel</span><span id="ro">Oțel magnetic</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10331:2003</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 <!-- OTELURI MAGNETICE END  -->
 
 
 <!-- OTELURI REZISTENTE LA COROZIUNE START  -->
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Corrosion resistant steel</span><span id="ro">Oțel rezistent la coroziune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10088-1:2005</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Corrosion resistant steels</span>
-	<span id="ro">Oțeluri rezistente la coroziune</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Corrosion resistant steel</span><span id="ro">Oțel rezistent la coroziune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10202:2022</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
-  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
-  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
-  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
-  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
-  <th><span id="en">Price</span><span id="ro">Pret</span></th>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Corrosion resistant steel</span><span id="ro">Oțel rezistent la coroziune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10271:2003</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>AYA00001</td>
-  <td>-</td>
-  <td>EN 10088-1:2005</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>AZA00001</td>
-  <td>-</td>
-  <td>EN 10202:2022</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BAA00001</td>
-  <td>-</td>
-  <td>EN 10271:2003</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BBA00001</td>
-  <td>-</td>
-  <td>EN 10283:2019</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Corrosion resistant steel</span><span id="ro">Oțel rezistent la coroziune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10283:2019</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
 
 <!-- OTELURI REZISTENTE LA COROZIUNE END  -->
 
 <!-- OTELURI PENTRU RACORDURI START -->
 
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Pipe fittings steels</span>
-	<span id="ro">Oțeluri pentru racorduri țevi </span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Pipe fittings steel</span><span id="ro">Oțel pentru racorduri țevi</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10253-1:2002</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
-  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
-  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
-  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
-  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
-  <th><span id="en">Price</span><span id="ro">Pret</span></th>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Pipe fittings steel</span><span id="ro">Oțel pentru racorduri țevi</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10253-2:2021</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BCA00001</td>
-  <td>-</td>
-  <td>EN 10253-1:2002</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BCB00001</td>
-  <td>-</td>
-  <td>EN 10253-2:2021</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BCC00001</td>
-  <td>-</td>
-  <td>EN 10253-3:2009</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BCD00001</td>
-  <td>-</td>
-  <td>EN 10253-4:2008</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BCE00001</td>
-  <td>-</td>
-  <td>EN 10253-4:2008/AC:2009</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Pipe fittings steel</span><span id="ro">Oțel pentru racorduri țevi</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10253-3:2009</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Pipe fittings steel</span><span id="ro">Oțel pentru racorduri țevi</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10253-4:2008</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Pipe fittings steel</span><span id="ro">Oțel pentru racorduri țevi</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10253-4:2008/AC:2009</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
 
 <!-- OTELURI PENTRU RACORDURI END -->
 
 <!-- OTELURI PENTRU TEVI START -->
 
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Pipes and tubes steels</span>
-	<span id="ro">Oțeluri pentru țevi </span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Pipes and tubes steel</span><span id="ro">Oțel pentru țevi</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 39:2002</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
-  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
-  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
-  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
-  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
-  <th><span id="en">Price</span><span id="ro">Pret</span></th>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Pipes and tubes steel</span><span id="ro">Oțel pentru țevi</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10224:2003</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BDA00001</td>
-  <td>-</td>
-  <td>EN 39:2002</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Pipes and tubes steel</span><span id="ro">Oțel pentru țevi</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10224:2003/A1:2005</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BEA00001</td>
-  <td>-</td>
-  <td>EN 10224:2003</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BEB00001</td>
-  <td>-</td>
-  <td>EN 10224:2003/A1:2005</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Pipes and tubes steel</span><span id="ro">Oțel pentru țevi</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10255+A1:2007</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BFA00001</td>
-  <td>-</td>
-  <td>EN 10255+A1:2007</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BGA00001</td>
-  <td>-</td>
-  <td>EN 10296-1:2004</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BGB00001</td>
-  <td>-</td>
-  <td>EN 10296-2:2006</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BHA00001</td>
-  <td>-</td>
-  <td>EN 10297-1:2003</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BHB00001</td>
-  <td>-</td>
-  <td>EN 10297-2:2006</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Pipes and tubes steel</span><span id="ro">Oțel pentru țevi</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10296-1:2004</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Pipes and tubes steel</span><span id="ro">Oțel pentru țevi</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10296-2:2006</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Pipes and tubes steel</span><span id="ro">Oțel pentru țevi</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10297-1:2003</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Pipes and tubes steel</span><span id="ro">Oțel pentru țevi</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10297-2:2006</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 <!-- OTELURI PENTRU TEVI END -->
 
 <!-- OTELURI PENTRU ARCURI START - produse cu dubla utilizare -->
 
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Steels for springs</span>
-	<span id="ro">Oțeluri pentru arcuri </span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for springs</span><span id="ro">Oțel pentru arcuri</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10089:2002</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
-  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
-  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
-  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
-  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
-  <th><span id="en">Price</span><span id="ro">Pret</span></th>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for springs</span><span id="ro">Oțel pentru arcuri</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10132:2021</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BIA00001</td>
-  <td>-</td>
-  <td>EN 10089:2002</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BJA00001</td>
-  <td>-</td>
-  <td>EN 10132:2021</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BKA00001</td>
-  <td>-</td>
-  <td>EN 10151:2003</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for springs</span><span id="ro">Oțel pentru arcuri</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10151:2003</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 <!-- OTELURI PENTRU ARCURI END - produse cu dubla utilizare  -->
 
 <!-- OTELURI REZISTENTE LA TEMPERATURI START - produse cu dubla utilizare -->
 
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Steels for low or high temperature use</span>
-	<span id="ro">Oțeluri pentru temperaturi inalte și scăzute</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for low or high temperature use</span><span id="ro">Oțel pentru temperaturi inalte și scăzute</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10095:2002</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
-  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
-  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
-  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
-  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
-  <th><span id="en">Price</span><span id="ro">Pret</span></th>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for low or high temperature use</span><span id="ro">Oțel pentru temperaturi inalte și scăzute</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10295:2003</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BLA00001</td>
-  <td>-</td>
-  <td>EN 10095:2002</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BMA00001</td>
-  <td>-</td>
-  <td>EN 10295:2003</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BNA00001</td>
-  <td>-</td>
-  <td>EN 10267:2000</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BOA00001</td>
-  <td>-</td>
-  <td>EN 10302:2008</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for low or high temperature use</span><span id="ro">Oțel pentru temperaturi inalte și scăzute</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10267:2000</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for low or high temperature use</span><span id="ro">Oțel pentru temperaturi inalte și scăzute</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10302:2008</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 <!-- OTELURI REZISTENTE LA TEMPERATURI END - produse cu dubla utilizare   -->
 
 <!-- OTELURI PENTRU TEVI PRECIZIE START - produse cu dubla utilizare -->
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for precision tubes and pipes</span><span id="ro">Oțel pentru tevi de precizie</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10305-1:2016</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Steels for precision tubes and pipes</span>
-	<span id="ro">Oțeluri pentru tevi de precizie</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for precision tubes and pipes</span><span id="ro">Oțel pentru tevi de precizie</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10305-2:2016</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
-  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
-  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
-  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
-  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
-  <th><span id="en">Price</span><span id="ro">Pret</span></th>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for precision tubes and pipes</span><span id="ro">Oțel pentru tevi de precizie</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10305-3:2016</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BPA00001</td>
-  <td>-</td>
-  <td>EN 10305-1:2016</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BPB00001</td>
-  <td>-</td>
-  <td>EN 10305-2:2016</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BPC00001</td>
-  <td>-</td>
-  <td>EN 10305-3:2016</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BPD00001</td>
-  <td>-</td>
-  <td>EN 10305-4:2016</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BPE00001</td>
-  <td>-</td>
-  <td>EN 10305-5:2016</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td>BPF00001</td>
-  <td>-</td>
-  <td>EN 10305-6:2016</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for precision tubes and pipes</span><span id="ro">Oțel pentru tevi de precizie</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10305-4:2016</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for precision tubes and pipes</span><span id="ro">Oțel pentru tevi de precizie</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10305-5:2016</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for precision tubes and pipes</span><span id="ro">Oțel pentru tevi de precizie</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10305-6:2016</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 <!-- OTELURI PENTRU TEVI PRECIZIE END - produse cu dubla utilizare -->
 
 
 <!-- OTELURI PRESIUNE START - produse cu dubla utilizare  -->
 
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Steels for for pressure purposes</span>
-	<span id="ro">Oțeluri pentru recipiente sub presiune</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10028-1:2017</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
-  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
-  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
-  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
-  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
-  <th><span id="en">Price</span><span id="ro">Pret</span></th>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10028-2:2017</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BQA00001</td>
-  <td>-</td>
-  <td>EN 10028-1:2017</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10028-3:2017</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BQB00001</td>
-  <td>-</td>
-  <td>EN 10028-2:2017</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10028-4:2017</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BQC00001</td>
-  <td>-</td>
-  <td>EN 10028-3:2017</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10028-5:2017</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BQD00001</td>
-  <td>-</td>
-  <td>EN 10028-4:2017</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10028-6:2017</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BQE00001</td>
-  <td>-</td>
-  <td>EN 10028-5:2017</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10028-7:2016</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BQF00001</td>
-  <td>-</td>
-  <td>EN 10028-6:2017</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10120:2017</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BQG00001</td>
-  <td>-</td>
-  <td>EN 10028-7:2016</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10207:2018</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BSA00001</td>
-  <td>-</td>
-  <td>EN 10120:2017</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10213+A1:2016</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BTA00001</td>
-  <td>-</td>
-  <td>EN 10207:2018</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10216-1:2014</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BUA00001</td>
-  <td>-</td>
-  <td>EN 10213+A1:2016</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10216-2+A1:2020</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BUB00001</td>
-  <td>-</td>
-  <td>EN 10213+A1:2016</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10216-3:2014</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BVA00001</td>
-  <td>-</td>
-  <td>EN 10216-1:2014</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10216-4:2014</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BVB00001</td>
-  <td>-</td>
-  <td>EN 10216-2+A1:2020</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10216-5:2021</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BVC00001</td>
-  <td>-</td>
-  <td>EN 10216-3:2014</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10217-1:2019</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BVD00001</td>
-  <td>-</td>
-  <td>EN 10216-3:2014</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10217-2:2019</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BVE00001</td>
-  <td>-</td>
-  <td>EN 10216-4:2014</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10217-3:2019</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BVF00001</td>
-  <td>-</td>
-  <td>EN 10216-5:2021</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10217-4:2019</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BWA00001</td>
-  <td>-</td>
-  <td>EN 10217-1:2019</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10217-5:2019</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BWB00001</td>
-  <td>-</td>
-  <td>EN 10217-2:2019</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10217-6:2019</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BWC00001</td>
-  <td>-</td>
-  <td>EN 10217-3:2019</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10217-7:2019</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10222-1:2017</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BWD00001</td>
-  <td>-</td>
-  <td>EN 10217-4:2019</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10222-2+A1:2021</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BWE00001</td>
-  <td>-</td>
-  <td>EN 10217-5:2019</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10222-3:2017</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BWF00001</td>
-  <td>-</td>
-  <td>EN 10217-6:2019</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10222-4+A1:2021</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BWG00001</td>
-  <td>-</td>
-  <td>EN 10217-7:2019</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10222-5:2017</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BYA00001</td>
-  <td>-</td>
-  <td>EN 10222-1:2017</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10272:2016</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>BYB00001</td>
-  <td>-</td>
-  <td>EN 10222-2+A1:2021</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>BYC00001</td>
-  <td>-</td>
-  <td>EN 10222-3:2017</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>BYD00001</td>
-  <td>-</td>
-  <td>EN 10222-4+A1:2021</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>BYE00001</td>
-  <td>-</td>
-  <td>EN 10222-5:2017</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>BZA00001</td>
-  <td>-</td>
-  <td>EN 10272:2016</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>CAA00001</td>
-  <td>-</td>
-  <td>EN 10273:2007</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Steel for pressure purposes</span><span id="ro">Oțel pentru recipiente sub presiune</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10273:2007</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 <!-- OTELURI PRESIUNE END - produse cu dubla utilizare  -->
 
-<!-- OTELURI ELECTRICE END - produse cu dubla utilizare  -->
+<!-- OTELURI ELECTRICE START - produse cu dubla utilizare  -->
 
 
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Electrical steel</span>
-	<span id="ro">Oţel electrotehnic</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-   <td style="background:#39ff14;color:black;" >
-	<span id="en"></span>
-	<span id="ro"></span>
-   </td>	
-</tr>
-
-<tr>
-  <th><span id="en">Id No.</span><span id="ro">Nr. Id</span></th>
-  <th><span id="en">Quality</span><span id="ro">Calitate</span></th>
-  <th><span id="en">Standard</span><span id="ro">Standard</span></th>
-  <th><span id="en">Shape</span><span id="ro">Forma</span></th>
-  <th><span id="en">Dim.</span><span id="ro">Dim.</span></th>
-  <th><span id="en">Price</span><span id="ro">Pret</span></th>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Electrical steel</span><span id="ro">Oţel electrotehnic</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10106:2016</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 
-<tr>
-  <td>CAA00001</td>
-  <td>-</td>
-  <td>EN 10106:2016</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Electrical steel</span><span id="ro">Oţel electrotehnic</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10107:2022</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr>
-  <td>CAA00001</td>
-  <td>-</td>
-  <td>EN 10107:2022</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
-
-<tr>
-  <td>CAA00001</td>
-  <td>-</td>
-  <td>EN 10341:2006</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-</tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Electrical steel</span><span id="ro">Oţel electrotehnic</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 10341:2006</td></tr>
+<tr><td><span id="en">Grade:</span><span id="ro">Simbol:</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Shape:</span><span id="ro">Forma:</span></td><td style="color:#39ff14;" ><span id="en">billet</span><span id="ro">ţaglă</span></td></tr>
+<tr><td><span id="en">Dim.</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000 RON / <span id="en">t</span><span id="ro">t</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 
 <!-- OTELURI ELECTRICE END - produse cu dubla utilizare  -->
