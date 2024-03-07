@@ -1,16 +1,16 @@
-
+<div class="productid" style="background:#151fba;color:white;padding:7px 0;font-size: 17px;" ><span id="" >Product No.</span><span id="" >Nr. Produs</span> 1</div>
 <div class="gadget" > 
 <img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/pictures/telefonallviewsenioriD2.jpg" alt="AllView D2 Senior" />
 </div>
-<br>
+<div class="productid" style="background:#151fba;color:white;padding:7px 0;font-size: 17px;" ><span id="" >Product No.</span><span id="" >Nr. Produs</span> 1</div>
 <div class="gadget" > 
 <img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/pictures/telefonallviewsenioriD2.jpg" alt="AllView D2 Senior" />
 </div>
-<br>
+<div class="productid" style="background:#151fba;color:white;padding:7px 0;font-size: 17px;" ><span id="" >Product No.</span><span id="" >Nr. Produs</span> 1</div>
 <div class="gadget" > 
 <img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/pictures/telefonallviewsenioriD2.jpg" alt="AllView D2 Senior" />
 </div>
-<br>
+<div class="productid" style="background:#151fba;color:white;padding:7px 0;font-size: 17px;" ><span id="" >Product No.</span><span id="" >Nr. Produs</span> 1</div>
 <div class="gadget" > 
 <img style="width:100%;height:auto;" src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/pictures/telefonallviewsenioriD2.jpg" alt="AllView D2 Senior" />
 </div>
