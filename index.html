@@ -116,6 +116,7 @@ $(document).ready(function() {
 <script>
 $(document).ready(function () { 
 
+	
   // Grab solar panels info on click start
   $("#solarpanelsbtn").click(function() {
     if ($("#solarpanels").hasClass("clickedsolarpanels")) {
@@ -130,7 +131,7 @@ $(document).ready(function () {
         }});
     }
    });
-  // Grab high voltage systems info on click end
+  // Grab solar panelso on click end
 
   // Grab high voltage systems info on click start
   $("#highvoltagesystemsbtn").click(function() {
@@ -870,44 +871,86 @@ $(document).ready(function () {
 </div></li><!--END SECTION-->
 	   
    <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>A. ELECTRICITY  (0)</b></span> <span id="ro"><b>A. ENERGIE ELECTRICĂ  (0)</b></span></button><div class="catalogpanel">
-   <h5 class="categoryaccordion" ><span id="en">Fusion reactors</span><span id="ro">Reactoare fuziune</span></h5>    	
-   <div class="rowbin" >-</div> 
+   <h5 class="categoryaccordion" id="fusionreactorsbtn" ><span id="en">Fusion reactors</span><span id="ro">Reactoare fuziune</span></h5>    	
+   <table id="fusionreactors" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 	
    <h5 class="categoryaccordion" id="solarpanelsbtn" ><span id="en">Solar panels</span><span id="ro">Panouri solare</span></h5>    	
    <table id="solarpanels" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table> 	
-   <h5 class="categoryaccordion" ><span id="en">Horizontal axis wind turbines (HAWT)</span><span id="ro">Turbine eoliene cu ax orizontal (HAWT)</span></h5>    	
-   <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" ><span id="en">Synchronous electric generators</span><span id="ro">Generatoare electrice sincrone</span></h5>    	
-   <div class="rowbin" >-</div> 	
-   <h5 class="categoryaccordion" ><span id="en">Biogas - Combined Heat and Power (CHP) system</span><span id="ro">Sistem de cogenerare (CHP) - Biogaz</span></h5>    	
-   <div class="rowbin" >-</div> 	
-   <h5 class="categoryaccordion" ><span id="en">Batteries and accumulators</span><span id="ro">Baterii și acumulatoare</span></h5>    	
-   <div class="rowbin" >-</div> 	
-   <h5 class="categoryaccordion" ><span id="en">Backup generators</span><span id="ro">Generatoare backup</span></h5>    	
-   <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" ><span id="en">Electrical substation</span><span id="ro">Stație electrică de transformare</span></h5>    	
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="windturbinesbtn" ><span id="en">Horizontal axis wind turbines (HAWT)</span><span id="ro">Turbine eoliene cu ax orizontal (HAWT)</span></h5>    	
+   <table id="windturbines" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 	
+   <h5 class="categoryaccordion" id="electricgeneratorsbtn" ><span id="en">Synchronous electric generators</span><span id="ro">Generatoare electrice sincrone</span></h5>    	
+   <table id="electricgenerators" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>
+   <h5 class="categoryaccordion" id="chpgeneratorsbtn" ><span id="en">Biogas - Combined Heat and Power (CHP) system</span><span id="ro">Sistem de cogenerare (CHP) - Biogaz</span></h5>    	
+   <table id="chpgenerators" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 	
+   <h5 class="categoryaccordion" id="batteriesbtn" ><span id="en">Batteries and accumulators</span><span id="ro">Baterii și acumulatoare</span></h5>    	
+   <table id="batteries" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>
+   <h5 class="categoryaccordion" id="backupgeneratorsbtn" ><span id="en">Backup generators</span><span id="ro">Generatoare backup</span></h5>    	
+   <table id="backupgenerators" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>
+   <h5 class="categoryaccordion" id="electricalsubstationbtn" ><span id="en">Electrical substation</span><span id="ro">Stație electrică de transformare</span></h5>    	
+   <table id="electricalsubstation" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 	
    <h5 class="categoryaccordion" id="highvoltagesystemsbtn" ><span id="en">High voltage systems</span><span id="ro">Sisteme înaltă tensiune</span></h5>    
    <table id="highvoltagesystems" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table>  	
-   <h5 class="categoryaccordion" ><span id="en">Middle voltage systems</span><span id="ro">Sisteme Medie tensiune</span></h5>    
-   <div class="rowbin" >-</div> 	
-   <h5 class="categoryaccordion" ><span id="en">Low voltage systems</span><span id="ro">Sisteme joasă tensiune</span></h5>    
-   <div class="rowbin" >-</div> 	
-   <h5 class="categoryaccordion" ><span id="en">Public lighting systems</span><span id="ro">Sisteme iluminat public</span></h5>    	
-   <div class="rowbin" >-</div> 	
-   <h5 class="categoryaccordion" ><span id="en">Cables, cabling and home lighting</span><span id="ro">Cabluri, cablaje și iluminat case</span></h5>    	
-   <div class="rowbin" >-</div> 
-   <h5 class="categoryaccordion" ><span id="en">Electronic active components</span><span id="ro">Componente electronice active</span></h5>    	
-   <div class="rowbin" >-</div> 
-   <h5 class="categoryaccordion" ><span id="en">Electromechanical and passive electronic components </span><span id="ro">Electromecanice și componente electronice pasive</span></h5>    	
-   <div class="rowbin" >-</div> 
-   <h5 class="categoryaccordion" ><span id="en">Electric engines  </span><span id="ro">Motoare electrice</span></h5>    	
-   <div class="rowbin" >-</div>    
+   <h5 class="categoryaccordion" id="middlevoltagesystemsbtn" ><span id="en">Middle voltage systems</span><span id="ro">Sisteme Medie tensiune</span></h5>    
+   <table id="middlevoltagesystems" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 	 	
+   <h5 class="categoryaccordion" id="lowvoltagesystemsbtn" ><span id="en">Low voltage systems</span><span id="ro">Sisteme joasă tensiune</span></h5>    
+   <table id="lowvoltagesystems" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	
+   <h5 class="categoryaccordion" id="publiclightingsystemsbtn" ><span id="en">Public lighting systems</span><span id="ro">Sisteme iluminat public</span></h5>    	
+   <table id="publiclightingsystems" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  		
+   <h5 class="categoryaccordion" id="cablingbtn" ><span id="en">Cables, cabling and home lighting</span><span id="ro">Cabluri, cablaje și iluminat case</span></h5>    	
+   <table id="cabling" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	
+   <h5 class="categoryaccordion" id="electronicactivecomponentsbtn" ><span id="en">Electronic active components</span><span id="ro">Componente electronice active</span></h5>    	
+   <table id="electronicactivecomponents" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	 
+   <h5 class="categoryaccordion"  id="electronicpasivecomponentsbtn" ><span id="en">Electromechanical and passive electronic components </span><span id="ro">Electromecanice și componente electronice pasive</span></h5>    	
+   <table id="electronicpasivecomponents" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+   <h5 class="categoryaccordion" id="electricenginesbtn" ><span id="en">Electric engines  </span><span id="ro">Motoare electrice</span></h5>    	
+   <table id="electricengines" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>   
    </div></li><!--END SECTION-->
 
    <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>B. RENEWABLE LOW / ZERO CARBON EMISSIONS ENERGY (0)</b></span> <span id="ro"><b>B. ENERGIE REGENERABILĂ CU EMISII REDUSE / ZERO CO2 (0)</b></span></button><div class="catalogpanel">
