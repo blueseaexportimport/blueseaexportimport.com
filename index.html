@@ -116,6 +116,22 @@ $(document).ready(function() {
 <script>
 $(document).ready(function () { 
 
+
+  // Grab solar panels info on click start
+  $("#fusionreactorsbtn").click(function() {
+    if ($("#fusionreactors").hasClass("clickedfusionreactors")) {
+        // already been clicked once, hide it
+        $("#fusionreactors").html("");
+        $( "#fusionreactors" ).removeClass( "clickedfusionreactors" )
+    }else {
+        // first time this is clicked, mark it
+        $("#fusionreactors").addClass("clickedfusionreactors");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/fusionreactors.txt", success: function(result){
+         $("#fusionreactors").html(result);
+        }});
+    }
+   });
+  // Grab solar panelso on click end
 	
   // Grab solar panels info on click start
   $("#solarpanelsbtn").click(function() {
@@ -132,6 +148,23 @@ $(document).ready(function () {
     }
    });
   // Grab solar panelso on click end
+
+  // Grab wind turbines info on click start
+  $("#windturbinesbtn").click(function() {
+    if ($("#windturbines").hasClass("clickedwindturbines")) {
+        // already been clicked once, hide it
+        $("#windturbines").html("");
+        $( "#windturbines" ).removeClass( "clickedwindturbines" )
+    }else {
+        // first time this is clicked, mark it
+        $("#windturbines").addClass("clickedwindturbines");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/windturbines.txt", success: function(result){
+         $("#windturbines").html(result);
+        }});
+    }
+   });
+  // Grab wind turbines on click end
+
 
   // Grab high voltage systems info on click start
   $("#highvoltagesystemsbtn").click(function() {
