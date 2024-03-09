@@ -1,3 +1,19 @@
 <tbody>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">SP000000001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" >Canadian Solar TOPBiHiKu7 Model CS7N-MB-AG</td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >IEC 61730</td></tr>
+<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
+<tr><td><span id="en" >Material</span><span id="ro">Material</span></td><td style="color:#39ff14;" ><span id="en" >Monocrystalline Silicon</span><span id="ro" >Siliciu monocristalin</span></td></tr>
+<tr><td><span id="en" >Dim.</span><span id="ro">Dim.</span></td><td style="color:#39ff14;" >2384x1303x35 mm</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Jiangsu, China</td></tr>
+<tr><td><span id="en" >HS Code</span><span id="ro">Cod HS</span>(<a style="color:gold;" href="https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition/hs-nomenclature-2022-edition.aspx"  target="_blank">2022 edition</a>)</td><td style="color:#39ff14;" >8541.43</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.alibaba.com/product-detail/Canadiansolar-Bifaical-BIHIKU7-High-Quality-640W_1600206393585.html?spm=a2700.shop_index.89.2.801f79d6Mr64a0" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0.16 USD / <span id="en">watt</span><span id="ro">watt</span></td></tr>
+<tr><td><span id="en">Min. order:</span><span id="ro">Comanda minima:</span></td><td style="color:#39ff14;" >15000 <span id="en">watts</span><span id="ro">watts</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-</tbody> 
+
+
+
+</tbody>
+ 
