@@ -619,6 +619,23 @@ $(document).ready(function () {
     }
    });
   // Grab personal care - hair and nails info on click end
+
+
+  // Grab cosmetics makeup items info on click start
+  $("#cosmeticsmakeupitemsbtn").click(function() {
+    if ($("#cosmeticsmakeupitems").hasClass("clickedcosmeticsmakeupitems")) {
+        // already been clicked once, hide it
+        $("#cosmeticsmakeupitems").html("");
+        $( "#cosmeticsmakeupitems" ).removeClass( "clickedcosmeticsmakeupitems" )
+    }else {
+        // first time this is clicked, mark it
+        $("#cosmeticsmakeupitems").addClass("clickedcosmeticsmakeupitems");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/cosmeticsmakeupitems.txt", success: function(result){
+         $("#cosmeticsmakeupitems").html(result);
+        }});
+    }
+   });
+  // Grab cosmetics makeup items info on click end
 	
 
   // Grab office and school supplies info on click start
@@ -1789,7 +1806,6 @@ $(document).ready(function () {
    <h5 class="categoryaccordion" ><span id="en">Fresheners</span><span id="ro">Odorizante</span></h5>    
    <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" ><span id="en">Personal care - hair and nails (3)</span><span id="ro">Îngrijire păr și unghii (3)</span></h5>    
-   <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" id="personalcarebodyandskinbtn" ><span id="en">Personal care - body and skin (14)</span><span id="ro">Îngrijire piele și corp (14)</span></h5>    
    <table id="personalcarebodyandskin" class="categorypanel" >
    <!-- Load info start --> 
@@ -1802,8 +1818,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
   </table>  	
-   <h5 class="categoryaccordion" ><span id="en">Cosmetics - make up items</span><span id="ro">Produse cosmetice și make up</span></h5>        
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="cosmeticsmakeupitemsbtn" ><span id="en">Cosmetics - make up items</span><span id="ro">Produse cosmetice și make up</span></h5>        
+  <table id="cosmeticsmakeupitems" class="categorypanel"  >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+  </table>   	
    <h5 class="categoryaccordion" ><span id="en">Hotels, horeca and tourism products</span><span id="ro">Produse pentru hoteluri, horeca și turism</span></h5>   
    <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" ><span id="en">Perfumes</span><span id="ro">Parfumuri</span></h5>    	      
