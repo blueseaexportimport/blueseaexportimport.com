@@ -1,2 +1,44 @@
 <tbody>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCHS0000001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Shampoo Herbagen</span><span id="ro">Șampon Herbagen</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td>Formula 1</td><td>32 RON / 1000ml <span id="en">with tea tree extract</span><span id="ro">cu extract de arbore de ceai</span></td></tr>
+<tr><td>Formula 2</td><td>37 RON / 1000ml <span id="en">with nettle extract</span><span id="ro">cu extract de urzica</span></td></tr>
+<tr><td>Formula 3</td><td>37 RON / 1000ml <span id="en">with spirulina extract</span><span id="ro">cu extract de spirulina</span></td></tr>
+<tr><td>Formula 4</td><td>55 RON / 1000ml <span id="en">2 in 1 with marine collagen - volume, hydration</span><span id="ro">2 in 1 cu colagen marin - volum, hidratare</span></td></tr>
+<tr><td>Formula 5</td><td>62 RON / 1000ml <span id="en">for beard and scalp</span><span id="ro">pentru barbă și scalp</span></td></tr>
+<tr><td>Formula 6</td><td>65 RON / 1000ml <span id="en">with banana extract</span><span id="ro">cu extract de banana</span></td></tr>
+<tr><td>Formula 7</td><td>95 RON / 1000ml <span id="en">2 in 1 with bio-keratin, D-panthenol and vitamin E</span><span id="ro">2 in 1 cu bio- keratina, D-panthenol si vitamina E</span></td></tr>
+<tr><td>Formula 8</td><td>143 RON / 1000ml <span id="en">intensive capillary regenerator for women</span><span id="ro">regenerant capilar intensiv pentru femei</span></td></tr>
+<tr><td>Formula 9</td><td>143 RON / 1000ml <span id="en">intensive capillary regenerator for men</span><span id="ro">regenerant capilar intensiv pentru bărbați</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 </tbody>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCHS0000001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Hair mask Herbagen</span><span id="ro">Mască de păr Herbagen</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td>Formula 1</td><td>94 RON / 1000ml <span id="en">intensely moisturizing with macadamia oil</span><span id="ro">intens hidratantă cu ulei de macadamia</span></td></tr>
+<tr><td>Formula 2</td><td>150 RON / 1000ml <span id="en">with banana extract</span><span id="ro">cu extract de banana</span></td></tr>
+<tr><td>Formula 3</td><td>155 RON / 1000ml <span id="en">with eco honey</span><span id="ro">cu miere de albine bio</span></td></tr>
+<tr><td>Formula 4</td><td>179 RON / 1000ml <span id="en">capillary repair</span><span id="ro">reparatoare capilară</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0000002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Hair removal beeswax Herbagen</span><span id="ro">Ceară pentru epilat Herbagen</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >155 RON / 1000g</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+</tbody>
+
+
+
+
+
+
