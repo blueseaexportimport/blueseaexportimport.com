@@ -15,11 +15,11 @@
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">000000001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Intimate liquid soap</span><span id="ro">Săpun lichid intim</span></td></tr>
-<tr><td><span id="en" >Formula 1</span><span id="ro">Formula 1</span></td><td style="color:#39ff14;" ></td><td><span id="en">with lavender & echinacea extract</span><span id="ro">cu extracte de lavanda si echinacea</span></td></tr>
-<tr><td><span id="en" >Formula 2</span><span id="ro">Formula 2</span></td><td style="color:#39ff14;" ></td><td><span id="en">with centella asiatica extract</span><span id="ro">cu extract de centella asiatica</span></td></tr>
-<tr><td><span id="en" >Formula 3</span><span id="ro">Formula 3</span></td><td style="color:#39ff14;" ></td><td><span id="en">with echinacea extract</span><span id="ro">cu extract de echinacea</span><span id="ro">cu extracte de echinacea</span></td></tr>
-<tr><td><span id="en" >Formula 4</span><span id="ro">Formula 4</span></td><td style="color:#39ff14;" ></td><td><span id="en">with viola tricolor extract</span><span id="ro">cu extract de viola tricolor</span></td></tr>
-<tr><td><span id="en" >Formula 5</span><span id="ro">Formula 5</span></td><td style="color:#39ff14;" ></td><td><span id="en">with achillea and chamomile extract</span><span id="ro">cu extracte de achillea milefolium si musetel</span></td></tr>
+<tr><td><span id="en" >Formula 1</span><span id="ro">Formula 1</span></td><td style="color:#39ff14;" ><span id="en">with lavender & echinacea extract</span><span id="ro">cu extracte de lavanda si echinacea</span></td></tr>
+<tr><td><span id="en" >Formula 2</span><span id="ro">Formula 2</span></td><td style="color:#39ff14;" ><span id="en">with centella asiatica extract</span><span id="ro">cu extract de centella asiatica</span></td></tr>
+<tr><td><span id="en" >Formula 3</span><span id="ro">Formula 3</span></td><td style="color:#39ff14;" ><span id="en">with echinacea extract</span><span id="ro">cu extract de echinacea</span><span id="ro">cu extracte de echinacea</span></td></tr>
+<tr><td><span id="en" >Formula 4</span><span id="ro">Formula 4</span></td><td style="color:#39ff14;" ><span id="en">with viola tricolor extract</span><span id="ro">cu extract de viola tricolor</span></td></tr>
+<tr><td><span id="en" >Formula 5</span><span id="ro">Formula 5</span></td><td style="color:#39ff14;" ><span id="en">with achillea and chamomile extract</span><span id="ro">cu extracte de achillea milefolium si musetel</span></td></tr>
 <tr><td><span id="en" >HS Code</span><span id="ro">Cod HS</span>(<a style="color:gold;" href="https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition/hs-nomenclature-2022-edition.aspx" target="_blank">2022 edition</a>)</td><td style="color:#39ff14;" >3401.30</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >60 RON / 1000ml</td></tr>
