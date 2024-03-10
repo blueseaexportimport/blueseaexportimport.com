@@ -11,7 +11,7 @@
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FCC0000002</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Foundry bentonite (de Gurasada)</span><span id="ro">Bentonită pentru turnătorie (de Gurasada)</span></td></tr>
-<tr><td><span id="en" >Standard needs to checked</span><span id="en" >Standard trebuie verificat</span></td><td style="color:#39ff14;" >STAS 3624-74 ( ? ) </td></tr>
+<tr><td><span id="en" >Standard needs to checked</span><span id="ro" >Standard trebuie verificat</span></td><td style="color:#39ff14;" >STAS 3624-74 ( ? ) </td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://begamineraleshop.ro/produs/bentonita-de-gurasada/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >39.3 RON / 25kg</td></tr>
