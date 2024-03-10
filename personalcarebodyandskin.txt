@@ -45,11 +45,11 @@
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0000006</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Body oil with essential oils</span><span id="ro">Ulei de masaj cu uleiuri esențiale</span></td></tr>
 <tr><td>Formula 1</td><td><span id="en">bergamot and grapefruit</span><span id="ro">bergamota și grapefruit</span></td></tr>
-<tr><td>Formula 1</td><td><span id="en">lavender</span><span id="ro">lavandă</span></td></tr>
-<tr><td>Formula 1</td><td><span id="en">orange</span><span id="ro">portocală</span></td></tr>
-<tr><td>Formula 1</td><td><span id="en">rose</span><span id="ro">trandafir</span></td></tr>
-<tr><td>Formula 1</td><td><span id="en">relaxing</span><span id="ro">relaxant</span></td></tr>
-<tr><td>Formula 1</td><td><span id="en">revitalizing</span><span id="ro">revitalizant</span></td></tr>
+<tr><td>Formula 2</td><td><span id="en">lavender</span><span id="ro">lavandă</span></td></tr>
+<tr><td>Formula 3</td><td><span id="en">orange</span><span id="ro">portocală</span></td></tr>
+<tr><td>Formula 4</td><td><span id="en">rose</span><span id="ro">trandafir</span></td></tr>
+<tr><td>Formula 5</td><td><span id="en">relaxing</span><span id="ro">relaxant</span></td></tr>
+<tr><td>Formula 6</td><td><span id="en">revitalizing</span><span id="ro">revitalizant</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >83 RON / 1000ml</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
