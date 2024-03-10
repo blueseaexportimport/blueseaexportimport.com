@@ -2,6 +2,7 @@
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" >Zewa Exclusive Ultra Soft</td></tr>
 <tr><td>Info:</td><td style="color:#39ff14;" ><span id="en">4 layers 8 rolls</span><span id="ro">4 straturi 8 role</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Austria</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.zewa.net/ro/produse/hartie-igienica/uscata/exclusive-ultra-soft/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >25 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
@@ -9,6 +10,7 @@
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000002</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" >Zewa Deluxe Jasmine Blossom</td></tr>
 <tr><td>Info:</td><td style="color:#39ff14;" ><span id="en">3 layers 16 rolls</span><span id="ro">3 straturi 16 role</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Austria</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.zewa.net/ro/produse/hartie-igienica/uscata/deluxe-jasmine-blossom/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >40 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
@@ -16,6 +18,7 @@
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000003</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" >Zewa Exclusive Natural Soft</td></tr>
 <tr><td>Info:</td><td style="color:#39ff14;" ><span id="en">4 layers 16 rolls</span><span id="ro">4 straturi 16 role</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Austria</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.zewa.net/ro/produse/hartie-igienica/uscata/exclusive-natural-soft/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >45 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
@@ -23,6 +26,7 @@
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000004</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" >Zewa Deluxe Delicate Care</td></tr>
 <tr><td>Info:</td><td style="color:#39ff14;" ><span id="en">3 layers 20 rolls</span><span id="ro">3 straturi 20 role</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Austria</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.zewa.net/ro/produse/hartie-igienica/uscata/deluxe-delicate-care/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >47 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
@@ -30,6 +34,7 @@
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000005</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" >Zewa Deluxe Lavender Dreams</td></tr>
 <tr><td>Info:</td><td style="color:#39ff14;" ><span id="en">3 layers 20 rolls</span><span id="ro">3 straturi 20 role</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Austria</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.zewa.net/ro/produse/hartie-igienica/uscata/deluxe-lavender-dreams/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >47 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
@@ -37,6 +42,7 @@
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000006</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" >Zewa Just-1</td></tr>
 <tr><td>Info:</td><td style="color:#39ff14;" ><span id="en">5 layers 2x6 rolls</span><span id="ro">5 straturi 2x6 role</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Austria</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.zewa.net/ro/produse/hartie-igienica/uscata/just-1/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >70 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
@@ -44,6 +50,7 @@
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000007</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" >Zewa Deluxe Cashmere Peach</td></tr>
 <tr><td>Info:</td><td style="color:#39ff14;" ><span id="en">3 layers 60 rolls</span><span id="ro">3 straturi 60 role</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Austria</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.zewa.net/ro/produse/hartie-igienica/uscata/deluxe-cashmere-peach/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >130 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
@@ -51,6 +58,7 @@
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000008</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" >Zewa Deluxe Camomile Comfort</td></tr>
 <tr><td>Info:</td><td style="color:#39ff14;" ><span id="en">3 layers 60 rolls</span><span id="ro">3 straturi 60 role</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Austria</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.zewa.net/ro/produse/hartie-igienica/uscata/zewa-deluxe-camomile-comfort/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >130 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
