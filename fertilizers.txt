@@ -1,1 +1,47 @@
+<tbody>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">NFR0000001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;"><span id="en">Mineral fertilizer - Natural zeolites</span><span id="ro">Îngrășămint mineral - zeoliți naturali</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >EN 16070:2014</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >- RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">NFR0000002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;"><span id="en">Mineral fertilizer - Powdered perlite</span><span id="ro">Îngrășămint mineral - perlit pulbere</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >EN 12914:2013</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >- RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">NFR0000003</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;"><span id="en">Mineral fertilizer - bentonite</span><span id="ro">Îngrășămint mineral - bentonită</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >EN 13754:2009</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >- RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">NFR0000003</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;"><span id="en">Organic Fertilizer - Manure and fish scraps</span><span id="ro">Îngrășămint Organic - Bălegar și resturi pește</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td>Formula 1</td><td>- RON / t <span id="en" >non-sorted</span><span id="ro">ne-sortat</span></td></tr>
+<tr><td>Formula 2</td><td>- RON / t <span id="en" >cow manure</span><span id="ro">bălegar de vacă</span></td></tr>
+<tr><td>Formula 3</td><td>- RON / t <span id="en" >horse manure</span><span id="ro">bălegar de cal</span></td></tr>
+<tr><td>Formula 4</td><td>- RON / t <span id="en" >donkey manure</span><span id="ro">bălegar de măgar</span></td></tr>
+<tr><td>Formula 5</td><td>- RON / t <span id="en" >sheep manure</span><span id="ro">bălegar de oaie</span></td></tr>
+<tr><td>Formula 6</td><td>- RON / t <span id="en" >goat manure</span><span id="ro">bălegar de capră</span></td></tr>
+<tr><td>Formula 7</td><td>- RON / t <span id="en" >pig manure</span><span id="ro">bălegar de Porc</span></td></tr>
+<tr><td>Formula 8</td><td>- RON / t <span id="en" >poultry Manure</span><span id="ro">bălegar de Păsări</span></td></tr>
+<tr><td>Formula 9</td><td>- RON / t <span id="en" >fish scraps</span><span id="ro">resturi pește</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+</tbody> 
+
+
 
