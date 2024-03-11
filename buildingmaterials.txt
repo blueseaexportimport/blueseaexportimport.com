@@ -9,7 +9,7 @@
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >770 RON / t <span id="en">palletized</span><span id="ro">paletizat</span> </td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BMS0000001</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BMS0000002</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Slaked lime / calcium hydroxide for constructions use CL 70-S (Ca(OH)2) SimcoVar</span><span id="ro">Var pentru construcţii calcic hidratat CL 70-S (Ca(OH)2) (CaO) SimcoVar</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 459-1:2011</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
@@ -17,7 +17,7 @@
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >740 RON / t <span id="en">palletized</span><span id="ro">paletizat</span> </td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BMS0000001</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BMS0000003</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Quicklime / calcium oxide for manufacturing (AAC) Autoclaved aerated concrete - CL 90-S (R5, P1) (CaO) SimcoVar</span><span id="ro">Var măcinat pentru fabricare (BCA) Beton Celular Autoclavizat CL 90-S (R5, P1) (CaO) SimcoVar</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 459-1:2011</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
