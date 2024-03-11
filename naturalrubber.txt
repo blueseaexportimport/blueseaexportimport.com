@@ -1,1 +1,142 @@
+<tbody>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">NFR0000001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;"><span id="en">Film for wrapping rubber bales</span><span id="ro">Film pentru ambalat baloți de cauciuc natural</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >ISO 20299-2:2017</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >- RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">NR0000001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;"><span id="en">Block - Natural Rubber</span><span id="ro">Bloc - Cauciuc natural</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >SIR ( Standard Indonesian Rubber )</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Indonesia</span><span id="ro">Indonezia</span></td></tr>
+<tr><td>Formula 1</td><td>- RON / t TSR CV - 3CV50</td></tr>
+<tr><td>Formula 2</td><td>- RON / t TSR CV - 3CV60</td></tr>
+<tr><td>Formula 3</td><td>- RON / t TSR L - 3L</td></tr>
+<tr><td>Formula 4</td><td>- RON / t TSR L - 3WF</td></tr>
+<tr><td>Formula 5</td><td>- RON / t TSR 5 - 5</td></tr>
+<tr><td>Formula 6</td><td>- RON / t TSR 10 - 10</td></tr>
+<tr><td>Formula 7</td><td>- RON / t TSR 10 - 10VK</td></tr>
+<tr><td>Formula 8</td><td>- RON / t TSR 20 - 20</td></tr>
+<tr><td>Formula 9</td><td>- RON / t TSR 20 - 20VK</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">NR0000002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;"><span id="en">Block - Natural Rubber</span><span id="ro">Bloc - Cauciuc natural</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >SMR ( Standard Malaysian Rubber )</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Malaysia</span><span id="ro">Malaezia</span></td></tr>
+<tr><td>Formula 1</td><td>- RON / t TSR CV - CV50</td></tr>
+<tr><td>Formula 2</td><td>- RON / t TSR CV - CV60</td></tr>
+<tr><td>Formula 3</td><td>- RON / t TSR L - L</td></tr>
+<tr><td>Formula 4</td><td>- RON / t TSR 5 - 5*</td></tr>
+<tr><td>Formula 5</td><td>- RON / t TSR 5 - GP</td></tr>
+<tr><td>Formula 6</td><td>- RON / t TSR 10 - 10</td></tr>
+<tr><td>Formula 7</td><td>- RON / t TSR 10 - 10CV</td></tr>
+<tr><td>Formula 8</td><td>- RON / t TSR 20 - 20</td></tr>
+<tr><td>Formula 9</td><td>- RON / t TSR 20 - 20CV</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">NR0000003</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;"><span id="en">Block - Natural Rubber</span><span id="ro">Bloc - Cauciuc natural</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >STR ( Standard Thai Rubber )</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Thailand</span><span id="ro">Thailanda</span></td></tr>
+<tr><td>Formula 1</td><td>- RON / t TSR CV - CV</td></tr>
+<tr><td>Formula 2</td><td>- RON / t TSR L - XL</td></tr>
+<tr><td>Formula 3</td><td>- RON / t TSR L - 5L</td></tr>
+<tr><td>Formula 4</td><td>- RON / t TSR 5 - 5</td></tr>
+<tr><td>Formula 5</td><td>- RON / t TSR 10 - 10</td></tr>
+<tr><td>Formula 6</td><td>- RON / t TSR 10 - 10CV</td></tr>
+<tr><td>Formula 7</td><td>- RON / t TSR 20 - 20</td></tr>
+<tr><td>Formula 8</td><td>- RON / t TSR 20 - 20CV</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">NR0000003</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;"><span id="en">Block - Natural Rubber</span><span id="ro">Bloc - Cauciuc natural</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >SVR ( Standard Vietnam Rubber )</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Vietnam</td></tr>
+<tr><td>Formula 1</td><td>- RON / t TSR CV - CV50</td></tr>
+<tr><td>Formula 2</td><td>- RON / t TSR CV - CV60</td></tr>
+<tr><td>Formula 3</td><td>- RON / t TSR L - 3L</td></tr>
+<tr><td>Formula 4</td><td>- RON / t TSR 5 - 5</td></tr>
+<tr><td>Formula 5</td><td>- RON / t TSR 10 - 10</td></tr>
+<tr><td>Formula 6</td><td>- RON / t TSR 20 - 20</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">NR0000003</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;"><span id="en">Block - Natural Rubber</span><span id="ro">Bloc - Cauciuc natural</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >ISNR ( Standard Indian Rubber )</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >India</td></tr>
+<tr><td>Formula 1</td><td>- RON / t TSR CV - 3CV</td></tr>
+<tr><td>Formula 2</td><td>- RON / t TSR L - 3L</td></tr>
+<tr><td>Formula 3</td><td>- RON / t TSR 5 - 5</td></tr>
+<tr><td>Formula 4</td><td>- RON / t TSR 10 - 10</td></tr>
+<tr><td>Formula 5</td><td>- RON / t TSR 20 - 20</td></tr>
+<tr><td>Formula 6</td><td>- RON / t TSR 50 - 50</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">NR0000003</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;"><span id="en">Centrifuged Latex</span><span id="ro">Latex Centrifugat</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >Indian Standard</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >India</td></tr>
+<tr><td>Formula 1 - RON / t</td><td><span id="en" >Centrifuged Latex DRC min 60% VFA Max 0.05 (min.0.6% of ammonia) - High Ammonia (HA)</span><span id="ro">Latex Centrifugat DRC min 60% VFA Max 0.05 (min.0.6% amoniac) - Conținut mare amoniac (HA)</span></td></tr>
+<tr><td>Formula 2 - RON / t</td><td><span id="en" >Centrifuged Latex DRC min 60% VFA Max 0.04 (max. 0.3% of ammonia) - Low Ammonia (LATZ)</span><span id="ro">Centrifugat DRC min 60% VFA Max 0.04 (max.0.3% amoniac) - Conținut mic amoniac (LATZ)</span></td></tr>
+<tr><td>Formula 3 - RON / t</td><td><span id="en" >Double Centrifuged Latex DRC min 60% VFA Max 0.025 (0.70 - 1.00 % ammonia) - Low Ammonia (LATZ)</span><span id="ro">Dublu Centrifugat DRC min 60% VFA Max 0.025 (0.70 - 1.00 % amoniac ) - Conținut mic amoniac (LATZ)</span></td></tr>
+<tr><td>Formula 4 - RON / t</td><td><span id="en" >Creamed Latex DRC 50%-55%</span><span id="ro">Latex Cremos DRC 50%-55%</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">NR0000003</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;"><span id="en">Ribbed Smoked Sheets Rubber (RSS Rubber)</span><span id="ro">Foi cu nervuri afumate de cauciuc (Cauciuc RSS)</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >Indian Standard</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >India</td></tr>
+<tr><td>Formula 1</td><td>- RON / t RSS 1X</td></tr>
+<tr><td>Formula 2</td><td>- RON / t RSS 1</td></tr>
+<tr><td>Formula 3</td><td>- RON / t RSS 2</td></tr>
+<tr><td>Formula 4</td><td>- RON / t RSS 3</td></tr>
+<tr><td>Formula 5</td><td>- RON / t RSS 4</td></tr>
+<tr><td>Formula 5</td><td>- RON / t RSS 5</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">NR0000003</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;"><span id="en">Pale Latex Crepe (PLC)</span><span id="ro">Crep Latex Palid ( PLC )</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >Indian Standard</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >India</td></tr>
+<tr><td>Formula 1</td><td>- RON / t PLC 1X</td></tr>
+<tr><td>Formula 2</td><td>- RON / t PLC 1</td></tr>
+<tr><td>Formula 3</td><td>- RON / t PLC 2</td></tr>
+<tr><td>Formula 4</td><td>- RON / t PLC 3</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">NR0000003</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;"><span id="en">Estate Brown Crepe (EBC)</span><span id="ro">Crep Estate Brown ( EBC )</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >Indian Standard</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >India</td></tr>
+<tr><td>Formula 1</td><td>- RON / t EBC 1X</td></tr>
+<tr><td>Formula 2</td><td>- RON / t EBC 1</td></tr>
+<tr><td>Formula 3</td><td>- RON / t EBC 2</td></tr>
+<tr><td>Formula 4</td><td>- RON / t EBC 3</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+</tbody>
+
 
