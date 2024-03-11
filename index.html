@@ -588,6 +588,25 @@ $(document).ready(function () {
    });
   // Grab ceramics and glass materials info on click end
 
+  // Grab fertilizers info on click start
+  $("#fertilizersbtn").click(function() {
+    if ($("#fertilizers").hasClass("clickedfertilizers")) {
+        // already been clicked once, hide it
+        $("#fertilizers").html("");
+        $( "#fertilizers" ).removeClass( "clickedfertilizers" )
+    }else {
+        // first time this is clicked, mark it
+        $("#fertilizers").addClass("clickedfertilizers");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/fertilizers.txt", success: function(result){
+         $("#fertilizers").html(result);
+        }});
+    }
+   });
+  // Grab fertilizers info on click end
+
+
+
+	
   // Grab personal care - body and skin info on click start
   $("#personalcarebodyandskinbtn").click(function() {
     if ($("#personalcarebodyandskin").hasClass("clickedpersonalcarebodyandskin")) {
@@ -1836,36 +1855,81 @@ $(document).ready(function () {
    </div></li><!--END SECTION-->  
 
   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (0)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE  (0)</b></span></button><div class="catalogpanel">
-  <h5 class="categoryaccordion" ><span id="en">Concrete and steel silos</span><span id="ro">Silozuri beton și oțel</span></h5> 
-  <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" ><span id="en">Agricultural machinery</span><span id="ro">Utilaje agricultură</span></h5> 
-  <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" ><span id="en">Fertilizers</span><span id="ro">Îngrășăminte</span></h5>    
-  <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Sustainable wood</span><span id="ro">Lemn sustenabil</span></h5>    
-  <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Natural rubber</span><span id="ro">Cauciuc natural</span></h5>    
-  <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Plant resins</span><span id="ro">Rășini vegetale</span></h5>    
-  <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Natural pigments / dyes</span><span id="ro">Pigmenți / coloranți naturali </span> </h5>    
-  <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Weaving and basketry products</span><span id="ro">Produse pentru împletit și coșuri</span></h5>   
-  <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Soil erosion prevention plants - conifers</span><span id="ro">Puieți plante prevenție eroziune - conifere</span></h5>
-  <div class="rowbin" >-</div> 	   
-  <h5 class="categoryaccordion" ><span id="en">Soil erosion prevention plants - deciduous</span><span id="ro">Puieți plante prevenție eroziune - foioase</span></h5> 
-  <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" ><span id="en">Baby fruits trees</span><span id="ro">Puieți arbuști fructiferi</span></h5>    	
-  <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" ><span id="en">Flowers and ornamental plants</span><span id="ro">Flori și plante ornamentale</span></h5>  
-  <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Plants seeds ( Non-GMO )</span><span id="ro">Seminte plante ( Non-GMO )</span></h5>          
-  <div class="rowbin" >-</div>	
-  <h5 class="categoryaccordion" ><span id="en">Drought-tolerant seeds ( Non-GMO )</span><span id="ro">Semințe rezistente la secetă ( Non-GMO )</span></h5>   
-  <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Pest control solutions </span><span id="ro">Soluții de combatere a dăunătorilor</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="concreteandsteelsilosbtn" ><span id="en">Concrete and steel silos</span><span id="ro">Silozuri beton și oțel</span></h5> 
+   <table id="concreteandsteelsilos" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+  <h5 class="categoryaccordion" id="agriculturalmachinerybtn" ><span id="en">Agricultural machinery</span><span id="ro">Utilaje agricultură</span></h5> 
+   <table id="agriculturalmachinery" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+  <h5 class="categoryaccordion" id="fertilizersbtn" ><span id="en">Fertilizers</span><span id="ro">Îngrășăminte</span></h5>    
+   <table id="fertilizers" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+  <h5 class="categoryaccordion" id="sustainablewoodbtn" ><span id="en">Sustainable wood</span><span id="ro">Lemn sustenabil</span></h5>    
+   <table id="sustainablewood" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+  <h5 class="categoryaccordion" id="naturalrubberbtn" ><span id="en">Natural rubber</span><span id="ro">Cauciuc natural</span></h5>    
+   <table id="naturalrubber" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 	
+  <h5 class="categoryaccordion" id="plantresinsbtn" ><span id="en">Plant resins</span><span id="ro">Rășini vegetale</span></h5>    
+   <table id="plantresins" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	
+  <h5 class="categoryaccordion" id="naturalpigmentsbtn" ><span id="en">Natural pigments / dyes</span><span id="ro">Pigmenți / coloranți naturali </span> </h5>    
+   <table id="naturalpigments" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 	
+  <h5 class="categoryaccordion" id="weavingproductsbtn" ><span id="en">Weaving and basketry products</span><span id="ro">Produse pentru împletit și coșuri</span></h5>   
+   <table id="weavingproducts" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+  <h5 class="categoryaccordion" id="soilerosionpreventionplantsconifersbtn" ><span id="en">Soil erosion prevention plants - conifers</span><span id="ro">Puieți plante prevenție eroziune - conifere</span></h5>
+   <table id="soilerosionpreventionplantsconifers" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	   
+  <h5 class="categoryaccordion" id="soilerosionpreventionplantsdeciduousbtn" ><span id="en">Soil erosion prevention plants - deciduous</span><span id="ro">Puieți plante prevenție eroziune - foioase</span></h5> 
+   <table id="soilerosionpreventionplantsdeciduous" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+  <h5 class="categoryaccordion" id="babyfruitstreesbtn" ><span id="en">Baby fruits trees</span><span id="ro">Puieți arbuști fructiferi</span></h5>    	
+   <table id="babyfruitstrees" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+  <h5 class="categoryaccordion" id="flowersandornamentalplantsbtn" ><span id="en">Flowers and ornamental plants</span><span id="ro">Flori și plante ornamentale</span></h5>  
+   <table id="flowersandornamentalplants" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	
+  <h5 class="categoryaccordion" id="plantsseedsbtn" ><span id="en">Plants seeds ( Non-GMO )</span><span id="ro">Seminte plante ( Non-GMO )</span></h5>          
+   <table id="plantsseeds" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+  <h5 class="categoryaccordion" id="droughttolerantseedsbtn" ><span id="en">Drought-tolerant seeds ( Non-GMO )</span><span id="ro">Semințe rezistente la secetă ( Non-GMO )</span></h5>   
+   <table id="droughttolerantseeds" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	
+  <h5 class="categoryaccordion" id="pestcontrolsolutionsbtn" ><span id="en">Pest control solutions </span><span id="ro">Soluții de combatere a dăunătorilor</span></h5>    
+   <table id="pestcontrolsolutions" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	
   </div></li><!--END SECTION-->
 	   
   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>T. DOMESTIC ANIMALS FEED (0)</b></span><span id="ro"><b>T. HRANĂ ANIMALE DOMESTICE (0)</b></span></button><div class="catalogpanel">
