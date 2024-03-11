@@ -26,10 +26,14 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:black;"><span id="en">Masonry mortar</span><span id="ro">Mortar pentru zidărie</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >EN 998-2:2016</td></tr>
-<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000.00 RON / 40kg</td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BMS0000004</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Masonry mortar Adeplast MZ5</span><span id="ro">Mortar pentru zidărie Adeplast MZ5</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 998-2:2016</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.adeplast.ro/produse/mortare-pentru-zidarie/234-mz-5" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >17.3 RON / 30kg <span id="en">bulk</span><span id="ro">vrac</span> </td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
 <td style="color:black;"><span id="en">Rendering mortar</span><span id="ro">Mortar pentru tencuire exterioară</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >EN 998-1:2016</td></tr>
