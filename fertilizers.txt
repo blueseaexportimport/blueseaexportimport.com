@@ -25,7 +25,7 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">NFR0000003</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">NFR0000004</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
 <td style="color:#39ff14;"><span id="en">Organic Fertilizer - Manure and fish scraps</span><span id="ro">Îngrășămint Organic - Bălegar și resturi pește</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >-</td></tr>
@@ -35,8 +35,8 @@
 <tr><td>Formula 4</td><td>- RON / t <span id="en" >donkey manure</span><span id="ro">bălegar de măgar</span></td></tr>
 <tr><td>Formula 5</td><td>- RON / t <span id="en" >sheep manure</span><span id="ro">bălegar de oaie</span></td></tr>
 <tr><td>Formula 6</td><td>- RON / t <span id="en" >goat manure</span><span id="ro">bălegar de capră</span></td></tr>
-<tr><td>Formula 7</td><td>- RON / t <span id="en" >pig manure</span><span id="ro">bălegar de Porc</span></td></tr>
-<tr><td>Formula 8</td><td>- RON / t <span id="en" >poultry Manure</span><span id="ro">bălegar de Păsări</span></td></tr>
+<tr><td>Formula 7</td><td>- RON / t <span id="en" >pig manure</span><span id="ro">bălegar de porc</span></td></tr>
+<tr><td>Formula 8</td><td>- RON / t <span id="en" >domestic poultry manure</span><span id="ro">bălegar de păsări domestice</span></td></tr>
 <tr><td>Formula 9</td><td>- RON / t <span id="en" >fish scraps</span><span id="ro">resturi pește</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
