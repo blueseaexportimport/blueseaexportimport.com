@@ -604,7 +604,21 @@ $(document).ready(function () {
    });
   // Grab fertilizers info on click end
 
-
+  // Grab natural rubber info on click start
+  $("#naturalrubberbtn").click(function() {
+    if ($("#naturalrubber").hasClass("clickednaturalrubber")) {
+        // already been clicked once, hide it
+        $("#naturalrubber").html("");
+        $( "#naturalrubber" ).removeClass( "clickednaturalrubber" )
+    }else {
+        // first time this is clicked, mark it
+        $("#naturalrubber").addClass("clickednaturalrubber");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/naturalrubber.txt", success: function(result){
+         $("#naturalrubber").html(result);
+        }});
+    }
+   });
+  // Grab natural rubber info on click end
 
 	
   // Grab personal care - body and skin info on click start
