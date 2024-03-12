@@ -1,22 +1,6 @@
 <tbody>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Toilet paper natur color</span><span id="ro" >Hârtie igienică culoare natur</span></td></tr>
-<tr><td>Info:</td><td style="color:#39ff14;" ><span id="en">2 layers 18m 40rolls</span><span id="ro">2 straturi 18m 40role</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://www.donis-romania.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >27.2 RON / 40<span id="en">rolls</span><span id="ro">role</span></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000002</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Toilet paper Alint</span><span id="ro" >Hârtie igienică Alint</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://www.donis-romania.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td>Formula 1:</td><td>5.9 RON / 10<span id="en" >rolls - 2 layers</span><span id="ro">role - 2 straturi</span></td></tr>
-<tr><td>Formula 2:</td><td>7.5 RON / 10<span id="en" >rolls - 3 layers</span><span id="ro">role - 3 straturi</span></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000003</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Toilet paper Jumbo</span><span id="ro" >Hârtie igienică Jumbo</span></td></tr>
 <tr><td>Info:</td><td style="color:#39ff14;" ><span id="en">2 layers 100m 12rolls</span><span id="ro">2 straturi 100m 12role</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
@@ -26,7 +10,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://www.donis-romania.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000004</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000002</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Toilet paper</span><span id="ro" >Hârtie igienică</span> Fiore</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1:</td><td>2.6 RON / 4<span id="en" >rolls - 14.4m - 3 layers</span><span id="ro">role - 14.4m - 3 straturi</span></td></tr>
@@ -38,16 +22,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.montebianco.ro/h03c/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000005</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Toilet paper</span><span id="ro" >Hârtie igienică</span> Puff</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1:</td><td>5.4 RON / 4<span id="en" >rolls - 17.4m - 4 layers de Luxe</span><span id="ro">role - 17.4m - 4 straturi de Luxe</span></td></tr>
-<tr><td>Formula 2:</td><td>9.6 RON / 8<span id="en" >rolls - 20.4m - 3 layers supersoft</span><span id="ro">role - 20.4m - 3 straturi supersoft</span></td></tr>
-<tr><td>Formula 3:</td><td>10.4 RON / 8<span id="en" >rolls - 17.4m - 4 layers</span><span id="ro">role - 17.4m - 4 straturi</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.montebianco.ro/h03c/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000006</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000003</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Toilet paper</span><span id="ro" >Hârtie igienică</span> Neve Profesional</td></tr>
 <tr><td>Info:</td><td style="color:#39ff14;" ><span id="en">2 layers 170m 6roll</span><span id="ro">2 straturi 170m 6rolls</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
@@ -55,8 +30,7 @@
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >40 RON / 6<span id="en">rolls</span><span id="ro">role</span></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000007</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000004</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Toilet paper</span><span id="ro" >Hârtie igienică</span> Zewa</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Austria</td></tr>
 <tr><td>Formula 1:</td><td>25 RON / 8<span id="en" >rolls - 4 layers</span><span id="ro">role - 4 straturi</span> Exclusive Ultra Soft</td></tr>
@@ -77,25 +51,6 @@
 <tr><td>Formula 2:</td><td>8.1 RON / 1<span id="en" >rolls - 100m - 2 layers</span><span id="ro">role - 100m - 2 straturi</span> Monorola Donis</td></tr>
 <tr><td>Formula 3:</td><td>14.5 RON / 1<span id="en" >rolls - 180m - 2 layers</span><span id="ro">role - 180m - 2 straturi</span> Monorola Giga ( green )</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://www.donis-romania.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000009</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Paper kitchen towel</span><span id="ro" >Prosop hârtie de bucătărie</span> Fiore</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1:</td><td>2.4 RON / 2<span id="en" >rolls - 10.25m - 2 layers</span><span id="ro">role - 10.25m - 2 straturi</span></td></tr>
-<tr><td>Formula 2:</td><td>4.7 RON / 4<span id="en" >rolls - 10.25m - 2 layers</span><span id="ro">role - 10.25m - 2 straturi</span></td></tr>
-<tr><td>Formula 3:</td><td>9.2 RON / 8<span id="en" >rolls - 10.25m - 2 layers</span><span id="ro">role - 10.25m - 2 straturi</span></td></tr>
-<tr><td>Formula 4:</td><td>5 RON / 1<span id="en" >roll - 26.65m - 2 layers</span><span id="ro">rola - 26.65m - 2 straturi</span> Monorola</td></tr>
-<tr><td>Formula 5:</td><td>5.6 RON / 2<span id="en" >rolls - 26.65m - 2 layers</span><span id="ro">role - 26.65m- 2 straturi</span> Maxi</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.montebianco.ro/h03c/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000010</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Paper kitchen towel</span><span id="ro" >Prosop hârtie de bucătărie</span> Puff</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1:</td><td>5 RON / 1<span id="en" >roll - 42m - 2 layers</span><span id="ro">rola - 42m - 2 straturi</span> Monorola</td></tr>
-<tr><td>Formula 1:</td><td>4.4 RON / 2<span id="en" >rolls - 10.61m - 3 layers</span><span id="ro">role - 10.61m - 3 straturi</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.montebianco.ro/h03c/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP000000011</td></tr>
