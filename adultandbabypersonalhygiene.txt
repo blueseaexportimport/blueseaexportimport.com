@@ -44,7 +44,7 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0006</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Absorbent baby blanket</span><span id="ro" >Păturele absorbante bebeluși</span></td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Absorbent baby blanket</span><span id="ro" >Păturele absorbante bebeluși</span> Synek</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1:</td><td>8.5 RON / 10<span id="en" >pcs 60 x 60cm</span><span id="ro">buc 60 x 60cm</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://synekmedical.com/products/absorbent-pads-adults-and-kids/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
