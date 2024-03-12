@@ -152,7 +152,7 @@
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0021</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Adult diapers for men</span><span id="ro" >Scutece pentru bărbați</span> Elan</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="ro" >EU</span><span id="ro" >UE</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="ro" >EU</span><span id="ro" >Turkey</span></td></tr>
 <tr><td>Formula 1:</td><td>61 RON / 30<span id="en" >pcs waist size 85-115cm M</span><span id="ro">buc mărime talie 85-110cm M</span></td></tr>
 <tr><td>Formula 2:</td><td>70 RON / 30<span id="en" >pcs waist size 110-150cm L</span><span id="ro">buc mărime talie 110-150cm L</span></td></tr>
 <tr><td>Formula 3:</td><td>83 RON / 30<span id="en" >pcs waist size 120-170cm XL</span><span id="ro">buc mărime talie 120-170cm XL</span></td></tr>
