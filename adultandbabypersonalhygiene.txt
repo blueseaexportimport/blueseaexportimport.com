@@ -26,7 +26,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://www.donis-romania.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0002</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0004</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Nasal tissue</span><span id="ro" >Batiste nazale</span> Zewa</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1:</td><td>3.1 RON / <span id="en" >pcs - 10sheets - 3 layers</span><span id="ro">buc - 10foi - 3 straturi</span></td></tr>
@@ -44,112 +44,112 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.montebianco.ro/h03c/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0005</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0006</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Absorbent baby blanket</span><span id="ro" >Păturele absorbante bebeluși</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >-</td></tr>
 <tr><td>Formula 1:</td><td>- RON / <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0002</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0007</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Moist toilet tissue</span><span id="ro" >Șervetele umede</span> Zewa</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >-</td></tr>
 <tr><td>Formula 1:</td><td>- RON / <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0006</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0008</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Baby diapers</span><span id="ro" >Scutece copii</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="ro" >-</span><span id="ro" >-</span></td></tr>
 <tr><td>Formula 1:</td><td>- RON / <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0006</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0009</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Baby moist napkins</span><span id="ro" >Șervetele umede copii</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="ro" >-</span><span id="ro" >-</span></td></tr>
 <tr><td>Formula 1:</td><td>- RON / <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0006</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0010</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Cotton wool</span><span id="ro" >Vată medicinală de bumbac</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="ro" >-</span><span id="ro" >-</span></td></tr>
 <tr><td>Formula 1:</td><td>- RON / <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0006</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0011</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Cotton balls</span><span id="ro" >Bile din vată bumbac</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="ro" >-</span><span id="ro" >-</span></td></tr>
 <tr><td>Formula 1:</td><td>- RON / <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0006</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0012</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Plasters</span><span id="ro" >Plasture</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="ro" >-</span><span id="ro" >-</span></td></tr>
 <tr><td>Formula 1:</td><td>- RON / <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0006</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0013</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Elastic bandage</span><span id="ro" >Bandaje elastice</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="ro" >-</span><span id="ro" >-</span></td></tr>
 <tr><td>Formula 1:</td><td>- RON / <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0006</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0014</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Elastic bandage</span><span id="ro" >Bandaje elastice</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="ro" >-</span><span id="ro" >-</span></td></tr>
 <tr><td>Formula 1:</td><td>- RON / <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0006</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0015</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Women menstrual daily liners pads</span><span id="ro" >Tampoane absorbante menstruale femei</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="ro" >-</span><span id="ro" >-</span></td></tr>
 <tr><td>Formula 1:</td><td>- USD / <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0006</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0016</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Women menstrual pads</span><span id="ro" >Absorbante menstruale femei</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="ro" >-</span><span id="ro" >-</span></td></tr>
 <tr><td>Formula 1:</td><td>- USD / <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0006</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0017</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Period underwear for women</span><span id="ro" >Lenjerie menstruala femei</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="ro" >-</span><span id="ro" >-</span></td></tr>
 <tr><td>Formula 1:</td><td>- USD / <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0006</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0018</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Women incontinence pads</span><span id="ro" >Absorbante incontinenta femei</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="ro" >-</span><span id="ro" >-</span></td></tr>
 <tr><td>Formula 1:</td><td>- USD / <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0006</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0019</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Adult women diapers</span><span id="ro" >Scutece adulti pentru femei </span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="ro" >-</span><span id="ro" >-</span></td></tr>
 <tr><td>Formula 1:</td><td>- USD / <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0006</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0020</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Intimate tissue for women</span><span id="ro" >Şervete intime pentru femei </span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="ro" >-</span><span id="ro" >-</span></td></tr>
 <tr><td>Formula 1:</td><td>- USD / <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0006</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0021</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Adult diapers for men</span><span id="ro" >Scutece pentru bărbați</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="ro" >-</span><span id="ro" >-</span></td></tr>
 <tr><td>Formula 1:</td><td>- RON / <span id="en" >pcs size M</span><span id="ro">buc size M</span></td></tr>
@@ -157,24 +157,6 @@
 <tr><td>Formula 3:</td><td>- RON / <span id="en" >pcs size XL</span><span id="ro">buc size XL</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0006</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Adult incontinence men pads</span><span id="ro" >Scutece incontinență bărbați</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="ro" >-</span><span id="ro" >-</span></td></tr>
-<tr><td>Formula 1:</td><td>- RON / <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-
-
-
-
-
-
-
-
-
-
 
 
 
