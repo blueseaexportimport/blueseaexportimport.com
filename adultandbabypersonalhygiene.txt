@@ -27,7 +27,7 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0004</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Nasal tissue</span><span id="ro" >Batiste nazale</span> Zewa</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Nasal tissue</span><span id="ro" >Batiste nazale</span> Puff</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1:</td><td>3.1 RON / <span id="en" >pcs - 10sheets - 3 layers</span><span id="ro">buc - 10foi - 3 straturi</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.montebianco.ro/s09c/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
