@@ -1,1 +1,21 @@
+       <tr><td><span id="en">Corrugated board single face, flute A</span><span id="ro">Placă carton ondulat, cu o singură față ,ondulă A</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Corrugated board single face, flute C</span><span id="ro">Placă carton ondulat, cu o singură față ,ondulă C</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Corrugated board single face, flute B</span><span id="ro">Placă carton ondulat, cu o singură față ,ondulă B</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Corrugated board single face, flute E</span><span id="ro">Placă carton ondulat, cu o singură față ,ondulă E</span></td><td>-</td><td>-</td></tr> 
 
+       <tr><td><span id="en">Corrugated board single wall, flute A</span><span id="ro">Placă carton ondulat, cu un singur perete ,ondulă A</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Corrugated board single wall, flute C</span><span id="ro">Placă carton ondulat, cu un singur perete ,ondulă C</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Corrugated board single wall, flute B</span><span id="ro">Placă carton ondulat, cu un singur perete ,ondulă B</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Corrugated board single wall, flute E</span><span id="ro">Placă carton ondulat, cu un singur perete ,ondulă E</span></td><td>-</td><td>-</td></tr> 
+	   
+       <tr><td><span id="en">Corrugated board double wall, flute AA</span><span id="ro">Placă carton ondulat, cu perete dublu ,ondulă AA</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Corrugated board double wall, flute CA</span><span id="ro">Placă carton ondulat, cu perete dublu ,ondulă CA</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Corrugated board double wall, flute BA</span><span id="ro">Placă carton ondulat, cu perete dublu ,ondulă BA</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Corrugated board double wall, flute BC</span><span id="ro">Placă carton ondulat, cu perete dublu ,ondulă BC</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Corrugated board double wall, flute EA</span><span id="ro">Placă carton ondulat, cu perete dublu ,ondulă EA</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Corrugated board double wall, flute EC</span><span id="ro">Placă carton ondulat, cu perete dublu ,ondulă EC</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Corrugated board double wall, flute EB</span><span id="ro">Placă carton ondulat, cu perete dublu ,ondulă EB</span></td><td>-</td><td>-</td></tr> 
+
+       <tr><td><span id="en">Corrugated board triple wall, flute AAA</span><span id="ro">Placă carton ondulat, cu perete triplu ,ondulă AAA</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Corrugated board triple wall, flute ACA</span><span id="ro">Placă carton ondulat, cu perete triplu ,ondulă ACA</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Corrugated board triple wall, flute BCA</span><span id="ro">Placă carton ondulat, cu perete triplu ,ondulă BCA</span></td><td>-</td><td>-</td></tr> 
