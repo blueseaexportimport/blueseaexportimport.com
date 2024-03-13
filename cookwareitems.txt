@@ -1,2 +1,80 @@
 <tbody>
+
+       <tr><td>Ceramic sarmale pot</td><td>-</td><td>-</td></tr>        
+       <tr><td>Ceramic mug</td><td>-</td><td>-</td></tr>        
+       <tr><td>Ceramic tajine</td><td>-</td><td>-</td></tr>        
+       <tr><td>Ceramic jug</td><td>-</td><td>-</td></tr>        
+       <tr><td>Ceramic bowl</td><td>-</td><td>-</td></tr>
+       <tr><td>Ceramic appetizer plate</td><td>-</td><td>-</td></tr>
+       <tr><td>Ceramic bread and butter plate</td><td>-</td><td>-</td></tr>
+       <tr><td>Ceramic salad and dessert plate</td><td>-</td><td>-</td></tr>
+       <tr><td>Ceramic dinner plate</td><td>-</td><td>-</td></tr>
+       <tr><td>Ceramic tea kettle</td><td>-</td><td>-</td></tr>
+       <tr><td>Ceramic sugar bowl</td><td>-</td><td>-</td></tr>
+       <tr><td>Ceramic trays</td><td>-</td><td>-</td></tr>
+       <tr><td>Ceramic pottery pitcher</td><td>-</td><td>-</td></tr
+       <tr><td>Porcelain tea kettle</td><td>-</td><td>-</td></tr>        
+       <tr><td>Porcelain tea cup</td><td>-</td><td>-</td></tr>
+       <tr><td>Porcelain coffee cup</td><td>-</td><td>-</td></tr>
+       <tr><td>Porcelain mug</td><td>-</td><td>-</td></tr>
+       <tr><td>Porcelain sugar bowl</td><td>-</td><td>-</td></tr>
+       <tr><td>Porcelain bowl</td><td>-</td><td>-</td></tr>
+       <tr><td>Porcelain appetizer plate</td><td>-</td><td>-</td></tr>
+       <tr><td>Porcelain bread and butter plate</td><td>-</td><td>-</td></tr>
+       <tr><td>Porcelain salad and dessert plate</td><td>-</td><td>-</td></tr>
+       <tr><td>Porcelain dinner plate</td><td>-</td><td>-</td></tr>
+       <tr><td>Porcelain gravy boat</td><td>-</td><td>-</td></tr>
+       <tr><td>Porcelain tureen</td><td>-</td><td>-</td></tr>
+       <tr><td>Porcelain tray</td><td>-</td><td>-</td></tr>
+       <tr><td>Porcelain saltshaker</td><td>-</td><td>-</td></tr>
+       <tr><td>Porcelain milk mug</td><td>-</td><td>-</td></tr>
+       <tr><td>Enameled mug</td><td>-</td><td>-</td></tr>        
+       <tr><td>Enameled bucket</td><td>-</td><td>-</td></tr>
+       <tr><td>Enameled kettle</td><td>-</td><td>-</td></tr>
+       <tr><td>Enamelled pot lid</td><td>-</td><td>-</td></tr>
+       <tr><td>Enameled pan</td><td>-</td><td>-</td></tr>
+       <tr><td>Enameled tray</td><td>-</td><td>-</td></tr>
+       <tr><td>Enameled pot</td><td>-</td><td>-</td></tr>
+       <tr><td>Enameled cauldron</td><td>-</td><td>-</td></tr>
+       <tr><td>Cauldron tripod</td><td>-</td><td>-</td></tr>
+       <tr><td>Enameled lard pan</td><td>-</td><td>-</td></tr>
+       <tr><td>Enamel baking tray</td><td>-</td><td>-</td></tr 
+       <tr><td>Cast iron cauldron</td><td>-</td><td>-</td></tr>
+       <tr><td>Cast iron pot</td><td>-</td><td>-</td></tr>
+       <tr><td>Cast iron pan</td><td>-</td><td>-</td></tr>
+       <tr><td>Cast iron baking tray</td><td>-</td><td>-</td></tr>
+       <tr><td>Cast aluminium cauldron</td><td>-</td><td>-</td></tr>
+       <tr><td>Cast aluminium pot</td><td>-</td><td>-</td></tr>
+       <tr><td>Cast aluminium pan</td><td>-</td><td>-</td></tr>
+       <tr><td>Martini glass</td><td>-</td><td>-</td></tr>
+       <tr><td>Wine glass</td><td>-</td><td>-</td></tr>
+       <tr><td>Snifter - brandy glass </td><td>-</td><td>-</td></tr>
+       <tr><td>Champagne coupe or champagne saucer</td><td>-</td><td>-</td></tr>
+       <tr><td>Champagne flute</td><td>-</td><td>-</td></tr>
+       <tr><td>Cordial glass</td><td>-</td><td>-</td></tr>   
+       <tr><td>Collins glass</td><td>-</td><td>-</td></tr>
+       <tr><td>Highball - tall glass </td><td>-</td><td>-</td></tr>
+       <tr><td>Water glass  </td><td>-</td><td>-</td></tr>
+       <tr><td>Rock glass - low ball glass </td><td>-</td><td>-</td></tr>
+       <tr><td>Whiskey tumbler </td><td>-</td><td>-</td></tr>
+       <tr><td>Shot glass</td><td>-</td><td>-</td></tr> 
+       <tr><td>Beer glass </td><td>-</td><td>-</td></tr> 
+       <tr><td>Beer mug </td><td>-</td><td>-</td></tr>        
+       <tr><td>Glass mug </td><td>-</td><td>-</td></tr>     
+       <tr><td>Glass tray </td><td>-</td><td>-</td></tr>      
+       <tr><td>Glass bowl </td><td>-</td><td>-</td></tr>   
+       <tr><td>Glass ice cream cup </td><td>-</td><td>-</td></tr>   
+       <tr><td>Glas vase</td><td>-</td><td>-</td></tr>     
+       <tr><td>Glass decanter </td><td>-</td><td>-</td></tr>      
+       <tr><td>Glass carafe </td><td>-</td><td>-</td></tr>   
+       <tr><td>Ice bucket </td><td>-</td><td>-</td></tr>  
+       <tr><td>Glass Salt & Pepper Shaker</td><td>-</td><td>-</td></tr>   
+       <tr><td>Glass ash tray </td><td>-</td><td>-</td></tr>   
+       <tr><td>Glass measuring jar</td><td>-</td><td>-</td></tr>     
+       <tr><td>Glass borosilicate cooking tray </td><td>-</td><td>-</td></tr>      
+       <tr><td>Glass borosilicate cooking pot</td><td>-</td><td>-</td></tr>   
+       <tr><td>Enameled Ladle</td><td>-</td><td>-</td></tr>     
+       <tr><td>Colander - cullender </td><td>-</td><td>-</td></tr>      
+       <tr><td>Grater</td><td>-</td><td>-</td></tr>
+
 </tbody>
