@@ -1,2 +1,27 @@
 <tbody>
+      <tr><td><span id="en">Doll</span><span id="ro">Păpuşă</span> </td><td>- </td><td>-</td></tr>
+      <tr><td><span id="en">Wood figure</span><span id="ro">Figurină din lemn</span> </td><td>- </td><td>-</td></tr>
+      <tr><td><span id="en">Teddy bear</span><span id="ro">Ursuleț Teddy </span> </td><td>- </td><td>-</td></tr>
+      <tr><td><span id="en">Rubber Ducky</span><span id="ro">Rățușcă din cauciuc</span> </td><td>- </td><td>-</td></tr>
+      <tr><td><span id="en">Cars set</span><span id="ro">Set mașinuțe</span> </td><td>- </td><td>-</td></tr>    
+      <tr><td><span id="en">Trains set</span><span id="ro">Set trenulețe</span> </td><td>- </td><td>-</td></tr> 
+      <tr><td><span id="en">Airplanes set</span><span id="ro">Set avioane</span> </td><td>- </td><td>-</td></tr> 
+      <tr><td><span id="en">Ships and boats set</span><span id="ro">Set bărci și vapoare</span> </td><td>- </td><td>-</td></tr> 
+      <tr><td><span id="en">Ballons set</span><span id="ro">Set baloane</span></td><td>- </td><td>-</td></tr>    
+      <tr><td><span id="en">Playing cards</span><span id="ro">Set cărți de joc</span> </td><td>- </td><td>-</td></tr>   
+      <tr><td><span id="en">Wood puzzle</span><span id="ro">Puzzle din lemn</span> </td><td>- </td><td>-</td></tr>   
+      <tr><td><span id="en">Cardboard jigsaw puzzle</span><span id="ro">Puzzle jigsaw din carton</span> </td><td>- </td><td>-</td></tr>     
+      <tr><td><span id="en">Cardboard social board game</span><span id="ro">Joc social din carton</span> </td><td>- </td><td>-</td></tr>       
+      <tr><td><span id="en">Cardboard Educative Game</span><span id="ro">Joc educativ din carton</span> </td><td>- </td><td>-</td></tr>   
+      <tr><td><span id="en">Chess board set</span><span id="ro">Set Tablă și piese șah</span> </td><td>- </td><td>-</td></tr>   
+      <tr><td><span id="en">Backgammon pieces</span><span id="ro">Piese table</span> </td><td>- </td><td>-</td></tr>   
+      <tr><td><span id="en">Backgammon dice</span><span id="ro">Zaruri table</span> </td><td>- </td><td>-</td></tr>   
+      <tr><td><span id="en">Chess pieces</span><span id="ro">Piese șah</span> </td><td>- </td><td>-</td></tr>   
+      <tr><td><span id="en">Rummy set</span><span id="ro">Set remi</span> </td><td>- </td><td>-</td></tr>  
+      <tr><td><span id="en">Rummy pieces</span><span id="ro">Piese remi</span> </td><td>- </td><td>-</td></tr>  
+      <tr><td><span id="en">Polystyrene Plane</span><span id="ro">Avion din politiren</span> </td><td>- </td><td>-</td></tr>   
+      <tr><td><span id="en">Paper Windmill Toy</span><span id="ro">Morișcă de vânt din hârtie</span> </td><td>- </td><td>-</td></tr>   
+      <tr><td><span id="en">Model Airplane Toy</span><span id="ro">Jucărie de avion model</span> </td><td>- </td><td>-</td></tr>   
+      <tr><td><span id="en">Model Ship Toy</span><span id="ro">Jucărie vapor model</span> </td><td>- </td><td>-</td></tr>  
+      <tr><td><span id="en">Model Vehicle Toy</span><span id="ro">Jucărie vehicul model</span> </td><td>- </td><td>-</td></tr>
 </tbody>
