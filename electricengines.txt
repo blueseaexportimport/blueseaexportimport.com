@@ -1,2 +1,10 @@
 <tbody>
+       <tr><td>Single-phase motor </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Two-phase motor </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Three-phase motor </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Polyphase motor </td><td>Model A  / Roll</td><td>-</td></tr>  
+       <tr><td>Stepper motor </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Brushless motor </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Rotary actuator </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Liniar actuator </td><td>Model A  / Roll</td><td>-</td></tr>
 </tbody>
