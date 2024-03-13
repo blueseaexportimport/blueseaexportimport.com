@@ -1,1 +1,34 @@
-
+    <tr><td><span id="en">Jasmine ( Jasminum officinale )</span><span id="ro">Iasomnie ( Jasminum officinale )</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Tulip ( Tulipa × gesneriana )</span><span id="ro">Lalele ( Tulipa × gesneriana )</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Daisy ( Bellis perennis )</span><span id="ro">Bănuț ( Bellis perennis )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Gallic rose ( Rosa gallica )</span><span id="ro">Trandafir galic ( Rosa gallica )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Damask rose ( Rosa × damascena )</span><span id="ro">Trandafir de Damasc ( Rosa × damascena )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">China rose ( Rosa chinensis )</span><span id="ro">Trandafir chinezesc ( Rosa chinensis )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">White rose of York ( Rosa × alba )</span><span id="ro">Trandafir alb de York ( Rosa × alba )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dog Rose ( Rosa caninae )</span><span id="ro">Măceș ( Rosa caninae )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Poet's daffodil ( Narcissus poeticus )</span><span id="ro">Narcisa albă  ( Narcissus poeticus )</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Lily of the valley ( Convallaria majalis )</span><span id="ro">Lăcrămioară ( Convallaria majalis )</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Madonna lily ( Lilium candidum )</span><span id="ro">Crin alb ( Lilium candidum )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Common zinnia ( Zinnia elegans )</span><span id="ro">Cârciumăreasă ( Zinnia elegans )</span></td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Wild pansy ( Viola tricolor )</span><span id="ro">Panseluță ( Viola tricolor )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Garden hyacinth ( Hyacinthus orientalis )</span><span id="ro">Zambilă ( Hyacinthus orientalis )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Wax begonia  ( Begonia Semperflorens )</span><span id="ro">Begonie cerată  ( Begonia Semperflorens )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Lilac ( Syringa vulgaris )</span><span id="ro">Lilac ( Syringa vulgaris )</span></td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Snowdrop ( Galanthus nivalis )</span><span id="ro">Ghiocel ( Galanthus nivalis )</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Common violet ( Viola odorata )</span><span id="ro">Toporaș ( Viola odorata )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Madonna lily ( Trifolium pratense )</span><span id="ro">Trifoi roşu ( Trifolium pratense )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Common zinnia ( Tulipa × gesneriana )</span><span id="ro">Laleaua lui Didier ( Tulipa × gesneriana )</span></td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Wild pansy ( Dianthus caryophyllus )</span><span id="ro">Garoafă ( Dianthus caryophyllus )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Cosmos ( Cosmos bipinnatus )</span><span id="ro">Cosmos ( Cosmos bipinnatus )</span></td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">German bearded iris ( Iris × germanica )</span><span id="ro">Stânjenel ( Iris × germanica )</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Common violet ( Pelargonium × hortorum )</span><span id="ro">Mușcata de grădină ( Pelargonium × hortorum )</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Clematis 'Jackmanii' ( Clematis × jackmanii )</span><span id="ro">Curpen de grădină ( Clematis × jackmanii )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Castor oil plant ( Ricinus communis )</span><span id="ro">Ricin ( Ricinus communis )</span></td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Alpine columbine ( Aquilegia alpina )</span><span id="ro">Columbina alpină ( Aquilegia alpina )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Columbine ( Aquilegia vulgaris )</span><span id="ro">Căldăruşă ( Aquilegia vulgaris )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Morning glory ( Ipomea tricolor )</span><span id="ro">Zorea ( Ipomea tricolor )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Aztec marigold ( Tagetes erecta )</span><span id="ro">Crăiță ( Tagetes erecta )</span></td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Passion flower ( Passiflora caerulea )</span><span id="ro">Floarea pasiunii ( Passiflora caerulea )</span></td><td>-</td><td>-</td></tr>        
+    <tr><td><span id="en">Dwarf periwinkle ( Vinca Minor )</span><span id="ro">Saschiu ( Vinca Minor )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Fescue ( Festuca - genus )</span><span id="ro">Păiuș ( Festuca - genus )</span></td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Common meadow-grass ( Poa pratensis )</span><span id="ro">Iarbă de luncă ( Poa pratensis )</span></td><td>-</td><td>-</td></tr> 
