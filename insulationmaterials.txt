@@ -1,1 +1,20 @@
-
+      <tr><td>Bituminous membrane primer</td><td>-</td><td>-</td></tr>
+       <tr><td>Bituminous primer</td><td>-</td><td>-</td></tr>
+       <tr><td>Bituminous roofing felt </td><td>- </td><td>-</td></tr>
+       <tr><td>Bitumen waterproofing membrane </td><td>-</td><td>-</td></tr>
+       <tr><td>Mineral glass wool  </td><td>- </td><td>-</td></tr>
+       <tr><td>Basalt mineral wool </td><td>- </td><td>-</td></tr>
+       <tr><td>Extruded Polystyrene XPS</td><td>-</td><td>-</td></tr>
+       <tr><td>Expanded polystyrene EPS</td><td>-</td><td>-</td></tr>
+       <tr><td>Fiberglass mesh</td><td>-</td><td>-</td></tr>
+       <tr><td>Dowel for thermal insulation</td><td>-</td><td>-</td></tr>
+       <tr><td>PU polyurethane foam insulation sealant</td><td>-</td><td>-</td></tr>
+       <tr><td>Thermal insulation putty </td><td>- </td><td>-</td></tr>
+       <tr><td>Insulation spacers</td><td>-</td><td>-</td></tr>
+       <tr><td>Liquid rubber waterproof membrane</td><td>-</td><td>-</td></tr>
+       <tr><td>Waterproofing paste</td><td>-</td><td>-</td></tr>
+       <tr><td>Waterproof liquid film</td><td>-</td><td>-</td></tr>
+       <tr><td>Quick setting waterproofing compound</td><td>-</td><td>-</td></tr>
+       <tr><td>Flexible waterproofing membrane</td><td>-</td><td>-</td></tr>
+       <tr><td>Polyurethane waterproofing membrane </td><td>- </td><td>-</td></tr>
+       <tr><td>Silicone sealant</td><td>-</td><td>-</td></tr>
