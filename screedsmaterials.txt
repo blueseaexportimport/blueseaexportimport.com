@@ -30,4 +30,19 @@
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000.00 RON / 15kg</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
+
+       <tr><td><span id="en">Self leveling screed acrylic based primer</span><span id="ro">Amorsă acrilică șapă auto-nivelantă</span> </td><td>-</td><td>-</td></tr>       
+       <tr><td><span id="en">Adhesion Primer</span><span id="ro">Amorsa de aderență</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Polyurethane Floor Primer</span><span id="ro">Amorsă poliuretanică șape</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Cement screed absorbent - Dispersion primer</span><span id="ro">Amorsă suporturi absorbante</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Screed mesh</span><span id="ro">Plasă pentru șape</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Reinforcing glass fibres for screeds</span><span id="ro">Fibre sticlă armare pentru șape</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">EPS Expanded Polystyrene beads</span><span id="ro">Perle polistiren pentru șape</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Screed binder</span><span id="ro">Liant pentru șape</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Stripping agent for removing cement and mortar</span><span id="ro">Agent decofrare</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Sodium silicate - water glass</span><span id="ro">Silicat de sodiu - Apă de sticlă</span></td><td>-</td><td>-</td></tr>
+<tr><td><span id="en">Washable Paint Primer  10L </span><span id="ro">Amorsă Vopsea Lavabilă 10L </span></td>
+       <tr><td><span id="en">Universal primer</span><span id="ro">Amorsă universala</span>  </td><td>- </td><td>-</td></tr>
+
+
 </tbody>
