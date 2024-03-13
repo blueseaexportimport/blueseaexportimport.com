@@ -1,2 +1,67 @@
 <tbody>
+       <tr><td>Transistor FET Type MOSFET </td><td>Model Xyz Analogic </td><td>-</td></tr>
+       <tr><td>Transistor FET Type FeFET  </td><td>Model Xyz SMD </td><td>-</td></tr>
+       <tr><td>Transistor FET Type CNTFET  </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>Transistor FET Type JFET  </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>Transistor FET Type MESFET  </td><td>Model Xyz </td><td>-</td></tr>     
+       <tr><td>Transistor FET Type HEMT  </td><td>Model Xyz </td><td>-</td></tr>  
+       <tr><td>Transistor Composite Type BiCMOS  </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>Transistor Composite Type IGBT  </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>Transistor BJT NPN </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>Transistor BJT PNP </td><td>Model Xyz </td><td>-</td></tr>   
+       <tr><td>Transistor Darlington Type NPN </td><td>Model Xyz </td><td>-</td></tr>         
+      <tr><td>Transistor Darlington Type PNP </td><td>Model Xyz </td><td>-</td></tr> 
+      <tr><td>Transistor Sziklai pair </td><td>Model Xyz </td><td>-</td></tr>
+      <tr><td>Transistor Thyristor Type SCR </td><td>Model Xyz </td><td>-</td></tr> 
+      <tr><td>Transistor Thyristor Type TRIAC </td><td>Model Xyz </td><td>-</td></tr> 
+      <tr><td>Transistor Thyristor Type UJT </td><td>Model Xyz </td><td>-</td></tr>    
+      <tr><td>Transistor Thyristor Type PUT </td><td>Model Xyz </td><td>-</td></tr>     
+       <tr><td>Transistor Thyristor Type SITh </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>Diode Bridge Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>Diode Rectifier Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>Diode Schottky Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>Diode Zener Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>Diode TVS Type </td><td>Model Xyz </td><td>-</td></tr>
+      <tr><td>Diode Varicap - Tuning Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>Diode Laser Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>Diode LED Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>Diode Photodiode  Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>Diode DIAC Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>Diode CLD Type </td><td>Model Xyz </td><td>-</td></tr>
+      <tr><td>Diode CRD Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>Diode Step recovery Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>Diode Tunnel Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>IC MOS IC Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>IC hybrid IC Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>IC Mixed-signal Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>IC 3D IC Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>IC Logic gate Type </td><td>Model Xyz </td><td>-</td></tr>
+      <tr><td>IC Microcontroller Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>IC Analogic Hall-Effect Sensor Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>IC Analogic Current Sensor Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>PLD FPGA Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>PLD CPLD Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>PLD FPAA Type </td><td>Model Xyz </td><td>-</td></tr>  
+       <tr><td>OED Optical isolator Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>OED Optical switch Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>OED LED display Type </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>OED Photodiode Type </td><td>Model Xyz </td><td>-</td></tr> 
+       <tr><td>Filament lamp </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>Vacuum fluorescent display  </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>Cathode ray tube (CRT) </td><td>Model Xyz </td><td>-</td></tr>
+       <tr><td>LCD Display </td><td>Model Xyz </td><td>-</td></tr> 
+       <tr><td>Neon Display </td><td>Model Xyz </td><td>-</td></tr>  
+       <tr><td>LED Display </td><td>Model Xyz </td><td>-</td></tr> 
+       <tr><td>Split-flap display  </td><td>Model Xyz </td><td>-</td></tr>     
+       <tr><td>Plasma display </td><td>Model Xyz </td><td>-</td></tr> 
+       <tr><td>OLED Display</td><td>Model Xyz </td><td>-</td></tr>  
+       <tr><td>Micro-LED  Display </td><td>Model Xyz </td><td>-</td></tr> 
+       <tr><td>Power Source Battery  </td><td>Model Xyz </td><td>-</td></tr>  
+       <tr><td>Power Source Fuel cell </td><td>Model Xyz </td><td>-</td></tr> 
+       <tr><td>Power Source Power supply  </td><td>Model Xyz </td><td>-</td></tr>   
+       <tr><td>Power Source Photovoltaic </td><td>Model Xyz </td><td>-</td></tr>  
+       <tr><td>Power Source Thermoelectric generator  </td><td>Model Xyz </td><td>-</td></tr> 
+       <tr><td>Power Source Electrical generator </td><td>Model Xyz </td><td>-</td></tr>  
+       <tr><td>Power Source Piezoelectric generator </td><td>Model Xyz </td><td>-</td></tr> 
+       <tr><td>Power Source Van de Graaff generator  </td><td>Model Xyz </td><td>-</td></tr>
 </tbody>
