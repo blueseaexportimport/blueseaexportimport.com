@@ -1,1 +1,42 @@
 
+       <tr><td>Tee </td><td>-</td><td>-</td></tr>
+       <tr><td>Elbow </td><td>-</td><td>-</td></tr>
+       <tr><td>Coupler </td><td>-</td><td>-</td></tr>
+       <tr><td>End cap </td><td>-</td><td>-</td></tr>
+       <tr><td>FTA </td><td>-</td><td>-</td></tr>
+       <tr><td>MTA </td><td>-</td><td>-</td></tr>
+       <tr><td>45° Elbow </td><td>-</td><td>-</td></tr>
+       <tr><td>Union </td><td>-</td><td>-</td></tr>
+       <tr><td>Tank adaptor </td><td>-</td><td>-</td></tr>
+       <tr><td>Reducer coupler </td><td>-</td><td>-</td></tr>
+       <tr><td>Reducer tee </td><td>-</td><td>-</td></tr>
+       <tr><td>Cross tee </td><td>-</td><td>-</td></tr>
+       <tr><td>Reducer bush </td><td>-</td><td>-</td></tr>
+       <tr><td>Ball valve </td><td>-</td><td>-</td></tr>
+       <tr><td>NRV </td><td>-</td><td>-</td></tr>
+       <tr><td>FTA </td><td>-</td><td>-</td></tr>
+       <tr><td>Reducer Elbow </td><td>-</td><td>-</td></tr>
+       <tr><td>Hexagon female</td><td>-</td><td>-</td></tr>
+       <tr><td>Hexagon male</td><td>-</td><td>-</td></tr>
+       <tr><td>Concealed valve</td><td>-</td><td>-</td></tr>
+       <tr><td>Transaction bush</td><td>-</td><td>-</td></tr>
+       <tr><td>Mixer Tap </td><td>-</td><td>-</td></tr>
+       <tr><td>Monobloc Tap </td><td>-</td><td>-</td></tr>
+       <tr><td>Pillar Tap </td><td>-</td><td>-</td></tr>
+       <tr><td>Bib Tap </td><td>-</td><td>-</td></tr>
+       <tr><td>Wall Mounted Tap </td><td>-</td><td>-</td></tr>
+       <tr><td>Deck Mounted Tap </td><td>-</td><td>-</td></tr>
+       <tr><td>Non Concussive Tap</td><td>-</td><td>-</td></tr>
+       <tr><td>Sensor Tap</td><td>-</td><td>-</td></tr>
+       <tr><td>Sequential Tap</td><td>-</td><td>-</td></tr>
+       <tr><td>Transaction bush</td><td>-</td><td>-</td></tr>
+       <tr><td>Ceramic Disk Valve Operation </td><td>-</td><td>-</td></tr>
+       <tr><td>Washer Valve Operation </td><td>-</td><td>-</td></tr>
+       <tr><td>Ceramic Disk Cartridge Operation </td><td>-</td><td>-</td></tr>
+       <tr><td>Sequential Cartridge Operation </td><td>-</td><td>-</td></tr>
+       <tr><td>Timer Cartridge Tap </td><td>-</td><td>-</td></tr>
+       <tr><td>Deck Mounted Tap </td><td>-</td><td>-</td></tr>
+       <tr><td>Non Concussive Tap</td><td>-</td><td>-</td></tr>
+       <tr><td>Sensor Tap</td><td>-</td><td>-</td></tr>
+       <tr><td>Sequential Tap</td><td>-</td><td>-</td></tr>
+       <tr><td>Transaction bush</td><td>-</td><td>-</td></tr>
