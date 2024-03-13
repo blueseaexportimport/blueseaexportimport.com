@@ -1,1 +1,15 @@
-
+       <tr><td><span id="en">Ordinary glass - soda glass</span><span id="ro">Sticlă soda-var ( simplă )</span> </td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Low-E glass</span><span id="ro">Sticlă Low-E</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">4Seasons glass</span><span id="ro">Sticlă 4Seasons</span></td><td>-</td><td>-</td></tr>   
+       <tr><td><span id="en">Tempered glass</span><span id="ro">Sticlă călită</span></td><td>-</td><td>-</td></tr>   
+       <tr><td><span id="en">Reflective glass - bronze color</span><span id="ro">Sticlă reflectorizantă - culoare bronz</span></td><td>-</td><td>-</td></tr>             
+       <tr><td><span id="en">Fire-resistant  glass</span><span id="ro">Sticlă rezistentă la foc</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Laminated glass</span><span id="ro">Sticlă laminată</span></td><td>-</td><td>-</td></tr>           
+       <tr><td><span id="en">Safety glass</span><span id="ro">Sticlă securizată</span></td><td>-</td><td>-</td></tr>      
+       <tr><td><span id="en">Sandblasted glass</span><span id="ro">Sticlă șablată</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Ornamental glass</span><span id="ro">Sticlă ornamentală</span></td><td>-</td><td>-</td></tr>        
+       <tr><td><span id="en">Decorative etched glass</span><span id="ro">Sticlă decorativă gravată</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Lead - crystal glass</span><span id="ro">Sticlă cristal - cu conținut de plumb</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Ceramic printed glass</span><span id="ro">Sticlă serigrafiată</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Ballistic glass</span><span id="ro">Sticlă balistică</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Anti-burglary glass</span><span id="ro">Sticlă anti-efracție</span></td><td>-</td><td>-</td></tr> 
