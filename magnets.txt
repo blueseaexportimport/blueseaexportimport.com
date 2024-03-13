@@ -1,1 +1,10 @@
 
+       <tr><td>Permanent Ferrite / Ceramic Magnet</td><td>-</td><td>-</td></tr>    
+       <tr><td>Permanent Alnico Magnet</td><td>-</td><td>-</td></tr>    
+       <tr><td>Permanent Samarium Cobalt Magnet</td><td>-</td><td>-</td></tr>     
+       <tr><td>Permanent Neodymium Iron Boron Magnet</td><td>-</td><td>-</td></tr>     
+       <tr><td>Permanent Injection Molded Magnet</td><td>-</td><td>-</td></tr>     
+       <tr><td>Permanent Flexible Molded Magnet</td><td>-</td><td>-</td></tr>     
+       <tr><td>Electromagnet Resistive </td><td>-</td><td>-</td></tr>     
+       <tr><td>Electromagnet Superconducting </td><td>-</td><td>-</td></tr>     
+       <tr><td>Electromagnet Hybrid </td><td>-</td><td>-</td></tr>
