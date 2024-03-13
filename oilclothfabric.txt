@@ -1,1 +1,6 @@
 
+       <tr><td>Solid oilcloth fabric </td><td>-</td><td>-</td></tr>        
+       <tr><td>Holid oilcloth fabric</td><td>-</td><td>-</td></tr>        
+       <tr><td>Floral oilcloth fabric</td><td>-</td><td>-</td></tr>
+       <tr><td>Animal oilcloth fabric</td><td>-</td><td>-</td></tr>
+       <tr><td>Nautical oilcloth fabric</td><td>-</td><td>-</td></tr>
