@@ -1,1 +1,6 @@
 
+       <tr><td><span id="en">Timber formwork element xyz</span><span id="ro">Element cofraj din lemn xyz</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Steel formwork element xyz</span><span id="ro">Element cofraj din oțel xyz</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Plywood formwork element xyz/span><span id="ro">Element cofraj din placaj xyz</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Aluminum formwork element xyz</span><span id="ro">Element cofraj din aluminiu xyz</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Tunnel formwork element xyz</span><span id="ro">Element cofraj pentru tunel xyz</span> </td><td>-</td><td>-</td></tr>
