@@ -1,2 +1,39 @@
 <tbody>
+       <tr><td>Smart TV OLED</td><td>Philips Model xyz  </td><td>-</td></tr>  
+       <tr><td>Sound bar</td><td>Philips Model xyz  </td><td>-</td></tr>
+       <tr><td>Projector</td><td>Philips Model xyz  </td><td>-</td></tr>
+       <tr><td>Blu-ray Player</td><td>Philips Model xyz  </td><td>-</td></tr>
+       <tr><td>Bluetooth Speaker</td><td>Philips Model xyz  </td><td>-</td></tr>
+       <tr><td>Bluetooth Speaker</td><td>Philips Model xyz  </td><td>-</td></tr>    
+       <tr><td>5G Phone</td><td>Philips Model xyz  </td><td>-</td></tr>  
+       <tr><td>Smart bulb</td><td>Philips Model xyz  </td><td>-</td></tr>      
+       <tr><td>Smart switch</td><td>Philips Model xyz  </td><td>-</td></tr>      
+       <tr><td>Smart thermostat</td><td>Philips Model xyz  </td><td>-</td></tr>   
+       <tr><td>Smart sensor</td><td>Philips Model xyz  </td><td>-</td></tr>    
+       <tr><td>Router</td><td>Philips Model xyz  </td><td>-</td></tr>    
+       <tr><td>Smart camera</td><td>Philips Model xyz  </td><td>-</td></tr>     
+       <tr><td>Range extender</td><td>Philips Model xyz  </td><td>-</td></tr>    
+       <tr><td>Smart assistent</td><td>Philips Model xyz  </td><td>-</td></tr>  
+       <tr><td>GPS Traker for Cats</td><td>Philips Model xyz  </td><td>-</td></tr>     
+       <tr><td>GPS Traker for Dogs</td><td>Philips Model xyz  </td><td>-</td></tr> 
+       <tr><td>Baby Monitor</td><td>Philips Model xyz  </td><td>-</td></tr>    
+       <tr><td>Headphones</td><td>Philips Model xyz  </td><td>-</td></tr>   
+       <tr><td>Two-way radio</td><td>Motorola Model xyz  </td><td>-</td></tr>      
+       <tr><td>Recorder</td><td>Motorola Model xyz  </td><td>-</td></tr>    
+       <tr><td>Smart phone</td><td>Canon Model xyz  </td><td>-</td></tr> 
+       <tr><td>DSLR camera</td><td>Canon Model xyz  </td><td>-</td></tr> 
+       <tr><td>Photo film</td><td>Canon Model xyz  </td><td>-</td></tr> 
+       <tr><td>Memory card</td><td>Canon Model xyz  </td><td>-</td></tr> 
+       <tr><td>USB Memory stick</td><td>Canon Model xyz  </td><td>-</td></tr>  
+       <tr><td>USB Adapter</td><td>Canon Model xyz  </td><td>-</td></tr> 
+       <tr><td>Sport camera</td><td>Canon Model xyz  </td><td>-</td></tr>  
+       <tr><td>Remote control</td><td>Canon Model xyz  </td><td>-</td></tr>  
+       <tr><td>Microphone</td><td>Canon Model xyz  </td><td>-</td></tr>
+       <tr><td>Video adapter cable</td><td>Canon Model xyz  </td><td>-</td></tr>   
+       <tr><td>Audio adapter cable</td><td>Canon Model xyz  </td><td>-</td></tr>  
+       <tr><td>Projection Heavy Cotton Fabric</td><td>Philips Model xyz  </td><td>-</td></tr>
+       <tr><td>Tripod</td><td>-  </td><td>-</td></tr>   
+       <tr><td>Binoculars</td><td>-  </td><td>-</td></tr>      
+       <tr><td>Telescope</td><td>-  </td><td>-</td></tr>    
+       <tr><td>Microscope</td><td>-  </td><td>-</td></tr>
 </tbody>
