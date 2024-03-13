@@ -1,1 +1,67 @@
+       <tr><td><span id="en">Couch - sofa</span><span id="ro">Canapea</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Armchair</span><span id="ro">Fotoliu</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Chair</span><span id="ro">Scaun cu spătar</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Office chair</span><span id="ro">Scaun de birou</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Ergonomic chair</span><span id="ro">Scaun ergonomic</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Stool chair</span><span id="ro">Tamburel</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Student chair</span><span id="ro">Scaun student</span>  </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Upholstered chair</span><span id="ro">Scaun tapițat</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Executive chair</span><span id="ro">Scaun directorial</span>  </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Dining chair</span><span id="ro">Scaun de bucătărie</span>  </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Folding chair</span><span id="ro">Scaun pliabil</span>  </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Ladderback chair</span><span id="ro">Scaune cu spătar tip scară</span>  </td><td>- </td><td>-</td></tr> 
+       <tr><td><span id="en">Windsor chair</span><span id="ro">Scaun Windsor</span>  </td><td>- </td><td>-</td></tr> 
+       <tr><td><span id="en">Garden chair</span><span id="ro">Scaun de grădină</span>  </td><td>- </td><td>-</td></tr> 
+       <tr><td><span id="en">Deck chair</span><span id="ro">Scaun șezlong de plajă</span>  </td><td>- </td><td>-</td></tr>   
+       <tr><td><span id="en">Cantilever chair</span><span id="ro">Scaun cantilever</span>  </td><td>- </td><td>-</td></tr>   
+       <tr><td><span id="en">Rocker chair</span><span id="ro">Scaun balansoar</span>  </td><td>- </td><td>-</td></tr>  
+       <tr><td><span id="en">Barber chair</span><span id="ro">Scaun reglabil frizer</span>  </td><td>- </td><td>-</td></tr> 
+       <tr><td><span id="en">Outdoor bench</span><span id="ro">Bancă de grădină</span>  </td><td>- </td><td>-</td></tr> 
 
+       <tr><td><span id="en">Bathroom Cabinet</span><span id="ro">Dulap de baie</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Bathroom Towel Rack</span><span id="ro">Suport baie pentru prosop</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Bathroom Sink Cabinet</span><span id="ro">Dulap mască chiuvetă</span>  </td><td>- </td><td>-</td></tr> 
+    
+       <tr><td><span id="en">Work desk / Office</span><span id="ro"> Birou </span>  </td><td>- </td><td>-</td></tr> 
+       <tr><td><span id="en">Tall display cabinet</span><span id="ro">Vitrină înaltă</span>  </td><td>- </td><td>-</td></tr>  
+       <tr><td><span id="en">Tall cabinet</span><span id="ro">Dulap înalt</span>  </td><td>- </td><td>-</td></tr>  
+       <tr><td><span id="en">Display shelf</span><span id="ro">Raft de prezentare</span>  </td><td>- </td><td>-</td></tr>              
+       <tr><td><span id="en">Bookcase</span><span id="ro">Bibliotecă</span>  </td><td>- </td><td>-</td></tr>           
+       <tr><td><span id="en">Conference table</span><span id="ro">Masă de conferință</span>  </td><td>- </td><td>-</td></tr>        
+       <tr><td><span id="en">Bar cabinet</span><span id="ro">Dulap bar</span>  </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Safebox</span><span id="ro">Seif</span>  </td><td>- </td><td>-</td></tr>  
+       <tr><td><span id="en">Cabinet</span><span id="ro">Dulap</span>  </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Chest</span><span id="ro">Cufăr</span>  </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Waiting room set</span><span id="ro">Set scaune sală de așteptare</span>  </td><td>- </td><td>-</td></tr>
+
+
+       <tr><td><span id="en">Coffee table</span><span id="ro">Măsuță cafea</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">TV Table</span><span id="ro">Măsuță TV</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Dining Table</span><span id="ro">Masă de bucătărie</span> </td><td>- </td><td>-</td></tr>
+    
+       <tr><td><span id="en">Mattress</span><span id="ro">Saltea</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Mattress topper</span><span id="ro">Saltea topper</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Double bed</span><span id="ro">Pat dublu</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Single bed</span><span id="ro">Pat de o persoană</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Bunk bed</span><span id="ro">Pat supraetajat</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Bedside table</span><span id="ro">Noptieră</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Wardrobe closet</span><span id="ro">Dulap pentru haine</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Sliding door wardrobe</span><span id="ro">Dulap haine cu uși glisante</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Drawer chest</span><span id="ro">Comodă cu sertare</span> </td><td>- </td><td>-</td></tr>
+    
+       <tr><td><span id="en">Dressing</span><span id="ro">Dulap pentru hol</span>  </td><td>- </td><td>-</td></tr>    
+       <tr><td><span id="en">Shoes drawer</span><span id="ro">Dulap pentru încălțăminte</span></td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Hallway coat hanger</span><span id="ro">Cuier pentru hol</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Coat rack hanger</span><span id="ro">Cuier tip bandă pentru hol</span>  </td><td>- </td><td>-</td></tr>
+    
+       <tr><td><span id="en">Kitchen cabinet</span><span id="ro">Dulap de bucătărie</span> </td><td>- </td><td>-</td></tr> 
+       <tr><td><span id="en">Countertop</span><span id="ro">Blat de bucătărie</span> </td><td>- </td><td>-</td></tr>   
+       <tr><td><span id="en">Kitchen Sink Cabinet</span><span id="ro">Dulap mască bucătărie</span>  </td><td>- </td><td>-</td></tr> 
+    
+
+       <tr><td><span id="en">Wood door</span><span id="ro">Ușă din lemn</span>   </td><td>- </td><td>-</td></tr>           
+       <tr><td><span id="en">Wood Door frame</span><span id="ro">Toc ușă din lemn</span>  </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Wood Door lining</span><span id="ro">Căptușeală ușă din lemn</span>  </td><td>- </td><td>-</td></tr>  
+       <tr><td><span id="en">Wood Window frame</span><span id="ro">Toc fereastră din lemn</span>  </td><td>- </td><td>-</td></tr> 
+	   
+       <tr><td><span id="en">Metal front door</span><span id="ro">Ușă intrare metalică</span> </td><td>- </td><td>-</td></tr>  
