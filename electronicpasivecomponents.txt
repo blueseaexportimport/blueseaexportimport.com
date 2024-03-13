@@ -1,2 +1,127 @@
 <tbody>
+           <tr><td>Resistor type Power</td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Resistor type SIP / DIP</td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Resistor type Rheostat </td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Resistor type Potentiometer</td><td>Model Xyz </td><td>-</td></tr> 
+           <tr><td>Resistor type Trim pot </td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Resistor type Thermistor </td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Resistor type Humistor </td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Resistor type Photoresistor</td><td>Model Xyz </td><td>-</td></tr>
+           <tr><td>Resistor type Varistor</td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Resistor type Heating element</td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Capacitor type IC MIC </td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Capacitor type IC Trench</td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Capacitor type Ceramic </td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Capacitor type Film </td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Capacitor type Aluminum Electrolytic </td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Capacitor type Tantalum Electrolytic</td><td>Model Xyz </td><td>-</td></tr>
+           <tr><td>Capacitor type Niobium Electrolytic</td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Capacitor type Polymer Electrolytic</td><td>Model Xyz </td><td>-</td></tr>
+            <tr><td>Capacitor type Nanoionic supercapacitor </td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Capacitor type Lithium-ion supercapacitor</td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Capacitor type Mica </td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Capacitor type Vacuum </td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Capacitor type Variable Tuning  </td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Capacitor type Variable Trimmer</td><td>Model Xyz </td><td>-</td></tr>
+           <tr><td>Capacitor type Variable Vacuum </td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Capacitor type Power</td><td>Model Xyz </td><td>-</td></tr>
+           <tr><td>Capacitor type Safety</td><td>Model Xyz </td><td>-</td></tr>
+           <tr><td>Capacitor type Filter</td><td>Model Xyz </td><td>-</td></tr>
+           <tr><td>Capacitor type LEC</td><td>Model Xyz </td><td>-</td></tr>
+           <tr><td>Capacitor type Motor</td><td>Model Xyz </td><td>-</td></tr>
+           <tr><td>Capacitor type Photoflash</td><td>Model Xyz </td><td>-</td></tr>
+           <tr><td>Capacitor type Reservoir</td><td>Model Xyz </td><td>-</td></tr>
+           <tr><td>Capacitor type Coupling</td><td>Model Xyz </td><td>-</td></tr>
+           <tr><td>Capacitor type Decoupling</td><td>Model Xyz </td><td>-</td></tr>
+           <tr><td>Capacitor type Bypass</td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Capacitor type Pull</td><td>Model Xyz </td><td>-</td></tr>
+           <tr><td>Capacitor type Backup</td><td>Model Xyz </td><td>-</td></tr>
+           <tr><td>Capacitor type Switched</td><td>Model Xyz </td><td>-</td></tr>
+           <tr><td>Capacitor type Feedthrough</td><td>Model Xyz </td><td>-</td></tr>  
+           <tr><td>Capacitor type Varicap</td><td>Model Xyz </td><td>-</td></tr>  
+          <tr><td>IPD</td><td>Model Xyz </td><td>-</td></tr>
+          <tr><td>Inductor</td><td>Model Xyz </td><td>-</td></tr>   
+          <tr><td>Variable inductor</td><td>Model Xyz </td><td>-</td></tr>     
+          <tr><td>Saturable inductor</td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Transformer</td><td>Model Xyz </td><td>-</td></tr>       
+          <tr><td>Toroid</td><td>Model Xyz </td><td>-</td></tr>    
+          <tr><td>Ferrite bead</td><td>Model Xyz </td><td>-</td></tr>  
+          <tr><td>Solenoid</td><td>Model Xyz </td><td>-</td></tr>    
+         <tr><td>Loudspeaker</td><td>Model Xyz </td><td>-</td></tr>
+          <tr><td>Microphone</td><td>Model Xyz </td><td>-</td></tr>      
+          <tr><td>Memristor</td><td>Model Xyz </td><td>-</td></tr>    
+          <tr><td>RC network</td><td>Model Xyz </td><td>-</td></tr>       
+          <tr><td>LC Network</td><td>Model Xyz </td><td>-</td></tr>    
+          <tr><td>Transducers bead</td><td>Model Xyz </td><td>-</td></tr>  
+          <tr><td>Buzzer</td><td>Model Xyz </td><td>-</td></tr>    
+         <tr><td>Linear variable differential transformer</td><td>Model Xyz </td><td>-</td></tr>
+          <tr><td>Rotary encoder</td><td>Model Xyz </td><td>-</td></tr>      
+          <tr><td>Inclinometer</td><td>Model Xyz </td><td>-</td></tr>    
+          <tr><td>Sensor type Motion</td><td>Model Xyz </td><td>-</td></tr>      
+          <tr><td>Sensor type Flow meter</td><td>Model Xyz </td><td>-</td></tr>    
+          <tr><td>Sensor type Gas</td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Strain gauge </td><td>Model Xyz </td><td>-</td></tr>   
+          <tr><td>Accelerometer </td><td>Model Xyz </td><td>-</td></tr>       
+          <tr><td>Thermocouple</td><td>Model Xyz </td><td>-</td></tr>    
+          <tr><td>Resistance Temperature Detector</td><td>Model Xyz </td><td>-</td></tr>  
+          <tr><td>Bolometer </td><td>Model Xyz </td><td>-</td></tr>    
+         <tr><td>Thermal cutoff </td><td>Model Xyz </td><td>-</td></tr>
+          <tr><td>Magnetometer</td><td>Model Xyz </td><td>-</td></tr>      
+          <tr><td>Hygrometer</td><td>Model Xyz </td><td>-</td></tr>    
+          <tr><td>Antenna Elemental dipole</td><td>Model Xyz </td><td>-</td></tr>      
+          <tr><td>Antenna Yagi</td><td>Model Xyz </td><td>-</td></tr>    
+          <tr><td>Antenna Phased array</td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>>Antenna Loop antenna </td><td>Model Xyz </td><td>-</td></tr>   
+          <tr><td>Antenna Parabolic dish</td><td>Model Xyz </td><td>-</td></tr>    
+          <tr><td>Antenna Log-periodic dipole array</td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Antenna Biconical </td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Antenna Feedhorn </td><td>Model Xyz </td><td>-</td></tr>  
+          <tr><td>Oscillator</td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Voltmeter </td><td>Model Xyz </td><td>-</td></tr>   
+          <tr><td>Electronic filter</td><td>Model Xyz </td><td>-</td></tr>    
+          <tr><td>Breadboard</td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Crystal oscillator </td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Ceramic resonator  </td><td>Model Xyz </td><td>-</td></tr>  
+          <tr><td>Ceramic filter </td><td>Model Xyz </td><td>-</td></tr>    
+          <tr><td>SAW filter</td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Ultrasonic motor  </td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Power cord  </td><td>Model Xyz </td><td>-</td></tr>  
+          <tr><td>Patch cord  </td><td>Model Xyz </td><td>-</td></tr>  
+          <tr><td>Test lead  </td><td>Model Xyz </td><td>-</td></tr>  
+          <tr><td>Switch  SPST</td><td>Model Xyz </td><td>-</td></tr>    
+          <tr><td>Switch  SPDT</td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Switch  DPST</td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Switch  DPDT</td><td>Model Xyz </td><td>-</td></tr>  
+          <tr><td>Switch  NPNT </td><td>Model Xyz </td><td>-</td></tr>    
+          <tr><td>Switch Keypad </td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Switch DIP</td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Switch Footswitch </td><td>Model Xyz </td><td>-</td></tr>  
+          <tr><td>Switch Knife</td><td>Model Xyz </td><td>-</td></tr>  
+          <tr><td>Switch Micro</td><td>Model Xyz </td><td>-</td></tr>
+          <tr><td>Switch  Limit </td><td>Model Xyz </td><td>-</td></tr>    
+          <tr><td>Switch Centrifugal</td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Switch Relay </td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Switch Reed </td><td>Model Xyz </td><td>-</td></tr>  
+          <tr><td>Switch Thermostat</td><td>Model Xyz </td><td>-</td></tr>  
+          <tr><td>Switch Humidistat </td><td>Model Xyz </td><td>-</td></tr>     
+          <tr><td>Switch  Circuit breaker  </td><td>Model Xyz </td><td>-</td></tr>    
+          <tr><td>Switch Disconnector </td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Switch Transfer </td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Fuse  </td><td>Model Xyz </td><td>-</td></tr>  
+          <tr><td>Resettable fuse </td><td>Model Xyz </td><td>-</td></tr>  
+          <tr><td>Ground-fault protection  </td><td>Model Xyz </td><td>-</td></tr>   
+          <tr><td>Inrush current limiter  </td><td>Model Xyz </td><td>-</td></tr>    
+          <tr><td>Gas discharge tube  </td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Spark gap </td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Lightning arrester   </td><td>Model Xyz </td><td>-</td></tr>  
+          <tr><td>Recloser </td><td>Model Xyz </td><td>-</td></tr>  
+          <tr><td>Arc-fault circuit interrupter  </td><td>Model Xyz </td><td>-</td></tr>
+          <tr><td>Network protector  </td><td>Model Xyz </td><td>-</td></tr>    
+          <tr><td>Magnetic starter  </td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Heat sink </td><td>Model Xyz </td><td>-</td></tr> 
+          <tr><td>Fan   </td><td>Model Xyz </td><td>-</td></tr>  
+          <tr><td>PCB  </td><td>Model Xyz </td><td>-</td></tr>    
+          <tr><td>Waveguide  </td><td>Model Xyz </td><td>-</td></tr>   
+
+
 </tbody>
