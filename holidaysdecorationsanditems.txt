@@ -1,1 +1,56 @@
+ <tr><td><span id="en">Postcards different models</span><span id="ro">Felicitări diverse modele</span></td>
+<tr><td><span id="en">Christmas Tree Baubles</span><span id="ro">Globulețe Brad de Crăciun</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Christmas Tree Star</span><span id="ro">Stea Brad de Crăciun</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Lighting installation Christmas tree with music</span><span id="ro">Instalație iluminat Brad de Crăciun cu muzică</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Christmas tree stand</span><span id="ro">Suport Brad de Crăciun</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Christmas tree</span><span id="ro">Brăduleț de Crăciun</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Christmas Socks for gifts</span><span id="ro">Șosete pentru cadouri</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Christmas decorative flowers</span><span id="ro">Flori decorative Crăciun</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Christmas train toy</span><span id="ro">Trenuleț de Crăciun</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Christmas gifts wrapping paper</span><span id="ro">Hârtie pentru cadouri Crăciun</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Textile material snowman</span><span id="ro">Om de zăpadă material textil</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Bethlehem Nativity Scene</span><span id="ro">Căsuța Nașterii Domnului</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Santa Claus village</span><span id="ro">Sat Moș Crăciun</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">LED house decorative icicles</span><span id="ro">Țurțuri pentru casă LED</span></td><td>-</td><td>-</td></tr>
+	   
+       <tr><td><span id="en">Santa's house</span><span id="ro">Căsuță Moș Crăciun</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Set of window decorations for Christmas</span><span id="ro">Set decorațiuni geam pentru Crăciun</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Inflatable Santa Claus</span><span id="ro">Moș Crăciun gonflabil</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Outdoor lighting installation for Christmas</span><span id="ro">Instalație iluminat exterior pentru Crăciun</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Water globe with snow, various models</span><span id="ro">Glob de apă cu zăpadă,diverse modele</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Battery set for Christmas tree lighting installation</span><span id="ro">Set baterii instalație iluminat Brad de Crăciun</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Decorative Christmas Garland</span><span id="ro">Ghirlandă decorativă de Crăciun</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Christmas bell</span><span id="ro">Clopoțel de Crăciun</span></td><td>-</td><td>-</td></tr>
+	   
+       <tr><td><span id="en">Little Christmas tree</span><span id="ro">Brăduleț mic de Crăciun</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Scented Christmas candles</span><span id="ro">Lumânari parfumate de Crăciun</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Christmas tree branches</span><span id="ro">Crenguțe brad de Crăciun</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Christmas stickers</span><span id="ro">Abțibilduri de Crăciun</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Christmas pet toy</span><span id="ro">Jucarie pentru animale companie de Crăciun</span></td><td>-</td><td>-</td></tr>
+	   
+       <tr><td><span id="en">Christmas tinsel glasses</span><span id="ro">Ochelari cu beteală de Crăciun</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Christmas hat</span><span id="ro">Pălărie de Crăciun</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Christmas tie</span><span id="ro">Cravată de Crăciun</span>  </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Christmas bow tie</span><span id="ro">Papion de Crăciun</span>  </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Santa Claus costume</span><span id="ro">Costum Moș Crăciun</span>  </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Christmas elf costume</span><span id="ro">Costum spiriduș de Crăciun</span>  </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Snowman Costume</span><span id="ro">Costum Om de Zăpadă</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Rudolph Nose</span><span id="ro">Nas Rudolf</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Christmas elf hat</span><span id="ro">Pălărie spiriduș de Crăciun</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Decorative ribbon</span><span id="ro">Panglică decorativă</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Tinsel</span><span id="ro">Beteală decorativă</span> </td><td>-</td><td>-</td></tr>
 
+       <tr><td><span id="en">Angel for the Christmas Tree</span><span id="ro">Înger pentru Brad de Crăciun</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Christmas tree decorative bows</span><span id="ro">Fundițe decorative Brad de Crăciun</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Decorative doves Christmas tree</span><span id="ro">Porumbei decorativi Brad de Crăciun</span>  </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Decorative snowflakes</span><span id="ro">Fulgi zăpadă decorativi</span>  </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Decorative unicorns for the Christmas tree</span><span id="ro">Unicorni decorativi pentru Brad de Crăciun</span>  </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Rudof Baubles</span><span id="ro">Globulețe cu Rudof</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Ornamental hooks set Christmas tree</span><span id="ro">Set cârlige ornamentale Brad de Crăciun</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Decorative lollipops hook Christmas tree</span><span id="ro">Acadele decorative cârlig  Brad de Crăciun</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Christmas booties</span><span id="ro">Cizmulițe pentru Crăciun</span> </td><td>-</td><td>-</td></tr>
+
+       <tr><td><span id="en">Decorative Christmas tableware set</span><span id="ro">Set Veselă decorativă de Crăciun</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Christmas angels figurines</span><span id="ro">Îngeri de Crăciun figurine</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Decorative Table Runner for Christmas</span><span id="ro">Traversă decorativă pentru masă de Crăciun</span>  </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Sled</span><span id="ro">Sanie</span>  </td><td>-</td><td>-</td></tr>
