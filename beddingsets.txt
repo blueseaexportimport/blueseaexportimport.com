@@ -1,1 +1,10 @@
-
+       <tr><td>Bedding Set</td><td>-</td><td>-</td></tr>
+       <tr><td>Pillowcase</td><td>-</td><td>-</td></tr>
+       <tr><td>Bed Sheet</td><td>-</td><td>-</td></tr>
+       <tr><td>Quilt cover set</td><td>-</td><td>-</td></tr>
+       <tr><td>Duvet cover set</td><td>-</td><td>-</td></tr>
+       <tr><td>Pillow</td><td>-</td><td>-</td></tr>
+       <tr><td>Goose feathers</td><td>-</td><td>-</td></tr>
+       <tr><td>Memory foam mattress</td><td>-</td><td>-</td></tr>
+       <tr><td>Mattress</td><td>-</td><td>-</td></tr>
+       <tr><td>Mattress Protector</td><td>-</td><td>-</td></tr>
