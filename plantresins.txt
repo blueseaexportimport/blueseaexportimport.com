@@ -1,1 +1,11 @@
 
+    <tr><td><span id="en">Mastic ( Pistacia lentiscus - no impurities ) </span><span id="ro">Mastic ( Pistacia lentiscus - fără impurități ) </span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Tolu balsam ( Myroxylon balsamum var. balsamum - no impurities  ) </span><span id="ro">Balsam de Tolu ( Myroxylon balsamum var. balsamum - fără impurități  )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Peru balsam ( Myroxylon balsamum var. pereirae - no impurities  ) </span><span id="ro">Balsam de Peru ( Myroxylon balsamum var. pereirae - fără impurități  )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Copalm balsam ( Liquidambar styraciflua - no impurities  ) </span><span id="ro">Styrax ( Liquidambar styraciflua - fără impurități   )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Opopanax ( Commiphora guidottii - no impurities  ) </span><span id="ro">Opopanax ( Commiphora guidottii - fără impurități   )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Tragacanth ( Astragalus gummifer - no impurities  ) </span><span id="ro">Tragacant ( Astragalus gummifer - fără impurități   ) </span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Gum arabic ( Acacia senegal - no impurities  ) </span><span id="ro">Gumă arabică ( Acacia senegal - fără impurități  )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Pine resin ( Pinus - no impurities  ) </span><span id="ro">Rășină de pin ( Pinus - fără impurități  )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Spruce resin ( Picea abies - no impurities  ) </span><span id="ro">Rășină de molid ( Picea abies - fără impurități  )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Frankincense ( Boswellia sacra - no impurities  ) </span><span id="ro">Tămâie ( Boswellia sacra - fără impurități  )</span></td><td>-</td><td>-</td></tr> 
