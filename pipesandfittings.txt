@@ -1,1 +1,31 @@
-
+       <tr><td>Electric resistance welded (ERW) pipe</td><td>-</td><td>-</td></tr>
+       <tr><td>Tubing Pipe</td><td>-</td><td>-</td></tr>
+       <tr><td>Seamless (SMLS) steel pipe</td><td>-</td><td>-</td></tr>
+       <tr><td>Spiral submerged arc welding (SSAW) steel pipe</td><td>-</td><td>-</td></tr>
+       <tr><td>Longitudinal-seam Submerged Arc Welded (LSAW) pipe</td><td>-</td><td>-</td></tr>
+       <tr><td>Hot Rolled Steel Pipes</td><td>-</td><td>-</td></tr>
+       <tr><td>Cold-drawn steel pipe</td><td>-</td><td>-</td></tr>
+       <tr><td>Steel Casing Pipe</td><td>-</td><td>-</td></tr>
+       <tr><td>3PE anti-corrosion coating steel pipe</td><td>-</td><td>-</td></tr>
+       <tr><td>Steel Pipe Fitting</td><td>-</td><td>-</td></tr>
+       <tr><td>Swing check valve</td><td>-</td><td>-</td></tr>
+       <tr><td>In lift check valve</td><td>-</td><td>-</td></tr>
+       <tr><td>Piston check valve</td><td>-</td><td>-</td></tr>
+       <tr><td>Pressure regulating valve</td><td>-</td><td>-</td></tr>
+       <tr><td>Piston valve</td><td>-</td><td>-</td></tr>
+       <tr><td>Y-type valve</td><td>-</td><td>-</td></tr>
+       <tr><td>Back pressure regulating valve</td><td>-</td><td>-</td></tr>       
+       <tr><td>Flow regulating valve</td><td>-</td><td>-</td></tr>
+       <tr><td>Control valve</td><td>-</td><td>-</td></tr>
+       <tr><td>Solenoid valve</td><td>-</td><td>-</td></tr>
+       <tr><td>Flush bottom valve</td><td>-</td><td>-</td></tr>
+       <tr><td>Slide valve</td><td>-</td><td>-</td></tr>
+       <tr><td>Pinch valve</td><td>-</td><td>-</td></tr>
+       <tr><td>Angle valve</td><td>-</td><td>-</td></tr>         
+       <tr><td>Needle valve</td><td>-</td><td>-</td></tr>
+       <tr><td>Plug valve</td><td>-</td><td>-</td></tr>
+       <tr><td>Diaphragm valve</td><td>-</td><td>-</td></tr>
+       <tr><td>Butterfly valve</td><td>-</td><td>-</td></tr>
+       <tr><td>Ball valve</td><td>-</td><td>-</td></tr>
+       <tr><td>Gate valve</td><td>-</td><td>-</td></tr>
+       <tr><td>Globe valve</td><td>-</td><td>-</td></tr> 
