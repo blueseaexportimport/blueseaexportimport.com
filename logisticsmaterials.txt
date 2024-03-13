@@ -1,1 +1,79 @@
 
+       <tr><td>Label Printer</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Barcode Printer</td><td>Model xyz</td><td>-</td></tr>        
+       <tr><td>Barcode Scanner</td><td>Model xyz</td><td>-</td></tr>        
+       <tr><td>Mobile terminal (MT)</td><td>Model xyz</td><td>-</td></tr>          
+       <tr><td>POS system</td><td>Model xyz</td><td>-</td></tr>          
+       <tr><td>Non-approved weighing scale</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Coin counting machine</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Bills counter machine</td><td>Model xyz</td><td>-</td></tr>        
+       <tr><td>Barcode Scanner</td><td>Model xyz</td><td>-</td></tr>        
+       <tr><td>Info kiosk</td><td>Model xyz</td><td>-</td></tr>          
+       <tr><td>POS system</td><td>Model xyz</td><td>-</td></tr>           
+       <tr><td>Queue Management System</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Retail Anti-Theft System</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Anti-Theft Tags</td><td>Model xyz</td><td>-</td></tr>  
+    
+       <tr><td>Non-approved weighing scale</td><td>Model xyz</td><td>-</td></tr> 
+       <tr><td>RFID tag</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>RFID reader</td><td>Model xyz</td><td>-</td></tr>   
+       <tr><td>Info point system</td><td>Model xyz</td><td>-</td></tr>  
+
+       <tr><td>Pallet truck</td><td>Model xyz</td><td>-</td></tr>        
+       <tr><td>Sack truck</td><td>Model xyz</td><td>-</td></tr>          
+       <tr><td>Indicator</td><td>Model xyz</td><td>-</td></tr>       
+       <tr><td>Wet floor indicator</td><td>Model xyz</td><td>-</td></tr>          
+
+       <tr><td>Arrow</td><td>Model xyz</td><td>-</td></tr> 
+       <tr><td>Board</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Metallic Letters</td><td>Model xyz</td><td>-</td></tr>          
+       <tr><td>Metallic Numbers</td><td>Model xyz</td><td>-</td></tr>          
+
+       <tr><td>Logistic vest - yellow</td><td>Model xyz</td><td>-</td></tr> 
+       <tr><td>Logistic vest - orange</td><td>Model xyz</td><td>-</td></tr>
+       <tr><td>Logistic vest - blue</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Logistic vest - green</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Shopping cart</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Shopping basket</td><td>Model xyz</td><td>-</td></tr> 
+       <tr><td>Signal sticks - warm white</td><td>Model xyz</td><td>-</td></tr>
+       <tr><td>Signal sticks - cold white</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Signal sticks - neutral white</td><td>Model xyz</td><td>-</td></tr>
+       <tr><td>Noise canceling headphones</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Protective helmet</td><td>Model xyz</td><td>-</td></tr>   
+       <tr><td>Badge</td><td>Model xyz</td><td>-</td></tr>   
+       <tr><td>Warning cone</td><td>Model xyz</td><td>-</td></tr>   
+       <tr><td>Rack cabinet</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Workbench</td><td>Model xyz</td><td>-</td></tr> 
+       <tr><td>Tools panels</td><td>Model xyz</td><td>-</td></tr>
+       <tr><td>Tool storage cabinet</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Metalic locker</td><td>Model xyz</td><td>-</td></tr>
+       <tr><td>Clothing stender</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Bags stender</td><td>Model xyz</td><td>-</td></tr>   
+       <tr><td>Tyre Rack</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Bicycles Rack</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Skateboards Rack</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Scooter Rack</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Accessories display</td><td>Model xyz</td><td>-</td></tr>   
+       <tr><td>Smartphones display</td><td>Model xyz</td><td>-</td></tr>   
+       <tr><td>Smartwatches display</td><td>Model xyz</td><td>-</td></tr>   
+       <tr><td>Laptops display</td><td>Model xyz</td><td>-</td></tr>   
+       <tr><td>Laptos display</td><td>Model xyz</td><td>-</td></tr>   
+       <tr><td>Cables display</td><td>Model xyz</td><td>-</td></tr>   
+       <tr><td>Batteries display</td><td>Model xyz</td><td>-</td></tr>   
+       <tr><td>Games display</td><td>Model xyz</td><td>-</td></tr>   
+       <tr><td>Food grade stainless steel display</td><td>Model xyz</td><td>-</td></tr>   
+       <tr><td>Glasses display</td><td>Model xyz</td><td>-</td></tr>   
+       <tr><td>Mannequin</td><td>Model xyz</td><td>-</td></tr> 
+       <tr><td>Child Mannequin</td><td>Model xyz</td><td>-</td></tr> 
+       <tr><td>Display bust</td><td>Model xyz</td><td>-</td></tr> 
+       <tr><td>Jewellery display</td><td>Model xyz</td><td>-</td></tr>   
+       <tr><td>Glass display kit</td><td>Model xyz</td><td>-</td></tr>    
+       <tr><td>Shoes display kit</td><td>Model xyz</td><td>-</td></tr>         
+       <tr><td>Glasses display kit</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Home appliances display</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Fruits display baskets kit</td><td>Model xyz</td><td>-</td></tr>          
+       <tr><td>Bakery and pastry display baskets kit</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Clothing Price labels</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Info Map</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>HACCP Frigorific Container</td><td>Model xyz</td><td>-</td></tr>  
+       <tr><td>Logistics rotating beacon</td><td>Model xyz</td><td>-</td></tr> 
