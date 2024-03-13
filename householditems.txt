@@ -1,2 +1,61 @@
 <tbody>
+
+       <tr><td>Clothes drying rack</td><td>-</td><td>-</td></tr>
+       <tr><td>Clothes line wire</td><td>-</td><td>-</td></tr>
+       <tr><td>Clothes Wire hangers</td><td>-</td><td>-</td></tr>
+       <tr><td>Wood clothes pegs</td><td>-</td><td>-</td></tr>
+       <tr><td>Clothes brush</td><td>-</td><td>-</td></tr>
+       <tr><td>Carpets brush</td><td>-</td><td>-</td></tr>
+       <tr><td>Shoe spoon</td><td>-</td><td>-</td></tr>
+       <tr><td>Shoe Inserts / Insoles</td><td>-</td><td>-</td></tr>
+       <tr><td>Ironing board</td><td>-</td><td>-</td></tr>
+       <tr><td>Laundry basket</td><td>-</td><td>-</td></tr>
+       <tr><td>Oxygen absorber / scavenger</td><td>-</td><td>-</td></tr>     
+    
+       <tr><td>Cake wax candles set</td><td>-</td><td>-</td></tr>    
+       <tr><td>Perfumed wax candles</td><td>-</td><td>-</td></tr>
+       <tr><td>Candle wick</td><td>-</td><td>-</td></tr>
+
+       <tr><td>Oxygen absorber / scavenger</td><td>-</td><td>-</td></tr>     
+       <tr><td>Ice cubes tray</td><td>-</td><td>-</td></tr>     
+       <tr><td>Gift wrapping paper</td><td>-</td><td>-</td></tr>     
+       <tr><td>Keychain</td><td>-</td><td>-</td></tr>
+       <tr><td>Mosquito net</td><td>-</td><td>-</td></tr>
+
+       <tr><td>Hotel reception bell</td><td>-</td><td>-</td></tr>
+       <tr><td>Wooden back scraper</td><td>-</td><td>-</td></tr>
+       <tr><td>Soot rake</td><td>-</td><td>-</td></tr>
+       <tr><td>Soot shovel</td><td>-</td><td>-</td></tr>
+       <tr><td>Drawing / Architect plans storage tube</td><td>-</td><td>-</td></tr>
+       <tr><td>Cardboard tray for food</td><td>-</td><td>-</td></tr>
+
+       <tr><td>Wooden massage device</td><td>-</td><td>-</td></tr>
+       <tr><td>Jewelry box</td><td>-</td><td>-</td></tr>
+       <tr><td>Sink plug</td><td>-</td><td>-</td></tr>
+       <tr><td>Bathtub plug</td><td>-</td><td>-</td></tr>
+
+       <tr><td>Luggage scale</td><td>-</td><td>-</td></tr>
+       <tr><td>Broom handle</td><td>-</td><td>-</td></tr>
+       <tr><td>Sorghum broom</td><td>-</td><td>-</td></tr>
+       <tr><td>Barbecue grill</td><td>-</td><td>-</td></tr>
+       <tr><td>Fish grill</td><td>-</td><td>-</td></tr>
+       <tr><td>Wire brush</td><td>-</td><td>-</td></tr> 
+       <tr><td>Enameled Washbowl</td><td>-</td><td>-</td></tr>
+       <tr><td>MDF toilet lid</td><td>-</td><td>-</td></tr>
+       <tr><td>Recycle bin</td><td>-</td><td>-</td></tr>
+       <tr><td>Dustpan</td><td>-</td><td>-</td></tr>
+       <tr><td>Ceramic children potty</td><td>-</td><td>-</td></tr>
+       <tr><td>Metalic bucket with squeezer</td><td>-</td><td>-</td></tr>
+       <tr><td>Dish Rack  </td><td>- </td><td>-</td></tr>
+       <tr><td>Curtains clips</td><td>-</td><td>-</td></tr>
+       <tr><td>Soap dish</td><td>-</td><td>-</td></tr>
+       <tr><td>Watering can</td><td>-</td><td>-</td></tr>
+       <tr><td>Toothbrush and toothpaste holder</td><td>-</td><td>-</td></tr>
+       <tr><td>Mop head</td><td>-</td><td>-</td></tr>
+
+
+
+
+
+
 </tbody>
