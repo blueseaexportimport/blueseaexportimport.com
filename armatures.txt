@@ -1,1 +1,52 @@
-
+    <tr><td><span id="en">Roofing nails</span><span id="ro">Cuie pentru acoperiș</span></td><td>- </td><td>-</td></tr>
+    <tr><td><span id="en">Laminated Steel Wire SAE 1006 / SAE 1008</span><span id="ro">Sârmă laminată din oțel SAE 1006 / SAE 1008</span> </td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Oiled baling wire</span><span id="ro">Sârmă pentru balotat uleiată STAS 889-89</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Steel Rabitz Wire Mesh</span><span id="ro">Plasă Rabitz din oțel</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Galvanized Steel Wire Mesh</span><span id="ro">Plasă zincată</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Rebar OB37</span><span id="ro">Oțel beton OB37</span></td><td>-  </td><td>-</td></tr>  
+    <tr><td><span id="en">Rebar PC52</span><span id="ro">Oțel beton PC52</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Rebar PC60</span><span id="ro">Oțel beton PC60</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Rebar PC90</span><span id="ro">Oțel beton PC90</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Rebar B500A</span><span id="ro">Fier striat B500A</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Rebar B500B</span><span id="ro">Fier striat B500B</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Rebar B500C</span><span id="ro">Fier striat B500C</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Steel Wire STPB</span><span id="ro">Sârmă trasă pentru beton armat cu suprafață profilată STPB</span></td><td>- </td><td>-</td></tr> 
+    <tr><td><span id="en">Steel Wire STNB</span><span id="ro">Sârmă trasă pentru beton armat cu suprafață netedă STNB</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Soft Steel Wire STB</span><span id="ro">Sârmă moale neagră pentru legat ( recoaptă ) / sârmă arsă STB</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Reinforcing rebar mesh type G</span><span id="ro">Plasă sudată tip G</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Reinforcing rebar mesh type L</span><span id="ro">Plasă sudată tip L</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Reinforcing rebar mesh type N</span><span id="ro">Plasă sudată tip N</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Reinforcing rebar mesh type Q</span><span id="ro">Plasă sudată tip Q</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Reinforcing rebar mesh type R</span><span id="ro">Plasă sudată tip R</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Reinforcement steel fiber</span><span id="ro">Fibră metalică pentru armare </span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Steel Profile Type INP</span><span id="ro">Profil de oțel tip INP</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Steel Profile Type IPE</span><span id="ro">Profil de oțel tip IPE</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Steel Profile Type UPE</span><span id="ro">Profil de oțel tip UPE</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Steel Profile Type UNP</span><span id="ro">Profil de oțel tip UNP</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Steel Profile Type IPE</span><span id="ro">Profil de oțel tip IPE</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Steel Profile Type UPE</span><span id="ro">Profil de oțel tip UPE</span></td><td>- </td><td>-</td></tr> 
+    <tr><td><span id="en">Steel Profile Type HEA</span><span id="ro">Profil de oțel tip HEA</span></td><td>- </td><td>-</td></tr> 
+    <tr><td><span id="en">Steel Profile Type HEB</span><span id="ro">Profil de oțel tip HEB</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Steel Profile Type HEM</span><span id="ro">Profil de oțel tip HEM</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Steel Profile Type T</span><span id="ro">Profil de oțel tip T</span></td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Steel Strip</span><span id="ro">Platbandă de oțel</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Corners with equal sides</span><span id="ro">Corniere cu laturi egale </span></td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Square steel</span><span id="ro">Oțel patrat</span></td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Round steel</span><span id="ro">Oțel rotund</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Hexagonal steel AISI 1018</span><span id="ro">Oțel rotund hexagonal AISI 1018</span></td><td>-</td><td>-</td></tr>       
+    <tr><td><span id="en">Pickled steel sheet</span><span id="ro">Tablă decapată</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Striated - chequered steel sheet</span><span id="ro">Tablă striată</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Black steel sheet</span><span id="ro">Tablă neagră</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Steel striated sheet</span><span id="ro">Tablă oțel striat</span></td><td>- </td><td>-</td></tr>  
+    <tr><td><span id="en">Galvanized sheet</span><span id="ro">Tablă oțel zincat</span></td><td>- </td><td>-</td></tr>  
+<tr><td><span id="en">U shape nails cardboard box 5kg ⌀ 3mm ÷ ⌀ 4mm Length 30mm ÷ 35mm </span><span id="ro">Cuie scoabe cutie carton 5kg ⌀ 3mm ÷ ⌀ 4mm Lungime 30mm ÷ 35mm</span></td>
+<tr><td><span id="en">Galvanised square twisted nails for wood cardboard box 5kg ⌀ 4mm Length 70mm ÷ 110mm </span><span id="ro">Cuie cu sectiunea pătrată răsucită ( pentru lemn ) cutie carton 5kg ⌀
+<tr><td><span id="en">Flat head nails for sheet metal cardboard box 5kg ⌀ 3mm ÷ 3.5mm Length 30mm ÷ 50mm </span><span id="ro">Cuie cu cap plat pentru tablă cutie carton 5kg ⌀ 3mm ÷ 3.5mm Lungime 30mm
+<tr><td><span id="en">Conical head nails for construction cardboard box 5kg ⌀ 7.1mm Length 200mm ÷ 245mm </span><span id="ro">Cuie cu cap conic pentru construcții cutie carton 5kg ⌀ 7.1mm Lungime
+<tr><td><span id="en">Steel Galvanized Wire Bar ⌀ 3mm ÷ ⌀ 4mm Length 1000-6000mm / 100pcs per batch </span><span id="ro">Bară din sârmă zincată ⌀ 3mm ÷ ⌀ 4mm Lungime 1000-6000mm / 100buc per
+<tr><td><span id="en">Steel Soft Black Wire Bar ⌀ 3mm ÷ ⌀ 6mm Length 1000-6000mm / 100pcs per batch </span><span id="ro">Bară din sârmă moale neagră ⌀ 3mm ÷ ⌀ 6mm Lungime 1000-6000mm / 100buc per
+<tr><td><span id="en">Steel Hard Matte Wire Bar ⌀ 3mm ÷ ⌀ 6mm Length 1000-6000mm / 100pcs per batch </span><span id="ro">Bară din sârmă tare mată ⌀ 3mm ÷ ⌀ 6mm Lungime 1000-6000mm / 100buc per
+<tr><td><span id="en">Steel Hard Matte Wire ⌀ 2.5mm ÷ ⌀ 6mm Coil weight 200-250kg </span><span id="ro">Sârmă tare mată ⌀ 1.2mm ÷ ⌀ 2.2mm Greutate colac 200-250kg</span></td>
+<tr><td><span id="en">Galvanized Wire ⌀ 2mm ÷ ⌀ 2.8mm Coil weight 550-700kg </span><span id="ro">Sârmă zincată ⌀ 2mm ÷ ⌀ 2.8mm Greutate colac 550-700kg</span></td>
+<tr><td><span id="en">Soft Black Wire ⌀ 2.5mm ÷ ⌀ 5mm Coil weight 80-120kg</span><span id="ro">Sârmă moale neagră ⌀ 2.5mm ÷ ⌀ 5mm Greutate colac 80-120kg</span></td>
+<tr><td><span id="en">Soft Black Wire ⌀ 1.8mm ÷ ⌀ 2mm Coil weight 80-120kg</span><span id="ro">Sârmă moale neagră ⌀ 1.8mm ÷ ⌀ 2mm Greutate colac 80-120kg</span></td>
