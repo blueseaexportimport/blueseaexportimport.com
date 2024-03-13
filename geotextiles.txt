@@ -1,1 +1,4 @@
 
+       <tr><td><span id="en">Woven Fabric Geotextile</span><span id="ro">Țesătură geotextilă</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Non-Woven Fabric Geotextile</span><span id="ro">Țesătură nețesută geotextilă</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Knitted Geotextile</span><span id="ro">Țesătură tricotată geotextilă</span> </td><td>-</td><td>-</td></tr> 
