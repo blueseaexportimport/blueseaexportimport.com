@@ -1,1 +1,16 @@
 
+      <tr><td><span id="en">Compression Spring</span><span id="ro">Arc compresie</span> </td><td>-  </td><td>-</td></tr>
+       <tr><td><span id="en">Extension Spring</span><span id="ro">Arc extensie</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Torsion Spring</span><span id="ro">Arc torsiune</span> </td><td>- </td><td>-</td></tr>               
+       <tr><td><span id="en">Spiral Spring</span><span id="ro">Arc de forță constantă</span> </td><td>- </td><td>-</td></tr>
+	   
+       <tr><td><span id="en">Moni Leaf Spring</span><span id="ro">Arc monolamelar</span> </td><td>- </td><td>-</td></tr>   
+       <tr><td><span id="en">Semi Elliptical Leaf Spring</span><span id="ro">Arc lamelar semieliptic </span> </td><td>-  </td><td>-</td></tr>
+       <tr><td><span id="en">Quarter Elliptical Leaf Spring</span><span id="ro">Arc lamelar cu un singur braț ( sfert de arc )</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Three-Quarter Elliptical Leaf Spring</span><span id="ro">Arc lamelar trei sferturi eliptic</span> </td><td>- </td><td>-</td></tr>               
+       <tr><td><span id="en">Transverse Leaf Spring</span><span id="ro">Arc lamelar transversal</span> </td><td>- </td><td>-</td></tr>
+	   
+       <tr><td><span id="en">Belleville Disk Spring</span><span id="ro">Arc disc Belleville</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Curved Disk Spring</span><span id="ro">Arc disc curbat</span> </td><td>- </td><td>-</td></tr>               
+       <tr><td><span id="en">Slotted Disk Spring</span><span id="ro">Arc disc Slotted</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Wave Disk Spring</span><span id="ro">Arc disc tip "Valuri"</span> </td><td>- </td><td>-</td></tr>
