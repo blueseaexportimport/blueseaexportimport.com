@@ -1,1 +1,17 @@
 
+       <tr><td>Rhenium powder</td><td>-</td><td>-</td></tr>    
+       <tr><td>Rhenium pellets</td><td>-</td><td>-</td></tr>    
+       <tr><td>Ammonium perrhenate (APR)</td><td>-</td><td>-</td></tr>    
+       <tr><td>Rhenium Sheet</td><td>-</td><td>-</td></tr>    
+       <tr><td>Molybdenum-Rhenium Wire</td><td>-</td><td>-</td></tr>    
+       <tr><td>Tungsten-Rhenium Wire</td><td>-</td><td>-</td></tr>    
+       <tr><td>Rhenium Rod</td><td>-</td><td>-</td></tr>    
+       <tr><td>Rhenium Ribbon</td><td>-</td><td>-</td></tr>    
+       <tr><td>Rhenium Bar</td><td>-</td><td>-</td></tr>    
+       <tr><td>Tungsten Rod</td><td>-</td><td>-</td></tr>    
+       <tr><td>Tungsten Filament</td><td>-</td><td>-</td></tr>   
+       <tr><td>Tungsten Powder</td><td>-</td><td>-</td></tr>    
+       <tr><td>Molybdenum Rod</td><td>-</td><td>-</td></tr>    
+       <tr><td>Molybdenum Tube</td><td>-</td><td>-</td></tr>    
+       <tr><td>Molybdenum Wire</td><td>-</td><td>-</td></tr>    
+       <tr><td>Molybdenum Electrode</td><td>-</td><td>-</td></tr> 
