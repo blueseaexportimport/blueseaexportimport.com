@@ -1,1 +1,3 @@
-
+    <tr><td>Electric fan</td><td>Philips Model xyz  </td><td>-</td></tr>      
+    <tr><td>Air conditioning system</td><td>Philips Model xyz  </td><td>-</td></tr>   
+    <tr><td>Electric heater</td><td>Philips Model xyz  </td><td>-</td></tr>
