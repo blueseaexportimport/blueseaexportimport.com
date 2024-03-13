@@ -1,2 +1,84 @@
 <tbody>
+
+       <tr><td>Lightbulb socket adapter </td><td>Model e14</td><td>-</td></tr>
+       <tr><td>Lightbulb socket adapter </td><td>Model e27</td><td>-</td></tr>
+       <tr><td>Lightbulb socket </td><td>Model e14</td><td>-</td></tr>
+       <tr><td>Lightbulb socket </td><td>Model e27</td><td>-</td></tr>  
+       <tr><td>CCTV cable </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>MYYUP cable </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>MYYM cable </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>MYF cable </td><td>Model A  / Roll</td><td>-</td></tr>  
+       <tr><td>CYY cable </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>TCYY cable </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>MCCG-I cable </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>CYABY cable </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>RJ45 networking cable </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Coaxial cable </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Speaker cable </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Welding cable </td><td>Model A  / Roll</td><td>-</td></tr>  
+       <tr><td>TV Coax Signal Splitter </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Coaxial cable </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Coaxial cable connector L female </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Coaxial cable connector L male</td><td>Model A  / Roll</td><td>-</td></tr>    
+       <tr><td>Coaxial cable connector female </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Coaxial cable connector male</td><td>Model A  / Roll</td><td>-</td></tr>  
+       <tr><td>RJ45 coupler </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>RJ45 socket </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Coaxial cable connector L male</td><td>Model A  / Roll</td><td>-</td></tr>    
+       <tr><td>Coaxial cable connector female </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Coaxial cable connector male</td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>RJ45 sleeve </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Type F Connector </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Type F-F Adapter </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Type F Adapter female</td><td>Model A  / Roll</td><td>-</td></tr>  
+       <tr><td>Coaxial cable extenstion adapter</td><td>Model A  / Roll</td><td>-</td></tr>  
+       <tr><td>LV Cable Lug </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>MV Cable Lug </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Outdoor Cable Lug </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Two-hole Cable Lug</td><td>Model A  / Roll</td><td>-</td></tr>  
+       <tr><td>MCCB Cable Lug</td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>LV Cable Link </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>MV Cable Link </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Outdoor Long Barrel Cable Lug </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Type C Connector</td><td>Model A  / Roll</td><td>-</td></tr>  
+       <tr><td>Copper Trunking Earth Link</td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>90 Degree Cable Lug</td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Heat shrink tubes set</td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>E2508 terminal pin </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Two-hole screw mount clamp</td><td>Model A  / Roll</td><td>-</td></tr>  
+       <tr><td>Cable clamp with nail</td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Sleeve connector without screw</td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Sleeve connector with screw</td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Terminal block T85</td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Cable ties</td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>RJ45 jacks </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>S hooks set </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Carabiner </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Plug</td><td>Model A  / Roll</td><td>-</td></tr>  
+       <tr><td>Rubber tube</td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Rubber channel cable protectir </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Extension cord </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Wall socket </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Electric meter security seal</td><td>Model A  / Roll</td><td>-</td></tr>  
+       <tr><td>Cable tensioners</td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Cable labels set</td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Socket back box</td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Aerial visibility marker Balls </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>E14 LED Lightbulb</td><td>Model A  / Roll</td><td>-</td></tr>  
+       <tr><td>E27 LED Lightbulb</td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>E27 LED Spotlight</td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>E14 LED Spotlight</td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Wall Single-Pole Switch </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Wall Double-Pole Switch </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Wall Three-Way Switch  </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Wall Four-Way Switch </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Wall Smart Switch  </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Wall Dimmer Switch  </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Wall Occupancy Switch   </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Wall Specialty Switch  </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Double clip cable </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Single clip cable </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Snap on cable markers set  </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Cable grommets   </td><td>Model A  / Roll</td><td>-</td></tr>  
+
 </tbody>
