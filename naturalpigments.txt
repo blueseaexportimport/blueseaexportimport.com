@@ -1,1 +1,29 @@
 
+    <tr><td><span id="en">Dye Red - Common madder ( Rubia tinctorum )</span><span id="ro">Pigment Roșu - Roibă ( Rubia tinctorum )</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Dye Red - Red elderberry ( Sambucus racemosa )</span><span id="ro">Pigment Roșu - Soc roșu ( Sambucus racemosa )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Dye Red - Red beet ( Beta vulgaris )</span><span id="ro">Pigment Roșu - Sfeclă roșie ( Beta vulgaris )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Dye Purple Red - Red Rubin basil ( Ocimum basilicum var. Purpurascens )</span><span id="ro">Pigment Violet Roșu - Busuioc roșu rubin ( Ocimum basilicum var. Purpurascens )</span> </td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dye Purple Red - Black mulberry ( Morus nigra )</span><span id="ro">Pigment Violet Roșu - Dude negre ( Morus nigra )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dye Pink - Damask Rose petals ( Rosa × damascena )</span><span id="ro">Pigment Roz - petale Trandafir de Damasc ( Rosa × damascena )</span> </td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dye Pink - Cherry Fruits ( Prunus avium )</span><span id="ro">Pigment Roz - Cireșe ( Prunus avium )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dye Yellow - Common Marigold petals ( Calendula officinalis )</span><span id="ro">Pigment Galben - Petale Gălbenele ( Calendula officinalis )</span> </td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dye Yellow - Yellow Onion ( Allium cepa L. )</span><span id="ro">Pigment Galben - Ceapă galbenă ( Allium cepa L. )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dye Yellow - Sloe Bark ( Prunus spinosa )</span><span id="ro">Pigment Galben - Scoarță de porumbar ( Prunus spinosa )</span> </td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dye Yellow - Mexican Marigold ( Tagetes erecta )</span><span id="ro">Pigment Galben - Crăiță ( Tagetes erecta )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Dye Yellow - Alder Buckthorn ( Rhamnus frangula )</span><span id="ro">Pigment Galben - Crușin ( Rhamnus frangula )</span> </td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dye Yellow - Yellow Bedstraw ( Galium verum )</span><span id="ro">Pigment Galben - Sânziană ( Galium verum )</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dye Yellow - Dandelion ( Taraxacum officinale )</span><span id="ro">Pigment Galben - Păpădie ( Taraxacum officinale )</span> </td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dye Yellow - Common Tansy ( Tanacetum vulgare )</span><span id="ro">Pigment Galben - Vetrice ( Tanacetum vulgare )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Dye Orange - Orange Impatiens ( Impatiens walleriana )</span><span id="ro">Pigment Portocaliu - Sporul casei ( Impatiens walleriana )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Dye Brown - Dandelion Root ( Taraxacum officinale root )</span><span id="ro">Pigment Maro - Rădăcină de păpădie ( Taraxacum officinale root )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Dye Brown - Marvel of Peru ( Mirabilis jalapa )</span><span id="ro">Pigment Maro - Noptiță ( Mirabilis jalapa )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Dye Brown - Acorns ( Quercus )</span><span id="ro">Pigment Maro - Ghinde ( Quercus )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Dye Blue - Common Hyacinth ( Hyacinthus orientalis )</span><span id="ro">Pigment Albastru - Zambilă ( Hyacinthus orientalis )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Dye Blue - Blueberry ( Vaccinium myrtillus L. )</span><span id="ro">Pigment Albastru - Afine ( Vaccinium myrtillus L. )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Dye Blue - Cornflowe ( Centaurea cyanus )</span><span id="ro">Pigment Albastru - Albăstrea ( Centaurea cyanus )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Dye Green - Spinach ( Spinacia oleracea )</span><span id="ro">Pigment Verde - Spanac( Spinacia oleracea )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Dye Green - Red Onion Skin ( Red Allium cepa )</span><span id="ro">Pigment Verde - Pieliță ceapă roșie ( Red Allium cepa )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Dye Green - Chamomile Leafs ( Matricaria recutita )</span><span id="ro">Pigment Verde - Frunze de mușețel ( Matricaria recutita )</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Dye Green - Common Nettle ( Urtica dioica )</span><span id="ro">Pigment Verde - Urzică ( Urtica dioica )</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Dye Black - Black Turtle Bean ( Phaseolus vulgaris )</span><span id="ro">Pigment Negru - Fasole neagră ( Phaseolus vulgaris ) </span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Dye Black - Walnut Husks ( Juglans regia )</span><span id="ro">Pigment Negru - Coji nuci ( Juglans regia ) </span></td><td>-</td><td>-</td></tr>  
