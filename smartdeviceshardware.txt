@@ -1,1 +1,33 @@
-
+       <tr><td>Smart Phone - Display - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart Phone - Battery - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart Phone - System-on-a-chip ( SoC ) - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart Phone - Front Facing Camera - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart Phone - Front Facing Camera - Model Xyz </td><td>-</td><td>-</td></tr>	   
+       <tr><td>Smart Phone - Headphone jack - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart Phone - Open Eject Pin - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart Phone - SIM Card Tray - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - Bezel - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - Crystal black panel - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - Frame Middle Mold - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - Optical Sheet - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - LGP (Light Guide Plate) - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - LED - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - Bottom Chassis - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - Middle Cover - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - Rear Cover - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - Main Circuit Board - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - Smart Real Engine - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - Speed Backlight Engine - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - Tuner - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - HDMI terminal - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - USB terminal - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - Power Board - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - Ambient Light Sensor - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - Bluetooth Module - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - WiFi Module - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - Speakers - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - Stand - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - Operation Touch Button - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - Wall Mount - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - QWERTY Remote Control - Model Xyz </td><td>-</td><td>-</td></tr>
+       <tr><td>Smart TV - 3D Glasses - Model Xyz </td><td>-</td><td>-</td></tr>
