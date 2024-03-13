@@ -1,2 +1,25 @@
 <tbody>
+
+      <tr><td><span id="en">Mechanical aviator watch</span><span id="ro">Ceas de mână mecanic aviator</span> </td><td>- </td><td>-</td></tr>  
+       <tr><td><span id="en">Automatic military watch</span><span id="ro">Ceas de mână militar automatic</span> </td><td>- </td><td>-</td></tr> 
+       <tr><td><span id="en">Quartz racing watch</span><span id="ro">Ceas de mână quartz automobiliști</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Solar diver watch</span><span id="ro">Ceas de mână scafandru solar</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Analogue field watch</span><span id="ro">Ceas mână de câmp analogic</span> </td><td>-  </td><td>-</td></tr> 
+       <tr><td><span id="en">Digital fashion watch</span><span id="ro">Ceas de mână digital de modă</span> </td><td>-  </td><td>-</td></tr>
+       <tr><td><span id="en">Analogue dress watch</span><span id="ro">Ceas de mână analogic de modă</span> </td><td>-  </td><td>-</td></tr>
+       <tr><td><span id="en">Chronograph luxury watch</span><span id="ro">Ceas mână de lux cronograf</span> </td><td>-  </td><td>-</td></tr> 
+       <tr><td><span id="en">Digital smart watch</span><span id="ro">Ceas de mână smart digital</span> </td><td>-  </td><td>-</td></tr> 
+       <tr><td><span id="en">Digital fitness watch</span><span id="ro">Ceas de mână fitness digital</span> </td><td>-  </td><td>-</td></tr>
+       <tr><td><span id="en">Hybrid fitness watch</span><span id="ro">Ceas mână de fitness hibrid</span> </td><td>-  </td><td>-</td></tr>  
+       <tr><td><span id="en">Mechanical pocket watch</span><span id="ro">Ceas de mână mecanic de buzunar</span> </td><td>- </td><td>-</td></tr>  
+       <tr><td><span id="en">Automatic nurse watch</span><span id="ro">Ceas de mână automatic asistentă medicală</span> </td><td>- </td><td>-</td></tr> 
+       <tr><td><span id="en">Quartz sport watch</span><span id="ro">Ceas de mână Quartz sport</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Solar wood watch</span><span id="ro">Ceas de mână solar cu brățară din lemn</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Watch strap - metal bracelet </span><span id="ro">Brățară ceas metalică</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Watch strap - leather bracelet</span><span id="ro">Brățară ceas din piele</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Watch strap - rubber bracelet</span><span id="ro">Brățară ceas din cauciuc</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Watch strap - silicone bracelet</span><span id="ro">Brățară ceas din silicon</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Watch strap - textile bracelet</span><span id="ro">Brățară ceas textilă</span> </td><td>- </td><td>-</td></tr>
+
+
 </tbody>
