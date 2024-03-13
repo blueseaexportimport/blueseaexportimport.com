@@ -1,1 +1,10 @@
-
+     <tr><td>Gallery frame</td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Modern metal frame</span><span id="ro"></span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Floating frame</span><span id="ro"></span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Deep-set frame</span><span id="ro"></span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Wooden tabletop frame</span><span id="ro"></span></td><td>-</td><td>-</td></tr>  
+       <tr><td><span id="en">Decorative frame</span><span id="ro"></span> </td><td>-</td><td>-</td></tr>         
+       <tr><td><span id="en">Collage frame</span><span id="ro"></span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Poster frame</span><span id="ro"></span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Document frame</span><span id="ro"></span></td><td>-</td><td>-</td></tr>  
+       <tr><td><span id="en">Metal tabletop frame</span><span id="ro"></span></td><td>-</td><td>-</td></tr> 
