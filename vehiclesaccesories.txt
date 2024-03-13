@@ -1,1 +1,15 @@
-
+       <tr><td>Taxi LED Display Light</td><td>-</td><td>-</td></tr>        
+       <tr><td>Chess Check Taxi Band</td><td>-</td><td>-</td></tr>        
+       <tr><td>Car sun shade covert</td><td>-</td><td>-</td></tr>        
+       <tr><td>Car tarpaulin</td><td>-</td><td>-</td></tr>        
+       <tr><td>Truck tarpaulin</td><td>-</td><td>-</td></tr>        
+       <tr><td>Certified Snow chains</td><td>-</td><td>-</td></tr>        
+       <tr><td>Rubber car mat</td><td>-</td><td>-</td></tr>        
+       <tr><td>Car trunk liner - mat</td><td>-</td><td>-</td></tr>
+       <tr><td>Tire cover</td><td>-</td><td>-</td></tr>
+       <tr><td>Car seat cover</td><td>-</td><td>-</td></tr>
+       <tr><td>Car battery charger</td><td>-</td><td>-</td></tr>
+       <tr><td>Car blinds</td><td>-</td><td>-</td></tr>
+       <tr><td>Car Phone holder</td><td>-</td><td>-</td></tr>
+       <tr><td>Windshield fluid</td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Windshield cleaning solution</span><span id="ro" >Soluție curățat parbrize</span></td><td>-</td><td>-</td></tr> 
