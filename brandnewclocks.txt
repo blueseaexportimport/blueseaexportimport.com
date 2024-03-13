@@ -1,1 +1,20 @@
-
+       <tr><td><span id="en">Hourglass Clock</span><span id="ro">Ceas clepsidră</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Sun Clock</span><span id="ro">Cadran solar</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Pendulum Clock</span><span id="ro">Ceas cu pendul</span> </td><td>- </td><td>-</td></tr>               
+       <tr><td><span id="en">Analog Clock</span><span id="ro">Ceas analogic</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Atomic Clock</span><span id="ro">Ceas atomic</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Quartz Clock</span><span id="ro">Ceas quartz</span> </td><td>- </td><td>-</td></tr>         
+       <tr><td><span id="en">Cuckoo Clock</span><span id="ro">Ceas cu cuc</span> </td><td>- </td><td>-</td></tr>   
+       <tr><td><span id="en">Grandfather Clock</span><span id="ro">Ceasul bunicului</span> </td><td>- </td><td>-</td></tr>  
+       <tr><td><span id="en">Wall Clock</span><span id="ro">Ceas de perete</span> </td><td>- </td><td>-</td></tr> 
+       <tr><td><span id="en">Table Clock</span><span id="ro">Ceas de masă</span> </td><td>- </td><td>-</td></tr> 
+       <tr><td><span id="en">Desk Clocks</span><span id="ro">Ceas de birou</span> </td><td>- </td><td>-</td></tr>  
+       <tr><td><span id="en">Calendar Clock</span><span id="ro">Ceas calendar</span> </td><td>- </td><td>-</td></tr> 
+       <tr><td><span id="en">Alarm Clock</span><span id="ro">Ceas deșteptător</span> </td><td>- </td><td>-</td></tr>    
+       <tr><td><span id="en">Projection Clock</span><span id="ro">Ceas proiecție</span> </td><td>- </td><td>-</td></tr> 
+       <tr><td><span id="en">Flip Clock</span><span id="ro">Ceas flip</span> </td><td>- </td><td>-</td></tr>  
+       <tr><td><span id="en">Radio Clock</span><span id="ro">Ceas radio</span> </td><td>- </td><td>-</td></tr> 
+       <tr><td><span id="en">Countdown Clock</span><span id="ro">Ceas cu cronometru</span> </td><td>- </td><td>-</td></tr>  
+       <tr><td><span id="en">Chronometer</span><span id="ro">Cronometru</span> </td><td>- </td><td>-</td></tr> 
+       <tr><td><span id="en">Time Zone Clock</span><span id="ro">Ceas fus orar</span> </td><td>- </td><td>-</td></tr> 
+       <tr><td><span id="en">Outdoor Retro Clock</span><span id="ro">Ceas retro de exterior</span> </td><td>- </td><td>-</td></tr> 
