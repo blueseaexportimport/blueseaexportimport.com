@@ -1,1 +1,25 @@
-
+       <tr><td>Ball bearing </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Barrel roller bearing </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Tapered roller bearing </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Cylindrical roller bearing </td><td>Model A  / Roll</td><td>-</td></tr>  
+       <tr><td>High precision bearing </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Needle roller bearing </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Bearing Housing </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Oil seal ring </td><td>Model A  / Roll</td><td>-</td></tr>  
+       <tr><td>Bushing </td><td>Model A  / Roll</td><td>-</td></tr>     
+       <tr><td>Transmission chain </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Transmission rubber belt </td><td>Model A  / Roll</td><td>-</td></tr>    
+       <tr><td>Fixed castor wheel </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Swivel caster wheel  </td><td>Model A  / Roll</td><td>-</td></tr>  
+       <tr><td>Roller with brake </td><td>Model A  / Roll</td><td>-</td></tr>     
+       <tr><td>Single wheel (no fork) </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Wheel for transmission belt </td><td>Model A  / Roll</td><td>-</td></tr>          
+       <tr><td>Bevel gear </td><td>Model A  / Roll</td><td>-</td></tr>                 
+       <tr><td>Spur gear </td><td>Model A  / Roll</td><td>-</td></tr>                    
+       <tr><td>Helical gear </td><td>Model A  / Roll</td><td>-</td></tr>     
+       <tr><td>Gear rack </td><td>Model A  / Roll</td><td>-</td></tr>   
+       <tr><td>Miter gear </td><td>Model A  / Roll</td><td>-</td></tr>      
+       <tr><td>Worm gear </td><td>Model A  / Roll</td><td>-</td></tr>   
+       <tr><td>Screw gear </td><td>Model A  / Roll</td><td>-</td></tr>      
+       <tr><td>Internal gear </td><td>Model A  / Roll</td><td>-</td></tr>        
+       <tr><td>Internal gear </td><td>Model A  / Roll</td><td>-</td></tr> 
