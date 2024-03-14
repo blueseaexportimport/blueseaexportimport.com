@@ -1,1 +1,4 @@
-
+    <tr><td><span id="en">Dry cat Food</span><span id="ro">Hrană pisici uscată</span></td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Wet cat Food</span><span id="ro">Hrană pisici umedă</span></td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Raw cat Food</span><span id="ro">Hrană pisici crudă</span></td><td>-</td><td>-</td></tr>
+<tr><td><span id="en">cat Food Reward</span><span id="ro">Hrană pisici recompensă/span></td><td>-</td><td>-</td></tr>
