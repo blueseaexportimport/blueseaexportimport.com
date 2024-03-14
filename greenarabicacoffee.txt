@@ -1,1 +1,57 @@
 
+    <tr><td><span id="en">Anacafe 14 green arabica coffee beans</span><span id="ro">Boabe cafea arabica Anacafe 14 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Batian green arabica coffee beans</span><span id="ro">Boabe cafea arabica Batian verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Bourbon green arabica coffee beans</span><span id="ro">Boabe cafea arabica Bourbon verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Bourbon Mayaguez 71 green arabica coffee beans</span><span id="ro">Bourbon Mayaguez 71 cafea arabica Bourbon verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Bourbon Mayaguez 139 green arabica coffee beans</span><span id="ro">Bourbon Mayaguez 139 cafea arabica Bourbon verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Blue Mountain green arabica coffee beans</span><span id="ro">Boabe cafea arabica Blue Mountain verde</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Caripe green arabica coffee beans</span><span id="ro">Boabe cafea arabica Caripe verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Casiopea green arabica coffee beans</span><span id="ro">Boabe cafea arabica Casiopea verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Catimor 129 green arabica coffee beans</span><span id="ro">Boabe cafea arabica Catimor 129 verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Catisic green arabica coffee beans</span><span id="ro">Boabe cafea arabica Catisic verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Catuai green arabica coffee beans</span><span id="ro">Boabe cafea arabica Catuai verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Caturra green arabica coffee beans</span><span id="ro">Boabe cafea arabica Caturra verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Centroamericano green arabica coffee beans</span><span id="ro">Boabe cafea arabica Centroamericano verde</span></span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Costa Rica 95 green arabica coffee beans</span><span id="ro">Boabe cafea arabica Costa Rica 95 verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Cuscatleco green arabica coffee beans</span><span id="ro">Boabe cafea arabica Cuscatleco verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Esperanza green arabica coffee beans</span><span id="ro">Boabe cafea arabica Esperanza verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Evaluna green arabica coffee beans</span><span id="ro">Boabe cafea arabica Evaluna verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Fronton green arabica coffee beans</span><span id="ro">Boabe cafea arabica Fronton verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Geisha (Panama) green arabica coffee beans</span><span id="ro">Boabe cafea arabica Geisha (Panama) verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">H3 green arabica coffee beans</span><span id="ro">Boabe cafea arabica H3 verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Harar Rwanda green arabica coffee beans</span><span id="ro">Boabe cafea arabica Harar Rwanda verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">IAPAR 59 green arabica coffee beans</span><span id="ro">Boabe cafea arabica IAPAR 59 verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">IHCAFE 90 green arabica coffee beans</span><span id="ro">Boabe cafea arabica IHCAFE 90 verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Jackson 2/1257 green arabica coffee beans</span><span id="ro">Boabe cafea arabica Jackson 2/1257 verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Java green arabica coffee beans</span><span id="ro">Boabe cafea arabica Java verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">K7 green arabica coffee beans</span><span id="ro">Boabe cafea arabica K7 verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">KP423 green arabica coffee beans</span><span id="ro">Boabe cafea arabica KP423 verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Lempira green arabica coffee beans</span><span id="ro">Boabe cafea arabica Lempira verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Limani green arabica coffee beans</span><span id="ro">Boabe cafea arabica Limani verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Maragogipe green arabica coffee beans</span><span id="ro">Boabe cafea arabica Maragogipe verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Marsellesa green arabica coffee beans</span><span id="ro">Boabe cafea arabica Marsellesa verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Mibirizi green arabica coffee beans</span><span id="ro">Boabe cafea arabica Mibirizi verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Milenio green arabica coffee beans</span><span id="ro">Boabe cafea arabica Milenio verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Mundo Maya green arabica coffee beans</span><span id="ro">Boabe cafea arabica Mundo Maya verde</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Nayarita green arabica coffee beans</span><span id="ro">Boabe cafea arabica Nayarita verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Nemaya (Coffea canephora) green arabica coffee beans</span><span id="ro">Boabe cafea arabica Nemaya (Coffea canephora) verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Nyasaland green arabica coffee beans</span><span id="ro">Boabe cafea arabica Nyasaland verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Obata (Red) green arabica coffee beans</span><span id="ro">Boabe cafea arabica Obata (Red) verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Oro Azteca green arabica coffee beans</span><span id="ro">Boabe cafea arabica Oro Azteca verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Pacamara green arabica coffee beans</span><span id="ro">Boabe cafea arabica Pacamara verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Pacas green arabica coffee beans</span><span id="ro">Boabe cafea arabica Pacas verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Parainema green arabica coffee beans</span><span id="ro">Boabe cafea arabica Parainema verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Pop3303/21 green arabica coffee beans</span><span id="ro">Boabe cafea arabica Pop3303/21 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">RAB C15 green arabica coffee beans</span><span id="ro">Boabe cafea arabica RAB C15 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Ruiru 11 green arabica coffee beans</span><span id="ro">Boabe cafea arabica Ruiru 11 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">SL14 green arabica coffee beans</span><span id="ro">Boabe cafea arabica SL14 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">SL28 green arabica coffee beans</span><span id="ro">Boabe cafea arabica SL28 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">SL34 green arabica coffee beans</span><span id="ro">Boabe cafea arabica SL34 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Starmaya green arabica coffee beans</span><span id="ro">Boabe cafea arabica Starmaya verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">T5175 green arabica coffee beans</span><span id="ro">Boabe cafea arabica T5175 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">T5296 green arabica coffee beans</span><span id="ro">Boabe cafea arabica T5296 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">T8667 green arabica coffee beans</span><span id="ro">Boabe cafea arabica T8667 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Tekisic green arabica coffee beans</span><span id="ro">Boabe cafea arabica Tekisic verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Typica green arabica coffee beans</span><span id="ro">Boabe cafea arabica Typica verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Venecia green arabica coffee beans</span><span id="ro">Boabe cafea arabica Venecia verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Villa Sarchi green arabica coffee beans</span><span id="ro">Boabe cafea arabica Villa Sarchi verde</span></td><td>-</td><td>-</td></tr>    
