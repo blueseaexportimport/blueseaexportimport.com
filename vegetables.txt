@@ -1,1 +1,50 @@
 
+   <tr><td><span id="en">Celery root</span><span id="ro">Rădăcină de țelină</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Parsnip</span><span id="ro">Păstârnac</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Carrots with leaves</span><span id="ro">Morcovi cu frunze</span></td></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Yellow onion</span><span id="ro">Ceapă galbenă</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">White onion</span><span id="ro">Ceapă albă</span> </td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Shallots</span><span id="ro">Ceapă Shallots</span> </td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Green onion</span><span id="ro">Ceapă Verde</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">White garlic</span><span id="ro">Usturoi alb</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Pink and white potatoes</span><span id="ro">Cartofi roz sau albi</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Sweet potatoes</span><span id="ro">Cartofi dulci</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Yams</span><span id="ro">Yams</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Cassava</span><span id="ro">Cassava</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Manioc</span><span id="ro">Manioc</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Daikon radish</span><span id="ro">Ridichie Daikon</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Cherry tomatoes</span><span id="ro">Roșii Cherry</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Roma Tomatoes</span><span id="ro">Roșii Roma</span>  </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Cocktail Tomatoes</span><span id="ro">Roșii Cocktail</span>  </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Heirloom Tomatoes</span><span id="ro">Roșii Heirloom</span>  </td><td>-</td><td>-</td></tr>        
+    <tr><td><span id="en">Cauliflower</span><span id="ro">Conopidă</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Red - Violet cabbage</span><span id="ro">Varză roșie - violet</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">White cabbage</span><span id="ro">Varză albă</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Lettuce - Lactuca sativa</span><span id="ro">Salată -Lactuca sativa</span></td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Iceberg salad</span><span id="ro">Salată Iceberg</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Rocket salad</span><span id="ro">Salată Rocket</span>  </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Lollo rossa</span><span id="ro">Salată Lollo rossa</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Spinach</span><span id="ro">Spanac</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Gherkins -  cucumbers</span><span id="ro">Castraveți cornișon</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">White and purple asparagus</span><span id="ro">Sparanghel roz sau alb</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Purple eggplant</span><span id="ro">Vinete mov</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">White eggplant</span><span id="ro">Vinete albe</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Bell peppers</span><span id="ro">Ardei grași </span>  </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Artichoke</span><span id="ro">Anghinare </span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Fennel bulb</span><span id="ro">Bulb Fenicul </span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Fresh Parsley leaves</span><span id="ro">Frunze pătrunjel proaspete</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Parsley root</span><span id="ro">Rădăcină pătrunjel</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Dill</span><span id="ro">Mărar</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Lovage</span><span id="ro">Leuștean</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Mouse Melons</span><span id="ro">Pepeni Mouse</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Melons for pickling</span><span id="ro">Pepeni pentru murat</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Tomatoes for pickling</span><span id="ro">Roșii pentru murat</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Water Chestnut (Eleocharis dulcis)</span><span id="ro">Castane de apă  (Eleocharis dulcis)</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Turnips</span><span id="ro">Napi</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Purple turnip</span><span id="ro">Napi violet</span>  </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Kohlrabi</span><span id="ro">Gulii</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Red Beet</span><span id="ro">Sfeclă roșie</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Sweet corn</span><span id="ro">Porumb dulce</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Bush Green Beans</span><span id="ro">Păstăi fasole verzi  - tufe</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Pole Green Beans</span><span id="ro">Păstăi fasole verzi - urcătoare</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Amla Berries</span><span id="ro">Coacăze indiene</span></td><td>-</td><td>-</td></tr>  
