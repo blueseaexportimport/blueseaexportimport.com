@@ -1,2 +1,11 @@
 <tbody>
+       <tr><td><span id="en" >Glue for dental prosthesis</span><span id="ro">Adeziv pentru prodeză dentară</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en" >Mint chewable tablets</span><span id="ro">Tablete masticabile mentă</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en" >Teeth whitening pencil</span><span id="ro">Creion albit dinți</span></td><td>-</td><td>-</td></tr>   
+       <tr><td><span id="en" >Toothpicks</span><span id="ro">Scobitori</span></td><td>-</td><td>-</td></tr>
+	<span id="en">Start Product:<br> Tooth brush</span><span id="ro">Start Produs:<br> Periuță Dinți</span>
+	<span id="en">Start Product:<br> Dental floss</span><span id="ro">Start Produs:<br> Ață Dentară</span>
+	<span id="en">Start Product:<br> Mouthwash</span><span id="ro">Start Produs:<br> Apă de Gură </span>
+	<span id="en">Start Product:<br> Toothpaste</span><span id="ro">Start Produs:<br> Pastă de Dinți </span>
+
 </tbody>
