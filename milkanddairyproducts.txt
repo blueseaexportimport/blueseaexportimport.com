@@ -1,1 +1,46 @@
 
+	<span id="en">Start Product:<br> Milk</span><span id="ro">Start Produs:<br> Lapte</span>
+	<span id="en">Start Product:<br> Sour Milk</span><span id="ro">Start Produs:<br> Lapte acru / bătut </span>
+	<span id="en">Start Product:<br> Kefir milk</span><span id="ro">Start Produs:<br> Lapte chefir </span>
+	<span id="en">Start Product:<br> Yogurt with greek specific</span><span id="ro">Start Produs:<br> Iaurt cu specific grecesc </span>
+	<span id="en">Start Product:<br> Yogurt</span><span id="ro">Start Produs:<br>Iaurt</span>
+	<span id="en">Start Product:<br> Sana milk</span><span id="ro">Start Produs:<br>Lapte sana</span>
+	<span id="en">Start Product:<br> Processed cheese</span><span id="ro">Start Produs:<br>Brânză topită</span>
+	<span id="en">Start Product:<br> Sour cream</span><span id="ro">Start Produs:<br>Smântână</span>
+	<span id="en">Start Product:<br> Liquid Sour cream for cooking</span><span id="ro">Start Produs:<br>Smântână lichidă pentru gătit</span>
+	<span id="en">Start Product:<br>Butter</span><span id="ro">Start Produs:<br>Unt</span>
+	<span id="en">Start Product:<br>Cottage cheese with sour cream</span><span id="ro">Start Produs:<br>Brânză de vacă cu smântână</span>
+	<span id="en">Start Product:<br>Fat cottage cheese</span><span id="ro">Start Produs:<br>Brânză grasă de vacă</span>
+	<span id="en">Start Product:<br>Cottage cheese</span><span id="ro">Start Produs:<br>Brânză de vacă</span>
+	<span id="en">Start Product:<br>Kneaded cottage cheese</span><span id="ro">Start Produs:<br>Brânză frământată</span>
+
+    <tr><td><span id="en">Butter 250g</span><span id="ro">Unt 250g</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( 60% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>     
+    <tr><td><span id="en">Butter 250g</span><span id="ro">Unt 250g</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( 67% <span id="en">fats</span><span id="ro"> grăsimi</span>  )</td><td>-</td></tr>     
+    <tr><td><span id="en">Butter 200g</span><span id="ro">Unt 200g</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( 80% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>     
+   	   
+
+    <tr><td><span id="en">Milk UHT TetraPak 1L</span><span id="ro">Lapte UHT TetraPak 1L</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( 3.5% <span id="en">fats</span><span id="ro"> grăsimi</span>)</td><td>-</td></tr>    
+    <tr><td><span id="en">Milk UHT TetraPak 1L</span><span id="ro">Lapte UHT TetraPak 1L</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( 1.5% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>    
+    <tr><td><span id="en">Camil Milk TetraPak 1L</span><span id="ro">Lapte de cămilă TetraPak 1L</span></td><td><span id="en">Camil</span><span id="ro">Cămilă</span> <br>( 1.9% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>    
+
+
+    <tr><td><span id="en">Yak Butter 200g</span><span id="ro">Unt Yak 200g</span> </td><td><span id="en">Yak</span><span id="ro">Yak</span> <br>( 82% <span id="en">fats</span><span id="ro"> grăsimi</span>  )</td><td>-</td></tr>     
+    <tr><td><span id="en">Ghee Butter 200g</span><span id="ro">Unt Ghee 200g</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( 82% <span id="en">fats</span><span id="ro"> grăsimi</span>  )</td><td>-</td></tr>     
+
+    <tr><td><span id="en">Condensed Milk</span><span id="ro">Lapte condensat</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr>   
+    <tr><td><span id="en">Baby milk powder formula</span><span id="ro">Lapte praf copii mici</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( 0-3 <span id="en">months</span><span id="ro">luni</span> )</td><td>-</td></tr>    
+    <tr><td><span id="en">Whole milk powder</span><span id="ro">Lapte praf</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( min 26% - max 44% <span id="en">fats</span><span id="ro"> grăsimi</span>  )</td><td>-</td></tr>    
+    <tr><td><span id="en">Milk Powder For Baking</span><span id="ro">Lapte praf alimentar</span> </td><td>- </td><td>- </td></tr>
+    <tr><td><span id="en">Partially skimmed milk powder</span><span id="ro">Lapte parțial degresat praf</span></td><td>Cow <br>( min 1.5% - max 26% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>    
+    <tr><td><span id="en">Skimmed milk powder</span><span id="ro">Lapte degresat praf</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( max 1.5% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>    
+    <tr><td><span id="en">Instant milk powder</span><span id="ro">Lapte praf instant</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( max 1.5% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>    
+    <tr><td><span id="en">Sour cream powder</span><span id="ro">Smântână pudră</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( min 65% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>    
+    <tr><td><span id="en">Sour cream powder</span><span id="ro">Smântână pudră</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( min 50% - max 65% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>    
+    <tr><td><span id="en">Whey powder</span><span id="ro">Zer praf</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( min 50% - max 65% <span id="en">fats</span><span id="ro"> grăsimi</span>)</td><td>-</td></tr>    
+    <tr><td><span id="en">Powdered cheese</span><span id="ro">Pulbere de brânză</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr>    
+    <tr><td><span id="en">Powdered ice cream mix</span><span id="ro">Mix pulbere de înghețată </span></td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr>    
+    <tr><td><span id="en">Buttermilk powder</span><span id="ro">Pudra de zară</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic Yogurt</span><span id="ro">Iaurt dietetic</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span><br>( 0.1% -1% <span id="en">fats</span><span id="ro"> grăsimi</span>)</td><td>-</td></tr> 
+    <tr><td><span id="en">Mozzarela</span><span id="ro">Mozzarela</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr>         
+    <tr><td><span id="en">Curd</span><span id="ro">Lapte covăsit</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr>             
+    <tr><td><span id="en">Cheese cream</span><span id="ro">Cremă de brânză</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr> 
