@@ -1,1 +1,62 @@
 
+    <tr><td>Ají </td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 0–50 SHU </td><td>-</td></tr> 
+    <tr><td>Banana </td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 0–500 SHU </td><td>-</td></tr> 
+    <tr><td>Cubanelle</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 1–1,000 SHU  </td><td>-</td></tr> 
+    <tr><td>Shishito </td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 50-200 SHU  </td><td>-</td></tr> 
+    <tr><td>Cherry / Pimiento  </td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 100-500 SHU  </td><td>-</td></tr> 
+    <tr><td>Friggitelli / Peperoncini </td><td>not to hot <br> 100–500 SHU  </td><td>-</td></tr> 
+    <tr><td>Padrón </td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 500–5,000 SHU </td><td>-</td></tr>
+    <tr><td>Anaheim</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 500–2,500 SHU </td><td>-</td></tr> 
+    <tr><td>Poblano</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 1,000–2,000 SHU  </td><td>-</td></tr> 
+    <tr><td>Piquante</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 1,000–2,000 SHU  </td><td>-</td></tr> 
+    <tr><td>Chilaca</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 1,000–2,000 SHU   </td><td>-</td></tr> 
+    <tr><td>Baklouti</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 1000–5000 SHU  </td><td>-</td></tr> 
+    <tr><td>Korean Chili</td><td>not to hot <br> 1,500 SHU   </td><td>-</td></tr> 
+    <tr><td>Piment d'Espelette</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 1,500 - 2,500 SHU </td><td>-</td></tr>
+    <tr><td>Mirasol</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 2,000–5,000 SHU </td><td>-</td></tr> 
+    <tr><td>Jalapeño</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 2,500–8,000 SHU  </td><td>-</td></tr> 
+    <tr><td>Hungarian Wax</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 2,500–8,000 SHU </td><td>-</td></tr> 
+    <tr><td>Fresno</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 2,500–10,000 SHU </td><td>-</td></tr> 
+    <tr><td>Cascabel</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 3,000 SHU  </td><td>-</td></tr> 
+    <tr><td>Chimayó</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 4,000–6,000 SHU   </td><td>-</td></tr> 
+    <tr><td>Puya </td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 5,000 SHU </td><td>-</td></tr>             
+    <tr><td>Black Hungarian</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 5,000–10,000 SHU </td><td>-</td></tr> 
+    <tr><td>Sandia</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 5,000–30,000 SHU </td><td>-</td></tr> 
+    <tr><td>Cheongyang</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 10,000 SHU  </td><td>-</td></tr>          
+    <tr><td>Black Heart</td><td><span id="en">hot</span><span id="ro">iute</span> <br> 5,000–20,000 SHU </td><td>-</td></tr> 
+    <tr><td>Fish</td><td><span id="en">hot</span><span id="ro">iute</span><br> 5,000–30,000 SHU  </td><td>-</td></tr> 
+    <tr><td>Bishop's Crown</td><td><span id="en">hot</span><span id="ro">iute</span> <br> 10,000–30,000 SHU  </td><td>-</td></tr> 
+    <tr><td>Serrano</td><td><span id="en">hot</span><span id="ro">iute</span> <br> 10,000–23,000 SHU   </td><td>-</td></tr> 
+    <tr><td>Aleppo</td><td><span id="en">hot</span><span id="ro">iute</span> <br> 15,000 SHU  </td><td>-</td></tr> 
+    <tr><td>Cayenne Peperoncino</td><td><span id="en">hot</span><span id="ro">iute</span><br> 15,000–30,000 SHU    </td><td>-</td></tr> 
+    <tr><td>Árbol</td><td><span id="en">hot</span><span id="ro">iute</span><br> 15,000–30,000 SHU </td><td>-</td></tr>
+    <tr><td>Cayenne</td><td><span id="en">hot</span><span id="ro">iute</span><br> 30,000–50,000 SHU </td><td>-</td></tr> 
+    <tr><td>Tabasco </td><td><span id="en">hot</span><span id="ro">iute</span><br> 30,000–50,000 SHU  </td><td>-</td></tr> 
+    <tr><td>Canário</td><td><span id="en">hot</span><span id="ro">iute</span><br> 30,000–50,000 SHU  </td><td>-</td></tr> 
+    <tr><td>Siling haba</td><td><span id="en">hot</span><span id="ro">iute</span><br> 50,000 SHU </td><td>-</td></tr> 
+    <tr><td>Rocoto</td><td><span id="en">hot</span><span id="ro">iute</span><br> 30,000–100,000 SHU </td><td>-</td></tr> 
+    <tr><td>Facing Heaven / Pimiento</td><td><span id="en">hot</span><span id="ro">iute</span> <br>30,000-50,000 SHU </td><td>-</td></tr> 
+    <tr><td>Lemon Drop</td><td><span id="en">hot</span><span id="ro">iute</span> <br> 30,000–50,000 SHU  </td><td>-</td></tr>          
+    <tr><td>Guntur Sannam</td><td><span id="en">hot</span><span id="ro">iute</span> <br> 35,000–40,000 SHU </td><td>-</td></tr> 
+    <tr><td>Bird's Eye</td><td><span id="en">hot</span><span id="ro">iute</span> <br>50,000–100,000 SHU </td><td>-</td></tr> 
+    <tr><td>Piri Piri / African Birdseye</td><td><span id="en">hot</span><span id="ro">iute</span> <br>50,000–175,000 SHU  </td><td>-</td></tr>       
+    <tr><td>Chiltepin</td><td><span id="en">hot</span><span id="ro">iute</span><br> 50,000–100,000 SHU </td><td>-</td></tr> 
+    <tr><td>Prik Kee Nu</td><td><span id="en">hot</span><span id="ro">iute</span><br> 50,000–100,000 SHU </td><td>-</td></tr> 
+    <tr><td>Malagueta</td><td><span id="en">hot</span><span id="ro">iute</span><br> 60,000–100,000 SHU </td><td>-</td></tr> 
+    <tr><td>Siling Labuyo</td><td><span id="en">hot</span><span id="ro">iute</span><br>80,000–100,000 SHU </td><td>-</td></tr> 
+    <tr><td>Pequin</td><td><span id="en">hot</span><span id="ro">iute</span><br>100,000–140,000 SHU </td><td>-</td></tr> 
+    <tr><td>Facing Heaven / Pimiento</td><td><span id="en">very hot</span><span id="ro">foarte iute</span><br>30,000-50,000 SHU </td><td>-</td></tr> 
+    <tr><td>Lemon Drop</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br> 30,000–50,000 SHU  </td><td>-</td></tr>        
+    <tr><td>Habanero</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>100,000–350,000 SHU </td><td>-</td></tr> 
+    <tr><td>Datil</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>100,000–300,000 SHU </td><td>-</td></tr> 
+    <tr><td>Adjuma</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>100,000–500,000 SHU </td><td>-</td></tr> 
+    <tr><td>Madame Jeanette</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>100,000–350,000 SHU</td><td>-</td></tr> 
+    <tr><td>Fatalii</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>125,000–325,000 SHU </td><td>-</td></tr> 
+    <tr><td>Scotch Bonnet</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>150,000–325,000 SHU </td><td>-</td></tr>        
+    <tr><td>Hainan Yellow Lantern</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>300,000 SHU </td><td>-</td></tr>          
+    <tr><td>Naga Morich</td><td><span id="en">super hot</span><span id="ro">super iute</span> <br>1,000,000 SHU</td><td>-</td></tr> 
+    <tr><td>Bhut Jolokia</td><td><span id="en">super hot</span><span id="ro">super iute</span> <br> equal or smaller then 1,040,000 SHU </td><td>-</td></tr> 
+    <tr><td>Naga Viper</td><td><span id="en">super hot</span><span id="ro">super iute</span> <br>1,382,118 SHU </td><td>-</td></tr>        
+    <tr><td>Trinidad Scorpion Butch T</td><td><span id="en">super hot</span><span id="ro">super iute</span> <br>equal or smaller then 1,400,000 SHU </td><td>-</td></tr>              
+    <tr><td>Carolina Reaper</td><td><span id="en">super hot</span><span id="ro">super iute</span> <br>1,569,300–2,200,000 SHU </td><td>-</td></tr>       
+    <tr><td>Trinidad Moruga Scorpion</td><td><span id="en">super hot</span><span id="ro">super iute</span> <br>equal or smaller then 2,000,000 SHU </td><td>-</td></tr>   
