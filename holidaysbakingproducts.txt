@@ -1,1 +1,14 @@
-
+      <tr><td><span id="en">Romanian Christmas Traditonal bread without syrup</span><span id="ro">Turte de Crăciun nesiropate</span> </td><td>-</td><td>-</td></tr> 
+      <tr><td><span id="en">Romanian Church Traditonal Braided Pretzel</span><span id="ro">Colac bisericesc</span> </td><td>-</td><td>-</td></tr> 
+      <tr><td><span id="en">Romanian Church Traditonal Prescură</span><span id="ro">Prescură</span> </td><td>-</td><td>-</td></tr> 
+      <tr><td><span id="en">Romanian Church Traditonal Parastas</span><span id="ro">Parastas</span> </td><td>-</td><td>-</td></tr> 
+      <tr><td><span id="en">Romanian Church Traditonal Scăriță </span><span id="ro">Scăriță</span> </td><td>-</td><td>-</td></tr> 
+      <tr><td><span id="en">Romanian Church Traditonal Braided Bun</span><span id="ro">Chiflă impletită</span> </td><td>-</td><td>-</td></tr> 
+      <tr><td><span id="en">Romanian Church Traditonal Cross / Colivă </span><span id="ro">Cruce / colivă</span> </td><td>-</td><td>-</td></tr> 
+      <tr><td><span id="en">Romanian Church Traditonal Braided Mucenici "Eight shape" big size</span><span id="ro">Mucenici mari</span> </td><td>-</td><td>-</td></tr> 
+      <tr><td><span id="en">Romanian Church Traditonal Braided Mucenici "Eight shape" small size</span><span id="ro">Mucenici mici</span> </td><td>-</td><td>-</td></tr> 
+      <tr><td><span id="en">Romanian Traditonal Cozonac</span><span id="ro">Cozonac</span> </td><td>-</td><td>-</td></tr> 
+      <tr><td><span id="en">Cake base  / Sponge cake</span><span id="ro">Blat de tort</span> </td><td>-</td><td>-</td></tr> 
+      <tr><td><span id="en">Romanian Chec</span><span id="ro">Chec</span> </td><td>-</td><td>-</td></tr> 
+      <tr><td><span id="en">Romanian Pască</span><span id="ro">Pască</span> </td><td>-</td><td>-</td></tr> 
+      <tr><td><span id="en">Italian Traditonal Panettone</span><span id="ro">Panettone tradițional italian</span> </td><td>-</td><td>-</td></tr> 
