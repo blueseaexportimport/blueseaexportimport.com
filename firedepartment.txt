@@ -1,1 +1,6 @@
 
+       <tr><td>Fire Hose</td><td>- </td><td>-</td></tr>
+       <tr><td>Industrial Warning Siren</td><td>  </td><td>-</td></tr>
+       <tr><td>Electro-Mechanical Siren</td><td>  </td><td>-</td></tr> 
+       <tr><td>Warning Siren</td><td> </td><td>-</td></tr>  
+       <tr><td>Siren Controller</td><td>  </td><td>-</td></tr>
