@@ -1,2 +1,35 @@
 <tbody>
+
+	<span id="en">Start Product:<br> Universal Surfaces Detergent</span><span id="ro">Start Produs:<br> Detergent universal pentru suprafețe  </span>
+	<span id="en">Start Product:<br>Duster</span><span id="ro">Start Produs:<br>Pămătuf praf</span>
+	<span id="en">Start Product:<br>Floor cleaning Kit</span><span id="ro">Start Produs:<br>Kit curățat podele</span>
+
+<tr><td><span id="en">Wood Surfaces Detergent</span><span id="ro">Detergent pentru Suprafete din Lemn </span></td>
+ <tr><td><span id="en">Surface Cleaning  Spray</span><span id="ro">Soluție Suprafețe  Spray </span></td>
+<tr><td><span id="en">Surface Clening  Wipes </span><span id="ro">Șervețele suprafețe</span></td>
+<tr><td><span id="en">"Windows" Clening</span><span id="ro">Soluție Curățat Geamuri 500Ml</span></td>
+<tr><td><span id="en">Universal Anti-Mold Spray  500Ml</span><span id="ro">Spray Antimucegai Universal 500Ml</span></td>
+       <tr><td><span id="en">Floor cleaning solution</span><span id="ro" >Soluție curățat podele</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Tile cleaning detergent</span><span id="ro" >Detergent curățat gresie și faianță</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Furniture and parquet polishing solution</span><span id="ro" >Soluție lustruit mobilă și parchet</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Carpet - upholstery cleaning solution</span><span id="ro" ></span></td><td>Soluție curățat covoare / tapițerii</td><td>-</td></tr>  
+       <tr><td><span id="en">Shampoo solution for carpets</span><span id="ro" >Soluție șampon pentru covoare</span> </td><td>-</td><td>-</td></tr>          
+       <tr><td><span id="en">Shoe polish</span><span id="ro" >Cremă pantofi</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Silicone sponge</span><span id="ro" >Burete silicon</span></td><td>-</td><td>-</td></tr>  
+       <tr><td><span id="en">Anti-dust dry cloth</span><span id="ro" >Lavetă uscată anti-praf</span> </td><td>-</td><td>-</td></tr>        
+       <tr><td><span id="en">Antistatic microfiber cloth</span><span id="ro" >Lavetă microfibră antistatică</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Microfiber cloth</span><span id="ro" >Lavetă microfibră</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Wet wipes for glasses</span><span id="ro" >Șervetele umede ochelari</span></td><td>-</td><td>-</td></tr>  
+       <tr><td><span id="en">Outdoor surface cream</span><span id="ro" >Cremă suprafețe outdoor</span> </td><td>-</td><td>-</td></tr>   
+       <tr><td><span id="en">Cream for cleaning metal surfaces</span><span id="ro" >Cremă curățat suprafețe metalice</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Multi-surface cleaning solution</span><span id="ro" >Soluție curățat multi-suprafețe</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Oil stain removal solution</span><span id="ro" >Soluție îndepărtat pete ulei</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Pavement cleaning solution</span><span id="ro" >Soluție curățat pavaje </span></td><td>-</td><td>-</td></tr>  
+       <tr><td><span id="en">Silicone surface cleaning solution</span><span id="ro" >Soluție suprafețe cu silicon</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Anti-rust solution</span><span id="ro" >Soluție anti-rugină</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Graffiti cleaning solution</span><span id="ro" >Soluție curățat Graffiti</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Marker cleaning solution</span><span id="ro" >Soluție curățat Marker</span></td><td>-</td><td>-</td></tr> 
+
+
+
 </tbody>
