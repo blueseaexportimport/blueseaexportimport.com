@@ -1,2 +1,29 @@
 <tbody>
+       <tr><td><span id="en">Rum Essence</span><span id="ro">Esență de Rom</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Vanilla Essence</span><span id="ro">Esență de Vanilie</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Orange Essence</span><span id="ro">Esență de Portocale</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Lemon Essence</span><span id="ro">Esență de Lămâie</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Rose Essence</span><span id="ro">Esență de Trandafir</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Saffron Essence</span><span id="ro">Esență de Șofran</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Mango Essence</span><span id="ro">Esență de Mango</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Chocolate Essence</span><span id="ro">Esență de Ciocolată</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Pistachio Essence</span><span id="ro">Esență de Fistic</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Almond Essence</span><span id="ro">Esență de Migdale</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Pineapple Essence</span><span id="ro">Esență de Ananas</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Strawberry Essence</span><span id="ro">Esență de Căpșuni</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Banana Essence</span><span id="ro">Esență de Banane</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Caribbean Mixed Essence</span><span id="ro">Esență Mix Caraibe</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Coconut Essence</span><span id="ro">Esență de Nucă de Cocos</span></td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Pear Essence</span><span id="ro">Esență de Pere</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Cinnamon Essence</span><span id="ro">Esență de Scorțișoară</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Brandy Essence</span><span id="ro">Esență de Coniac</span> </td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Aniseed Essence</span><span id="ro">Esență de Anason</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Nutmeg Essence</span><span id="ro">Esență de Nucșoară</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Mixed Fruit Essence</span><span id="ro">Esență Amestec Fructe</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Cardamom Essence</span><span id="ro">Esență de Cardamom</span> </td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Peppermint Essence</span><span id="ro">Esență de Mentă</span></td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Peppermint Oil</span><span id="ro">Ulei de Izma Bună</span></td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Eucalyptus Oil</span><span id="ro">Ulei de Eucalipt</span> </td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Kewra water</span><span id="ro">Apă Kewra</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Rose water</span><span id="ro">Apă de Trandafir</span> </td><td>-</td><td>-</td></tr>
 </tbody>
