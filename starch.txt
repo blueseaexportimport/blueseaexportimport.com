@@ -1,2 +1,8 @@
 <tbody>
+       <tr><td><span id="en">Food grade maize starch</span><span id="ro">Amidon alimentar de porumb</span></td><td>- </td><td>-</td></tr>    
+       <tr><td><span id="en">Food grade potatoes starch</span><span id="ro">Amidon alimentar de cartofi</span></td><td>- </td><td>-</td></tr>    
+       <tr><td><span id="en">Food grade wheat starch</span><span id="ro">Amidon alimentar de grâu</span></td><td>- </td><td>-</td></tr>    
+       <tr><td><span id="en">Food grade rice starch</span><span id="ro">Amidon alimentar de orez</span></td><td>- </td><td>-</td></tr>    
+       <tr><td><span id="en">Food grade cassava starch</span><span id="ro">Amidon alimentar de cassava</span></td><td>- </td><td>-</td></tr>    
+       <tr><td><span id="en">Food grade sago starch</span><span id="ro">Amidon alimentar de sago</span></td><td>- </td><td>-</td></tr>
 </tbody>
