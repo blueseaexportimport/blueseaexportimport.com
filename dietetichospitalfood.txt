@@ -1,1 +1,43 @@
-
+    <tr><td><span id="en">Dietetic cow cottage</span><span id="ro">Brânză dietetică vaci</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic yogurt</span><span id="ro">Iaurt dietetic</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic cow cheese</span><span id="ro">Cașcaval dietetic</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic vegan sour cream and rice</span><span id="ro">Smântână vegetală de orez</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic semolina and milk</span><span id="ro">Griș cu lapte</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic noodles and milk</span><span id="ro">Fidea cu lapte</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic rice and milk</span><span id="ro">Orez cu lapte</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Dietetic rice and cow cottage</span><span id="ro">Orez cu brânză vaci</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Dietetic cow cottage and potatoes</span><span id="ro">Cartofi cu brânză vaci</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Dietetic pasta and cow cottage</span><span id="ro">Paste cu brânză vaci</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic pasta and cow cottage pudding</span><span id="ro">Budincă de paste cu brânză vaci</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic rice pudding</span><span id="ro">Budincă dietetică cu orez</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic baked potatoes no oil</span><span id="ro">Cartofi copți</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic boiled potatoes</span><span id="ro">Cartofi fierți</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic potatoes puree</span><span id="ro">Piure de cartofi dietetic</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic pâté</span><span id="ro">Pate dietetic</span> </td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Dietetic soup with dumplings</span><span id="ro">Supă cu găluște</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic soup with noodles</span><span id="ro">Supă cu fidea</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic soup with vegetables</span><span id="ro">Supă de legume</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic soup with tomatoes and noodles</span><span id="ro">Supă de roșii cu tăiței</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic soup with tomatoes and rice</span><span id="ro">Supă de roșii cu orez</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic soup cream with vegetables</span><span id="ro">Supă cremă de legume</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic soup vegetables with romanian zarzavat</span><span id="ro">Ciorbă de zarzavat</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic soup with potatoes</span><span id="ro">Ciorbă cu cartofi</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic soup with green beans</span><span id="ro">Ciorbă de fasole verde</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic soup with meatballs</span><span id="ro">Ciorbă de perișoare</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic soup with spinach</span><span id="ro">Ciorbă de spanac</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic grilled chicken steak no oil with green beans</span><span id="ro">Friptură pui cu fasole verde</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic grilled chicken steak no oil with rice pilaf</span><span id="ro">Friptură pui cu pilaf</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Dietetic grilled chicken steak no oil with peas</span><span id="ro">Friptură pui cu mazăre</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Dietetic grilled veal steak no oil with green beans</span><span id="ro">Carne de vită cu fasole verde</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Dietetic veal meat no oil in tomatoes sauce</span><span id="ro">Carne de vită în sos de tomate</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Dietetic boiled veal</span><span id="ro">Rasol de vită dietetic</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Dietetic ostropel oltenesc ( stew )</span><span id="ro">Ostropel oltenesc</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic veal tongue in sauce </span><span id="ro">Limbă de vită în sos dietetic</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic soy schnitzel</span><span id="ro">Șnițel soia</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Dietetic gluten-free bread</span><span id="ro">Pâine dietetică fară gluten</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic no salt bread</span><span id="ro">Pâine dietetică fară sare</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic graham bread</span><span id="ro">Pâine graham</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic polenta</span><span id="ro">Mămăliguță dietetică</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic jam</span><span id="ro">Gem dietetic</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic compote</span><span id="ro">Compot dietetic</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Dietetic biscuits and tea</span><span id="ro">Ceai și biscuiți</span></td><td>-</td><td>-</td></tr>  
