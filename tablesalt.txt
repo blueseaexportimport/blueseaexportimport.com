@@ -1,2 +1,21 @@
 <tbody>
+    <tr><td><span id="en">Alaea salt</span><span id="ro">Sare Alaea</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Alpenbergkern salt</span><span id="ro">Sare Alpenbergkern</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Çankırı salt</span><span id="ro">Sare Çankırı</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Tibuok salt</span><span id="ro">Sare Tibuok</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Dead Sea salt</span><span id="ro">Sare Marea Moartă</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Çamaltı Sea salt</span><span id="ro">Sare de Mare Çamaltı</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Fleur de sel</span><span id="ro">Sare Fleur de sel</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Himalaya pink salt</span><span id="ro">Sare roz de Himalaya</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Jukyeom salt</span><span id="ro">Sare Jukyeom</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Kala namak salt</span><span id="ro">Sare Kala namak</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Murray River flakes salt</span><span id="ro">Fulgi de sare Murray River</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Persian Blue salt</span><span id="ro">Sare persană albastră</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Tavira salt</span><span id="ro">Sare Tavira</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Sel gris salt</span><span id="ro">Sare Sel gris</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Kosher salt</span><span id="ro">Sare Kosher</span> </td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Sea salt</span><span id="ro">Sare de Mare</span> </td><td>-</td><td>-</td></tr>
+Non-iodized  normal food grade salt Sare neiodată pentru industria alimentară
+Fine iodized normal mine recrystallized salt Sare iodată de mină recristalizată fină
+
 </tbody>
