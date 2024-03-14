@@ -1,2 +1,75 @@
 <tbody>
+
+    <tr><td><span id="en">Ketchup sweet sauce</span><span id="ro">Sos dulce ketchup</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Ketchup spicy sauce</span><span id="ro">Sos iute ketchup</span> </td><td>-</td><td>-</td></tr>
+
+   <tr><td><span id="en">Spicy mustard sauce</span><span id="ro">Sos iute muștar</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Sweet Mustard Sauce</span><span id="ro">Sos dulce muștar</span> </td>
+    <tr><td><span id="en">Djon mustard sauce</span><span id="ro">Sos Djon muștar</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Creole mustard sauce</span><span id="ro">Sos Creole muștar</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">German mustard sauce</span><span id="ro">Sos german muștar</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">English mustard sauce</span><span id="ro">Sos englezesc muștar</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">American mustard sauce</span><span id="ro">Sos american muștar</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Whole-grain mustard  sauce</span><span id="ro">Sos muștar integral din boabe </span> </td><td>-</td><td>-</td></tr> 
+
+
+    <tr><td><span id="en">Garlic sauce</span><span id="ro">Sos de usturoi</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Barbeque sauce</span><span id="ro">Sos de grătar</span> </td>
+<tr><td><span id="en">Mayonnaise sauce</span><span id="ro">Sos De Maioneză</span> </td>
+<tr><td><span id="en">Vegan Sauce Mayonnaise</span><span id="ro">Sos De Maioneză Vegan</span> </td>
+
+
+    <tr><td><span id="en">Hawthorn sauce</span><span id="ro">Sos de păducele</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Blueberry sauce</span><span id="ro">Sos de afine</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Red currant sauce</span><span id="ro">Sos de coacăze roșii</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Strawberry sauce</span><span id="ro">Sos de căpșuni</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Raspberry sauce</span><span id="ro">Sos de zmeură</span> </td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Blackberry sauce</span><span id="ro">Sos de mure</span>  </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Sweet green relish sauce</span><span id="ro">Sos american sweet green relish</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Khrenovina sauce</span><span id="ro">Sos khrenovina</span> </td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Apricot sauce</span><span id="ro">Sos de caise</span> </td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Chilli sauce</span><span id="ro">Sos chilli iute</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Plum sauce</span><span id="ro">Sos de prune</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Wild cherry sauce</span><span id="ro">Sos de vișine</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Carrot sauce</span><span id="ro">Sos de morcovi</span> </td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Garum sauce - Fish sauce</span><span id="ro">Sos de pește</span>  </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Soy sauce</span><span id="ro">Sos de soia</span>  </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Mujdei romanian sauce</span><span id="ro">Mujdei</span> </td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Garlic and tomatoes sauce</span><span id="ro">Sos usturoi cu roșii</span> </td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Concentrated carrot paste</span><span id="ro">Pastă de morcovi concentrată</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Sweet chili aioli sauce</span><span id="ro">Sos chili dulce aioli</span></td><td>-</td><td>-</td></tr> 
+
+
+    <tr><td><span id="en">Bechamel sauce</span><span id="ro">Sos Bechamel</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Hollandaise sauce</span><span id="ro">Sos Olandez</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Espagnole sauce</span><span id="ro">Sos Espagnole</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Veloute chicken sauce</span><span id="ro">Sos Veloute de găină</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Tomatoes paste</span><span id="ro">Pastă de roșii</span> </td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Concentrated tomatoes paste</span><span id="ro">Bulion</span> </td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Mashed tomatoes paste</span><span id="ro">Pastă de roșii piure</span> </td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Tomatoes cubes in sauce</span><span id="ro">Cuburi de roșii în sos</span> </td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Hole Tomatoes in sauce</span><span id="ro">Roșii întregi în sos</span> </td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Peeled tomatoes</span><span id="ro">Roșii decojite</span> </td><td>-</td><td>-</td></tr> 
+    
+    <tr><td><span id="en">Pasta sauce Tomatoes pasata</span><span id="ro">Pasată de roșii pentru paste</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pasta sauce Bolognese</span><span id="ro">Sos Bolognese pentru paste</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pasta sauce Spaghetti</span><span id="ro">Sos Spaghetti pentru paste</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pasta sauce Carbonara</span><span id="ro">Sos Carbonara pentru paste</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pasta sauce Alfredo</span><span id="ro">Sos Alfredo pentru paste</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pasta sauce Arrabiata</span><span id="ro">Sos Arrabiata pentru paste</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pasta sauce Amatriciana</span><span id="ro">Sos Amatriciana pentru paste</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pasta sauce Cacio e Pepe</span><span id="ro">Sos Cacio e Pepe pentru paste</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pasta sauce Truffle Cream</span><span id="ro">Sos Trufe pentru paste</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pasta sauce Napoletana</span><span id="ro">Sos Napoletana pentru paste</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pasta sauce Basilico</span><span id="ro">Sos Basilico pentru paste</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pasta sauce Pesto Rosso</span><span id="ro">Sos Pesto Rosso pentru paste</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pasta sauce Pesto alla Genovese</span><span id="ro">Sos Pesto alla Genovese pentru paste</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pasta sauce Ragù con Salsicci</span><span id="ro">Sos Ragù con Salsicci pentru paste</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pasta sauce Ragù Contadino </span><span id="ro">Sos Ragù Contadino pentru paste</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pasta sauce Ragù alla Bolognese</span><span id="ro">Sos Ragù alla Bolognese pentru paste</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pasta sauce Ragù Montanaro</span><span id="ro">Sos Ragù Montanaro pentru paste</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pasta sauce Marinara</span><span id="ro">Sos Marinara pentru paste</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pasta sauce Tonno</span><span id="ro">Sos Tonno pentru paste</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pasta sauce Vongole</span><span id="ro">Sos Vongole pentru paste</span></td><td>-</td><td>-</td></tr> 
+
 </tbody>
