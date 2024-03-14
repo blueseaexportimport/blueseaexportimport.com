@@ -1,2 +1,27 @@
 <tbody>
+
+       <tr><td><span id="en">Food Grade Sodium Bicarbonate salt</span><span id="ro">Bicarbonat de sodiu alimentar</span> </td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Food Grade Ammonium Bicarbonate for baking</span><span id="ro">Bicarbonat de amoniu alimentar</span>  </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Cooking gelatin powder</span><span id="ro">Getalină pudră alimentară</span>  </td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Malt Extract</span><span id="ro">Extract de malț</span> </td><td>- </td><td>- </td></tr>
+       <tr><td><span id="en">Inverted sugar syrup</span><span id="ro">Sirop de zahăr invertit </span> </td><td>- </td><td>- </td></tr>
+       <tr><td><span id="en">Turkish delight</span><span id="ro">Rahăt turcesc</span> </td><td>- </td><td>- </td></tr>
+       <tr><td><span id="en">Lemon juice</span><span id="ro">Suc de lămâie</span> </td><td>- </td><td>- </td></tr>
+       <tr><td><span id="en">Food grade citric acid</span><span id="ro">Acid citric alimentar</span> </td><td>- </td><td>- </td></tr>
+       <tr><td><span id="en">Molasses</span><span id="ro">Melasă</span> </td><td>- </td><td>- </td></tr>
+       <tr><td><span id="en">Unrefined sugar cane sugar</span><span id="ro">Zahăr nerafinat din trestie de zahăr</span> </td><td>- </td><td>- </td></tr>
+       <tr><td><span id="en">Unrefined beet sugar</span><span id="ro">Zahăr nerafinat din sfeclă de zahăr</span> </td><td>- </td><td>- </td></tr>
+       <tr><td><span id="en">Dates sugar</span><span id="ro">Zahăr nerafinat din curmale</span> </td><td>- </td><td>- </td></tr>
+       <tr><td><span id="en">Raw sugar cane sugar</span><span id="ro">Zahăr brut din trestie de zahăr</span> </td><td>- </td><td>- </td></tr>
+       <tr><td><span id="en">Raw beet sugar</span><span id="ro">Zahăr brut din sfeclă de zahăr</span> </td><td>- </td><td>- </td></tr>
+       <tr><td><span id="en">Unrefined sugar small portion packets</span><span id="ro">Plicuri Zahăr nerafinat </span></td><td>-</td><td>-</td></tr>      
+       <tr><td><span id="en">Candied fruits</span><span id="ro">Fructe confiate</span></td><td>- </td><td>- </td></tr>
+       <tr><td><span id="en">Dissected grated coconut</span><span id="ro">Nucă de cocos rasă uscată</span>  </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Baking dry yeast</span><span id="ro">Drojdie uscată pudră alimentară</span> </td><td>- </td><td>-</td></tr>    
+       <tr><td><span id="en">Baking fresh cube yeast</span><span id="ro">Drojdie cuburi alimentară</span> </td><td>- </td><td>-</td></tr>    
+       <tr><td><span id="en">Baking liquid yeast</span><span id="ro">Drojdie lichidă alimentară</span> </td><td>- </td><td>-</td></tr>    
+       <tr><td><span id="en">Cheese making rennet</span><span id="ro">Cheag pentru brânzeturi</span> </td><td>- </td><td>-</td></tr>  
+       <tr><td><span id="en">Vanillin</span><span id="ro">Vanilină alimentară</span>  </td><td>-</td><td>-</td></tr>      
+       <tr><td><span id="en">Food Grade Glucose tablets</span><span id="ro">Glucoză alimentară</span>  </td><td>-</td><td>-</td></tr>
+Seasoning powder for soups Bază pentru mâncăruri 
 </tbody>
