@@ -42,17 +42,14 @@
     <tr><td><span id="en">Maize cobs without grain</span><span id="ro">Ciocani porumb ( Știulete curățăt de boabe) </span></td><td>-</td><td>-</td></tr>
     <tr><td><span id="en">Maize stalks with leaves ( Maize stover )</span><span id="ro">Tulpină porumb - cocean</span> </td><td>-</td><td>-</td></tr>
     
-    <tr><td><span id="en">Wheat straw ( Wheat straw bale - Round bale)</span><span id="ro">Balot paie grâu - Cilindric</span></td><td>-</td><td>-</td></tr>   
     <tr><td><span id="en">Wheat straw  ( Wheat straw bale - Hesston square bale)</span><span id="ro">Balot paie grâu - Hesston dreptunghiular</span></td><td>-</td><td>-</td></tr>   
     <tr><td><span id="en">Wheat straw  ( Wheat straw bale - Krone square bale)</span><span id="ro">Balot paie grâu - Krone dreptunghiular</span></td><td>-</td><td>-</td></tr>   
     <tr><td><span id="en">Wheat straw  ( Wheat straw bale - Class square bale)</span><span id="ro">Balot paie grâu - Class dreptunghiular</span></td><td>-</td><td>-</td></tr>   
 
-    <tr><td><span id="en">Rye straw ( Rye straw bale - Round bale )</span><span id="ro">Balot paie secară - Cilindric</span></td><td>-</td><td>-</td></tr>
     <tr><td><span id="en">Rye straw ( Rye straw bale - Hesston square bale )</span><span id="ro">Balot paie secară - Hesston dreptunghiular</span></td><td>-</td><td>-</td></tr>
     <tr><td><span id="en">Rye straw ( Rye straw bale - Krone square bale )</span><span id="ro">Balot paie secară - Krone dreptunghiular</span></td><td>-</td><td>-</td></tr>
     <tr><td><span id="en">Rye straw ( Rye straw bale - Class square bale )</span><span id="ro">Balot paie secară - Class dreptunghiular</span></td><td>-</td><td>-</td></tr>
 
-    <tr><td><span id="en">Barley straw  ( Barley straw bale - Round bale )</span><span id="ro">Balot paie orz - Cilindric</span></td><td>-</td><td>-</td></tr>
     <tr><td><span id="en">Barley straw  ( Barley straw bale - Hesston square bale )</span><span id="ro">Balot paie orz - Hesston dreptunghiular</span></td><td>-</td><td>-</td></tr>
     <tr><td><span id="en">Barley straw  ( Barley straw bale - Krone square bale )</span><span id="ro">Balot paie orz - Krone dreptunghiular</span></td><td>-</td><td>-</td></tr>
     <tr><td><span id="en">Barley straw  ( Barley straw bale - Krone square bale )</span><span id="ro">Balot paie orz - Class dreptunghiular</span></td><td>-</td><td>-</td></tr>
