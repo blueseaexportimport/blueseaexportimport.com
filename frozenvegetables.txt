@@ -1,1 +1,13 @@
 
+       <tr><td><span id="en">Frozen fries</span><span id="ro">Cartofi pentru prăjit congelați</span></td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Frozen seasoned wedges potatoes</span><span id="ro">Cartofi wedges condimentați congelați</span></td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Frozen seasoned crinkle cut potatoes</span><span id="ro">Cartofi tăiaţi crinkle condimentați congelați</span></td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Frozen seasoned curly fries</span><span id="ro">Cartofi spiralaţi condimentați congelați</span></td><td>- </td><td>-</td></tr> 
+       <tr><td><span id="en">Frozen seasoned sweet potatoes</span><span id="ro">Cartofi dulci condimentați congelați</span></td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Frozen onion rings</span><span id="ro">Inele de ceapă congelate</span></td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Frozen vegetables mix</span><span id="ro">Mix legume congelate</span></td><td>- </td><td>- /pallet</td></tr>
+       <tr><td><span id="en">Frozen chili and cheese nuggets</span><span id="ro">Nuggets de cașcaval și chili congelați</span></td><td>-</td><td>-</td></tr>     
+       <tr><td><span id="en">Frozen fruits mix</span><span id="ro">Mix fructe congelate</span></td><td>-</td><td>-</td></tr>  
+       <tr><td><span id="en">Frozen pastry dough Sheets</span><span id="ro">Foi de plăcintă</span> </td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Frozen pizza dough</span><span id="ro">Aluat pizza</span> </td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Frozen puff pastry dough</span><span id="ro">Aluat foietaj</span> </td><td>-</td><td>-</td></tr> 
