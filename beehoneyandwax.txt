@@ -1,1 +1,10 @@
-
+    <tr><td><span id="en">Acacia Bee Honey</span><span id="ro" >Miere de salcâm</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Polyflora Bee Honey</span><span id="ro" >Miere polifloră</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Canola Bee Honey</span><span id="ro" >Miere de rapiță</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Dry pollen</span><span id="ro" >Polen uscat</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Raw pollen</span><span id="ro" >Polen crud</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Royal Jelly</span><span id="ro" >Lăptișor de matcă</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Propolis</span><span id="ro" >Propolis</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Honeycombs</span><span id="ro" >Fagure cu miere</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Bee bread</span><span id="ro" >Păstură</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Honey small portion packet</span><span id="ro" >Pliculețe Miere de Albine</span></td><td>-</td><td>-</td></tr>
