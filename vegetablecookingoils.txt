@@ -1,2 +1,34 @@
 <tbody>
+
+   <tr><td><span id="en">Sunflower oil refined</span><span id="ro">Ulei floarea soarelui rafinat</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Sunflower oil high oleic refined</span><span id="ro">Ulei floarea soarelui rafinat conținut oleic mare</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Sunflower oil high oleic unrefined</span><span id="ro">Ulei floarea soarelui nerafinat conținut oleic mare</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Sunflower oil semirefined</span><span id="ro">Ulei floarea soarelui semirafinat</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Sunflower oil deodorized</span><span id="ro">Ulei floarea soarelui semirafinat deodorized</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Sunflower oil first cold-pressed</span><span id="ro">Ulei floarea soarelui de primă presă</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Canola oil expeller press</span><span id="ro">Ulei de rapiță presat fără solvenți</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Canola oil refined</span><span id="ro">Ulei de rapiță rafinat</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Canola oil unrefined</span><span id="ro">Ulei de rapiță nerafinat</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Olive oil Extra virgin High Quality</span><span id="ro">Ulei de măsline extravirgin calitate superioară</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Olive oil Extra virgin</span><span id="ro">Ulei de măsline extravirgin</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Olive oil Virgin</span><span id="ro">Ulei de măsline virgin</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Olive oil Refined</span><span id="ro">Ulei de măsline rafinat</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Olive oil Extra Light</span><span id="ro">Ulei de măsline Extra Light</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Olive oil Cold-Pressed</span><span id="ro">Ulei de măsline presat la rece</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Crude palm kernel oil (CPKO)</span><span id="ro">Ulei brut de miez palmier (CPKO)</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Crude palm oil (CPO)</span><span id="ro">Ulei brut de palmier (CPO)</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Food grade Cottonseed oil</span><span id="ro">Ulei semințe de bumbac alimentar</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Food grade Argan oil</span><span id="ro">Ulei argan alimentar</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Food grade Corn oil</span><span id="ro">Ulei porumb alimentar</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Food grade Truffle oil</span><span id="ro">Ulei trufe alimentar</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Food grade Soyabean oil</span><span id="ro">Ulei soia alimentar</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Food grade Pressed Cooking Mustard oil</span><span id="ro">Ulei muștar presat alimentar</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Food grade Peanut oil</span><span id="ro">Ulei alune de pământ alimentar</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Food grade Grape seed cooking oil</span><span id="ro">Ulei semințe struguri alimentar</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Food grade Walnut oil</span><span id="ro">Ulei nuci alimentar</span> </td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Food grade Pumpkin seed cooking oil</span><span id="ro">Ulei semințe dovleac alimentar</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Food grade Apricot kernel Cooking Mustard oil</span><span id="ro">Ulei sâmburi de caise alimentar</span> </td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Food grade Plum kernel Cooking oil</span><span id="ro">Ulei miez sâmburi prune alimentar</span> </td><td>-</td><td>-</td></tr>      
+    <tr><td><span id="en">Food grade Almond Cooking oil</span><span id="ro">Ulei migdale alimentar</span> </td><td>-</td><td>-</td></tr>
+
 </tbody>
