@@ -1,1 +1,107 @@
 
+    <tr><td>Mytilus edulis</td><td><span id="en">Blue mussel</span><span id="ro" >Midii comune</span></td><td>-</td></tr> 
+    <tr><td>Mytilus galloprovincialis</td><td><span id="en">Mediterranean mussel</span><span id="ro" >Midii mediteraneene</span></td><td>-</td></tr> 
+    <tr><td>Mytilus trossulus</td><td><span id="en">Pacific blue mussel</span><span id="ro" >Midii comune de Pacific</span></td><td>-</td></tr> 
+    <tr><td>Mytilus chilensis</td><td><span id="en">Chilean mussel</span><span id="ro" >Midii chiliene</span></td><td>-</td></tr> 
+    <tr><td>Mytilus unguiculatus</td><td><span id="en">Korean mussel</span><span id="ro" >Midii coreene</span></td><td>-</td></tr> 
+    <tr><td>Mytilus californianus</td><td><span id="en">California mussel</span><span id="ro" >Midii de California</span></td><td>-</td></tr> 
+    <tr><td>Perna canaliculus</td><td><span id="en">New Zealand green-lipped mussel</span><span id="ro" >Midii cu buze verzi de Noua Zeelandă</span></td><td>-</td></tr> 
+    
+    <tr><td>Pinctada maxima </td><td><span id="en">Silver-lipped pearl oyster</span><span id="ro" >Stridii buze argintii cu perle</span></td><td>-</td></tr>       
+    <tr><td>Pinctada albina</td><td><span id="en">Arafura shell pearl oyster</span><span id="ro" >Stridii Arafura cu perle</span></td><td>-</td></tr>       
+    <tr><td>Pinctada fucata</td><td><span id="en">Akoya pearl oyster</span><span id="ro" >Stridii Akoya cu perle</span></td><td>-</td></tr>       
+    <tr><td>Pinctada radiata</td><td><span id="en">Atlantic pearl-oyster</span><span id="ro" >Stridii de Atlantic cu perle</span></td><td>-</td></tr>       
+    <tr><td>Pinctada margaritifera</td><td><span id="en">Black-lip pearl oyster</span><span id="ro" >Stridii buze negre cu perle</span></td><td>-</td></tr>       
+    <tr><td>Pinctada mazatlanica</td><td><span id="en">Panama pearl oyster</span><span id="ro" >Stridii de Panama cu perle</span></td><td>-</td></tr>   
+    
+    <tr><td>Magallana gigas / Crassostrea gigas</td><td><span id="en">Pacific oyster</span><span id="ro" >Stridii de Pacific</span></td><td>-</td></tr>       
+    <tr><td>Saccostrea glomerata</td><td><span id="en">Sydney Rock Oyster</span><span id="ro" >Stridii de Rocă Sydney </span></td><td>-</td></tr>       
+    <tr><td>Ostrea angasi</td><td><span id="en">Australian flat oyster</span><span id="ro" >Stridii Plate Australiane</span></td><td>-</td></tr>       
+    <tr><td>Ostrea chilensis</td><td><span id="en">Dredge oyster</span><span id="ro" >Stridii de Chile</span></td><td>-</td></tr>       
+    <tr><td>Ostrea edulis</td><td><span id="en">European flat oyster</span><span id="ro" >Stridii Plate Europene</span></td><td>-</td></tr>       
+    <tr><td>Ostrea equestris</td><td><span id="en">Horse oyster</span><span id="ro" >Stridii Cal</span></td><td>-</td></tr>   
+    <tr><td>Crassostrea rhizophorae</td><td><span id="en">Mangrove cupped oyster</span><span id="ro" >Stridii de Mangrove cu cupă</span></td><td>-</td></tr>   
+    <tr><td>Saccostrea echinata</td><td><span id="en">Blacklip rock oyster</span><span id="ro" >Stridii de Rocă buze negre</span></td><td>-</td></tr>   
+
+    <tr><td>Amusium balloti </td><td><span id="en">Dry Ballot’s Saucer Scallop</span><span id="ro" >Scoici de farfurie a lui Ballot</span></td><td>-</td></tr> 
+    <tr><td>Amusium pleuronectes </td><td><span id="en">Dry Northern Saucer Scallop</span><span id="ro" >Scoici Farfurie de Nord Uscate</span></td><td>-</td></tr> 
+    <tr><td>Pecten fumatus </td><td><span id="en">Dry Commercial Scallop</span><span id="ro" >Scoici Uscate Comerciale</span></td><td>-</td></tr> 
+    <tr><td>Pecten maximus </td><td><span id="en">Dry Great Scallops / St. Jacques</span><span id="ro" >St. Jacques</span></td><td>-</td></tr> 
+    <tr><td>Chlamys hastata </td><td><span id="en">Dry Alaskan Spiny Scallop</span><span id="ro" >Scoici Uscate Spinoase de Alaska</span></td><td>-</td></tr> 
+    <tr><td>Aequipecten opercularis </td><td><span id="en">Dry Queen Scallop</span><span id="ro" >Scoici Uscate Regine</span></td><td>-</td></tr> 
+    <tr><td>Argopecten irradians</td><td><span id="en">Dry Nantucket / Atlantic Bay Scallops</span><span id="ro" >Scoici de Atlantic / Scoici de Nantucket</span></td><td>-</td></tr> 
+    <tr><td>Argopecten purpuratus </td><td><span id="en">Dry Peruvian Calico Scallop</span><span id="ro" >Scoici Peruviene Uscate</span></td><td>-</td></tr> 
+    <tr><td>Chlamys farreri </td><td><span id="en">Dry Zhikong Scallop</span><span id="ro" >Scoici Zhikong Uscate</span></td><td>-</td></tr> 
+    
+    <tr><td>Saxidomus gigantea</td><td><span id="en">Butter Clam</span><span id="ro" >Scoici Unt</span></td><td>-</td></tr> 
+    <tr><td>Mercenaria mercenaria</td><td><span id="en">Atlantic Hard-Shell Clam</span><span id="ro" >Scoici cu coajă tare din Atlantic</span></td><td>-</td></tr> 
+    <tr><td>Mya arenaria</td><td><span id="en">Soft-shell Clam</span><span id="ro" >Scoici cu coajă moale</span></td><td>-</td></tr> 
+    <tr><td>Venerupis philippinarum</td><td><span id="en">Manila Clam</span><span id="ro" >Scoici de Manila</span></td><td>-</td></tr> 
+    <tr><td>Spisula solida</td><td><span id="en">Surf Clam</span><span id="ro" >Scoici Surf</span></td><td>-</td></tr> 
+    <tr><td>Siliqua patula</td><td><span id="en">Pacific Razor Clam</span><span id="ro" >Scoici Lamă de Pacific</span></td><td>-</td></tr> 
+    <tr><td>Ensis leei</td><td><span id="en">Atlantic Jackknife Clam</span><span id="ro" >Scoici Jackknife de Atlantic</span></td><td>-</td></tr> 
+    <tr><td>Cerastoderma edule</td><td><span id="en">Common Cockle / Clam</span><span id="ro" >Scoici comune</span></td><td>-</td></tr>       
+    <tr><td>Glycymeris glycymeris</td><td><span id="en">European bittersweet Clam</span><span id="ro" >Scoici dulci-amare Europene</span></td><td>-</td></tr>       
+    <tr><td>Clinocardium</td><td><span id="en">Nuttall's Cockle / Clam</span><span id="ro" >Scoicile lui Nuttall</span></td><td>-</td></tr> 
+    <tr><td>Corbicula fluminea</td><td><span id="en">Freshwater Clam</span><span id="ro" >Scoici de apă dulce</span></td><td>-</td></tr>
+    <tr><td>Panopea generosa</td><td><span id="en">Pacific Geoduck</span><span id="ro" >Scoici rață de Pacific</span></td><td>-</td></tr> 
+
+    <tr><td>Haliotis asinina</td><td><span id="en">Sea Snail Ass's-ear abalone</span><span id="ro" >Abalone Melc de Mare</span></td><td>-</td></tr>  
+    <tr><td>Haliotis australis</td><td><span id="en">Queen pāua</span><span id="ro" >Abalone Pāua Regină</span></td><td>-</td></tr>       
+    <tr><td>Haliotis iris</td><td><span id="en">Blackfoot pāua</span><span id="ro" >Abalone Pāua Picior Negru</span></td><td>-</td></tr>       
+    <tr><td>Haliotis virginea</td><td><span id="en">Virgin pāua</span><span id="ro" >Abalone Pāua Virgin</span></td><td>-</td></tr> 
+    <tr><td>Concholepas concholepas</td><td><span id="en">Chilean abalone</span><span id="ro" >Abalone Chilian</span></td><td>-</td></tr>
+    
+    <tr><td>Strongylocentrotus purpuratus</td><td><span id="en">Edible Purple Sea Urchin</span><span id="ro" >Arici de Mare Violet</span></td><td>-</td></tr> 
+    <tr><td>Strongylocentrotus droebachiensis</td><td><span id="en">Edible Green Sea Urchin</span><span id="ro" >Arici de Mare Verde</span></td><td>-</td></tr> 
+    <tr><td>Paracentrotus lividus</td><td><span id="en">Edible Stony Purple Sea Urchin</span><span id="ro" >Arici de Rocă Violet</span></td><td>-</td></tr> 
+    <tr><td>Psammechinus miliaris</td><td><span id="en">Edible Shore Sea Urchin</span><span id="ro" >Arici de Țărm</span></td><td>-</td></tr> 
+    <tr><td>Pseudocentrotus depressus</td><td><span id="en">Edible Pink Sea Urchin</span><span id="ro" >Arici de Mare Roz</span></td><td>-</td></tr> 
+    <tr><td>Hemicentrotus pulcherrimus</td><td><span id="en">Edible Japanese Purple Sea Urchin</span><span id="ro" >Arici de Mare Violet Japonez</span></td><td>-</td></tr> 
+    <tr><td>Evechinus chloroticus</td><td><span id="en">Edible Kina Sea Urchin</span><span id="ro" >Arici de Mare Kina</span></td><td>-</td></tr> 
+    
+    <tr><td>Cancer Pagurus</td><td><span id="en">Brown Crab</span><span id="ro" >Crabi bruni</span></td><td>-</td></tr> 
+    <tr><td>Cancer magister</td><td><span id="en">Dungeness Crab</span><span id="ro" >Crabi Dungeness</span></td><td>-</td></tr> 
+    <tr><td>Paralithodes camtschaticus</td><td><span id="en">King Crab</span><span id="ro" >Crabi Rege</span></td><td>-</td></tr> 
+    <tr><td>Cancer irroratus</td><td><span id="en">Atlantic Rock Crab</span><span id="ro" >Crabi Atlantici de Rocă</span></td><td>-</td></tr> 
+    <tr><td>Ranina ranina</td><td><span id="en">Spanner Crab</span><span id="ro" >Crabi broască</span></td><td>-</td></tr> 
+    <tr><td>Scylla serrata</td><td><span id="en">Giant Mud Crab</span><span id="ro" >Crabi de Noroi Uriași</span></td><td>-</td></tr> 
+    <tr><td>Scylla olivacea</td><td><span id="en">Orange Mud Crab</span><span id="ro" >Crabi de Noroi Portocalii</span></td><td>-</td></tr> 
+    
+    <tr><td>Homarus americanus</td><td><span id="en">American / Maine Lobster</span><span id="ro" >Homari Americani</span></td><td>-</td></tr> 
+    <tr><td>Panulirus interruptus</td><td><span id="en">California Spiny Lobster</span><span id="ro" >Homari Spinoși Californieni</span></td><td>-</td></tr> 
+    <tr><td>Panulirus argus</td><td><span id="en">Caribbean Spiny Lobster</span><span id="ro" >Homari Spinoși de Caraibe</span></td><td>-</td></tr> 
+    <tr><td>Panulirus cygnus</td><td><span id="en">Western Rock Lobster</span><span id="ro" >Homari Vestici de Rocă</span></td><td>-</td></tr> 
+    <tr><td>Panulirus ornatus</td><td><span id="en">Tropical Rock Lobster</span><span id="ro" >Homari Tropicali de Rocă</span></td><td>-</td></tr> 
+    <tr><td>Jasus edwardsii</td><td><span id="en">Southern Rock Lobster</span><span id="ro" >Homari Sudici de Rocă</span></td><td>-</td></tr> 
+    <tr><td>Jasus verreauxi</td><td><span id="en">Eastern Rock Lobster</span><span id="ro" >Homari Estici de Rocă</span></td><td>-</td></tr> 
+    <tr><td>Palinurus elephas</td><td><span id="en">Mediterranean Lobster</span><span id="ro" >Homari Mediteranieni</span></td><td>-</td></tr>    
+    
+    <tr><td>Pandalus platyceros</td><td><span id="en">California spot Prawn</span><span id="ro" >Creveți de California</span></td><td>-</td></tr>       
+    <tr><td>Melicertus latisulcatus</td><td><span id="en">Western King Prawn</span><span id="ro" >Creveți Vestici Rege</span></td><td>-</td></tr>  
+    <tr><td>Melicertus plebejus</td><td><span id="en">Eastern King Prawn</span><span id="ro" >Creveți Estici Rege</span></td><td>-</td></tr>  
+    <tr><td>Nephrops norvegicus</td><td><span id="en">Dublin Bay Prawn / langoustine</span><span id="ro" >Langustine</span></td><td>-</td></tr>  
+    <tr><td>Penaeus monodo</td><td><span id="en">Black / Giant Tiger Prawn</span><span id="ro" >Creveți Tigri Uriași</span></td><td>-</td></tr>  
+    <tr><td>Marsupenaeus japonicus</td><td><span id="en">Kuruma Prawn</span><span id="ro" >Creveți Kuruma</span></td><td>-</td></tr>  
+    <tr><td>Penaeus esculentus</td><td><span id="en">Brown Tiger Prawn</span><span id="ro" >Creveți Tigri Maro</span></td><td>-</td></tr>  
+    <tr><td>Penaeus semisulcatus</td><td><span id="en">Grooved Tiger Prawn</span><span id="ro" >Creveți Tigri cu Șanțuri</span></td><td>-</td></tr>  
+    <tr><td>Metapenaeus macleayi</td><td><span id="en">School Prawn</span><span id="ro" >Creveți Școală</span></td><td>-</td></tr>  
+    <tr><td>Metapenaeus dalli</td><td><span id="en">Western School Prawn</span><span id="ro" >Creveți Vestici Școală</span></td><td>-</td></tr>  
+    <tr><td>Haliporoides sibogae</td><td><span id="en">Royal Red Prawn</span><span id="ro" >Creveți Roșii Roiali</span></td><td>-</td></tr>  
+    <tr><td>Metapenaeus endeavouri</td><td><span id="en">Blue Endeavour Prawn</span><span id="ro" >Creveți Blue Endeavour</span></td><td>-</td></tr>  
+    <tr><td>Metapenaeus ensis</td><td><span id="en">Red Endeavour Prawn</span><span id="ro" >Creveți Red Endeavour</span></td><td>-</td></tr>  
+    <tr><td>Metapenaeus bennettae</td><td><span id="en">Greentail Prawn</span><span id="ro" >Creveți cu coada verde</span></td><td>-</td></tr>  
+    <tr><td>Metapenaeus insolitus</td><td><span id="en">Greasyback Prawn</span><span id="ro" >Creveți Greasyback</span></td><td>-</td></tr> 
+    <tr><td>Fenneropenaeus indicus</td><td><span id="en">Redleg Banana Prawn</span><span id="ro" >Creveți Picior Roșu</span></td><td>-</td></tr> 
+    <tr><td>Fenneropenaeus merguiensis</td><td><span id="en">White Banana Prawn</span><span id="ro" >Creveți Banane Albe</span></td><td>-</td></tr> 
+    <tr><td>Pandalus borealis</td><td><span id="en">Northern Prawn</span><span id="ro" >Creveți Nordici</span></td><td>-</td></tr>       
+    
+    <tr><td>Sicyonia brevirostris</td><td><span id="en">Brown rock shrimp</span><span id="ro" >Creveții Bruni de Rocă</span></td><td>-</td></tr>       
+    <tr><td>Pandalus montagui</td><td><span id="en">Aesop / Pink Shrimp</span><span id="ro" >Creveții Roz</span></td><td>-</td></tr>
+    <tr><td>Stomatopoda</td><td><span id="en">Mantis Shrimp</span><span id="ro" >Creveții Mantis</span></td><td>-</td></tr> 
+    <tr><td>Litopenaeus vannamei</td><td><span id="en">Whiteleg shrimp</span><span id="ro" >Creveții Picior alb</span></td><td>-</td></tr>  
+    <tr><td>Litopenaeus setiferus</td><td><span id="en">Atlantic white shrimp</span><span id="ro" >Creveții Albi de Atlantic</span></td><td>-</td></tr> 
+    
+    <tr><td>Procambarus clarkii</td><td><span id="en">Louisiana crawfish</span><span id="ro" >Raci de mlaștină Louisiana</span></td><td>-</td></tr>       
+    <tr><td>Cherax quadricarinatus</td><td><span id="en">Australian red claw crayfish</span><span id="ro" >Raci de apă dulce Australieni</span></td><td>-</td></tr> 
+    <tr><td>Pontastacus leptodactylus</td><td><span id="en">Danube crayfish</span><span id="ro" >Raci de Dunăre</span></td><td>-</td></tr> 
