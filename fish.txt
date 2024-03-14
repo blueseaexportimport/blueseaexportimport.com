@@ -1,1 +1,139 @@
-
+    <tr><td>Sprattus sprattus</td><td><span id="en">European sprat</span><span id="ro" >Șprot european</span></td><td>-</td></tr>    
+    <tr><td>Scomber scombrus</td><td><span id="en">Atlantic mackerel</span><span id="ro" >Scrumbie albastră</span></td><td>-</td></tr>    
+    <tr><td>Engraulis encrasicolus</td><td><span id="en">European anchovy</span><span id="ro" >Hamsie</span></td><td>-</td></tr>    
+    <tr><td>Alosa immaculata</td><td><span id="en">Pontic shad</span><span id="ro" >Scrumbie de Dunăre</span></td><td>-</td></tr> 
+    <tr><td>Alosa tanaica</td><td><span id="en">Black Sea shad</span><span id="ro" >Rizeafcă</span></td><td>-</td></tr>    
+    <tr><td>Chelon aurata</td><td><span id="en">Golden grey mullet</span><span id="ro" >Chefal</span></td><td>-</td></tr>    
+    <tr><td>Sander lucioperca</td><td><span id="en">Zander</span><span id="ro" >Șalău</span></td><td>-</td></tr>    
+    <tr><td>Platichthys flesus</td><td><span id="en">European flounder</span><span id="ro" >Cambulă</span></td><td>-</td></tr>
+    <tr><td>Silurus glanis</td><td><span id="en">Catfish</span><span id="ro" >Somn</span></td><td>-</td></tr>    
+    <tr><td>Cyprinus carpio</td><td><span id="en">Eurasian carp</span><span id="ro" >Crap euroasiatic</span></td><td>-</td></tr>    
+    <tr><td>Esox lucius</td><td><span id="en">Northern pike</span><span id="ro" >Știucă</span></td><td>-</td></tr>    
+    <tr><td>Alburnus alburnus</td><td><span id="en">Common bleak</span><span id="ro" >Obleț</span></td><td>-</td></tr> 
+    <tr><td>Oncorhynchus mykiss</td><td><span id="en">Rainbow trout</span><span id="ro" >Păstrăv curcubeu</span></td><td>-</td></tr>    
+    <tr><td>Salmo trutta fario</td><td><span id="en">River trout</span><span id="ro" >Păstrăv de munte</span></td><td>-</td></tr>    
+    <tr><td>Tinca tinca</td><td><span id="en">Tench</span><span id="ro" >Lin</span></td><td>-</td></tr>    
+    <tr><td>Vimba vimba</td><td><span id="en">Vimba</span><span id="ro" >Morunaș</span></td><td>-</td></tr>
+    <tr><td>Hypophthalmichthys nobilis</td><td><span id="en">Bighead carp</span><span id="ro" >Novac</span></td><td>-</td></tr>    
+    <tr><td>Coregonus maraenoides</td><td><span id="en">Peipsi whitefish</span><span id="ro" >Coregon</span></td><td>-</td></tr>    
+    <tr><td>Ctenopharyngodon idella</td><td><span id="en">Grass carp</span><span id="ro" >Cosaș</span></td><td>-</td></tr>    
+    <tr><td>Pelecus cultratus</td><td><span id="en">Sabrefish</span><span id="ro" >Sabiță</span></td><td>-</td></tr> 
+    <tr><td>Leuciscus idus</td><td><span id="en">Ide</span><span id="ro" >Văduviță</span></td><td>-</td></tr>    
+    <tr><td>Perca fluviatilis</td><td><span id="en">European perch</span><span id="ro" >Biban european</span></td><td>-</td></tr>    
+    <tr><td>Rutilus rutilus</td><td><span id="en">Common roach</span><span id="ro" >Babușcă</span></td><td>-</td></tr>    
+    <tr><td>Squalius cephalus</td><td><span id="en">European chub</span><span id="ro" >Clean</span></td><td>-</td></tr> 
+    <tr><td>Carassius gibelio</td><td><span id="en">Prussian carp</span><span id="ro" >Caras</span></td><td>-</td></tr>    
+    <tr><td>Scophthalmus maximus</td><td><span id="en">Turbot</span><span id="ro" >Turbot</span></td><td>-</td></tr>    
+    <tr><td>Liza aurata</td><td><span id="en">Chefal</span><span id="ro" >Chefal</span></td><td>-</td></tr>    
+    <tr><td>Dentex dentex</td><td><span id="en">Common dentex</span><span id="ro" >Dințat</span></td><td>-</td></tr> 
+    <tr><td>Sparus aurata</td><td><span id="en">Gilt-head bream</span><span id="ro" >Doradă</span></td><td>-</td></tr>    
+    <tr><td>Lophius piscatorius</td><td><span id="en">European angler</span><span id="ro" >Pește pescar</span></td><td>-</td></tr>    
+    <tr><td>Barbatula barbatula</td><td><span id="en">Stone loach</span><span id="ro" >Grindel</span></td><td>-</td></tr>    
+    <tr><td>Pomatomus saltatrix</td><td><span id="en">Bluefish</span><span id="ro" >Lufăr</span></td><td>-</td></tr>
+    <tr><td>Sarda sarda</td><td><span id="en">Atlantic bonito</span><span id="ro" >Pălămidă cu spate dungat</span></td><td>-</td></tr>    
+    <tr><td>Coris julis</td><td><span id="en">Mediterranean rainbow wrasse</span><span id="ro" >Pește păun</span></td><td>-</td></tr>    
+    <tr><td>Xiphias gladius</td><td><span id="en">Swordfish</span><span id="ro" >Pește spadă</span></td><td>-</td></tr>    
+    <tr><td>Sardinella aurita</td><td><span id="en">Round sardinella</span><span id="ro" >Sardeluță</span></td><td>-</td></tr> 
+    <tr><td>Clupea harengus</td><td><span id="en">Atlantic herring</span><span id="ro" >Hering de Atlantic </span></td><td>-</td></tr>    
+    <tr><td>Pollachius virens</td><td><span id="en">Boston blue</span><span id="ro" >Cod negru</span></td><td>-</td></tr>    
+    <tr><td>Hippoglossus stenolepis</td><td><span id="en">Pacific halibut</span><span id="ro" >Halibut de Pacific</span></td><td>-</td></tr>    
+    <tr><td>Limanda limanda</td><td><span id="en">Common dab</span><span id="ro" >Limandă</span></td><td>-</td></tr>
+    <tr><td>Chelidonichthys lucerna</td><td><span id="en">Tub gurnard</span><span id="ro" >Rândunică de mare</span></td><td>-</td></tr>    
+    <tr><td>Thunnus alalunga</td><td><span id="en">Longfin tuna</span><span id="ro" >Ton alb</span></td><td>-</td></tr>    
+    <tr><td>Thunnus albacares</td><td><span id="en">Yellowfin tuna</span><span id="ro" >Ton cu aripioare galbene</span></td><td>-</td></tr>    
+    <tr><td>Thunnus tonggol</td><td><span id="en">Northern Bluefin Tuna</span><span id="ro" >Ton cu aripioare albastre de nord</span></td><td>-</td></tr>
+    <tr><td>Clupeonella cultriventris</td><td><span id="en">Black Sea Sprat</span><span id="ro" >Gingirică</span></td><td>-</td></tr> 
+    <tr><td>Rutilus frisii</td><td><span id="en">Vyrezub</span><span id="ro" >Virezub</span></td><td>-</td></tr>    
+    <tr><td>Aspius aspius</td><td><span id="en">Asp</span><span id="ro" >Avat</span></td><td>-</td></tr>    
+    <tr><td>Scardinius erythrophthalmus</td><td><span id="en">Common rudd</span><span id="ro" >Roșioară</span></td><td>-</td></tr>    
+    <tr><td>Abramis brama</td><td><span id="en">Common bream</span><span id="ro" >Plătică</span></td><td>-</td></tr>
+    <tr><td>Blicca bjoerkna</td><td><span id="en">White bream</span><span id="ro" >Batcă</span></td><td>-</td></tr>    
+    <tr><td>Carassius carassius</td><td><span id="en">Crucian carp</span><span id="ro" >Caracudă</span></td><td>-</td></tr>    
+    <tr><td>Zingel streber</td><td><span id="en">Streber</span><span id="ro" >Fusar</span></td><td>-</td></tr>    
+    <tr><td>Chondrostoma nasus</td><td>Common nase</span><span id="ro" >Scobar</span></td><td>-</td></tr>
+    <tr><td>Micromesistius australis</td><td><span id="en">Southern Blue Whiting HGT</span><span id="ro" >Merlan de sud</span></td><td>-</td></tr>
+    <tr><td>Trachurus declivis</td><td><span id="en">Jack Mackerel</span><span id="ro" >Stavrid negru</span></td><td>-</td></tr>
+    <tr><td>Trachurus murphyi</td><td><span id="en">Peruvian Jack Mackerel</span><span id="ro" >Stavrid peruan</span></td><td>-</td></tr>
+    <tr><td>Pseudocaranx Dentex</td><td><span id="en">Trevally</span><span id="ro" >Trevally cu dungi</span></td><td>-</td></tr>
+    <tr><td>Pseudocaranx wrighti</td><td><span id="en">Skipjack Trevally</span><span id="ro" >Trevally de nisip</span></td><td>-</td></tr>
+    <tr><td>Zenopsis nebulosus</td><td><span id="en">Mirror Dory</span><span id="ro" >Doris oglindă</span></td><td>-</td></tr>
+    <tr><td>Pseudocyttus maculatus</td><td><span id="en">Smooth Oreo Dory</span><span id="ro" >Oreo neted</span></td><td>-</td></tr>
+    <tr><td>Cyttus australis</td><td><span id="en">Silver Dory</span><span id="ro" >Doris argintiu</span></td><td>-</td></tr>
+    <tr><td>Cyttus traversi</td><td><span id="en">King Dory</span><span id="ro" >Doris rege</span></td><td>-</td></tr>
+    <tr><td>Zeus faber</td><td><span id="en">John Dory</span><span id="ro" >Dulgher mare</span></td><td>-</td></tr>
+    <tr><td>Neocyttus rhomboidalis</td><td><span id="en">Spikey Oreodory</span><span id="ro" >Oreoul înțepător</span></td><td>-</td></tr>
+    <tr><td>Allocyttus niger</td><td><span id="en">Black Oreodory</span><span id="ro" >Oreo negru</span></td><td>-</td></tr>
+    <tr><td>Lethrinus nebulosus </td><td><span id="en">Greater Spangled Emperor</span><span id="ro" >Snapper mai mare</span></td><td>-</td></tr>
+    <tr><td>Lethrinus sp.  </td><td><span id="en">Lesser Spangled Emperor</span><span id="ro" >Snapper mai mic</span></td><td>-</td></tr>
+    <tr><td>Argyrops spinifer</td><td><span id="en">Frypan Bream</span><span id="ro" >Snapper de tigaie</span></td><td>-</td></tr>
+    <tr><td>Gymnocranius griseus </td><td><span id="en">Grey Seabream</span><span id="ro" >Oreo neted</span></td><td>-</td></tr>
+    <tr><td>Gymnocranius grandoculis </td><td><span id="en">Robinson's Seabream</span><span id="ro" >Doris argintiu</span></td><td>-</td></tr>
+    <tr><td>Gymnocranius elongatus</td><td><span id="en">Swallowtail Seabream</span><span id="ro" >Doris rege</span></td><td>-</td></tr>
+    <tr><td>Gymnocranius audleyi</td><td><span id="en">Collar Seabream</span><span id="ro" >Dulgher mare</span></td><td>-</td></tr>
+    <tr><td>Gnathodentex aureolineatus </td><td><span id="en">Goldspot Seabream</span><span id="ro" >Oreoul înțepător</span></td><td>-</td></tr>
+    <tr><td>Gymnocranius euanus </td><td><span id="en">Paddletail Seabream</span><span id="ro" >Oreo negru</span></td><td>-</td></tr>
+    <tr><td>Monotaxis grandoculis </td><td><span id="en">Bigeye Seabream</span><span id="ro" >Dorada cu ochi mari</span></td><td>-</td></tr>
+    <tr><td>Gymnocranius microdon</td><td><span id="en">Bluespotted Seabream</span><span id="ro" >Dorada mare cu pete albastre</span></td><td>-</td></tr>
+    <tr><td>Wattsia mossambica</td><td><span id="en">Mozambique Seabream</span><span id="ro" >Wattsia ( Dorada de Mozambic )</span></td><td>-</td></tr>
+    <tr><td>Lethrinus miniatus</td><td><span id="en">Redthroat Emperor</span><span id="ro" >Împăratul trompetă</span></td><td>-</td></tr>
+    <tr><td>Lethrinus lentjan</td><td><span id="en">Redspot Emperor</span><span id="ro" >Împăratul cu urechi roz</span></td><td>-</td></tr>
+    <tr><td>Lethrinus olivaceus</td><td><span id="en">Longnose Emperor</span><span id="ro" >Împăratul cu față lungă</span></td><td>-</td></tr>
+    <tr><td>Lethrinus laticaudis</td><td><span id="en">Grass Emperor</span><span id="ro" >Împăratul ierbii</span></td><td>-</td></tr>
+    <tr><td>Neoplatycephalus richardsoni</td><td><span id="en">Tiger Flathead</span><span id="ro" >Cap plat tigru</span></td><td>-</td></tr>
+    <tr><td>Neoplatycephalus aurimaculatus</td><td><span id="en">Toothy Flathead</span><span id="ro" >Cap plat cu dinți</span></td><td>-</td></tr>
+    <tr><td>Platycephalus bassensis</td><td><span id="en">Southern Sand Flathead</span><span id="ro" >Cap plat de nisip</span></td><td>-</td></tr>
+    <tr><td>Platycephalus fuscus</td><td><span id="en">Dusky Flathead</span><span id="ro" >Cap plat întunecat</span></td><td>-</td></tr>
+    <tr><td>Neoplatycephalus conatus</td><td><span id="en">Deepwater Flathead</span><span id="ro" >Cap plat de apă adâncă</span></td><td>-</td></tr>
+    <tr><td>Platycephalus caeruleopunctatus</td><td><span id="en">Bluespotted Flathead</span><span id="ro" >Cap plat cu pete albastre</span></td><td>-</td></tr>
+    <tr><td>Acanthopagrus australis</td><td><span id="en">Yellowfin Bream</span><span id="ro" >Dorada de Est</span></td><td>-</td></tr>
+    <tr><td>Acanthopagrus butcheri</td><td><span id="en">Black Bream</span><span id="ro" >Dorada de Sud</span></td><td>-</td></tr>
+    <tr><td>Chrysophrys auratus</td><td><span id="en">Snapper</span><span id="ro" >Dorada argintie</span></td><td>-</td></tr>
+    <tr><td>Acanthopagrus berda</td><td><span id="en">Pikey Bream</span><span id="ro" >Dorada de picnic</span></td><td>-</td></tr>
+    <tr><td>Tetrapturus audax</td><td><span id="en">Striped Marlin</span><span id="ro" >Marlin cu dungi</span></td><td>-</td></tr>
+    <tr><td>Macquaria novemaculeata</td><td><span id="en">Australian Bass</span><span id="ro" >Biban Australia</span></td><td>-</td></tr>
+    <tr><td>Lates calcarifer</td><td><span id="en">Barramundi</span><span id="ro" >Biban Asiatic de Mare</span></td><td>-</td></tr>
+    <tr><td>Macquaria ambigua</td><td><span id="en">Golden Perch</span><span id="ro" >Bibanul auriu</span></td><td>-</td></tr>
+    <tr><td>Nelusetta ayraudi</td><td><span id="en">Ocean Jacket</span><span id="ro" >Jacket oceanic</span></td><td>-</td></tr>
+    <tr><td>Genypterus tigerinus</td><td><span id="en">Rock Ling</span><span id="ro" >Ling de piatră</span></td><td>-</td></tr>
+    <tr><td>Genypterus blacodes</td><td><span id="en">Pink Ling</span><span id="ro" >Ling roz</span></td><td>-</td></tr>
+    <tr><td>Scomberomorus queenslandicus</td><td><span id="en">School Mackerel</span><span id="ro" >Macrou de Queensland </span></td><td>-</td></tr>
+    <tr><td>Scomberomorus semifasciatus</td><td><span id="en">Grey Mackerel</span><span id="ro" >Macrou cenușiu</span></td><td>-</td></tr>
+    <tr><td>Scomber australasicus</td><td><span id="en">Blue Mackerel</span><span id="ro" >Macrou albastru</span></td><td>-</td></tr>
+    <tr><td>Mugil cephalus</td><td><span id="en">Sea Mullet</span><span id="ro" >Chefal mare / Laban</span></td><td>-</td></tr>
+    <tr><td>Liza vaigiensis</td><td><span id="en">Diamondscale Mullet</span><span id="ro" >Mullet cu solzi diamant</span></td><td>-</td></tr>
+    <tr><td>Aptychotrema rostrata</td><td><span id="en">Eastern Shovelnose Ray</span><span id="ro" >Pisică de mare cu nas de lopată de Est</span></td><td>-</td></tr>
+    <tr><td>Epinephelus areolatus</td><td><span id="en">Yellowspotted Rockcod</span><span id="ro" >Cod de stâncă cu pete galbene</span></td><td>-</td></tr>
+    <tr><td>Caprodon longimanus</td><td><span id="en">Pink Maomao</span><span id="ro" >Maomao roz</span></td><td>-</td></tr>
+    <tr><td>Acanthistius ocellatus</td><td><span id="en">Eastern Wirrah</span><span id="ro" >Wirrah de Est</span></td><td>-</td></tr>
+    <tr><td>Variola louti</td><td><span id="en">Sea Mullet</span><span id="ro" >Mullet de Mare</span></td><td>-</td></tr>
+    <tr><td>Plectropomus oligacanthus </td><td><span id="en">Vermicular Cod</span><span id="ro" >Cod Vermicular</span></td><td>-</td></tr>
+    <tr><td>Plectropomus leopardus</td><td><span id="en">Common Coral Trout</span><span id="ro" >Păstrăv Coral</span></td><td>-</td></tr>
+    <tr><td>Plectropomus maculatus </td><td><span id="en">Barcheek Coral Trout</span><span id="ro" >Păstrăv Coral Barcheek</span></td><td>-</td></tr>
+    <tr><td>Epinephelus septemfasciatus </td><td><span id="en">Bar Rockcod</span><span id="ro" >Grouper deținut</span></td><td>-</td></tr>
+    <tr><td>Oncorhynchus tshawytscha</td><td><span id="en">Chinook Salmon (King Salmon)</span><span id="ro" >Somon Chinook</span></td><td>-</td></tr>
+    <tr><td>Salvelinus fontinalis</td><td><span id="en">Brook Trout (Saltwater Charr)</span><span id="ro" >Charr de apă sărată</span></td><td>-</td></tr>
+    <tr><td>Salmo salar</td><td><span id="en">Atlantic Salmon</span><span id="ro" >Somon de Atlantic</span></td><td>-</td></tr>
+    <tr><td>Trachurus novaezelandiae</td><td><span id="en">Yellowtail Scad</span><span id="ro" >Stavrid coada galbenă</span></td><td>-</td></tr>
+    <tr><td>Seriola lalandi</td><td><span id="en">Yellowtail Kingfish</span><span id="ro" >Pește rege coadă galbenă</span></td><td>-</td></tr>
+    <tr><td>Seriola dumerili </td><td><span id="en">Amberjack</span><span id="ro" >Măgar de mare</span></td><td>-</td></tr>
+    <tr><td>Seriola hippos</td><td><span id="en">Samsonfish</span><span id="ro" >Pește samson</span></td><td>-</td></tr>
+    <tr><td>Scomberoides tol</td><td><span id="en">Needleskin Queenfish</span><span id="ro" >Pește regină cu solzi ace</span></td><td>-</td></tr>
+    <tr><td>Scomberoides tala</td><td><span id="en">Barred Queenfish</span><span id="ro" >Pește regină de apă adâncă</span></td><td>-</td></tr>
+    <tr><td>Scomberoides lysan</td><td><span id="en">Lesser Queenfish</span><span id="ro" >Pește regină cu pete duble</span></td><td>-</td></tr>
+    <tr><td>Scomberoides commersonnianus</td><td><span id="en">Giant Queenfish</span><span id="ro" >Pește regină gigant</span></td><td>-</td></tr>
+    <tr><td>Trachinotus botla</td><td><span id="en">Common Dart</span><span id="ro" >Pompano</span></td><td>-</td></tr>
+    <tr><td>Trachinotus baillonii </td><td><span id="en">Smallspotted Dart</span><span id="ro" >Pompano cu pete mici</span></td><td>-</td></tr>
+    <tr><td>Trachinotus blochii </td><td><span id="en">Snubnose Dart</span><span id="ro" >Pompano cu nas cârn</span></td><td>-</td></tr>
+    <tr><td>Trachinotus coppingeri </td><td><span id="en">Swallowtail Dart</span><span id="ro" >Pompano cu coadă de rândunică</span></td><td>-</td></tr>
+    <tr><td>Trachinotus anak</td><td><span id="en">Giant Oystercracker Dart</span><span id="ro" >Pompano de stridii</span></td><td>-</td></tr>
+    <tr><td>Parastromateus niger</td><td><span id="en">Black Pomfret</span><span id="ro" >Pomfret negru</span></td><td>-</td></tr>
+    <tr><td>Sarda australis</td><td><span id="en">Australian Bonito</span><span id="ro" >Bonito australian</span></td><td>-</td></tr>
+    <tr><td>Sarda orientalis</td><td><span id="en">Oriental Bonito</span><span id="ro" >Bonito oriental</span></td><td>-</td></tr>
+    <tr><td>Cybiosarda elegans </td><td><span id="en">Leaping Bonito</span><span id="ro" >Bonito săritor</span></td><td>-</td></tr>
+    <tr><td>Sillago schomburgkii </td><td><span id="en">Yellowfin Whiting</span><span id="ro" >Merlan cu înotătoare galbenă</span></td><td>-</td></tr>
+    <tr><td>Sillago maculata </td><td><span id="en">Trumpeter Whiting</span><span id="ro" >Merlan trompetist</span></td><td>-</td></tr>
+    <tr><td>Sillago flindersi </td><td><span id="en">Eastern School Whiting</span><span id="ro" >Merlan de școală de Est</span></td><td>-</td></tr>
+    <tr><td>Sillago bassensis </td><td><span id="en">Southern School Whiting</span><span id="ro" >Merlan de școală de Sud</span></td><td>-</td></tr>
+    <tr><td>Sillago robusta </td><td><span id="en">Stout Whiting</span><span id="ro" >Merlan robust</span></td><td>-</td></tr>
+    <tr><td>Sillago ciliata </td><td><span id="en">Sand Whiting</span><span id="ro" >Merlan de nisip</span></td><td>-</td></tr>
+    <tr><td>Sillaginodes punctatus </td><td><span id="en">King George Whiting</span><span id="ro" >Merlan Regele George</span></td><td>-</td></tr>
