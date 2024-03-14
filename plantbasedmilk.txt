@@ -1,2 +1,25 @@
 <tbody>
+
+    <tr><td><span id="en">Almond milk</span><span id="ro">Lapte de migdale</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Coconut milk</span><span id="ro">Lapte de cocos</span>  </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Rice milk</span><span id="ro">Lapte de orez</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Soy milk</span><span id="ro">Lapte de soia</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Oat milk</span><span id="ro">Lapte de ovăz</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pea milk</span><span id="ro">Lapte de mazăre</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Peanut milk</span><span id="ro">Lapte alune de pământ</span>  </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Hazelnut milk</span><span id="ro">Lapte alune de pădure</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Cashew milk</span><span id="ro">Lapte nuci caju</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Sunflower seed milk</span><span id="ro">Lapte semințe floarea soarelui</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pistachio milk</span><span id="ro">Lapte fistic</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Walnut milk</span><span id="ro">Lapte nuci</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Pumpkin seed milk</span><span id="ro">Lapte semințe dovleac</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Macadamia nut milk</span><span id="ro">Lapte nuci macadamia</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Sesame seed milk</span><span id="ro">Lapte semințe susan</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Flax seed milk</span><span id="ro">Lapte semințe in</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Pecan milk</span><span id="ro">Lapte nuci pecan</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Brazilian nut milk</span><span id="ro">Lapte nuci braziliene</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Wheat milk</span><span id="ro">Lapte grâu</span> </td><td>-</td><td>-</td></tr>  
+
+
+
 </tbody>
