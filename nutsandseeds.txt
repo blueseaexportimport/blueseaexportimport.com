@@ -1,1 +1,95 @@
 
+    <tr><td><span id="en">Black Sunflower Seeds</span><span id="ro">Semințe negre floarea soarelui</span> </td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Sesame seeds</span><span id="ro">Semințe susan</span> </td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Black sesame seeds</span><span id="ro">Semințe susan negre</span> </td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Baking Poppy seeds</span><span id="ro">Semințe mac uscate</span></td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Mustard seeds</span><span id="ro">Boabe muștar</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Pumpkin seed</span><span id="ro">Semințe bostan</span>  </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Walnut kernels halfs</span><span id="ro">Jumătăți miez de nucă</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Dried walnuts in the shell</span><span id="ro">Nuci uscate în coji</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Sweet Chestnut (Castanea sativa)</span><span id="ro">Castane comestibile</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Macadamia nuts</span><span id="ro">Nuci Macadamia</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Candlenuts / Kukui</span><span id="ro">Nuci Kukui</span> </td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Pecan nuts</span><span id="ro">Nuci Pecan</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Brazil nuts no shells</span><span id="ro">Nuci Braziliene fără coajă</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pine nuts</span><span id="ro">Semințe de pin</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Pistachio</span><span id="ro">Fistic cu coajă</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Hazelnuts</span><span id="ro">Alune de pădure</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Peanuts with shell</span><span id="ro">Alune de pământ cu coajă</span> </td><td>-</td><td>-</td></tr>    
+
+    <tr><td><span id="en">Almonds Variety Nonpareil - Grade US Fancy - Size 18/20 </span><span id="ro">Migdale Soi Nonpareil - Sistem Gradare US Fancy - Mărime 18/20</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Almonds Variety Monterey - Grade US Extra No. 1 - Size 20/22 </span><span id="ro">Migdale Soi Monterey - Sistem Gradare US Extra No. 1 - Mărime 20/22</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Almonds Variety Carmel - Grade US No. 1 (Supreme)* - Size 23/25 </span><span id="ro">Migdale Soi Carmel - Sistem Gradare US No. 1 (Supreme)* - Mărime 23/25</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Almonds Variety Sonora - Grade US Select Sheller Run - Size 25/27 </span><span id="ro">Migdale Soi Sonora - Sistem Gradare US Select Sheller Run - Mărime 25/27</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Almonds Variety Fritz - Grade US Standard Sheller Run  - Size 27/30 </span><span id="ro">Migdale Soi Fritz - Sistem Gradare US Standard Sheller Run  - Mărime 27/30</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Almonds Variety Price - Grade US No. 1 Whole & Broken - Size 30/32 </span><span id="ro">Migdale Soi Price - Sistem Gradare US No. 1 Whole & Broken - Mărime 30/32</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Almonds Variety Peerless - Grade US No. 1 Pieces - Size 32/34 </span><span id="ro">Migdale Soi Peerless - Sistem Gradare US No. 1 Pieces - Mărime 32/34</span></td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Almonds Variety Independence - Grade US Fancy - Size 18/20 </span><span id="ro">Migdale Soi Independence  - Sistem Gradare US Fancy - Mărime 18/20</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Almonds Variety Butte - Grade US Extra No. 1 - Size 20/22 </span><span id="ro">Migdale Soi Butte  - Sistem Gradare US Extra No. 1 - Mărime 20/22</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Almonds Variety Padre - Grade US No. 1 (Supreme)* - Size 23/25 </span><span id="ro">Migdale Soi Padre  - Sistem Gradare US No. 1 (Supreme)* - Mărime 23/25</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Almonds Variety Wood Colony - Grade US Select Sheller Run - Size 25/27 </span><span id="ro">Migdale Soi Wood Colony  - Sistem Gradare US Select Sheller Run - Mărime 25/27</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Almonds Variety Aldrich  - Grade US No. 1 Whole & Broken - Size 27/30 </span><span id="ro">Migdale Soi Aldrich  - Sistem Gradare US No. 1 Whole & Broken - Mărime 27/30</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Almonds Variety Marcona  - Grade US No. 1 Pieces - Size 30/32 </span><span id="ro">Migdale Soi Marcona  - Sistem Gradare US No. 1 Pieces - Mărime 30/32</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Almonds Variety Mission  - Grade US No. 1 Pieces - Size 32/34 </span><span id="ro">Migdale Soi Mission  - Sistem Gradare US No. 1 Pieces - Mărime 32/34</span></td><td>-</td><td>-</td></tr>    
+    
+    <tr><td><span id="en">Cashew kernels Indian Grade White Wholes WW180</span><span id="ro">Miez nuci caju Sistem Gradare Indian WW180</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Cashew kernels Indian Grade White Wholes WW210</span><span id="ro">Miez nuci caju Sistem Gradare Indian WW210</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Cashew kernels Indian Grade White Wholes WW240</span><span id="ro">Miez nuci caju Sistem Gradare Indian WW240</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Cashew kernels Indian Grade White Wholes WW320</span><span id="ro">Miez nuci caju Sistem Gradare Indian WW320</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Cashew kernels Indian Grade White Wholes WW450</span><span id="ro">Miez nuci caju Sistem Gradare Indian WW450</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Cashew kernels Indian Grade White Wholes WW500</span><span id="ro">Miez nuci caju Sistem Gradare Indian WW500</span></td><td>-</td><td>-</td></tr>    
+
+    <tr><td><span id="en">Cashew kernels Indian Grade Scorched Wholes SW</span><span id="ro">Miez nuci caju Sistem Gradare India SW</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Cashew kernels Indian Grade Scorched Wholes SW180</span><span id="ro">Miez nuci caju Sistem Gradare Indian SW180</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Cashew kernels Indian Grade Scorched Wholes SW210</span><span id="ro">Miez nuci caju Sistem Gradare Indian SW210</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Cashew kernels Indian Grade Scorched Wholes SW240</span><span id="ro">Miez nuci caju Sistem Gradare Indian SW240</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Cashew kernels Indian Grade Scorched Wholes SW320</span><span id="ro">Miez nuci caju Sistem Gradare Indian SW320</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Cashew kernels Indian Grade Scorched Wholes SW450</span><span id="ro">Miez nuci caju Sistem Gradare Indian SW450</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Cashew kernels Indian Grade Scorched Wholes SW500</span><span id="ro">Miez nuci caju Sistem Gradare Indian SW500</span></td><td>-</td><td>-</td></tr>    
+
+    <tr><td><span id="en">Cashew kernels Indian Grade Scorched Wholes Seconds SSW</span><span id="ro">Miez nuci caju Sistem Gradare Indian SSW</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Cashew kernels Indian Grade Dessert Wholes DW</span><span id="ro">Miez nuci caju Sistem Gradare Indian DW</span></td><td>-</td><td>-</td></tr>    
+
+   <tr><td><span id="en">Cashew kernels Indian Grade White Pieces Butts B</span><span id="ro">Miez nuci caju Sistem Gradare Indian Butts B</span></td><td>-</td><td>-</td></tr>    
+   <tr><td><span id="en">Cashew kernels Indian Grade White Pieces Splits S</span><span id="ro">Miez nuci caju Sistem Gradare Indian Splits S</span></td><td>-</td><td>-</td></tr>    
+   <tr><td><span id="en">Cashew kernels Indian Grade White Pieces LWP</span><span id="ro">Miez nuci caju Sistem Gradare Indian LWP</span></td><td>-</td><td>-</td></tr>    
+   <tr><td><span id="en">Cashew kernels Indian Grade White Pieces SWP</span><span id="ro">Miez nuci caju Sistem Gradare Indian SWP</span></td><td>-</td><td>-</td></tr>    
+   <tr><td><span id="en">Cashew kernels Indian Grade White Pieces Baby Bits BB</span><span id="ro">Miez nuci caju Sistem Gradare Baby Bits BB</span></td><td>-</td><td>-</td></tr>    
+
+   <tr><td><span id="en">Cashew kernels Indian Grade Scorched Pieces Butts SB</span><span id="ro">Miez nuci caju Sistem Gradare Indian Butts SB</span></td><td>-</td><td>-</td></tr>    
+   <tr><td><span id="en">Cashew kernels Indian Grade Scorched Pieces Splits SS</span><span id="ro">Miez nuci caju Sistem Gradare Indian Splits SS</span></td><td>-</td><td>-</td></tr>    
+   <tr><td><span id="en">Cashew kernels Indian Grade Scorched Pieces SP</span><span id="ro">Miez nuci caju Sistem Gradare Indian Pieces SP</span></td><td>-</td><td>-</td></tr>    
+   <tr><td><span id="en">Cashew kernels Indian Grade Scorched Pieces Small Pieces SSP</span><span id="ro">Miez nuci caju Sistem Gradare Indian Small Pieces SSP</span></td><td>-</td><td>-</td></tr>    
+
+   <tr><td><span id="en">Cashew kernels Indian Grade Dessert Pieces SPS</span><span id="ro">Miez nuci caju Sistem Gradare Indian SPS</span></td><td>-</td><td>-</td></tr>    
+   <tr><td><span id="en">Cashew kernels Indian Grade Dessert Pieces DP</span><span id="ro">Miez nuci caju Sistem Gradare Indian Splits DP</span></td><td>-</td><td>-</td></tr>    
+
+    <tr><td><span id="en">Coconut nuts with shells - tall</span><span id="ro">Nuci de cocos cu coajă - palmier înalt</span> </td><td>West coast tall</td><td>-</td></tr>    
+    <tr><td><span id="en">Coconut nuts with shells - tall</span><span id="ro">Nuci de cocos cu coajă - palmier înalt</span> </td><td>East coast tall</td><td>-</td></tr>    
+    <tr><td><span id="en">Coconut nuts with shells - tall</span><span id="ro">Nuci de cocos cu coajă - palmier înalt</span> </td><td>Chandrakalpa or Lakshadweep ordinary - LCT</td><td>-</td></tr>    
+    <tr><td><span id="en">Coconut nuts with shells - tall</span><span id="ro">Nuci de cocos cu coajă - palmier înalt</span> </td><td>Philippines Ordinary - Kerachandra</td><td>-</td></tr>    
+    <tr><td><span id="en">Coconut nuts with shells - tall</span><span id="ro">Nuci de cocos cu coajă - palmier înalt</span> </td><td>VPM – 3 Andaman Ordinary</td><td>-</td></tr>    
+    <tr><td><span id="en">Coconut nuts with shells - tall</span><span id="ro">Nuci de cocos cu coajă - palmier înalt</span> </td><td>Aliyar Nagar 1</td><td>-</td></tr>    
+    <tr><td><span id="en">Coconut nuts with shells - tall</span><span id="ro">Nuci de cocos cu coajă - palmier înalt</span> </td><td>Tiptur Tall</td><td>-</td></tr>    
+    <tr><td><span id="en">Coconut nuts with shells - tall</span><span id="ro">Nuci de cocos cu coajă - palmier înalt</span> <br>( Seychelles )</td><td>Kera sagara</td><td>-</td></tr>    
+    <tr><td><span id="en">Coconut nuts with shells - short</span><span id="ro">Nuci de cocos cu coajă - palmier scurt</span> </td><td>Chowghat Orange Dwarf - COD</td><td>-</td></tr>    
+    <tr><td><span id="en">Coconut nuts with shells - short</span><span id="ro">Nuci de cocos cu coajă - palmier scurt</span></td><td>Chowghat Green Dwarf - CGD</td><td>-</td></tr>    
+    <tr><td><span id="en">Coconut nuts with shells - hybrid</span><span id="ro">Nuci de cocos cu coajă - palmier hibrid</span> </td><td>Kerasankara - WCT x COD</td><td>-</td></tr>    
+    <tr><td><span id="en">Coconut nuts with shells - hybrid</span><span id="ro">Nuci de cocos cu coajă - palmier hibrid</span> </td><td>Chandralaksha LCT x COD</td><td>-</td></tr>    
+    <tr><td><span id="en">Coconut nuts with shells - hybrid</span><span id="ro">Nuci de cocos cu coajă - palmier hibrid</span> </td><td>Keraganga WCT x GBGD</td><td>-</td></tr>    
+    <tr><td><span id="en">Coconut nuts with shells - hybrid</span><span id="ro">Nuci de cocos cu coajă - palmier hibrid</span> </td><td>Lakshaganga LCT x GBGD</td><td>-</td></tr>    
+    <tr><td><span id="en">Coconut nuts with shells - hybrid</span><span id="ro">Nuci de cocos cu coajă - palmier hibrid</span> </td><td>Anandaganga ADOT x GBGD</td><td>-</td></tr>    
+    <tr><td><span id="en">Coconut nuts with shells - hybrid</span><span id="ro">Nuci de cocos cu coajă - palmier hibrid</span> </td><td>Kerasree WCT x MYD</td><td>-</td></tr>    
+    <tr><td><span id="en">Coconut nuts with shells - hybrid</span><span id="ro">Nuci de cocos cu coajă - palmier hibrid</span> </td><td>Kerasoubhagya WCT x SSAT</td><td>-</td></tr>    
+    <tr><td><span id="en">Coconut nuts with shells - hybrid</span><span id="ro">Nuci de cocos cu coajă - palmier hibrid</span> </td><td>VHC 1 ECT x MGD</td><td>-</td></tr>    
+    <tr><td><span id="en">Coconut nuts with shells - hybrid</span><span id="ro">Nuci de cocos cu coajă - palmier hibrid</span> </td><td>VHC 2 ECT x MYD</td><td>-</td></tr>    
+    <tr><td><span id="en">Coconut nuts with shells - hybrid</span><span id="ro">Nuci de cocos cu coajă - palmier hibrid</span> </td><td>VHC 3 ECT x MOD</td><td>-</td></tr>  
+ 
+    <tr><td><span id="en">Dried dates with pits</span><span id="ro">Curmale deshidratate cu sâmbure</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Dried dates without pits</span><span id="ro">Curmale deshidratate fără sâmbure</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Dried figs</span><span id="ro">Smochine deshidratate</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Dried cranberries</span><span id="ro">Merișoare deshidratate</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Dried apricots</span><span id="ro">Caise deshidratate</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Dried plums</span><span id="ro"></span>Prune deshidratate </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Dried apple chips</span><span id="ro">Chipsuri mere deshidratate</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Dried golden raisins</span><span id="ro"></span>Stafide aurii deshidratate</td><td>-</td><td>-</td></tr>   
