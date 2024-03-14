@@ -1,1 +1,56 @@
-
+       <tr><td>Hospital Identification Bracelet </td><td>- </td><td>-</td></tr>
+       <tr><td>Band aid </td><td>- </td><td>-</td></tr>
+       <tr><td>Electric Intensive Care Hospital Bed </td><td>- </td><td>-</td></tr>
+       <tr><td>Electric Hospital Bed </td><td>- </td><td>-</td></tr>
+       <tr><td>Manual Hospital Bed </td><td>- </td><td>-</td></tr>
+       <tr><td>Home Care Bed </td><td>- </td><td>-</td></tr>
+       <tr><td>Hospital Crib  </td><td>- </td><td>-</td></tr>
+       <tr><td>Patient Transfer Stretcher  </td><td>- </td><td>-</td></tr>
+       <tr><td>Ambulance Stretcher  </td><td>- </td><td>-</td></tr>
+       <tr><td>Emergency Stretcher  </td><td>- </td><td>-</td></tr>
+       <tr><td>Stair Stretcher  </td><td>- </td><td>-</td></tr>
+       <tr><td>Spine Board  </td><td>- </td><td>-</td></tr>
+       <tr><td>Scoop Stretcher  </td><td>- </td><td>-</td></tr>
+       <tr><td>Gynecological Bed  </td><td>- </td><td>-</td></tr>
+       <tr><td>Electric Operating Table </td><td>- </td><td>-</td></tr>
+       <tr><td>Hydraulic Surgery Operating Table  </td><td>- </td><td>-</td></tr>
+       <tr><td>Exam Room Table  </td><td>- </td><td>-</td></tr>
+       <tr><td>Pediatric Exam Table </td><td>- </td><td>-</td></tr>
+       <tr><td>Electric Operating Table </td><td>- </td><td>-</td></tr>
+       <tr><td>Treatment Table  </td><td>- </td><td>-</td></tr>
+       <tr><td>Ultrasound Exam Table  </td><td>- </td><td>-</td></tr>
+       <tr><td>Blood Donor Chair  </td><td>- </td><td>-</td></tr>
+       <tr><td>Medical Recliner </td><td>- </td><td>-</td></tr>
+       <tr><td>Infusion Chair </td><td>- </td><td>-</td></tr>
+       <tr><td>Medical Stool  </td><td>- </td><td>-</td></tr>
+       <tr><td>Hospital Waiting Chair</td><td>- </td><td>-</td></tr>
+       <tr><td>Hospital Sleeper Chair</td><td>- </td><td>-</td></tr>
+       <tr><td>Medical Emergency Crash Cart</td><td>- </td><td>-</td></tr>
+       <tr><td>Medication Cart</td><td>- </td><td>-</td></tr>
+       <tr><td>Anesthesia Cart</td><td>- </td><td>-</td></tr>
+       <tr><td>Medical Patient Record Cart</td><td>- </td><td>-</td></tr>
+       <tr><td>Medical Computer Cart</td><td>- </td><td>-</td></tr>
+       <tr><td>Medical Instrument trolley</td><td>- </td><td>-</td></tr>
+       <tr><td>Mayo Table</td><td>- </td><td>-</td></tr>
+       <tr><td>Medical Linen Trolley</td><td>- </td><td>-</td></tr>
+       <tr><td>Medical Bedside Cabinet</td><td>- </td><td>-</td></tr>
+       <tr><td>Overbed Table</td><td>- </td><td>-</td></tr>
+       <tr><td>Hospital bed mattress</td><td>- </td><td>-</td></tr>
+       <tr><td>Hospital IV Stand</td><td>- </td><td>-</td></tr>
+       <tr><td>Ward Screen</td><td>- </td><td>-</td></tr>
+       <tr><td>Surgical Scrub Sink</td><td>- </td><td>-</td></tr>
+       <tr><td>Ward Screen</td><td>- </td><td>-</td></tr>
+       <tr><td>Pass Box For Cleaning Room</td><td>- </td><td>-</td></tr>
+       <tr><td>Aluminium Sterile Container</td><td>- </td><td>-</td></tr>
+       <tr><td>Stainless Steel Cupboard For Hospital Use</td><td>- </td><td>-</td></tr>
+       <tr><td>Hospital Stainless Steel Cabinet</td><td>- </td><td>-</td></tr>
+       <tr><td>Ceiling Shadowless Operation Light</td><td>- </td><td>-</td></tr>
+       <tr><td>Mobile Shadowless Operation Lamp</td><td>- </td><td>-</td></tr>
+       <tr><td>Patient Identification Bands</td><td>- </td><td>-</td></tr>
+       <tr><td>Small Vaccine Carrier, Short Range</td><td>- </td><td>-</td></tr>
+       <tr><td>Large Cold Box Long Range</td><td>- </td><td>-</td></tr>
+       <tr><td>Ice Pack</td><td>- </td><td>-</td></tr>
+       <tr><td>Medical Step Stool</td><td>- </td><td>-</td></tr>
+       <tr><td>Doctor Stool</td><td>- </td><td>-</td></tr>
+       <tr><td>Doctor Chair</td><td>- </td><td>-</td></tr>
+       <tr><td>Nurse Chair</td><td>- </td><td>-</td></tr>
