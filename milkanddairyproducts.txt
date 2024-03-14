@@ -13,7 +13,7 @@
 	<span id="en">Start Product:<br>Fat cottage cheese</span><span id="ro">Start Produs:<br>Brânză grasă de vacă</span>
 	<span id="en">Start Product:<br>Cottage cheese</span><span id="ro">Start Produs:<br>Brânză de vacă</span>
 	<span id="en">Start Product:<br>Kneaded cottage cheese</span><span id="ro">Start Produs:<br>Brânză frământată</span>
-
+    <tr><td><span id="en">Cottage cheese</span><span id="ro">Brânză de vacă</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr>       
     <tr><td><span id="en">Butter 250g</span><span id="ro">Unt 250g</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( 60% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>     
     <tr><td><span id="en">Butter 250g</span><span id="ro">Unt 250g</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( 67% <span id="en">fats</span><span id="ro"> grăsimi</span>  )</td><td>-</td></tr>     
     <tr><td><span id="en">Butter 200g</span><span id="ro">Unt 200g</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( 80% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>     
