@@ -1,1 +1,21 @@
-
+       <tr><td>Abrasive disc</td><td>- </td><td>-</td></tr>
+       <tr><td>Auger bit</td><td>- </td><td>-</td></tr>
+       <tr><td>Circular saw blade</td><td>- </td><td>-</td></tr>
+       <tr><td>Cobalt drill bit</td><td>- </td><td>-</td></tr>
+       <tr><td>Countersink</td><td>- </td><td>-</td></tr>
+       <tr><td>Diamond core drill bit</td><td>- </td><td>-</td></tr>
+       <tr><td>Diamond cutting disc</td><td>- </td><td>-</td></tr>
+       <tr><td>Diamond tile drill bit</td><td>- </td><td>-</td></tr>
+       <tr><td>Flat wood bit</td><td>- </td><td>-</td></tr>
+       <tr><td>Forstner bit</td><td>- </td><td>-</td></tr>
+       <tr><td>Hole saw bit</td><td>- </td><td>-</td></tr>
+       <tr><td>HSS drill bit</td><td>- </td><td>-</td></tr>
+       <tr><td>Jigsaw blade for metal</td><td>- </td><td>-</td></tr>
+       <tr><td>Jigsaw blade for wood</td><td>- </td><td>-</td></tr>
+       <tr><td>Oscillating saw blade</td><td>- </td><td>-</td></tr>
+       <tr><td>Router bit</td><td>- </td><td>-</td></tr>
+       <tr><td>Saber saw blade for wood</td><td>- </td><td>-</td></tr>
+       <tr><td>Screwdriver bit</td><td>- </td><td>-</td></tr>
+       <tr><td>SDS masonry chisel</td><td>- </td><td>-</td></tr>
+       <tr><td>SDS masonry drill bit</td><td>- </td><td>-</td></tr>
+       <tr><td>Tile drill bit</td><td>- </td><td>-</td></tr>
