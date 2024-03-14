@@ -1,1 +1,7 @@
 
+    <tr><td><span id="en">Chicken Eggs</span><span id="ro">Ouă de Găină </span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Goose Eggs</span><span id="ro">Ouă de Gâscă</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Duck Eggs</span><span id="ro">Ouă de Rață</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Ostridge Eggs</span><span id="ro">Ouă de Struț</span></td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Quail Eggs</span><span id="ro">Ouă de Prepeliță</span></td><td>-</td><td>-</td></tr>          
+    <tr><td><span id="en">Turkey Eggs</span><span id="ro">Ouă de Curcan</span></td><td>-</td><td>-</td></tr> 
