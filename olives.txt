@@ -1,1 +1,76 @@
 
+    <tr><td>Arbosana </td><td>-</td><td>-</td></tr>
+    <tr><td>Ayvalık  </td><td>-</td><td>-</td></tr>   
+    <tr><td>Barnea </td><td>-</td><td>-</td></tr>
+    <tr><td>Bidni </td><td>-</td><td>-</td></tr>    
+    <tr><td>Bosana </td><td>-</td><td>-</td></tr>    
+    <tr><td>Bouteillan </td><td>-</td><td>-</td></tr>    
+    <tr><td>Cayon </td><td>-</td><td>-</td></tr>    
+    <tr><td>Carolea </td><td>-</td><td>-</td></tr> 
+    <tr><td>Cornicabra </td><td>-</td><td>-</td></tr>    
+    <tr><td>Frantoio </td><td>-</td><td>-</td></tr>    
+    <tr><td>Hojiblanca / Nevadillo Blanco </td><td>-</td><td>-</td></tr>    
+    <tr><td>İzmir Sofralık  </td><td>-</td><td>-</td></tr> 
+    <tr><td>Dritta </td><td>-</td><td>-</td></tr> 
+    <tr><td>Koroneiki </td><td>-</td><td>-</td></tr> 
+    <tr><td>Leccino </td><td>-</td><td>-</td></tr>
+    <tr><td>Maalot  </td><td>-</td><td>-</td></tr>   
+    <tr><td>Souri  </td><td>-</td><td>-</td></tr>
+    <tr><td>Meslalla </td><td>-</td><td>-</td></tr>    
+    <tr><td>Biancolilla </td><td>-</td><td>-</td></tr>    
+    <tr><td>Canino </td><td>-</td><td>-</td></tr>    
+    <tr><td>Casaliva </td><td>-</td><td>-</td></tr>    
+    <tr><td>Cellina di Nardo </td><td>-</td><td>-</td></tr> 
+    <tr><td>Cobrançosa </td><td>-</td><td>-</td></tr>    
+    <tr><td>Gentile di Chieti (Nostrana) </td><td>-</td><td>-</td></tr>    
+    <tr><td>Grossane </td><td>-</td><td>-</td></tr>    
+    <tr><td>Oliana  </td><td>-</td><td>-</td></tr> 
+    <tr><td>Patrinia </td><td>-</td><td>-</td></tr> 
+    <tr><td>Ravece </td><td>-</td><td>-</td></tr>
+    <tr><td>Sabine </td><td>-</td><td>-</td></tr>    
+    <tr><td>Sevillenca  </td><td>-</td><td>-</td></tr> 
+    <tr><td>Sikitita </td><td>-</td><td>-</td></tr> 
+    <tr><td>Verdale-de-l'Hérault </td><td>-</td><td>-</td></tr>
+    <tr><td>Throumbolia </td><td>-</td><td>-</td></tr>
+    <tr><td>Morrut / Morruda and Regués </td><td>-</td><td>-</td></tr>   
+    <tr><td>Nocellara del Belice </td><td>-</td><td>-</td></tr>
+    <tr><td>Megaritiki </td><td>-</td><td>-</td></tr>    
+    <tr><td>Kothreiki </td><td>-</td><td>-</td></tr>    
+    <tr><td>Gemlik </td><td>-</td><td>-</td></tr>    
+    <tr><td>Memeli </td><td>-</td><td>-</td></tr>    
+    <tr><td>Empeltre </td><td>-</td><td>-</td></tr> 
+    <tr><td>Domat </td><td>-</td><td>-</td></tr>    
+    <tr><td>Arbequina </td><td>-</td><td>-</td></tr>    
+    <tr><td>Lugano </td><td>-</td><td>-</td></tr>    
+    <tr><td>Memecik  </td><td>-</td><td>-</td></tr> 
+    <tr><td>Salonenque </td><td>-</td><td>-</td></tr> 
+    <tr><td>Nabali </td><td>-</td><td>-</td></tr>
+    <tr><td>Beruguette </td><td>-</td><td>-</td></tr>    
+    <tr><td>Aloreña  </td><td>-</td><td>-</td></tr> 
+    <tr><td>Amfissa </td><td>-</td><td>-</td></tr> 
+    <tr><td>Beldi </td><td>-</td><td>-</td></tr>
+    <tr><td>Cailletier / Niçoise </td><td>-</td><td>-</td></tr>    
+    <tr><td>Cerignola  </td><td>-</td><td>-</td></tr> 
+    <tr><td>Conservolea </td><td>-</td><td>-</td></tr> 
+    <tr><td>Gordal </td><td>-</td><td>-</td></tr>
+    <tr><td>Coratina Dolce Agogio </td><td>-</td><td>-</td></tr>    
+    <tr><td>Halkidiki  </td><td>-</td><td>-</td></tr> 
+    <tr><td>Hondroelia </td><td>-</td><td>-</td></tr> 
+    <tr><td>Kalamata </td><td>-</td><td>-</td></tr>
+    <tr><td>Hondroelia </td><td>-</td><td>-</td></tr>    
+    <tr><td>Lechín de Sevilla  </td><td>-</td><td>-</td></tr> 
+    <tr><td>Lucques </td><td>-</td><td>-</td></tr> 
+    <tr><td>Manzanilla </td><td>-</td><td>-</td></tr>
+    <tr><td>Mastoidis / Tsounati </td><td>-</td><td>-</td></tr>    
+    <tr><td>Picholine  </td><td>-</td><td>-</td></tr> 
+    <tr><td>Picual </td><td>-</td><td>-</td></tr> 
+    <tr><td>Mission </td><td>-</td><td>-</td></tr>
+    <tr><td>Napoleon </td><td>-</td><td>-</td></tr>    
+    <tr><td>Nocellara Etnea  </td><td>-</td><td>-</td></tr> 
+    <tr><td>Thassos </td><td>-</td><td>-</td></tr> 
+    <tr><td>Castelvetrano </td><td>-</td><td>-</td></tr>    
+    <tr><td>Galega </td><td>-</td><td>-</td></tr>
+    <tr><td>Germaine </td><td>-</td><td>-</td></tr>    
+    <tr><td>Nyons / Tanche  </td><td>-</td><td>-</td></tr> 
+    <tr><td>Olivière </td><td>-</td><td>-</td></tr> 
+    <tr><td>Sevillano </td><td>-</td><td>-</td></tr> 
