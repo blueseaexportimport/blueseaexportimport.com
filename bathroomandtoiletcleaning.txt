@@ -1,2 +1,21 @@
 <tbody>
+	<span id="en">Start Product:<br> Drain Cleaner</span><span id="ro">Start Produs:<br> Detartrant </span>
+	<span id="en">Start Product:<br> Toilet Freshener</span><span id="ro">Start Produs:<br> Odorizant WC </span>
+<tr><td><span id="en">Toilet Anti-calc Solution  750 Ml</span><span id="ro">Soluție anti-calcar toaletă  750 Ml<
+<tr><td><span id="en">Cif Spray Anti-Limescale </span><span id="ro">Cif Spray Anti-Limescale ( Anti-calcar )</span></td>
+<tr><td><span id="en">Toilet bowl cleaning tablets 100G</span><span id="ro">Tablete pentru curățare WC 100G</span></td>
+<tr><td><span id="en">Spray "Bathroom surfaces" 500Ml</span><span id="ro">Soluție curățat Baie 500Ml</span></td>
+<tr><td><span id="en"> Spray "Stainless steel" 435Ml</span><span id="ro">Soluție suprafețeInox 435Ml</span></td>
+
+       <tr><td><span id="en">Toilet bowl cleaning brush</span><span id="ro">Perie curățat wc</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Stainless steel surface sponge</span><span id="ro">Burete suprafețe inox</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Solution for cleaning ceramic surfaces</span><span id="ro">Soluție curățat suprafețe ceramice</span> </td><td>-</td><td>-</td></tr>         
+       <tr><td><span id="en">Pipe dredging agent</span><span id="ro">Soluție desfundat chiuvetă și țevi</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Drain cleaning pump</span><span id="ro">Pompă desfundat chiuvetă</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Bathtub - sink stoppers</span><span id="ro">Dopuri chiuvetă - baie cadă</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Polyphosphate granules - crystals</span><span id="ro">Granule polifosfat</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Absorbent sponge</span><span id="ro">Burete Absorbant</span></td><td>-</td><td>-</td></tr>  
+       <tr><td><span id="en">Moisture absorbent</span><span id="ro">Absorbant umezeală</span></td><td>-</td><td>-</td></tr>
+
 </tbody>
+
