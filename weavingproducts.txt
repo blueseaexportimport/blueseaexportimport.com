@@ -1,1 +1,6 @@
 
+    <tr><td><span id="en">Bamboo</span><span id="ro">Bambus</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Rattan</span><span id="ro">Ratan</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Reed</span><span id="ro">Răchită</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Willow ( Salix )</span><span id="ro">Salcie</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Broom sorghum</span><span id="ro">Sorg de mături</span></td><td>-</td><td>-</td></tr>
