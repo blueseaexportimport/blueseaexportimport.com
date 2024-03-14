@@ -1,2 +1,36 @@
 <tbody>
+
+       <tr><td>(P) Perfume floral aroma</td><td>-</td><td>-</td></tr>
+       <tr><td>(P) Perfume fruits aroma</td><td>-</td><td>-</td></tr>
+       <tr><td>(P) Perfume spices aroma</td><td>-</td><td>-</td></tr>              
+       <tr><td>(P) Perfume wood aroma</td><td>-</td><td>-</td></tr>   
+       <tr><td>(P) Perfume fern / green aroma</td><td>-</td><td>-</td></tr>   
+       <tr><td>(P) Perfume freshness aroma</td><td>-</td><td>-</td></tr>   
+       <tr><td>(P) Perfume citrus aroma</td><td>-</td><td>-</td></tr>
+       <tr><td>(P) Perfume oriental aroma</td><td>-</td><td>-</td></tr>     
+       <tr><td>(EdP) Eau de Parfume floral aroma</td><td>-</td><td>-</td></tr>
+       <tr><td>(EdP) Eau de Parfume fruits aroma</td><td>-</td><td>-</td></tr>
+       <tr><td>(EdP) Eau de Parfume spices aroma</td><td>-</td><td>-</td></tr>              
+       <tr><td>(EdP) Eau de Parfume wood aroma</td><td>-</td><td>-</td></tr>   
+       <tr><td>(EdP) Eau de Parfume fern / green aroma</td><td>-</td><td>-</td></tr>   
+       <tr><td>(EdP) Eau de Parfume freshness aroma</td><td>-</td><td>-</td></tr>   
+       <tr><td>(EdP) Eau de Parfume citrus aroma</td><td>-</td><td>-</td></tr>
+       <tr><td>(EdP) Eau de Parfume oriental aroma</td><td>-</td><td>-</td></tr>     
+       <tr><td>(EdT) Eau de Toilette floral aroma</td><td>-</td><td>-</td></tr>
+       <tr><td>(EdT) Eau de Toilette fruits aroma</td><td>-</td><td>-</td></tr>
+       <tr><td>(EdT) Eau de Toilette spices aroma</td><td>-</td><td>-</td></tr>              
+       <tr><td>(EdT) Eau de Toilette wood aroma</td><td>-</td><td>-</td></tr>   
+       <tr><td>(EdT) Eau de Toilette fern / green aroma</td><td>-</td><td>-</td></tr>   
+       <tr><td>(EdT) Eau de Toilette freshness aroma</td><td>-</td><td>-</td></tr>   
+       <tr><td>(EdT) Eau de Toilette citrus aroma</td><td>-</td><td>-</td></tr>
+       <tr><td>(EdT) Eau de Toilette oriental aroma</td><td>-</td><td>-</td></tr>
+       <tr><td>(EdC) Eau de Cologne floral aroma</td><td>-</td><td>-</td></tr>
+       <tr><td>(EdC) Eau de Cologne fruits aroma</td><td>-</td><td>-</td></tr>
+       <tr><td>(EdC) Eau de Cologne spices aroma</td><td>-</td><td>-</td></tr>              
+       <tr><td>(EdC) Eau de Cologne wood aroma</td><td>-</td><td>-</td></tr>   
+       <tr><td>(EdC) Eau de Cologne fern / green aroma</td><td>-</td><td>-</td></tr>   
+       <tr><td>(EdC) Eau de Cologne freshness aroma</td><td>-</td><td>-</td></tr>   
+       <tr><td>(EdC) Eau de Cologne citrus aroma</td><td>-</td><td>-</td></tr>
+       <tr><td>(EdC) Eau de Cologne oriental aroma</td><td>-</td><td>-</td></tr>
+
 </tbody>
