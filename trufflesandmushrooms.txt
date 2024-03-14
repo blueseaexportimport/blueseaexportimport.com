@@ -1,1 +1,13 @@
-
+    <tr><td>Tuber albidum </td><td><span id="en">Borchii truffle</span><span id="ro">Trufe Borchii</span></td><td>-</td></tr> 
+    <tr><td>Tuber magnatum </td><td><span id="en">White trufflet</span><span id="ro">Trufe Albe</span></td><td>-</td></tr> 
+    <tr><td>Tuber aestivum </td><td><span id="en">Summer black truffle</span><span id="ro">Trufe Negre de Vară</span></td><td>-</td></tr> 
+    <tr><td>Tuber uncinatum </td><td><span id="en">Burgundy truffle</span><span id="ro">Trufe Burgundy</span></td><td>-</td></tr> 
+    <tr><td>Tuber melanosporum </td><td><span id="en">Périgord truffle</span><span id="ro">Trufe Périgord</span></td><td>-</td></tr> 
+    <tr><td>Tuber brumale </td><td><span id="en">Winter truffle</span><span id="ro">Trufe de Iarnă</span></td><td>-</td></tr> 
+    <tr><td>Tuber mesentericum </td><td><span id="en">Bagnoli Irpino truffle</span><span id="ro">Trufe Bagnoli Irpino</span></td><td>-</td></tr> 
+    <tr><td>Tuber macrosporum </td><td><span id="en">Smooth black truffle</span><span id="ro">Trufe usturoiate</span></td><td>-</td></tr> 
+    <tr><td>Boletus edulis  </td><td><span id="en">Porcini mushrooms</span><span id="ro">Hribi cenușii</span></td><td>-</td></tr> 
+    <tr><td>Armillaria mellea </td><td><span id="en">Honey fungus</span><span id="ro">Ghebe</span></td><td>-</td></tr>  
+    <tr><td>Lentinula edodes </td><td><span id="en">Shiitake mushrooms</span><span id="ro">Shiitake</span></td><td>-</td></tr>  
+    <tr><td>Pleurotus ostreatus</td><td><span id="en">Pleurotus mushrooms</span><span id="ro">Pleurotus</span></td><td>-</td></tr>  
+    <tr><td>Agaricus bisporus </td><td><span id="en">Champignon mushrooms</span><span id="ro">Champignon</span></td><td>-</td></tr>
