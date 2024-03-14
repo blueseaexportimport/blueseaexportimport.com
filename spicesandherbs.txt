@@ -1,1 +1,94 @@
 
+     <tr><td><span id="en">Marjoram</span><span id="ro">Măghiran</span></td><td>  
+     <tr><td><span id="en">Thyme</span><span id="ro">Cimbru</span></td><td>  
+     <tr><td><span id="en">Basil</span><span id="ro">Busuioc</span></td><td>  
+    <tr><td><span id="en">Parsley</span><span id="ro">Pătrunjel</span></td><td>  
+
+    <tr><td><span id="en">Tarragon</span><span id="ro">Tarhon</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Garden cress</span><span id="ro">Creson de grădină</span></td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Oregano</span><span id="ro">Oregano</span> </td><td>-</td><td>-</td></tr> 
+
+   <tr><td><span id="en">Rosemary</span><span id="ro">Rozmarin</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Nutmeg</span><span id="ro">Nucșoară</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Calabash Nutmeg</span><span id="ro">Nucșoară Calabash</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Liquorice root</span><span id="ro">Rădăcină Lemn Dulce</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Fingerroot</span><span id="ro">Rădăcină Fingerroot</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Orris</span><span id="ro">Rădăcină Orris</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Galangal</span><span id="ro">Rădăcină Galangal</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Ginseng</span><span id="ro">Rădăcină Ginseng</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Wasabi root</span><span id="ro">Rădăcină Wasabi</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Sarsaparilla</span><span id="ro">Rădăcină Sarsaparilla</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Turmeric</span><span id="ro">Rădăcină Turmeric</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Ginger</span><span id="ro">Rădăcină Ghimbir</span> </td><td>-</td><td>-</td></tr>     
+    <tr><td><span id="en">Cinnamon ceylon</span><span id="ro">Scorțișoară ceylon</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Cinnamon canella</span><span id="ro">Scorțișoară canella</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Cinnamon cassia</span><span id="ro">Scorțișoară cassia<</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Cinnamon vietnam</span><span id="ro">Scorțișoară vietnam</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Azafrán de bolita</span><span id="ro">Șofran de bolita</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Spanish Saffron</span><span id="ro">Șofran de Spania</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Iranian Saffron</span><span id="ro">Șofran de Iran</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Schinduf seeds</span><span id="ro">Semințe Schinduf</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Ajwain seeds</span><span id="ro">Semințe Ajwain</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Cumin seeds</span><span id="ro">Semințe Chimion</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Cardamom</span><span id="ro">Semințe Cardamom</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Black Cardamom</span><span id="ro">Semințe Cardamom Negru</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Anise</span><span id="ro">Semințe Anason</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Star Anise</span><span id="ro">Semințe Anason Stelat</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Coriander seeds</span><span id="ro">Semințe Coriandru</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Annatto seeds</span><span id="ro">Semințe Annatto</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Mahleb seeds</span><span id="ro">Semințe Mahleb</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Charoli seeds</span><span id="ro">Semințe Charoli</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Jakhya seeds</span><span id="ro">Semințe Jakhya</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Wattleseed - Australian Acacia</span><span id="ro">Semințe Acacia Australian</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Radhuni seeds</span><span id="ro">Semințe Radhuni</span> </td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Quinoa seeds</span><span id="ro">Semințe Quinoa</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Amaranth seeds</span><span id="ro">Semințe Amaranth</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Kañiwa seeds</span><span id="ro">Semințe Kañiwa</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Sumac seeds</span><span id="ro">Semințe Sumac</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Hanza - Boscia senegalensis </span><span id="ro">Semințe Hanza - Boscia senegalensis</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Fenugreek seeds</span><span id="ro">Semințe Fenicul</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Caraway seeds</span><span id="ro">Semințe Chimen</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Black cumin seeds</span><span id="ro">Semințe Negrilică</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Asafoetida gum</span><span id="ro">Gumă Asafoetida</span> </td><td>-</td><td>-</td></tr> 
+
+    <tr><td><span id="en">Cloves amboyan</span><span id="ro">Cuișoare amboyan</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Vanilla pods bourbon</span><span id="ro">Păstăi Vanilie Bourbon</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Tamarind pods</span><span id="ro">Păstăi Tamarind</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Golpar pods</span><span id="ro">Păstăi Golpar</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Carob pods</span><span id="ro">Păstăi Carob / Roșcov</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Tonka beans</span><span id="ro">Boabe Tonka</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Gaultheria beans</span><span id="ro">Boabe Gaultheria</span> </td><td>-</td><td>-</td></tr>    
+   
+    <tr><td><span id="en">Bay leaves defne yapragi</span><span id="ro">Frunze dafin defne yapragi</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Kaffir lime leaves</span><span id="ro">Frunze lime Kaffir</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pandan leaves</span><span id="ro">Frunze Pandan</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Avocado leaves</span><span id="ro">Frunze Avocado</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Chervil leaves</span><span id="ro">Frunze lime Chervil</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Curry leaves</span><span id="ro">Frunze lime Kaffir</span></td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Cinnamon leaves</span><span id="ro">Frunze lime Chervil</span></td><td>-</td><td>-</td></tr> 
+
+    <tr><td><span id="en">Malabar Tamarind - Camboge</span><span id="ro">Tamarind Malabar - Camboge</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Dehydrated Garlic Powder</span><span id="ro">Pudră usturoi deshidratat</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Dehydrated Onion Powder</span><span id="ro">Pudră ceapă deshidratată</span> </td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Nutmace / Nutmeg flower </span><span id="ro">Floare de nucșoară</span> </td><td>-</td><td>-</td></tr>    
+	  
+    <tr><td><span id="en">Black Pepper kottanadan</span><span id="ro">Kottanadan - Piper negru clasic</span> <br>( <span id="en">South East Asia</span><span id="ro">Asia de Sud Est</span> )</td><td>-</td><td>-</td></tr>        
+    <tr><td><span id="en">Cubeb Pepper</span><span id="ro">Piper Cubeb</span> <br>( <span id="en">South East Asia</span><span id="ro">Asia de Sud Est</span> )</td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Green Pepper</span><span id="ro">Piper Verde</span>  <br>( <span id="en">South East Asia</span><span id="ro">Asia de Sud Est</span> )</td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">White Pepper</span><span id="ro">Piper Alb</span>  <br>( <span id="en">South East Asia</span><span id="ro">Asia de Sud Est</span> )</td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Sechuan Pepper</span><span id="ro">Piper Sechuan</span>  <br>( <span id="en">South East Asia</span><span id="ro">Asia de Sud Est</span> )</td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Japanese Pepper</span><span id="ro">Piper Japonez</span>  <br>( <span id="en">South East Asia</span><span id="ro">Asia de Sud Est</span>)</td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Kerala / Malabar Pepper</span><span id="ro">Piper Kerala / Malabar</span>  <br>( <span id="en">South East Asia</span><span id="ro">Asia de Sud Est</span> )</td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Long Pepper</span><span id="ro">Piper Lung</span>  <br>( <span id="en">South East Asia</span><span id="ro">Asia de Sud Est</span> )</td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Penja white pepper</span><span id="ro">Piper Alb Penja</span>  <br>( <span id="en">West Africa</span><span id="ro">Africa de Vest</span> )</td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Alligator / Mbongo pepper</span><span id="ro">Piper Alligator / Mbongo</span>  <br>( <span id="en">West Africa</span><span id="ro">Africa de Vest</span> )</td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Guinea pepper - Selim beans</span><span id="ro">Piper Guinea sau Boabe Selim</span><br>( <span id="en">West Africa</span><span id="ro">Africa de Vest</span> )</td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Kani pepper</span><span id="ro">Piper Kani</span> <br>( <span id="en">West Africa</span><span id="ro">Africa de Vest</span> )</td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Benin pepper - Piper guineense</span><span id="ro">Piper Benin sau Piper guineense</span> <br>( <span id="en">West Africa</span><span id="ro">Africa de Vest</span> )</td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Dorrigo pepper</span><span id="ro">Piper Dorrigo</span> <br>(  <span id="en">Australia and Oceania</span><span id="ro">Australia și Oceania</span> )</td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Tasmanian pepperberry</span><span id="ro">Piper Tasmanian</span> <br>( A<span id="en">Australia and Oceania</span><span id="ro">Australia și Oceania</span> )</td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Kawakawa pepper</span><span id="ro">Piper Kawakawa</span> <br>( <span id="en">Australia and Oceania</span><span id="ro">Australia și Oceania</span> )</td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Brazilian pepper - rose pepper</span><span id="ro">Piper Brazilian sau piper roze</span> <br>( <span id="en">South and Central America</span><span id="ro">America Centrală și de Sud</span> )</td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Peruvian pepper</span><span id="ro">Piper Peruvian</span><br>( <span id="en">South and Central America</span><span id="ro">America Centrală și de Sud</span> )</td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Jamaican pepper - Allspice</span><span id="ro">Piper Jamaican - Allspice</span><br>( <span id="en">South and Central America</span><span id="ro">America Centrală și de Sud</span> )</td><td>-</td><td>-</td></tr>
+    <tr><td><span id="en">Voa pepper - Allspice</span><span id="ro">Piper Voa - Allspice</span><br>( <span id="en">East Africa</span><span id="ro">Africa de Est</span> )</td><td>-</td><td>-</td></tr>
