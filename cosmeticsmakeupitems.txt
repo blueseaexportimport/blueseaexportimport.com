@@ -32,4 +32,69 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
+
+
+<!--
+       <tr><td>Lipgloss</td><td>-</td><td>-</td></tr>
+       <tr><td>Lipstick</td><td>-</td><td>-</td></tr>
+       <tr><td>Mascara</td><td>-</td><td>-</td></tr>              
+       <tr><td>Makeup sponge with handle</td><td>-</td><td>-</td></tr>
+       <tr><td>Make-up corrector stick</td><td>-</td><td>-</td></tr>
+       <tr><td>Beauty blender sponge</td><td>-</td><td>-</td></tr>
+       <tr><td>Silicone makeup blender</td><td>-</td><td>-</td></tr>
+       <tr><td>Makeup remover sponge</td><td>-</td><td>-</td></tr>              
+       <tr><td>Face concealer</td><td>-</td><td>-</td></tr>
+       <tr><td>Makeup kit</td><td>-</td><td>-</td></tr>
+       <tr><td>Contour pencil</td><td>-</td><td>-</td></tr>
+       <tr><td>Eyelashes line ink</td><td>-</td><td>-</td></tr>
+       <tr><td>Makeup remover discs</td><td>-</td><td>-</td></tr>
+       <tr><td>Makeup remover wipes</td><td>-</td><td>-</td></tr>
+       <tr><td>Eye contour pencil</td><td>-</td><td>-</td></tr>      
+       <tr><td>Face spray</td><td>-</td><td>-</td></tr>
+       <tr><td>Makeup primer spray</td><td>-</td><td>-</td></tr>
+       <tr><td>Make-up fixing spray</td><td>-</td><td>-</td></tr>
+       <tr><td>Chamomile water</td><td>-</td><td>-</td></tr>
+       <tr><td>Cornflower water</td><td>-</td><td>-</td></tr>
+       <tr><td>Lavender water</td><td>-</td><td>-</td></tr>
+       <tr><td>Cleansing milk</td><td>-</td><td>-</td></tr>       
+       <tr><td>Make-up corrector brush</td><td>-</td><td>-</td></tr>
+       <tr><td>Precision make-up contouring brush</td><td>-</td><td>-</td></tr>
+       <tr><td>Kabuki make-up brush</td><td>-</td><td>-</td></tr>
+       <tr><td>Makeup lip definition brush</td><td>-</td><td>-</td></tr>
+       <tr><td>Makeup eyebrow definition brush</td><td>-</td><td>-</td></tr>
+       <tr><td>Makeup blending brush</td><td>-</td><td>-</td></tr>
+       <tr><td>Brush for homogenizing make-up blush</td><td>-</td><td>-</td></tr>      
+       <tr><td>Makeup tiny brush</td><td>-</td><td>-</td></tr>
+       <tr><td>Precision make-up contouring brush</td><td>-</td><td>-</td></tr>
+       <tr><td>Flat brush for spreading blush</td><td>-</td><td>-</td></tr>
+       <tr><td>Flat blush brush</td><td>-</td><td>-</td></tr>
+       <tr><td>Makeup fan brush</td><td>-</td><td>-</td></tr>
+       <tr><td>Makeup brush</td><td>-</td><td>-</td></tr>
+       <tr><td>Gloss and base with volume base effect</td><td>-</td><td>-</td></tr>
+       <tr><td>Eyebrow marker</td><td>-</td><td>-</td></tr>
+       <tr><td>Eye shadow palette</td><td>-</td><td>-</td></tr>
+       <tr><td>Eyelash tweezers</td><td>-</td><td>-</td></tr>
+       <tr><td>Eyebrow pencil</td><td>-</td><td>-</td></tr>
+       <tr><td>False eyelashes</td><td>-</td><td>-</td></tr>
+       <tr><td>Foundation</td><td>-</td><td>-</td></tr>
+       <tr><td>Make-up base</td><td>-</td><td>-</td></tr>
+       <tr><td>Blush</td><td>-</td><td>-</td></tr>
+       <tr><td>Eye shadow</td><td>-</td><td>-</td></tr>
+       <tr><td>Concealer Primer</td><td>-</td><td>-</td></tr>
+       <tr><td>Liquid lipstick</td><td>-</td><td>-</td></tr>
+       <tr><td>Bronzing powder</td><td>-</td><td>-</td></tr> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </tbody>
