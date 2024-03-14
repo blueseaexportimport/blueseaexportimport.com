@@ -1,1 +1,17 @@
-
+   <tr><td><span id="en">Pet Birds Food Black Oil Sunflower Seed</span><span id="ro">Hrană Păsări de Companie Semințe de floarea soarelui negre </span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Pet Birds Food Striped Sunflower Seed</span><span id="ro">Hrană Păsări de Companie Semințe de floarea soarelui pestrițe </span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Pet Birds Food Sunflower hearts</span><span id="ro">Hrană Păsări de Companie Miez Semințe de floarea soarelui</span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Pet Birds Food Sunflower chips</span><span id="ro">Hrană Păsări de Companie Spărtură Miez Semințe de floarea soarelui</span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Pet Birds Food Whole peanuts</span><span id="ro">Hrană Păsări de Companie Alune de pământ </span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Pet Birds Food Peanut splits</span><span id="ro">Hrană Păsări de Companie Jumătăți Alune de pământ </span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Pet Birds Food Peanut granules</span><span id="ro">Hrană Păsări de Companie Granule Alune de pământ</span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Pet Birds Food Safflower Seeds</span><span id="ro">Hrană Păsări de Companie Semințe Șofrănel </span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Pet Birds Food Hulled Sunflower Seeds</span><span id="ro">Hrană Păsări de Companie Coji Semințe de floarea soarelui</span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Pet Birds Food Nyjer</span><span id="ro">Hrană Păsări de Companie Semințe Niger </span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Pet Birds Food Millet</span><span id="ro">Hrană Păsări de Companie Semințe Mei</span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Pet Birds Food Seeds Mix</span><span id="ro">Hrană Păsări de Companie Mix Semințe</span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Pet Birds Food Cracked Corn</span><span id="ro">Hrană Păsări de Companie Spărtură de Porumb</span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Pet Birds Food Suet Balls</span><span id="ro">Hrană Păsări de Companie Bile de Seu</span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Pet Birds Food Suet Pellets</span><span id="ro">Hrană Păsări de Companie Bile de Seu</span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Pet Birds Food Suet Blocks</span><span id="ro">Hrană Păsări de Companie Peleți de Seu</span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Pet Birds Food Suet Coconut shells</span><span id="ro">Hrană Păsări de Companie Coji nuci de cocos </span></td><td>-</td><td>-</td></tr>
