@@ -1,1 +1,19 @@
-
+    <tr><td><span id="en">Chicken Bone-in thighs</span><span id="ro" >Pulpe superioare de pui cu os</span></td><td>-</td></tr>  
+    <tr><td><span id="en">Chicken Boneless, skinless thighs</span><span id="ro" >Pulpe superioare de pui dezosate fără piele</span></td><td>-</td></tr>   
+    <tr><td><span id="en">Chicken wings</span><span id="ro" >Aripioare de pui</span></td><td>-</td></tr>   
+    <tr><td><span id="en">Whole chicken</span><span id="ro" >Pui întreg</span></td><td>-</td></tr>  
+    <tr><td><span id="en">Whole chicken – with neck</span><span id="ro" >Pui întreg cu gât</span></td><td>-</td></tr>   
+    <tr><td><span id="en">Whole chicken with neck and feet</span><span id="ro" >Pui întreg cu gât și picioare</span></td><td>-</td></tr>  
+    <tr><td><span id="en">Chicken gizzards and hearts</span><span id="ro" >Pipote și inimi de pui</span></td><td>-</td></tr>   
+    <tr><td><span id="en">Chicken Boneless, skinless breast</span><span id="ro" >Piept de pui dezosat fără piele</span></td><td>-</td></tr>  
+    <tr><td><span id="en">Chicken livers</span><span id="ro" >Ficăței de pui</span></td><td>-</td></tr>   
+    <tr><td><span id="en">Chicken Bone-in drumsticks</span><span id="ro" >Pulpe inferioare de pui cu os și piele</span></td><td>-</td></tr>  
+    <tr><td><span id="en">Chicken mince - made of boneless, skinless breast and legs</span><span id="ro" >Carne tocată din pulpă dezosată cu piele și piept de pui</span></td><td>-</td></tr>   
+    <tr><td><span id="en">Chicken Boneless thigh</span><span id="ro" >Pulpe superioare de pui fără os</span></td><td>-</td></tr>  
+    <tr><td><span id="en">Chicken bones</span><span id="ro" >Oase pui</span></td><td>-</td></tr>  
+    <tr><td><span id="en">Chicken heads and feet</span><span id="ro" >Capete și gheare de pui</span></td><td>-</td></tr>  	
+    <tr><td><span id="en">Chicken backs</span><span id="ro" >Spinări de pui</span></td><td>-</td></tr>   
+    <tr><td><span id="en">Chicken Boneless, skinless legs</span><span id="ro" >Pulpe întregi dezosate fără piele</span></td><td>-</td></tr>   
+    <tr><td><span id="en">Chicken thighs with back portions</span><span id="ro" >Pulpe de pui cu spate</span></td><td>-</td></tr>   
+    <tr><td><span id="en">Chicken Bone-in breast</span><span id="ro" >Piept de pui cu os și piele</span></td><td>-</td></tr>   
+    <tr><td><span id="en">Chicken necks</span><span id="ro" >Gâturi de pui</span></td><td>-</td></tr>  
