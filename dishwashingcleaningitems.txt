@@ -1,2 +1,28 @@
 <tbody>
+
+	<span id="en">Start Product:<br> Dish detergent</span>
+	<span id="ro">Start Produs:<br> Detergent vase </span>
+
+	<span id="en">Start Product:<br> Dishwasher tablets</span>
+	<span id="ro">Start Produs:<br> Tablete mașină spălat vase </span>
+
+	<span id="en">Start Product:<br> Universal Cleaner</span>
+	<span id="ro">Start Produs:<br> Cremă curățat universală </span>
+
+       <tr><td><span id="en">Dishes cleaning powder</span><span id="ro">Praf de curățat vase</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Dishwashing paste</span><span id="ro">Pastă curățat vase</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Dishwashing abrasive cream</span><span id="ro">Cremă abrazivă</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Dishwasher pods</span><span id="ro">Detergent capsule mașină spălat vase</span> </td><td>-</td><td>-</td></tr>         
+       <tr><td><span id="en">Oval dish sponge</span><span id="ro">Burete de vase oval</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Dish sponge</span><span id="ro">Burete de vase</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Dish sponge copper microparticles</span><span id="ro">Burete vase microparticule cupru</span></td><td>-</td><td>-</td></tr>  
+       <tr><td><span id="en">Wire Dish Scrubber</span><span id="ro">Burete sârmă</span></td><td>-</td><td>-</td></tr>   
+       <tr><td><span id="en">Sponge for difficult surfaces</span><span id="ro">Burete suprafețe dificile</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Perforated dishcloth</span><span id="ro">Lavete de vase cu perforare</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Abrasive dishcloth</span><span id="ro">Lavete abrazive</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Double sided dishcloth soft and abrasive</span><span id="ro">Lavetă de vase cu două fețe abrazivă și soft</span></td><td>-</td><td>-</td></tr>        
+       <tr><td><span id="en">Dishwasher salt</span><span id="ro">Sare mașină spălat vase</span></td><td>-</td><td>-</td></tr>   
+
+
+
 </tbody>
