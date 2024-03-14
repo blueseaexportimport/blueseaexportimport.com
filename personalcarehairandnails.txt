@@ -34,6 +34,61 @@
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >155 RON / 1000g</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
+<!--
+
+       <tr><td><span id="en">Straight Razor</span><span id="ro">Brici</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Nail polish 6ml - different colors</span><span id="ro">Lac de acoperire unghii 6ml - culori diferite</span></td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Nail polish remover - without acetone</span><span id="ro">Dizolvant ojă fără Acetonă</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Nail clippers Small 6cm</span><span id="ro">Unghieră mică 6cm</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Nail clippers Big 8cm</span><span id="ro">Unghieră mare 8cm</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Cuticle scissors - Stainless steel</span><span id="ro">Foarfece pentru cuticule - oțel inoxidabil</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Nail pliers - Stainless steel</span><span id="ro">Clește unghii - oțel inoxidabil</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Nail file with 2 sides coarse - fine</span><span id="ro">Pilă unghii cu două fețe aspru - fin</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Nail buffer 2pcs in a box</span><span id="ro">Buffer unghii 2 buc în cutie</span></td><td>-</td><td>-</td></tr>  
+       <tr><td><span id="en">Nail treatment</span><span id="ro">Tratament unghii</span></td><td>-</td><td>-</td></tr>  
+       <tr><td><span id="en">Hair conditioner</span><span id="ro">Balsam de păr</span></td><td>-</td><td>-</td></tr>         
+       <tr><td><span id="en">Root touch-up temporary hair coloring spray - different colors</span><span id="ro">Spray temporar pentru colorarea rădăcinilor - culori diferite</span></td><td>-</td><td>-</td></tr>  
+       <tr><td><span id="en">Perfumed hair spray</span><span id="ro">Spray parfumat păr</span></td><td>-</td><td>-</td></tr>         
+       <tr><td><span id="en">Hair mousse - foam spray</span><span id="ro">Spray mousse - spumă de păr</span></td><td>- </td><td>-</td></tr>  
+       <tr><td><span id="en">Hair oxidizing cream 60ml 9% hydrogen peroxide</span><span id="ro">Cremă oxidantă de păr 60ml 9% peroxid de hidrogen</span></td><td>-</td><td>-</td></tr>         
+       <tr><td><span id="en">Hair gel</span><span id="ro">Gel de păr</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Hair modeling wax</span><span id="ro">Ceară modelare păr</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Hair growth serum without silicon</span><span id="ro">Ser creștere păr fară silicon</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Hair smoothing serum</span><span id="ro">Ser pentru netezire păr</span></td><td>-</td><td>-</td></tr>         
+       <tr><td><span id="en">Dry hair shampoo</span><span id="ro">Șampon păr uscat</span></td><td>-</td><td>-</td></tr>         
+       <tr><td><span id="en">Normal hair shampoo</span><span id="ro">>Șampon păr normal</span></td><td>-</td><td>-</td></tr>  
+       <tr><td><span id="en">Men hair shampoo</span><span id="ro">Șampon păr bărbați</span></td><td>-</td><td>-</td></tr>         
+       <tr><td><span id="en">Hair dye 1pcs - different colors</span><span id="ro">Vopsea de păr - culori diferite</span></td><td>-</td><td>-</td></tr>         
+       <tr><td><span id="en">Hair bleaching powder</span><span id="ro">Pudră pentru decolorarea părului</span></td><td>-</td><td>-</td></tr>  
+       <tr><td><span id="en">Hair fixative</span><span id="ro">Fixativ păr</span></td><td>-</td><td>-</td></tr>         
+       <tr><td><span id="en">Shaving cream</span><span id="ro">Cremă de ras</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Beard oil</span><span id="ro">Ulei barbă</span></td><td> </td><td>-</td></tr>  
+       <tr><td><span id="en">Depilatory wax - Recyclable Wax</span><span id="ro">Ceară pentru depilare - Ceară Reciclabilă</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Hair Removal Tape For Face</span><span id="ro">Bandă pentru îndepărtarea părului pentru față</span></td><td>-</td><td>-</td></tr>  
+       <tr><td><span id="en">Hair Removal Tape For Body</span><span id="ro">Bandă pentru îndepărtarea părului pentru corp</span></td><td>-</td><td>-</td></tr>  
+       <tr><td><span id="en">Hair clips</span><span id="ro">Agrafe păr</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Hair clipper</span><span id="ro">Clamă de păr</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Hair elastic</span><span id="ro">Elastic păr</span></td><td>-</td><td>-</td></tr>        
+       <tr><td><span id="en">Electric shaver</span><span id="ro">Aparat ras electric</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Electric ear and nose hair shaver</span><span id="ro">Aparat tuns păr urechi / nas</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Hair brush</span><span id="ro">Perie păr</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Hair comb</span><span id="ro">Pieptăn păr</span></td><td>-</td><td>-</td></tr>   
+       <tr><td><span id="en">Hairdryer</span><span id="ro">Uscător par</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Shaving soap</span><span id="ro">Săpun de bărbierit</span></td><td>-</td><td>-</td></tr>    
+	<span id="en">Start Product:<br> Razor with spare blades</span><span id="ro">Start Produs:<br> Aparat ras cu lame rezervă</span>
+	<span id="en">Start Product:<br> Disposable Razor</span><span id="ro">Start Produs:<br> Aparat ras unică folosință</span>
+	<span id="en">Start Product:<br> Razor blades reserves</span><span id="ro">Start Produs:<br> Lame de ras</span>
+	<span id="en">Start Product:<br> Aftershave lotion</span><span id="ro">Start Produs:<br> Aftershave lotion</span>
+	<span id="en">Start Product:<br> After Shave</span><span id="ro">Start Produs:<br> After Shave </span>
+	<span id="en">Start Product:<br> Shaving foam</span><span id="ro">Start Produs:<br> Spumă de ras </span>
+	<span id="en">Start Product:<br> Shaving gel</span><span id="ro">Start Produs:<br> Gel de ras </span>
+<tr><td><span id="en">Hair Balm</span><span id="ro">Balsam păr</span></td>
+	<span id="en">Start Product:<br> Hair mask</span><span id="ro">Start Produs:<br> Mască de pâr  </span>
+-->
+
+
+
+
 
 </tbody>
 
