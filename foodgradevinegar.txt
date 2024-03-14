@@ -1,2 +1,12 @@
 <tbody>
+    <tr><td><span id="en">Red wine vinegar</span><span id="ro">Oțet vin roșu</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">White wine vinegar</span><span id="ro">Oțet vin alb</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Apple vinegar</span><span id="ro">Oțet de mere</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Honey vinegar</span><span id="ro">Oțet de miere</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Honey and apples vinegar</span><span id="ro">Oțet de mere și miere</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Red oranges vinegar</span><span id="ro">Oțet de portocale roșii</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Pomegranate vinegar</span><span id="ro">Oțet de rodii</span> </td><td>-</td><td>-</td></tr> 
+    <tr><td><span id="en">Balsamic vinegar</span><span id="ro">Oțet balsamic</span> </td><td>-</td><td>-</td></tr> 
+
+
 </tbody>
