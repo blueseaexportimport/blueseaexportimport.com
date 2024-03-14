@@ -1,1 +1,5 @@
-
+       <tr><td>Welding stick electrode</td><td>- </td><td>-</td></tr>
+       <tr><td>Welding solid wire</td><td>- </td><td>-</td></tr>
+       <tr><td>Welding flux-cored wire</td><td>- </td><td>-</td></tr>
+       <tr><td>Welding submerged arc welding ( SAW ) wire</td><td>- </td><td>-</td></tr>
+       <tr><td>Welding flux</td><td>- </td><td>-</td></tr>
