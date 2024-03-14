@@ -1,1 +1,6 @@
-
+    <tr><td><span id="en">Romanian vegetables and meat ghiveci ( a stew ) </span><span id="ro">Ghiveci de carne</span> </td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Pasta and meat</span><span id="ro">Paste cu carne</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Rice pilaf and meat</span><span id="ro">Pilaf cu carne</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Chicken meatballs in white sauce</span><span id="ro">Perișoare de carne în sos alb</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Meat and sauteed carrots</span><span id="ro">Sote de morcovi cu carne</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Quince and meat</span><span id="ro">Gutui cu carne</span></td><td>-</td><td>-</td></tr>  
