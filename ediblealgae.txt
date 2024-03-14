@@ -1,1 +1,13 @@
 
+    <tr><td>Palmaria palmata</td><td><span id="en">Dulse</span><span id="ro">Dulse roșu</span></td><td>-</td></tr>    
+    <tr><td>Chondrus crispus</td><td><span id="en">Irish moss</span><span id="ro">Mușchi irlandez</span></td><td>-</td></tr>    
+    <tr><td>Chlorella</td><td><span id="en">Chlorella</span><span id="ro">Chlorella</span></td><td>-</td></tr>    
+    <tr><td>Ulva intestinalis</td><td><span id="en">Sea lettuce</span><span id="ro">Salată de mare</span></td><td>-</td></tr>    
+    <tr><td>Caulerpa lentillifera</td><td><span id="en">Sea grapes</span><span id="ro">Struguri de mare</span></td><td>-</td></tr>
+    <tr><td>Porphyra umbilicalis</td><td><span id="en">Nori</span><span id="ro">Nori</span></td><td>-</td></tr>
+    <tr><td>Alaria esculenta</td><td><span id="en">Atlantic Wakame</span><span id="ro">Kelp înaripat</span></td><td>-</td></tr>    
+    <tr><td>Saccharina latissima</td><td><span id="en">Kombu / Sugar Kelp</span><span id="ro">Alge de zahăr</span></td><td>-</td></tr>    
+    <tr><td>Fucus vesiculosus</td><td><span id="en">Fucus</span><span id="ro">Alge brune</span></td><td>-</td></tr>
+    <tr><td>Sargassum fusiforme</td><td><span id="en">Hijiki</span><span id="ro">Hiziki</span></td><td>-</td></tr>
+    <tr><td>Himanthalia elongata</td><td><span id="en">Sea Spaghetti</span><span id="ro">Spaghete de mare</span></td><td>-</td></tr>
+    <tr><td>Cladosiphon okamuranus</td><td><span id="en">Mozuku</span><span id="ro">Mozuku</span></td><td>-</td></tr>
