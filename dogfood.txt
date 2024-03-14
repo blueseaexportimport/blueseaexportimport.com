@@ -1,3 +1,4 @@
     <tr><td><span id="en">Dry Dog Food</span><span id="ro">Hrană caini uscată</span></td><td>-</td><td>-</td></tr>
     <tr><td><span id="en">Wet Dog Food</span><span id="ro">Hrană caini umedă</span></td><td>-</td><td>-</td></tr>
     <tr><td><span id="en">Raw Dog Food</span><span id="ro">Hrană caini crudă</span></td><td>-</td><td>-</td></tr>
+<tr><td><span id="en">Dog Food Reward</span><span id="ro">Hrană câini recompensă/span></td><td>-</td><td>-</td></tr>
