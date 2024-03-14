@@ -295,7 +295,34 @@
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-    
+<!--
+       <tr><td>Glass electrical insulator </td><td>Model Xyz Pin Insulator </td><td>-</td></tr>
+       <tr><td>Porcelain electrical insulator</td><td>Model Xyz Post Insulator </td><td>-</td></tr>
+       <tr><td>Glass electrical insulator </td><td>Model Xyz Suspension Insulator </td><td>-</td></tr>
+       <tr><td>Ceramic electrical insulator</td><td>Model Xyz Strain Insulator  </td><td>-</td></tr>
+       <tr><td>Ceramic electrical insulator</td><td>Model Xyz Shackle Insulator  </td><td>-</td></tr> 
+       <tr><td>Rubber electrical insulator</td><td>Model Xyz </td><td>-</td></tr>  
+       <tr><td>Substation / Skid Mounted Transformer </td><td>Model xyz </td><td>-</td></tr>
+       <tr><td>Distribution Transformer </td><td>Model xyz 35kv Three Phase</td><td>-</td></tr>
+       <tr><td>Distribution Transformer </td><td>Model xyz 20kv Three Phase</td><td>-</td></tr>
+       <tr><td>Distribution Transformer </td><td>Model xyz 10kv Three Phase</td><td>-</td></tr>
+       <tr><td>Furnace Transformer </td><td>Model xyz</td><td>-</td></tr>
+       <tr><td>Power Transformer </td><td>Model xyz 66kV</td><td>-</td></tr>
+       <tr><td>Power Transformer </td><td>Model xyz 110kV</td><td>-</td></tr>               
+       <tr><td>Power Transformer </td><td>Model xyz 132kV</td><td>-</td></tr>                
+       <tr><td>Power Transformer </td><td>Model xyz 230 kV</td><td>-</td></tr> 
+       <tr><td>Pole Mounted Transformer </td><td>Model xyz</td><td>-</td></tr> 
+       <tr><td>Pad Mounted Transformer </td><td>Model xyz Three Phase</td><td>-</td></tr>                   
+       <tr><td>Pad Mounted Transformer </td><td>Model xyz Single Phase</td><td>-</td></tr>  
+       <tr><td>Fuseless Capacitor </td><td>Model xyz</td><td>-</td></tr> 
+       <tr><td>Internally Fused  Capacitor </td><td>Model xyz Three Phase</td><td>-</td></tr>                   
+       <tr><td>Externally Fused Capacitor </td><td>Model xyz Single Phase</td><td>-</td></tr>   
+       <tr><td>Air Blast circuit breaker </td><td>Model xyz</td><td>-</td></tr> 
+       <tr><td>Vacuum Circuit Breaker </td><td>Model xyz Three Phase</td><td>-</td></tr>                   
+       <tr><td>SF6 (Sulphur Hexafluoride) circuit breaker  </td><td>Model xyz Single Phase</td><td>-</td></tr>   
+       <tr><td>Bulk Oil Circuit Breaker </td><td>Model xyz Single Phase</td><td>-</td></tr>   
+       <tr><td>Minimum Oil Circuit Breaker </td><td>Model xyz Single Phase</td><td>-</td></tr>
+-->
 
 
 </tbody>
