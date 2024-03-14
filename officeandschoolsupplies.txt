@@ -1,1 +1,65 @@
 
+
+	   
+       <tr><td><span id="en">Drawing block</span><span id="ro">Bloc desen</span></td><td>-</td><td>-</td></tr>        
+       <tr><td><span id="en">A4 Maths Notepad</span><span id="ro">Caiet A4 matematică</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">A4 Music Notepad</span><span id="ro">Caiet A4 muzică</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">A5 Biology Notepad</span><span id="ro">Caiet A4 biologie</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">A4 Spiral Notepad</span><span id="ro">Caiet A4 matematică cu spirală</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Blue indigo paper A4</span><span id="ro">Hârtie indigo albastru A4</span></td><td>-</td><td>-</td></tr>        
+       <tr><td><span id="en">Black indigo paper A4</span><span id="ro">Hârtie indigo negru A4</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Colored paper set</span><span id="ro">Hârtie colorată</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">A4 copier paper 500pcs 80 g/m2 set</span><span id="ro">Hârtie A4 copiator 500buc 80 g/m2 set</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Sticker paper</span><span id="ro">Hârtie abțibild / autocolantă</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Photo paper</span><span id="ro">Hârtie foto</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Eco paper, thermal paper roll</span><span id="ro">Hârtie eco case marcat role</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Self-adhesive labels</span><span id="ro">Etichete autoadezive</span></td><td>-</td><td>-</td></tr>        
+       <tr><td><span id="en">Sticky notes</span><span id="ro">Bloc notițe adezive</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Cardboard folder with rail</span><span id="ro">Dosar carton cu șină </span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Folder binder</span><span id="ro">Suport dosare</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Stapler</span><span id="ro">Capsator</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Staple remover</span><span id="ro">Decapsator</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Paper clips</span><span id="ro">Agrafe birou</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Staples set</span><span id="ro">Rezerve capse capsator</span></td><td>-</td><td>-</td></tr>        
+       <tr><td><span id="en">Office hole punch</span><span id="ro">Perforator Birou</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Office clips</span><span id="ro">Clip metalic</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Elastic for money</span><span id="ro">Elastic bani</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Office tacks</span><span id="ro">Pioneze metalice</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Office pins</span><span id="ro">Pioneze pentru plute</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Colorful tacks</span><span id="ro">Pioneze colorate</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Ballpoint pen</span><span id="ro">Pix</span></td><td>-</td><td>-</td></tr>        
+       <tr><td><span id="en">Fountain pen</span><span id="ro">Stilou</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Bottled pen ink</span><span id="ro">Cerneală / călimară cerneală</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Rollerball gel pen 0.7mm</span><span id="ro">Pix cu gel 0.7mm</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Rollerball gel pen 0.7mm</span><span id="ro">Rollerball gel pen reserve ink </span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Mechanical pencil</span><span id="ro">Creion mecanic</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Writing graphite pencil</span><span id="ro">Creion grafit scris</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Mines for mechanical pencils</span><span id="ro">Rezerve creion mecanic</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Rubber eraser</span><span id="ro">Radieră</span></td><td>-</td><td>-</td></tr>        
+       <tr><td><span id="en">Sharpener</span><span id="ro">Ascuțitoare</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Colored pencils set</span><span id="ro">Creioane color</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Coloring markers pens set</span><span id="ro">Carioci</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Acrylic paint pens markers set</span><span id="ro">Set markere cu vopsea pictură</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Acrylic paint set</span><span id="ro">Vopsea acril pictură</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Permanent marker</span><span id="ro">Marker permanent</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Office tool corrector</span><span id="ro">Corector birotică</span></td><td>-</td><td>-</td></tr>        
+       <tr><td><span id="en">Textmarker</span><span id="ro">Textmarker</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">School board sponge</span><span id="ro">Burete tablă</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">School board</span><span id="ro">Tablă scris școală</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Chalk set</span><span id="ro">Set cretă tablă</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">White chalk set</span><span id="ro">Cretă albă tablă</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Spray chalk</span><span id="ro">Spray cretă</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Tempera colors</span><span id="ro">Culori Tempera</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Watercolors set</span><span id="ro">Acuarele</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Paint brushes set</span><span id="ro">Set pensule pictat</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Wood ruler</span><span id="ro">Riglă lemn</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Geometry set</span><span id="ro">Set geometrie</span></td><td>-</td><td>-</td></tr>        
+       <tr><td><span id="en">Water container for painting</span><span id="ro">Recipient apă pictură</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Compass</span><span id="ro">Compas</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Wax pencil set</span><span id="ro">Creioane cerate</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Blue stamp pad ink</span><span id="ro">Tuș stampilă albastru</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Red stamp pad ink</span><span id="ro">Tuș stampilă roșu</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Green stamp pad ink</span><span id="ro">Tuș stampilă verde</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Violet stamp pad ink</span><span id="ro">Tuș stampilă violet</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Black stamp pad ink</span><span id="ro">Tuș stampilă negru</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Stamp pad ink</span><span id="ro">Tușieră stampilă</span></td><td>-</td><td>-</td></tr>  
