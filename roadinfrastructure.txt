@@ -1,1 +1,10 @@
 
+       <tr><td><span id="en">Non-paraffin Bitum D 25/40</span><span id="ro">Bitum neparafinos D 25/40</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Non-paraffin Bitum D 40/50</span><span id="ro">Bitum neparafinos D 40/50</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Non-paraffin Bitum D 60/80</span><span id="ro">Bitum neparafinos D 60/80</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Non-paraffin Bitum D 80/100</span><span id="ro">Bitum neparafinos D 80/100</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Non-paraffin Bitum D 100/120</span><span id="ro">Bitum neparafinos D 100/120</span></td><td>-</td><td>-</td></tr>
+       <tr><td><span id="en">Non-paraffin Bitum D 180/200</span><span id="ro">Bitum neparafinos D 180/200</span></td><td>-</td><td>-</td></tr>
+<tr><td><span id="en">Road deicing salt - bulk 0-4mm</span><span id="ro">Sare geamă industrială pentru drumuri vrac 0-4mm</span> </td>
+       <tr><td><span id="en">Road deicing sand under 0.3mm</span><span id="ro">Nisip pentru drumuri sub 0.3mm</span></td><td>-</td><td>-</td></tr>        
+       <tr><td><span id="en">Road deicing calcium chloride 6-14mm</span><span id="ro">Clorură de calciu pentru drumuri</span></td><td>-</td><td>-</td></tr>
