@@ -1,0 +1,45 @@
+<tr><td><span id="en">Paper Envelope C7 (90 x 140 mm) Color White</span><span id="ro">Plic din hârtie C7 (90 x 140 mm) Culoare Albă</span></td>
+<tr><td><span id="en">Paper Envelope C6 (114 x 162 mm) Color White</span><span id="ro">Plic din hârtie C6 (114 x 162 mm) Culoare Albă</span></td>
+<tr><td><span id="en">Paper Envelope DL (110 x 220 mm) Color White</span><span id="ro">Plic din hârtie DL (110 x 220 mm) Culoare Albă</span></td>
+<tr><td><span id="en">Paper Envelope C6/C5 (114 x 229 mm) Color White</span><span id="ro">Plic din hârtie C6/C5 (114 x 229 mm) Culoare Albă</span></td>
+<tr><td><span id="en">Paper Envelope C5 (162 x 229 mm) Color Kraft</span><span id="ro">Plic din hârtie C5 (162 x 229 mm) Culoare Kraft</span></td>
+<tr><td><span id="en">Paper Envelope C4 (229 x 324 mm) Color Kraft</span><span id="ro">Plic din hârtie C4 (229 x 324 mm) Culoare Kraft</span></td>
+ <tr><td><span id="en">Paper Envelope B5 (250 x 176 mm ) </span><span id="ro">Plic din hârtie B5 (250 x 176 mm )</span></td><td>-</td><td>-</td></tr>        
+<tr><td><span id="en">Paper Envelope B4 (250 x 353 mm) Color Kraft</span><span id="ro">Plic din hârtie B4 (250 x 353 mm) Culoare Kraft</span></td>
+<tr><td><span id="en">Paper Envelope E4 (280 x 400 mm) Color White</span><span id="ro">Plic din hârtie E4 (280 x 400 mm) Culoare Albă</span></td>
+<tr><td><span id="en">Paper Envelope E4 (280 x 400 mm) Color Kraft</span><span id="ro">Plic din hârtie E4 (280 x 400 mm) Culoare Kraft</span></td>
+<tr><td><span id="en">Anti-shock with bubbles envelope A11 ( Int: 100 x 165 mm) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer A11 ( Int: 100 x 165 mm) Color Albă Kraft sau Maro Kraft</span></td>
+<tr><td><span id="en">Anti-shock with bubbles envelope B12 ( Int: 115 x 215 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer B12 ( Int: 115 x 215 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+<tr><td><span id="en">Anti-shock with bubbles envelope C13 ( Int: 150 x 215 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer C13 ( Int: 150 x 215 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+<tr><td><span id="en">Anti-shock with bubbles envelope CD ( Int: 175 x 165 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer CD ( Int: 175 x 165 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+<tr><td><span id="en">Anti-shock with bubbles envelope D14 ( Int: 180 x 265 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer D14 ( Int: 180 x 265 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+<tr><td><span id="en">Anti-shock with bubbles envelope E15 ( Int: 215 x 265 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer E15 ( Int: 215 x 265 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+<tr><td><span id="en">Anti-shock with bubbles envelope F16 ( Int: 220 x 340 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer F16 ( Int: 220 x 340 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+<tr><td><span id="en">Anti-shock with bubbles envelope G17 ( Int: 230 x 340 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer G17 ( Int: 230 x 340 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+<tr><td><span id="en">Anti-shock with bubbles envelope H18 ( Int: 270 x 360 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer H18 ( Int: 270 x 360 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+<tr><td><span id="en">Anti-shock with bubbles envelope I19 ( Int: 295 x 445 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer I19 ( Int: 295 x 445 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+<tr><td><span id="en">Anti-shock with bubbles envelope K20 ( Int: 345 x 470 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer K20 ( Int: 345 x 470 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+
+ <tr><td><span id="en">Paper Envelope B5 (250 x 176 mm ) </span><span id="ro">Plic din hârtie B5 (250 x 176 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope B6 (125 x 176 mm ) </span><span id="ro">Plic din hârtie B6 (125 x 176 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope C3 (324 x 458 mm ) </span><span id="ro">Plic din hârtie C3 (324 x 458 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope C4M (318 x 229 mm ) </span><span id="ro">Plic din hârtie C4M (318 x 229 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope C3 (324 x 458 mm ) </span><span id="ro">Plic din hârtie C3 (324 x 458 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope C6 (114 x 162 mm ) </span><span id="ro">Plic din hârtie C6 (114 x 162 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope C64M (318 x 114 mm ) </span><span id="ro">Plic din hârtie C64M (318 x 114 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope C7/C6 (81 x 162 mm ) </span><span id="ro">Plic din hârtie C7/C6 (81 x 162 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope CE4 (229 x 310 mm ) </span><span id="ro">Plic din hârtie CE4 (229 x 310 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope CE64 (114 x 310 mm ) </span><span id="ro">Plic din hârtie CE64 (114 x 310 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope EC45 (220 x 229 mm ) </span><span id="ro">Plic din hârtie EC45 (220 x 229 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope EC5 (115 x 229 mm ) </span><span id="ro">Plic din hârtie EC5 (115 x 229 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope E5 (115 x 220 mm ) </span><span id="ro">Plic din hârtie E5 (115 x 220 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope E56 (155 x 155 mm ) </span><span id="ro">Plic din hârtie E56 (155 x 155 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope E6 (110 x 155 mm ) </span><span id="ro">Plic din hârtie E6 (110 x 155 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope E65 (110 x 220 mm ) </span><span id="ro">Plic din hârtie E65 (110 x 220 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope R7 (120 x 135 mm ) </span><span id="ro">Plic din hârtie R7 (120 x 135 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope S4 (250 x 330 mm ) </span><span id="ro">Plic din hârtie S4 (250 x 330 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope S5 (185 x 255 mm ) </span><span id="ro">Plic din hârtie S5 (185 x 255 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope S65 (110 x 255 mm ) </span><span id="ro">Plic din hârtie S65 (110 x 255 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope X5 (105 x 216 mm ) </span><span id="ro">Plic din hârtie X5 (105 x 216 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope EX5 (155 x 216 mm ) </span><span id="ro">Plic din hârtie EX5 (155 x 216 mm )</span></td><td>-</td><td>-</td></tr>        
+	   
