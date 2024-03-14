@@ -1,2 +1,37 @@
 <tbody>
+   <tr><td><span id="en">White wheat flour 480</span><span id="ro">Făină albă de grâu 480</span> </td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">White wheat flour 000</span><span id="ro">Făină albă de grâu 000</span> </td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">White wheat flour 550 for pizza</span><span id="ro">Făină albă de grâu 550 pentru pizza</span> </td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">White wheat flour 600</span><span id="ro">Făină albă de grâu 600</span> </td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">White wheat flour 650</span><span id="ro">Făină albă de grâu 650</span> </td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">Half-white wheat flour 780</span><span id="ro">Făină semialbă de grâu 780</span> </td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">Half-white flour 800</span><span id="ro">Făină semialbă de grâu 800</span> </td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">Half-white flour 900</span><span id="ro">Făină semialbă de grâu 900</span> </td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">Black wheat flour 1250</span><span id="ro">Făină neagră de grâu 1250</span> </td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">Black wheat flour 1300</span><span id="ro">Făină neagră de grâu 1300</span> </td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">Black wheat flour 1350</span><span id="ro">Făină neagră de grâu 1350</span> </td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">Grain wheat flour 1500</span><span id="ro">Făină integrală de grâu 1500</span> </td><td>-</td><td>-</td></tr>  
+   <tr><td><span id="en">Grain wheat flour 1750</span><span id="ro">Făină integrală de grâu 1750</span> </td><td>-</td><td>-</td></tr>  
+   <tr><td><span id="en">Cornmeal extra</span><span id="ro">Mălai extra</span></td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">Cornmeal superior</span><span id="ro">Mălai superior</span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Pearl barley</span><span id="ro">Orz perlat fără coajă exterioară/span> </td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">Semolina</span><span id="ro">Griș</span> </td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">Bread crumbs</span><span id="ro">Pesmet</span> </td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">Pure Rye flour 1800</span><span id="ro">Făină de secară pură 1800</span> </td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Rye combined with wheat flour 997</span><span id="ro">Făină de secară combinată cu făină de grâu 997</span> </td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Rye combined with wheat flour 1150</span><span id="ro">Făină de secară combinată cu făină de grâu 1150</span> </td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Spelta wheat flour</span><span id="ro">Făină de grâu spelta</span></td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">Soybean flour</span><span id="ro">Făină de soia</span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Oat flour</span><span id="ro">Făină de ovăz</span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Chickpea flour</span><span id="ro">Făină de năut</span></td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">Coconut flour</span><span id="ro">Făină nucă de cocos</span></td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">Buckwheat flour</span><span id="ro">Făină hrișcă</span></td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">Rice flour</span><span id="ro">Făină orez</span> </td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Banana flour</span><span id="ro">Făină banane</span> </td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">Tapioca flour</span><span id="ro">Făină tapioca</span> </td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Almond flour</span><span id="ro">Făină migdale</span> </td><td>-</td><td>-</td></tr>  
+   <tr><td><span id="en">Flax flour</span><span id="ro">Făină de in</span> </td><td>-</td><td>-</td></tr>    
+   <tr><td><span id="en">Food Grade Wheat Bran</span><span id="ro">Tărâță de grâu alimetară</span></td><td>-</td><td>-</td></tr>    
+   <tr><td><span id="en">Food Grade Corn Bran</span><span id="ro">Tărâță de porumb alimetară</span></td><td>-</td><td>-</td></tr>    
+   <tr><td><span id="en">Cacao powder</span><span id="ro">Pudră de cacao</span></td><td>-</td><td>-</td></tr>
 </tbody>
