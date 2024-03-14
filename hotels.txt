@@ -1,2 +1,21 @@
 <tbody>
+ <tr><td><span id="en">Soap 15g diamtre 4cm</span><span id="ro">Săpun 15g diametru 4cm </span></td>
+ <tr><td><span id="en">Shampoo 35ml</span><span id="ro">Șampon 35ml </span></td>
+ <tr><td><span id="en">Hair and Body gel 35ml</span><span id="ro">Gel mixt corp și păr 35 ml  </span></td>
+ <tr><td><span id="en">Hair conditionar 35ml</span><span id="ro">Balsam păr 35ml </span></td>
+ <tr><td><span id="en">Body Lotion 35ml</span><span id="ro">Cremă de corp 35ml </span></td>
+ <tr><td><span id="en">Shower Gel 35ml </span><span id="ro">Gel de duș 35ml  </span></td>
+ <tr><td><span id="en">Shaving cream 5ml </span><span id="ro">Cremă de ras 5ml </span></td>
+ <tr><td><span id="en">Vanity Kit ( 2 cleansing discs and 4 cotton buds )</span><span id="ro">Set igienic ( 2 discuri demachiante și 4 bețișoare cu vată )</span></td>
+ <tr><td><span id="en">Shower cap 500pcs per box</span><span id="ro">Cască de duș 500buc per cutie</span></td>
+ <tr><td><span id="en">Sewing kit ( 6 different colored threads, 1 sewing needle, 2 buttons and 1 safety pin )</span><span id="ro">Set cusut ( 6 ațe culori diferite, 1 ac pentru cusut, 2 nasturi și 1 ac de siguranță )</span></td>
+ <tr><td><span id="en">Dental kit ( Toothbrush, 5g Toothpaste )</span><span id="ro">Set dentar ( Periuță dinți, 5g pastă de dinți )</span></td>
+ <tr><td><span id="en">Shaving kit ( Mini disposable razor + 5ml shaving cream )</span><span id="ro">Set de ras ( Mini aparat de ras + cremă de ras 5 ml  )</span></td>
+ <tr><td><span id="en">Comb diametre 13cm</span><span id="ro">Pieptăn diametru 13cm</span></td>
+ <tr><td><span id="en">Shoe shine wipe</span><span id="ro">Șervețel pentru pantofi</span></td>
+ <tr><td><span id="en">Shoe shine sponge</span><span id="ro">Burete pentru pantofi</span></td>
+ <tr><td><span id="en">Wet wipe</span><span id="ro">Șervețel umed</span></td>
+ <tr><td><span id="en">Biodegradable Laundry Bag</span><span id="ro">Sac rufe biodegradabil</span></td>
+
+
 </tbody>
