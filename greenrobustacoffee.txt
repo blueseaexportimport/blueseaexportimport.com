@@ -1,1 +1,47 @@
-
+    <tr><td><span id="en">BP 534 green robusts coffee beans</span><span id="ro">Boabe cafea robusta BP 534 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">BP 936 green robusts coffee beans</span><span id="ro">Boabe cafea robusta BP 936 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">BP 939 green robusts coffee beans</span><span id="ro">Boabe cafea robusta BP 939 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">BRS 1216 green robusts coffee beans</span><span id="ro">Boabe cafea robusta BRS 1216 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">BRS 2299 green robusts coffee beans</span><span id="ro">Boabe cafea robusta BRS 2299 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">BRS 2314 green robusts coffee beans</span><span id="ro">Boabe cafea robusta BRS 2314 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">BRS 2336 green robusts coffee beans</span><span id="ro">Boabe cafea robusta BRS 2336 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">BRS 2357 green robusts coffee beans</span><span id="ro">Boabe cafea robusta BRS 2357 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">BRS 3137 green robusts coffee beans</span><span id="ro">Boabe cafea robusta BRS 3137 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">BRS 3193 green robusts coffee beans</span><span id="ro">Boabe cafea robusta BRS 3193 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">BRS 3210 green robusts coffee beans</span><span id="ro">Boabe cafea robusta BRS 3210 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">BRS 3213 green robusts coffee beans</span><span id="ro">Boabe cafea robusta BRS 3213 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">BRS 3220 green robusts coffee beans</span><span id="ro">Boabe cafea robusta BRS 3220 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">INIFAP 00-24 green robusts coffee beans</span><span id="ro">Boabe cafea robusta INIFAP 00-24 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">INIFAP 00-28 green robusts coffee beans</span><span id="ro">Boabe cafea robusta INIFAP 00-28 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">INIFAP 95-9 green robusts coffee beans</span><span id="ro">Boabe cafea robusta INIFAP 95-9 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">INIFAP 97-14 green robusts coffee beans</span><span id="ro">Boabe cafea robusta INIFAP 97-14 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">INIFAP 97-15 green robusts coffee beans</span><span id="ro">Boabe cafea robusta INIFAP 97-15 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">NARO-Kituza Robusta 1 green robusts coffee beans</span><span id="ro">Boabe cafea robusta NARO-Kituza Robusta 1 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">NARO-Kituza Robusta 2 green robusts coffee beans</span><span id="ro">Boabe cafea robusta NARO-Kituza Robusta 2 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">NARO-Kituza Robusta 3 green robusts coffee beans</span><span id="ro">Boabe cafea robusta NARO-Kituza Robusta 3 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">NARO-Kituza Robusta 4 green robusts coffee beans</span><span id="ro">Boabe cafea robusta NARO-Kituza Robusta 4 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">NARO-Kituza Robusta 5 green robusts coffee beans</span><span id="ro">Boabe cafea robusta NARO-Kituza Robusta 5 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">NARO-Kituza Robusta 6 green robusts coffee beans</span><span id="ro">Boabe cafea robusta NARO-Kituza Robusta 6 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">NARO-Kituza Robusta 7 green robusts coffee beans</span><span id="ro">Boabe cafea robusta NARO-Kituza Robusta 7 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">NARO-Kituza Robusta 8 green robusts coffee beans</span><span id="ro">Boabe cafea robusta NARO-Kituza Robusta 8 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">NARO-Kituza Robusta 9 green robusts coffee beans</span><span id="ro">Boabe cafea robusta NARO-Kituza Robusta 9 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">NARO-Kituza Robusta 10 green robusts coffee beans</span><span id="ro">Boabe cafea robusta NARO-Kituza Robusta 10 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Perdenia green robusts coffee beans</span><span id="ro">Boabe cafea robusta Perdenia verde</td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Roubi 1 green robusts coffee beans</span><span id="ro">Boabe cafea robusta Roubi 1 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Roubi 2 green robusts coffee beans</span><span id="ro">Boabe cafea robusta Roubi 2 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Roubi 4 green robusts coffee beans</span><span id="ro">Boabe cafea robusta Roubi 4 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Roubi 5 green robusts coffee beans</span><span id="ro">Boabe cafea robusta Roubi 5 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Roubi 6 green robusts coffee beans</span><span id="ro">Boabe cafea robusta Roubi 6 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Roubi 7 green robusts coffee beans</span><span id="ro">Boabe cafea robusta Roubi 7 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Roubi 8 green robusts coffee beans</span><span id="ro">Boabe cafea robusta Roubi 8 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Roubi 9 green robusts coffee beans</span><span id="ro">Boabe cafea robusta Roubi 9 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Roubi 10 green robusts coffee beans</span><span id="ro">Boabe cafea robusta Roubi 10 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">SA 237 green robusts coffee beans</span><span id="ro">Boabe cafea robusta SA 237 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Sln.1R green robusts coffee beans</span><span id="ro">Boabe cafea robusta Sln.1R verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Sln.2R green robusts coffee beans</span><span id="ro">Boabe cafea robusta Sln.2R verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Sln.3R green robusts coffee beans</span><span id="ro">Boabe cafea robusta Sln.3R verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">TR4 green robusts coffee beans</span><span id="ro">Boabe cafea robusta TR4 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">TR9 green robusts coffee beans</span><span id="ro">Boabe cafea robusta TR9 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">TR11 green robusts coffee beans</span><span id="ro">Boabe cafea robusta TR11 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">TRS1 green robusts coffee beans</span><span id="ro">Boabe cafea robusta TRS1 verde</span></td><td>-</td><td>-</td></tr>    
+    <tr><td><span id="en">Xanh lun green robusts coffee beans</span><span id="ro">Boabe cafea robusta Xanh lun verde</span></td><td>-</td><td>-</td></tr>
