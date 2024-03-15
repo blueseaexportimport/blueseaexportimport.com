@@ -20,7 +20,7 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Clock battery Energizer</span><span id="ro">Baterie pentru ceas Energizer</span></td></tr>
 <tr><td>Standard:</td><td style="color:#39ff14;" >IEC 60086</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
-<tr><td><span id="en" >Type</span><span id="ro">Tip</span></td><td style="color:#39ff14;" >Silver oxide</td></tr>
+<tr><td><span id="en" >Type</span><span id="ro">Tip</span></td><td style="color:#39ff14;" ><span id="en" >Silver oxide</span><span id="ro" >Oxid de argint</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
 <tr><td>Formula 1</td><td>16 RON / Energizer 364/363 AG1 1.55v</td></tr>
 <tr><td>Formula 2</td><td>19 RON / Energizer 392/384 AG3 1.55v</td></tr>
