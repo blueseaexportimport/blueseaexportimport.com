@@ -45,16 +45,21 @@
 
 </tbody>
 
+
+
+
 <script>
 $(document).ready(function() {
 var class_ro = $('#ro_button').attr('class').split(' ')[1];
-console.log(class_ro);
-console.log("ro");
-
 var class_en = $('#en_button').attr('class').split(' ')[1];
-console.log(class_en);
-console.log("en");
 
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else if(class_en === "new"){
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
 });
 </script>
 
