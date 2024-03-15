@@ -232,6 +232,22 @@ $(document).ready(function () {
    });
   // Grab compressed gas fuels info on click end
 
+  // Grab batteries info on click start
+  $("#batteriesbtn").click(function() {
+    if ($("#batteries").hasClass("clickedbatteries")) {
+        // already been clicked once, hide it
+        $("#batteries").html("");
+        $( "#batteries" ).removeClass( "clickedbatteries" )
+    }else {
+        // first time this is clicked, mark it
+        $("#batteries").addClass("clickedbatteries");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/batteries.txt", success: function(result){
+         $("#batteries").html(result);
+        }});
+    }
+   });
+  // Grab batteries info on click end
+
   // Grab mineral ores supplies info on click start
   $("#mineraloresbtn").click(function() {
     if ($("#mineralores").hasClass("clickedmineralores")) {
@@ -1037,6 +1053,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table>
+   <h5 class="categoryaccordion" id="batteriesbtn" ><span id="en">Batteries and accumulators</span><span id="ro">Baterii și acumulatori</span></h5>    	
+   <table id="batteries" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 	
    <h5 class="categoryaccordion" id="electricalsubstationbtn" ><span id="en">Electrical substation</span><span id="ro">Stație electrică de transformare</span></h5>    	
    <table id="electricalsubstation" class="categorypanel" >
    <!-- Load info start --> 
