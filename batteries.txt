@@ -2,17 +2,31 @@
 
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BA0001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" >-</td></tr>
-<tr><td>Standard:</td><td style="color:#39ff14;" >IEC 61730</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >LiFePO4 Battery 12V</span><span id="ro">Baterie LiFePO4 12V</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >IEC 60086</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
-<tr><td><span id="en" >Material</span><span id="ro">Material</span></td><td style="color:#39ff14;" ><span id="en" >Li-ion</span><span id="ro" >litiu-ion</span></td></tr>
-<tr><td><span id="en" >Dim.</span><span id="ro">Dim.</span></td><td style="color:#39ff14;" >2384x1303x35 mm</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en" >Type</span><span id="ro">Tip</span></td><td style="color:#39ff14;" >Lithium-ion</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >-</span><span id="ro">-</span></td></tr>
+<tr><td>Formula 1</td><td>- RON / -/td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0.00 RON / <span id="en">watt</span><span id="ro">watt</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BA0002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Clock battery</span><span id="ro">Baterie pentru ceas</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >IEC 60086</td></tr>
+<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
+<tr><td><span id="en" >Type</span><span id="ro">Tip</span></td><td style="color:#39ff14;" >Lithium-ion</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >-</span><span id="ro">-</span></td></tr>
+<tr><td>Formula 1</td><td>- RON / -/td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0.00 RON / <span id="en">watt</span><span id="ro">watt</span></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 
 
-
 </tbody>
+
+
+
