@@ -28,7 +28,7 @@
 <tr><td>Formula 4</td><td>20 RON / Energizer 390/398 AG10 1.5V</td></tr>
 <tr><td>Formula 5</td><td>21 RON / Energizer 357/303 AG13 1.55v</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://data.energizer.com/ais-sds/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BA0002</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Cell battery Energizer</span><span id="ro">Baterie tip buton Energizer</span></td></tr>
@@ -40,7 +40,7 @@
 <tr><td>Formula 2</td><td>8.4 RON / 2 x Energizer CR2025 3v</td></tr>
 <tr><td>Formula 3</td><td>8.9 RON / 2 x Energizer CR2032 3v</td></tr>
 <tr><td>Formula 4</td><td>9.9 RON / 2 x Energizer CR2016 3v</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://data.energizer.com/ais-sds/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://data.energizer.com/ais-sds/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
 </tbody>
