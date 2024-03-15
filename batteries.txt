@@ -56,7 +56,7 @@ var class_en = $('#en_button').attr('class').split(' ')[1];
 if (class_ro === "new") {
      $('span[id^="ro"]').show();
      $('span[id^="en"]').hide();
-}else if(class_en === "new"){
+}else{
      $('span[id^="ro"]').hide();
      $('span[id^="en"]').show();
 }
