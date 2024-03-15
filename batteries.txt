@@ -1,29 +1,46 @@
 <tbody>
-
-
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BA0001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >LiFePO4 Battery 12V</span><span id="ro">Baterie LiFePO4 12V</span></td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Energizer Battery</span><span id="ro">Baterie Energizer</span></td></tr>
 <tr><td>Standard:</td><td style="color:#39ff14;" >IEC 60086</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
 <tr><td><span id="en" >Type</span><span id="ro">Tip</span></td><td style="color:#39ff14;" >Lithium-ion</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >-</span><span id="ro">-</span></td></tr>
-<tr><td>Formula 1</td><td>- RON / -</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0.00 RON / <span id="en">watt</span><span id="ro">watt</span></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
+<tr><td>Formula 1</td><td>31.2 RON / 2 x Energizer Ultimate Lithium AA 1.5V 3000mAh</td></tr>
+<tr><td>Formula 2</td><td>31.2 RON / 2 x Energizer Ultimate Lithium AAA 1.5V 1200mAh</td></tr>
+<tr><td>Formula 3</td><td>17 RON / Energizer CR123A 3V 1500mAh</td></tr>
+<tr><td>Formula 5</td><td>19 RON / Energizer CR2 3V 920mAh</td></tr>
+<tr><td>Formula 6</td><td>42 RON / Energizer 2CR5 6V 1500mAh</td></tr>
+<tr><td>Formula 7</td><td>42 RON / Energizer CRP2P 6V 1500mAh</td></tr>
+<tr><td>Formula 8</td><td>67,60 RON / 2 x Energizer Accu Recharge Extreme AA 1.5V 2300mAh</td></tr>
+<tr><td>Formula 9</td><td>55.2 RON / 2 x Energizer Accu Recharge Extreme AAA 1.5V 800mAh</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://data.energizer.com/ais-sds/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BA0002</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Clock battery</span><span id="ro">Baterie pentru ceas</span></td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Clock battery Energizer</span><span id="ro">Baterie pentru ceas Energizer</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >IEC 60086</td></tr>
+<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
+<tr><td><span id="en" >Type</span><span id="ro">Tip</span></td><td style="color:#39ff14;" >Silver oxide</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
+<tr><td>Formula 1</td><td>16 RON / Energizer 364/363 AG1 1.55v</td></tr>
+<tr><td>Formula 2</td><td>19 RON / Energizer 392/384 AG3 1.55v</td></tr>
+<tr><td>Formula 3</td><td>19 RON / Energizer 377/376 AG4 1.55v</td></tr>
+<tr><td>Formula 4</td><td>20 RON / Energizer 390/398 AG10 1.5V</td></tr>
+<tr><td>Formula 5</td><td>21 RON / Energizer 357/303 AG13 1.55v</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://data.energizer.com/ais-sds/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BA0002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Cell battery Energizer</span><span id="ro">Baterie tip buton Energizer</span></td></tr>
 <tr><td>Standard:</td><td style="color:#39ff14;" >IEC 60086</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
 <tr><td><span id="en" >Type</span><span id="ro">Tip</span></td><td style="color:#39ff14;" >Lithium-ion</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >-</span><span id="ro">-</span></td></tr>
-<tr><td>Formula 1</td><td>- RON / -</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0.00 RON / <span id="en">watt</span><span id="ro">watt</span></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
+<tr><td>Formula 1</td><td>6.9 RON / 2 x Energizer LR44 1.5v</td></tr>
+<tr><td>Formula 2</td><td>8.4 RON / 2 x Energizer CR2025 3v</td></tr>
+<tr><td>Formula 3</td><td>8.9 RON / 2 x Energizer CR2032 3v</td></tr>
+<tr><td>Formula 4</td><td>9.9 RON / 2 x Energizer CR2016 3v</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://data.energizer.com/ais-sds/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 
 </tbody>
