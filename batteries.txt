@@ -45,5 +45,23 @@
 
 </tbody>
 
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+console.log(class_ro);
+console.log("ro");
+
+var class_en = $('#en_button').attr('class').split(' ')[1];
+console.log(class_en);
+console.log("en");
+
+});
+</script>
+
+
+
+
+
+
 
 
