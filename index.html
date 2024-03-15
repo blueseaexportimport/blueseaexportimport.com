@@ -118,7 +118,7 @@ $(document).ready(function() {
 $(document).ready(function () { 
 
 
-  // Grab solar panels info on click start
+  // Grab fusion reactors info on click start
   $("#fusionreactorsbtn").click(function() {
     if ($("#fusionreactors").hasClass("clickedfusionreactors")) {
         // already been clicked once, hide it
@@ -132,26 +132,8 @@ $(document).ready(function () {
         }});
     }
    });
-  // Grab solar panelso on click end
+  // Grab fusion reactors on click end
 
-  // Grab batteries info on click start
-  $("#batteriesbtn").click(function() {
-    if ($("#batteries").hasClass("clickedbatteries")) {
-        // already been clicked once, hide it
-        $("#batteries").html("");
-        $( "#batteries" ).removeClass( "clickedbatteries" )
-    }else {
-        // first time this is clicked, mark it
-        $("#batteries").addClass("clickedfusionreactors");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/batteries.txt", success: function(result){
-         $("#batteries").html(result);
-        }});
-    }
-   });
-  // Grab batteries info click end
-
-	
-	
   // Grab solar panels info on click start
   $("#solarpanelsbtn").click(function() {
     if ($("#solarpanels").hasClass("clickedsolarpanels")) {
@@ -1050,11 +1032,6 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table> 	
-   <h5 class="categoryaccordion" id="batteriesbtn" ><span id="en">Batteries and accumulators</span><span id="ro">Baterii și acumulatoare</span></h5>    	
-   <table id="batteries" class="categorypanel" >
-   <!-- Load info start --> 
-   <!-- Load info end --> 
-   </table>
    <h5 class="categoryaccordion" id="backupgeneratorsbtn" ><span id="en">Backup generators</span><span id="ro">Generatoare backup</span></h5>    	
    <table id="backupgenerators" class="categorypanel" >
    <!-- Load info start --> 
