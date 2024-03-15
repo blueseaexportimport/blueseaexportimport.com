@@ -11,7 +11,7 @@
 <tr><td>Formula 5</td><td>19 RON / Energizer CR2 3V 920mAh</td></tr>
 <tr><td>Formula 6</td><td>42 RON / Energizer 2CR5 6V 1500mAh</td></tr>
 <tr><td>Formula 7</td><td>42 RON / Energizer CRP2P 6V 1500mAh</td></tr>
-<tr><td>Formula 8</td><td>67,60 RON / 2 x Energizer Accu Recharge Extreme AA 1.5V 2300mAh</td></tr>
+<tr><td>Formula 8</td><td>67.60 RON / 2 x Energizer Accu Recharge Extreme AA 1.5V 2300mAh</td></tr>
 <tr><td>Formula 9</td><td>55.2 RON / 2 x Energizer Accu Recharge Extreme AAA 1.5V 800mAh</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://data.energizer.com/ais-sds/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
