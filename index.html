@@ -779,7 +779,7 @@ $(document).ready(function () {
         // first time this is clicked, mark it
         $("#chickenfreshmeat").addClass("clickedchickenfreshmeat");
          $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/chickenfreshmeat.txt", success: function(result){
-         $("#adultandbabypersonalhygiene").html(result);
+         $("#chickenfreshmeat").html(result);
         }});
     }
    });
