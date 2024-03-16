@@ -154,7 +154,6 @@
     <tr><td>Cârnați Rustic <br>( Romania )</td><td>-</td><td>-</td></tr> 
     <tr><td>Cârnați Muntenia <br>( Romania )</td><td>-</td><td>-</td></tr> 
     <tr><td>Cârnați Bicaz <br>( Romania )</td><td>-</td><td>-</td></tr> 
-    <tr><td>Cârnați Bicaz <br>( Romania )</td><td>-</td><td>-</td></tr> 
     <tr><td>Cârnați Ignis <br>( Romania )</td><td>-</td><td>-</td></tr> 
     <tr><td>Cârnați Țibleș <br>( Romania )</td><td>-</td><td>-</td></tr> 
     <tr><td>Cârnați Dobrogeni <br>( Romania )</td><td>-</td><td>-</td></tr> 
@@ -181,7 +180,6 @@
     <tr><td>Șuncă de vită <br>( Romania )</td><td>- </td><td>-</td></tr>   
     <tr><td>Șuncă dietetică din carne de mânzat <br>( Romania )</td><td>- </td><td>-</td></tr>   
     <tr><td>Ghiudem <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Ruladă Cibin <br>( Romania )</td><td>-</td><td>-</td></tr>    
     <tr><td>Ruladă Cibin <br>( Romania )</td><td>-</td><td>-</td></tr>    
     <tr><td>Ruladă cu limbă <br>( Romania )</td><td>-</td><td>-</td></tr>    
     <tr><td>Ruladă carne de vită <br>( Romania )</td><td>-</td><td>-</td></tr>    
