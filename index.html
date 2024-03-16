@@ -785,7 +785,21 @@ $(document).ready(function () {
    });
   // Grab chickenfreshmeat on click end
 
-
+  // Grab smokedandcuredmeat on click start
+  $("#smokedandcuredmeatbtn").click(function() {
+    if ($("#smokedandcuredmeat").hasClass("clickedsmokedandcuredmeat")) {
+        // already been clicked once, hide it
+        $("#smokedandcuredmeat").html("");
+        $( "#smokedandcuredmeat" ).removeClass( "clickedsmokedandcuredmeat" )
+    }else {
+        // first time this is clicked, mark it
+        $("#smokedandcuredmeat").addClass("clickedsmokedandcuredmeat");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/smokedandcuredmeat.txt", success: function(result){
+         $("#smokedandcuredmeat").html(result);
+        }});
+    }
+   });
+  // Grab smokedandcuredmeat on click end
 
 
 	
@@ -2093,8 +2107,6 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Frozen Meat</span><span id="ro">Carne Congelată</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Smoked and Cured Meat</span><span id="ro">Mezeluri, Cârnați și Afumături</span></h5>    
-  <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Bee Honey and Wax</span><span id="ro">Miere de Albine și Ceară</span></h5>
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Fish</span><span id="ro">Pește</span></h5>
@@ -2107,7 +2119,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (0)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (0)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (6)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (6)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Echipamente morărit</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Echipamente ambalat alimente</span></h5> 
@@ -2168,6 +2180,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Romanian Orthodox Church Fasting Food</span><span id="ro">Mâncare de post Biserica Ortodoxă Română</span></h5>
   <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="smokedandcuredmeatbtn" ><span id="en">Smoked and Cured Meat (6)</span><span id="ro">Mezeluri, Cârnați și Afumături (6)</span></h5>    
+   <table id="smokedandcuredmeat" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
   <h5 class="categoryaccordion" ><span id="en">Canned Animal Origin Food</span><span id="ro">Conserve Alimente de Origine Animală</span></h5>
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Dietetic Hospital Food</span><span id="ro">Mâncare pentru Regimuri Alimentare Spital</span></h5> 
