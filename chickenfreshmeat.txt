@@ -7,31 +7,31 @@
 <tr><td><span id="en" >Packaging</span><span id="ro">Ambalaj</span></td><td style="color:#39ff14;" ><span id="en" >Food grade bag</span><span id="ro">Pungă uz alimentar</span></td></tr>
 
 <tr><td>Formula 1</td><td>2.3 RON / kg <span id="en">Chicken heads and feet</span><span id="ro">Capete și gheare de pui</span></td></tr>
-<tr><td>Formula 1</td><td>2.3 RON / kg <span id="en">Chicken heads</span><span id="ro">Capete de pui</span></td></tr>
-<tr><td>Formula 1</td><td>2.3 RON / kg <span id="en">Chicken feet</span><span id="ro">Gheare de pui</span></td></tr>
-<tr><td>Formula 1</td><td>2.4 RON / kg <span id="en">Chicken bones</span><span id="ro">Oase pui</span></td></tr>
-<tr><td>Formula 1</td><td>2.5 RON / kg <span id="en">Chicken backs</span><span id="ro">Spinări de pui</span></td></tr>
-<tr><td>Formula 1</td><td>2.8 RON / kg <span id="en">Chicken skin</span><span id="ro">Piele de pui</span></td></tr>
-<tr><td>Formula 1</td><td>3.1 RON / kg <span id="en">Chicken necks</span><span id="ro">Gâturi de pui</span></td></tr>
-<tr><td>Formula 1</td><td>3.1 RON / kg <span id="en">Chicken MDM</span><span id="ro">MDM de pui</span></td></tr>
-<tr><td>Formula 1</td><td>9 RON / kg <span id="en">Chicken mince - made of boneless, skinless breast and legs</span><span id="ro">Carne tocată din pulpă dezosată cu piele și piept de pui</span></td></tr>
-<tr><td>Formula 1</td><td>9.1 RON / kg <span id="en">Chicken gizzards and hearts</span><span id="ro">Pipote și inimi de pui</span></td></tr>
-<tr><td>Formula 1</td><td>10.4 RON / kg <span id="en">Whole chicken with neck and feet</span><span id="ro">Pui întreg cu gât și gheare</span></td></tr>
-<tr><td>Formula 1</td><td>10.5 RON / kg <span id="en">Whole chicken – with neck</span><span id="ro">Pui întreg cu gât</span></td></tr>
-<tr><td>Formula 1</td><td>10.5 RON / kg <span id="en">Whole chicken without neck </span><span id="ro">Pui întreg fără gât</span></td></tr>
-<tr><td>Formula 1</td><td>10.6 RON / kg <span id="en">Chicken thighs with back portions</span><span id="ro">Pulpe de pui cu spate</span></td></tr>
-<tr><td>Formula 1</td><td>11.1 RON / kg <span id="en">Chicken sliced wings without tips </span><span id="ro">Aripioare de pui secționate fără vârfuri</span></td></tr>
-<tr><td>Formula 1</td><td>12 RON / kg <span id="en">Chicken livers</span><span id="ro">Ficăței de pui</span></td></tr>
-<tr><td>Formula 1</td><td>12 RON / kg <span id="en">Chicken bone-in thighs</span><span id="ro">Pulpe superioare de pui cu os</span></td></tr>
-<tr><td>Formula 1</td><td>12.8 RON / kg <span id="en">Chicken bone-in drumsticks</span><span id="ro">Pulpe inferioare de pui cu os și piele</span></td></tr>
-<tr><td>Formula 1</td><td>13.8 RON / kg <span id="en">Whole chicken without neck feed with corn 60% </span><span id="ro">Pui întreg fără gât hrănit cu porumb 60%</span></td></tr>
-<tr><td>Formula 1</td><td>14.5 RON / kg <span id="en">Chicken bone-in breast</span><span id="ro">Piept de pui cu os și piele</span></td></tr>
-<tr><td>Formula 1</td><td>15.7 RON / kg <span id="en">Chicken boneless thigh with skin</span><span id="ro">Pulpe superioare de pui fără os cu piele</span></td></tr>
-<tr><td>Formula 1</td><td>16.7 RON / kg <span id="en">Chicken boneless thigh without skin</span><span id="ro">Pulpe superioare de pui dezosate ( fără os ) și fără piele</span></td></tr>
-<tr><td>Formula 1</td><td>17.5 RON / kg <span id="en">Chicken boneless, with skin legs</span><span id="ro">Pulpe întregi dezosate cu piele</span></td></tr>
-<tr><td>Formula 1</td><td>18.6 RON / kg <span id="en">Chicken boneless, skinless legs</span><span id="ro">Pulpe întregi dezosate fără piele</span></td></tr>
-<tr><td>Formula 1</td><td>20.5 RON / kg <span id="en">Chicken boneless, skinless breast</span><span id="ro">Piept de pui dezosat fără piele</span></td></tr>
-<tr><td>Formula 1</td><td>21.8 RON / kg <span id="en">Chicken breast cubes</span><span id="ro">Cubulețe piept de pui</span></td></tr>
+<tr><td>Formula 2</td><td>2.3 RON / kg <span id="en">Chicken heads</span><span id="ro">Capete de pui</span></td></tr>
+<tr><td>Formula 3</td><td>2.3 RON / kg <span id="en">Chicken feet</span><span id="ro">Gheare de pui</span></td></tr>
+<tr><td>Formula 4</td><td>2.4 RON / kg <span id="en">Chicken bones</span><span id="ro">Oase pui</span></td></tr>
+<tr><td>Formula 5</td><td>2.5 RON / kg <span id="en">Chicken backs</span><span id="ro">Spinări de pui</span></td></tr>
+<tr><td>Formula 6</td><td>2.8 RON / kg <span id="en">Chicken skin</span><span id="ro">Piele de pui</span></td></tr>
+<tr><td>Formula 7</td><td>3.1 RON / kg <span id="en">Chicken necks</span><span id="ro">Gâturi de pui</span></td></tr>
+<tr><td>Formula 8</td><td>3.1 RON / kg <span id="en">Chicken MDM</span><span id="ro">MDM de pui</span></td></tr>
+<tr><td>Formula 9</td><td>9 RON / kg <span id="en">Chicken mince - made of boneless, skinless breast and legs</span><span id="ro">Carne tocată din pulpă dezosată cu piele și piept de pui</span></td></tr>
+<tr><td>Formula 10</td><td>9.1 RON / kg <span id="en">Chicken gizzards and hearts</span><span id="ro">Pipote și inimi de pui</span></td></tr>
+<tr><td>Formula 11</td><td>10.4 RON / kg <span id="en">Whole chicken with neck and feet</span><span id="ro">Pui întreg cu gât și gheare</span></td></tr>
+<tr><td>Formula 12</td><td>10.5 RON / kg <span id="en">Whole chicken – with neck</span><span id="ro">Pui întreg cu gât</span></td></tr>
+<tr><td>Formula 13</td><td>10.5 RON / kg <span id="en">Whole chicken without neck </span><span id="ro">Pui întreg fără gât</span></td></tr>
+<tr><td>Formula 14</td><td>10.6 RON / kg <span id="en">Chicken thighs with back portions</span><span id="ro">Pulpe de pui cu spate</span></td></tr>
+<tr><td>Formula 15</td><td>11.1 RON / kg <span id="en">Chicken sliced wings without tips </span><span id="ro">Aripioare de pui secționate fără vârfuri</span></td></tr>
+<tr><td>Formula 16</td><td>12 RON / kg <span id="en">Chicken livers</span><span id="ro">Ficăței de pui</span></td></tr>
+<tr><td>Formula 17</td><td>12 RON / kg <span id="en">Chicken bone-in thighs</span><span id="ro">Pulpe superioare de pui cu os</span></td></tr>
+<tr><td>Formula 18</td><td>12.8 RON / kg <span id="en">Chicken bone-in drumsticks</span><span id="ro">Pulpe inferioare de pui cu os și piele</span></td></tr>
+<tr><td>Formula 19</td><td>13.8 RON / kg <span id="en">Whole chicken without neck feed with corn 60% </span><span id="ro">Pui întreg fără gât hrănit cu porumb 60%</span></td></tr>
+<tr><td>Formula 20</td><td>14.5 RON / kg <span id="en">Chicken bone-in breast</span><span id="ro">Piept de pui cu os și piele</span></td></tr>
+<tr><td>Formula 21</td><td>15.7 RON / kg <span id="en">Chicken boneless thigh with skin</span><span id="ro">Pulpe superioare de pui fără os cu piele</span></td></tr>
+<tr><td>Formula 22</td><td>16.7 RON / kg <span id="en">Chicken boneless thigh without skin</span><span id="ro">Pulpe superioare de pui dezosate ( fără os ) și fără piele</span></td></tr>
+<tr><td>Formula 23</td><td>17.5 RON / kg <span id="en">Chicken boneless, with skin legs</span><span id="ro">Pulpe întregi dezosate cu piele</span></td></tr>
+<tr><td>Formula 24</td><td>18.6 RON / kg <span id="en">Chicken boneless, skinless legs</span><span id="ro">Pulpe întregi dezosate fără piele</span></td></tr>
+<tr><td>Formula 25</td><td>20.5 RON / kg <span id="en">Chicken boneless, skinless breast</span><span id="ro">Piept de pui dezosat fără piele</span></td></tr>
+<tr><td>Formula 26</td><td>21.8 RON / kg <span id="en">Chicken breast cubes</span><span id="ro">Cubulețe piept de pui</span></td></tr>
 
 
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://www.fermador.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
