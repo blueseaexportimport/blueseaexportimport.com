@@ -193,10 +193,7 @@
     <tr><td>Oase garf afumate <br>( Romania )</td><td>-</td><td>-</td></tr>    
     <tr><td>Picioare de porc afumate  <br>( Romania )</td><td>-</td><td>-</td></tr>   
     <tr><td>Jambon afumat <br>( Romania )</td><td>-</td><td>-</td></tr>    
--->
 
-
-<!--
     <tr><td>Kasekrainer<br>( Austria )</td><td>- </td><td>-</td></tr>    
     <tr><td>Hangikjöt <br>( Island )</td><td>-</td><td>-</td></tr>    
     <tr><td>Kulen croat <br>( Croatia )</td><td>-</td><td>-</td></tr>       
