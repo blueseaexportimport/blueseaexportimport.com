@@ -26,7 +26,7 @@
 <tr><td>Formula 10</td><td>62.9 RON / <span id="en" >25m roll 4 mmp blue</span><span id="ro" >25m rola 4 mmp albastru</span></td></tr>
 <tr><td>Formula 11</td><td>62.9 RON / <span id="en" >25m roll 4 mmp black</span><span id="ro" >25m rola 4 mmp negru</span></td></tr>
 <tr><td>Formula 12</td><td>62.9 RON / <span id="en" >25m roll 4 mmp yellow-green</span><span id="ro" >25m rola 4 mmp galben-verde</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
@@ -51,7 +51,7 @@
 <tr><td>Formula 15</td><td>15.6 RON / <span id="en" >m 5 wires x 4 mmp copper</span><span id="ro" >m 5 fire x 4 mmp cupru</span></td></tr>
 <tr><td>Formula 16</td><td>21.9 RON / <span id="en" >m 5 wires x 6 mmp copper</span><span id="ro" >m 5 fire x 6 mmp cupru</span></td></tr>
 <tr><td>Formula 17</td><td>38 RON / <span id="en" >m 5 wires x 10 mmp copper</span><span id="ro" >m 5 fire x 10 mmp cupru</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
@@ -63,7 +63,7 @@
 <tr><td>Formula 2</td><td>1.6 RON / <span id="en" >m 2 wires x 0.75 mmp</span><span id="ro" >m 2 fire x 0.75 mmp</span></td></tr>
 <tr><td>Formula 3</td><td>2 RON / <span id="en" >m 2 wires x 1 mmp</span><span id="ro" >m 2 fire x 1 mmp</span></td></tr>
 <tr><td>Formula 4</td><td>2.9 RON / <span id="en" >m 2 wires x 1.5 mmp</span><span id="ro" >m 2 fire x 1.5 mmp</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
@@ -91,7 +91,7 @@
 <tr><td>Formula 14</td><td>7.6 RON / m <span id="en" >10 mmp blue </span><span id="ro" >10 mmp albastru</span></td></tr>
 <tr><td>Formula 15</td><td>7.6 RON / m <span id="en" >10 mmp black</span><span id="ro" >10 mmp negru</span></td></tr>
 <tr><td>Formula 16</td><td>7.6 RON / m <span id="en" >10 mmp yellow-green</span><span id="ro" >10 mmp galben-verde</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
@@ -103,7 +103,7 @@
 <tr><td>Formula 2</td><td>5.9 RON / <span id="en" >m 3 wires x 2.5 mmp copper</span><span id="ro" >m 3 fire x 2.5 mmp cupru</span></td></tr>
 <tr><td>Formula 3</td><td>13.5 RON / <span id="en" >m 3 wires x 6 mmp copper</span><span id="ro" >m 3 fire x 6 mmp cupru</span></td></tr>
 <tr><td>Formula 4</td><td>21 RON / <span id="en" >m 5 wires x 6 mmp copper</span><span id="ro" >m 5 fire x 6 mmp cupru</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
@@ -117,7 +117,7 @@
 <tr><td>Formula 4</td><td>14.7 RON / <span id="en" >m 3 wires x 6 mmp copper</span><span id="ro" >m 3 fire x 6 mmp cupru</span></td></tr>
 <tr><td>Formula 5</td><td>17 RON / <span id="en" >m 5 wires x 4 mmp copper</span><span id="ro" >m 5 fire x 4 mmp cupru</span></td></tr>
 <tr><td>Formula 6</td><td>22.5 RON / <span id="en" >m 5 wires x 6 mmp copper</span><span id="ro" >m 5 fire x 6 mmp cupru</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
@@ -129,7 +129,7 @@
 <tr><td>Formula 2</td><td>3.6 RON / m<span id="en" >1 wires x 4 mmp black</span><span id="ro" >1 fire x 4 mmp negru</span></td></tr>
 <tr><td>Formula 3</td><td>5.6 RON / m<span id="en" >1 wires x 6 mmp red</span><span id="ro" >1 fire x 6 mmp roșu</span></td></tr>
 <tr><td>Formula 4</td><td>5.6 RON / m<span id="en" >1 wires x 6 mmp black</span><span id="ro" >1 fire x 6 mmp negru</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
@@ -154,7 +154,7 @@
 <tr><td>Formula 1</td><td>6.8 RON / <span id="en" >m 5 wires x 1 mmp</span><span id="ro" >m 5 fire x 1 mmp</span></td></tr>
 <tr><td>Formula 1</td><td>9.5 RON / <span id="en" >m 5 wires x 1.5 mmp</span><span id="ro" >m 5 fire x 1.5 mmp</span></td></tr>
 <tr><td>Formula 1</td><td>8.2 RON / <span id="en" >m 6 wires x 1 mmp</span><span id="ro" >m 6 fire x 1 mmp</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
@@ -247,13 +247,47 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://ro.prysmian.com/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Phone cable TCYY - Comtec</span><span id="ro">Cablu de telefon TCYY - Comtec</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >IEC 11801</td></tr>
+<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
+<tr><td>Formula 1</td><td>>0.8 RON / m ( 1 x 2 ) x 0.5 mmp</td></tr>
+<tr><td>Formula 2</td><td>1.9 RON / m ( 4 x 2 ) x 0.5 mmp</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.comtec-int.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Fire warning cable JB-Y(St)Y - RCB Electro 97</span><span id="ro">Cablu alarma incendiu JB-Y(St)Y - RCB Electro 97</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >DIN VDE 0815</td></tr>
+<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td>Formula 1</td><td>>1.2 RON / m ( 1 x 2 ) x 0.8 mmp</td></tr>
+<tr><td>Formula 2</td><td>>2.1 RON / m ( 2 x 2 ) x 0.8 mmp</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Networking cable RJ45 S/FTP CAT7 - Schrack</span><span id="ro">Cablu de retea RJ45 S/FTP CAT7 - Schrack</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 50173-1</td></tr>
+<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
+<tr><td>Formula 1</td><td>>463,30 RON / 100m <span id="en" >roll</span><span id="ro" > rola</span> </td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.schrack.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Networking cable UTP - ICME Ecab</span><span id="ro">Cablu de retea UTP - ICME Ecab</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 50173-1</td></tr>
+<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td>Formula 1</td><td>>787 RON / 305m <span id="en" >roll</span><span id="ro" > rola</span> CAT5e</td></tr>
+<tr><td>Formula 1</td><td>>980 RON / 305m <span id="en" >roll</span><span id="ro" > rola</span> CAT6</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.hellenic-cables.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
 
-Cablu alarma
 
 
        <tr><td>CCTV cable </td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>RJ45 networking cable </td><td>Model A  / Roll</td><td>-</td></tr> 
        <tr><td>Speaker cable </td><td>Model A  / Roll</td><td>-</td></tr> 
 
 
