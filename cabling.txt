@@ -54,12 +54,49 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >MYYUP cable RCB Electro 97</span><span id="ro">Cablu MYYUP RCB Electro 97</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >SR HD 21.5 S3+A1+A2</td></tr>
+<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td>Formula 1</td><td>1.2 RON / <span id="en" >m 2 wires x 0.5 mmp</span><span id="ro" >m 2 fire x 0.5 mmp</span></td></tr>
+<tr><td>Formula 2</td><td>1.6 RON / <span id="en" >m 2 wires x 0.75 mmp</span><span id="ro" >m 2 fire x 0.75 mmp</span></td></tr>
+<tr><td>Formula 3</td><td>2 RON / <span id="en" >m 2 wires x 1 mmp</span><span id="ro" >m 2 fire x 1 mmp</span></td></tr>
+<tr><td>Formula 4</td><td>2.9 RON / <span id="en" >m 2 wires x 1.5 mmp</span><span id="ro" >m 2 fire x 1.5 mmp</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >FY cable RCB Electro 97</span><span id="ro">Cablu FY RCB Electro 97</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 50525-2-31</td></tr>
+<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td>Formula 1</td><td>80 RON / 100m <span id="en" >roll 1.5 mmp red </span><span id="ro" >rola 1.5 mmp roșu</span></td></tr>
+<tr><td>Formula 2</td><td>80 RON / 100m <span id="en" >roll 1.5 mmp blue </span><span id="ro" >rola 1.5 mmp albastru</span></td></tr>
+<tr><td>Formula 3</td><td>80 RON / 100m <span id="en" >roll 1.5 mmp black</span><span id="ro" >rola 1.5 mmp negru</span></td></tr>
+<tr><td>Formula 4</td><td>80 RON / 100m <span id="en" >roll 1.5 mmp yellow-green</span><span id="ro" >rola 1.5 mmp galben-verde</span></td></tr>
+<tr><td>Formula 5</td><td>129 RON / 100m <span id="en" >roll 2.5 mmp red </span><span id="ro" >rola 2.5 mmp roșu</span></td></tr>
+<tr><td>Formula 6</td><td>129 RON / 100m <span id="en" >roll 2.5 mmp blue </span><span id="ro" >rola 2.5 mmp albastru</span></td></tr>
+<tr><td>Formula 7</td><td>129 RON / 100m <span id="en" >roll 2.5 mmp black</span><span id="ro" >rola 2.5 mmp negru</span></td></tr>
+<tr><td>Formula 8</td><td>129 RON / 100m <span id="en" >roll 2.5 mmp yellow-green</span><span id="ro" >rola 2.5 mmp galben-verde</span></td></tr>
+<tr><td>Formula 9</td><td>120 RON / 50m <span id="en" >roll 4 mmp red </span><span id="ro" >rola 4 mmp roșu</span></td></tr>
+<tr><td>Formula 10</td><td>120 RON / 50m <span id="en" >roll 4 mmp blue </span><span id="ro" >rola 4 mmp albastru</span></td></tr>
+<tr><td>Formula 11</td><td>120 RON / 50m <span id="en" >roll 4 mmp black</span><span id="ro" >rola 4 mmp negru</span></td></tr>
+<tr><td>Formula 12</td><td>120 RON / 50m <span id="en" >roll 4 mmp yellow-green</span><span id="ro" >rola 4 mmp galben-verde</span></td></tr>
+<tr><td>Formula 9</td><td>3.7 RON / m <span id="en" >6 mmp red </span><span id="ro" >6 mmp roșu</span></td></tr>
+<tr><td>Formula 10</td><td>3.7 RON / m <span id="en" >6 mmp blue </span><span id="ro" >6 mmp albastru</span></td></tr>
+<tr><td>Formula 11</td><td>3.7 RON / m <span id="en" >6 mmp black</span><span id="ro" >6 mmp negru</span></td></tr>
+<tr><td>Formula 12</td><td>3.7 RON / m <span id="en" >6 mmp yellow-green</span><span id="ro" >6 mmp galben-verde</span></td></tr>
+<tr><td>Formula 13</td><td>7.6 RON / m <span id="en" >10 mmp red </span><span id="ro" >10 mmp roșu</span></td></tr>
+<tr><td>Formula 14</td><td>7.6 RON / m <span id="en" >10 mmp blue </span><span id="ro" >10 mmp albastru</span></td></tr>
+<tr><td>Formula 15</td><td>7.6 RON / m <span id="en" >10 mmp black</span><span id="ro" >10 mmp negru</span></td></tr>
+<tr><td>Formula 16</td><td>7.6 RON / m <span id="en" >10 mmp yellow-green</span><span id="ro" >10 mmp galben-verde</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
 
 
        <tr><td>CCTV cable </td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>MYYUP cable </td><td>Model A  / Roll</td><td>-</td></tr>
        <tr><td>CYY cable </td><td>Model A  / Roll</td><td>-</td></tr>
        <tr><td>TCYY cable </td><td>Model A  / Roll</td><td>-</td></tr>
        <tr><td>MCCG-I cable </td><td>Model A  / Roll</td><td>-</td></tr> 
