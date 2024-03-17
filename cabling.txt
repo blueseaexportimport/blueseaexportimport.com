@@ -1,16 +1,72 @@
 <tbody>
 
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BA0001</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >TV coaxial cable RCB Electro 97</span><span id="ro">Cablu coaxial TV RCB Electro 97</span></td></tr>
+<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td>Formula 1</td><td>1.2 RON / m RG6/U Standard EN 50117-2-1</td></tr>
+<tr><td>Formula 2</td><td>1.6 RON / m TCC2YY-I Standard STAS 7757/1–86</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >MYF cable RCB Electro 97</span><span id="ro">Cablu MYF RCB Electro 97</span></td></tr>
 <tr><td>Standard:</td><td style="color:#39ff14;" >EN 50117-2-1</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-<tr><td>Formula 1</td><td>1.2 RON / m RG6/U</td></tr>
+<tr><td>Formula 1</td><td>48.5 RON / <span id="en" >50m roll 1.5 mmp red</span><span id="ro" >50m rola 1.5 mmp roșu</span></td></tr>
+<tr><td>Formula 2</td><td>48.5 RON / <span id="en" >50m roll 1.5 mmp blue</span><span id="ro" >50m rola 1.5 mmp albastru</span></td></tr>
+<tr><td>Formula 3</td><td>48.5 RON / <span id="en" >50m roll 1.5 mmp black</span><span id="ro" >50m rola 1.5 mmp negru</span></td></tr>
+<tr><td>Formula 4</td><td>48.5 RON / <span id="en" >50m roll 1.5 mmp yellow-green</span><span id="ro" >50m rola 1.5 mmp galben-verde</span></td></tr>
+<tr><td>Formula 5</td><td>79.9 RON / <span id="en" >50m roll 2.5 mmp red</span><span id="ro" >50m rola 2.5 mmp roșu</span></td></tr>
+<tr><td>Formula 6</td><td>79.9 RON / <span id="en" >50m roll 2.5 mmp blue</span><span id="ro" >50m rola 2.5 mmp albastru</span></td></tr>
+<tr><td>Formula 7</td><td>79.9 RON / <span id="en" >50m roll 2.5 mmp black</span><span id="ro" >50m rola 2.5 mmp negru</span></td></tr>
+<tr><td>Formula 8</td><td>79.9 RON / <span id="en" >50m roll 2.5 mmp yellow-green</span><span id="ro" >50m rola 2.5 mmp galben-verde</span></td></tr>
+<tr><td>Formula 9</td><td>62.9 RON / <span id="en" >25m roll 4 mmp red</span><span id="ro" >25m rola 4 mmp roșu</span></td></tr>
+<tr><td>Formula 10</td><td>62.9 RON / <span id="en" >25m roll 4 mmp blue</span><span id="ro" >25m rola 4 mmp albastru</span></td></tr>
+<tr><td>Formula 11</td><td>62.9 RON / <span id="en" >25m roll 4 mmp black</span><span id="ro" >25m rola 4 mmp negru</span></td></tr>
+<tr><td>Formula 12</td><td>62.9 RON / <span id="en" >25m roll 4 mmp yellow-green</span><span id="ro" >25m rola 4 mmp galben-verde</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >MYYM cable RCB Electro 97</span><span id="ro">Cablu MYYM RCB Electro 97</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 50525-2-11</td></tr>
+<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td>Formula 1</td><td>49.9 RON / <span id="en" >25m roll 2 wires x 0.75 mmp copper</span><span id="ro" >25m rola 2 fire x 0.75 mmp cupru</span></td></tr>
+<tr><td>Formula 2</td><td>51 RON / <span id="en" >25m roll 2 wires x 1 mmp copper</span><span id="ro" >25m rola 2 fire x 1 mmp cupru</span></td></tr>
+<tr><td>Formula 3</td><td>249 RON / <span id="en" >100m roll 2 wires x 1.5 mmp copper</span><span id="ro" >100m rola 2 fire x 1.5 mmp cupru</span></td></tr>
+<tr><td>Formula 4</td><td>126 RON / <span id="en" >25m roll 2 wires x 2.5 mmp copper</span><span id="ro" >25m rola 2 fire x 2.5 mmp cupru</span></td></tr>
+<tr><td>Formula 5</td><td>64.8 RON / <span id="en" >25m roll 3 wires x 0.75 mmp copper</span><span id="ro" >25m rola 3 fire x 0.75 mmp cupru</span></td></tr>
+<tr><td>Formula 6</td><td>134 RON / <span id="en" >50m roll 3 wires x 1 mmp copper</span><span id="ro" >50m rola 3 fire x 1 mmp cupru</span></td></tr>
+<tr><td>Formula 7</td><td>318 RON / <span id="en" >100m roll 3 wires x 1.5 mmp copper</span><span id="ro" >100m rola 3 fire x 1.5 mmp cupru</span></td></tr>
+<tr><td>Formula 8</td><td>502 RON / <span id="en" >100m roll 3 wires x 2.5 mmp copper</span><span id="ro" >100m rola 3 fire x 2.5 mmp cupru</span></td></tr>
+<tr><td>Formula 9</td><td>118 RON / <span id="en" >25m roll 4 wires x 1.5 mmp copper</span><span id="ro" >25m rola 4 fire x 1.5 mmp cupru</span></td></tr>
+<tr><td>Formula 10</td><td>395 RON / <span id="en" >50m roll 4 wires x 2.5 mmp copper</span><span id="ro" >50m rola 4 fire x 2.5 mmp cupru</span></td></tr>
+<tr><td>Formula 11</td><td>11.7 RON / <span id="en" >m 4 wires x 4 mmp copper</span><span id="ro" >m 4 fire x 4 mmp cupru</span></td></tr>
+<tr><td>Formula 12</td><td>17 RON / <span id="en" >m 4 wires x 6 mmp copper</span><span id="ro" >m 4 fire x 6 mmp cupru</span></td></tr>
+<tr><td>Formula 13</td><td>176 RON / <span id="en" >25m roll 5 wires x 1.5 mmp copper</span><span id="ro" >25m rola 5 fire x 1.5 mmp cupru</span></td></tr>
+<tr><td>Formula 14</td><td>440 RON / <span id="en" >50m roll 5 wires x 2.5 mmp copper</span><span id="ro" >50m rola 5 fire x 2.5 mmp cupru</span></td></tr>
+<tr><td>Formula 15</td><td>15.6 RON / <span id="en" >m 5 wires x 4 mmp copper</span><span id="ro" >m 5 fire x 4 mmp cupru</span></td></tr>
+<tr><td>Formula 16</td><td>21.9 RON / <span id="en" >m 5 wires x 6 mmp copper</span><span id="ro" >m 5 fire x 6 mmp cupru</span></td></tr>
+<tr><td>Formula 17</td><td>38 RON / <span id="en" >m 5 wires x 10 mmp copper</span><span id="ro" >m 5 fire x 10 mmp cupru</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
 
+
+
+
+       <tr><td>CCTV cable </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>MYYUP cable </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>CYY cable </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>TCYY cable </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>MCCG-I cable </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>CYABY cable </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>RJ45 networking cable </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Speaker cable </td><td>Model A  / Roll</td><td>-</td></tr> 
+       <tr><td>Welding cable </td><td>Model A  / Roll</td><td>-</td></tr>  
 
 
 </tbody>
@@ -36,18 +92,6 @@ if (class_ro === "new") {
        <tr><td>Lightbulb socket adapter </td><td>Model e27</td><td>-</td></tr>
        <tr><td>Lightbulb socket </td><td>Model e14</td><td>-</td></tr>
        <tr><td>Lightbulb socket </td><td>Model e27</td><td>-</td></tr>  
-       <tr><td>CCTV cable </td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>MYYUP cable </td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>MYYM cable </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>MYF cable </td><td>Model A  / Roll</td><td>-</td></tr>  
-       <tr><td>CYY cable </td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>TCYY cable </td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>MCCG-I cable </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>CYABY cable </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>RJ45 networking cable </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Coaxial cable </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Speaker cable </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Welding cable </td><td>Model A  / Roll</td><td>-</td></tr>  
        <tr><td>TV Coax Signal Splitter </td><td>Model A  / Roll</td><td>-</td></tr> 
        <tr><td>Coaxial cable connector L female </td><td>Model A  / Roll</td><td>-</td></tr> 
        <tr><td>Coaxial cable connector L male</td><td>Model A  / Roll</td><td>-</td></tr>    
