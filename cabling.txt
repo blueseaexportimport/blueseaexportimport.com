@@ -2,15 +2,15 @@
 
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BA0001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Energizer Battery</span><span id="ro">Baterie Energizer</span></td></tr>
-<tr><td>Standard:</td><td style="color:#39ff14;" >IEC 60086</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >TV coaxial cable RCB Electro 97</span><span id="ro">Cablu coaxial TV RCB Electro 97</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 50117-2-1</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
-
-<tr><td>Formula 1</td><td>- RON / -</td></tr>
-
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td>Formula 1</td><td>1.2 RON / m RG6/U</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
+
+
 
 
 </tbody>
@@ -49,7 +49,6 @@ if (class_ro === "new") {
        <tr><td>Speaker cable </td><td>Model A  / Roll</td><td>-</td></tr> 
        <tr><td>Welding cable </td><td>Model A  / Roll</td><td>-</td></tr>  
        <tr><td>TV Coax Signal Splitter </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Coaxial cable </td><td>Model A  / Roll</td><td>-</td></tr> 
        <tr><td>Coaxial cable connector L female </td><td>Model A  / Roll</td><td>-</td></tr> 
        <tr><td>Coaxial cable connector L male</td><td>Model A  / Roll</td><td>-</td></tr>    
        <tr><td>Coaxial cable connector female </td><td>Model A  / Roll</td><td>-</td></tr> 
