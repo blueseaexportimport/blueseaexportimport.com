@@ -107,19 +107,6 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >MCCG-I cable - Hellenic Cables</span><span id="ro">Cablu MCCG-I - Hellenic Cables</span></td></tr>
-<tr><td>Standard:</td><td style="color:#39ff14;" >EN 50525-2-21</td></tr>
-<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-<tr><td>Formula 1</td><td>4.8 RON / <span id="en" >m 2 wires x 1.5 mmp copper</span><span id="ro" >m 2 fire x 1.5 mmp cupru</span></td></tr>
-<tr><td>Formula 1</td><td>5.9 RON / <span id="en" >m 3 wires x 1.5 mmp copper</span><span id="ro" >m 3 fire x 1.5 mmp cupru</span></td></tr>
-<tr><td>Formula 1</td><td>7.9 RON / <span id="en" >m 4 wires x 1.5 mmp copper</span><span id="ro" >m 4 fire x 1.5 mmp cupru</span></td></tr>
-<tr><td>Formula 1</td><td>9.1 RON / <span id="en" >m 3 wires x 2.5 mmp copper</span><span id="ro" >m 3 fire x 2.5 mmp cupru</span></td></tr>
-<tr><td>Formula 1</td><td>14 RON / <span id="en" >m 3 wires x 4 mmp copper</span><span id="ro" >m 3 fire x 4 mmp cupru</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.hellenic-cables.com/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >CYABY cable - RCB Electro 97</span><span id="ro">Cablu CYABY - RCB Electro 97</span></td></tr>
 <tr><td>Standard:</td><td style="color:#39ff14;" >SR CEI 60502-1:2006</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
@@ -158,6 +145,18 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >MCCG-I cable - Hellenic Cables</span><span id="ro">Cablu MCCG-I - Hellenic Cables</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 50525-2-21</td></tr>
+<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td>Formula 1</td><td>4.8 RON / <span id="en" >m 2 wires x 1.5 mmp copper</span><span id="ro" >m 2 fire x 1.5 mmp cupru</span></td></tr>
+<tr><td>Formula 1</td><td>5.9 RON / <span id="en" >m 3 wires x 1.5 mmp copper</span><span id="ro" >m 3 fire x 1.5 mmp cupru</span></td></tr>
+<tr><td>Formula 1</td><td>7.9 RON / <span id="en" >m 4 wires x 1.5 mmp copper</span><span id="ro" >m 4 fire x 1.5 mmp cupru</span></td></tr>
+<tr><td>Formula 1</td><td>9.1 RON / <span id="en" >m 3 wires x 2.5 mmp copper</span><span id="ro" >m 3 fire x 2.5 mmp cupru</span></td></tr>
+<tr><td>Formula 1</td><td>14 RON / <span id="en" >m 3 wires x 4 mmp copper</span><span id="ro" >m 3 fire x 4 mmp cupru</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.hellenic-cables.com/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Welding cable H01N2-D - Prysmian Group</span><span id="ro">Cablu de sudură H01N2-D - Prysmian Group</span></td></tr>
@@ -171,15 +170,77 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://ro.prysmian.com/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Industrial cable RV-K - Prysmian Group</span><span id="ro">Cablu industrial RV-K - Prysmian Group</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >IEC 60502-1</td></tr>
+<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
+<tr><td>Formula 1</td><td>12 RON / m <span id="en" >1 wires x 16 mmp copper U0/U: 0.6/1 kV</span><span id="ro" >1 fire x 16 mmp cupru U0/U: 0.6/1 kV</span></td></tr>
+<tr><td>Formula 2</td><td>21 RON / m <span id="en" >1 wires x 25 mmp copper U0/U: 0.6/1 kV</span><span id="ro" >1 fire x 25 mmp cupru U0/U: 0.6/1 kV</span></td></tr>
+<tr><td>Formula 3</td><td>26 RON / m <span id="en" >1 wires x 35 mmp copper U0/U: 0.6/1 kV</span><span id="ro" >1 fire x 35 mmp cupru U0/U: 0.6/1 kV</span></td></tr>
+<tr><td>Formula 4</td><td>35 RON / m <span id="en" >1 wires x 50 mmp copper U0/U: 0.6/1 kV</span><span id="ro" >1 fire x 50 mmp cupru U0/U: 0.6/1 kV</span></td></tr>
+<tr><td>Formula 5</td><td>48 RON / m <span id="en" >1 wires x 70 mmp copper U0/U: 0.6/1 kV</span><span id="ro" >1 fire x 70 mmp cupru U0/U: 0.6/1 kV</span></td></tr>
+<tr><td>Formula 6</td><td>63 RON / m <span id="en" >1 wires x 95 mmp copper U0/U: 0.6/1 kV</span><span id="ro" >1 fire x 95 mmp cupru U0/U: 0.6/1 kV</span></td></tr>
+<tr><td>Formula 7</td><td>79 RON / m <span id="en" >1 wires x 120 mmp copper U0/U: 0.6/1 kV</span><span id="ro" >1 fire x 120 mmp cupru U0/U: 0.6/1 kV</span></td></tr>
+<tr><td>Formula 8</td><td>96 RON / m <span id="en" >1 wires x 150 mmp copper U0/U: 0.6/1 kV</span><span id="ro" >1 fire x 150 mmp cupru U0/U: 0.6/1 kV</span></td></tr>
+<tr><td>Formula 9</td><td>117 RON / m <span id="en" >1 wires x 185 mmp copper U0/U: 0.6/1 kV</span><span id="ro" >1 fire x 185 mmp cupru U0/U: 0.6/1 kV</span></td></tr>
+<tr><td>Formula 10</td><td>153 RON / m <span id="en" >1 wires x 240 mmp copper U0/U: 0.6/1 kV</span><span id="ro" >1 fire x 240 mmp cupru U0/U: 0.6/1 kV</span></td></tr>
+<tr><td>Formula 11</td><td>98 RON / m <span id="en" >4 wires x 35 mmp copper U0/U: 0.6/1 kV</span><span id="ro" >4 fire x 35 mmp cupru U0/U: 0.6/1 kV</span></td></tr>
+<tr><td>Formula 12</td><td>23.5 RON / m <span id="en" >5 wires x 6 mmp copper U0/U: 0.6/1 kV</span><span id="ro" >5 fire x 6 mmp cupru U0/U: 0.6/1 kV</span></td></tr>
+<tr><td>Formula 13</td><td>38 RON / m <span id="en" >5 wires x 10 mmp copper U0/U: 0.6/1 kV</span><span id="ro" >5 fire x 10 mmp cupru U0/U: 0.6/1 kV</span></td></tr>
+<tr><td>Formula 14</td><td>87 RON / m <span id="en" >5 wires x 25 mmp copper U0/U: 0.6/1 kV</span><span id="ro" >5 fire x 25 mmp cupru U0/U: 0.6/1 kV</span></td></tr>
+<tr><td>Formula 15</td><td>118 RON / m <span id="en" >5 wires x 35 mmp copper U0/U: 0.6/1 kV</span><span id="ro" >5 fire x 35 mmp cupru U0/U: 0.6/1 kV</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://ro.prysmian.com/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Zero halogens cable N2XH - Prysmian Group</span><span id="ro">Cablu zero halogeni N2XH - Prysmian Group</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >SR HD 604 S1</td></tr>
+<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
+<tr><td>Formula 1</td><td>17.4 RON / m <span id="en" >1 wires x 16 mmp copper rigid</span><span id="ro" >1 fire x 16 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>18 RON / m <span id="en" >1 wires x 25 mmp copper rigid</span><span id="ro" >1 fire x 25 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>24 RON / m <span id="en" >1 wires x 35 mmp copper rigid</span><span id="ro" >1 fire x 35 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>32 RON / m <span id="en" >1 wires x 50 mmp copper rigid</span><span id="ro" >1 fire x 50 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>47 RON / m <span id="en" >1 wires x 70 mmp copper rigid</span><span id="ro" >1 fire x 70 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>70 RON / m <span id="en" >1 wires x 95 mmp copper rigid</span><span id="ro" >1 fire x 95 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>80 RON / m <span id="en" >1 wires x 120 mmp copper rigid</span><span id="ro" >1 fire x 120 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>100 RON / m <span id="en" >1 wires x 150 mmp copper rigid</span><span id="ro" >1 fire x 150 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>127 RON / m <span id="en" >1 wires x 185 mmp copper rigid</span><span id="ro" >1 fire x 185 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>155.3 RON / m <span id="en" >1 wires x 240 mmp copper rigid</span><span id="ro" >1 fire x 240 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>4 RON / m <span id="en" >2 wires x 1.5 mmp copper rigid</span><span id="ro" >1 fire x 1.5 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>4.4 RON / m <span id="en" >3 wires x 1.5 mmp copper rigid</span><span id="ro" >3 fire x 1.5 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>6.4 RON / m <span id="en" >3 wires x 2.5 mmp copper rigid</span><span id="ro" >3 fire x 2.5 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>10.7 RON / m <span id="en" >3 wires x 4 mmp copper rigid</span><span id="ro" >3 fire x 4 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>15.4 RON / m <span id="en" >3 wires x 6 mmp copper rigid</span><span id="ro" >3 fire x 6 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>76 RON / m <span id="en" >3 wires x 25 mmp copper rigid</span><span id="ro" >3 fire x 25 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>94 RON / m <span id="en" >3 wires x 35 mmp copper rigid</span><span id="ro" >3 fire x 35 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>116.5 RON / m <span id="en" >3 wires x 50 mmp copper rigid</span><span id="ro" >3 fire x 50 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>161.7 RON / m <span id="en" >3 wires x 70 mmp copper rigid</span><span id="ro" >3 fire x 70 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>256 RON / m <span id="en" >3 wires x 95 mmp copper rigid</span><span id="ro" >3 fire x 95 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>6.3 RON / m <span id="en" >4 wires x 1.5 mmp copper rigid</span><span id="ro" >4 fire x 1.5 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>7.1 RON / m <span id="en" >4 wires x 2.5 mmp copper rigid</span><span id="ro" >4 fire x 2.5 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>13.7 RON / m <span id="en" >4 wires x 4 mmp copper rigid</span><span id="ro" >4 fire x 4 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>25 RON / m <span id="en" >4 wires x 6 mmp copper rigid</span><span id="ro" >4 fire x 6 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>231 RON / m <span id="en" >4 wires x 70 mmp copper rigid</span><span id="ro" >4 fire x 70 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>7.6 RON / m <span id="en" >5 wires x 1.5 mmp copper rigid</span><span id="ro" >5 fire x 1.5 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>11.1 RON / m <span id="en" >5 wires x 2.5 mmp copper rigid</span><span id="ro" >5 fire x 2.5 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>16.5 RON / m <span id="en" >5 wires x 4 mmp copper rigid</span><span id="ro" >5 fire x 4 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>23.4 RON / m <span id="en" >5 wires x 6 mmp copper rigid</span><span id="ro" >5 fire x 6 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>39 RON / m <span id="en" >5 wires x 10 mmp copper rigid</span><span id="ro" >5 fire x 10 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>58.1 RON / m <span id="en" >5 wires x 16 mmp copper rigid</span><span id="ro" >5 fire x 16 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>91 RON / m <span id="en" >5 wires x 25 mmp copper rigid</span><span id="ro" >5 fire x 25 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>117 RON / m <span id="en" >5 wires x 35 mmp copper rigid</span><span id="ro" >5 fire x 35 mmp cupru rigid</span></td></tr>
+<tr><td>Formula 1</td><td>10 RON / m <span id="en" >7 wires x 1.5 mmp copper rigid</span><span id="ro" >7 fire x 1.5 mmp cupru rigid</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://ro.prysmian.com/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
 
 
-
-
+Cablu alarma
 
 
        <tr><td>CCTV cable </td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>TCYY cable </td><td>Model A  / Roll</td><td>-</td></tr>
        <tr><td>RJ45 networking cable </td><td>Model A  / Roll</td><td>-</td></tr> 
        <tr><td>Speaker cable </td><td>Model A  / Roll</td><td>-</td></tr> 
 
