@@ -1,2 +1,5 @@
 <tbody>
+       <tr><td>MV Cable Lug </td><td>Papuc cablu Tensiunie Medie</td><td>-</td></tr> 
+       <tr><td>MV Cable Link </td><td>Model A  / Roll</td><td>-</td></tr>
+
 </tbody>
