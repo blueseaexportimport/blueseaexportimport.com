@@ -34,6 +34,28 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BMS0000004</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Construction plaster Adeplast IC90</span><span id="ro">Ipsos construcții Adeplast IC90</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 13279-1:2009</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.adeplast.ro/produse/gleturi-pentru-incarcare-si-finisare/246-ic-90" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >29 RON / 20kg</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BMS0000004</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Masonry cement Multibat</span><span id="ro">Ciment pentru zidărie Multibat</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 413-1:2011</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.romcim.ro/produse/multibat/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >35.5 RON / 40kg</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Modeling plaster</span><span id="ro">Ipsos modelaj</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >SR 545-2:2000</td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000.00 RON / 15kg</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BMS0000004</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Plastering and rendering mortar</span><span id="ro">Mortar pentru tencuire interioară și exterioară</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 998-1:2016</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
@@ -57,11 +79,6 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:black;"><span id="en">Construction plaster</span><span id="ro">Ipsos construcții</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >EN 13279-1:2009</td></tr>
-<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000.00 RON / 20kg</td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
 <td style="color:black;"><span id="en">Clay for cement- clay based mortars</span><span id="ro">Argilă pentru mortare pe bază de ciment-argilă</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >STAS 4686-71</td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000.00 RON / 15kg</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
@@ -72,17 +89,7 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:black;"><span id="en">Modeling plaster</span><span id="ro">Ipsos modelaj</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >SR 545-2:2000</td></tr>
-<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000.00 RON / 15kg</td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
 <td style="color:black;"><span id="en">Ground talc</span><span id="ro">Talc măcinat</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >STAS 11124-78</td></tr>
-<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000.00 RON / 15kg</td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:black;"><span id="en">Masonry cement</span><span id="ro">Ciment pentru zidărie</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >EN 413-1:2011</td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000.00 RON / 15kg</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
