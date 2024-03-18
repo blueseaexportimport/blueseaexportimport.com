@@ -1,5 +1,7 @@
 <tbody>
 
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">TV</span><span id="ro">TV</span></td><td></td></tr>
+
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >TV coaxial cable - RCB Electro 97</span><span id="ro">Cablu coaxial TV - RCB Electro 97</span></td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
@@ -10,6 +12,77 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >TV Coaxial cable connectors and adaptors - Emos</span><span id="ro">Mufe si adaptoare cablu coaxial TV - Emos</span></td></tr>
+<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Czech Republic</span><span id="ro">Cehia</span></td></tr>
+<tr><td>Formula 1</td><td>3.2 RON / 2 x <span id="en" >TV Coaxial cable connector L father, screw</span><span id="ro" >Mufa cablu coaxial TV L tata, surub</span></td></tr>
+<tr><td>Formula 2</td><td>3.6 RON / 2 x <span id="en" >TV Coaxial cable connector M father</span><span id="ro" >Mufa cablu coaxial TV M tata</span></td></tr>
+<tr><td>Formula 3</td><td>3.9 RON / 2 x <span id="en" >TV Coaxial cable connector L mother, screw</span><span id="ro" >Mufa cablu coaxial TV L mama, surub</span></td></tr>
+<tr><td>Formula 4</td><td>3 RON / 2 x 6.8mm <span id="en" >TV Type F Connector</span><span id="ro" >Conectori F TV</span></td></tr>
+<tr><td>Formula 5</td><td>3.1 RON / 2 x 7mm <span id="en" >TV Type F Connector</span><span id="ro" >Conectori F TV</span></td></tr>
+<tr><td>Formula 6</td><td>3.2 RON / 2 x 5mm <span id="en" >TV Type F Connector</span><span id="ro" >Conectori F TV</span></td></tr>
+<tr><td>Formula 7</td><td>3.2 RON / 2 x <span id="en" >TV Type F Coupler IEC mother-mother</span><span id="ro" >Cupla IEC F TV mama-mama</span></td></tr>
+<tr><td>Formula 8</td><td>3.4 RON / 2 x <span id="en" >Type F Adapter mother-IEC M father</span><span id="ro" >Adaptor F mama-IEC M tata</span></td></tr>
+<tr><td>Formula 9</td><td>3.5 RON / 2 x <span id="en" >TV Type F-F Adapter mother-mother</span><span id="ro" >Adaptor F-F TV mama-mama</span></td></tr>
+<tr><td>Formula 10</td><td>3.8 RON / 2 x <span id="en" >Type F Adapter mother-IEC mother</span><span id="ro" >Adaptor F mama-IEC mama</span></td></tr>
+<tr><td>Formula 11</td><td>4 RON / 2 x <span id="en" >TV L shape Type F-F Adapter father-mother</span><span id="ro" >Adaptor forma L TV F-F T tata-mama</span></td></tr>
+<tr><td>Formula 12</td><td>4.2 RON / 2 x <span id="en" >TV Type F-F Adapter father-father</span><span id="ro" >Adaptor F-F TV tata-tata</span></td></tr>
+<tr><td>Formula 13</td><td>11.1 RON / <span id="en" >TV Coax Signal Splitter 1in - 2out</span><span id="ro" >Distribuitor semnal TV 1in - 2out</span></td></tr>
+<tr><td>Formula 14</td><td>13.5 RON / <span id="en" >TV Coax Signal Splitter 1in - 4out</span><span id="ro" >Distribuitor semnal TV 1in - 4out</span></td></tr>
+<tr><td>Formula 15</td><td>14.7 RON / <span id="en" >TV Coax Signal Splitter 1in - 3out</span><span id="ro" >Distribuitor semnal TV 1in - 3out</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://emos.cz" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
+
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Internet</span><span id="ro">Internet</span></td><td></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0003</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Networking cable RJ45 S/FTP CAT7 - Schrack</span><span id="ro">Cablu de retea RJ45 S/FTP CAT7 - Schrack</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 50173-1</td></tr>
+<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
+<tr><td>Formula 1</td><td>463,30 RON / 100m <span id="en" >roll</span><span id="ro" > rola</span> </td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.schrack.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0004</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Networking cable UTP - ICME Ecab</span><span id="ro">Cablu de retea UTP - ICME Ecab</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >EN 50173-1</td></tr>
+<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td>Formula 1</td><td>787 RON / 305m <span id="en" >roll</span><span id="ro" > rola</span> CAT5e</td></tr>
+<tr><td>Formula 1</td><td>980 RON / 305m <span id="en" >roll</span><span id="ro" > rola</span> CAT6</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.hellenic-cables.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0005</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >TV Coaxial cable connectors and adaptors - Emos</span><span id="ro">Mufe si adaptoare cablu coaxial TV - Emos</span></td></tr>
+<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Czech Republic</span><span id="ro">Cehia</span></td></tr>
+<tr><td>Formula 3</td><td>7 RON / 20x <span id="en" >RJ45 sleeve gray</span><span id="ro" >Manson RJ45 gri</span></td></tr>
+<tr><td>Formula 3</td><td>7 RON / 20x <span id="en" >RJ45 sleeve negru</span><span id="ro" >Manson RJ45 negru</span></td></tr>
+<tr><td>Formula 4</td><td>6.7 RON / 20x <span id="en" >RJ45 jack CAT5e transparent UTP unshielded</span><span id="ro" >Mufa RJ45 CAT5e transparent UTP neecranata</span></td></tr>
+<tr><td>Formula 4</td><td>14 RON / 20x <span id="en" >RJ45 jack CAT5e gray FTP unshielded</span><span id="ro" >Mufa RJ45 CAT5e gri FTP neecranata</span></td></tr>
+<tr><td>Formula 4</td><td>15.4 RON / 20x <span id="en" >RJ45 jack CAT6 transparent UTP unshielded</span><span id="ro" >Mufa RJ45 CAT6 transparent UTP neecranata</span></td></tr>
+<tr><td>Formula 4</td><td>18.8 RON / 20x <span id="en" >RJ45 jack CAT6 gray FTP shielded</span><span id="ro" >Mufa RJ45 CAT6 gri FTP ecranata</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://emos.cz" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Phone</span><span id="ro">Telefonie</span></td><td></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0006</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Phone cable TCYY - Comtec</span><span id="ro">Cablu de telefon TCYY - Comtec</span></td></tr>
+<tr><td>Standard:</td><td style="color:#39ff14;" >IEC 11801</td></tr>
+<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
+<tr><td>Formula 1</td><td>0.8 RON / m ( 1 x 2 ) x 0.5 mmp</td></tr>
+<tr><td>Formula 2</td><td>1.9 RON / m ( 4 x 2 ) x 0.5 mmp</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.comtec-int.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Electric</span><span id="ro">Electrice</span></td><td></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0007</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >MYF cable - RCB Electro 97</span><span id="ro">Cablu MYF - RCB Electro 97</span></td></tr>
 <tr><td>Standard:</td><td style="color:#39ff14;" >EN 50117-2-1</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
@@ -29,7 +102,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0003</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0008</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >MYYM cable - RCB Electro 97</span><span id="ro">Cablu - MYYM RCB Electro 97</span></td></tr>
 <tr><td>Standard:</td><td style="color:#39ff14;" >EN 50525-2-11</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
@@ -54,7 +127,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0004</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0009</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >MYYUP cable - RCB Electro 97</span><span id="ro">Cablu MYYUP - RCB Electro 97</span></td></tr>
 <tr><td>Standard:</td><td style="color:#39ff14;" >SR HD 21.5 S3+A1+A2</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
@@ -66,7 +139,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0005</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0010</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >FY cable - RCB Electro 97</span><span id="ro">Cablu FY - RCB Electro 97</span></td></tr>
 <tr><td>Standard:</td><td style="color:#39ff14;" >EN 50525-2-31</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
@@ -94,7 +167,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0006</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0011</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >CYY-F cable - RCB Electro 97</span><span id="ro">Cablu CYY-F - RCB Electro 97</span></td></tr>
 <tr><td>Standard:</td><td style="color:#39ff14;" >SR CEI 60502-1:2006</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
@@ -106,7 +179,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0007</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0012</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >CYABY cable - RCB Electro 97</span><span id="ro">Cablu CYABY - RCB Electro 97</span></td></tr>
 <tr><td>Standard:</td><td style="color:#39ff14;" >SR CEI 60502-1:2006</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
@@ -120,7 +193,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0008</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0013</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Cable for solar panels - RCB Electro 97</span><span id="ro">Cablu panouri solare - RCB Electro 97</span></td></tr>
 <tr><td>Standard:</td><td style="color:#39ff14;" >TUV 2 PfG 1169/08.2007</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
@@ -132,7 +205,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0009</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0014</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >LIYCY cable - RCB Electro 97</span><span id="ro">Cablu LIYCY - RCB Electro 97</span></td></tr>
 <tr><td>Standard:</td><td style="color:#39ff14;" >DIN VDE 0812</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
@@ -157,7 +230,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0010</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0015</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >MCCG-I cable - Hellenic Cables</span><span id="ro">Cablu MCCG-I - Hellenic Cables</span></td></tr>
 <tr><td>Standard:</td><td style="color:#39ff14;" >EN 50525-2-21</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
@@ -170,7 +243,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.hellenic-cables.com/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0011</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0016</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Welding cable H01N2-D - Prysmian Group</span><span id="ro">Cablu de sudură H01N2-D - Prysmian Group</span></td></tr>
 <tr><td>Standard:</td><td style="color:#39ff14;" >EN 50525-2-81</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
@@ -182,7 +255,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://ro.prysmian.com/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0012</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0017</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Industrial cable RV-K - Prysmian Group</span><span id="ro">Cablu industrial RV-K - Prysmian Group</span></td></tr>
 <tr><td>Standard:</td><td style="color:#39ff14;" >IEC 60502-1</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
@@ -205,7 +278,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://ro.prysmian.com/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0013</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0018</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Zero halogens cable N2XH - Prysmian Group</span><span id="ro">Cablu zero halogeni N2XH - Prysmian Group</span></td></tr>
 <tr><td>Standard:</td><td style="color:#39ff14;" >SR HD 604 S1</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
@@ -247,17 +320,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://ro.prysmian.com/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0014</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Phone cable TCYY - Comtec</span><span id="ro">Cablu de telefon TCYY - Comtec</span></td></tr>
-<tr><td>Standard:</td><td style="color:#39ff14;" >IEC 11801</td></tr>
-<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
-<tr><td>Formula 1</td><td>0.8 RON / m ( 1 x 2 ) x 0.5 mmp</td></tr>
-<tr><td>Formula 2</td><td>1.9 RON / m ( 4 x 2 ) x 0.5 mmp</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.comtec-int.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0015</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0019</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Fire warning cable JB-Y(St)Y - RCB Electro 97</span><span id="ro">Cablu alarma incendiu JB-Y(St)Y - RCB Electro 97</span></td></tr>
 <tr><td>Standard:</td><td style="color:#39ff14;" >DIN VDE 0815</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
@@ -266,24 +329,6 @@
 <tr><td>Formula 2</td><td>2.1 RON / m ( 2 x 2 ) x 0.8 mmp</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0016</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Networking cable RJ45 S/FTP CAT7 - Schrack</span><span id="ro">Cablu de retea RJ45 S/FTP CAT7 - Schrack</span></td></tr>
-<tr><td>Standard:</td><td style="color:#39ff14;" >EN 50173-1</td></tr>
-<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
-<tr><td>Formula 1</td><td>463,30 RON / 100m <span id="en" >roll</span><span id="ro" > rola</span> </td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.schrack.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0017</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Networking cable UTP - ICME Ecab</span><span id="ro">Cablu de retea UTP - ICME Ecab</span></td></tr>
-<tr><td>Standard:</td><td style="color:#39ff14;" >EN 50173-1</td></tr>
-<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-<tr><td>Formula 1</td><td>787 RON / 305m <span id="en" >roll</span><span id="ro" > rola</span> CAT5e</td></tr>
-<tr><td>Formula 1</td><td>980 RON / 305m <span id="en" >roll</span><span id="ro" > rola</span> CAT6</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.hellenic-cables.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
 
 
 
@@ -305,72 +350,86 @@ if (class_ro === "new") {
 </script>
 
 
+
+
 <!--
-       <tr><td>Lightbulb socket adapter </td><td>Model e14</td><td>-</td></tr>
-       <tr><td>Lightbulb socket adapter </td><td>Model e27</td><td>-</td></tr>
-       <tr><td>Lightbulb socket </td><td>Model e14</td><td>-</td></tr>
-       <tr><td>Lightbulb socket </td><td>Model e27</td><td>-</td></tr>  
-       <tr><td>TV Coax Signal Splitter </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Coaxial cable connector L female </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Coaxial cable connector L male</td><td>Model A  / Roll</td><td>-</td></tr>    
-       <tr><td>Coaxial cable connector female </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Coaxial cable connector male</td><td>Model A  / Roll</td><td>-</td></tr>  
-       <tr><td>RJ45 coupler </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>RJ45 socket </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Coaxial cable connector L male</td><td>Model A  / Roll</td><td>-</td></tr>    
-       <tr><td>Coaxial cable connector female </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Coaxial cable connector male</td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>RJ45 sleeve </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Type F Connector </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Type F-F Adapter </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Type F Adapter female</td><td>Model A  / Roll</td><td>-</td></tr>  
-       <tr><td>Coaxial cable extenstion adapter</td><td>Model A  / Roll</td><td>-</td></tr>  
-       <tr><td>LV Cable Lug </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>MV Cable Lug </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Outdoor Cable Lug </td><td>Model A  / Roll</td><td>-</td></tr> 
+
+       <tr><td>Lightbulb socket e14</td><td>Dulie e14</td><td>-</td></tr>
+       <tr><td>Lightbulb socket e27</td><td>Dulie e27</td><td>-</td></tr>  
+       <tr><td>E14 LED Lightbulb</td><td>Bec LED E14</td><td>-</td></tr>  
+       <tr><td>E27 LED Lightbulb</td><td>Bec LED E27</td><td>-</td></tr>
+       <tr><td>E27 LED Spotlight</td><td>Spot LED E27</td><td>-</td></tr>
+       <tr><td>E14 LED Spotlight</td><td>Spot LED E27</td><td>-</td></tr>
+       <tr><td>Wall Single-Pole Switch </td><td>Întrerupător de perete unipolar</td><td>-</td></tr>
+       <tr><td>Wall Double-Pole Switch </td><td>Întrerupător de perete bipolar</td><td>-</td></tr>
+       <tr><td>Wall Three-Way Switch  </td><td>Întrerupător de perete cu trei căi</td><td>-</td></tr>
+       <tr><td>Wall Four-Way Switch </td><td>Întrerupător de perete cu patru căi</td><td>-</td></tr>
+       <tr><td>Wall Smart Switch  </td><td>Întrerupător de perete inteligent</td><td>-</td></tr>
+       <tr><td>Wall Dimmer Switch  </td><td>Întrerupător de perete dimmer</td><td>-</td></tr>
+       <tr><td>Wall Occupancy Switch   </td><td>Întrerupător de perete "ocupat"</td><td>-</td></tr>
+       <tr><td>Wall Specialty Switch  </td><td>Întrerupător de perete specializat</td><td>-</td></tr>
+       <tr><td>Wall socket </td><td>Priza de perete</td><td>-</td></tr> 
+       <tr><td>Plug</td><td>Stecher</td><td>-</td></tr>  
+       <tr><td>Socket back box</td><td>Doze</td><td>-</td></tr> 
+       <tr><td>Socket back box cover</td><td>Capace Doze</td><td>-</td></tr> 
+       <tr><td>Extension cord </td><td>Prelungitoare</td><td>-</td></tr> 
+ 
+
+       <tr><td>LV Cable Lug </td><td>Papuc cablu Tensiune Joasa</td><td>-</td></tr> 
+      <tr><td>Outdoor Cable Lug </td><td>Model A  / Roll</td><td>-</td></tr> 
        <tr><td>Two-hole Cable Lug</td><td>Model A  / Roll</td><td>-</td></tr>  
        <tr><td>MCCB Cable Lug</td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>LV Cable Link </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>MV Cable Link </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Outdoor Long Barrel Cable Lug </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Type C Connector</td><td>Model A  / Roll</td><td>-</td></tr>  
-       <tr><td>Copper Trunking Earth Link</td><td>Model A  / Roll</td><td>-</td></tr> 
        <tr><td>90 Degree Cable Lug</td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Heat shrink tubes set</td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>E2508 terminal pin </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Two-hole screw mount clamp</td><td>Model A  / Roll</td><td>-</td></tr>  
-       <tr><td>Cable clamp with nail</td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Outdoor Long Barrel Cable Lug </td><td>Model A  / Roll</td><td>-</td></tr> 
+        <tr><td>Terminal block T85</td><td>Clemă șir / Morsete T85</td><td>-</td></tr>
+
+        <tr><td>Cable ties</td><td>Fasete</td><td>-</td></tr>
+       <tr><td>Model A  / Roll</td><td>Cleme fixat tuburi - cabluri</td><td>-</td></tr>
+       <tr><td>Sleeve connector with screw</td><td>Model A  / Roll</td><td>-</td></tr>- Cleme de legatura fara surub / Cleme U
        <tr><td>Sleeve connector without screw</td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>Sleeve connector with screw</td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>Terminal block T85</td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>Cable ties</td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>RJ45 jacks </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>S hooks set </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Carabiner </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Plug</td><td>Model A  / Roll</td><td>-</td></tr>  
+       <tr><td>Cable clamp with nail</td><td>Cleme cu cui</td><td>-</td></tr>
+       <tr><td>Two-hole screw mount clamp</td><td>Cleme cu surub</td><td>-</td></tr>  
+       <tr><td>LV Cable Link </td><td>Model A  / Roll</td><td>-</td></tr> 
+
+        <tr><td>S hooks set</td><td>Carlige S</td><td>-</td></tr>
+        <tr><td>Carabiner</td><td>Carabine</td><td>-</td></tr>
+       <tr><td>Cable tensioners</td><td>Intinzatoare</td><td>-</td></tr> 
+
+       <tr><td>Electric meter security seal</td><td>Sigiliu contor</td><td>-</td></tr>  
+       <tr><td>Cable labels set</td><td>Etichete cabluri</td><td>-</td></tr> 
+
+
        <tr><td>Rubber tube</td><td>Model A  / Roll</td><td>-</td></tr> 
        <tr><td>Rubber channel cable protectir </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Extension cord </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Wall socket </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Electric meter security seal</td><td>Model A  / Roll</td><td>-</td></tr>  
-       <tr><td>Cable tensioners</td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Cable labels set</td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Socket back box</td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Aerial visibility marker Balls </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>E14 LED Lightbulb</td><td>Model A  / Roll</td><td>-</td></tr>  
-       <tr><td>E27 LED Lightbulb</td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>E27 LED Spotlight</td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>E14 LED Spotlight</td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>Wall Single-Pole Switch </td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>Wall Double-Pole Switch </td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>Wall Three-Way Switch  </td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>Wall Four-Way Switch </td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>Wall Smart Switch  </td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>Wall Dimmer Switch  </td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>Wall Occupancy Switch   </td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>Wall Specialty Switch  </td><td>Model A  / Roll</td><td>-</td></tr>
+       <tr><td>Heat shrink tubes set</td><td>Tuburi termocontractabile</td><td>-</td></tr> 
+       <tr><td>Snap on cable markers set  </td><td>Marcaje cabluri</td><td>-</td></tr>
+       <tr><td>Copper Trunking Earth Link</td><td>Electrod cupru de impamantare</td><td>-</td></tr> 
+
+
+       <tr><td>Type C Connector</td><td>Model A  / Roll</td><td>-</td></tr>  
+       <tr><td>E2508 terminal pin </td><td>Model A  / Roll</td><td>-</td></tr> 
        <tr><td>Double clip cable </td><td>Model A  / Roll</td><td>-</td></tr>
        <tr><td>Single clip cable </td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>Snap on cable markers set  </td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>Cable grommets   </td><td>Model A  / Roll</td><td>-</td></tr>  
+       <tr><td>Cable grommets   </td><td>Model A  / Roll</td><td>-</td></tr> 
+
+- Papuci inelari / tip furca  / tip pin
+- Fise cilindrice /cu fixare prin surub
+- Fise glisante tip tata / mama
+- Masoane termocontractabile
+- Tuburi de capat
+- Cleme sir / Morsete
+- Clema simpla / dubla fixat cablu
+- Inele trecere cabluru 
+- Tuburi flexibile / rigide PVC / Canale pvc cablu adezive
+
+
+
+
+
+
+
+
+
+
+ 
 -->
