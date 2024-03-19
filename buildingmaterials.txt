@@ -41,6 +41,7 @@
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >29 RON / 20kg</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
+
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BMS0000004</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Masonry cement Multibat</span><span id="ro">Ciment pentru zidărie Multibat</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 413-1:2011</td></tr>
@@ -49,6 +50,13 @@
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >35.5 RON / 40kg</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BMS0000004</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Repair mortar for concrete Baumit BetoFill</span><span id="ro">Mortar de reparaţie beton Baumit BetoFill</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 1504-3:2006</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://baumit.ro/products/renovari/reparatii-beton/baumit-betofill" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >110 RON / 30kg</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
 <td style="color:black;"><span id="en">Modeling plaster</span><span id="ro">Ipsos modelaj</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >SR 545-2:2000</td></tr>
@@ -59,24 +67,22 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Plastering and rendering mortar</span><span id="ro">Mortar pentru tencuire interioară și exterioară</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 998-1:2016</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1 <span id="en" >GP: General purpose rendering/plastering mortar</span><span id="ro">GP: Mortar de uz general pentru tencuire / gletuire</span></td><td>- RON / 25kg</td></tr>
+
+<tr><td>Formula 1 <span id="en" >GP: General purpose rendering/plastering mortar</span><span id="ro">GP: Mortar de uz general pentru tencuire / gletuire</span></td><td>- RON</td></tr>
 <tr><td>Formula 2 <span id="en" >LW: Lightweight rendering/plastering mortar</span><span id="ro">LW: Mortar ușor pentru tencuire / gletuire</span></td><td>- RON / 25kg</td></tr>
 <tr><td>Formula 3 <span id="en" >CR: Coloured rendering mortar</span><span id="ro">CR: Mortar colorat pentru tencuire</span></td><td>- RON / 25kg</td></tr>
-<tr><td>Formula 4 <span id="en" >OC: One coat rendering mortar for external use</span><span id="ro">OC: Mortar monostrat pentru tencuire, utilizare exterioară</span></td><td>- RON / 25kg</td></tr>
+<tr><td>Formula 4 <span id="en" >OC: One coat rendering mortar for external use</span><span id="ro">OC: Mortar monostrat pentru tencuire, utilizare exterioară</span></td><td>- RON / 25kg  </td></tr>
 <tr><td>Formula 5 <span id="en" >R: Renovation mortar</span><span id="ro">R: Mortar pentru renovare</span></td><td>- RON / 25kg</td></tr>
-<tr><td>Formula 6 <span id="en" >T: Thermal insulating mortar</span><span id="ro">T: Mortar pentru izolare termică</span></td><td>- RON / 25kg</td></tr>
+<tr><td>Formula 6 <span id="en" >T: Thermal insulating mortar</span><span id="ro">T: Mortar pentru izolare termică</span></td><td>- RON / 40L</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
 <td style="color:black;"><span id="en">Mortar / grout for ceramic tiles</span><span id="ro">Mortar de rosturi pentru plăci şi dale ceramice</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >EN 13888-1:2022</td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000.00 RON / 15kg</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:black;"><span id="en">Repair mortar for concrete</span><span id="ro">Mortar de reparaţie beton</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >EN 1504-3:2006</td></tr>
-<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000.00 RON / 15kg</td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
 <td style="color:black;"><span id="en">Clay for cement- clay based mortars</span><span id="ro">Argilă pentru mortare pe bază de ciment-argilă</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >STAS 4686-71</td></tr>
