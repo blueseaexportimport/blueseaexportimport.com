@@ -1,2 +1,14 @@
 <tbody>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ODS0001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Red clay - AS CLUB</span><span id="ro">Zgură roșie - AS CLUB</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://zgura-asclub.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td>Formula 1</td><td style="color:#39ff14;" >200 RON / m3 <span id="en">bulk red clay granulation 3÷7 mm</span><span id="ro">vrac zgură roșie granulație 3÷7 mm</span> </td></tr>
+<tr><td>Formula 2</td><td style="color:#39ff14;" >260 RON / m3 <span id="en">in sacks red clay granulation 3÷7 mm</span><span id="ro">la saci zgură roșie granulație 3÷7 mm</span> </td></tr>
+<tr><td>Formula 3</td><td style="color:#39ff14;" >230 RON / m3 <span id="en">bulk red clay granulation 0÷3mm</span><span id="ro">vrac zgură roșie granulație 0÷3mm</span> </td></tr>
+<tr><td>Formula 4</td><td style="color:#39ff14;" >290 RON / m3 <span id="en">in sacks red clay granulation 0÷3mm</span><span id="ro">la saci zgură roșie granulație 0÷3mm</span> </td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 </tbody>
+
+
