@@ -805,6 +805,40 @@ $(document).ready(function () {
    });
   // Grab adult and baby personal hygiene on click end
 
+
+
+  // Grab outdoor sports on click start
+  $("#outdoorsportsbtn").click(function() {
+    if ($("#outdoorsports").hasClass("clickedoutdoorsports")) {
+        // already been clicked once, hide it
+        $("#outdoorsports").html("");
+        $( "#outdoorsports" ).removeClass( "clickedoutdoorsports" )
+    }else {
+        // first time this is clicked, mark it
+        $("#outdoorsports").addClass("clickedoutdoorsports");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/outdoorsports.txt", success: function(result){
+         $("#outdoorsports").html(result);
+        }});
+    }
+   });
+  // Grab outdoor sports on click end
+
+  // Grab sports nets on click start
+  $("#sportsnetsbtn").click(function() {
+    if ($("#sportsnets").hasClass("clickedsportsnets")) {
+        // already been clicked once, hide it
+        $("#sportsnets").html("");
+        $( "#sportsnets" ).removeClass( "clickedsportsnets" )
+    }else {
+        // first time this is clicked, mark it
+        $("#sportsnets").addClass("clickedsportsnets");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/sportsnets.txt", success: function(result){
+         $("#sportsnets").html(result);
+        }});
+    }
+   });
+  // Grab sports nets on click end
+
   // Grab chickenfreshmeat on click start
   $("#chickenfreshmeatbtn").click(function() {
     if ($("#chickenfreshmeat").hasClass("clickedchickenfreshmeat")) {
@@ -2252,10 +2286,16 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Bicycles and Accesories</span><span id="ro">Biciclete și Accesorii</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Outdoor Sports</span><span id="ro">Sporturi Outdoor</span></h5>    
-  <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Sports Nets</span><span id="ro">Plase Sport</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="outdoorsportsbtn" ><span id="en">Outdoor Sports (1)</span><span id="ro">Sporturi Outdoor (1)</span></h5>    
+   <table id="outdoorsports" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+  <h5 class="categoryaccordion" id="sportsnetsbtn" ><span id="en">Sports Nets (5)</span><span id="ro">Plase Sport (5)</span></h5>    
+   <table id="sportsnets" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
   </div></li><!--END SECTION-->	
 
   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>X. TICKETS, NEWSPAPERS, BOOKS AND MAGAZINES (0)</b></span> <span id="ro"><b>X. BILETE, ZIARE, CĂRȚI ȘI REVISTE (0)</b></span></button><div class="catalogpanel">
