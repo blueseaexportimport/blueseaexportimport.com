@@ -590,6 +590,25 @@ $(document).ready(function () {
    });
   // Grab building materials info on click end
 
+
+// Grab second hand bricks for decorative use info on click start
+  $("#buildingmaterialsbtn").click(function() {
+    if ($("#secondhandbricksfordecorativeuse").hasClass("clickedsecondhandbricksfordecorativeuse")) {
+        // already been clicked once, hide it
+        $("#secondhandbricksfordecorativeuse").html("");
+        $( "#secondhandbricksfordecorativeuse" ).removeClass( "clickedsecondhandbricksfordecorativeuse" )
+    }else {
+        // first time this is clicked, mark it
+        $("#secondhandbricksfordecorativeuse").addClass("clickedsecondhandbricksfordecorativeuse");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/secondhandbricksfordecorativeuse.txt", success: function(result){
+         $("#secondhandbricksfordecorativeuse").html(result);
+        }});
+    }
+   });
+  // Grab second hand bricks for decorative use info on click end
+
+
+	
   // Grab bricks info on click start
   $("#bricksbtn").click(function() {
     if ($("#bricks").hasClass("clickedbricks")) {
@@ -1795,7 +1814,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 	   	   
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>P. CONSTRUCTION MATERIALS (19)</b></span> <span id="ro"><b>P. MATERIALE DE CONSTRUCȚII (19)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>P. CONSTRUCTION MATERIALS (21)</b></span> <span id="ro"><b>P. MATERIALE DE CONSTRUCȚII (21)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" ><span id="en">Construction machinery</span><span id="ro">Utilaje construcții</span></h5> 
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="aggregatesbtn" ><span id="en">Construction Aggregates (13)</span><span id="ro">Agregate construcții  (13)</span></h5> 
@@ -1808,7 +1827,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Cement factory</span><span id="ro">Fabrică ciment</span></h5> 
    <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" id="buildingmaterialsbtn" ><span id="en">Building materials (6)</span><span id="ro">Materiale construcții (6)</span></h5> 
+   <h5 class="categoryaccordion" id="buildingmaterialsbtn" ><span id="en">Building materials (7)</span><span id="ro">Materiale construcții (7)</span></h5> 
    <table id="buildingmaterials" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
@@ -1839,7 +1858,6 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table>
-
    <h5 class="categoryaccordion" ><span id="en">Roofs and Gutter Systems</span><span id="ro">Acoperișuri, Jgheaburi și Burlane</span></h5>    
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Insulation Materials</span><span id="ro">Materiale Pentru Izolat</span></h5>    
@@ -1870,8 +1888,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Decorative Rocks</span><span id="ro">Piatră Decorativă</span></h5>   
    <div class="rowbin" >-</div> 	
-   <h5 class="categoryaccordion" ><span id="en">Second hand bricks and rocks for decorative purpose</span><span id="ro">Cărămizi și pietre second hand cu scop decorativ</span></h5>   
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="secondhandbricksfordecorativeusebtn" ><span id="en">Second hand bricks and rocks for decorative purpose</span><span id="ro">Cărămizi și pietre second hand cu scop decorativ</span></h5>   
+   <table id="secondhandbricksfordecorativeuse" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>
    <h5 class="categoryaccordion" ><span id="en">Historic building materials </span><span id="ro">Materiale construcții pentru clădiri istorice</span></h5>   
    <div class="rowbin" >-</div> 
    <h5 class="categoryaccordion" ><span id="en">Fences and forged iron</span><span id="ro">Garduri și fier forjat</span></h5>   
