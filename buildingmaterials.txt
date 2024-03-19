@@ -33,7 +33,7 @@
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >17.3 RON / 30kg</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BMS0000004</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BMS0000005</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Construction plaster Adeplast IC90</span><span id="ro">Ipsos construcții Adeplast IC90</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 13279-1:2009</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
@@ -42,7 +42,7 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BMS0000004</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BMS0000006</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Masonry cement Multibat</span><span id="ro">Ciment pentru zidărie Multibat</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 413-1:2011</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
@@ -50,7 +50,7 @@
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >35.5 RON / 40kg</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BMS0000004</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BMS0000007</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Repair mortar for concrete Baumit BetoFill</span><span id="ro">Mortar de reparaţie beton Baumit BetoFill</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 1504-3:2006</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
@@ -58,6 +58,8 @@
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >110 RON / 30kg</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
+
+<!--
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
 <td style="color:black;"><span id="en">Modeling plaster</span><span id="ro">Ipsos modelaj</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >SR 545-2:2000</td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000.00 RON / 15kg</td></tr>
@@ -233,6 +235,7 @@
 <td style="color:black;"><span id="en">Well-cement type S1</span><span id="ro">Ciment pentru sonde tip S1</span></td></tr><tr><td>Standard</td><td style="color:#39ff14;" >SR 1544:2003</td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0000.00 RON / 15kg</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+-->
 
   </tbody>
 
