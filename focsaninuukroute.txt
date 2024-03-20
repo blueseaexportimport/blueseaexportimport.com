@@ -2,17 +2,17 @@
 
 <!-- START Departure route -->
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Route</span><span id="ro">Rută</span></td><td style="color:black;">Focsani - Nuuk</td></tr>
-<tr><td><span id="en" >Departing route</span><span id="ro">Rută dus</span></td><td style="color:black;"><span id="en" >Focsani - Copenhagen - Nuuk</span><span id="en" >Focsani - Copenhaga - Nuuk</span></td></tr>
-<tr><td><span id="en" >Cargo Type</span><span id="ro">Tip Cargo</span></td><td style="color:black;">Container</td></tr>
-<tr><td><span id="en" >Container Nr.</span><span id="ro">Nr. Container</span></td><td style="color:black;">BLEI-715754-0</td></tr>
+<tr><td><span id="en" >Departing route</span><span id="ro">Rută dus</span></td><td style="color:#39ff14;"><span id="en" >Focsani - Copenhagen - Nuuk</span><span id="en" >Focsani - Copenhaga - Nuuk</span></td></tr>
+<tr><td><span id="en" >Cargo Type</span><span id="ro">Tip Cargo</span></td><td style="color:#39ff14;">Container</td></tr>
+<tr><td><span id="en" >Container Nr.</span><span id="ro">Nr. Container</span></td><td style="color:#39ff14;">BLEI-715754-0</td></tr>
 <tr><td><span id="en" >Container Size</span><span id="ro">Mărime Container</span></td><td style="color:#39ff14;" >40FT - normal</td></tr>
 <tr><td><span id="en" >Dim.</span><span id="ro">Dim.</span></td><td style="color:#39ff14;" >40 x 8 x 8 ft</td></tr>
-<tr><td><span id="en" >Container Owner</span><span id="ro">Proprietar Container</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Container Owner</span><span id="ro">Proprietar Container</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
 <tr><td><span id="en" >Lease Company</span><span id="ro">Chiriaș Container</span></td><td style="color:#39ff14;" >BLUE SEA EXPORT IMPORT S.R.L.</td></tr>
-<tr><td><span id="en" >Container Type</span><span id="ro">Tip Container</span></td><span id="en" >Dry storage</span><span id="ro">Depozitare uscată</span></tr>
+<tr><td><span id="en" >Container Type</span><span id="ro">Tip Container</span></td><td style="color:#39ff14;" ><span id="en" >Dry storage</span><span id="ro">Depozitare uscată</span></td></tr>
 <tr><td><span id="en" >ISO Code</span><span id="ro">Cod ISO</span></td><td style="color:#39ff14;" >45G1</td></tr>
 <tr><td><span id="en" >Container Seal Nr.</span><span id="ro">Nr. Sigiliu Container</span></td><td style="color:#39ff14;" >0045671</td></tr>
-<tr><td><span id="en" >GPS Traker</span><span id="ro">Yes</span></td><td style="color:#39ff14;" ><span id="en" >Yes</span><span id="ro">Da</span> ( <a href="" target="_blank" ><span id="en">Current location</span><span id="ro">Locație actuală</span></a> )</td></tr>
+<tr><td><span id="en" >GPS Traker</span><span id="ro">Yes</span></td><td style="color:#39ff14;" ><span id="en" >Yes</span><span id="ro">Da</span> ( <a style="color:gold;" href="" target="_blank" ><span id="en">Current location</span><span id="ro">Locație actuală</span></a> )</td></tr>
 <tr><td><span id="en" >Max. gross (lbs)</span><span id="ro">Greutate max. inclusiv Container</span></td><td style="color:#39ff14;" >67199 lbs</td></td></tr>
 <tr><td><span id="en" >Tare (lbs)</span><span id="ro">E-Lacăt</span></td><td style="color:#39ff14;" >5229 lbs</td></tr>
 <tr><td><span id="en" >Max payload (lbs)</span><span id="ro">Sarcina maximă admisă</span></td><td style="color:#39ff14;" >59039 lbs</td></tr>
@@ -22,15 +22,15 @@
 <tr><td><br></td><td style="color:#39ff14;" ><br></td></tr>
 <tr><td><span id="en" >Departure estimative date Romania</span><span id="ro">Data estimativă plecare România</span></td><td style="color:#39ff14;" >14/07/2024 13:00</td></tr>
 <tr><td><span id="en" >Departure Point Romania</span><span id="ro">Punct Plecare România</span></td><td style="color:#39ff14;" ><span id="en" >Focsani, Warehouse xyz, street abc, postal code 60091</span><span id="ro">Depozit xyz, strada abc, cod poștal 60091</span> </td></tr>
-<tr><td><span id="en" >Logistics company Romania</span><span id="ro">Companie Logistica România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
-<tr><td><span id="en" >Road transporter Romania</span><span id="ro">Transportator rutier România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
-<tr><td><span id="en" >Customs broker Romania</span><span id="ro">Comisionar vamal România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
-<tr><td><span id="en" >International rail transporter Denmark</span><span id="ro">Transportator feroviar internațional Danemarca</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
-<tr><td><span id="en" >Customs broker Denmark</span><span id="ro">Comisionar vamal Denmark</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
-<tr><td><span id="en" >Logistics company Denmark</span><span id="ro">Companie Logistica Danemarca</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
-<tr><td><span id="en" >International sea carrier Denmark</span><span id="ro">Transportator maritim Danemarca</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
-<tr><td><span id="en" >Logistics company Greenland</span><span id="ro">Companie Logistica Groenlanda</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
-<tr><td><span id="en" >Road transporter Greenland</span><span id="ro">Transportator rutier Groenlanda</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Logistics company Romania</span><span id="ro">Companie Logistica România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Road transporter Romania</span><span id="ro">Transportator rutier România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a  style="color:gold;"href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Customs broker Romania</span><span id="ro">Comisionar vamal România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >International rail transporter Denmark</span><span id="ro">Transportator feroviar internațional Danemarca</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Customs broker Denmark</span><span id="ro">Comisionar vamal Denmark</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Logistics company Denmark</span><span id="ro">Companie Logistica Danemarca</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >International sea carrier Denmark</span><span id="ro">Transportator maritim Danemarca</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Logistics company Greenland</span><span id="ro">Companie Logistica Groenlanda</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Road transporter Greenland</span><span id="ro">Transportator rutier Groenlanda</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
 <tr><td><span id="en" >End Point Greenland</span><span id="ro">Punct Sosite Groenlanda</span></td><td style="color:#39ff14;" ><span id="en" >Nuuk, Warehouse xyz, street abc, postal code 1041</span><span id="ro">Depozit xyz, strada abc, cod poștal 60091</span> </td></tr>
 <tr><td><span id="en" >Arrival estimative date Greenland</span><span id="ro">Data estimativă plecare Greenland</span></td><td style="color:#39ff14;" >17/12/2024 11:00</td></tr>
 <tr><td><br></td><td style="color:#39ff14;" ><br></td></tr>
@@ -74,7 +74,7 @@
 <tr><td><span id="en" >Container Type</span><span id="ro">Tip Container</span></td><span id="en" >Dry storage</span><span id="ro">Depozitare uscată</span></tr>
 <tr><td><span id="en" >ISO Code</span><span id="ro">Cod ISO</span></td><td style="color:#39ff14;" >45G1</td></tr>
 <tr><td><span id="en" >Container Seal Nr.</span><span id="ro">Nr. Sigiliu Container</span></td><td style="color:#39ff14;" >0045671</td></tr>
-<tr><td><span id="en" >GPS Traker</span><span id="ro">Yes</span></td><td style="color:#39ff14;" ><span id="en" >Yes</span><span id="ro">Da</span> ( <a href="" target="_blank" ><span id="en">Current location</span><span id="ro">Locație actuală</span></a> )</td></tr>
+<tr><td><span id="en" >GPS Traker</span><span id="ro">Yes</span></td><td style="color:#39ff14;" ><span id="en" >Yes</span><span id="ro">Da</span> ( <a style="color:gold;" href="" target="_blank" ><span id="en">Current location</span><span id="ro">Locație actuală</span></a> )</td></tr>
 <tr><td><span id="en" >Max. gross (lbs)</span><span id="ro">Greutate max. inclusiv Container</span></td><td style="color:#39ff14;" >67199 lbs</td></td></tr>
 <tr><td><span id="en" >Tare (lbs)</span><span id="ro">E-Lacăt</span></td><td style="color:#39ff14;" >5229 lbs</td></tr>
 <tr><td><span id="en" >Max payload (lbs)</span><span id="ro">Sarcina maximă admisă</span></td><td style="color:#39ff14;" >59039 lbs</td></tr>
@@ -84,15 +84,15 @@
 <tr><td><br></td><td style="color:#39ff14;" ><br></td></tr>
 <tr><td><span id="en" >Departure estimative date Greenland</span><span id="ro">Data estimativă plecare România</span></td><td style="color:#39ff14;" >14/07/2024 13:00</td></tr>
 <tr><td><span id="en" >Departure Point Greenland</span><span id="ro">Punct Plecare Groenlanda</span></td><td style="color:#39ff14;" ><span id="en" >Nuuk, Warehouse xyz, street abc, postal code 60091</span><span id="ro">Depozit xyz, strada abc, cod poștal 60091</span> </td></tr>
-<tr><td><span id="en" >Logistics company Greenland</span><span id="ro">Companie Logistica Groenlanda</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
-<tr><td><span id="en" >Road transporter Greenland</span><span id="ro">Transportator rutier Groenlanda</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
-<tr><td><span id="en" >Customs broker Denmark</span><span id="ro">Comisionar vamal Danemarca</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
-<tr><td><span id="en" >International sea carrier Denmark</span><span id="ro">Transportator maritim Danemarca</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
-<tr><td><span id="en" >Logistics company Denmark</span><span id="ro">Companie Logistica Danemarca</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
-<tr><td><span id="en" >International rail transporter Denmark</span><span id="ro">Transportator feroviar internațional Danemarca</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
-<tr><td><span id="en" >Customs broker Romania</span><span id="ro">Comisionar vamal România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
-<tr><td><span id="en" >Logistics company Romania</span><span id="ro">Companie Logistica România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
-<tr><td><span id="en" >Road transporter Romania</span><span id="ro">Transportator rutier România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Logistics company Greenland</span><span id="ro">Companie Logistica Groenlanda</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Road transporter Greenland</span><span id="ro">Transportator rutier Groenlanda</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Customs broker Denmark</span><span id="ro">Comisionar vamal Danemarca</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >International sea carrier Denmark</span><span id="ro">Transportator maritim Danemarca</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Logistics company Denmark</span><span id="ro">Companie Logistica Danemarca</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >International rail transporter Denmark</span><span id="ro">Transportator feroviar internațional Danemarca</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Customs broker Romania</span><span id="ro">Comisionar vamal România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Logistics company Romania</span><span id="ro">Companie Logistica România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Road transporter Romania</span><span id="ro">Transportator rutier România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
 <tr><td><span id="en" >End Point Romania</span><span id="ro">Punct Sosite România</span></td><td style="color:#39ff14;" ><span id="en" >Focsani, Warehouse xyz, street abc, postal code 1041</span><span id="ro">Depozit xyz, strada abc, cod poștal 60091</span> </td></tr>
 <tr><td><span id="en" >Arrival estimative date Romania</span><span id="ro">Data estimativă plecare România</span></td><td style="color:#39ff14;" >17/12/2024 11:00</td></tr>
 <tr><td><br></td><td style="color:#39ff14;" ><br></td></tr>
