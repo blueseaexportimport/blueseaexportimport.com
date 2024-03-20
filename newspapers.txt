@@ -1,13 +1,13 @@
 <tbody>
 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BA0001</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">NWS0001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Romanian Newspapers</span><span id="ro">Ziare România</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
 <tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en" >Could take 30-40 days until they arrive in your country</span><span id="ro">Poate dura 30-40 zile până să ajungă în țara dumneavoastră</span></td></tr>
 <tr><td>Formula 1</td><td>53.9 RON / Weekend Adevărul <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 2</td><td>102.8 RON / Weekend Adevărul <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</td></tr>
-<tr><td>Formula 3</td><td>185.6 RON / Weekend Adevărul <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</td></tr>
+<tr><td>Formula 2</td><td>102.8 RON / Weekend Adevărul <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 3</td><td>185.6 RON / Weekend Adevărul <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
 <tr><td>Formula 4</td><td>45.1 RON / Adevărul (L-J) <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
 <tr><td>Formula 5</td><td>114.3 RON / Adevărul (L-J) <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
 <tr><td>Formula 6</td><td>229.6 RON / Adevărul (L-J) <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
