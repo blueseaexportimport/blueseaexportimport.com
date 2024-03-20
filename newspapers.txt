@@ -1,6 +1,4 @@
 <tbody>
-
-
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">NWS0001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Romanian Newspapers</span><span id="ro">Ziare România</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
@@ -46,12 +44,7 @@
 <tr><td>Formula 39</td><td>1275.6 RON / Național <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
 <tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.posta-romana.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-
-
 </tbody>
-
-
 
 <script>
 $(document).ready(function() {
