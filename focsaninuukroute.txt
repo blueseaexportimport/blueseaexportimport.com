@@ -1,7 +1,8 @@
 <tbody>
 
 <!-- START Departure route -->
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Route</span><span id="ro">Rută</span></td><td style="color:black;">Focsani - Nuuk</td></tr>
+<tr style="background:gold;" ><td style="color:black;" ><span id="en" >Route info</span><span id="ro">Info rută</span></td><td style="color:black;">Focsani - Nuuk</td></tr>
+
 <tr><td><span id="en" >Departing route</span><span id="ro">Rută dus</span></td><td style="color:#39ff14;"><span id="en" >Focsani - Copenhagen - Nuuk</span><span id="en" >Focsani - Copenhaga - Nuuk</span></td></tr>
 <tr><td><span id="en" >Cargo Type</span><span id="ro">Tip Cargo</span></td><td style="color:#39ff14;">Container</td></tr>
 <tr><td><span id="en" >Container Nr.</span><span id="ro">Nr. Container</span></td><td style="color:#39ff14;">BLEI-715754-0</td></tr>
@@ -20,6 +21,8 @@
 <tr><td><span id="en" >Shipping mode</span><span id="ro">Mod livrare</span></td><td style="color:#39ff14;" >FCL (Full Container Load)</td></tr>
 <tr><td><span id="en" >Cargo Owner</span><span id="ro">Proprietar mărfuri</span></td><td style="color:#39ff14;" >XYZ LTD</td></tr>
 <tr><td style="background-color:#777;" ><br></td><td style="background-color:#777;" ><br></td></tr>
+
+<tr style="background:gold;" ><td style="color:black;" ><span id="en" >Route plan</span><span id="ro">Plan rută</span></td><td style="color:black;"></td></tr>
 <tr><td><span id="en" >Departure estimative date Romania</span><span id="ro">Data estimativă plecare România</span></td><td style="color:#39ff14;" >14/07/2024 13:00</td></tr>
 <tr><td><span id="en" >Departure Point Romania</span><span id="ro">Punct Plecare România</span></td><td style="color:#39ff14;" ><span id="en" >Focsani, Warehouse xyz, street abc, postal code 60091</span><span id="ro">Depozit xyz, strada abc, cod poștal 60091</span> </td></tr>
 <tr><td><span id="en" >Logistics company Romania</span><span id="ro">Companie Logistica România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
@@ -65,7 +68,8 @@
 <tr><td style="background-color:#777;" ><br></td><td style="background-color:#777;" ><br></td></tr>
 
 <!-- START Return route -->
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Route</span><span id="ro">Rută</span></td><td style="color:black;">Nuuk - Focsani</td></tr>
+<tr style="background:gold;" ><td style="color:black;" ><span id="en" >Route info</span><span id="ro">Info rută</span></td><td style="color:black;">Nuuk - Focsani</td></tr>
+
 <tr><td><span id="en" >Departing route</span><span id="ro">Rută dus</span></td><td style="color:#39ff14;"><span id="en" >Nuuk - Copenhagen - Focsani</span><span id="en" >Nuuk - Copenhaga - Focsani</span></td></tr>
 <tr><td><span id="en" >Cargo Type</span><span id="ro">Tip Cargo</span></td><td style="color:#39ff14;">Container</td></tr>
 <tr><td><span id="en" >Container Nr.</span><span id="ro">Nr. Container</span></td><td style="color:#39ff14;">BLEI-715754-0</td></tr>
@@ -84,6 +88,8 @@
 <tr><td><span id="en" >Shipping mode</span><span id="ro">Mod livrare</span></td><td style="color:#39ff14;" >FCL (Full Container Load)</td></tr>
 <tr><td><span id="en" >Cargo Owner</span><span id="ro">Proprietar mărfuri</span></td><td style="color:#39ff14;" >XYZ LTD</td></tr>
 <tr><td style="background-color:#777;" ><br></td><td style="background-color:#777;" ><br></td></tr>
+
+<tr style="background:gold;" ><td style="color:black;" ><span id="en" >Route plan</span><span id="ro">Plan rută</span></td><td style="color:black;"></td></tr>
 <tr><td><span id="en" >Departure estimative date Greenland</span><span id="ro">Data estimativă plecare România</span></td><td style="color:#39ff14;" >14/07/2024 13:00</td></tr>
 <tr><td><span id="en" >Departure Point Greenland</span><span id="ro">Punct Plecare Groenlanda</span></td><td style="color:#39ff14;" ><span id="en" >Nuuk, Warehouse xyz, street abc, postal code 60091</span><span id="ro">Depozit xyz, strada abc, cod poștal 60091</span> </td></tr>
 <tr><td><span id="en" >Logistics company Greenland</span><span id="ro">Companie Logistica Groenlanda</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
@@ -97,6 +103,7 @@
 <tr><td><span id="en" >Road transporter Romania</span><span id="ro">Transportator rutier România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
 <tr><td><span id="en" >End Point Romania</span><span id="ro">Punct Sosite România</span></td><td style="color:#39ff14;" ><span id="en" >Focsani, Warehouse xyz, street abc, postal code 1041</span><span id="ro">Depozit xyz, strada abc, cod poștal 60091</span> </td></tr>
 <tr><td><span id="en" >Arrival estimative date Romania</span><span id="ro">Data estimativă plecare România</span></td><td style="color:#39ff14;" >17/12/2024 11:00</td></tr>
+
 <tr style="background:gold;" ><td style="color:black;" ><span id="en" >Cargo</span><span id="ro">Mărfuri</span></td><td style="color:black;"><span id="en" >Dry non-food goods</span><span id="ro">Mărfuri uscate non alimentare</span></td></tr>
 <tr><td><span id="en" >Cargo 1 Info</span><span id="ro">Info Marfă 1</span></td><td style="color:#39ff14;" >1000 x Energizer Ultimate Lithium AA 1.5V 3000mAh</td></tr>
 <tr><td><span id="en" >Cargo 1 Value</span><span id="ro">Valoare Marfă 1</span></td><td style="color:#39ff14;" >31200 RON</td></tr>
