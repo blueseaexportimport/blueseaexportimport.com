@@ -839,6 +839,24 @@ $(document).ready(function () {
    });
   // Grab sports nets on click end
 
+  // Grab newspapers on click start
+  $("#newspapersbtn").click(function() {
+    if ($("#newspapers").hasClass("clickednewspapers")) {
+        // already been clicked once, hide it
+        $("#newspapers").html("");
+        $( "#newspapers" ).removeClass( "clickednewspapers" )
+    }else {
+        // first time this is clicked, mark it
+        $("#newspapers").addClass("clickednewspapers");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/newspapers.tx", success: function(result){
+         $("#newspapers").html(result);
+        }});
+    }
+   });
+  // Grab newspapers on click end
+
+	
+
   // Grab chickenfreshmeat on click start
   $("#chickenfreshmeatbtn").click(function() {
     if ($("#chickenfreshmeat").hasClass("clickedchickenfreshmeat")) {
@@ -2575,11 +2593,14 @@ $(document).ready(function () {
    </table> 
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>X. TICKETS, NEWSPAPERS, BOOKS AND MAGAZINES (0)</b></span> <span id="ro"><b>X. BILETE, ZIARE, CĂRȚI ȘI REVISTE (0)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>X. TICKETS, NEWSPAPERS, BOOKS AND MAGAZINES (1)</b></span> <span id="ro"><b>X. BILETE, ZIARE, CĂRȚI ȘI REVISTE (1)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Events tickets</span><span id="ro">Bilete evenimente</span></h5>    
   <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" ><span id="en">Newspapers</span><span id="ro">Ziare</span></h5>    
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="newspapersbtn" ><span id="en">Newspapers (1)</span><span id="ro">Ziare</span></h5>    
+   <table id="newspapers" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
   <h5 class="categoryaccordion" ><span id="en">Fiction books </span><span id="ro">Cărți ficțiune</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Nonfiction books</span><span id="ro">Cărți nonficțiune</span></h5>    
