@@ -25,7 +25,7 @@
 <tr><td><span id="en" >Departure estimative date Romania</span><span id="ro">Data estimativă plecare România</span></td><td style="color:#39ff14;" >14/07/2024 13:00</td></tr>
 <tr><td><span id="en" >Departure Point Romania</span><span id="ro">Punct Plecare România</span></td><td style="color:#39ff14;" ><span id="en" >Focsani, Warehouse xyz, street abc, postal code 60091</span><span id="ro">Depozit xyz, strada abc, cod poștal 60091</span> </td></tr>
 <tr><td><span id="en" >Insurance company</span><span id="ro">Companie asigurare marfă</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
-<tr><td><span id="en" >Packaging suppliers</span><span id="ro">Furnizor ambalaje</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Packaging company</span><span id="ro">Ambalator</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
 <tr><td><span id="en" >Security monitoring company</span><span id="ro">Companie monitorizare securitate</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
 <tr><td><span id="en" >Laboratory test supplier</span><span id="ro">Furnizor analize laborator</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
 <tr><td><span id="en" >Logistics company Romania</span><span id="ro">Companie Logistica România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
@@ -92,7 +92,7 @@
 <tr><td><span id="en" >Departure estimative date Greenland</span><span id="ro">Data estimativă plecare România</span></td><td style="color:#39ff14;" >14/07/2024 13:00</td></tr>
 <tr><td><span id="en" >Departure Point Greenland</span><span id="ro">Punct Plecare Groenlanda</span></td><td style="color:#39ff14;" ><span id="en" >Nuuk, Warehouse xyz, street abc, postal code 60091</span><span id="ro">Depozit xyz, strada abc, cod poștal 60091</span> </td></tr>
 <tr><td><span id="en" >Insurance company</span><span id="ro">Companie asigurare marfă</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
-<tr><td><span id="en" >Packaging suppliers</span><span id="ro">Furnizor ambalaje</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Packaging company</span><span id="ro">Ambalator</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
 <tr><td><span id="en" >Security monitoring company</span><span id="ro">Companie monitorizare securitate</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
 <tr><td><span id="en" >Laboratory test supplier</span><span id="ro">Furnizor analize laborator</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
 <tr><td><span id="en" >Logistics company Greenland</span><span id="ro">Companie Logistica Groenlanda</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
