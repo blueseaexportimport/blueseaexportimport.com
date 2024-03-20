@@ -19,7 +19,7 @@
 <tr><td><span id="en" >Load capacity (pallets)</span><span id="ro">Capacitate încărcare (paleți)</span></td><td style="color:#39ff14;" >23 <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en" >Shipping mode</span><span id="ro">Mod livrare</span></td><td style="color:#39ff14;" >FCL (Full Container Load)</td></tr>
 <tr><td><span id="en" >Cargo Owner</span><span id="ro">Proprietar mărfuri</span></td><td style="color:#39ff14;" >XYZ LTD</td></tr>
-<tr><td><br></td><td style="color:#39ff14;" ><br></td></tr>
+<tr><td style="background-color:#777;" ><br></td><td style="background-color:#777;" ><br></td></tr>
 <tr><td><span id="en" >Departure estimative date Romania</span><span id="ro">Data estimativă plecare România</span></td><td style="color:#39ff14;" >14/07/2024 13:00</td></tr>
 <tr><td><span id="en" >Departure Point Romania</span><span id="ro">Punct Plecare România</span></td><td style="color:#39ff14;" ><span id="en" >Focsani, Warehouse xyz, street abc, postal code 60091</span><span id="ro">Depozit xyz, strada abc, cod poștal 60091</span> </td></tr>
 <tr><td><span id="en" >Logistics company Romania</span><span id="ro">Companie Logistica România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
@@ -33,26 +33,26 @@
 <tr><td><span id="en" >Road transporter Greenland</span><span id="ro">Transportator rutier Groenlanda</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
 <tr><td><span id="en" >End Point Greenland</span><span id="ro">Punct Sosite Groenlanda</span></td><td style="color:#39ff14;" ><span id="en" >Nuuk, Warehouse xyz, street abc, postal code 1041</span><span id="ro">Depozit xyz, strada abc, cod poștal 60091</span> </td></tr>
 <tr><td><span id="en" >Arrival estimative date Greenland</span><span id="ro">Data estimativă plecare Greenland</span></td><td style="color:#39ff14;" >17/12/2024 11:00</td></tr>
-<tr><td><br></td><td style="color:#39ff14;" ><br></td></tr>
+<tr><td style="background-color:#777;" ><br></td><td style="background-color:#777;" ><br></td></tr>
 <tr style="background:gold;" ><td style="color:black;" ><span id="en" >Cargo</span><span id="ro">Mărfuri</span></td><td style="color:black;"><span id="en" >Dry non-food goods</span><span id="ro">Mărfuri uscate non alimentare</span></td></tr>
 <tr><td><span id="en" >Cargo 1 Info</span><span id="ro">Info Marfă 1</span></td><td style="color:#39ff14;" >1000 x Energizer Ultimate Lithium AA 1.5V 3000mAh</td></tr>
 <tr><td><span id="en" >Cargo 1 Value</span><span id="ro">Valoare Marfă 1</span></td><td style="color:#39ff14;" >31200 RON</td></tr>
 <tr><td><span id="en" >Cargo 1 HS Code</span><span id="ro">Cod HS Vamal Marfă 1</span></td><td style="color:#39ff14;" >0154545</td></tr>
 <tr><td><span id="en" >Cargo 1 Origin</span><span id="ro">Origine Marfă 1</span></td><td style="color:#39ff14;" ><span id="en">European Union</span><span id="ro">Uniunea Europeană</span></td></tr>
 <tr><td><span id="en" >Cargo 1 Weight</span><span id="ro">Greutate Marfă 1</span></td><td style="color:#39ff14;" >10000 lbs</td></tr>
-<tr><td><br></td><td style="color:#39ff14;" ><br></td></tr>
+<tr><td style="background-color:#777;" ><br></td><td style="background-color:#777;" ><br></td></tr>
 <tr><td><span id="en" >Cargo 2 Info</span><span id="ro">Info Marfă 2</span></td><td style="color:#39ff14;" >1000 x Energizer Ultimate Lithium AAA 1.5V 1200mAh</td></tr>
 <tr><td><span id="en" >Cargo 2 Value</span><span id="ro">Valoare Marfă 2</span></td><td style="color:#39ff14;" >31200 RON</td></tr>
 <tr><td><span id="en" >Cargo 2 HS Code</span><span id="ro">Cod HS Vamal Marfă 2</span></td><td style="color:#39ff14;" >0154545</td></tr>
 <tr><td><span id="en" >Cargo 2 Origin</span><span id="ro">Origine Marfă 2</span></td><td style="color:#39ff14;" ><span id="en">European Union</span><span id="ro">Uniunea Europeană</span></td></tr>
 <tr><td><span id="en" >Cargo 2 Weight</span><span id="ro">Greutate Marfă 1</span></td><td style="color:#39ff14;" >10000 lbs</td></tr>
-<tr><td><br></td><td style="color:#39ff14;" ><br></td></tr>
+<tr><td style="background-color:#777;" ><br></td><td style="background-color:#777;" ><br></td></tr>
 <tr><td><span id="en" >Cargo 3 Info</span><span id="ro">Info Marfă 3</span></td><td style="color:#39ff14;" >1000 x Energizer CR2 3V 920mAh</td></tr>
 <tr><td><span id="en" >Cargo 3 Value</span><span id="ro">Valoare Marfă 3</span></td><td style="color:#39ff14;" >19000 RON</td></tr>
 <tr><td><span id="en" >Cargo 3 HS Code</span><span id="ro">Cod HS Vamal Marfă 3</span></td><td style="color:#39ff14;" >0154545</td></tr>
 <tr><td><span id="en" >Cargo 3 Origin</span><span id="ro">Origine Marfă 3</span></td><td style="color:#39ff14;" ><span id="en">European Union</span><span id="ro">Uniunea Europeană</span></td></tr>
 <tr><td><span id="en" >Cargo 3 Weight</span><span id="ro">Greutate Marfă 3</span></td><td style="color:#39ff14;" >10000 lbs</td></tr>
-<tr><td><br></td><td style="color:#39ff14;" ><br></td></tr>
+<tr><td style="background-color:#777;" ><br></td><td style="background-color:#777;" ><br></td></tr>
 <tr><td><span id="en" >Cargo 4 Info</span><span id="ro">Info Marfă 4</span></td><td style="color:#39ff14;" >1000 x Energizer CR2 3V 920mAh</td></tr>
 <tr><td><span id="en" >Cargo 4 Value</span><span id="ro">Valoare Marfă 4</span></td><td style="color:#39ff14;" >19000 RON</td></tr>
 <tr><td><span id="en" >Cargo 4 HS Code</span><span id="ro">Cod HS Vamal Marfă 4</span></td><td style="color:#39ff14;" >0154545</td></tr>
@@ -81,7 +81,7 @@
 <tr><td><span id="en" >Load capacity (pallets)</span><span id="ro">Capacitate încărcare (paleți)</span></td><td style="color:#39ff14;" >23 <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
 <tr><td><span id="en" >Shipping mode</span><span id="ro">Mod livrare</span></td><td style="color:#39ff14;" >FCL (Full Container Load)</td></tr>
 <tr><td><span id="en" >Cargo Owner</span><span id="ro">Proprietar mărfuri</span></td><td style="color:#39ff14;" >XYZ LTD</td></tr>
-<tr><td><br></td><td style="color:#39ff14;" ><br></td></tr>
+<tr><td style="background-color:#777;" ><br></td><td style="background-color:#777;" ><br></td></tr>
 <tr><td><span id="en" >Departure estimative date Greenland</span><span id="ro">Data estimativă plecare România</span></td><td style="color:#39ff14;" >14/07/2024 13:00</td></tr>
 <tr><td><span id="en" >Departure Point Greenland</span><span id="ro">Punct Plecare Groenlanda</span></td><td style="color:#39ff14;" ><span id="en" >Nuuk, Warehouse xyz, street abc, postal code 60091</span><span id="ro">Depozit xyz, strada abc, cod poștal 60091</span> </td></tr>
 <tr><td><span id="en" >Logistics company Greenland</span><span id="ro">Companie Logistica Groenlanda</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
@@ -95,26 +95,26 @@
 <tr><td><span id="en" >Road transporter Romania</span><span id="ro">Transportator rutier România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
 <tr><td><span id="en" >End Point Romania</span><span id="ro">Punct Sosite România</span></td><td style="color:#39ff14;" ><span id="en" >Focsani, Warehouse xyz, street abc, postal code 1041</span><span id="ro">Depozit xyz, strada abc, cod poștal 60091</span> </td></tr>
 <tr><td><span id="en" >Arrival estimative date Romania</span><span id="ro">Data estimativă plecare România</span></td><td style="color:#39ff14;" >17/12/2024 11:00</td></tr>
-<tr><td><br></td><td style="color:#39ff14;" ><br></td></tr>
+<tr><td style="background-color:#777;" ><br></td><td style="background-color:#777;" ><br></td></tr>
 <tr style="background:gold;" ><td style="color:black;" ><span id="en" >Cargo</span><span id="ro">Mărfuri</span></td><td style="color:black;"><span id="en" >Dry non-food goods</span><span id="ro">Mărfuri uscate non alimentare</span></td></tr>
 <tr><td><span id="en" >Cargo 1 Info</span><span id="ro">Info Marfă 1</span></td><td style="color:#39ff14;" >1000 x Energizer Ultimate Lithium AA 1.5V 3000mAh</td></tr>
 <tr><td><span id="en" >Cargo 1 Value</span><span id="ro">Valoare Marfă 1</span></td><td style="color:#39ff14;" >31200 RON</td></tr>
 <tr><td><span id="en" >Cargo 1 HS Code</span><span id="ro">Cod HS Vamal Marfă 1</span></td><td style="color:#39ff14;" >0154545</td></tr>
 <tr><td><span id="en" >Cargo 1 Origin</span><span id="ro">Origine Marfă 1</span></td><td style="color:#39ff14;" ><span id="en">European Union</span><span id="ro">Uniunea Europeană</span></td></tr>
 <tr><td><span id="en" >Cargo 1 Weight</span><span id="ro">Greutate Marfă 1</span></td><td style="color:#39ff14;" >10000 lbs</td></tr>
-<tr><td><br></td><td style="color:#39ff14;" ><br></td></tr>
+<tr><td style="background-color:#777;" ><br></td><td style="background-color:#777;" ><br></td></tr>
 <tr><td><span id="en" >Cargo 2 Info</span><span id="ro">Info Marfă 2</span></td><td style="color:#39ff14;" >1000 x Energizer Ultimate Lithium AAA 1.5V 1200mAh</td></tr>
 <tr><td><span id="en" >Cargo 2 Value</span><span id="ro">Valoare Marfă 2</span></td><td style="color:#39ff14;" >31200 RON</td></tr>
 <tr><td><span id="en" >Cargo 2 HS Code</span><span id="ro">Cod HS Vamal Marfă 2</span></td><td style="color:#39ff14;" >0154545</td></tr>
 <tr><td><span id="en" >Cargo 2 Origin</span><span id="ro">Origine Marfă 2</span></td><td style="color:#39ff14;" ><span id="en">European Union</span><span id="ro">Uniunea Europeană</span></td></tr>
 <tr><td><span id="en" >Cargo 2 Weight</span><span id="ro">Greutate Marfă 1</span></td><td style="color:#39ff14;" >10000 lbs</td></tr>
-<tr><td><br></td><td style="color:#39ff14;" ><br></td></tr>
+<tr><td style="background-color:#777;" ><br></td><td style="background-color:#777;" ><br></td></tr>
 <tr><td><span id="en" >Cargo 3 Info</span><span id="ro">Info Marfă 3</span></td><td style="color:#39ff14;" >1000 x Energizer CR2 3V 920mAh</td></tr>
 <tr><td><span id="en" >Cargo 3 Value</span><span id="ro">Valoare Marfă 3</span></td><td style="color:#39ff14;" >19000 RON</td></tr>
 <tr><td><span id="en" >Cargo 3 HS Code</span><span id="ro">Cod HS Vamal Marfă 3</span></td><td style="color:#39ff14;" >0154545</td></tr>
 <tr><td><span id="en" >Cargo 3 Origin</span><span id="ro">Origine Marfă 3</span></td><td style="color:#39ff14;" ><span id="en">European Union</span><span id="ro">Uniunea Europeană</span></td></tr>
 <tr><td><span id="en" >Cargo 3 Weight</span><span id="ro">Greutate Marfă 3</span></td><td style="color:#39ff14;" >10000 lbs</td></tr>
-<tr><td><br></td><td style="color:#39ff14;" ><br></td></tr>
+<tr><td style="background-color:#777;" ><br></td><td style="background-color:#777;" ><br></td></tr>
 <tr><td><span id="en" >Cargo 4 Info</span><span id="ro">Info Marfă 4</span></td><td style="color:#39ff14;" >1000 x Energizer CR2 3V 920mAh</td></tr>
 <tr><td><span id="en" >Cargo 4 Value</span><span id="ro">Valoare Marfă 4</span></td><td style="color:#39ff14;" >19000 RON</td></tr>
 <tr><td><span id="en" >Cargo 4 HS Code</span><span id="ro">Cod HS Vamal Marfă 4</span></td><td style="color:#39ff14;" >0154545</td></tr>
