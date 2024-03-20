@@ -75,7 +75,7 @@
 <tr><td><span id="en" >Container Nr.</span><span id="ro">Nr. Container</span></td><td style="color:#39ff14;">BLEI-715754-0</td></tr>
 <tr><td><span id="en" >Container Size</span><span id="ro">Mărime Container</span></td><td style="color:#39ff14;" >40FT - normal</td></tr>
 <tr><td><span id="en" >Dim.</span><span id="ro">Dim.</span></td><td style="color:#39ff14;" >40 x 8 x 8 ft</td></tr>
-<tr><td><span id="en" >Container Owner</span><span id="ro">Proprietar Container</span></td><td style="color:#39ff14;" >XYZ LTD ( <a href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Container Owner</span><span id="ro">Proprietar Container</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
 <tr><td><span id="en" >Lease Company</span><span id="ro">Chiriaș Container</span></td><td style="color:#39ff14;" >BLUE SEA EXPORT IMPORT S.R.L.</td></tr>
 <tr><td><span id="en" >Container Type</span><span id="ro">Tip Container</span></td><td style="color:#39ff14;" ><span id="en" >Dry storage</span><span id="ro">Depozitare uscată</span></td></tr>
 <tr><td><span id="en" >ISO Code</span><span id="ro">Cod ISO</span></td><td style="color:#39ff14;" >45G1</td></tr>
