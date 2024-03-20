@@ -848,7 +848,7 @@ $(document).ready(function () {
     }else {
         // first time this is clicked, mark it
         $("#newspapers").addClass("clickednewspapers");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/newspapers.tx", success: function(result){
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/newspapers.txt", success: function(result){
          $("#newspapers").html(result);
         }});
     }
