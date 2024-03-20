@@ -24,6 +24,10 @@
 <tr style="background:gold;" ><td style="color:black;" ><span id="en" >Route plan</span><span id="ro">Plan rută</span></td><td style="color:black;"></td></tr>
 <tr><td><span id="en" >Departure estimative date Romania</span><span id="ro">Data estimativă plecare România</span></td><td style="color:#39ff14;" >14/07/2024 13:00</td></tr>
 <tr><td><span id="en" >Departure Point Romania</span><span id="ro">Punct Plecare România</span></td><td style="color:#39ff14;" ><span id="en" >Focsani, Warehouse xyz, street abc, postal code 60091</span><span id="ro">Depozit xyz, strada abc, cod poștal 60091</span> </td></tr>
+<tr><td><span id="en" >Insurance company</span><span id="ro">Companie asigurare marfă</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Packaging suppliers</span><span id="ro">Furnizor ambalaje</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Security monitoring company</span><span id="ro">Companie monitorizare securitate</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Laboratory test supplier</span><span id="ro">Furnizor analize laborator</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
 <tr><td><span id="en" >Logistics company Romania</span><span id="ro">Companie Logistica România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
 <tr><td><span id="en" >Road transporter Romania</span><span id="ro">Transportator rutier România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a  style="color:gold;"href="" target="_blank" >Contract</a> )</td></tr>
 <tr><td><span id="en" >Customs broker Romania</span><span id="ro">Comisionar vamal România</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
@@ -60,7 +64,7 @@
 <tr><td><span id="en" >Cargo 4 Origin</span><span id="ro">Origine Marfă 4</span></td><td style="color:#39ff14;" ><span id="en">European Union</span><span id="ro">Uniunea Europeană</span></td></tr>
 <tr><td><span id="en" >Cargo 4 Weight</span><span id="ro">Greutate Marfă 4</span></td><td style="color:#39ff14;" >10000 lbs</td></tr>
 <tr><td style="color:white;" ><span id="en" > Total cargo weight (incl. packaging )</span><span id="ro">Greute totală mărfuri ( incl. ambalaje )</span></td><td style="color:black;background:gold;">40000 lbs</td></tr>
-<tr><td><span id="en" >Transport latest info</span><span id="ro">Informații despre transport</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu sunt</span></td></tr>
+<tr><td><span id="en" >Transport and weather info</span><span id="ro">Informații despre transport și meteo</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu sunt</span></td></tr>
 <!-- END Departure route -->
 <tr><td style="background-color:#f4f4f4;" ><br><br></td><td style="background-color:#f4f4f4;" ><br><br></td></tr>
 <!-- START Return route -->
@@ -87,6 +91,10 @@
 <tr style="background:gold;" ><td style="color:black;" ><span id="en" >Route plan</span><span id="ro">Plan rută</span></td><td style="color:black;"></td></tr>
 <tr><td><span id="en" >Departure estimative date Greenland</span><span id="ro">Data estimativă plecare România</span></td><td style="color:#39ff14;" >14/07/2024 13:00</td></tr>
 <tr><td><span id="en" >Departure Point Greenland</span><span id="ro">Punct Plecare Groenlanda</span></td><td style="color:#39ff14;" ><span id="en" >Nuuk, Warehouse xyz, street abc, postal code 60091</span><span id="ro">Depozit xyz, strada abc, cod poștal 60091</span> </td></tr>
+<tr><td><span id="en" >Insurance company</span><span id="ro">Companie asigurare marfă</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Packaging suppliers</span><span id="ro">Furnizor ambalaje</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Security monitoring company</span><span id="ro">Companie monitorizare securitate</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
+<tr><td><span id="en" >Laboratory test supplier</span><span id="ro">Furnizor analize laborator</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
 <tr><td><span id="en" >Logistics company Greenland</span><span id="ro">Companie Logistica Groenlanda</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
 <tr><td><span id="en" >Road transporter Greenland</span><span id="ro">Transportator rutier Groenlanda</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
 <tr><td><span id="en" >Customs broker Denmark</span><span id="ro">Comisionar vamal Danemarca</span></td><td style="color:#39ff14;" >XYZ LTD ( <a style="color:gold;" href="" target="_blank" >Contract</a> )</td></tr>
@@ -124,7 +132,7 @@
 <tr><td><span id="en" >Cargo 4 Origin</span><span id="ro">Origine Marfă 4</span></td><td style="color:#39ff14;" ><span id="en">European Union</span><span id="ro">Uniunea Europeană</span></td></tr>
 <tr><td><span id="en" >Cargo 4 Weight</span><span id="ro">Greutate Marfă 4</span></td><td style="color:#39ff14;" >10000 lbs</td></tr>
 <tr><td style="color:white;" ><span id="en" > Total cargo weight (incl. packaging )</span><span id="ro">Greute totală mărfuri ( incl. ambalaje )</span></td><td style="color:black;background:gold;">40000 lbs</td></tr>
-<tr><td><span id="en" >Transport latest info</span><span id="ro">Informații despre transport</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu sunt</span></td></tr>
+<tr><td><span id="en" >Transport and weather info</span><span id="ro">Informații despre transport și meteo</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu sunt</span></td></tr>
 <!-- END Return route -->
 
 
