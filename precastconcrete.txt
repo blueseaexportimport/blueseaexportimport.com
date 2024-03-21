@@ -231,18 +231,6 @@
 
 </tbody>
 
-
-
-
-
-
-
-
-
-
-
-
-
 <script>
 $(document).ready(function() {
 var class_ro = $('#ro_button').attr('class').split(' ')[1];
@@ -260,8 +248,7 @@ if (class_ro === "new") {
 
 
 
-<--
-
+<!--
        <tr><td>Concrete Drainage Pipe </td><td>-</td><td>-</td></tr>
        <tr><td>Concrete Light Pole </td><td>-</td><td>-</td></tr>
        <tr><td>Concrete Vinyard Post </td><td>-</td><td>-</td></tr>               
