@@ -1,4 +1,12 @@
 <tbody>
+
+
+</tbody> 	
+
+
+
+
+<!--
    <tr><th><span id="en">Name</span><span id="ro">Nume</span></th><th><span id="en">Specifications</span><span id="ro">Specificații</span></th><th><span id="en">Price</span><span id="ro">Preț</span></th></tr>       
    <tr><td><span id="en">Raw unwashed wool - not sorted</span><span id="ro">Lână nespălată și nesortată</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
    <tr><td><span id="en">Rinsed wool SR 5743:1993</span><span id="ro">Lână spălată SR 5743:1993</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
@@ -157,4 +165,5 @@
     <tr><td><span id="en">Polyester bobbin thread</span><span id="ro">Ață Poliester bobină</span></td><td>-</td><td>-</td></tr>
     <tr><td><span id="en">Metallic bobbin thread</span><span id="ro">Ață Metalică bobină</span></td><td>-</td><td>-</td></tr>
 
-   </tbody> 	
+-->
+
