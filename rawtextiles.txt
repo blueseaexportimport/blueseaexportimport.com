@@ -1,17 +1,5 @@
 <tbody>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BRK0000001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Burnt clay brick Leier CP</span><span id="ro">Cărămidă arsă Leier</span></td></tr>
-<tr><td>Standard</td><td style="color:#39ff14;" >EN 771-1+A1:2015</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>3.3 RON / Leier CP clasic 240 x 115 x 63 mm</td></tr>
-<tr><td>Formula 2</td><td>3.3 RON / Leier CP1 240 x 115 x 63 mm</td></tr>
-<tr><td>Formula 3</td><td>2.7 RON / Leier CP Plus 240 x 115 x 63 mm</td></tr>
-<tr><td>Formula 4</td><td>2.1 RON / Leier CF 240 x 115 x 63 mm</td></tr>
-<tr><td>Formula 5</td><td>2.1 RON / Leier CF1 240 x 115 x 63 mm</td></tr>
-<tr><td>Formula 6</td><td>2.5 RON / Leier CE 240 x 115 x 88 mm</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.leier.ro/caramizi/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
 
