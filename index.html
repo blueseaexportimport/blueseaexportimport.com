@@ -642,6 +642,22 @@ $(document).ready(function () {
    });
   // Grab precast concrete info on click end
 
+
+  // Grab fences and forgediron info on click start
+  $("#fencesandforgedironbtn").click(function() {
+    if ($("#fencesandforgediron").hasClass("clickedfencesandforgediron")) {
+        // already been clicked once, hide it
+        $("#fencesandforgediron").html("");
+        $( "#fencesandforgediron" ).removeClass( "clickedfencesandforgediron" )
+    }else {
+        // first time this is clicked, mark it
+        $("#fencesandforgediron").addClass("clickedfencesandforgediron");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/fencesandforgediron.txt", success: function(result){
+         $("#fencesandforgediron").html(result);
+        }});
+    }
+   });
+  // Grab fences and forgediron info on click end
 	
 
   // Grab ceramics and glass materials info on click start
@@ -2162,7 +2178,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 	   	   
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>P. CONSTRUCTION MATERIALS (28)</b></span> <span id="ro"><b>P. MATERIALE DE CONSTRUCȚII (28)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>P. CONSTRUCTION MATERIALS (31)</b></span> <span id="ro"><b>P. MATERIALE DE CONSTRUCȚII (31)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" ><span id="en">Construction machinery</span><span id="ro">Utilaje construcții</span></h5> 
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="aggregatesbtn" ><span id="en">Construction Aggregates (13)</span><span id="ro">Agregate construcții  (13)</span></h5> 
@@ -2246,8 +2262,11 @@ $(document).ready(function () {
    </table>
    <h5 class="categoryaccordion" ><span id="en">Historic building materials </span><span id="ro">Materiale construcții pentru clădiri istorice</span></h5>   
    <div class="rowbin" >-</div> 
-   <h5 class="categoryaccordion" ><span id="en">Fences and forged iron</span><span id="ro">Garduri și fier forjat</span></h5>   
-   <div class="rowbin" >-</div> 	   
+   <h5 class="categoryaccordion" id="fencesandforgedironbtn" ><span id="en">Fences and forged iron (3)</span><span id="ro">Garduri și fier forjat (3)</span></h5>   
+   <table id="fencesandforgediron" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 	   
    <h5 class="categoryaccordion" ><span id="en">Garden</span><span id="ro">Gradină</span></h5>   
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->
