@@ -51,14 +51,6 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:black;"><span id="en">Manufactured stone brick</span><span id="ro">Cărămidă piatră artificială</span></td></tr>
-<tr><td>Standard</td><td style="color:#39ff14;" >EN 771-5+A1:2015</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 mm x 000.00 mm x 000.00 mm</td></tr>
-<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Full</span><span id="ro">Plină</span></td></tr>
-<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
 <td style="color:black;"><span id="en">Natural stone brick</span><span id="ro">Cărămidă piatră naturală</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 771-6+A1:2015</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 mm x 000.00 mm x 000.00 mm</td></tr>
@@ -75,12 +67,15 @@
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:black;"><span id="en">Manufactured stone brick</span><span id="ro">Cărămidă piatră artificială</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 771-5+A1:2015</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 mm x 000.00 mm x 000.00 mm</td></tr>
+<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Full</span><span id="ro">Plină</span></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 
-       <tr><td><span id="en">Fly ash brick</span><span id="ro">Cărămidă BCU</span> </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Concrete brick</span><span id="ro">Cărămidă BCA</span> </td><td>-</td><td>-</td></tr>               
        <tr><td><span id="en">Engineering brick BS ISO 6707-1;2014</span><span id="ro">Cărămidă de inginerie britanică BS ISO 6707-1;2014</span>  </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Calcium silicate brick</span><span id="ro">Cărămidă silicat de calciu</span></td><td>-</td><td>-</td></tr>
        <tr><td><span id="en">Acid resistant brick</span><span id="ro">Cărămidă rezistentă la acid</span>  </td><td>-</td><td>-</td></tr>               
        <tr><td><span id="en">Alkaline refractory brick</span><span id="ro">Cărămida refractară alcalină</span>  </td><td>-</td><td>-</td></tr>
        <tr><td><span id="en">Fire brick</span><span id="ro">Șamotă</span> </td><td>-</td><td>-</td></tr> 
