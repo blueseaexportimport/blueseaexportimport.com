@@ -241,15 +241,45 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BRK0000001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Concrete Curbs</span><span id="ro">Borduri beton Petra Pavaje</span></td></tr>
-<tr><td>Standard</td><td style="color:#39ff14;" >EN 771-1+A1:2015</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BRK00003</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Concrete curbs Petra Pavaje</span><span id="ro">Borduri beton Petra Pavaje</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >SR EN 1340:2004/AC:2006</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>3.3 RON / Leier CP clasic 240 x 115 x 63 mm</td></tr>
+<tr><td>Formula 1</td><td>11.5 RON / <span id="en" >pcs Concrete curb, sloped, gray</span><span id="ro">buc Bordura, tesita, gri</span> 50x10x15 cm</td></tr>
+<tr><td>Formula 2</td><td>18 RON / <span id="en" >pcs Concrete curb, sloped, red</span><span id="ro">buc Bordura, tesita, rosu</span> 50x10x15 cm</td></tr>
+<tr><td>Formula 3</td><td>21 RON / <span id="en" >pcs Concrete curb, sloped, black</span><span id="ro">buc Bordura, tesita, negru</span> 50x10x15 cm</td></tr>
+<tr><td>Formula 4</td><td>23 RON / <span id="en" >pcs Concrete curb, sloped, yellow</span><span id="ro">buc Bordura, tesita, galben</span> 50x10x15 cm</td></tr>
+<tr><td>Formula 5</td><td>23 RON / <span id="en" >pcs Concrete curb, sloped, brown</span><span id="ro">buc Bordura, tesita, maro</span> 50x10x15 cm</td></tr>
+<tr><td>Formula 6</td><td>35 RON / <span id="en" >pcs Concrete curb, sloped, white</span><span id="ro">buc Bordura, tesita, alb</span> 50x10x15 cm</td></tr>
+<tr><td>Formula 7</td><td>22 RON / <span id="en" >pcs Concrete curb, sloped, gray</span><span id="ro">buc Bordura, tesita, gri</span> 50x12x25 cm</td></tr>
+<tr><td>Formula 8</td><td>24 RON / <span id="en" >pcs Concrete curb, sloped, gray</span><span id="ro">buc Bordura, tesita, gri</span>F10 50x15x25 cm</td></tr>
+<tr><td>Formula 9</td><td>24 RON / <span id="en" >pcs Concrete curb, sloped, gray</span><span id="ro">buc Bordura, tesita, gri</span>F15 50x15x25 cm</td></tr>
+<tr><td>Formula 10</td><td>29 RON / <span id="en" >pcs Concrete curb, sloped, gray</span><span id="ro">buc Bordura, tesita, gri</span> 50x20x25 cm</td></tr>
+<tr><td>Formula 11</td><td>29 RON / <span id="en" >pcs Concrete curb, sloped, gray</span><span id="ro">buc Bordura, tesita, gri</span>F15 50x20x25 cm</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://petrapavaje.ro/documente/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+Rigole 1272 RIGOLA SCAFA 50x20x8, gri, cu cant 8 50x20 cu cant gri buc 16
+Rigole 1273 RIGOLA SCAFA 50x20x8, rosu, cu cant 8 50x20 cu cant rosu buc 22
+Rigole 1274 RIGOLA SCAFA 50x20x8, negru, cu cant 8 50x20 cu cant negru buc 24
+Rigole 1214 RIGOLA SCAFA 40x30x12, gri, cu cant 12 40x30 cu cant gri buc 22
+Rigole 1215 RIGOLA SCAFA 40x30x12, rosu, cu cant 12 40x30 cu cant rosu buc 32
+Rigole 1402 RIGOLA SCAFA 40x30x12, negru, cu cant 12 40x30 cu cant negru buc 32
+nou Rigole 1676 CASIU, gri 15 50x46/35 fara cant gri buc 45
+
+Rigole 1392 RIGOLA TRAPEZOIDALA, gri 66 33x45 fara cant gri buc 65
+Rigole 2099 RIGOLA TRAPEZOIDALA, gri 66 50x45 fara cant gri buc 90
+Rigole 1393 RIGOLA PIETONALA, gri 25 33x28.5 fara cant gri buc 39
+Rigole 2092 RIGOLA CAROSABILA, gri, nut si feder 60 65X37 nut si feder gri buc 139
+Rigole 2096 RIGOLA ACOSTAMENT, gri 25 60X33 fara cant gri buc 46
+Rigole 2093 CAPAC RIGOLA CAROSABILA, NEARMAT, gri, cu cant 15 49x30 cu cant gri buc 33
+Rigole 2094 CAPAC RIGOLA CAROSABILA, SIMPLU ARMAT, gri, cu cant 15 49x30 cu cant gri buc 65
+Rigole 2095 CAPAC RIGOLA CAROSABILA, DUBLU ARMAT, gri, cu cant 15 49x30 cu cant gri buc 73
+
+
+
 
 
 
