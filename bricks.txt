@@ -14,11 +14,11 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BRK0000001</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BRK0000003</td></tr>
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
 <td style="color:black;"><span id="en">Autoclaved aerated concrete brick Macon</span><span id="ro">Cărămidă beton celular autoclavizat Macon</span></td></tr>
-<tr><td>Standard</td><td style="color:#39ff14;" >EN 771-4+A1:2015</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 771-3+A1:2015</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td>7.7 RON / 100 x 250 x 600 mm non-structural Macon</td></tr>
 <tr><td>Formula 2</td><td>13.2 RON / 125 x 250 x 600 mm non-structural Macon</td></tr>
 <tr><td>Formula 3</td><td>13 RON / 150 x 250 x 600 mm non-structural Macon</td></tr>
@@ -30,15 +30,26 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-
-
-
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BRK0000002</td></tr>
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:black;"><span id="en">Aggregate concrete brick</span><span id="ro">Cărămidă beton cu agregate</span></td></tr>
-<tr><td>Standard</td><td style="color:#39ff14;" >EN 771-3+A1:2015</td></tr><tr><td>Dim:</td><td style="color:#39ff14;" >000.00 mm x 000.00 mm x 000.00 mm</td></tr>
-<tr><td><span id="en">Type:</span><span id="ro">Tip:</span></td><td style="color:#39ff14;" ><span id="en">Full</span><span id="ro">Plină</span></td></tr>
-<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+<td style="color:black;"><span id="en">Aggregate concrete brick Elis Pavaje</span><span id="ro">Cărămidă beton cu agregate Elis Pavaje</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 771-4+A1:2015</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td>Formula 1</td><td>8.4 RON / 50 x 20 x 19.5 cm Elis Pavaje BF3 <span id="en">for fundation formwork</span><span id="ro">pentru cofraj fundație</span>
+</td></tr>
+<tr><td>Formula 2</td><td>8.5 RON / 50 x 25 x 19.5 cm Elis Pavaje BF1 <span id="en">for fundation formwork</span><span id="ro">pentru cofraj fundație</span>
+</td></tr>
+<tr><td>Formula 3</td><td>10.6 RON / 50 x 30 x 19.5 cm Elis Pavaje BF2 <span id="en">for fundation formwork</span><span id="ro">pentru cofraj fundație</span>
+</td></tr>
+<tr><td>Formula 4</td><td>8.4 RON / 25 x 25 x 19.5 cm Elis Pavaje BS1 <span id="en">for posts formwork</span><span id="ro">pentru cofraj stâlpi</span>
+</td></tr>
+<tr><td>Formula 5</td><td>6.9 RON / 40 x 12.5 x 19.5 cm Elis Pavaje BZ2 <span id="en">for masonry</span><span id="ro">pentru pentru zidărie</span></td></tr>
+<tr><td>Formula 6</td><td>11.8 RON / 40 x 20 x 19.5 cm Elis Pavaje BZ4 <span id="en">for masonry</span><span id="ro">pentru pentru zidărie</span></td></tr>
+<tr><td>Formula 7</td><td>12.3 RON / 40 x 25 x 19.5 cm Elis Pavaje BZ3 <span id="en">for masonry</span><span id="ro">pentru pentru zidărie</span></td></tr>
+<tr><td>Formula 8</td><td>12.6 RON / 40 x 30 x 19.5 cm Elis Pavaje BZ1 <span id="en">for masonry</span><span id="ro">pentru pentru zidărie</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://elis.ro/boltari-7" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
 
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
