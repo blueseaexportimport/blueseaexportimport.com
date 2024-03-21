@@ -3,7 +3,7 @@
 <!-- START Departure route -->
 <tr style="background:gold;" ><td style="color:black;" ><span id="en" >Route info</span><span id="ro">Info rută</span></td><td style="color:black;">Focsani - Nuuk</td></tr>
 
-<tr><td><span id="en" >Departing route</span><span id="ro">Rută dus</span></td><td style="color:#39ff14;"><span id="en" >Focsani - Copenhagen - Nuuk</span><span id="en" >Focsani - Copenhaga - Nuuk</span></td></tr>
+<tr><td><span id="en" >Departing route</span><span id="ro">Rută dus</span></td><td style="color:#39ff14;"><span id="en" >Focsani - Copenhagen - Nuuk</span><span id="ro" >Focsani - Copenhaga - Nuuk</span></td></tr>
 <tr><td><span id="en" >Cargo Type</span><span id="ro">Tip Cargo</span></td><td style="color:#39ff14;">Container</td></tr>
 <tr><td><span id="en" >Container Nr.</span><span id="ro">Nr. Container</span></td><td style="color:#39ff14;">BLEI-715754-0</td></tr>
 <tr><td><span id="en" >Container Size</span><span id="ro">Mărime Container</span></td><td style="color:#39ff14;" >40FT - normal</td></tr>
@@ -70,7 +70,7 @@
 <!-- START Return route -->
 <tr style="background:gold;" ><td style="color:black;" ><span id="en" >Route info</span><span id="ro">Info rută</span></td><td style="color:black;">Nuuk - Focsani</td></tr>
 
-<tr><td><span id="en" >Departing route</span><span id="ro">Rută dus</span></td><td style="color:#39ff14;"><span id="en" >Nuuk - Copenhagen - Focsani</span><span id="en" >Nuuk - Copenhaga - Focsani</span></td></tr>
+<tr><td><span id="en" >Return route</span><span id="ro">Rută întors</span></td><td style="color:#39ff14;"><span id="en" >Nuuk - Copenhagen - Focsani</span><span id="ro" >Nuuk - Copenhaga - Focsani</span></td></tr>
 <tr><td><span id="en" >Cargo Type</span><span id="ro">Tip Cargo</span></td><td style="color:#39ff14;">Container</td></tr>
 <tr><td><span id="en" >Container Nr.</span><span id="ro">Nr. Container</span></td><td style="color:#39ff14;">BLEI-715754-0</td></tr>
 <tr><td><span id="en" >Container Size</span><span id="ro">Mărime Container</span></td><td style="color:#39ff14;" >40FT - normal</td></tr>
