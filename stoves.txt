@@ -20,6 +20,5 @@
        <tr><td>Chimney flue pipe collar</td><td>-</td><td>-</td></tr>
        <tr><td>Chimney creosote remover </td><td>- </td><td>-</td></tr>
        <tr><td>Chimney sweeping kits </td><td>- </td><td>-</td></tr>
-
        <tr><td><span id="en">Alkaline refractory brick</span><span id="ro">Cărămida refractară alcalină</span>  </td><td>-</td><td>-</td></tr>
        <tr><td><span id="en">Fire brick</span><span id="ro">Șamotă</span> </td><td>-</td><td>-</td></tr> 
