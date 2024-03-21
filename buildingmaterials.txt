@@ -33,6 +33,16 @@
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >17.3 RON / 30kg</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BMS0000004</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Masonry mortar Macon for autoclaved aerated concrete bricks</span><span id="ro">Mortar pentru zidărie BCA Macon</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 998-2:2016</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.macon.ro/produse/mortar-adeziv-bca/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >26 RON / 25kg</td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BMS0000005</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Construction plaster Adeplast IC90</span><span id="ro">Ipsos construcții Adeplast IC90</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 13279-1:2009</td></tr>
