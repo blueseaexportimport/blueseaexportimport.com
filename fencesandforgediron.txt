@@ -1,1 +1,56 @@
+<tbody> 
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FEN0001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Concrete fence ROBUSTO</span><span id="ro">Elemente gard beton ROBUSTO</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 771-3+A1:2015</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+
+<tr><td>Formula 1</td><td>15 RON / <span id="en" >pcs Fence element, canted, red</span><span id="ro">buc Element gard, cu cant, rosu</span> 40x20x16 cm</td></tr>
+<tr><td>Formula 2</td><td>15 RON / <span id="en" >pcs Fence element, canted, maro</span><span id="ro">buc Element gard, cu cant, brown</span> 40x20x16 cm</td></tr>
+<tr><td>Formula 3</td><td>15 RON / <span id="en" >pcs Fence element, canted, light brown</span><span id="ro">buc Element gard, cu cant, maro deschis</span> 40x20x16 cm</td></tr>
+<tr><td>Formula 4</td><td>15 RON / <span id="en" >pcs Fence element, canted, gray</span><span id="ro">buc Element gard, cu cant, gri</span> 40x20x16 cm</td></tr>
+<tr><td>Formula 5</td><td>15 RON / <span id="en" >pcs Fence element, canted, black</span><span id="ro">buc Element gard, cu cant, negru</span> 40x20x16 cm</td></tr>
+<tr><td>Formula 6</td><td>10 RON / <span id="en" >pcs Half fence element, canted, red</span><span id="ro">buc Element gard jumate, cu cant, rosu</span> 20x20x16 cm</td></tr>
+<tr><td>Formula 7</td><td>10 RON / <span id="en" >pcs Half fence element, canted, maro</span><span id="ro">buc Element gard jumate, cu cant, brown</span> 20x20x16 cm</td></tr>
+<tr><td>Formula 8</td><td>10 RON / <span id="en" >pcs Half fence element, canted, light brown</span><span id="ro">buc Element gard jumate, cu cant, maro deschis</span> 20x20x16 cm</td></tr>
+<tr><td>Formula 9</td><td>10 RON / <span id="en" >pcs Half fence element, canted, gray</span><span id="ro">buc Element gard jumate, cu cant, gri</span> 20x20x16 cm</td></tr>
+<tr><td>Formula 10</td><td>10 RON / <span id="en" >pcs Half fence element, canted, black</span><span id="ro">buc Element gard jumate, cu cant, negru</span> 20x20x16 cm</td></tr>
+<tr><td>Formula 11</td><td>26 RON / <span id="en" >pcs Fence cover, canted, red</span><span id="ro">buc Capac gard, cu cant, rosu</span> 47x20x5 cm</td></tr>
+<tr><td>Formula 12</td><td>26 RON / <span id="en" >pcs Fence cover, canted, brown</span><span id="ro">buc Capac gard, cu cant, maro</span> 47x20x5 cm</td></tr>
+<tr><td>Formula 13</td><td>26 RON / <span id="en" >pcs Fence cover, canted, light brown</span><span id="ro">buc Capac gard, cu cant, maro deschis</span> 47x20x5 cm</td></tr>
+<tr><td>Formula 14</td><td>26 RON / <span id="en" >pcs Fence cover, canted, gray</span><span id="ro">buc Capac gard, cu cant, gri</span> 47x20x5 cm</td></tr>
+<tr><td>Formula 15</td><td>26 RON / <span id="en" >pcs Fence cover, canted, black</span><span id="ro">buc Capac gard, cu cant, nregru</span> 47x20x5 cm</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://petrapavaje.ro/garduri/robusto/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FEN0002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Concrete fence BAROC</span><span id="ro">Elemente gard beton BAROC</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 771-3+A1:2015</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td>Formula 1</td><td>42 RON / <span id="en" >pcs Fence element, without cant, black</span><span id="ro">buc Element gard, fara cant, negru</span> 40x20x20 cm</td></tr>
+<tr><td>Formula 2</td><td>42 RON / <span id="en" >pcs Fence element, without cant, white</span><span id="ro">buc Element gard, fara cant, alb</span> 40x20x20 cm</td></tr>
+<tr><td>Formula 3</td><td>28 RON / <span id="en" >pcs Half fence element, without cant, black</span><span id="ro">buc Element gard jumate, fara cant, negru</span> 40x20x20 cm</td></tr>
+<tr><td>Formula 4</td><td>28 RON / <span id="en" >pcs Half fence element, without cant, white</span><span id="ro">buc Element gard jumate, fara cant, alb</span> 40x20x20 cm</td></tr>
+<tr><td>Formula 5</td><td>45 RON / <span id="en" >pcs Fence post, without cant, black</span><span id="ro">buc Stalp gard, fara cant, negru</span> 40x20x20 cm</td></tr>
+<tr><td>Formula 6</td><td>45 RON / <span id="en" >pcs Fence post, without cant, white</span><span id="ro">buc Stalp gard, fara cant, alb</span> 40x20x20 cm</td></tr>
+<tr><td>Formula 7</td><td>90 RON / <span id="en" >pcs Fence post double, without cant, black</span><span id="ro">buc Stalp dublu gard, fara cant, negru</span> 40x40x20 cm</td></tr>
+<tr><td>Formula 8</td><td>90 RON / <span id="en" >pcs Fence post double, without cant, white</span><span id="ro">buc Stalp dublu gard, fara cant, alb</span> 40x40x20 cm</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://petrapavaje.ro/garduri/baroc/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FEN0002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Concrete fence MODERN</span><span id="ro">Elemente gard beton MODERN</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 771-3+A1:2015</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td>Formula 1</td><td>20 RON / <span id="en" >pcs Fence element, nut-feder, black</span><span id="ro">buc Element gard, nut-feder, negru</span> 60x30x9 cm</td></tr>
+<tr><td>Formula 2</td><td>20 RON / <span id="en" >pcs Fence element, nut-feder, maro</span><span id="ro">buc Element gard, nut-feder, brown</span> 60x30x9 cm</td></tr>
+<tr><td>Formula 3</td><td>25 RON / <span id="en" >pcs Fence element, nut-feder, white</span><span id="ro">buc Element gard, nut-feder, alb</span> 60x30x9 cm</td></tr>
+<tr><td>Formula 4</td><td>30 RON / <span id="en" >pcs Fence cover, nut-feder, black</span><span id="ro">buc Capac gard, nut-feder, negru</span> 60x30x7.5 cm</td></tr>
+<tr><td>Formula 5</td><td>30 RON / <span id="en" >pcs Fence cover, nut-feder, maro</span><span id="ro">buc Capac gard, nut-feder, brown</span> 60x30x7.5 cm</td></tr>
+<tr><td>Formula 6</td><td>35 RON / <span id="en" >pcs Fence cover, nut-feder, white</span><span id="ro">buc Capac gard, nut-feder, alb</span> 60x30x7.5 cm</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://petrapavaje.ro/garduri/modern/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+</tbody>
