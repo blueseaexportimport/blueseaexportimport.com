@@ -4,7 +4,6 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Concrete fence ROBUSTO</span><span id="ro">Elemente gard beton ROBUSTO</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 771-3+A1:2015</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-
 <tr><td>Formula 1</td><td>15 RON / <span id="en" >pcs Fence element, canted, red</span><span id="ro">buc Element gard, cu cant, rosu</span> 40x20x16 cm</td></tr>
 <tr><td>Formula 2</td><td>15 RON / <span id="en" >pcs Fence element, canted, maro</span><span id="ro">buc Element gard, cu cant, brown</span> 40x20x16 cm</td></tr>
 <tr><td>Formula 3</td><td>15 RON / <span id="en" >pcs Fence element, canted, light brown</span><span id="ro">buc Element gard, cu cant, maro deschis</span> 40x20x16 cm</td></tr>
