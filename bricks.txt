@@ -75,14 +75,9 @@
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >00000.00 RON / t</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
+<tr><td><span id="en">Engineering brick BS ISO 6707-1;2014</span><span id="ro">Cărămidă de inginerie britanică BS ISO 6707-1;2014</span>  </td><td>-</td><td>-</td></tr>
 
 
-
-
-       <tr><td><span id="en">Engineering brick BS ISO 6707-1;2014</span><span id="ro">Cărămidă de inginerie britanică BS ISO 6707-1;2014</span>  </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Acid resistant brick</span><span id="ro">Cărămidă rezistentă la acid</span>  </td><td>-</td><td>-</td></tr>               
-       <tr><td><span id="en">Alkaline refractory brick</span><span id="ro">Cărămida refractară alcalină</span>  </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Fire brick</span><span id="ro">Șamotă</span> </td><td>-</td><td>-</td></tr> 
 -->
 
 
