@@ -1,7 +1,7 @@
 <tbody>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BRK0000001</td></tr>
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:black;"><span id="en">Burnt clay brick Leier CP</span><span id="ro">Cărămidă arsă Leier</span></td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Burnt clay brick Leier CP</span><span id="ro">Cărămidă arsă Leier</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 771-1+A1:2015</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td>3.3 RON / Leier CP clasic 240 x 115 x 63 mm</td></tr>
@@ -15,8 +15,8 @@
 
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BRK0000003</td></tr>
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:black;"><span id="en">Autoclaved aerated concrete brick Macon</span><span id="ro">Cărămidă beton celular autoclavizat Macon</span></td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;" ><span id="en">Autoclaved aerated concrete brick Macon</span><span id="ro">Cărămidă beton celular autoclavizat Macon</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 771-3+A1:2015</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td>7.7 RON / 100 x 250 x 600 mm non-structural Macon</td></tr>
@@ -30,9 +30,9 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BRK0000002</td></tr>
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:black;"><span id="en">Aggregate concrete brick Elis Pavaje</span><span id="ro">Cărămidă beton cu agregate Elis Pavaje</span></td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BRK0000003</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;"><span id="en">Aggregate concrete brick Elis Pavaje</span><span id="ro">Cărămidă beton cu agregate Elis Pavaje</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 771-4+A1:2015</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td>8.4 RON / 50 x 20 x 19.5 cm Elis Pavaje BF3 <span id="en">for fundation formwork</span><span id="ro">pentru cofraj fundație</span>
