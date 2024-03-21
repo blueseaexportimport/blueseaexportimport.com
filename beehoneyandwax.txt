@@ -1,6 +1,30 @@
-    <tr><td><span id="en">Acacia Bee Honey</span><span id="ro" >Miere de salcâm</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Polyflora Bee Honey</span><span id="ro" >Miere polifloră</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Canola Bee Honey</span><span id="ro" >Miere de rapiță</span> </td><td>-</td><td>-</td></tr> 
+
+<tbody>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BEE001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;" ><span id="en">Bee honey Apisilva</span><span id="ro">Miere de albine Apisilva</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td>Formula 1</td><td>22 RON / 400g <span id="en">Acacia bee honey</span><span id="ro">Miere de salcâm</span></td></tr>
+<tr><td>Formula 2</td><td>40 RON / 980g <span id="en">Acacia bee honey</span><span id="ro">Miere de salcâm</span></td></tr>
+<tr><td>Formula 1</td><td>15 RON / 400g <span id="en">Polyflora bee honey</span><span id="ro">Miere polifloră</span></td></tr>
+<tr><td>Formula 2</td><td>28 RON / 980g <span id="en">Polyflora bee honey</span><span id="ro">Miere polifloră</span></td></tr>
+<tr><td>Formula 1</td><td>105 RON / 4kg <span id="en">Polyflora bee honey</span><span id="ro">Miere polifloră</span></td></tr>
+<tr><td>Formula 2</td><td>175 RON / 7kg <span id="en">Polyflora bee honey</span><span id="ro">Miere polifloră</span></td></tr>
+<tr><td>Formula 2</td><td>14 RON / 400g <span id="en">Linden bee honey</span><span id="ro">Miere de tei</span></td></tr>
+<tr><td>Formula 2</td><td>26 RON / 980g <span id="en">Linden bee honey</span><span id="ro">Miere de tei</span></td></tr>
+<tr><td>Formula 2</td><td>95 RON / 4kg <span id="en">Linden bee honey</span><span id="ro">Miere de tei</span></td></tr>
+<tr><td>Formula 2</td><td>165 RON / 7kg <span id="en">Linden bee honey</span><span id="ro">Miere de tei</span></td></tr>
+<tr><td>Formula 2</td><td>15 RON / 400g <span id="en">Canola Bee Honey</span><span id="ro">Miere de rapiță</span></td></tr>
+<tr><td>Formula 2</td><td>28 RON / 980g <span id="en">Canola Bee Honey</span><span id="ro">Miere de rapiță</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.rosilva.ro/articole/miere_apisilva__p_2643.htm" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+</tbody>
+
+
+<!--
     <tr><td><span id="en">Dry pollen</span><span id="ro" >Polen uscat</span> </td><td>-</td><td>-</td></tr> 
     <tr><td><span id="en">Raw pollen</span><span id="ro" >Polen crud</span> </td><td>-</td><td>-</td></tr> 
     <tr><td><span id="en">Royal Jelly</span><span id="ro" >Lăptișor de matcă</span> </td><td>-</td><td>-</td></tr> 
@@ -8,3 +32,4 @@
     <tr><td><span id="en">Honeycombs</span><span id="ro" >Fagure cu miere</span> </td><td>-</td><td>-</td></tr> 
     <tr><td><span id="en">Bee bread</span><span id="ro" >Păstură</span> </td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Honey small portion packet</span><span id="ro" >Pliculețe Miere de Albine</span></td><td>-</td><td>-</td></tr>
+-->
