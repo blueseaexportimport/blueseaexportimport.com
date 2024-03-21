@@ -33,3 +33,18 @@
     <tr><td><span id="en">Bee bread</span><span id="ro" >Păstură</span> </td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Honey small portion packet</span><span id="ro" >Pliculețe Miere de Albine</span></td><td>-</td><td>-</td></tr>
 -->
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
