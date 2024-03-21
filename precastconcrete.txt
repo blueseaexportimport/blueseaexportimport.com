@@ -5,7 +5,6 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Standard Pavement Petra Pavaje</span><span id="ro">Pavaje standard Petra Pavaje</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >SR EN 1338:2004/AC:2006</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-
 <tr><td>Formula 1</td><td>60 RON / m2 HOLLAND 20x10x4 cm,<span id="en" >gray</span><span id="ro">gri</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 2</td><td>72 RON / m2 HOLLAND 20x10x4 cm,<span id="en" >black</span><span id="ro">negru</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 3</td><td>75 RON / m2 HOLLAND 20x10x4 cm,<span id="en" >yellow</span><span id="ro">galben</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
@@ -121,97 +120,70 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Premium pavement Petra Pavaje</span><span id="ro">Pavaje premium Petra Pavaje</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >SR EN 1338:2004/AC:2006</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-
 <tr><td>Formula 1</td><td>120 RON / m2 ROCA 20X10X6 cm,<span id="en" >antic gray</span><span id="ro">gri antic</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 2</td><td>120 RON / m2 ROCA 20x20x6 cm,<span id="en" >antic gray</span><span id="ro">gri antic</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 3</td><td>120 RON / m2 ROCA 30x20x6 cm,<span id="en" >antic gray</span><span id="ro">gri antic</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 4</td><td>120 RON / m2 ROCA 40x40x6 cm,<span id="en" >antic gray</span><span id="ro">gri antic</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 5</td><td>120 RON / m2 ROCA 50X50X8 cm,<span id="en" >antic gray</span><span id="ro">gri antic</span>, <span id="en" >microcanted</span><span id="ro">cu microcant</span> </td></tr>
 <tr><td>Formula 6</td><td>120 RON / m2 ROCA 50X50X8 cm,<span id="en" >antic gray</span><span id="ro">gri antic</span>, <span id="en" >microcanted</span><span id="ro">cu microcant</span> </td></tr>
-
 <tr><td>Formula 7</td><td>149 RON / m2 ANTIC 10x10x6 cm,<span id="en" >antic gray</span><span id="ro">gri antic</span>, <span id="en" >antique</span><span id="ro">antichizat</span> </td></tr>
 <tr><td>Formula 8</td><td>149 RON / m2 ANTIC 10x10x6 cm,<span id="en" >moka</span><span id="ro">moka</span>, <span id="en" >antique</span><span id="ro">antichizat</span> </td></tr>
 <tr><td>Formula 9</td><td>135 RON / m2 ANTIC 10x10x6 cm,<span id="en" >black</span><span id="ro">negru</span>, <span id="en" >antique</span><span id="ro">antichizat</span> </td></tr>
-
 <tr><td>Formula 10</td><td>149 RON / m2 ANTIC 20X10X6 cm,<span id="en" >antic gray</span><span id="ro">gri antic</span>, <span id="en" >antique</span><span id="ro">antichizat</span> </td></tr>
 <tr><td>Formula 11</td><td>149 RON / m2 ANTIC 20X10X6 cm,<span id="en" >moka</span><span id="ro">moka</span>, <span id="en" >antique</span><span id="ro">antichizat</span> </td></tr>
 <tr><td>Formula 12</td><td>135 RON / m2 ANTIC 20X10X6 cm,<span id="en" >black</span><span id="ro">negru</span>, <span id="en" >antique</span><span id="ro">antichizat</span> </td></tr>
-
 <tr><td>Formula 13</td><td>149 RON / m2 ANTIC 20x20x6 cm,<span id="en" >antic gray</span><span id="ro">gri antic</span>, <span id="en" >antique</span><span id="ro">antichizat</span> </td></tr>
 <tr><td>Formula 14</td><td>149 RON / m2 ANTIC 20x20x6 cm,<span id="en" >moka</span><span id="ro">moka</span>, <span id="en" >antique</span><span id="ro">antichizat</span> </td></tr>
 <tr><td>Formula 15</td><td>135 RON / m2 ANTIC 20x20x6 cm,<span id="en" >black</span><span id="ro">negru</span>, <span id="en" >antique</span><span id="ro">antichizat</span> </td></tr>
-
 <tr><td>Formula 16</td><td>155 RON / m2 GRAND URBAN 100x50x8 cm,<span id="en" >antic gray</span><span id="ro">gri antic</span>, <span id="en" >microcanted</span><span id="ro">microcant</span> </td></tr>
 <tr><td>Formula 17</td><td>155 RON / m2 GRAND URBAN 100x50x8 cm,<span id="en" >moka</span><span id="ro">moka</span>, <span id="en" >microcanted</span><span id="ro">microcant</span> </td></tr>
 <tr><td>Formula 18</td><td>155 RON / m2 GRAND URBAN 100x50x8 cm,<span id="en" >basalt gray</span><span id="ro">gri bazaltic</span>, <span id="en" >microcanted</span><span id="ro">microcant</span> </td></tr>
-
 <tr><td>Formula 19</td><td>115 RON / m2 MISTIC 30x20x6 cm,<span id="en" >basalt gray</span><span id="ro">gri bazaltic</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 20</td><td>115 RON / m2 MISTIC 30x20x6 cm,<span id="en" >graphite gray</span><span id="ro">gri grafit</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 21</td><td>115 RON / m2 MISTIC 30x20x6 cm,<span id="en" >indigo</span><span id="ro">indigo</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 22</td><td>115 RON / m2 MISTIC 30x20x6 cm,<span id="en" >aquatic</span><span id="ro">acvatic</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
-
 <tr><td>Formula 23</td><td>115 RON / m2 MISTIC 40x40x6 cm,<span id="en" >basalt gray</span><span id="ro">gri bazaltic</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 24</td><td>115 RON / m2 MISTIC 40x40x6 cm,<span id="en" >graphite gray</span><span id="ro">gri grafit</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 25</td><td>115 RON / m2 MISTIC 40x40x6 cm,<span id="en" >indigo</span><span id="ro">indigo</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 26</td><td>115 RON / m2 MISTIC 40x40x6 cm,<span id="en" >aquatic</span><span id="ro">acvatic</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
-
 <tr><td>Formula 27</td><td>115 RON / m2 MISTIC 60x30x6 cm,<span id="en" >basalt gray</span><span id="ro">gri bazaltic</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 28</td><td>115 RON / m2 MISTIC 60x30x6 cm,<span id="en" >graphite gray</span><span id="ro">gri grafit</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 29</td><td>115 RON / m2 MISTIC 60x30x6 cm,<span id="en" >indigo</span><span id="ro">indigo</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 30</td><td>115 RON / m2 MISTIC 60x30x6 cm,<span id="en" >aquatic</span><span id="ro">acvatic</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
-
 <tr><td>Formula 31</td><td>100 RON / m2 MEDITERANA 20x10x6 cm,<span id="en" >terra</span><span id="ro">terra</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 32</td><td>100 RON / m2 MEDITERANA 20x10x6 cm,<span id="en" >rossa</span><span id="ro">rossa</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
-
 <tr><td>Formula 33</td><td>100 RON / m2 MEDITERANA 20x20x6 cm,<span id="en" >terra</span><span id="ro">terra</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 34</td><td>100 RON / m2 MEDITERANA 20x20x6 cm,<span id="en" >rossa</span><span id="ro">rossa</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
-
 <tr><td>Formula 35</td><td>100 RON / m2 MEDITERANA 30x20x6 cm,<span id="en" >terra</span><span id="ro">terra</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 36</td><td>100 RON / m2 MEDITERANA 30x20x6 cm,<span id="en" >rossa</span><span id="ro">rossa</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
-
 <tr><td>Formula 37</td><td>100 RON / m2 MEDITERANA 60x30x6 cm,<span id="en" >terra</span><span id="ro">terra</span>, <span id="en" >microcanted</span><span id="ro">cu microcant</span> </td></tr>
 <tr><td>Formula 38</td><td>100 RON / m2 MEDITERANA 60x30x6 cm,<span id="en" >rossa</span><span id="ro">rossa</span>, <span id="en" >microcanted</span><span id="ro">cu microcant</span> </td></tr>
-
-
 <tr><td>Formula 39</td><td>115 RON / m2 SAHARA 30x20x6 cm,<span id="en" >moka</span><span id="ro">moka</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 40</td><td>115 RON / m2 SAHARA 30x20x6 cm,<span id="en" >travertin</span><span id="ro">travertin</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
-
-
 <tr><td>Formula 41</td><td>115 RON / m2 SAHARA 60x30x6 cm,<span id="en" >moka</span><span id="ro">moka</span>, <span id="en" >microcanted</span><span id="ro">microcant</span> </td></tr>
 <tr><td>Formula 42</td><td>115 RON / m2 SAHARA 60x30x6 cm,<span id="en" >travertin</span><span id="ro">travertin</span>, <span id="en" >microcanted</span><span id="ro">microcant</span> </td></tr>
-
-
 <tr><td>Formula 43</td><td>100 RON / m2 VIENA 20X10X6 cm,<span id="en" >dark violet</span><span id="ro">negru violet</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 44</td><td>100 RON / m2 VIENA 20x20x6 cm,<span id="en" >dark violet</span><span id="ro">negru violet</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 45</td><td>100 RON / m2 VIENA 30x20x6 cm,<span id="en" >dark violet</span><span id="ro">negru violet</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 46</td><td>100 RON / m2 VIENA 60x30x6 cm,<span id="en" >dark violet</span><span id="ro">negru violet</span>, <span id="en" >microcanted</span><span id="ro">microcant</span> </td></tr>
-
 <tr><td>Formula 47</td><td>100 RON / m2 MAYA 60x30x6 cm,<span id="en" >antique brown</span><span id="ro">brun antic</span>, <span id="en" >microcanted</span><span id="ro">microcant</span> </td></tr>
-
-
 <tr><td>Formula 48</td><td>100 RON / m2 MAYA 60x30x6 cm,<span id="en" >antique brown</span><span id="ro">brun antic</span>, <span id="en" >microcanted</span><span id="ro">microcant</span> </td></tr>
-
-
 <tr><td>Formula 49</td><td>80 RON / m2 PASTEL 20x10x4 cm,<span id="en" >summer</span><span id="ro">summer</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 50</td><td>80 RON / m2 PASTEL 20x10x4 cm,<span id="en" >winter</span><span id="ro">winter</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 51</td><td>80 RON / m2 PASTEL 20x10x4 cm,<span id="en" >autumn</span><span id="ro">autumn</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 52</td><td>80 RON / m2 PASTEL 20x10x4 cm,<span id="en" >spring</span><span id="ro">spring</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
-
 <tr><td>Formula 53</td><td>95 RON / m2 PASTEL 20x10x6 cm,<span id="en" >summer</span><span id="ro">summer</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 54</td><td>95 RON / m2 PASTEL 20x10x6 cm,<span id="en" >winter</span><span id="ro">winter</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 55</td><td>95 RON / m2 PASTEL 20x10x6 cm,<span id="en" >autumn</span><span id="ro">autumn</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 56</td><td>95 RON / m2 PASTEL 20x10x6 cm,<span id="en" >spring</span><span id="ro">spring</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
-
 <tr><td>Formula 57</td><td>105 RON / m2 ALPIN 30x20x6 cm,<span id="en" >white</span><span id="ro">alb</span>, <span id="en" >microcanted</span><span id="ro">microcant</span> </td></tr>
 <tr><td>Formula 58</td><td>105 RON / m2 ALPIN 30x20x6 cm,<span id="en" >moka</span><span id="ro">moka</span>, <span id="en" >microcanted</span><span id="ro">microcant</span> </td></tr>
 <tr><td>Formula 59</td><td>105 RON / m2 ALPIN 60x30x6 cm,<span id="en" >white</span><span id="ro">alb</span>, <span id="en" >microcanted</span><span id="ro">microcant</span> </td></tr>
 <tr><td>Formula 60</td><td>105 RON / m2 ALPIN 60x30x6 cm,<span id="en" >moka</span><span id="ro">moka</span>, <span id="en" >microcanted</span><span id="ro">microcant</span> </td></tr>
-
 <tr><td>Formula 61</td><td>120 RON / m2 WOODSTONE 60x30x6 cm,<span id="en" >savana yellow</span><span id="ro">galben savana</span>, <span id="en" >without cant</span><span id="ro">fara cant</span> </td></tr>
 <tr><td>Formula 62</td><td>120 RON / m2 WOODSTONE 60x30x6 cm,<span id="en" >mountain brown</span><span id="ro">brun montan</span>, <span id="en" >without cant</span><span id="ro">fara cant</span> </td></tr>
 <tr><td>Formula 63</td><td>120 RON / m2 WOODSTONE 60x30x6 cm,<span id="en" >cashew brown</span><span id="ro">maro caju</span>, <span id="en" >without cant</span><span id="ro">fara cant</span> </td></tr>
 <tr><td>Formula 64</td><td>120 RON / m2 WOODSTONE 60x30x6 cm,<span id="en" >black ebony</span><span id="ro">negru abanos</span>, <span id="en" >without cant</span><span id="ro">fara cant</span> </td></tr>
-
 <tr><td>Formula 65</td><td>150 RON / m2 RELIEF 20x10x6 cm,<span id="en" >marmorat</span><span id="ro">marmorat</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 66</td><td>150 RON / m2 RELIEF 20x10x6 cm,<span id="en" >black onyx</span><span id="ro">negru onix</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 67</td><td>150 RON / m2 RELIEF 20x10x6 cm,<span id="en" >gray onyx</span><span id="ro">gri onix</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
@@ -219,7 +191,6 @@
 <tr><td>Formula 69</td><td>135 RON / m2 RELIEF 20x10x6 cm,<span id="en" >limonite beige</span><span id="ro">bej limonita</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 70</td><td>135 RON / m2 RELIEF 20x10x6 cm,<span id="en" >ruby</span><span id="ro">rubin</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 71</td><td>135 RON / m2 RELIEF 20x10x6 cm,<span id="en" >emerald green</span><span id="ro">verde smarald</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
-
 <tr><td>Formula 72</td><td>150 RON / m2 RELIEF 30x20x6 cm,<span id="en" >marmorat</span><span id="ro">marmorat</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 73</td><td>150 RON / m2 RELIEF 30x20x6 cm,<span id="en" >black onyx</span><span id="ro">negru onix</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 74</td><td>150 RON / m2 RELIEF 30x20x6 cm,<span id="en" >gray onyx</span><span id="ro">gri onix</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
@@ -227,8 +198,6 @@
 <tr><td>Formula 76</td><td>135 RON / m2 RELIEF 30x20x6 cm,<span id="en" >limonite beige</span><span id="ro">bej limonita</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 77</td><td>135 RON / m2 RELIEF 30x20x6 cm,<span id="en" >ruby</span><span id="ro">rubin</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 78</td><td>135 RON / m2 RELIEF 30x20x6 cm,<span id="en" >emerald green</span><span id="ro">verde smarald</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
-
-
 <tr><td>Formula 79</td><td>150 RON / m2 RELIEF 40x40x5 cm,<span id="en" >marmorat</span><span id="ro">marmorat</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 80</td><td>150 RON / m2 RELIEF 40x40x5 cm,<span id="en" >black onyx</span><span id="ro">negru onix</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
 <tr><td>Formula 81</td><td>150 RON / m2 RELIEF 40x40x5 cm,<span id="en" >gray onyx</span><span id="ro">gri onix</span>, <span id="en" >canted</span><span id="ro">cu cant</span> </td></tr>
