@@ -890,7 +890,21 @@ $(document).ready(function () {
    });
   // Grab newspapers on click end
 
-	
+  // Grab bee honey and wax on click start
+  $("#beehoneyandwaxbtn").click(function() {
+    if ($("#beehoneyandwax").hasClass("clickedbeehoneyandwax")) {
+        // already been clicked once, hide it
+        $("#beehoneyandwax").html("");
+        $( "#beehoneyandwax" ).removeClass( "clickedbeehoneyandwax" )
+    }else {
+        // first time this is clicked, mark it
+        $("#beehoneyandwax").addClass("clickedbeehoneyandwax");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/beehoneyandwax.txt", success: function(result){
+         $("#beehoneyandwax").html(result);
+        }});
+    }
+   });
+  // Grab bee honey and wax on click end
 
   // Grab chickenfreshmeat on click start
   $("#chickenfreshmeatbtn").click(function() {
@@ -2459,7 +2473,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (1)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (1)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (2)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (2)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Human Food Grains</span><span id="ro">Cereale Consum Uman</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Rice</span><span id="ro">Orez</span></h5>    
@@ -2517,8 +2531,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Frozen Meat</span><span id="ro">Carne Congelată</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Bee Honey and Wax</span><span id="ro">Miere de Albine și Ceară</span></h5>
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="beehoneyandwaxbtn" ><span id="en">Bee Honey and Wax (1)</span><span id="ro">Miere de Albine și Ceară (1)</span></h5>
+   <table id="beehoneyandwax" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	
   <h5 class="categoryaccordion" ><span id="en">Fish</span><span id="ro">Pește</span></h5>
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Roe / Caviar</span><span id="ro">Icre și Caviar</span></h5>
