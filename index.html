@@ -772,6 +772,22 @@ $(document).ready(function () {
     }
    });
   // Grab cosmetics makeup items info on click end
+
+  // Grab cookingutensils info on click start
+  $("#cookingutensilsbtn").click(function() {
+    if ($("#cookingutensils").hasClass("clickedcookingutensils")) {
+        // already been clicked once, hide it
+        $("#cookingutensils").html("");
+        $( "#cookingutensils" ).removeClass( "clickedcookingutensils" )
+    }else {
+        // first time this is clicked, mark it
+        $("#cookingutensils").addClass("clickedcookingutensils");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/cookingutensils.txt", success: function(result){
+         $("#cookingutensils").html(result);
+        }});
+    }
+   });
+  // Grab cookingutensils info on click end
 	
 
   // Grab office and school supplies info on click start
@@ -2563,15 +2579,18 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (25)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (25)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (29)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (29)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Echipamente morărit</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Echipamente ambalat alimente</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Cookware Items</span><span id="ro">Articole Gătit</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Cooking utensils</span><span id="ro">Ustensile Gătit</span></h5>    
-  <div class="rowbin" >-</div>   
+  <h5 class="categoryaccordion" id="cookingutensils" ><span id="en">Cooking utensils (4)</span><span id="ro">Ustensile Gătit (4)</span></h5>    
+   <table id="cookingutensils" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	   
   <h5 class="categoryaccordion"><span id="en">Food Additives</span><span id="ro">Aditiv alimentari</span></h5>    
   <div class="rowbin" >-</div> 
   <h5 class="categoryaccordion"><span id="en">Flavour Powder</span><span id="ro">Aromă Alimentară Pudră </span></h5>    
