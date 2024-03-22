@@ -75,6 +75,66 @@
 <tr><td>Formula 2</td><td>415.5 RON / <span id="en" >European cooking utensils set IRIS 48pcs</span><span id="ro" >Set ustensile gătit IRIS 48pcs</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icos.ro/?product_cat=seturi-tacamuri" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
+
+
+
+</tbody>
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
+
+
+
+
+<!--
+       <tr><td>Stainless steel teaspoon</td><td>-</td><td>-</td></tr>
+       <tr><td>Stainless steel dessert spoon</td><td>-</td><td>-</td></tr>         
+       <tr><td>Stainless steel tablespoon</td><td>-</td><td>-</td></tr>        
+       <tr><td>Stainless steel soup spoon</td><td>-</td><td>-</td></tr>              
+       <tr><td>Stainless steel demitasse spoon</td><td>-</td><td>-</td></tr>
+       <tr><td>Stainless steel bouillon spoon</td><td>-</td><td>-</td></tr>         
+       <tr><td>Stainless steel iced tea spoon - soda spoon</td><td>-</td><td>-</td></tr>        
+       <tr><td>Stainless steel grapefruit spoon - citrus spoon</td><td>-</td><td>-</td></tr>     
+       <tr><td>Stainless steel dinner fork</td><td>-</td><td>-</td></tr>
+       <tr><td>Stainless steel cocktail - oyster fork</td><td>-</td><td>-</td></tr>         
+       <tr><td>Stainless steel dessert fork</td><td>-</td><td>-</td></tr>        
+       <tr><td>Stainless steel salad fork</td><td>-</td><td>-</td></tr>              
+       <tr><td>Stainless steel european dinner fork</td><td>-</td><td>-</td></tr>
+       <tr><td>Stainless steel snail fork</td><td>-</td><td>-</td></tr>         
+       <tr><td>Stainless steel european dinner knife</td><td>-</td><td>-</td></tr>        
+       <tr><td>Stainless steel dinner knife</td><td>-</td><td>-</td></tr>            
+       <tr><td>Stainless steel butter knife</td><td>-</td><td>-</td></tr>  
+       <tr><td>Stainless steel butter spreader</td><td>-</td><td>-</td></tr>   
+       <tr><td>Stainless steel barbeque fork</td><td>-</td><td>-</td></tr>  
+       <tr><td>Stainless steel chef’s knife</td><td>-</td><td>-</td></tr>
+       <tr><td>Stainless steel chopping - cleaver knife</td><td>-</td><td>-</td></tr>  
+       <tr><td>Stainless steel santoku knife</td><td>-</td><td>-</td></tr>   
+       <tr><td>Stainless steel utility knife</td><td>-</td><td>-</td></tr>   
+       <tr><td>Stainless steel kitchen shears</td><td>-</td><td>-</td></tr> 
+       <tr><td>Stainless steel boning knife</td><td>-</td><td>-</td></tr>
+       <tr><td>Stainless steel bread knife</td><td>-</td><td>-</td></tr>  
+       <tr><td>Stainless steel paring knife</td><td>-</td><td>-</td></tr>   
+       <tr><td>Stainless steel steak knife</td><td>-</td><td>-</td></tr>   
+       <tr><td>Stainless steel nakiri bocho</td><td>-</td><td>-</td></tr> 
+       <tr><td>Stainless steel fillet knife</td><td>-</td><td>-</td></tr>  
+       <tr><td>Stainless steel flour sifter</td><td>-</td><td>-</td></tr>  
+       <tr><td>Cutlery Support</td><td>-</td><td>-</td></tr>   
+       <tr><td>Tomato strainer</td><td>-</td><td>-</td></tr>    
+       <tr><td>Meat slicer</td><td>-</td><td>-</td></tr>    
+       <tr><td>Bread slicer</td><td>-</td><td>-</td></tr>  
+
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">COU006</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Forjed professional cooking knifes ICOS</span><span id="ro">Cuțite de gătit profesionale forjat ICOS</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
@@ -158,64 +218,6 @@
 <tr><td>Formula 8</td><td>17.7 RON / <span id="en" >Non-stick round tart pan 27cm x 3cm</span><span id="ro" >Tava tarta rotunda 27cm x 3cm antiaderenta</span></td></tr>
 <tr><td>Formula 9</td><td>35.9 RON / <span id="en" >Mortar and pestle 8cm stone</span><span id="ro" >Mojar cu pistil 8cm din piatra</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icos.ro/?product_cat=ustensile-de-bucatarie" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-</tbody>
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
-}
-});
-</script>
-
-
-
-
-<!--
-       <tr><td>Stainless steel teaspoon</td><td>-</td><td>-</td></tr>
-       <tr><td>Stainless steel dessert spoon</td><td>-</td><td>-</td></tr>         
-       <tr><td>Stainless steel tablespoon</td><td>-</td><td>-</td></tr>        
-       <tr><td>Stainless steel soup spoon</td><td>-</td><td>-</td></tr>              
-       <tr><td>Stainless steel demitasse spoon</td><td>-</td><td>-</td></tr>
-       <tr><td>Stainless steel bouillon spoon</td><td>-</td><td>-</td></tr>         
-       <tr><td>Stainless steel iced tea spoon - soda spoon</td><td>-</td><td>-</td></tr>        
-       <tr><td>Stainless steel grapefruit spoon - citrus spoon</td><td>-</td><td>-</td></tr>     
-       <tr><td>Stainless steel dinner fork</td><td>-</td><td>-</td></tr>
-       <tr><td>Stainless steel cocktail - oyster fork</td><td>-</td><td>-</td></tr>         
-       <tr><td>Stainless steel dessert fork</td><td>-</td><td>-</td></tr>        
-       <tr><td>Stainless steel salad fork</td><td>-</td><td>-</td></tr>              
-       <tr><td>Stainless steel european dinner fork</td><td>-</td><td>-</td></tr>
-       <tr><td>Stainless steel snail fork</td><td>-</td><td>-</td></tr>         
-       <tr><td>Stainless steel european dinner knife</td><td>-</td><td>-</td></tr>        
-       <tr><td>Stainless steel dinner knife</td><td>-</td><td>-</td></tr>            
-       <tr><td>Stainless steel butter knife</td><td>-</td><td>-</td></tr>  
-       <tr><td>Stainless steel butter spreader</td><td>-</td><td>-</td></tr>   
-       <tr><td>Stainless steel barbeque fork</td><td>-</td><td>-</td></tr>  
-       <tr><td>Stainless steel chef’s knife</td><td>-</td><td>-</td></tr>
-       <tr><td>Stainless steel chopping - cleaver knife</td><td>-</td><td>-</td></tr>  
-       <tr><td>Stainless steel santoku knife</td><td>-</td><td>-</td></tr>   
-       <tr><td>Stainless steel utility knife</td><td>-</td><td>-</td></tr>   
-       <tr><td>Stainless steel kitchen shears</td><td>-</td><td>-</td></tr> 
-       <tr><td>Stainless steel boning knife</td><td>-</td><td>-</td></tr>
-       <tr><td>Stainless steel bread knife</td><td>-</td><td>-</td></tr>  
-       <tr><td>Stainless steel paring knife</td><td>-</td><td>-</td></tr>   
-       <tr><td>Stainless steel steak knife</td><td>-</td><td>-</td></tr>   
-       <tr><td>Stainless steel nakiri bocho</td><td>-</td><td>-</td></tr> 
-       <tr><td>Stainless steel fillet knife</td><td>-</td><td>-</td></tr>  
-       <tr><td>Stainless steel flour sifter</td><td>-</td><td>-</td></tr>  
-       <tr><td>Cutlery Support</td><td>-</td><td>-</td></tr>   
-       <tr><td>Tomato strainer</td><td>-</td><td>-</td></tr>    
-       <tr><td>Meat slicer</td><td>-</td><td>-</td></tr>    
-       <tr><td>Bread slicer</td><td>-</td><td>-</td></tr>  
 
 
 -->
