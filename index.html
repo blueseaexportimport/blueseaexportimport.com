@@ -773,6 +773,23 @@ $(document).ready(function () {
    });
   // Grab cosmetics makeup items info on click end
 
+  // Grab oilclothfabric info on click start
+  $("#oilclothfabricbtn").click(function() {
+    if ($("#oilclothfabric").hasClass("clickedoilclothfabric")) {
+        // already been clicked once, hide it
+        $("#oilclothfabric").html("");
+        $( "#oilclothfabric" ).removeClass( "clickedoilclothfabric" )
+    }else {
+        // first time this is clicked, mark it
+        $("#oilclothfabric").addClass("clickedoilclothfabric");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/oilclothfabric.txt", success: function(result){
+         $("#oilclothfabric").html(result);
+        }});
+    }
+   });
+  // Grab oilclothfabric info on click end
+
+	
   // Grab cookingutensils info on click start
   $("#cookingutensilsbtn").click(function() {
     if ($("#cookingutensils").hasClass("clickedcookingutensils")) {
@@ -2318,7 +2335,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>Q. DECORATIVE ITEMS, APPLIANCES AND GADGETS (1)</b></span><span id="ro"><b>Q. DECORAȚIUNI, ELECTROCASNICE ȘI GADGETURI (1)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>Q. DECORATIVE ITEMS, APPLIANCES AND GADGETS (2)</b></span><span id="ro"><b>Q. DECORAȚIUNI, ELECTROCASNICE ȘI GADGETURI (2)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" ><span id="en">Home furniture</span><span id="ro">Mobilă pentru casă</span></h5>    
    <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" ><span id="en">Brand new clocks</span><span id="ro">Ceasuri decorative noi</span></h5>    
@@ -2327,8 +2344,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" ><span id="en">Pictures, photo and documents frames</span><span id="ro">Rame pentru poze, tablouri și documente</span></h5>   
    <div class="rowbin" >-</div>  
-   <h5 class="categoryaccordion" ><span id="en">Oilcloth fabric</span><span id="ro">Mușama</span></h5>    
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="oilclothfabric" ><span id="en">Oilcloth fabric (1)</span><span id="ro">Mușama (1)</span></h5>    
+  <table id="oilclothfabric" class="categorypanel"  >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+  </table>  
    <h5 class="categoryaccordion" ><span id="en">Blinds, shades, curtains and drapes</span><span id="ro">Jaluzele, perdele și draperii</span></h5>   
    <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" ><span id="en">Carpets and rugs</span><span id="ro">Mochete și covoare</span></h5>    
