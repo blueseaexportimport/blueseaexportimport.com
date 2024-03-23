@@ -789,6 +789,22 @@ $(document).ready(function () {
    });
   // Grab oilclothfabric info on click end
 
+  // Grab bedding info on click start
+  $("#beddingsetsbtn").click(function() {
+    if ($("#beddingsets").hasClass("clickedbeddingsets")) {
+        // already been clicked once, hide it
+        $("#beddingsets").html("");
+        $( "#beddingsets" ).removeClass( "clickedbeddingsets" )
+    }else {
+        // first time this is clicked, mark it
+        $("#beddingsets").addClass("clickedbeddingsets");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/beddingsets.txt", success: function(result){
+         $("#beddingsets").html(result);
+        }});
+    }
+   });
+  // Grab bedding info on click end
+
 	
   // Grab cookingutensils info on click start
   $("#cookingutensilsbtn").click(function() {
@@ -2335,7 +2351,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>Q. DECORATIVE ITEMS, APPLIANCES AND GADGETS (2)</b></span><span id="ro"><b>Q. DECORAȚIUNI, ELECTROCASNICE ȘI GADGETURI (2)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>Q. DECORATIVE ITEMS, APPLIANCES AND GADGETS (10)</b></span><span id="ro"><b>Q. DECORAȚIUNI, ELECTROCASNICE ȘI GADGETURI (10)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" ><span id="en">Home furniture</span><span id="ro">Mobilă pentru casă</span></h5>    
    <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" ><span id="en">Brand new clocks</span><span id="ro">Ceasuri decorative noi</span></h5>    
@@ -2348,13 +2364,16 @@ $(document).ready(function () {
   <table id="oilclothfabric" class="categorypanel"  >
    <!-- Load info start --> 
    <!-- Load info end --> 
-  </table>  
+  </table> 
    <h5 class="categoryaccordion" ><span id="en">Blinds, shades, curtains and drapes</span><span id="ro">Jaluzele, perdele și draperii</span></h5>   
    <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" ><span id="en">Carpets and rugs</span><span id="ro">Mochete și covoare</span></h5>    
    <div class="rowbin" >-</div> 	
-   <h5 class="categoryaccordion" ><span id="en">Bedding and bedding sets</span><span id="ro">Lenjerie de pat și seturi</span></h5>   
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="beddingsetsbtn" ><span id="en">Bedding and bedding sets (8)</span><span id="ro">Lenjerie de pat și seturi (8)</span></h5>   
+  <table id="beddingsets" class="categorypanel"  >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+  </table>  
    <h5 class="categoryaccordion" ><span id="en">Lighting fixtures</span><span id="ro">Corpuri de iluminat</span></h5>    
    <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" ><span id="en">Home Decor</span><span id="ro">Decorațiuni casă</span></h5>    
