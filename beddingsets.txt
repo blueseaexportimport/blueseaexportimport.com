@@ -134,10 +134,19 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://saltsib.ro/produse/saltele/cu-spuma-memory/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-
-
-
-       <tr><td>Mattress</td><td>-</td><td>-</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BDD008</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;"><span id="en">Springs mattress SaltSib</span><span id="ro">Saltea cu arcuri SaltSib</span></td></tr>
+<tr><td><span id="en" >Foam Material</span><span id="ro">Material spuma</span></td><td style="color:#39ff14;" >HD-K(High Density-K)</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td>Formula 1</td><td>915 RON / HR Spring Comfort 140x200</td></tr>
+<tr><td>Formula 2</td><td>973 RON / HR Spring Comfort 160x200</td></tr>
+<tr><td>Formula 3</td><td>1045 RON / HR Spring Comfort 180x200</td></tr>
+<tr><td>Formula 4</td><td>915 RON / Standard Spring Comfort 140x200</td></tr>
+<tr><td>Formula 5</td><td>973 RON / Standard Spring Comfort 160x200</td></tr>
+<tr><td>Formula 6</td><td>1045 RON / Standard Spring Comfort 180x200</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://saltsib.ro/produse/saltele/cu-spuma-memory/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
 
@@ -160,7 +169,7 @@ if (class_ro === "new") {
 
 
 <!-- 
-       <tr><td>Goose down</td><td>-</td><td>-</td></tr>
+       <tr><td>Goose down</td><td>Puf de gasca</td><td>-</td></tr>
 -->
 
 
