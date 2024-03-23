@@ -15,7 +15,6 @@
 <tr><td>Formula 7</td><td>10 RON / ml <span id="en">Nautical pvc oilcloth fabric</span><span id="ro">Mușama din pvc cu desen nautic</span></td></tr>
 <tr><td>Formula 8</td><td>10 RON / ml <span id="en">Coffee pvc oilcloth fabric</span><span id="ro">Mușama din pvc cu desen cafea</span></td></tr>
 <tr><td>Formula 9</td><td>10 RON / ml <span id="en">Fruits pvc oilcloth fabric</span><span id="ro">Mușama din pvc cu desen fructe</span></td></tr>
-</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://oncugrup.com.tr/english/masa_ortuleri.asp" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
