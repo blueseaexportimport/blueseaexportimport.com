@@ -1,6 +1,39 @@
 
-       <tr><td>Solid oilcloth fabric </td><td>-</td><td>-</td></tr>        
-       <tr><td>Holid oilcloth fabric</td><td>-</td><td>-</td></tr>        
-       <tr><td>Floral oilcloth fabric</td><td>-</td><td>-</td></tr>
-       <tr><td>Animal oilcloth fabric</td><td>-</td><td>-</td></tr>
-       <tr><td>Nautical oilcloth fabric</td><td>-</td><td>-</td></tr>
+<tbody>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OLC001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;"><span id="en">PVC oilcloth fabric Dekorama</span><span id="ro">Mușama din pvc Dekorama</span></td></tr>
+<tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en">Contains PVC, keep away from kids under 12</span><span id="ro">Conține PVC, nu lăsați la îndemna copiilor sub 12 ani</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">Turkey</span><span id="ro">Turcia</span></td></tr>
+<tr><td>Formula 1</td><td>10 RON / ml <span id="en">Floral pvc oilcloth fabric</span><span id="ro">Mușama din pvc cu desen floral</span>
+<tr><td>Formula 2</td><td>10 RON / ml <span id="en">Patterns pvc oilcloth fabric</span><span id="ro">Mușama din pvc cu desen modele diverse</span>
+<tr><td>Formula 3</td><td>10 RON / ml <span id="en">Solid pvc oilcloth fabric</span><span id="ro">Mușama din pvc cu desen simplu</span>
+<tr><td>Formula 4</td><td>10 RON / ml <span id="en">Nature pvc oilcloth fabric</span><span id="ro">Mușama din pvc cu desen natură</span>
+<tr><td>Formula 5</td><td>10 RON / ml <span id="en">Vintage pvc oilcloth fabric</span><span id="ro">Mușama din pvc cu desen vintage</span>
+<tr><td>Formula 6</td><td>10 RON / ml <span id="en">Holiday pvc oilcloth fabric</span><span id="ro">Mușama din pvc cu desen sărbători</span>
+<tr><td>Formula 7</td><td>10 RON / ml <span id="en">Nautical pvc oilcloth fabric</span><span id="ro">Mușama din pvc cu desen nautic</span>
+<tr><td>Formula 8</td><td>10 RON / ml <span id="en">Coffee pvc oilcloth fabric</span><span id="ro">Mușama din pvc cu desen cafea</span>
+<tr><td>Formula 9</td><td>10 RON / ml <span id="en">Fruits pvc oilcloth fabric</span><span id="ro">Mușama din pvc cu desen fructe</span>
+</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://oncugrup.com.tr/english/masa_ortuleri.asp" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+</tbody> 
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
+
+
