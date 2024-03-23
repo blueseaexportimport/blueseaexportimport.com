@@ -80,7 +80,7 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BDD004</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BDD005</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
 <td style="color:#39ff14;"><span id="en">Mattress Protector 100% waterproof Relex Pucioasa</span><span id="ro">Protecție saltea 100% impermeabilă Relex Pucioasa</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
@@ -92,7 +92,7 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BDD004</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BDD006</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
 <td style="color:#39ff14;"><span id="en">Duvet / quilt Relex Pucioasa</span><span id="ro">Pilotă Relex Pucioasa</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
@@ -114,6 +114,30 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BDD007</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;"><span id="en">Memory foam mattress SaltSib</span><span id="ro">Saltea spumă memory SaltSib</span></td></tr>
+<tr><td><span id="en" >Foam Material</span><span id="ro">Material spuma</span></td><td style="color:#39ff14;" >HD-K(High Density-K)</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td>Formula 1</td><td>1449 RON / Memory Comfort 140x200</td></tr>
+<tr><td>Formula 2</td><td>1568 RON / Memory Comfort 160x200</td></tr>
+<tr><td>Formula 3</td><td>1710 RON / Memory Comfort 180x200</td></tr>
+<tr><td>Formula 4</td><td>1871 RON / Memory Comfort 200x200</td></tr>
+<tr><td>Formula 5</td><td>1465 RON / Memory HD-Zone Comfort 140x200</td></tr>
+<tr><td>Formula 6</td><td>1608 RON / Memory HD-Zone Comfort 160x200</td></tr>
+<tr><td>Formula 7</td><td>1771 RON / Memory HD-Zone Comfort 180x200</td></tr>
+<tr><td>Formula 8</td><td>1897 RON / Memory HD-Zone Comfort 200x200</td></tr>
+<tr><td>Formula 9</td><td>2455 RON / Memory Pocket Comfort 140x200</td></tr>
+<tr><td>Formula 10</td><td>2734 RON / Memory Pocket Comfort 160x200</td></tr>
+<tr><td>Formula 11</td><td>2963 RON / Memory Pocket Comfort 180x200</td></tr>
+<tr><td>Formula 12</td><td>3219 RON / Memory Pocket Comfort 200x200</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://saltsib.ro/produse/saltele/cu-spuma-memory/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+
+       <tr><td>Mattress</td><td>-</td><td>-</td></tr>
 
 
 
@@ -137,8 +161,6 @@ if (class_ro === "new") {
 
 <!-- 
        <tr><td>Goose down</td><td>-</td><td>-</td></tr>
-       <tr><td>Memory foam mattress</td><td>-</td><td>-</td></tr>
-       <tr><td>Mattress</td><td>-</td><td>-</td></tr>
 -->
 
 
