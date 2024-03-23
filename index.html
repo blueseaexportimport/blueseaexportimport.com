@@ -1004,6 +1004,24 @@ $(document).ready(function () {
    });
   // Grab smokedandcuredmeat on click end
 
+
+  // Grab batharticles on click start
+  $("#batharticlesbtn").click(function() {
+    if ($("#batharticles").hasClass("clickedbatharticles")) {
+        // already been clicked once, hide it
+        $("#batharticles").html("");
+        $( "#batharticles" ).removeClass( "clickedbatharticles" )
+    }else {
+        // first time this is clicked, mark it
+        $("#batharticles").addClass("clickedbatharticles");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/batharticles.txt", success: function(result){
+         $("#batharticles").html(result);
+        }});
+    }
+   });
+  // Grab batharticles on click end
+	
+
   // ROUTES START 
 
   // Grab focsani nuuk route on click start
@@ -2800,13 +2818,18 @@ $(document).ready(function () {
   <div class="rowbin" >-</div>
   </div></li><!--END SECTION--> 
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>Z. FASHION (0)</b></span> <span id="ro"><b>Z. MODĂ (0)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>Z. FASHION (3)</b></span> <span id="ro"><b>Z. MODĂ (3)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion"><span id="en">Women</span><span id="ro">Femei</span></h5>     
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion"><span id="en">Men</span><span id="ro">Bărbați</span></h5>     
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion"><span id="en">Children</span><span id="ro">Copii</span></h5>     
   <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="batharticlesbtn" ><span id="en">Bath textile articles (3)</span><span id="ro">Articole textile baie (3)</span></h5>     
+   <table id="batharticles" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
   <h5 class="categoryaccordion"><span id="en">Uniforms</span><span id="ro">Uniforme</span></h5>     
   <div class="rowbin" >-</div> 
   <h5 class="categoryaccordion" ><span id="en">Handbags, Backpacks and Trolley bags</span><span id="ro">Genti, Rucsacuri și Trolere</span></h5>        
