@@ -1020,6 +1020,22 @@ $(document).ready(function () {
     }
    });
   // Grab batharticles on click end
+
+  // Grab socks on click start
+  $("#socksbtn").click(function() {
+    if ($("#socks").hasClass("clickedsocks")) {
+        // already been clicked once, hide it
+        $("#socks").html("");
+        $( "#socks" ).removeClass( "clickedsocks" )
+    }else {
+        // first time this is clicked, mark it
+        $("#socks").addClass("clickedsocks");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/socks.txt", success: function(result){
+         $("#socks").html(result);
+        }});
+    }
+   });
+  // Grab socks on click end
 	
 
   // ROUTES START 
@@ -2839,6 +2855,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Brand New Watches</span><span id="ro">Ceasuri de Mână Noi</span></h5>    
   <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="socksbtn" ><span id="en">Socks</span><span id="ro">Șosete</span></h5>        
+   <table id="socks" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 	  
   <h5 class="categoryaccordion" ><span id="en">Shoes</span><span id="ro">Încălțăminte</span></h5>        
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Fashion Accessories</span><span id="ro">Accesorii Modă</span></h5>        
