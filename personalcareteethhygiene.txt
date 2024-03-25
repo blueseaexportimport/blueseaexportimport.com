@@ -47,7 +47,7 @@
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >UK</td></tr>
 <tr><td>Formula 1</td><td>11.1 RON / <span id="en" >pcs</span><span id="ro">buc</span> Oral-B Essential Floss 50 m</td></tr>
 <tr><td>Formula 2</td><td>12.7 RON / <span id="en" >pcs</span><span id="ro">buc</span> Oral-B Satin 25 m</td></tr>
-<tr><td>Formula 2</td><td>13.6 RON / <span id="en" >pcs</span><span id="ro">buc</span> Oral-B Super Floss 50 m</td></tr>
+<tr><td>Formula 3</td><td>13.6 RON / <span id="en" >pcs</span><span id="ro">buc</span> Oral-B Super Floss 50 m</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.oralb.co.uk/en-gb" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
