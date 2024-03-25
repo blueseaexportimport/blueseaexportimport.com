@@ -17,7 +17,6 @@
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PGC002</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Garbage galvanzed container 1100L Europlast</span><span id="ro">Pubelă 120L Europlast</span></td></tr>
-<tr><td>Standard</td><td style="color:#39ff14;" >EN 840</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Austria</td></tr>
 <tr><td>Formula 1</td><td>2466 RON / <span id="en" >galvanized steel container 1100L</span><span id="ro">container tablă zincată 1100L</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.magazin.europlast.com.ro/container?product_id=109" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
