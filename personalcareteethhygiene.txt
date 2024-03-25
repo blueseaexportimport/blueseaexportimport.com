@@ -1,9 +1,7 @@
 <tbody>
 
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BRK0000001</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TOH001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Toothpaste Colgate</span><span id="ro">Pastă de Dinți Colgate</span></td></tr>
-<tr><td>Standard</td><td style="color:#39ff14;" >EN 771-1+A1:2015</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
 <tr><td>Formula 1</td><td>10.7 RON / Colgate First Smiles 50ml </td></tr>
 <tr><td>Formula 3</td><td>10.5 RON / Colgate Total Original 50ml </td></tr>
@@ -35,6 +33,20 @@
 <tr><td>Formula 28</td><td>27.5 RON / Colgate Natural Extracts Charcoal 75 ml </td></tr>
 <tr><td>Formula 29</td><td>28 RON / Colgate Max White Ultra Multi Protect 50 ml </td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.colgate.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TOH002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Toothpaste Colgate</span><span id="ro">Pastă de Dinți Colgate</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
+<tr><td>Formula 1</td><td>16.5 RON / Sensodyne Sensitivity & Gum 75 ml </td></tr>
+<tr><td>Formula 2</td><td>18.3 RON / Sensodyne Fluoride 100 ml </td></tr>
+<tr><td>Formula 3</td><td>20.3 RON / Sensodyne Multi Care 75 ml </td></tr>
+<tr><td>Formula 4</td><td>21.5 RON / Sensodyne Extra Whitening 100 ml </td></tr>
+<tr><td>Formula 5</td><td>21.7 RON / Sensodyne Anti Carie 75 ml </td></tr>
+<tr><td>Formula 6</td><td>23.4 RON / Sensodyne Natural White 75 ml </td></tr>
+<tr><td>Formula 7</td><td>25.8 RON / Sensodyne Sensitivity & Gum Whitening 75ml</td></tr>
+<tr><td>Formula 8</td><td>41.1 RON / Sensodyne Advanced Clean 75 ml </td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.sensodyne.ro/produse.html" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
