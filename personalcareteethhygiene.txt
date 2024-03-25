@@ -34,7 +34,6 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-       <tr><td><span id="en" >Mint chewable tablets</span><span id="ro">Tablete masticabile mentă</span></td><td>-</td><td>-</td></tr>
        <tr><td><span id="en" >Teeth whitening pencil</span><span id="ro">Creion albit dinți</span></td><td>-</td><td>-</td></tr>   
        <tr><td><span id="en" >Toothpicks</span><span id="ro">Scobitori</span></td><td>-</td><td>-</td></tr>
 	<span id="en">Start Product:<br> Tooth brush</span><span id="ro">Start Produs:<br> Periuță Dinți</span>
