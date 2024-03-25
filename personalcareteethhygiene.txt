@@ -1,4 +1,46 @@
 <tbody>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BRK0000001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Toothpaste Colgate</span><span id="ro">Pastă de Dinți Colgate</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 771-1+A1:2015</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
+<tr><td>Formula 1</td><td>10.7 RON / Colgate First Smiles 50ml </td></tr>
+<tr><td>Formula 3</td><td>10.5 RON / Colgate Total Original 50ml </td></tr>
+<tr><td>Formula 4</td><td>12.3 RON / Colgate Max White Sparkle 75 ml </td></tr>
+<tr><td>Formula 5</td><td>12.6 RON / Colgate Max White Crystals </td></tr>
+<tr><td>Formula 6</td><td>12.8 RON / Colgate Advanced White 100 ml</td></tr>
+<tr><td>Formula 7</td><td>13 RON / Colgate Max Fresh Cooling 75 ml </td></tr>
+<tr><td>Formula 2</td><td>13 RON / Colgate Total Junior 50ml </td></tr>
+<tr><td>Formula 8</td><td>13.6 RON / Colgate Total Whitening 50 ml </td></tr>
+<tr><td>Formula 9</td><td>14.2 RON / Colgate Max Clean Mineral Scrub 75 ml </td></tr>
+<tr><td>Formula 10</td><td>16.3 RON / Colgate Advanced White Charcoal 100 ml </td></tr>
+<tr><td>Formula 11</td><td>16.5 RON / Colgate Total 100 ml </td></tr>
+<tr><td>Formula 12</td><td>16.5 RON / Colgate Total Whitening 100 ml </td></tr>
+<tr><td>Formula 13</td><td>17.3 RON / Colgate Advanced White Baking Soda & Volcanic Ash 100 ml </td></tr>
+<tr><td>Formula 14</td><td>17.8 RON / Colgate Total Visible Action 100 ml </td></tr>
+<tr><td>Formula 15</td><td>17.8 RON / Colgate Total Visible Action 100 ml </td></tr>
+<tr><td>Formula 16</td><td>17.8 RON / Colgate Total Visible Action 100 ml </td></tr>
+<tr><td>Formula 17</td><td>17.8 RON / Colgate Total Active Fresh 100 ml </td></tr>
+<tr><td>Formula 18</td><td>19 RON / Colgate Max White 75 ml </td></tr>
+<tr><td>Formula 19</td><td>20.9 RON / Colgate Max White Luminous 75 ml </td></tr>
+<tr><td>Formula 20</td><td>21 RON / Colgate Max White Clay & Minerals 75 ml  </td></tr>
+<tr><td>Formula 21</td><td>22.9 RON / Colgate Max White Expert 75 ml </td></tr>
+<tr><td>Formula 22</td><td>23.5 RON / Colgate Max White Purple Reveal 75 ml </td></tr>
+<tr><td>Formula 23</td><td>23.7 RON / Colgate Max White One 75 ml </td></tr>
+<tr><td>Formula 24</td><td>23.7 RON / Colgate Max White Optic 75 ml </td></tr>
+<tr><td>Formula 25</td><td>25 RON / Colgate Max Ultra Fresh 50 ml </td></tr>
+<tr><td>Formula 26</td><td>27.2 RON / Colgate Max Ultra Active 50 ml </td></tr>
+<tr><td>Formula 27</td><td>27.2 RON / Colgate Max White Expert Micellar 75 ml </td></tr>
+<tr><td>Formula 28</td><td>27.5 RON / Colgate Natural Extracts Charcoal 75 ml </td></tr>
+<tr><td>Formula 29</td><td>28 RON / Colgate Max White Ultra Multi Protect 50 ml </td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.colgate.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+
+
        <tr><td><span id="en" >Glue for dental prosthesis</span><span id="ro">Adeziv pentru prodeză dentară</span></td><td>-</td><td>-</td></tr>
        <tr><td><span id="en" >Mint chewable tablets</span><span id="ro">Tablete masticabile mentă</span></td><td>-</td><td>-</td></tr>
        <tr><td><span id="en" >Teeth whitening pencil</span><span id="ro">Creion albit dinți</span></td><td>-</td><td>-</td></tr>   
@@ -6,6 +48,5 @@
 	<span id="en">Start Product:<br> Tooth brush</span><span id="ro">Start Produs:<br> Periuță Dinți</span>
 	<span id="en">Start Product:<br> Dental floss</span><span id="ro">Start Produs:<br> Ață Dentară</span>
 	<span id="en">Start Product:<br> Mouthwash</span><span id="ro">Start Produs:<br> Apă de Gură </span>
-	<span id="en">Start Product:<br> Toothpaste</span><span id="ro">Start Produs:<br> Pastă de Dinți </span>
 
 </tbody>
