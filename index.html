@@ -119,6 +119,23 @@ $(document).ready(function() {
 $(document).ready(function () { 
 
 
+  // Grab combined fodder info on click start
+  $("#combinedfodderbtn").click(function() {
+    if ($("#combinedfodder").hasClass("clickedcombinedfodder")) {
+        // already been clicked once, hide it
+        $("#combinedfodder").html("");
+        $( "#combinedfodder" ).removeClass( "clickedcombinedfodder" )
+    }else {
+        // first time this is clicked, mark it
+        $("#combinedfodder").addClass("clickedcombinedfodder");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/combinedfodder.txt", success: function(result){
+         $("#combinedfodder").html(result);
+        }});
+    }
+   });
+  // Grab combined fodder on click end
+
+
   // Grab fusion reactors info on click start
   $("#fusionreactorsbtn").click(function() {
     if ($("#fusionreactors").hasClass("clickedfusionreactors")) {
@@ -2599,14 +2616,19 @@ $(document).ready(function () {
    </table>  	
   </div></li><!--END SECTION-->
 	   
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>T. DOMESTIC ANIMALS FEED (0)</b></span><span id="ro"><b>T. HRANĂ ANIMALE DOMESTICE (0)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>T. DOMESTIC ANIMALS FEED (3)</b></span><span id="ro"><b>T. HRANĂ ANIMALE DOMESTICE (3)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Combined and concentrated feed factory</span><span id="ro">Fabrică nutrețuri combinate și concentrate</span></h5>    	
   <div class="rowbin" >-</div> 
   <h5 class="categoryaccordion" ><span id="en">Pet food factory</span><span id="ro">Fabrică nutrețuri hrană animale de companie</span></h5>    	
   <div class="rowbin" >-</div>   
   <h5 class="categoryaccordion" ><span id="en">Fodder / Fed for domestic animals</span><span id="ro">Furaje pentru animale domestice</span></h5> 
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Combined fodder for domestic animals</span><span id="ro">Nutrețuri combinate pentru animale domestice</span></h5>  
+  <h5 class="categoryaccordion" id="combinedfodderbtn" ><span id="en">Combined fodder for domestic animals (3)</span><span id="ro">Nutrețuri combinate pentru animale domestice (3)</span></h5>  
+   <table id="combinedfodder" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+  <h5 class="categoryaccordion" ><span id="en">Mineral feed for domestic animals</span><span id="ro">Furaje minerale pentru animale domestice</span></h5> 
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Rodent pet food</span><span id="ro">Mâncare pentru rozătoare de companie</span></h5>    
   <div class="rowbin" >-</div> 	
