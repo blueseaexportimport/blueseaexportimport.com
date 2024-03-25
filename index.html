@@ -740,6 +740,23 @@ $(document).ready(function () {
    });
   // Grab personal care - body and skin info on click end
 
+
+  // Grab personal care - teeth hygiene info on click start
+  $("#personalcareteethhygienebtn").click(function() {
+    if ($("#personalcareteethhygiene").hasClass("clickedpersonalcareteethhygiene")) {
+        // already been clicked once, hide it
+        $("#personalcareteethhygiene").html("");
+        $( "#personalcareteethhygiene" ).removeClass( "clickedpersonalcareteethhygiene" )
+    }else {
+        // first time this is clicked, mark it
+        $("#personalcareteethhygiene").addClass("clickedpersonalcareteethhygiene");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/personalcareteethhygiene.txt", success: function(result){
+         $("#personalcareteethhygiene").html(result);
+        }});
+    }
+   });
+  // Grab personal care - teeth hygiene info on click end
+
   // Grab personal care - hair and nails info on click start
   $("#personalcarehairandnailsbtn").click(function() {
     if ($("#personalcarehairandnails").hasClass("clickedpersonalcarehairandnails")) {
@@ -2454,8 +2471,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table> 		
-   <h5 class="categoryaccordion" ><span id="en">Personal care - teeth hygiene</span><span id="ro">Îngrijire și igienă dinți</span></h5>    
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="personalcareteethhygienebtn" ><span id="en">Personal care - teeth hygiene (8)</span><span id="ro">Îngrijire și igienă dinți (8)</span></h5>    
+   <table id="personalcareteethhygiene" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	
    <h5 class="categoryaccordion" ><span id="en">Personal care - baby care</span><span id="ro">Îngrijire copii</span></h5>    
    <div class="rowbin" >-</div> 
    <h5 class="categoryaccordion" id="adultandbabypersonalhygienebtn" ><span id="en">Adult and Baby Personal Hygiene (13)</span><span id="ro">Produse De igienă copii și adulți (13)</span></h5>       
