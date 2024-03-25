@@ -1,6 +1,6 @@
 <tbody>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TOH002</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TOH001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Toothpaste Sensodyne</span><span id="ro">Pastă de Dinți Sensodyne</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
 <tr><td>Formula 1</td><td>16.5 RON / Sensodyne Sensitivity & Gum 75 ml </td></tr>
@@ -25,7 +25,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://corega.com/ro-ro/produsele-noastre/crema-adeziva-proteza-dentara/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TOH002</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TOH003</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Effervescent tablets for removable dentures Corega</span><span id="ro">Tablete efervescente curatare proteze Corega</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
 <tr><td>Formula 1</td><td>16.6 RON / 30 <span id="en" >tablets</span><span id="ro">tablete</span> Corega Bio Formula</td></tr>
