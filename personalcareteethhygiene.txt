@@ -33,10 +33,42 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://corega.com/ro-ro/produsele-noastre/crema-adeziva-proteza-dentara/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TOH004</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Bamboo toothpicks Alabala Clasic</span><span id="ro">Scobitori bambus Alabala Clasic</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >China</td></tr>
+<tr><td>Formula 1</td><td>2.7 RON / 500 <span id="en" >pcs</span><span id="ro">buc</span> Alabala Clasic</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://gospodar.shop/scobitori-alabala-clasic-in-tub-plastic-500-bucati-set.html" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-       <tr><td><span id="en" >Teeth whitening pencil</span><span id="ro">Creion albit dinți</span></td><td>-</td><td>-</td></tr>   
-	<span id="en">Start Product:<br> Tooth brush</span><span id="ro">Start Produs:<br> Periuță Dinți</span>
-	<span id="en">Start Product:<br> Dental floss</span><span id="ro">Start Produs:<br> Ață Dentară</span>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TOH005</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Teeth whitening pencil Colgate</span><span id="ro">Creion albit dinți Colgate</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
+<tr><td>Formula 1</td><td>72 RON / <span id="en" >pcs</span><span id="ro">buc</span> Max White Ultimate</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.colgate.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TOH005</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Tooth brush Colgate</span><span id="ro">Periuță Dinți Colgate</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
+<tr><td>Formula 1</td><td>4 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Basic Clean</td></tr>
+<tr><td>Formula 2</td><td>5 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Premier Clean Medium</td></tr>
+<tr><td>Formula 3</td><td>7 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Extra Clean Medium</td></tr>
+<tr><td>Formula 4</td><td>9.9 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Batman Kids 6+</td></tr>
+<tr><td>Formula 5</td><td>9.9 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Wonderwoman Kids 6+</td></tr>
+<tr><td>Formula 6</td><td>10.1 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Classic Deep Clean</td></tr>
+<tr><td>Formula 7</td><td>10.4 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Zig Zag Medium</td></tr>
+<tr><td>Formula 8</td><td>13.2 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate 360 Charcoal</td></tr>
+<tr><td>Formula 9</td><td>17 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Max White Soft</td></tr>
+<tr><td>Formula 10</td><td>19.6 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate 360 Medium </td></tr>
+<tr><td>Formula 11</td><td>24 RON / 2 x <span id="en" >pcs</span><span id="ro">buc</span> Colgate Max White Medium</td></tr>
+<tr><td>Formula 12</td><td>26.6 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Slim Soft Advanced Soft</td></tr>
+<tr><td>Formula 13</td><td>28.8 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate 360 Advanced White Soft</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.colgate.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+        <span id="en">Start Product:<br> Dental floss</span><span id="ro">Start Produs:<br> Ață Dentară</span>
 	<span id="en">Start Product:<br> Mouthwash</span><span id="ro">Start Produs:<br> Apă de Gură </span>
 
 </tbody>
