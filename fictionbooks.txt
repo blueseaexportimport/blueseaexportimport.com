@@ -7,14 +7,11 @@
 <tr><td>Formula 2</td><td>48 RON / Maria și marea / <a style="color:gold;" href="https://www.editura-art.ro/info/carte/maria-si-marea" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Radu Tudoran</td></tr>
 <tr><td>Formula 3</td><td>48 RON / Un port la răsărit / <a style="color:gold;" href="https://www.editura-art.ro/info/carte/un-port-la-rasarit" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Radu Tudoran</td></tr>
 <tr><td>Formula 4</td><td>44 RON / Fiul risipitor / <a style="color:gold;" href="https://www.editura-art.ro/info/carte/fiul-risipitor" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Radu Tudoran</td></tr>
-
 <tr><td>Formula 5</td><td>20 RON / Mara / <a style="color:gold;" href="https://www.edituracartex.ro/produs/mara-ioan-slavici/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Ioan Slavici</td></tr>
-
 <tr><td>Formula 6</td><td>20 RON / Intre zi si noapte / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/intre-zi-si-noapte-henriette-yvonne-stahl-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Henriette Yvonne Stahl</td></tr>
 <tr><td>Formula 7</td><td>20 RON / Steaua robilor / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/steaua-robilor-henriette-yvonne-stahl-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Henriette Yvonne Stahl</td></tr>
 <tr><td>Formula 8</td><td>20 RON / Drum de foc / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/henriette-yvonne-stahl-drum-de-foc-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Henriette Yvonne Stahl</td></tr>
 <tr><td>Formula 9</td><td>20 RON / Marea bucurie / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/marea-bucurie-henriette-yvonne-stahl-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Henriette Yvonne Stahl</td></tr>
-
 <tr><td>Formula 10</td><td>40 RON / Pânza de păianjen / <a style="color:gold;" href="https://www.litera.ro/panza-de-paianjen-afrn04" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cella Serghi</td></tr>
 <tr><td>Formula 11</td><td>40 RON / Cartea Mironei / <a style="color:gold;" href="https://www.litera.ro/cartea-mironei-afrn10" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cella Serghi</td></tr>
 <tr><td>Formula 12</td><td>40 RON / Gentiane / <a style="color:gold;" href="https://www.litera.ro/gentiane-afrn14" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cella Serghi</td></tr>
@@ -29,24 +26,29 @@
 <tr><td>Formula 21</td><td>62.5 RON / Ultima noapte de dragoste, întâia noapte de război  / <a style="color:gold;" href="https://carturesti.ro/carte/ultima-noapte-de-dragoste-intaia-noapte-de-razboi-set-2-volume-1222157284?p=2" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Camil Petrescu</td></tr>
 <tr><td>Formula 22</td><td>34 RON / Patul lui Procust / <a style="color:gold;" href="https://carturesti.ro/carte/patul-lui-procust-1233745861" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Camil Petrescu</td></tr>
 
+<tr><td>Formula 23</td><td>20 RON / Parada dascălilor, Romanul lui Mirel / <a style="color:gold;" href="https://carturesti.ro/carte/patul-lui-procust-1233745861" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Anton Holban</td></tr>
+<tr><td>Formula 24</td><td>20 RON / O moarte care nu dovedește nimic / <a style="color:gold;" href="https://carturesti.ro/carte/patul-lui-procust-1233745861" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Anton Holban</td></tr>
+<tr><td>Formula 25</td><td>20 RON / Ioana / <a style="color:gold;" href="https://carturesti.ro/carte/patul-lui-procust-1233745861" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Anton Holban</td></tr>
+<tr><td>Formula 26</td><td>20 RON / Jocurile Daniei / <a style="color:gold;" href="https://carturesti.ro/carte/patul-lui-procust-1233745861" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Anton Holban</td></tr>
+<tr><td>Formula 26</td><td>14.4 RON / Adela / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/adela-garabet-ibraileanu-editia-2021.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Garabet Ibraileanu</td></tr>
+
+<tr><td>Formula 27</td><td>15.2 RON / Intamplari in irealitatea imediata / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/intamplari-in-irealitatea-imediata-max-blecher-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Max Blecher</td></tr>
+<tr><td>Formula 28</td><td>15.2 RON / Vizuina luminata / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/vizuina-luminata-max-blecher-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Max Blecher</td></tr>
+<tr><td>Formula 29</td><td>14.4 RON / Inimi cicatrizate / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/inimi-cicatrizate-max-blecher.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Max Blecher</td></tr>
+
+<tr><td>Formula 30</td><td>32 RON / Romanul adolescentului miop / <a style="color:gold;" href="https://www.edituracartex.ro/produs/romanul-adolescentului-miop/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Mircea Eliade</td></tr>
+<tr><td>Formula 31</td><td>12 RON / Isabel și apele diavolului / <a style="color:gold;" href="https://www.litera.ro/isabel-i-apele-diavolului-afbpt75" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Mircea Eliade</td></tr>
+<tr><td>Formula 32</td><td>17.5 RON / Lumina ce se stinge / <a style="color:gold;" href="https://www.libhumanitas.ro/lumina-ce-se-stinge-mircea-eliade-h03020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Mircea Eliade</td></tr>
+<tr><td>Formula 33</td><td>19.2 RON / Maitreyi / <a style="color:gold;" href="https://www.edituracartex.ro/produs/maitreyi-mircea-eliade/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Mircea Eliade</td></tr>
+<tr><td>Formula 34</td><td>20.3 RON / Întoarcerea din rai / <a style="color:gold;" href="https://www.elefant.ro/intoarcerea-din-rai_ea56ee41-f49d-4c15-a2b8-b90137697142" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Mircea Eliade</td></tr>
+<tr><td>Formula 35</td><td>81 RON / Huliganii / <a style="color:gold;" href="https://carturesti.ro/carte/huliganii-2150060742" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Mircea Eliade</td></tr>
+
+
+
 
 
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-Romane de analiză
-    Constantin Fântâneru (1907 - 1975)
-    Anton Holban (1902 - 1937)
-    Garabet Ibrăileanu (1871 - 1936)
-    H. Bonciu (1893 - 1950)
-    Victor Papilian (1888 - 1956)
-    Mihail Sebastian (1907 - 1945)
-    Max Blecher (1909 - 1938)
-    Ion Biberi (1904 - 1990)
-
-Proza exotică
-
-    Panait Istrati (1884-1935)
-    Mircea Eliade (1907-1986)
 
 Memorii de călătorie
 
@@ -54,8 +56,6 @@ Memorii de călătorie
     Mihai Tican Rumano (1893-1967)
 
 Realismul
-
-    Liviu Rebreanu (1885 - 1944)
     Carol Ardeleanu (1883 - 1949)
     Ury Benador (1895 - 1971)
     George Călinescu (1899 - 1965)
@@ -74,14 +74,8 @@ Romanul poetic
     Alexandru O. Teodoreanu-Păstorel (1894 - 1964)
 
 Romanul ghetoului
-
     Ion Călugăru
     Ury Benador
-
-Romane și scrieri istorice
-
-    Mihail Sadoveanu (1889 - 1961)
-    Liviu Rebreanu (1885 - 1944)
 
 Romane pentru copii și tineret
 
@@ -91,14 +85,11 @@ Romane pentru copii și tineret
     Mihail Drumeș (1901 - 1982)
     Mircea Gesticone (1902 - 1961)
     Ionel Teodoreanu (1897 - 1954)
-    Radu Tudoran (1917 - 1992)
     Sînziana Popescu (născută în 1972)
     George Șovu (n. 1935)
     Mircea Sântimbreanu (1926 - 1999)
 
 Romane polițiste
-
-    Liviu Rebreanu
     Victor Ion Popa
     Rodica Ojog Brașoveanu
     Haralamb Zincă
