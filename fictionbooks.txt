@@ -19,16 +19,14 @@
 <tr><td>Formula 11</td><td>40 RON / Cartea Mironei / <a style="color:gold;" href="https://www.litera.ro/cartea-mironei-afrn10" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cella Serghi</td></tr>
 <tr><td>Formula 12</td><td>40 RON / Gentiane / <a style="color:gold;" href="https://www.litera.ro/gentiane-afrn14" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cella Serghi</td></tr>
 
+<tr><td>Formula 13</td><td>21.9 RON / Răscoala / <a style="color:gold;" href="https://edituracorint.ro/rascoala.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Liviu Rebreanu</td></tr>
+<tr><td>Formula 14</td><td>11 RON / Pădurea spânzuraţilor / <a style="color:gold;" href="https://edituraeduard.ro/shop/acasa/151-padurea-spanzuratilor.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Liviu Rebreanu</td></tr>
+<tr><td>Formula 15</td><td>15 RON / Ion / <a style="color:gold;" href="https://edituraeduard.ro/shop/acasa/147-ion-liviu-rebreanu.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Liviu Rebreanu</td></tr>
 
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-
-Literatura feminină interbelică
-    Alice Botez
-
 Romane de analiză
 
-    Liviu Rebreanu (1885 – 1944)
     Gib Mihăescu (1894 - 1935)
     Camil Petrescu (1894 - 1957)
     Constantin Fântâneru (1907 - 1975)
