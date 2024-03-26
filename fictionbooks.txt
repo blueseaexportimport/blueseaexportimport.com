@@ -4,6 +4,12 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Romanian authors books in romanian language</span><span id="ro">Cărți autori români în limba română</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td>68.7 RON / Toate pânzele sus! Ediție ilustrată / <a style="color:gold;" href="https://www.editura-arthur.ro/info/carte/toate-panzele-sus" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Radu Tudoran</td></tr>
+<tr><td>Formula 2</td><td>48 RON / Maria și marea / <a style="color:gold;" href="https://www.editura-art.ro/info/carte/maria-si-marea" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Radu Tudoran</td></tr>
+<tr><td>Formula 3</td><td>48 RON / Un port la răsărit / <a style="color:gold;" href="https://www.editura-art.ro/info/carte/un-port-la-rasarit" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Radu Tudoran</td></tr>
+<tr><td>Formula 4</td><td>44 RON / Fiul risipitor / <a style="color:gold;" href="https://www.editura-art.ro/info/carte/fiul-risipitor" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Radu Tudoran</td></tr>
+
+
+
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
