@@ -8,30 +8,18 @@
 <tr><td>Formula 3</td><td>48 RON / Un port la răsărit / <a style="color:gold;" href="https://www.editura-art.ro/info/carte/un-port-la-rasarit" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Radu Tudoran</td></tr>
 <tr><td>Formula 4</td><td>44 RON / Fiul risipitor / <a style="color:gold;" href="https://www.editura-art.ro/info/carte/fiul-risipitor" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Radu Tudoran</td></tr>
 
-<tr><td>Formula 5</td><td>17.6 RON / Mara / <a style="color:gold;" href="https://www.edituracartex.ro/produs/mara-ioan-slavici/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Ioan Slavici</td></tr>
+<tr><td>Formula 5</td><td>20 RON / Mara / <a style="color:gold;" href="https://www.edituracartex.ro/produs/mara-ioan-slavici/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Ioan Slavici</td></tr>
 
+<tr><td>Formula 6</td><td>20 RON / Intre zi si noapte / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/intre-zi-si-noapte-henriette-yvonne-stahl-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Henriette Yvonne Stahl</td></tr>
+<tr><td>Formula 7</td><td>20 RON / Steaua robilor / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/steaua-robilor-henriette-yvonne-stahl-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Henriette Yvonne Stahl</td></tr>
+<tr><td>Formula 8</td><td>20 RON / Drum de foc / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/henriette-yvonne-stahl-drum-de-foc-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Henriette Yvonne Stahl</td></tr>
+<tr><td>Formula 9</td><td>20 RON / Marea bucurie / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/marea-bucurie-henriette-yvonne-stahl-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Henriette Yvonne Stahl</td></tr>
 
 
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-
-Tradiționalismul
-
-    Ion Agârbiceanu (1882-1963)
-    Gheorghe Brăescu (1871-1949)
-    Ioan Alexandru Brătescu-Voinești (1868-1946)
-    I.A.Bassarabescu (1870-1952)
-    Gala Galaction (1879-1961)
-    Theodor Rășcanu (1888-1952)
-    Constantin Stere (1865-1936)
-
 Literatura feminină interbelică
-
-    Hortensia Papadat-Bengescu (1876-1955)
-    Regina Maria
-    Elena Văcărescu
-    Henriette Yvonne Stahl
     Martha Bibescu
     Jeni Acterian
     Alice Voinescu
