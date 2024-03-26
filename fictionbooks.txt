@@ -77,13 +77,26 @@
 <tr><td>Formula 62</td><td>50 RON / Lorelei / <a style="color:gold;" href="https://ecredu.ro/product/lorelei/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Ionel Teodoreanu</td></tr>
 
 
+<tr><td>Formula 63</td><td>27 RON / Moartea semnează indescifrabil / <a style="color:gold;" href="https://nemira.ro/moartea-semneaza-indescifrabil-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
+<tr><td>Formula 64</td><td>27 RON / Enigmă la mansardă / <a style="color:gold;" href="https://nemira.ro/enigma-la-mansarda-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
+<tr><td>Formula 65</td><td>27 RON / Cocoșatul are alibi / <a style="color:gold;" href="https://nemira.ro/cocosatul-are-alibi-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
+<tr><td>Formula 66</td><td>27 RON / Ancheta în infern / <a style="color:gold;" href="https://nemira.ro/ancheta-in-infern-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
+<tr><td>Formula 67</td><td>27 RON / Apel din necunoscut / <a style="color:gold;" href="https://nemira.ro/apel-din-necunoscut-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
+<tr><td>Formula 68</td><td>27 RON / Crimă prin mica publicitate / <a style="color:gold;" href="https://nemira.ro/crima-prin-mica-publicitate-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
+<tr><td>Formula 69</td><td>27 RON / Coșmar / <a style="color:gold;" href="https://nemira.ro/cosmar-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
+<tr><td>Formula 70</td><td>27 RON / Cutia cu nasturi / <a style="color:gold;" href="https://nemira.ro/cutia-cu-nasturi-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
+<tr><td>Formula 71</td><td>27 RON / Poveste imorală / <a style="color:gold;" href="https://nemira.ro/poveste-imorala-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
+<tr><td>Formula 72</td><td>27 RON / Un blestem cu domiciliul stabil / <a style="color:gold;" href="https://nemira.ro/un-blestem-cu-domiciliu-stabil-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
+<tr><td>Formula 73</td><td>27 RON / Răzbunarea sluților / <a style="color:gold;" href="https://nemira.ro/razbunarea-slutilor-ed-2018" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
+<tr><td>Formula 74</td><td>27 RON / Necunoscuta din congelator / <a style="color:gold;" href="https://nemira.ro/necunoscuta-din-congelator-ed-2018" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
+
+
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
 
 Romane polițiste
-    Victor Ion Popa
-    Rodica Ojog Brașoveanu
+    
     Haralamb Zincă
     George Arion
     Petre Sălcudeanu
