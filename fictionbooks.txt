@@ -23,11 +23,19 @@
 <tr><td>Formula 14</td><td>11 RON / Pădurea spânzuraţilor / <a style="color:gold;" href="https://edituraeduard.ro/shop/acasa/151-padurea-spanzuratilor.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Liviu Rebreanu</td></tr>
 <tr><td>Formula 15</td><td>15 RON / Ion / <a style="color:gold;" href="https://edituraeduard.ro/shop/acasa/147-ion-liviu-rebreanu.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Liviu Rebreanu</td></tr>
 
+<tr><td>Formula 16</td><td>20 RON / Brațul Andromedei / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/bratul-andromedei-gib-i-mihaescu-editia-2021.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Gib I. Mihăescu</td></tr>
+<tr><td>Formula 17</td><td>20 RON / Rusoaica / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/rusoaica-gib-i-mihaescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Gib I. Mihăescu</td></tr>
+<tr><td>Formula 18</td><td>20 RON / Femeia de ciocolată / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/femeia-de-ciocolata-gib-i-mihaescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Gib I. Mihăescu</td></tr>
+<tr><td>Formula 19</td><td>20 RON / Zilele și nopțile unui student întârziat / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/zilele-si-noptile-unui-student-intarziat-gib-i-mihaescu-2.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Gib I. Mihăescu</td></tr>
+<tr><td>Formula 20</td><td>20 RON / Donna Alba / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/donna-alba-gib-i-mihaescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Gib I. Mihăescu</td></tr>
+
+
+
+
+
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 Romane de analiză
-
-    Gib Mihăescu (1894 - 1935)
     Camil Petrescu (1894 - 1957)
     Constantin Fântâneru (1907 - 1975)
     Anton Holban (1902 - 1937)
