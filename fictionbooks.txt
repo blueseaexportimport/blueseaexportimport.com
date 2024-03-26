@@ -53,10 +53,18 @@
 <tr><td>Formula 42</td><td>25.6 RON / Scrinul negru, vol 1 / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/scrinul-negru-vol-1-george-calinescu-2.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> George Călinescu</td></tr>
 <tr><td>Formula 43</td><td>25.6 RON / Scrinul negru, vol 2 / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/scrinul-negru-vol-2-george-calinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> George Călinescu</td></tr>
 
+<tr><td>Formula 43</td><td>14.4 RON / Bizu / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/bizu-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
+<tr><td>Formula 43</td><td>14.4 RON / Firu-n patru / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/firu-n-patru-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
+<tr><td>Formula 43</td><td>14.4 RON / Diana / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/diana-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
+<tr><td>Formula 43</td><td>14.4 RON / Acord final / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/acord-final-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
+<tr><td>Formula 43</td><td>14.4 RON / Bălăuca  / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/balauca-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
+<tr><td>Formula 43</td><td>14.4 RON / Mili  / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/mili-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
+<tr><td>Formula 43</td><td>14.4 RON / Mite  / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/mite-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
+
+
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 Realismul
-    Eugen Lovinescu (1881 - 1943)
     Cezar Petrescu (1892 - 1961)
     Mihail Sadoveanu (1889 - 1961)
     Ion Marin Sadoveanu (1883 - 1964)
