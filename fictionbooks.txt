@@ -53,28 +53,34 @@
 <tr><td>Formula 42</td><td>25.6 RON / Scrinul negru, vol 1 / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/scrinul-negru-vol-1-george-calinescu-2.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> George Călinescu</td></tr>
 <tr><td>Formula 43</td><td>25.6 RON / Scrinul negru, vol 2 / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/scrinul-negru-vol-2-george-calinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> George Călinescu</td></tr>
 
-<tr><td>Formula 43</td><td>14.4 RON / Bizu / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/bizu-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
-<tr><td>Formula 43</td><td>14.4 RON / Firu-n patru / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/firu-n-patru-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
-<tr><td>Formula 43</td><td>14.4 RON / Diana / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/diana-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
-<tr><td>Formula 43</td><td>14.4 RON / Acord final / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/acord-final-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
-<tr><td>Formula 43</td><td>14.4 RON / Bălăuca  / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/balauca-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
-<tr><td>Formula 43</td><td>14.4 RON / Mili  / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/mili-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
-<tr><td>Formula 43</td><td>14.4 RON / Mite  / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/mite-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
+<tr><td>Formula 44</td><td>14.4 RON / Bizu / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/bizu-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
+<tr><td>Formula 45</td><td>14.4 RON / Firu-n patru / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/firu-n-patru-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
+<tr><td>Formula 46</td><td>14.4 RON / Diana / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/diana-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
+<tr><td>Formula 47</td><td>14.4 RON / Acord final / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/acord-final-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
+<tr><td>Formula 48</td><td>14.4 RON / Bălăuca  / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/balauca-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
+<tr><td>Formula 49</td><td>14.4 RON / Mili  / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/mili-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
+<tr><td>Formula 50</td><td>14.4 RON / Mite  / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/mite-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
+
+<tr><td>Formula 51</td><td>25.6 RON / Capitala care ucide - Calea Victoriei / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/calea-victoriei-cezar-petrescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cezar Petrescu</td></tr>
+<tr><td>Formula 52</td><td>25.6 RON / Capitala care ucide - Greta Garbo / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/greta-garbo-cezar-petrescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cezar Petrescu</td></tr>
+<tr><td>Formula 53</td><td>25.6 RON / Capitala care ucide - Duminica orbului / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/cezar-petrescu-dumineca-orbului-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cezar Petrescu</td></tr>
+<tr><td>Formula 54</td><td>25.6 RON / Capitala care ucide - Carlton / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/carlton-cezar-petrescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cezar Petrescu</td></tr>
+<tr><td>Formula 55</td><td>25.6 RON / Capitala care ucide - Oraș patriarhal / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/oras-patriarhal-cezar-petrescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cezar Petrescu</td></tr>
+<tr><td>Formula 56</td><td>53 RON / Lunatecii vol. 1 / <a style="color:gold;" href="https://ecredu.ro/product/lunatecii-vol-1/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Ion Vinea</td></tr>
+<tr><td>Formula 57</td><td>39 RON / Lunatecii vol. 2 / <a style="color:gold;" href="https://ecredu.ro/product/lunatecii-vol-2/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Ion Vinea</td></tr>
+
+<tr><td>Formula 58</td><td>9 RON / Craii de Curtea-Veche / <a style="color:gold;" href="https://ecredu.ro/product/lunatecii-vol-1/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Mateiu Caragiale</td></tr>
+
+<tr><td>Formula 59</td><td>91 RON / La Medeleni vol I-III / <a style="color:gold;" href="https://carturesti.ro/carte/la-medeleni-3-volume-1196188735?lang=ro-RO" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Ionel Teodoreanu</td></tr>
+<tr><td>Formula 60</td><td>27 RON / Turnul Milenei / <a style="color:gold;" href="https://ecredu.ro/product/turnul-milenei/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Ionel Teodoreanu</td></tr>
+<tr><td>Formula 61</td><td>43 RON / Bal mascat / <a style="color:gold;" href="https://ecredu.ro/product/bal-mascat/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Ionel Teodoreanu</td></tr>
+<tr><td>Formula 62</td><td>50 RON / Lorelei / <a style="color:gold;" href="https://ecredu.ro/product/lorelei/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Ionel Teodoreanu</td></tr>
 
 
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-Realismul
-    Cezar Petrescu (1892 - 1961)
-    Mihail Sadoveanu (1889 - 1961)
-    Ion Marin Sadoveanu (1883 - 1964)
-    Ion Vinea (1895 - 1964)
 
 Romanul poetic
-    Alexandru Macedonski (1854-1920)
-    Tudor Arghezi (1880 - 1967)
-    Mateiu Caragiale (1885 - 1936)
-    Ionel Teodoreanu (1897 - 1954)
     Alexandru O. Teodoreanu-Păstorel (1894 - 1964)
 
 Romane pentru copii și tineret
