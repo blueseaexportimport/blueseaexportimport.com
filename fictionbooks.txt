@@ -8,11 +8,123 @@
 <tr><td>Formula 3</td><td>48 RON / Un port la răsărit / <a style="color:gold;" href="https://www.editura-art.ro/info/carte/un-port-la-rasarit" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Radu Tudoran</td></tr>
 <tr><td>Formula 4</td><td>44 RON / Fiul risipitor / <a style="color:gold;" href="https://www.editura-art.ro/info/carte/fiul-risipitor" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Radu Tudoran</td></tr>
 
+<tr><td>Formula 5</td><td>44 RON / Poezii / <a style="color:gold;" href="https://www.editura-arthur.ro/info/carte/poezii500" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Mihai Eminescu</td></tr>
+
 
 
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
+Marii clasici
 
+    Mihai Eminescu (1850-1889)
+    Ion Creangă (1839-1889)
+    Ioan Slavici (1848-1925)
+    Ion Luca Caragiale (1852-1912)
+
+Tradiționalismul
+
+    Ion Agârbiceanu (1882-1963)
+    Gheorghe Brăescu (1871-1949)
+    Ioan Alexandru Brătescu-Voinești (1868-1946)
+    I.A.Bassarabescu (1870-1952)
+    Gala Galaction (1879-1961)
+    Theodor Rășcanu (1888-1952)
+    Constantin Stere (1865-1936)
+
+Literatura feminină interbelică
+
+    Hortensia Papadat-Bengescu (1876-1955)
+    Regina Maria
+    Elena Văcărescu
+    Henriette Yvonne Stahl
+    Martha Bibescu
+    Jeni Acterian
+    Alice Voinescu
+    Ticu Arhip
+    Ioana Postelnicu
+    Lucia Demetrius
+    Adela Xenopol
+    Cella Serghi
+    Alice Botez
+
+Romane de analiză
+
+    Liviu Rebreanu (1885 – 1944)
+    Gib Mihăescu (1894 - 1935)
+    Camil Petrescu (1894 - 1957)
+    Constantin Fântâneru (1907 - 1975)
+    Anton Holban (1902 - 1937)
+    Garabet Ibrăileanu (1871 - 1936)
+    H. Bonciu (1893 - 1950)
+    Victor Papilian (1888 - 1956)
+    Mihail Sebastian (1907 - 1945)
+    Max Blecher (1909 - 1938)
+    Ion Biberi (1904 - 1990)
+
+Proza exotică
+
+    Panait Istrati (1884-1935)
+    Mircea Eliade (1907-1986)
+
+Memorii de călătorie
+
+    Ioan Codru Drăgușanu
+    Mihai Tican Rumano (1893-1967)
+
+Realismul
+
+    Liviu Rebreanu (1885 - 1944)
+    Carol Ardeleanu (1883 - 1949)
+    Ury Benador (1895 - 1971)
+    George Călinescu (1899 - 1965)
+    Eugen Lovinescu (1881 - 1943)
+    Cezar Petrescu (1892 - 1961)
+    Mihail Sadoveanu (1889 - 1961)
+    Ion Marin Sadoveanu (1883 - 1964)
+    Ion Vinea (1895 - 1964)
+
+Romanul poetic
+
+    Alexandru Macedonski (1854-1920)
+    Tudor Arghezi (1880 - 1967)
+    Mateiu Caragiale (1885 - 1936)
+    Ionel Teodoreanu (1897 - 1954)
+    Alexandru O. Teodoreanu-Păstorel (1894 - 1964)
+
+Romanul ghetoului
+
+    Ion Călugăru
+    Ury Benador
+
+Romane și scrieri istorice
+
+    Mihail Sadoveanu (1889 - 1961)
+    Liviu Rebreanu (1885 - 1944)
+
+Romane pentru copii și tineret
+
+    Costache Anton (n. 1930)
+    Jean Bart (1877 - 1933)
+    Constantin Chiriță (1925 - 1991)
+    Mihail Drumeș (1901 - 1982)
+    Mircea Gesticone (1902 - 1961)
+    Ionel Teodoreanu (1897 - 1954)
+    Radu Tudoran (1917 - 1992)
+    Sînziana Popescu (născută în 1972)
+    George Șovu (n. 1935)
+    Mircea Sântimbreanu (1926 - 1999)
+
+Romane polițiste
+
+    Liviu Rebreanu
+    Victor Ion Popa
+    Rodica Ojog Brașoveanu
+    Haralamb Zincă
+    George Arion
+    Petre Sălcudeanu
+    Bogdan Hrib
+    Michael Haulică
+    Dănuț Ungureanu
 
 </tbody>
