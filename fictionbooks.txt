@@ -15,19 +15,15 @@
 <tr><td>Formula 8</td><td>20 RON / Drum de foc / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/henriette-yvonne-stahl-drum-de-foc-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Henriette Yvonne Stahl</td></tr>
 <tr><td>Formula 9</td><td>20 RON / Marea bucurie / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/marea-bucurie-henriette-yvonne-stahl-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Henriette Yvonne Stahl</td></tr>
 
+<tr><td>Formula 10</td><td>40 RON / Pânza de păianjen / <a style="color:gold;" href="https://www.litera.ro/panza-de-paianjen-afrn04" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cella Serghi</td></tr>
+<tr><td>Formula 11</td><td>40 RON / Cartea Mironei / <a style="color:gold;" href="https://www.litera.ro/cartea-mironei-afrn10" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cella Serghi</td></tr>
+<tr><td>Formula 12</td><td>40 RON / Gentiane / <a style="color:gold;" href="https://www.litera.ro/gentiane-afrn14" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cella Serghi</td></tr>
+
 
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
 Literatura feminină interbelică
-    Martha Bibescu
-    Jeni Acterian
-    Alice Voinescu
-    Ticu Arhip
-    Ioana Postelnicu
-    Lucia Demetrius
-    Adela Xenopol
-    Cella Serghi
     Alice Botez
 
 Romane de analiză
