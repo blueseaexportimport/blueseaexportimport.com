@@ -153,6 +153,23 @@ $(document).ready(function () {
   // Grab fictionbooks on click end
 
 
+ // Grab vinylrecords on click start
+  $("#vinylrecordsbtn").click(function() {
+    if ($("#vinylrecords").hasClass("clickedvinylrecords")) {
+        // already been clicked once, hide it
+        $("#vinylrecords").html("");
+        $( "#vinylrecords" ).removeClass( "clickedvinylrecords" )
+    }else {
+        // first time this is clicked, mark it
+        $("#vinylrecords").addClass("clickedvinylrecords");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/vinylrecords.txt", success: function(result){
+         $("#vinylrecords").html(result);
+        }});
+    }
+   });
+  // Grab vinylrecords on click end
+
+
   // Grab fusion reactors info on click start
   $("#fusionreactorsbtn").click(function() {
     if ($("#fusionreactors").hasClass("clickedfusionreactors")) {
@@ -2880,7 +2897,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div>
   </div></li><!--END SECTION-->
  
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>Y. ART AND COLLECTIBLES (0)</b></span> <span id="ro"><b>Y. ARTĂ ȘI OBIECTE DE COLECȚIE (0)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>Y. ART AND COLLECTIBLES (1)</b></span> <span id="ro"><b>Y. ARTĂ ȘI OBIECTE DE COLECȚIE (1)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion"><span id="en">Paintings</span><span id="ro">Tablori</span></h5>     
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion"><span id="en">Sculptures</span><span id="ro">Sculpturi</span></h5>     
@@ -2893,10 +2910,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Stickers</span><span id="ro">Abțibílde</span></h5>        
   <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" ><span id="en">Vinyl Records</span><span id="ro">Discuri de Vinil</span></h5>        
-  <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" ><span id="en">Audio Tapes</span><span id="ro">Casete Audio</span></h5>        
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="vinylrecordsbtn" ><span id="en">Vinyl And Audio Records (3)</span><span id="ro">Discuri de vinil și casete audio (3)</span></h5>        
+   <table id="vinylrecords" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
   <h5 class="categoryaccordion" ><span id="en">Video Tapes</span><span id="ro">Casete Video</span></h5>        
   <div class="rowbin" >-</div>  
   <h5 class="categoryaccordion" ><span id="en">Figurines and Dolls</span><span id="ro">Figurine și Păpuși</span></h5>    
