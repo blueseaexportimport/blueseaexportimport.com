@@ -6,11 +6,11 @@
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 840</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Austria</td></tr>
 <tr><td>Formula 1</td><td>185 RON / <span id="en" >blue</span><span id="ro">albastru</span></td></tr>
-<tr><td>Formula 1</td><td>185 RON / <span id="en" >yellow</span><span id="ro">galben</span></td></tr>
-<tr><td>Formula 1</td><td>185 RON / <span id="en" >black</span><span id="ro">negru</span></td></tr>
-<tr><td>Formula 1</td><td>185 RON / <span id="en" >brown</span><span id="ro">maro</span></td></tr>
-<tr><td>Formula 1</td><td>185 RON / <span id="en" >red</span><span id="ro">rosu</span></td></tr>
-<tr><td>Formula 1</td><td>185 RON / <span id="en" >greeb</span><span id="ro">verde</span></td></tr>
+<tr><td>Formula 2</td><td>185 RON / <span id="en" >yellow</span><span id="ro">galben</span></td></tr>
+<tr><td>Formula 3</td><td>185 RON / <span id="en" >black</span><span id="ro">negru</span></td></tr>
+<tr><td>Formula 4</td><td>185 RON / <span id="en" >brown</span><span id="ro">maro</span></td></tr>
+<tr><td>Formula 5</td><td>185 RON / <span id="en" >red</span><span id="ro">rosu</span></td></tr>
+<tr><td>Formula 6</td><td>185 RON / <span id="en" >greeb</span><span id="ro">verde</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.magazin.europlast.com.ro/pubele/pubela-120l" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
@@ -19,9 +19,9 @@
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 840</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Austria</td></tr>
 <tr><td>Formula 1</td><td>1020 RON / <span id="en" >blue</span><span id="ro">albastru</span></td></tr>
-<tr><td>Formula 1</td><td>1020 RON / <span id="en" >yellow</span><span id="ro">galben</span></td></tr>
-<tr><td>Formula 1</td><td>1020 RON / <span id="en" >black</span><span id="ro">negru</span></td></tr>
-<tr><td>Formula 1</td><td>1020 RON / <span id="en" >green</span><span id="ro">verde</span></td></tr>
+<tr><td>Formula 2</td><td>1020 RON / <span id="en" >yellow</span><span id="ro">galben</span></td></tr>
+<tr><td>Formula 3</td><td>1020 RON / <span id="en" >black</span><span id="ro">negru</span></td></tr>
+<tr><td>Formula 4</td><td>1020 RON / <span id="en" >green</span><span id="ro">verde</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.magazin.europlast.com.ro/pubele/pubela-120l" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
