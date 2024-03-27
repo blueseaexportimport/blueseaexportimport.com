@@ -4,23 +4,23 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Jazz music - Seară de jazz cu Aura</span><span id="ro">Muzică jazz - Seară de jazz cu Aura </span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td>179 RON / Vinyl 180g <span id="en" >standard speed</span><span id="ro">viteză standard</span> <a style="color:gold;" href="https://electrecord.ro/produs/seara-de-jazz-cu-aura/" target="_blank" ><span id="en">Production house</span><span id="ro">Casă de discuri</span></a> </td></tr>
-<tr><td>Formula 2</td><td>99 RON / cassette <span id="en" >standard speed</span><span id="ro">viteză standard</span> <a style="color:gold;" href="https://electrecord.ro/produs/seara-de-jazz-cu-aura-caseta/" target="_blank" ><span id="en">Production house</span><span id="ro">Casă de discuri</span></a> </td></tr>
-<tr><td>Formula 3</td><td>69 RON / CD <span id="en" >standard speed</span><span id="ro">viteză standard</span> <a style="color:gold;" href="https://electrecord.ro/produs/seara-de-jazz-cu-aura-cd/" target="_blank" ><span id="en">Production house</span><span id="ro">Casă de discuri</span></a> </td></tr>
+<tr><td>Formula 2</td><td>99 RON / <span id="en" >cassette</span><span id="ro">casetă</span> <a style="color:gold;" href="https://electrecord.ro/produs/seara-de-jazz-cu-aura-caseta/" target="_blank" ><span id="en">Production house</span><span id="ro">Casă de discuri</span></a> </td></tr>
+<tr><td>Formula 3</td><td>69 RON / CD <a style="color:gold;" href="https://electrecord.ro/produs/seara-de-jazz-cu-aura-cd/" target="_blank" ><span id="en">Production house</span><span id="ro">Casă de discuri</span></a> </td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">VYN0001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Folk music - Romica Puceanu și Taraful Fraților Gore</span><span id="ro">Muzică populară - Romica Puceanu și Taraful Fraților Gore </span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td>179 RON / Vinyl 180g <span id="en" >standard speed</span><span id="ro">viteză standard</span> <a style="color:gold;" href="https://electrecord.ro/produs/romica-puceanu-si-taraful-fratilor-gore-vinyl/" target="_blank" ><span id="en">Production house</span><span id="ro">Casă de discuri</span></a> </td></tr>
-<tr><td>Formula 2</td><td>99 RON / cassette <span id="en" >standard speed</span><span id="ro">viteză standard</span> <a style="color:gold;" href="https://electrecord.ro/produs/romica-puceanu-si-taraful-fratilor-gore-caseta/" target="_blank" ><span id="en">Production house</span><span id="ro">Casă de discuri</span></a> </td></tr>
-<tr><td>Formula 3</td><td>69 RON / CD <span id="en" >standard speed</span><span id="ro">viteză standard</span> <a style="color:gold;" href="https://electrecord.ro/produs/romica-puceanu-si-taraful-fratilor-gore-cd/" target="_blank" ><span id="en">Production house</span><span id="ro">Casă de discuri</span></a> </td></tr>
+<tr><td>Formula 2</td><td>99 RON / <span id="en" >cassette</span><span id="ro">casetă</span> <a style="color:gold;" href="https://electrecord.ro/produs/romica-puceanu-si-taraful-fratilor-gore-caseta/" target="_blank" ><span id="en">Production house</span><span id="ro">Casă de discuri</span></a> </td></tr>
+<tr><td>Formula 3</td><td>69 RON / CD <a style="color:gold;" href="https://electrecord.ro/produs/romica-puceanu-si-taraful-fratilor-gore-cd/" target="_blank" ><span id="en">Production house</span><span id="ro">Casă de discuri</span></a> </td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">VYN0001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Folk music - Trei parale</span><span id="ro">Muzică populară - Romica Puceanu și Taraful Fraților Gore </span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td>179 RON / Vinyl 180g <span id="en" >standard speed</span><span id="ro">viteză standard</span> <a style="color:gold;" href="https://electrecord.ro/produs/romania-100-de-minute-trei-parale/" target="_blank" ><span id="en">Production house</span><span id="ro">Casă de discuri</span></a> </td></tr>
-<tr><td>Formula 2</td><td>69 RON / CD <span id="en" >standard speed</span><span id="ro">viteză standard</span> <a style="color:gold;" href="https://electrecord.ro/produs/romania-100-de-minute-trei-parale-cd/" target="_blank" ><span id="en">Production house</span><span id="ro">Casă de discuri</span></a> </td></tr>
+<tr><td>Formula 2</td><td>69 RON / CD <a style="color:gold;" href="https://electrecord.ro/produs/romania-100-de-minute-trei-parale-cd/" target="_blank" ><span id="en">Production house</span><span id="ro">Casă de discuri</span></a> </td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
