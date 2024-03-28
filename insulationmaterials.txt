@@ -2,7 +2,7 @@
 <tbody>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ISL001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Sheep wool</span><span id="ro">Lână de oaie</span></td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Sheep wool LanaTerm</span><span id="ro">Lână de oaie LanaTerm</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 13501-1</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td>27.5 RON / m2 <span id="en" >thickness</span><span id="ro">grosime</span> 50 mm Carpatina</td></tr>
