@@ -1,3 +1,9 @@
+<tbody>
+
+
+</tbody>
+
+
 <tr><td><span id="en">Paper Envelope C7 (90 x 140 mm) Color White</span><span id="ro">Plic din hârtie C7 (90 x 140 mm) Culoare Albă</span></td>
 <tr><td><span id="en">Paper Envelope C6 (114 x 162 mm) Color White</span><span id="ro">Plic din hârtie C6 (114 x 162 mm) Culoare Albă</span></td>
 <tr><td><span id="en">Paper Envelope DL (110 x 220 mm) Color White</span><span id="ro">Plic din hârtie DL (110 x 220 mm) Culoare Albă</span></td>
