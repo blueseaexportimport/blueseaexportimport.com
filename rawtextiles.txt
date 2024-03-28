@@ -1,5 +1,11 @@
 <tbody>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BRK0000001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Raw unwashed wool - not sorted</span><span id="ro">Lână nespălată și nesortată</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td>Formula 1</td><td>3000 RON / tone </td></tr>
+<tr><td><span id="en">Producer:</span><span id="ro">Producător:</span></td><td><span id="en">Sheep owners from Romania</span><span id="ro">Deținători de oi din România</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
 
@@ -23,7 +29,6 @@ if (class_ro === "new") {
 
 <!--
      
-   <tr><td><span id="en">Raw unwashed wool - not sorted</span><span id="ro">Lână nespălată și nesortată</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
    <tr><td><span id="en">Rinsed wool SR 5743:1993</span><span id="ro">Lână spălată SR 5743:1993</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
    <tr><td><span id="en">Flax fibre SR 1714:2008</span><span id="ro">Fibre de in SR 1714:2008</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
    <tr><td><span id="en">Hemp fibre SR 1715:2008</span><span id="ro">Fibre de cânepă SR 1715:2008</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
