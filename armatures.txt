@@ -1,3 +1,11 @@
+
+
+
+
+
+
+<!--
+
     <tr><td><span id="en">Roofing nails</span><span id="ro">Cuie pentru acoperiș</span></td><td>- </td><td>-</td></tr>
     <tr><td><span id="en">Laminated Steel Wire SAE 1006 / SAE 1008</span><span id="ro">Sârmă laminată din oțel SAE 1006 / SAE 1008</span> </td><td>- </td><td>-</td></tr>  
     <tr><td><span id="en">Oiled baling wire</span><span id="ro">Sârmă pentru balotat uleiată STAS 889-89</span></td><td>- </td><td>-</td></tr>  
@@ -50,3 +58,5 @@
 <tr><td><span id="en">Galvanized Wire ⌀ 2mm ÷ ⌀ 2.8mm Coil weight 550-700kg </span><span id="ro">Sârmă zincată ⌀ 2mm ÷ ⌀ 2.8mm Greutate colac 550-700kg</span></td>
 <tr><td><span id="en">Soft Black Wire ⌀ 2.5mm ÷ ⌀ 5mm Coil weight 80-120kg</span><span id="ro">Sârmă moale neagră ⌀ 2.5mm ÷ ⌀ 5mm Greutate colac 80-120kg</span></td>
 <tr><td><span id="en">Soft Black Wire ⌀ 1.8mm ÷ ⌀ 2mm Coil weight 80-120kg</span><span id="ro">Sârmă moale neagră ⌀ 1.8mm ÷ ⌀ 2mm Greutate colac 80-120kg</span></td>
+
+-->
