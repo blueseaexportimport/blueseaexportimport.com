@@ -4,7 +4,6 @@
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ARM001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Rebar B500C</span><span id="ro">Fier striat B500C</span></td></tr>
-<tr><td>Standard</td><td style="color:#39ff14;" >EN 771-1+A1:2015</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td>3.3 RON / Leier CP clasic 240 x 115 x 63 mm</td></tr>
 
