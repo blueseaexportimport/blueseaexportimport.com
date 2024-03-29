@@ -57,7 +57,6 @@ if (class_ro === "new") {
     <tr><td><span id="en">Rebar PC90</span><span id="ro">Oțel beton PC90</span></td><td>- </td><td>-</td></tr>  
     <tr><td><span id="en">Rebar B500A</span><span id="ro">Fier striat B500A</span></td><td>- </td><td>-</td></tr>  
     <tr><td><span id="en">Rebar B500B</span><span id="ro">Fier striat B500B</span></td><td>- </td><td>-</td></tr>  
-    <tr><td><span id="en">Rebar B500C</span><span id="ro">Fier striat B500C</span></td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Steel Wire STPB</span><span id="ro">Sârmă trasă pentru beton armat cu suprafață profilată STPB</span></td><td>- </td><td>-</td></tr> 
     <tr><td><span id="en">Steel Wire STNB</span><span id="ro">Sârmă trasă pentru beton armat cu suprafață netedă STNB</span></td><td>- </td><td>-</td></tr>  
     <tr><td><span id="en">Soft Steel Wire STB</span><span id="ro">Sârmă moale neagră pentru legat ( recoaptă ) / sârmă arsă STB</span></td><td>- </td><td>-</td></tr>  
