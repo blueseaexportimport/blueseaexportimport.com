@@ -4,7 +4,7 @@
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ARM001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Rebar B500C</span><span id="ro">Fier striat B500C</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">Unknown</span><span id="en">Necunoscută</span></td></tr>
 <tr><td>Formula 1</td><td>0 RON / kg B500C Ø 6mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
 <tr><td>Formula 2</td><td>4.2 RON / kg B500C Ø 8mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
 <tr><td>Formula 3</td><td>4.2 RON / kg B500C Ø 10mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
