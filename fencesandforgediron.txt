@@ -50,6 +50,8 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://petrapavaje.ro/garduri/modern/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
+
+
 </tbody>
 
 <script>
@@ -66,3 +68,62 @@ if (class_ro === "new") {
 }
 });
 </script>
+
+
+
+<!--
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FEN0003</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Forged iron elements Stift</span><span id="ro">Elemente fier forjat Stift</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
+<tr><td>Formula 1</td><td>42.9 RON / <span id="en" >pcs Square twisted steel 20-911/6m</span><span id="ro">buc Oțel patrat rasucit 20-911/6m</span> 11 mm</td></tr>
+<tr><td>Formula 1</td><td>52.7 RON / <span id="en" >pcs Square twisted steel 20-912/6m</span><span id="ro">buc Oțel patrat rasucit 20-912/6m</span> 12 mm</td></tr>
+<tr><td>Formula 1</td><td>73.9 RON / <span id="en" >pcs Square twisted steel 20-914/6m</span><span id="ro">buc Oțel patrat rasucit 20-914/6m</span> 14 mm</td></tr>
+<tr><td>Formula 1</td><td>114.6 RON / <span id="en" >pcs Square twisted steel 20-916/6m</span><span id="ro">buc Oțel patrat rasucit 20-916/6m</span> 16 mm</td></tr>
+<tr><td>Formula 1</td><td>145.4 RON / <span id="en" >pcs Square twisted steel 20-920/6m</span><span id="ro">buc Oțel patrat rasucit 20-920/6m</span> 20 mm</td></tr>
+
+<tr><td>Formula 1</td><td>182.8 RON / <span id="en" >pcs Square twisted bar 19-152/2m</span><span id="ro">buc Bară pătrată răsucită 19-152/2m</span> 14 mm</td></tr>
+
+<tr><td>Formula 1</td><td>21.9 RON / <span id="en" >pcs Round stamped steel 20‑710/3m</span><span id="ro">buc Oțel rotund amprentat 20‑710/3m</span> 10 mm</td></tr>
+<tr><td>Formula 1</td><td>28.1 RON / <span id="en" >pcs Round stamped steel 20-810/6m</span><span id="ro">buc Oțel rotund amprentat 20-810/6m</span> 10 mm</td></tr>
+<tr><td>Formula 1</td><td>32.9 RON / <span id="en" >pcs Round stamped steel 20-712/3m</span><span id="ro">buc Oțel rotund amprentat 20-712/3m</span> 12 mm</td></tr>
+<tr><td>Formula 1</td><td>42.8 RON / <span id="en" >pcs Round stamped steel 20-714/3m</span><span id="ro">buc Oțel rotund amprentat 20-714/3m</span> 14 mm</td></tr>
+<tr><td>Formula 1</td><td>51.3 RON / <span id="en" >pcs Round stamped steel 20-716/3m</span><span id="ro">buc Oțel rotund amprentat 20-716/3m</span> 16 mm</td></tr>
+
+<tr><td>Formula 1</td><td>36.8 RON / <span id="en" >pcs Round stamped bark steel 20-210/3m</span><span id="ro">buc Oțel rotund amprentat scoarta 20-210/3m</span> 10 mm</td></tr>
+<tr><td>Formula 1</td><td>61.9 RON / <span id="en" >pcs Round stamped bark steel 20-212/3m</span><span id="ro">buc Oțel rotund amprentat scoarta 20-212/3m</span> 12 mm</td></tr>
+<tr><td>Formula 1</td><td>81.3 RON / <span id="en" >pcs Round stamped bark steel 20-214/3m</span><span id="ro">buc Oțel rotund amprentat scoarta 20-214/3m</span> 14 mm</td></tr>
+<tr><td>Formula 1</td><td>83.6 RON / <span id="en" >pcs Round stamped bark steel 20-216/3m</span><span id="ro">buc Oțel rotund amprentat scoarta 20-216/3m</span> 16 mm</td></tr>
+<tr><td>Formula 1</td><td>102.1 RON / <span id="en" >pcs Round stamped bark steel 20-218/3m</span><span id="ro">buc Oțel rotund amprentat scoarta 20-218/3m</span> 18 mm</td></tr>
+
+<tr><td>Formula 1</td><td>35.6 RON / <span id="en" >pcs Square stamped steel 20-010/6m</span><span id="ro">buc Oțel patrat amprentat 20-010/6m</span> 10 mm</td></tr>
+<tr><td>Formula 1</td><td>46.1 RON / <span id="en" >pcs Square stamped steel 20-011/6m</span><span id="ro">buc Oțel patrat amprentat 20-011/6m</span> 11.5 mm</td></tr>
+<tr><td>Formula 1</td><td>48.5 RON / <span id="en" >pcs Square stamped steel 20-012/6m</span><span id="ro">buc Oțel patrat amprentat 20-012/6m</span> 12 mm</td></tr>
+<tr><td>Formula 1</td><td>67.7 RON / <span id="en" >pcs Square stamped steel 20-014/6m</span><span id="ro">buc Oțel patrat amprentat 20-014/6m</span> 14 mm</td></tr>
+<tr><td>Formula 1</td><td>89.1 RON / <span id="en" >pcs Square stamped steel 20-020/3m</span><span id="ro">buc Oțel patrat amprentat 20-020/3m</span> 20 mm</td></tr>
+<tr><td>Formula 1</td><td>91.1 RON / <span id="en" >pcs Square stamped steel 20-016/6m</span><span id="ro">buc Oțel patrat amprentat 20-016/6m</span> 16 mm</td></tr>
+<tr><td>Formula 1</td><td>123.1 RON / <span id="en" >pcs Square stamped steel 20-025/3m</span><span id="ro">buc Oțel patrat amprentat 20-025/3m</span> 25 mm</td></tr>
+<tr><td>Formula 1</td><td>174.7 RON / <span id="en" >pcs Square stamped steel 20-020/6m</span><span id="ro">buc Oțel patrat amprentat 20-020/6m</span> 25 mm</td></tr>
+
+
+<tr><td>Formula 1</td><td>55.7 RON / <span id="en" >pcs Square channeled stamped steel 20-412/6m</span><span id="ro">buc Oțel patrat amprentat și canelat 20-412/6m</span> 12 mm</td></tr>
+
+<tr><td>Formula 1</td><td>50.6 RON / <span id="en" >pcs Square transverse stamped steel 20-612/6m</span><span id="ro">buc Oțel patrat amprentat transversal 20-612/6m</span> 12 mm</td></tr>
+<tr><td>Formula 1</td><td>69.6 RON / <span id="en" >pcs Square transverse stamped steel 20-614/6m</span><span id="ro">buc Oțel patrat amprentat transversal 20-614/6m</span> 14 mm</td></tr>
+<tr><td>Formula 1</td><td>71.3 RON / <span id="en" >pcs Square transverse stamped steel 20-314/1/6m</span><span id="ro">buc Oțel patrat amprentat transversal 20-314/1/6m</span> 14 mm</td></tr>
+
+<tr><td>Formula 1</td><td>46 RON / <span id="en" >pcs Stamped strip 2 stripes 19-100/6m</span><span id="ro">buc Platbandă amprentată 2 dungi 19-100/6m</span> 25x5 mm</td></tr>
+<tr><td>Formula 1</td><td>51 RON / <span id="en" >pcs Stamped strip 2 stripes 19-101/4.5/6m</span><span id="ro">buc Platbandă amprentată 2 dungi 19-101/4.5/6m</span> 30x4.5 mm</td></tr>
+<tr><td>Formula 1</td><td>54.3 RON / <span id="en" >pcs Stamped strip 2 stripes 19-101/6m</span><span id="ro">buc Platbandă amprentată 2 dungi 19-101/6m</span> 30x5 mm</td></tr>
+<tr><td>Formula 1</td><td>70.1 RON / <span id="en" >pcs Stamped strip 2 stripes 19-102/1/6m</span><span id="ro">buc Platbandă amprentată 2 dungi 19-102/1/6m</span> 40x4.5 mm</td></tr>
+<tr><td>Formula 1</td><td>75.9 RON / <span id="en" >pcs Stamped strip 2 stripes 19-102/6m</span><span id="ro">buc Platbandă amprentată 2 dungi 19-102/6m</span> 40x5 mm</td></tr>
+<tr><td>Formula 1</td><td>99.9 RON / <span id="en" >pcs Stamped strip 2 stripes 19-105/6m</span><span id="ro">buc Platbandă amprentată 2 dungi 19-105/6m</span> 30x8 mm</td></tr>
+<tr><td>Formula 1</td><td>105.9 RON / <span id="en" >pcs Stamped strip 2 stripes 19-108/6m</span><span id="ro">buc Platbandă amprentată 2 dungi 19-108/6m</span> 50x5 mm</td></tr>
+<tr><td>Formula 1</td><td>122.4 RON / <span id="en" >pcs Stamped strip 2 stripes 19-104/6m</span><span id="ro">buc Platbandă amprentată 2 dungi 19-104/6m</span> 40x8 mm</td></tr>
+
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.stift.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+-->
