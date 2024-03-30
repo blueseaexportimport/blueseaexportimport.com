@@ -135,6 +135,21 @@ $(document).ready(function () {
    });
   // Grab combined fodder on click end
 
+  // Grab armatures info on click start
+  $("#armaturesbtn").click(function() {
+    if ($("#armatures").hasClass("clickedarmatures")) {
+        // already been clicked once, hide it
+        $("#armatures").html("");
+        $( "#armatures" ).removeClass( "clickedarmatures" )
+    }else {
+        // first time this is clicked, mark it
+        $("#armatures").addClass("clickedarmatures");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/armatures.txt", success: function(result){
+         $("#armatures").html(result);
+        }});
+    }
+   });
+  // Grab armatures on click end
 
   // Grab fictionbooks info on click start
   $("#fictionbooksbtn").click(function() {
@@ -2441,8 +2456,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Concrete formwork</span><span id="ro">Cofraje beton</span></h5>    
    <div class="rowbin" >-</div> 
-   <h5 class="categoryaccordion" ><span id="en">Armatures</span><span id="ro">Produse de armare</span></h5>    
-   <div class="rowbin" >-</div> 
+   <h5 class="categoryaccordion" id="armaturesbtn" ><span id="en">Armatures (1)</span><span id="ro">Produse de armare (1)</span></h5>    
+   <table id="armatures" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>
    <h5 class="categoryaccordion" ><span id="en">Concrete</span><span id="ro">Beton</span></h5> 
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="precastconcretebtn" ><span id="en">Precast concrete (3)</span><span id="ro">Prefabricate beton (3)</span></h5> 
