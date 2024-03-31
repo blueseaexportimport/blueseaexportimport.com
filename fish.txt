@@ -1,3 +1,7 @@
+
+
+
+<!--
     <tr><td>Sprattus sprattus</td><td><span id="en">European sprat</span><span id="ro" >Șprot european</span></td><td>-</td></tr>    
     <tr><td>Scomber scombrus</td><td><span id="en">Atlantic mackerel</span><span id="ro" >Scrumbie albastră</span></td><td>-</td></tr>    
     <tr><td>Engraulis encrasicolus</td><td><span id="en">European anchovy</span><span id="ro" >Hamsie</span></td><td>-</td></tr>    
@@ -137,3 +141,4 @@
     <tr><td>Sillago robusta </td><td><span id="en">Stout Whiting</span><span id="ro" >Merlan robust</span></td><td>-</td></tr>
     <tr><td>Sillago ciliata </td><td><span id="en">Sand Whiting</span><span id="ro" >Merlan de nisip</span></td><td>-</td></tr>
     <tr><td>Sillaginodes punctatus </td><td><span id="en">King George Whiting</span><span id="ro" >Merlan Regele George</span></td><td>-</td></tr>
+-->
