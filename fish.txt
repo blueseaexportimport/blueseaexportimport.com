@@ -2,7 +2,7 @@
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FIS001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Ocean and sea fish</span><span id="ro">Pește de mare și oceanic</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="en">EU</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="ro">UE</span></td></tr>
 <tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en">Fish calibre size unknown, fish is a seasonal product, it is not fished all year round, suppliers can change there is no contract, prices are only informal</span><span id="ro">Calibru lungime pește necunoscut, peștele este un produs sezonier nu se pescuiește tot anul, furnizori se pot schimaba nu există contract, prețul este doar estimativ</span></td></tr>
 
 <tr><td>Formula 1</td><td>14.7 RON / kg <span id="en" >Atlantic mackerel - frozen (Scomber scombrus)</span><span id="ro">Scrumbie albastră - congelat (Scomber scombrus)</span> </td></tr>
@@ -33,7 +33,7 @@
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FIS002</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Fresh water fish</span><span id="ro">Pește de apă dulce</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="en">EU</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="ro">UE</span></td></tr>
 <tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en">Fish calibre size unknown, fish is a seasonal product, it is not fished all year round, suppliers can change there is no contract, prices are only informal</span><span id="ro">Calibru lungime pește necunoscut, peștele este un produs sezonier nu se pescuiește tot anul, furnizori se pot schimaba nu există contract, prețul este doar estimativ</span></td></tr>
 
 <tr><td>Formula 1</td><td>10 RON / kg <span id="en" >Vimba - fresh (Vimba vimba)</span><span id="ro">Morunaș - proaspăt - lipsă furnizor (Vimba vimba)</span></td></tr>
