@@ -3,7 +3,7 @@
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FIS001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Ocean and sea fish</span><span id="ro">Pește de mare și oceanic</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="en">EU</span></td></tr>
-<tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en">Fish calibre size unknown</span><span id="en">Calibru lungime pește necunoscut</span></td></tr>
+<tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en">Fish calibre size unknown, fish is a seasonal product, it is not fished all year round, suppliers can change there is no contract, prices are only informal</span><span id="en">Calibru lungime pește necunoscut, peștele este un produs sezonier nu se pescuiește tot anul, furnizori se pot schimaba nu există contract, prețul este doar estimativ</span></td></tr>
 
 <tr><td>Formula 1</td><td>0 RON / kg <span id="en" >European sprat - fresh (Sprattus sprattus)</span><span id="ro">Șprot european - proaspăt (Sprattus sprattus)</span></td></tr>
 <tr><td>Formula 2</td><td>0 RON / kg <span id="en" >Golden grey mullet - fresh (Chelon aurata)</span><span id="ro">Chefal - proaspăt (Chelon aurata)</span></td></tr>
@@ -20,15 +20,10 @@
 
 <tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various EU suppliers</span><span id="ro">Furnizori din UE</span></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-
-
-
-
-
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FIS002</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Fresh water fish</span><span id="ro">Pește de apă dulce</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="en">EU</span></td></tr>
-<tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en">Fish calibre size unknown</span><span id="en">Calibru lungime pește necunoscut</span></td></tr>
+<tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en">Fish calibre size unknown, fish is a seasonal product, it is not fished all year round, suppliers can change there is no contract, prices are only informal</span><span id="en">Calibru lungime pește necunoscut, peștele este un produs sezonier nu se pescuiește tot anul, furnizori se pot schimaba nu există contract, prețul este doar estimativ</span></td></tr>
 
 <tr><td>Formula 1</td><td>0 RON / kg <span id="en" >Prussian carp - fresh (Carassius gibelio)</span><span id="ro">Caras - proaspăt (Carassius gibelio)</span></td></tr>
 <tr><td>Formula 2</td><td>0 RON / kg <span id="en" >European perch - fresh (Perca fluviatilis)</span><span id="ro">Biban european - proaspăt (Perca fluviatilis)</span></td></tr>
