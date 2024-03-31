@@ -5,7 +5,7 @@
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="en">EU</span></td></tr>
 <tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en">Fish calibre size unknown, fish is a seasonal product, it is not fished all year round, suppliers can change there is no contract, prices are only informal</span><span id="en">Calibru lungime pește necunoscut, peștele este un produs sezonier nu se pescuiește tot anul, furnizori se pot schimaba nu există contract, prețul este doar estimativ</span></td></tr>
 
-<tr><td>Formula 1</td><td>14.7 RON / kg <span id="en" >Atlantic mackerel - frozen (Scomber scombrus)</span><span id="ro">Scrumbie albastră - congelat (Scomber scombrus)</span> 150-300g</td></tr>
+<tr><td>Formula 1</td><td>14.7 RON / kg <span id="en" >Atlantic mackerel - frozen (Scomber scombrus)</span><span id="ro">Scrumbie albastră - congelat (Scomber scombrus)</span> </td></tr>
 <tr><td>Formula 2</td><td>16 RON / kg <span id="en" >Thinlip mullet - fresh (Liza Ramada)</span><span id="ro">Platarin - proaspăt (Liza Ramada)</span></td></tr>
 <tr><td>Formula 3</td><td>20 RON / kg <span id="en" >European anchovy - fresh (Engraulis encrasicolus)</span><span id="ro">Hamsie - proaspăt (Engraulis encrasicolus)</span></td></tr>
 <tr><td>Formula 4</td><td>20 RON / kg <span id="en" >European sprat - fresh (Sprattus sprattus)</span><span id="ro">Șprot european - proaspăt (Sprattus sprattus)</span></td></tr>
@@ -65,6 +65,8 @@
 
 
 
+
+
 </tbody> 
 
 
@@ -85,11 +87,6 @@ if (class_ro === "new") {
 
 
 <!--
-
-  
-  
-
-
     <tr><td>Thunnus alalunga</td><td><span id="en">Longfin tuna</span><span id="ro" >Ton alb</span></td><td>-</td></tr>    
     <tr><td>Thunnus albacares</td><td><span id="en">Yellowfin tuna</span><span id="ro" >Ton cu aripioare galbene</span></td><td>-</td></tr>    
     <tr><td>Thunnus tonggol</td><td><span id="en">Northern Bluefin Tuna</span><span id="ro" >Ton cu aripioare albastre de nord</span></td><td>-</td></tr>
