@@ -17,18 +17,17 @@
 <tr><td>Formula 10</td><td>110 RON / kg <span id="en" >Bluefish - fresh  (Pomatomus saltatrix)</span><span id="ro">Lufăr - proaspăt (Pomatomus saltatrix)</span></td></tr>
 <tr><td>Formula 11</td><td>50 RON / kg <span id="en" >Atlantic bonito - fresh  (Sarda sarda)</span><span id="ro">Pălămidă - proaspăt (Sarda sarda)</span></td></tr>
 <tr><td>Formula 12</td><td>110 RON / kg <span id="en" >Swordfish - fresh  (Xiphias gladius)</span><span id="ro">Pește spadă - proaspăt (Xiphias gladius)</span></td></tr>
-<tr><td>Formula 12</td><td>110 RON / kg <span id="en" >Swordfish - fresh  (Xiphias gladius)</span><span id="ro">Pește spadă - proaspăt (Xiphias gladius)</span></td></tr>
-<tr><td>Formula 3</td><td>0 RON / kg <span id="en" >Tub gurnard - fresh (Chelidonichthys lucerna)</span><span id="ro">Rândunică de mare - proaspăt (Chelidonichthys lucerna)</span></td></tr>
-<tr><td>Formula 3</td><td>0 RON / kg <span id="en" >Black Sea Sprat - fresh (Clupeonella cultriventris)</span><span id="ro">Gingirică - proaspăt (Clupeonella cultriventris)</span></td></tr>
-<tr><td>Formula 3</td><td>0 RON / kg <span id="en" >Common dab - fresh (Limanda limanda)</span><span id="ro">Limandă - proaspăt (Limanda limanda)</span></td></tr>
-<tr><td>Formula 3</td><td>0 RON / kg <span id="en" >Boston blue - fresh (Pollachius virens)</span><span id="ro">Cod negru - proaspăt (Pollachius virens)</span></td></tr>
-<tr><td>Formula 3</td><td>0 RON / kg <span id="en" >Atlantic herring - fresh (Clupea harengus)</span><span id="ro">Hering de Atlantic - proaspăt (Clupea harengus)</span></td></tr>
-<tr><td>Formula 3</td><td>0 RON / kg <span id="en" >Round sardinella - fresh (Sardinella aurita)</span><span id="ro">Sardeluță - proaspăt (Sardinella aurita)</span></td></tr>
-<tr><td>Formula 3</td><td>0 RON / kg <span id="en" >Golden grey mullet - fresh (Chelon aurata)</span><span id="ro">Chefal - proaspăt (Chelon aurata)</span></td></tr>
-<tr><td>Formula 4</td><td>0 RON / kg <span id="en" >Black Sea shad - fresh (Alosa tanaica)</span><span id="ro">Rizeafcă - proaspăt (Alosa tanaica)</span></td></tr>
-<tr><td>Formula 11</td><td>0 RON / kg <span id="en" >Sabrefish - fresh (Pelecus cultratus)</span><span id="ro">Sabiță - proaspăt (Pelecus cultratus)</span></td></tr>
-<tr><td>Formula 12</td><td>0 RON / kg <span id="en" >Turbot - fresh  (Scophthalmus maximus)</span><span id="ro">Turbot - proaspăt (Scophthalmus maximus)</span></td></tr>
-<tr><td>Formula 13</td><td>0 RON / kg <span id="en" >Common dentex - fresh (Dentex dentex)</span><span id="ro">Dințat - proaspăt (Dentex dentex)</span></td></tr>
+<tr><td>Formula 13</td><td>0 RON / kg <span id="en" >Tub gurnard - fresh (Chelidonichthys lucerna)</span><span id="ro">Rândunică de mare - proaspăt (Chelidonichthys lucerna)</span></td></tr>
+<tr><td>Formula 14</td><td>0 RON / kg <span id="en" >Black Sea Sprat - fresh (Clupeonella cultriventris)</span><span id="ro">Gingirică - proaspăt (Clupeonella cultriventris)</span></td></tr>
+<tr><td>Formula 15</td><td>0 RON / kg <span id="en" >Common dab - fresh (Limanda limanda)</span><span id="ro">Limandă - proaspăt (Limanda limanda)</span></td></tr>
+<tr><td>Formula 16</td><td>0 RON / kg <span id="en" >Boston blue - fresh (Pollachius virens)</span><span id="ro">Cod negru - proaspăt (Pollachius virens)</span></td></tr>
+<tr><td>Formula 17</td><td>0 RON / kg <span id="en" >Atlantic herring - fresh (Clupea harengus)</span><span id="ro">Hering de Atlantic - proaspăt (Clupea harengus)</span></td></tr>
+<tr><td>Formula 18</td><td>0 RON / kg <span id="en" >Round sardinella - fresh (Sardinella aurita)</span><span id="ro">Sardeluță - proaspăt (Sardinella aurita)</span></td></tr>
+<tr><td>Formula 19</td><td>0 RON / kg <span id="en" >Golden grey mullet - fresh (Chelon aurata)</span><span id="ro">Chefal - proaspăt (Chelon aurata)</span></td></tr>
+<tr><td>Formula 20</td><td>0 RON / kg <span id="en" >Black Sea shad - fresh (Alosa tanaica)</span><span id="ro">Rizeafcă - proaspăt (Alosa tanaica)</span></td></tr>
+<tr><td>Formula 21</td><td>0 RON / kg <span id="en" >Sabrefish - fresh (Pelecus cultratus)</span><span id="ro">Sabiță - proaspăt (Pelecus cultratus)</span></td></tr>
+<tr><td>Formula 22</td><td>0 RON / kg <span id="en" >Turbot - fresh  (Scophthalmus maximus)</span><span id="ro">Turbot - proaspăt (Scophthalmus maximus)</span></td></tr>
+<tr><td>Formula 23</td><td>0 RON / kg <span id="en" >Common dentex - fresh (Dentex dentex)</span><span id="ro">Dințat - proaspăt (Dentex dentex)</span></td></tr>
 
 <tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various EU suppliers</span><span id="ro">Furnizori din UE</span></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
