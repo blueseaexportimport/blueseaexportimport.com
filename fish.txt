@@ -3,14 +3,42 @@
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FIS001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">European sprat</span><span id="ro">Șprot european</span></td></tr>
 <tr><td><span id="en" >Latin name</span><span id="ro">Nume latină</span></td><td style="color:#39ff14;" >Sprattus sprattus</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">Unknown</span><span id="en">Necunoscută</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="en">EU</span></td></tr>
 <tr><td>Formula 1</td><td>19 RON / kg <span id="en" >frozen</span><span id="ro">congelat</span></td></tr>
 <tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various EU suppliers</span><span id="ro">Furnizori din UE</span></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FIS001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Atlantic mackerel</span><span id="ro">Scrumbie albastră</span></td></tr>
+<tr><td><span id="en" >Latin name</span><span id="ro">Nume latină</span></td><td style="color:#39ff14;" >Scomber scombrus</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="en">EU</span></td></tr>
+<tr><td>Formula 1</td><td>30 RON / kg <span id="en" >frozen</span><span id="ro">congelat</span></td></tr>
+<tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various EU suppliers</span><span id="ro">Furnizori din UE</span></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
 </tbody> 
 
+
+
+
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
+
+
 <!--
-    <tr><td>Scomber scombrus</td><td><span id="en">Atlantic mackerel</span><span id="ro" >Scrumbie albastră</span></td><td>-</td></tr>    
     <tr><td>Engraulis encrasicolus</td><td><span id="en">European anchovy</span><span id="ro" >Hamsie</span></td><td>-</td></tr>    
     <tr><td>Alosa immaculata</td><td><span id="en">Pontic shad</span><span id="ro" >Scrumbie de Dunăre</span></td><td>-</td></tr> 
     <tr><td>Alosa tanaica</td><td><span id="en">Black Sea shad</span><span id="ro" >Rizeafcă</span></td><td>-</td></tr>    
