@@ -135,6 +135,23 @@ $(document).ready(function () {
    });
   // Grab combined fodder on click end
 
+
+  // Grab fish info on click start
+  $("#fishbtn").click(function() {
+    if ($("#fish").hasClass("clickedfish")) {
+        // already been clicked once, hide it
+        $("#fish").html("");
+        $( "#fish" ).removeClass( "clickedfish" )
+    }else {
+        // first time this is clicked, mark it
+        $("#fish").addClass("clickedfish");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/fish.txt", success: function(result){
+         $("#fish").html(result);
+        }});
+    }
+   });
+  // Grab fish on click end
+
   // Grab armatures info on click start
   $("#armaturesbtn").click(function() {
     if ($("#armatures").hasClass("clickedarmatures")) {
@@ -2787,8 +2804,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table>  	
-  <h5 class="categoryaccordion" ><span id="en">Fish</span><span id="ro">Pește</span></h5>
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="fishbtn" ><span id="en">Fish (2)</span><span id="ro">Pește (2)</span></h5>
+   <table id="fish" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	
   <h5 class="categoryaccordion" ><span id="en">Roe / Caviar</span><span id="ro">Icre și Caviar</span></h5>
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Seafood</span><span id="ro">Fructe de Mare</span></h5>
