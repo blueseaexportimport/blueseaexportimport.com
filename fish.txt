@@ -4,22 +4,19 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Ocean and sea fish</span><span id="ro">Pește de mare și oceanic</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="en">EU</span></td></tr>
 
+<tr><td>Formula 1</td><td>0 RON / kg <span id="en" >European sprat - fresh (Sprattus sprattus)</span><span id="ro">Șprot european - proaspăt (Sprattus sprattus)</span> 8 - 12cm</td></tr>
+<tr><td>Formula 2</td><td>0 RON / kg <span id="en" >Golden grey mullet - fresh (Chelon aurata)</span><span id="ro">Chefal - proaspăt (Chelon aurata) 30-61cm</span></td></tr>
+<tr><td>Formula 3</td><td>0 RON / kg <span id="en" >Black Sea shad - fresh (Alosa tanaica)</span><span id="ro">Rizeafcă - proaspăt (Alosa tanaica) 25-30cm</span></td></tr>
+<tr><td>Formula 4</td><td>0 RON / kg <span id="en" >Atlantic mackerel - fresh (Scomber scombrus)</span><span id="ro">Scrumbie albastră - proaspăt (Scomber scombrus) 34-60cm</span></td></tr>
+<tr><td>Formula 5</td><td>0 RON / kg <span id="en" >Gilt-head bream - fresh (Sparus aurata)</span><span id="ro">Doradă - proaspăt (Sparus aurata) 30-70cm</span></td></tr>
 
-<tr><td>Formula 1</td><td>0 RON / kg <span id="en" >European sprat - frozen (Sprattus sprattus)</span><span id="ro">Șprot european - congelat (Sprattus sprattus)</span></td></tr>
-<tr><td>Formula 2</td><td>0 RON / kg <span id="en" >Golden grey mullet - fresh (Chelon aurata)</span><span id="ro">Chefal - proaspăt (Chelon aurata)</span></td></tr>
-<tr><td>Formula 3</td><td>0 RON / kg <span id="en" >Black Sea shad - frozen (Alosa tanaica)</span><span id="ro">Rizeafcă - congelat (Alosa tanaica)</span></td></tr>
-<tr><td>Formula 4</td><td>0 RON / kg <span id="en" >Atlantic mackerel - frozen (Scomber scombrus)</span><span id="ro">Scrumbie albastră - congelat (Scomber scombrus)</span></td></tr>
-<tr><td>Formula 5</td><td>0 RON / kg <span id="en" >Gilt-head bream - fresh (Sparus aurata)</span><span id="ro">Doradă - proaspăt (Sparus aurata)</span></td></tr>
-
-<tr><td>Formula 5</td><td>0 RON / kg <span id="en" >European flounder - fresh (Platichthys flesus)</span><span id="ro">Cambulă - proaspăt (Platichthys flesus)</span></td></tr>
-<tr><td>Formula 6</td><td>0 RON / kg <span id="en" >Pontic shad - frozen (Alosa immaculata)</span><span id="ro">Scrumbie de Dunăre - congelat (Alosa immaculata)</span></td></tr>
-<tr><td>Formula 7</td><td>0 RON / kg <span id="en" >European angler - fresh (Lophius piscatorius)</span><span id="ro">Pește pescar - proaspăt (Lophius piscatorius)</span></td></tr>
-
-<tr><td>Formula 7</td><td>0 RON / kg <span id="en" >European anchovy - frozen (Engraulis encrasicolus)</span><span id="ro">Hamsie - congelat (Engraulis encrasicolus)</span></td></tr>
-<tr><td>Formula 8</td><td>0 RON / kg <span id="en" >Sabrefish - fresh - no source (Pelecus cultratus)</span><span id="ro">Sabiță - proaspăt - lipsă furnizor (Pelecus cultratus)</span></td></tr>
-<tr><td>Formula 9</td><td>0 RON / kg <span id="en" >Turbot - fresh - no source (Scophthalmus maximus)</span><span id="ro">Turbot - proaspăt - lipsă furnizor (Scophthalmus maximus)</span></td></tr>
-<tr><td>Formula 10</td><td>0 RON / kg <span id="en" >Chefal - fresh - no source  (Liza aurata)</span><span id="ro">Chefal - proaspăt - lipsă furnizor (Liza aurata)</span></td></tr>
-<tr><td>Formula 10</td><td>0 RON / kg <span id="en" >Common dentex - fresh - no source  (Dentex dentex)</span><span id="ro">Dințat - proaspăt - lipsă furnizor (Dentex dentex)</span></td></tr>
+<tr><td>Formula 5</td><td>0 RON / kg <span id="en" >European flounder - fresh (Platichthys flesus)</span><span id="ro">Cambulă - proaspăt (Platichthys flesus) 30-60cm</span></td></tr>
+<tr><td>Formula 6</td><td>0 RON / kg <span id="en" >Pontic shad - fresh (Alosa immaculata)</span><span id="ro">Scrumbie de Dunăre - proaspăt (Alosa immaculata) 23-39cm</span></td></tr>
+<tr><td>Formula 7</td><td>0 RON / kg <span id="en" >European angler - fresh (Lophius piscatorius)</span><span id="ro">Pește pescar - proaspăt (Lophius piscatorius) 40-200cm</span></td></tr>
+<tr><td>Formula 8</td><td>0 RON / kg <span id="en" >European anchovy - fresh (Engraulis encrasicolus)</span><span id="ro">Hamsie - proaspăt (Engraulis encrasicolus) 11-20cm</span></td></tr>
+<tr><td>Formula 9</td><td>0 RON / kg <span id="en" >Sabrefish - fresh (Pelecus cultratus)</span><span id="ro">Sabiță - proaspăt (Pelecus cultratus)</span> 21-60cm</td></tr>
+<tr><td>Formula 10</td><td>0 RON / kg <span id="en" >Turbot - fresh  (Scophthalmus maximus)</span><span id="ro">Turbot - proaspăt (Scophthalmus maximus)</span> 45-100cm</td></tr>
+<tr><td>Formula 11</td><td>0 RON / kg <span id="en" >Common dentex - fresh (Dentex dentex)</span><span id="ro">Dințat - proaspăt (Dentex dentex)</span> 40-100cm</td></tr>
 
 <tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various EU suppliers</span><span id="ro">Furnizori din UE</span></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
