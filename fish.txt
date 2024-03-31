@@ -5,18 +5,18 @@
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="en">EU</span></td></tr>
 <tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en">Fish calibre size unknown, fish is a seasonal product, it is not fished all year round, suppliers can change there is no contract, prices are only informal</span><span id="en">Calibru lungime pește necunoscut, peștele este un produs sezonier nu se pescuiește tot anul, furnizori se pot schimaba nu există contract, prețul este doar estimativ</span></td></tr>
 
-<tr><td>Formula 1</td><td>20 RON / kg <span id="en" >European sprat - fresh (Sprattus sprattus)</span><span id="ro">Șprot european - proaspăt (Sprattus sprattus)</span></td></tr>
+<tr><td>Formula 1</td><td>14.7 RON / kg <span id="en" >Atlantic mackerel - frozen (Scomber scombrus)</span><span id="ro">Scrumbie albastră - congelat (Scomber scombrus)</span> 150-300g</td></tr>
 <tr><td>Formula 2</td><td>16 RON / kg <span id="en" >Thinlip mullet - fresh (Liza Ramada)</span><span id="ro">Platarin - proaspăt (Liza Ramada)</span></td></tr>
-<tr><td>Formula 3</td><td>14.7 RON / kg <span id="en" >Atlantic mackerel - frozen (Scomber scombrus)</span><span id="ro">Scrumbie albastră - congelat (Scomber scombrus)</span> 150-300g</td></tr>
-<tr><td>Formula 4</td><td>20 RON / kg <span id="en" >Gilt-head bream - fresh (Sparus aurata)</span><span id="ro">Doradă - proaspăt (Sparus aurata)</span></td></tr>
-<tr><td>Formula 5</td><td>94 RON / kg <span id="en" >European flounder - fresh (Platichthys flesus)</span><span id="ro">Cambulă - proaspăt (Platichthys flesus)</span></td></tr>
+<tr><td>Formula 3</td><td>20 RON / kg <span id="en" >European anchovy - fresh (Engraulis encrasicolus)</span><span id="ro">Hamsie - proaspăt (Engraulis encrasicolus)</span></td></tr>
+<tr><td>Formula 4</td><td>20 RON / kg <span id="en" >European sprat - fresh (Sprattus sprattus)</span><span id="ro">Șprot european - proaspăt (Sprattus sprattus)</span></td></tr>
+<tr><td>Formula 5</td><td>20 RON / kg <span id="en" >Gilt-head bream - fresh (Sparus aurata)</span><span id="ro">Doradă - proaspăt (Sparus aurata)</span></td></tr>
 <tr><td>Formula 6</td><td>46 RON / kg <span id="en" >Pontic shad - fresh (Alosa immaculata)</span><span id="ro">Scrumbie de Dunăre - proaspăt (Alosa immaculata)</span></td></tr>
-<tr><td>Formula 7</td><td>111 RON / kg <span id="en" >European angler - fresh (Lophius piscatorius)</span><span id="ro">Pește pescar - proaspăt (Lophius piscatorius)</span></td></tr>
-<tr><td>Formula 8</td><td>20 RON / kg <span id="en" >European anchovy - fresh (Engraulis encrasicolus)</span><span id="ro">Hamsie - proaspăt (Engraulis encrasicolus)</span></td></tr>
+<tr><td>Formula 7</td><td>50 RON / kg <span id="en" >Atlantic bonito - fresh  (Sarda sarda)</span><span id="ro">Pălămidă - proaspăt (Sarda sarda)</span></td></tr>
+<tr><td>Formula 8</td><td>94 RON / kg <span id="en" >European flounder - fresh (Platichthys flesus)</span><span id="ro">Cambulă - proaspăt (Platichthys flesus)</span></td></tr>
 <tr><td>Formula 9</td><td>108 RON / kg <span id="en" >Black Sea turbot - fresh  (Scophthalmus maeoticus)</span><span id="ro">Calcan - proaspăt (Scophthalmus maeoticus)</span> 2-2.5kg</td></tr>
 <tr><td>Formula 10</td><td>110 RON / kg <span id="en" >Bluefish - fresh  (Pomatomus saltatrix)</span><span id="ro">Lufăr - proaspăt (Pomatomus saltatrix)</span></td></tr>
-<tr><td>Formula 11</td><td>50 RON / kg <span id="en" >Atlantic bonito - fresh  (Sarda sarda)</span><span id="ro">Pălămidă - proaspăt (Sarda sarda)</span></td></tr>
-<tr><td>Formula 12</td><td>110 RON / kg <span id="en" >Swordfish - fresh  (Xiphias gladius)</span><span id="ro">Pește spadă - proaspăt (Xiphias gladius)</span></td></tr>
+<tr><td>Formula 11</td><td>110 RON / kg <span id="en" >Swordfish - fresh  (Xiphias gladius)</span><span id="ro">Pește spadă - proaspăt (Xiphias gladius)</span></td></tr>
+<tr><td>Formula 12</td><td>111 RON / kg <span id="en" >European angler - fresh (Lophius piscatorius)</span><span id="ro">Pește pescar - proaspăt (Lophius piscatorius)</span></td></tr>
 <tr><td>Formula 13</td><td>0 RON / kg <span id="en" >Tub gurnard - fresh (Chelidonichthys lucerna)</span><span id="ro">Rândunică de mare - proaspăt (Chelidonichthys lucerna)</span></td></tr>
 <tr><td>Formula 14</td><td>0 RON / kg <span id="en" >Black Sea Sprat - fresh (Clupeonella cultriventris)</span><span id="ro">Gingirică - proaspăt (Clupeonella cultriventris)</span></td></tr>
 <tr><td>Formula 15</td><td>0 RON / kg <span id="en" >Common dab - fresh (Limanda limanda)</span><span id="ro">Limandă - proaspăt (Limanda limanda)</span></td></tr>
@@ -28,40 +28,37 @@
 <tr><td>Formula 21</td><td>0 RON / kg <span id="en" >Sabrefish - fresh (Pelecus cultratus)</span><span id="ro">Sabiță - proaspăt (Pelecus cultratus)</span></td></tr>
 <tr><td>Formula 22</td><td>0 RON / kg <span id="en" >Turbot - fresh  (Scophthalmus maximus)</span><span id="ro">Turbot - proaspăt (Scophthalmus maximus)</span></td></tr>
 <tr><td>Formula 23</td><td>0 RON / kg <span id="en" >Common dentex - fresh (Dentex dentex)</span><span id="ro">Dințat - proaspăt (Dentex dentex)</span></td></tr>
-
 <tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various EU suppliers</span><span id="ro">Furnizori din UE</span></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FIS002</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Fresh water fish</span><span id="ro">Pește de apă dulce</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="en">EU</span></td></tr>
 <tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en">Fish calibre size unknown, fish is a seasonal product, it is not fished all year round, suppliers can change there is no contract, prices are only informal</span><span id="en">Calibru lungime pește necunoscut, peștele este un produs sezonier nu se pescuiește tot anul, furnizori se pot schimaba nu există contract, prețul este doar estimativ</span></td></tr>
 
-<tr><td>Formula 1</td><td>0 RON / kg <span id="en" >Prussian carp - fresh (Carassius gibelio)</span><span id="ro">Caras - proaspăt (Carassius gibelio)</span></td></tr>
-<tr><td>Formula 2</td><td>0 RON / kg <span id="en" >European perch - fresh (Perca fluviatilis)</span><span id="ro">Biban european - proaspăt (Perca fluviatilis)</span></td></tr>
-<tr><td>Formula 3</td><td>0 RON / kg <span id="en" >Eurasian carp - fresh (Cyprinus carpio)</span><span id="ro">Crap - proaspăt (Cyprinus carpio)</span></td></tr>
-<tr><td>Formula 4</td><td>0 RON / kg <span id="en" >Bighead carp - fresh (Hypophthalmichthys nobilis)</span><span id="ro">Novac - proaspăt (Hypophthalmichthys nobilis)</span></td></tr>
-<tr><td>Formula 5</td><td>0 RON / kg <span id="en" >Northern pike - fresh (Esox lucius)</span><span id="ro">Știucă - proaspăt (Esox lucius)</span></td></tr>
-<tr><td>Formula 6</td><td>0 RON / kg <span id="en" >Rainbow trout - fresh (Oncorhynchus mykiss)</span><span id="ro">Păstrăv curcubeu - proaspăt (Oncorhynchus mykiss)</span></td></tr>
-<tr><td>Formula 7</td><td>0 RON / kg <span id="en" >Zander - fresh (Sander lucioperca)</span><span id="ro">Șalău - proaspăt (Sander lucioperca)</span></td></tr>
-<tr><td>Formula 8</td><td>0 RON / kg <span id="en" >Common bleak - fresh (Alburnus alburnus)</span><span id="ro">Obleț - proaspăt - lipsă furnizor (Alburnus alburnus)</span></td></tr>
-<tr><td>Formula 9</td><td>0 RON / kg <span id="en" >Tench - fresh  (Tinca tinca)</span><span id="ro">Lin - proaspăt - lipsă furnizor (Tinca tinca)</span></td></tr>
-<tr><td>Formula 10</td><td>0 RON / kg <span id="en" >Vimba - fresh (Vimba vimba)</span><span id="ro">Morunaș - proaspăt - lipsă furnizor (Vimba vimba)</span></td></tr>
-<tr><td>Formula 11</td><td>0 RON / kg <span id="en" >Peipsi whitefish - fresh (Coregonus maraenoides)</span><span id="ro">Coregon - proaspăt - lipsă furnizor (Coregonus maraenoides)</span></td></tr>
-<tr><td>Formula 12</td><td>0 RON / kg <span id="en" >Grass carp - fresh (Ctenopharyngodon idella)</span><span id="ro">Cosaș - proaspăt (Ctenopharyngodon idella)</span></td></tr>
-<tr><td>Formula 13</td><td>0 RON / kg <span id="en" >Ide - fresh (Leuciscus idus)</span><span id="ro">Văduviță - proaspăt - lipsă furnizor (Leuciscus idus)</span></td></tr>
-<tr><td>Formula 14</td><td>0 RON / kg <span id="en" >Common roach - fresh (Rutilus rutilus)</span><span id="ro">Babușcă - proaspăt (Rutilus rutilus)</span></td></tr>
-<tr><td>Formula 15</td><td>0 RON / kg <span id="en" >European chub - fresh (Squalius cephalus)</span><span id="ro">Clean - proaspăt (Squalius cephalus)</span></td></tr>
-<tr><td>Formula 16</td><td>0 RON / kg <span id="en" >River trout - fresh (Salmo trutta fario)</span><span id="ro">Păstrăv de munte - proaspăt (Salmo trutta fario)</span></td></tr>
-
-    <tr><td>Blicca bjoerkna</td><td><span id="en">White bream</span><span id="ro" >Batcă</span></td><td>-</td></tr>    
-    <tr><td>Barbatula barbatula</td><td><span id="en">Stone loach</span><span id="ro" >Grindel</span></td><td>-</td></tr>    
-    <tr><td>Aspius aspius</td><td><span id="en">Asp</span><span id="ro" >Avat</span></td><td>-</td></tr>    
-    <tr><td>Scardinius erythrophthalmus</td><td><span id="en">Common rudd</span><span id="ro" >Roșioară</span></td><td>-</td></tr>    
-    <tr><td>Abramis brama</td><td><span id="en">Common bream</span><span id="ro" >Plătică</span></td><td>-</td></tr>
-    <tr><td>Carassius carassius</td><td><span id="en">Crucian carp</span><span id="ro" >Caracudă</span></td><td>-</td></tr>    
-    <tr><td>Zingel streber</td><td><span id="en">Streber</span><span id="ro" >Fusar</span></td><td>-</td></tr>    
-    <tr><td>Chondrostoma nasus</td><td>Common nase</span><span id="ro" >Scobar</span></td><td>-</td></tr>
-
+<tr><td>Formula 1</td><td>10 RON / kg <span id="en" >Vimba - fresh (Vimba vimba)</span><span id="ro">Morunaș - proaspăt - lipsă furnizor (Vimba vimba)</span></td></tr>
+<tr><td>Formula 2</td><td>11 RON / kg <span id="en" >Common rudd - fresh (Scardinius erythrophthalmus)</span><span id="ro">Roșioară - proaspăt (Scardinius erythrophthalmus)</span></td></tr>
+<tr><td>Formula 3</td><td>12 RON / kg <span id="en" >Common bream - fresh (Abramis brama)</span><span id="ro">Plătică - proaspăt (Abramis brama)</span></td></tr>
+<tr><td>Formula 4</td><td>15 RON / kg <span id="en" >Prussian carp - fresh (Carassius gibelio)</span><span id="ro">Caras - proaspăt (Carassius gibelio)</span></td></tr>
+<tr><td>Formula 5</td><td>17 RON / kg <span id="en" >Bighead carp - fresh (Hypophthalmichthys nobilis)</span><span id="ro">Novac - proaspăt (Hypophthalmichthys nobilis)</span></td></tr>
+<tr><td>Formula 6</td><td>24 RON / kg <span id="en" >Eurasian carp - fresh (Cyprinus carpio)</span><span id="ro">Crap - proaspăt (Cyprinus carpio)</span></td></tr>
+<tr><td>Formula 7</td><td>30 RON / kg <span id="en" >Northern pike - fresh (Esox lucius)</span><span id="ro">Știucă - proaspăt (Esox lucius)</span></td></tr>
+<tr><td>Formula 8</td><td>43 RON / kg <span id="en" >Rainbow trout - fresh (Oncorhynchus mykiss)</span><span id="ro">Păstrăv curcubeu - proaspăt (Oncorhynchus mykiss)</span></td></tr>
+<tr><td>Formula 9</td><td>0 RON / kg <span id="en" >Grass carp - fresh (Ctenopharyngodon idella)</span><span id="ro">Cosaș - proaspăt (Ctenopharyngodon idella)</span></td></tr>
+<tr><td>Formula 10</td><td>0 RON / kg <span id="en" >Common roach - fresh (Rutilus rutilus)</span><span id="ro">Babușcă - proaspăt (Rutilus rutilus)</span></td></tr>
+<tr><td>Formula 11</td><td>0 RON / kg <span id="en" >European chub - fresh (Squalius cephalus)</span><span id="ro">Clean - proaspăt (Squalius cephalus)</span></td></tr>
+<tr><td>Formula 12</td><td>0 RON / kg <span id="en" >River trout - fresh (Salmo trutta fario)</span><span id="ro">Păstrăv de munte - proaspăt (Salmo trutta fario)</span></td></tr>
+<tr><td>Formula 13</td><td>0 RON / kg <span id="en" >European perch - fresh (Perca fluviatilis)</span><span id="ro">Biban european - proaspăt (Perca fluviatilis)</span></td></tr>
+<tr><td>Formula 14</td><td>0 RON / kg <span id="en" >Zander - fresh (Sander lucioperca)</span><span id="ro">Șalău - proaspăt (Sander lucioperca)</span></td></tr>
+<tr><td>Formula 15</td><td>0 RON / kg <span id="en" >Common bleak - fresh (Alburnus alburnus)</span><span id="ro">Obleț - proaspăt (Alburnus alburnus)</span></td></tr>
+<tr><td>Formula 16</td><td>0 RON / kg <span id="en" >Tench - fresh  (Tinca tinca)</span><span id="ro">Lin - proaspăt (Tinca tinca)</span></td></tr>
+<tr><td>Formula 17</td><td>0 RON / kg <span id="en" >Peipsi whitefish - fresh (Coregonus maraenoides)</span><span id="ro">Coregon - proaspăt (Coregonus maraenoides)</span></td></tr>
+<tr><td>Formula 18</td><td>0 RON / kg <span id="en" >White bream - fresh (Blicca bjoerkna)</span><span id="ro">Batcă - proaspăt (Blicca bjoerkna)</span></td></tr>
+<tr><td>Formula 19</td><td>0 RON / kg <span id="en" >Stone loach - fresh (Barbatula barbatula)</span><span id="ro">Grindel - proaspăt (Barbatula barbatula)</span></td></tr>
+<tr><td>Formula 21</td><td>0 RON / kg <span id="en" >Asp - fresh (Aspius aspius)</span><span id="ro">Avat - proaspăt (Aspius aspius)</span></td></tr>
+<tr><td>Formula 22</td><td>0 RON / kg <span id="en" >Crucian carp - fresh (Carassius carassius)</span><span id="ro">Caracudă - proaspăt (Carassius carassius)</span></td></tr>
+<tr><td>Formula 23</td><td>0 RON / kg <span id="en" >Streber - fresh (Zingel streber)</span><span id="ro">Fusar - proaspăt (Carassius carassius)</span></td></tr>
+<tr><td>Formula 24</td><td>0 RON / kg <span id="en" >Common nase - fresh (Chondrostoma nasus)</span><span id="ro">Scobar - proaspăt (Chondrostoma nasus)</span></td></tr>
 <tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various EU suppliers</span><span id="ro">Furnizori din UE</span></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
