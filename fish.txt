@@ -5,21 +5,26 @@
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="en">EU</span></td></tr>
 <tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en">Fish calibre size unknown, fish is a seasonal product, it is not fished all year round, suppliers can change there is no contract, prices are only informal</span><span id="en">Calibru lungime pește necunoscut, peștele este un produs sezonier nu se pescuiește tot anul, furnizori se pot schimaba nu există contract, prețul este doar estimativ</span></td></tr>
 
-<tr><td>Formula 1</td><td>18.8 RON / kg <span id="en" >European sprat - frozen (Sprattus sprattus)</span><span id="ro">Șprot european - congelat (Sprattus sprattus)</span></td></tr>
-<tr><td>Formula 2</td><td>16 RON / kg <span id="en" >Thinlip mullet - fresh (Liza Ramada)</span><span id="ro">Platarin - proaspăt (Liza Ramada)</span> 300-400g</td></tr>
+<tr><td>Formula 1</td><td>20 RON / kg <span id="en" >European sprat - fresh (Sprattus sprattus)</span><span id="ro">Șprot european - proaspăt (Sprattus sprattus)</span></td></tr>
+<tr><td>Formula 2</td><td>16 RON / kg <span id="en" >Thinlip mullet - fresh (Liza Ramada)</span><span id="ro">Platarin - proaspăt (Liza Ramada)</span></td></tr>
 <tr><td>Formula 3</td><td>14.7 RON / kg <span id="en" >Atlantic mackerel - frozen (Scomber scombrus)</span><span id="ro">Scrumbie albastră - congelat (Scomber scombrus)</span> 150-300g</td></tr>
-<tr><td>Formula 4</td><td>20 RON / kg <span id="en" >Gilt-head bream - fresh (Sparus aurata)</span><span id="ro">Doradă - proaspăt (Sparus aurata) 300-400g</span></td></tr>
+<tr><td>Formula 4</td><td>20 RON / kg <span id="en" >Gilt-head bream - fresh (Sparus aurata)</span><span id="ro">Doradă - proaspăt (Sparus aurata)</span></td></tr>
 <tr><td>Formula 5</td><td>94 RON / kg <span id="en" >European flounder - fresh (Platichthys flesus)</span><span id="ro">Cambulă - proaspăt (Platichthys flesus)</span></td></tr>
 <tr><td>Formula 6</td><td>46 RON / kg <span id="en" >Pontic shad - fresh (Alosa immaculata)</span><span id="ro">Scrumbie de Dunăre - proaspăt (Alosa immaculata)</span></td></tr>
-<tr><td>Formula 7</td><td>111 RON / kg <span id="en" >European angler - fresh (Lophius piscatorius)</span><span id="ro">Pește pescar - proaspăt (Lophius piscatorius) 1kg-2kg</span></td></tr>
+<tr><td>Formula 7</td><td>111 RON / kg <span id="en" >European angler - fresh (Lophius piscatorius)</span><span id="ro">Pește pescar - proaspăt (Lophius piscatorius)</span></td></tr>
 <tr><td>Formula 8</td><td>20 RON / kg <span id="en" >European anchovy - fresh (Engraulis encrasicolus)</span><span id="ro">Hamsie - proaspăt (Engraulis encrasicolus)</span></td></tr>
 <tr><td>Formula 9</td><td>108 RON / kg <span id="en" >Black Sea turbot - fresh  (Scophthalmus maeoticus)</span><span id="ro">Calcan - proaspăt (Scophthalmus maeoticus)</span> 2-2.5kg</td></tr>
-
-
-
-
-
-<tr><td>Formula 3</td><td>0 RON / kg <span id="en" >Golden grey mullet - fresh (Chelon aurata)</span><span id="ro">Chefal - proaspăt (Chelon aurata)</span> 300-400g</td></tr>
+<tr><td>Formula 10</td><td>110 RON / kg <span id="en" >Bluefish - fresh  (Pomatomus saltatrix)</span><span id="ro">Lufăr - proaspăt (Pomatomus saltatrix)</span></td></tr>
+<tr><td>Formula 11</td><td>50 RON / kg <span id="en" >Atlantic bonito - fresh  (Sarda sarda)</span><span id="ro">Pălămidă - proaspăt (Sarda sarda)</span></td></tr>
+<tr><td>Formula 12</td><td>110 RON / kg <span id="en" >Swordfish - fresh  (Xiphias gladius)</span><span id="ro">Pește spadă - proaspăt (Xiphias gladius)</span></td></tr>
+<tr><td>Formula 12</td><td>110 RON / kg <span id="en" >Swordfish - fresh  (Xiphias gladius)</span><span id="ro">Pește spadă - proaspăt (Xiphias gladius)</span></td></tr>
+<tr><td>Formula 3</td><td>0 RON / kg <span id="en" >Tub gurnard - fresh (Chelidonichthys lucerna)</span><span id="ro">Rândunică de mare - proaspăt (Chelidonichthys lucerna)</span></td></tr>
+<tr><td>Formula 3</td><td>0 RON / kg <span id="en" >Black Sea Sprat - fresh (Clupeonella cultriventris)</span><span id="ro">Gingirică - proaspăt (Clupeonella cultriventris)</span></td></tr>
+<tr><td>Formula 3</td><td>0 RON / kg <span id="en" >Common dab - fresh (Limanda limanda)</span><span id="ro">Limandă - proaspăt (Limanda limanda)</span></td></tr>
+<tr><td>Formula 3</td><td>0 RON / kg <span id="en" >Boston blue - fresh (Pollachius virens)</span><span id="ro">Cod negru - proaspăt (Pollachius virens)</span></td></tr>
+<tr><td>Formula 3</td><td>0 RON / kg <span id="en" >Atlantic herring - fresh (Clupea harengus)</span><span id="ro">Hering de Atlantic - proaspăt (Clupea harengus)</span></td></tr>
+<tr><td>Formula 3</td><td>0 RON / kg <span id="en" >Round sardinella - fresh (Sardinella aurita)</span><span id="ro">Sardeluță - proaspăt (Sardinella aurita)</span></td></tr>
+<tr><td>Formula 3</td><td>0 RON / kg <span id="en" >Golden grey mullet - fresh (Chelon aurata)</span><span id="ro">Chefal - proaspăt (Chelon aurata)</span></td></tr>
 <tr><td>Formula 4</td><td>0 RON / kg <span id="en" >Black Sea shad - fresh (Alosa tanaica)</span><span id="ro">Rizeafcă - proaspăt (Alosa tanaica)</span></td></tr>
 <tr><td>Formula 11</td><td>0 RON / kg <span id="en" >Sabrefish - fresh (Pelecus cultratus)</span><span id="ro">Sabiță - proaspăt (Pelecus cultratus)</span></td></tr>
 <tr><td>Formula 12</td><td>0 RON / kg <span id="en" >Turbot - fresh  (Scophthalmus maximus)</span><span id="ro">Turbot - proaspăt (Scophthalmus maximus)</span></td></tr>
@@ -49,6 +54,15 @@
 <tr><td>Formula 15</td><td>0 RON / kg <span id="en" >European chub - fresh (Squalius cephalus)</span><span id="ro">Clean - proaspăt (Squalius cephalus)</span></td></tr>
 <tr><td>Formula 16</td><td>0 RON / kg <span id="en" >River trout - fresh (Salmo trutta fario)</span><span id="ro">Păstrăv de munte - proaspăt (Salmo trutta fario)</span></td></tr>
 
+    <tr><td>Blicca bjoerkna</td><td><span id="en">White bream</span><span id="ro" >Batcă</span></td><td>-</td></tr>    
+    <tr><td>Barbatula barbatula</td><td><span id="en">Stone loach</span><span id="ro" >Grindel</span></td><td>-</td></tr>    
+    <tr><td>Aspius aspius</td><td><span id="en">Asp</span><span id="ro" >Avat</span></td><td>-</td></tr>    
+    <tr><td>Scardinius erythrophthalmus</td><td><span id="en">Common rudd</span><span id="ro" >Roșioară</span></td><td>-</td></tr>    
+    <tr><td>Abramis brama</td><td><span id="en">Common bream</span><span id="ro" >Plătică</span></td><td>-</td></tr>
+    <tr><td>Carassius carassius</td><td><span id="en">Crucian carp</span><span id="ro" >Caracudă</span></td><td>-</td></tr>    
+    <tr><td>Zingel streber</td><td><span id="en">Streber</span><span id="ro" >Fusar</span></td><td>-</td></tr>    
+    <tr><td>Chondrostoma nasus</td><td>Common nase</span><span id="ro" >Scobar</span></td><td>-</td></tr>
+
 <tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various EU suppliers</span><span id="ro">Furnizori din UE</span></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
@@ -77,33 +91,12 @@ if (class_ro === "new") {
 <!--
 
   
-    <tr><td>Barbatula barbatula</td><td><span id="en">Stone loach</span><span id="ro" >Grindel</span></td><td>-</td></tr>    
-    <tr><td>Pomatomus saltatrix</td><td><span id="en">Bluefish</span><span id="ro" >Lufăr</span></td><td>-</td></tr>
-    <tr><td>Sarda sarda</td><td><span id="en">Atlantic bonito</span><span id="ro" >Pălămidă cu spate dungat</span></td><td>-</td></tr>    
-    <tr><td>Coris julis</td><td><span id="en">Mediterranean rainbow wrasse</span><span id="ro" >Pește păun</span></td><td>-</td></tr>    
-    <tr><td>Xiphias gladius</td><td><span id="en">Swordfish</span><span id="ro" >Pește spadă</span></td><td>-</td></tr>    
-    <tr><td>Sardinella aurita</td><td><span id="en">Round sardinella</span><span id="ro" >Sardeluță</span></td><td>-</td></tr> 
-    <tr><td>Clupea harengus</td><td><span id="en">Atlantic herring</span><span id="ro" >Hering de Atlantic </span></td><td>-</td></tr>    
-    <tr><td>Pollachius virens</td><td><span id="en">Boston blue</span><span id="ro" >Cod negru</span></td><td>-</td></tr>    
-    <tr><td>Hippoglossus stenolepis</td><td><span id="en">Pacific halibut</span><span id="ro" >Halibut de Pacific</span></td><td>-</td></tr>    
-    <tr><td>Limanda limanda</td><td><span id="en">Common dab</span><span id="ro" >Limandă</span></td><td>-</td></tr>
-    <tr><td>Chelidonichthys lucerna</td><td><span id="en">Tub gurnard</span><span id="ro" >Rândunică de mare</span></td><td>-</td></tr>    
+  
+
+
     <tr><td>Thunnus alalunga</td><td><span id="en">Longfin tuna</span><span id="ro" >Ton alb</span></td><td>-</td></tr>    
     <tr><td>Thunnus albacares</td><td><span id="en">Yellowfin tuna</span><span id="ro" >Ton cu aripioare galbene</span></td><td>-</td></tr>    
     <tr><td>Thunnus tonggol</td><td><span id="en">Northern Bluefin Tuna</span><span id="ro" >Ton cu aripioare albastre de nord</span></td><td>-</td></tr>
-    <tr><td>Clupeonella cultriventris</td><td><span id="en">Black Sea Sprat</span><span id="ro" >Gingirică</span></td><td>-</td></tr> 
-    <tr><td>Rutilus frisii</td><td><span id="en">Vyrezub</span><span id="ro" >Virezub</span></td><td>-</td></tr>    
-    <tr><td>Aspius aspius</td><td><span id="en">Asp</span><span id="ro" >Avat</span></td><td>-</td></tr>    
-    <tr><td>Scardinius erythrophthalmus</td><td><span id="en">Common rudd</span><span id="ro" >Roșioară</span></td><td>-</td></tr>    
-    <tr><td>Abramis brama</td><td><span id="en">Common bream</span><span id="ro" >Plătică</span></td><td>-</td></tr>
-    <tr><td>Blicca bjoerkna</td><td><span id="en">White bream</span><span id="ro" >Batcă</span></td><td>-</td></tr>    
-    <tr><td>Carassius carassius</td><td><span id="en">Crucian carp</span><span id="ro" >Caracudă</span></td><td>-</td></tr>    
-    <tr><td>Zingel streber</td><td><span id="en">Streber</span><span id="ro" >Fusar</span></td><td>-</td></tr>    
-    <tr><td>Chondrostoma nasus</td><td>Common nase</span><span id="ro" >Scobar</span></td><td>-</td></tr>
-
-
-
-
     <tr><td>Micromesistius australis</td><td><span id="en">Southern Blue Whiting HGT</span><span id="ro" >Merlan de sud</span></td><td>-</td></tr>
     <tr><td>Trachurus declivis</td><td><span id="en">Jack Mackerel</span><span id="ro" >Stavrid negru</span></td><td>-</td></tr>
     <tr><td>Trachurus murphyi</td><td><span id="en">Peruvian Jack Mackerel</span><span id="ro" >Stavrid peruan</span></td><td>-</td></tr>
