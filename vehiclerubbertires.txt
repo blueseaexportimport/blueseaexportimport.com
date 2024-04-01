@@ -48,14 +48,3 @@ if (class_ro === "new") {
 </script>
 
 
-<!--
-<tr><td>Formula 1</td><td>- RON / <span id="en" >pcs</span><span id="ro">buc</span> 155/78/R13</td></tr>
-<tr><td>Formula 1</td><td>- RON / <span id="en" >pcs</span><span id="ro">buc</span> 165/70/R15</td></tr>
-<tr><td>Formula 1</td><td>- RON / <span id="en" >pcs</span><span id="ro">buc</span> 175/C99/R14</td></tr>
-
-       <tr><td>Rubber Caster Wheel</td><td>-</td><td>-</td></tr>
-       <tr><td>Agricultural Tyre/td><td>-</td><td>-</td></tr>
-       <tr><td>Industrial Tyre</td><td>-</td><td>-</td></tr>
-       <tr><td>Bicycle Tyre</td><td>-</td><td>-</td></tr>
-       <tr><td>Kids Bike</td><td>-</td><td>-</td></tr>
--->
