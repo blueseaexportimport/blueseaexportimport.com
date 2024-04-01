@@ -829,6 +829,22 @@ $(document).ready(function () {
    });
   // Grab natural rubber info on click end
 
+  // Grab vehiclerubbertires info on click start
+  $("#vehiclerubbertiresbtn").click(function() {
+    if ($("#vehiclerubbertires").hasClass("clickedvehiclerubbertires")) {
+        // already been clicked once, hide it
+        $("#vehiclerubbertires").html("");
+        $( "#vehiclerubbertires" ).removeClass( "clickedvehiclerubbertires" )
+    }else {
+        // first time this is clicked, mark it
+        $("#vehiclerubbertires").addClass("clickedvehiclerubbertires");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/vehiclerubbertires.txt", success: function(result){
+         $("#nvehiclerubbertires").html(result);
+        }});
+    }
+   });
+  // Grab vehiclerubbertires info on click end
+
   // Grab fresheners info on click start
   $("#freshenersbtn").click(function() {
     if ($("#fresheners").hasClass("clickedfresheners")) {
@@ -2399,7 +2415,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div>
   </div></li><!--END SECTION-->	 
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>O. ELECTRIC VEHICLES SEMIFABRICATED PARTS (0)</b></span> <span id="ro"><b>O. PIESE SEMIFABRICATE VEHICULE ELECTRICE (0)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>O. ELECTRIC VEHICLES SEMIFABRICATED PARTS (1)</b></span> <span id="ro"><b>O. PIESE SEMIFABRICATE VEHICULE ELECTRICE (1)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Body  </span><span id="ro">Caroserie</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Closure Components </span><span id="ro">Componente Închidere</span></h5>    
@@ -2432,8 +2448,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Brakes</span><span id="ro">Frânare</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Rubber Tires, Inner Tubes and Rims</span><span id="ro">Anvelope, Tuburi interioare și Jante</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="vehiclerubbertiresbtn" ><span id="en">Rubber Tires, Inner Tubes and Rims (1)</span><span id="ro">Anvelope, Tuburi interioare și Jante (1)</span></h5>    
+   <table id="vehiclerubbertires" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>
   <h5 class="categoryaccordion" ><span id="en">Wheel covers</span><span id="ro">Capace roți</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Drive Unit</span><span id="ro">Unitate de antrenare</span></h5>   
