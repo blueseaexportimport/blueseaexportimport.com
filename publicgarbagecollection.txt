@@ -66,7 +66,7 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PGC006</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PGC007</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Street cleaning broom Mass 872</span><span id="ro">Matură stradală Mass 872</span></td></tr>
 <tr><td><span id="en" >Tail length</span><span id="ro">Lungime coada</span></td><td style="color:#39ff14;" >120 cm</td></tr>
 <tr><td><span id="en" >Tail dim.</span><span id="ro">Dim. coada</span></td><td style="color:#39ff14;" >23 mm</td></tr>
