@@ -6,25 +6,7 @@
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="ro">UE</span></td></tr>
 <tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en">Compatible with Dacia cars</span><span id="ro">Compatibile cu mașini Dacia</span></td></tr>
 
-<tr><td>Formula 1</td><td>198.1 RON / <span id="en" >pcs - summer</span><span id="ro">buc - vară</span> 155/70/R13 75T brand Viking City II DOT 2023</td></tr>
-<tr><td>Formula 2</td><td>208.5 RON / <span id="en" >pcs - winter</span><span id="ro">buc - iarnă</span> 155/70/R13 75T brand Barum Polaris 5 DOT 2023</td></tr>
-<tr><td>Formula 3</td><td>218.5 RON / <span id="en" >pcs - summer</span><span id="ro">buc - vară</span> 165/70/R13 79T brand Viking City Tech II DOT 2024</td></tr>
-<tr><td>Formula 4</td><td>225.9 RON / <span id="en" >pcs - winter</span><span id="ro">buc - iarnă</span> 165/70/R13 79T brand Barum Polaris 5 DOT 2023</td></tr>
-<tr><td>Formula 5</td><td>216.5 RON / <span id="en" >pcs - summer</span><span id="ro">buc - vară</span> 165/70/R14 81T brand Viking City Tech II DOT 2023</td></tr>
-<tr><td>Formula 6</td><td>219.5 RON / <span id="en" >pcs - winter</span><span id="ro">buc - iarnă</span> 165/70/R14 81T brand Viking Wintech DOT 2023</td></tr>
-<tr><td>Formula 7</td><td>178.4 RON / <span id="en" >pcs - summer</span><span id="ro">buc - vară</span> 165/65/R14 79T brand Viking City Tech II DOT 2022</td></tr>
-<tr><td>Formula 8</td><td>228.3 RON / <span id="en" >pcs - winter</span><span id="ro">buc - iarnă</span> 165/70/R14 79T brand Viking Wintech DOT 2023</td></tr>
-<tr><td>Formula 9</td><td>255.3 RON / <span id="en" >pcs - summer</span><span id="ro">buc - vară</span> 185/65/R15 88T brand Viking Pro Tech Newgen DOT 2023</td></tr>
-<tr><td>Formula 10</td><td>243.9 RON / <span id="en" >pcs - winter</span><span id="ro">buc - iarnă</span> 185/65/R15 88T brand Viking Wintech DOT 2023</td></tr>
-<tr><td>Formula 18</td><td>545.8 RON / <span id="en" >pcs - summer</span><span id="ro">buc - vară</span> 195/55/R16 87H brand Continental Ultra Contact DOT 2024</td></tr>
-<tr><td>Formula 18</td><td>580.1 RON / <span id="en" >pcs - winter</span><span id="ro">buc - iarnă</span> 195/55/R16 87H brand Continental Winter Contact DOT 2023</td></tr>
-<tr><td>Formula 11</td><td>335.7 RON / <span id="en" >pcs - summer</span><span id="ro">buc - vară</span> 205/60/R16 92H brand Viking Pro Tech Newgen DOT 2023</td></tr>
-<tr><td>Formula 12</td><td>325.7 RON / <span id="en" >pcs - winter</span><span id="ro">buc - iarnă</span> 205/60/R16 92H brand Viking Wintech DOT 2023</td></tr>
-<tr><td>Formula 13</td><td>274.9 RON / <span id="en" >pcs - summer</span><span id="ro">buc - vară</span> 205/55/R16 91V brand Viking Pro Tech Newgen DOT 2023</td></tr>
-<tr><td>Formula 14</td><td>309 RON / <span id="en" >pcs - winter</span><span id="ro">buc - iarnă</span> 205/55/R16 91T brand Barum Polaris 5 DOT 2023</td></tr>
-<tr><td>Formula 15</td><td>335.7 RON / <span id="en" >pcs - summer</span><span id="ro">buc - vară</span> 205/60/R16 96H brand Viking Pro Tech Newgen DOT 2023</td></tr>
-<tr><td>Formula 16</td><td>325.7 RON / <span id="en" >pcs - winter</span><span id="ro">buc - iarnă</span> 205/60/R16 96H brand Viking Wintech DOT 2023</td></tr>
-<tr><td>Formula 17</td><td>385.1 RON / <span id="en" >pcs - summer</span><span id="ro">buc - vară</span> 215/65/R16 98H brand Viking Pro Tech Newgen DOT 2024</td></tr>
+test 
 
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.continental.com/ro-ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 
