@@ -839,7 +839,7 @@ $(document).ready(function () {
         // first time this is clicked, mark it
         $("#vehiclerubbertires").addClass("clickedvehiclerubbertires");
          $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/vehiclerubbertires.txt", success: function(result){
-         $("#nvehiclerubbertires").html(result);
+         $("#vehiclerubbertires").html(result);
         }});
     }
    });
