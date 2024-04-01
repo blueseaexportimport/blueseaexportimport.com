@@ -1,5 +1,4 @@
 
-       <tr><td></td><td>-</td><td>-</td></tr>
 <tbody>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">RBT001</td></tr>
