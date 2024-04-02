@@ -199,6 +199,24 @@ $(document).ready(function () {
    });
   // Grab flowersandornamentalplants on click end
 
+ // Grab plants seeds info on click start
+  $("#plantsseedsbtn").click(function() {
+    if ($("#plantsseeds").hasClass("clickedplantsseeds")) {
+        // already been clicked once, hide it
+        $("#plantsseeds").html("");
+        $( "#plantsseeds" ).removeClass( "clickedplantsseeds" )
+    }else {
+        // first time this is clicked, mark it
+        $("#plantsseeds").addClass("clickedplantsseeds");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/plantsseeds.txt", success: function(result){
+         $("#plantsseeds").html(result);
+        }});
+    }
+   });
+  // Grab plants seeds on click end
+
+	
+
 
   // Grab fish info on click start
   $("#fishbtn").click(function() {
