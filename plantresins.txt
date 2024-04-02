@@ -1,5 +1,41 @@
+<tbody>
 
-    <tr><td><span id="en">Mastic ( Pistacia lentiscus - no impurities ) </span><span id="ro">Mastic ( Pistacia lentiscus - fără impurități ) </span></td><td>-</td><td>-</td></tr>  
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">RES0001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Chios Mastiha ( Pistacia lentiscus - no impurities ) - The Chios Gum Mastic Growers Association 
+ </span><span id="ro">Mastic de Chios ( Pistacia lentiscus - fără impurități ) - Asociația Producătorilor de Mastic din Chios</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Greece</span><span id="ro">Grecia</span></td></tr>
+
+<tr><td>Formula 1</td><td>20,70 € / 100g<span id="en"> Natural Chios Mastiha Large Tears</span><span id="ro"> Lacrimi mari Mastic de Chios</span></td></tr>
+<tr><td>Formula 2</td><td>10,85 € / 50g<span id="en"> Natural Chios Mastiha Medium Tears</span><span id="ro"> Lacrimi medii Mastic de Chios</span></td></tr>
+<tr><td>Formula 3</td><td>10,85 € / 50g<span id="en"> Natural Chios Mastiha Small Tears</span><span id="ro"> Lacrimi mici Mastic de Chios</span></td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://mastihashop.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
+
+
+</tbody>
+
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
+
+
+<!--
+
+
+
     <tr><td><span id="en">Tolu balsam ( Myroxylon balsamum var. balsamum - no impurities  ) </span><span id="ro">Balsam de Tolu ( Myroxylon balsamum var. balsamum - fără impurități  )</span></td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Peru balsam ( Myroxylon balsamum var. pereirae - no impurities  ) </span><span id="ro">Balsam de Peru ( Myroxylon balsamum var. pereirae - fără impurități  )</span></td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Copalm balsam ( Liquidambar styraciflua - no impurities  ) </span><span id="ro">Styrax ( Liquidambar styraciflua - fără impurități   )</span></td><td>-</td><td>-</td></tr>  
@@ -9,3 +45,6 @@
     <tr><td><span id="en">Pine resin ( Pinus - no impurities  ) </span><span id="ro">Rășină de pin ( Pinus - fără impurități  )</span></td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Spruce resin ( Picea abies - no impurities  ) </span><span id="ro">Rășină de molid ( Picea abies - fără impurități  )</span></td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Frankincense ( Boswellia sacra - no impurities  ) </span><span id="ro">Tămâie ( Boswellia sacra - fără impurități  )</span></td><td>-</td><td>-</td></tr> 
+
+
+-->
