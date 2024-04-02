@@ -36,7 +36,6 @@ if (class_ro === "new") {
 
 
 
-    <tr><td><span id="en">Tolu balsam ( Myroxylon balsamum var. balsamum - no impurities  ) </span><span id="ro">Balsam de Tolu ( Myroxylon balsamum var. balsamum - fără impurități  )</span></td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Peru balsam ( Myroxylon balsamum var. pereirae - no impurities  ) </span><span id="ro">Balsam de Peru ( Myroxylon balsamum var. pereirae - fără impurități  )</span></td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Copalm balsam ( Liquidambar styraciflua - no impurities  ) </span><span id="ro">Styrax ( Liquidambar styraciflua - fără impurități   )</span></td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Opopanax ( Commiphora guidottii - no impurities  ) </span><span id="ro">Opopanax ( Commiphora guidottii - fără impurități   )</span></td><td>-</td><td>-</td></tr>  
