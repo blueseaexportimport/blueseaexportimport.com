@@ -2,6 +2,37 @@
 
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PLS0001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Grains seeds - I.N.C.D.A. Fundulea</span><span id="ro">Semințe cereale - I.N.C.D.A. Fundulea</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>2 RON / kg S.C.D.A. Turda <span id="en">Spring Barley Seeds ( Hordeum vulgare ) - variety</span><span id="ro">Semințe orz de primăvară ( Hordeum vulgare ) - soi</span> ( ROMANIȚA / DACIANA )</td></tr>
+<tr><td>Formula 2</td><td>2 RON / kg S.C.D.A. Turda <span id="en">Spring Wheat Seeds ( Triticum  ) - variety</span><span id="ro">Semințe grâu de primăvară ( Triticum  ) - soi</span> ( PĂDURENI / TAISA )</td></tr>
+<tr><td>Formula 3</td><td>2.2 RON / kg S.C.D.A. Turda <span id="en">Oat Seeds ( Avena sativa ) - variety</span><span id="ro">Semințe ovăz ( Avena sativa ) - soi</span> ( MUREȘANA )</td></tr>
+<tr><td>Formula 4</td><td>2.3 RON / kg S.C.D.A. Pitești <span id="en">Untreated Oat Seeds ( Avena sativa ) - variety</span><span id="ro">Semințe ovăz netratate ( Avena sativa ) - soi</span> ( MUREȘANA )</td></tr>
+<tr><td>Formula 5</td><td>2.4 RON / kg S.C.D.A. Brăila <span id="en">Untreated Wheat Seeds ( Triticum  ) - variety</span><span id="ro">Semințe grâu netratat ( Triticum  ) - soi</span> ( GLOSA / MIRANDA / PITAR / URSITA / VOINIC )</td></tr>
+<tr><td>Formula 6</td><td>2.4 RON / kg S.C.D.A. Brăila <span id="en">Untreated Barley Seeds ( Hordeum vulgare ) - variety</span><span id="ro">Semințe orz netratate ( Hordeum vulgare ) - soi</span> ( LUCIAN / CARDINAL / SMARALD )</td></tr>
+<tr><td>Formula 7</td><td>4 RON / kg I.N.C.D.A. Fundulea <span id="en">Chickpea Seeds ( Cicer arietinum ) - variety</span><span id="ro">Semințe Năut ( Cicer arietinum ) - soi</span> ( BURNAS )</td></tr>
+<tr><td>Formula 8</td><td>5 RON / kg I.N.C.D.A. Fundulea <span id="en">Millet - variety</span><span id="ro">Mei - soi</span> ( MARIUS )</td></tr>
+<tr><td>Formula 9</td><td>5 RON / kg I.N.C.D.A. Fundulea <span id="en">Peas Seeds ( Pisum sativum ) - variety</span><span id="ro">Semințe mazăre ( Pisum sativum ) - soi</span> ( NICOLETA )</td></tr>
+<tr><td>Formula 10</td><td>6.2 RON / kg S.C.D.A. Turda <span id="en">Soybean Seeds ( Glycine max ) - variety</span><span id="ro">Semințe soia ( Glycine max ) - soi</span> ( ONIX / FELIX / IRIS TD / RALUCA TD )</td></tr>
+<tr><td>Formula 11</td><td>10 RON / kg S.C.D.A. Turda <span id="en">Corn Seeds - variety</span><span id="ro">Semințe porumb - soi</span> ( TURDA 165 / TURDA 200 / TURDA STAR / TURDA 332 / TURDA 344 / TURDA 2020 / TURDA 380 )</td></tr>
+<tr><td>Formula 12</td><td>75 RON / kg S.C.D.A. Turda <span id="en">Sweet Corn Seeds - variety</span><span id="ro">Semințe porumb zaharat - soi</span> ( DELICIUL VERII )</td></tr>
+
+<tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.incda-fundulea.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PLS0002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Grains seeds - I.N.C.D.A. Fundulea</span><span id="ro">Semințe cereale - I.N.C.D.A. Fundulea</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>23 RON / kg S.C.D.A. Turda <span id="en">Alfalfa ( Medicago sativa ) - variety</span><span id="ro">Semințe lucernă ( Medicago sativa ) - soi</span> ( TEODORA )</td></tr>
+
+<tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.incda-fundulea.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PLS0003</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Vegetables seeds - S.C.D.L. Buzău</span><span id="ro">Semințe legume - S.C.D.L. Buzău</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
 
@@ -87,7 +118,7 @@
 <tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://scdlbuzau.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PLS0002</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PLS0004</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Spices and Herbs - S.C.D.L. Buzău</span><span id="ro">Ierburi și Condimente - S.C.D.L. Buzău</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
 
@@ -112,14 +143,12 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PLS0003</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PLS0005</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Medicinal Plants - S.C.D.L. Buzău</span><span id="ro">Plante medicinale - S.C.D.L. Buzău</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
 
-
 <tr><td>Formula 1</td><td>300 RON / kg <span id="en">Rheum Variety</span><span id="ro">Revent Soi</span> Matei</td></tr>
 <tr><td>Formula 2</td><td>5000 RON / kg <span id="en">Mursalski Chai Variety</span><span id="ro">Mursalski Chai (Iarba de fier) Soi</span> Matei</td></tr>
-
 
 <tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://scdlbuzau.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
@@ -128,6 +157,9 @@
 
 
 
+  
+       
+  
 
 
 
