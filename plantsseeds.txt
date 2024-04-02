@@ -1,1 +1,254 @@
+<tbody>
 
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PLS0001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Vegetables seeds - S.C.D.L. Buzău</span><span id="ro">Semințe legume - S.C.D.L. Buzău</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+
+<tr><td>Formula 1</td><td>5 RON / kg <span id="en">Dwarf Jerusalem artichoke rose Variety</span><span id="ro">Topinambur pitic roz Soi</span> Dacic</td></tr>
+<tr><td>Formula 2</td><td>5 RON / kg <span id="en">White Jerusalem artichoke Variety</span><span id="ro">Topinambur alb Soi</span> Flavius</td></tr>
+<tr><td>Formula 3</td><td>5 RON / kg <span id="en">Jerusalem artichoke rose Variety</span><span id="ro">Topinambur roz Soi</span> Rares</td></tr>
+
+<tr><td>Formula 4</td><td>15 RON / kg <span id="en">Peas Variety</span><span id="ro">Mazăre Soi</span> Getica</td></tr>
+
+<tr><td>Formula 5</td><td>50 RON / kg <span id="en">Dwarf beans Variety</span><span id="ro">Fasole pitică Soi</span> Menuet</td></tr>
+<tr><td>Formula 6</td><td>60 RON / kg <span id="en">Green field beans Variety</span><span id="ro">Fasole de câmp verde Soi</span> Doina</td></tr>
+<tr><td>Formula 7</td><td>100 RON / kg <span id="en">Green climbing beans Variety</span><span id="ro">Fasole urcătoare verde Soi</span> Teodora</td></tr>
+
+<tr><td>Formula 8</td><td>200 RON / kg <span id="en">Eggplants Variety</span><span id="ro">Pătlăgele Vinete Soi</span> Zaraza</td></tr>
+<tr><td>Formula 9</td><td>300 RON / kg <span id="en">Eggplants Variety</span><span id="ro">Pătlăgele Vinete Soi</span> Drăgaica</td></tr>
+<tr><td>Formula 10</td><td>300 RON / kg <span id="en">Eggplants Variety Green</span><span id="ro">Pătlăgele Vinete Soi Verde</span> Iarina</td></tr>
+<tr><td>Formula 11</td><td>10000 RON / kg <span id="en">Eggplants Variety</span><span id="ro">Pătlăgele Vinete Soi</span> Rebeca F1</td></tr>
+
+<tr><td>Formula 12</td><td>300 RON / kg <span id="en">White Cabbage Variety</span><span id="ro">Varză albă Soi</span> Buzoiana</td></tr>
+<tr><td>Formula 13</td><td>300 RON / kg <span id="en">White Cabbage Variety</span><span id="ro">Varză albă Soi</span> de Buzău</td></tr>
+<tr><td>Formula 14</td><td>400 RON / kg <span id="en">White Cabbage Variety</span><span id="ro">Varză albă Soi</span> de Ișalnița</td></tr>
+<tr><td>Formula 15</td><td>400 RON / kg <span id="en">White Cabbage Variety</span><span id="ro">Varză albă Soi</span> Magura</td></tr>
+
+<tr><td>Formula 16</td><td>300 RON / kg <span id="en">Cantaloupe Variety</span><span id="ro">Pepene galben Soi</span> Fondant</td></tr>
+<tr><td>Formula 17</td><td>300 RON / kg <span id="en">Watermelon Variety</span><span id="ro">Pepene verde Soi</span> Dochita</td></tr>
+
+<tr><td>Formula 18</td><td>300 RON / kg <span id="en">Red radish Variety</span><span id="ro">Ridichie de Luna Soi</span> Anița</td></tr>
+<tr><td>Formula 19</td><td>300 RON / kg <span id="en">Black radish Variety</span><span id="ro">Ridichie neagră Soi</span> Iulia</td></tr>
+
+<tr><td>Formula 20</td><td>350 RON / kg <span id="en">Carrots Variety</span><span id="ro">Morcovi Soi</span> Nabuco</td></tr>
+<tr><td>Formula 21</td><td>350 RON / kg <span id="en">Parsnips Variety</span><span id="ro">Păstârnac Soi</span> Daniel</td></tr>
+<tr><td>Formula 22</td><td>350 RON / kg <span id="en">Red Beet Variety</span><span id="ro">Sfeclă roșie Soi</span> Reta</td></tr>
+<tr><td>Formula 23</td><td>400 RON / kg <span id="en">White Onion Variety</span><span id="ro">Ceapă albă Soi</span> de Buzău</td></tr>
+
+<tr><td>Formula 24</td><td>400 RON / kg <span id="en">Red Okra Variety</span><span id="ro">Bame rosii Soi</span> Adela</td></tr>
+<tr><td>Formula 25</td><td>400 RON / kg <span id="en">Green Okra Variety</span><span id="ro">Bame verzi Soi</span> Smaranda</td></tr>
+
+<tr><td>Formula 26</td><td>550 RON / kg <span id="en">Red Onion Variety</span><span id="ro">Ceapă Roșie Soi</span> Rubiniu</td></tr>
+<tr><td>Formula 27</td><td>600 RON / kg <span id="en">Celery for root Variety</span><span id="ro">Țelină pentru rădăcină Soi</span> Dacia</td></tr>
+
+
+<tr><td>Formula 28</td><td>1000 RON / kg <span id="en">Tomatoes Variety</span><span id="ro">Roșii Soi</span> Kristinica</span></td></tr>
+<tr><td>Formula 29</td><td>1000 RON / kg <span id="en">Tomatoes Variety</span><span id="ro">Roșii Soi</span> Măriuca</span></td></tr>
+<tr><td>Formula 30</td><td>1100 RON / kg <span id="en">Tomatoes Variety</span><span id="ro">Roșii Soi</span> Buzău 22</td></tr>
+<tr><td>Formula 31</td><td>1100 RON / kg <span id="en">Tomatoes Variety</span><span id="ro">Roșii Soi</span> Buzău 47</span></td></tr>
+<tr><td>Formula 32</td><td>1100 RON / kg <span id="en">Tomatoes Variety</span><span id="ro">Roșii Soi</span> Darsirius</span></td></tr>
+<tr><td>Formula 33</td><td>1100 RON / kg <span id="en">Tomatoes Variety</span><span id="ro">Roșii Soi</span> Florina 44</span></td></tr>
+<tr><td>Formula 34</td><td>1200 RON / kg <span id="en">Tomatoes Variety</span><span id="ro">Roșii Soi</span> Chihlimbar</span></td></tr>
+<tr><td>Formula 35</td><td>1500 RON / kg <span id="en">Tomatoes Variety</span><span id="ro">Roșii Soi</span> Nectaria</span></td></tr>
+<tr><td>Formula 36</td><td>1500 RON / kg <span id="en">Tomatoes Variety</span><span id="ro">Roșii Soi</span> Florelia</span></td></tr>
+<tr><td>Formula 37</td><td>2500 RON / kg <span id="en">Tomatoes Variety</span><span id="ro">Roșii Soi</span> Ovidia</span></td></tr>
+<tr><td>Formula 38</td><td>5000 RON / kg <span id="en">Tomatoes Variety</span><span id="ro">Roșii Soi</span> Andrada</span></td></tr>
+<tr><td>Formula 39</td><td>5000 RON / kg <span id="en">Tomatoes Variety</span><span id="ro">Roșii Soi</span> Siriana F1</span></td></tr>
+
+<tr><td>Formula 40</td><td>2500 RON / kg <span id="en">Tomatoes Variety Cherry</span><span id="ro">Roșii Soi Cherry</span> Ema de Buzău</td></tr>
+<tr><td>Formula 41</td><td>2500 RON / kg <span id="en">Tomatoes Variety Cherry</span><span id="ro">Roșii Soi Cherry</span> Carolina</span></td></tr>
+<tr><td>Formula 42</td><td>2500 RON / kg <span id="en">Tomatoes Variety Cherry</span><span id="ro">Roșii Soi Cherry</span> Carisma</td></tr>
+<tr><td>Formula 43</td><td>2500 RON / kg <span id="en">Tomatoes Variety Cherry</span><span id="ro">Roșii Soi Cherry</span> Sonia de Buzău</td></tr>
+
+<tr><td>Formula 44</td><td>1300 RON / kg <span id="en">Gogoșari peppers Variety</span><span id="ro">Ardei Gogoșari Soi</span> Splendens</td></tr>
+<tr><td>Formula 45</td><td>1300 RON / kg <span id="en">Long peppers Variety</span><span id="ro">Ardei lungi Soi</span> Cosmin</td></tr>
+<tr><td>Formula 46</td><td>1300 RON / kg <span id="en">Long peppers Variety</span><span id="ro">Ardei lungi Soi</span> Regal</td></tr>
+<tr><td>Formula 47</td><td>1300 RON / kg <span id="en">Bell peppers Variety</span><span id="ro">Ardei grași Soi</span> Buzau 10</td></tr>
+<tr><td>Formula 48</td><td>1300 RON / kg <span id="en">Bell peppers Variety Yellow</span><span id="ro">Ardei grași Soi Galben</span> Superior</td></tr>
+<tr><td>Formula 49</td><td>1500 RON / kg <span id="en">Bell peppers Variety</span><span id="ro">Ardei grași Soi</span> Cantemir</td></tr>
+<tr><td>Formula 50</td><td>2500 RON / kg <span id="en">Hot peppers Variety</span><span id="ro">Ardei iuți Soi</span> Jovial</td></tr>
+<tr><td>Formula 51</td><td>2500 RON / kg <span id="en">Hot peppers Variety</span><span id="ro">Ardei iuți Soi</span> Roial</td></tr>
+<tr><td>Formula 52</td><td>2500 RON / kg <span id="en">Hot peppers Variety</span><span id="ro">Ardei iuți Soi</span> Vladimir</td></tr>
+
+
+<tr><td>Formula 53</td><td>2000 RON / kg <span id="en">Bitter melon Variety</span><span id="ro">Castraveți amari Soi</span> Rodeo</td></tr>
+<tr><td>Formula 54</td><td>2000 RON / kg <span id="en">Bitter melon Variety</span><span id="ro">Castraveți amari Soi</span> Brancusi</td></tr>
+<tr><td>Formula 55</td><td>2300 RON / kg <span id="en">Kiwano Variety</span><span id="ro">Castraveți Kiwano Soi</span> Tempus</td></tr>
+
+<tr><td>Formula 56</td><td>2000 RON / kg <span id="en">Wax gourd Variety</span><span id="ro">Dovleac de Ceară Soi</span> Zefir</td></tr>
+<tr><td>Formula 57</td><td>2000 RON / kg <span id="en">Serpent gourd Variety</span><span id="ro">Dovleac șarpe Soi</span> Felix</td></tr>
+<tr><td>Formula 58</td><td>2000 RON / kg <span id="en">Gourd without stalk Variety</span><span id="ro">Dovleac fără vrej Soi</span> Hapy</td></tr>
+<tr><td>Formula 59</td><td>2000 RON / kg <span id="en">Luffa Variety</span><span id="ro">Lufa Soi</span> Elida</td></tr>
+<tr><td>Formula 60</td><td>2500 RON / kg <span id="en">Cucumbers Variety</span><span id="ro">Castraveți Soi</span> Triumf</td></tr>
+<tr><td>Formula 61</td><td>2500 RON / kg <span id="en">Cucumbers Variety</span><span id="ro">Castraveți Soi</span> Slanic</td></tr>
+
+<tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://scdlbuzau.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+
+        <tr><td><span id="en">Spices and Herbs - Lettuce</span><span id="ro">Ierburi și Condimente - Salată</span></td>
+	<td><span id="en">Supplier: S.C.D.L. Buzău - Romania</span><span id="ro">Furnizor: S.C.D.L. Buzău - Romania</span></td>
+	<td>
+	<div style="border-bottom:1px solid #FFF;" >300 RON / kg <span id="en">Variety</span><span id="ro">Soi</span> Grația</div>
+	<div style="border-bottom:1px solid #FFF;" >35 RON / 100g <span id="en">Variety</span><span id="ro">Soi</span> Grația</div>
+	<div style="border-bottom:1px solid #FFF;" >4 RON / 5g <span id="en">Variety</span><span id="ro">Soi</span> Grația</div>
+	<div style="border-bottom:1px solid #FFF;" >300 RON / kg <span id="en">Variety</span><span id="ro">Soi</span> Riana</div>
+	<div style="border-bottom:1px solid #FFF;" >35 RON / 100g <span id="en">Variety</span><span id="ro">Soi</span> Riana</div>
+	<div style="border-bottom:1px solid #FFF;" >4 RON / 5g <span id="en">Variety</span><span id="ro">Soi</span> Riana</div>
+	<span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>
+        </tr> 
+        <tr><td><span id="en">Spices and Herbs - Spinach</span><span id="ro">Ierburi și Condimente - Spanac</span></td>
+	<td><span id="en">Supplier: S.C.D.L. Buzău - Romania</span><span id="ro">Furnizor: S.C.D.L. Buzău - Romania</span></td>
+	<td>
+	<div style="border-bottom:1px solid #FFF;" >35 RON / kg <span id="en">Variety</span><span id="ro">Soi</span> Romanesc</div>
+	<div style="border-bottom:1px solid #FFF;" >5 RON / 100g <span id="en">Variety</span><span id="ro">Soi</span> Grația</div>
+	<div style="border-bottom:1px solid #FFF;" >1300 RON / kg <span id="en">Variety Climbing</span><span id="ro">Soi Urcător</span> Ruben</div>
+	<div style="border-bottom:1px solid #FFF;" >15 RON / 10g <span id="en">Variety Climbing</span><span id="ro">Soi Urcător</span> Ruben</div>
+	<span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>
+        </tr> 
+        <tr><td><span id="en">Spices and Herbs - Red Amaranth</span><span id="ro">Ierburi și Condimente - Stir roșu</span></td>
+	<td><span id="en">Supplier: S.C.D.L. Buzău - Romania</span><span id="ro">Furnizor: S.C.D.L. Buzău - Romania</span></td>
+	<td>
+	<div style="border-bottom:1px solid #FFF;" >300 RON / kg <span id="en">Variety</span><span id="ro">Soi</span> Cezar</div>
+	<div style="border-bottom:1px solid #FFF;" >4 RON / 5g <span id="en">Variety</span><span id="ro">Soi</span> Cezar</div>
+	<span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>
+        </tr> 
+        <tr><td><span id="en">Spices and Herbs - Spicy Lettuce</span><span id="ro">Ierburi și Condimente - Salată iute</span></td>
+	<td><span id="en">Supplier: S.C.D.L. Buzău - Romania</span><span id="ro">Furnizor: S.C.D.L. Buzău - Romania</span></td>
+	<td>
+	<div style="border-bottom:1px solid #FFF;" >1000 RON / kg <span id="en">Variety</span><span id="ro">Soi</span> Aroma</div>
+	<div style="border-bottom:1px solid #FFF;" >5 RON / 5g <span id="en">Variety</span><span id="ro">Soi</span> Aroma</div>
+	<span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>
+        </tr> 
+        <tr><td><span id="en">Spices and Herbs - Caraway</span><span id="ro">Ierburi și Condimente - Chimen</span></td>
+	<td><span id="en">Supplier: S.C.D.L. Buzău - Romania</span><span id="ro">Furnizor: S.C.D.L. Buzău - Romania</span></td>
+	<td>
+	<div style="border-bottom:1px solid #FFF;" >1000 RON / kg <span id="en">Variety</span><span id="ro">Soi</span> Carol</div>
+	<div style="border-bottom:1px solid #FFF;" >5 RON / 5g <span id="en">Variety</span><span id="ro">Soi</span> Carol</div>
+	<span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>
+        </tr> 
+        <tr><td><span id="en">Spices and Herbs - Thyme</span><span id="ro">Ierburi și Condimente - Cimbru de Grădină </span></td>
+	<td><span id="en">Supplier: S.C.D.L. Buzău - Romania</span><span id="ro">Furnizor: S.C.D.L. Buzău - Romania</span></td>
+	<td>
+	<div style="border-bottom:1px solid #FFF;" >500 RON / kg <span id="en">Variety</span><span id="ro">Soi</span> Mircea</div>
+	<div style="border-bottom:1px solid #FFF;" >55 RON / 100g <span id="en">Variety</span><span id="ro">Soi</span> Mircea</div>
+	<div style="border-bottom:1px solid #FFF;" >5 RON / 5g <span id="en">Variety</span><span id="ro">Soi</span> Mircea</div>
+	<span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>
+        </tr> 
+        <tr><td><span id="en">Spices and Herbs - Greek Basil (Ocimum Minimum)</span><span id="ro">Ierburi și Condimente - Busuic pitic (Ocimum Minimum)</span></td>
+	<td><span id="en">Supplier: S.C.D.L. Buzău - Romania</span><span id="ro">Furnizor: S.C.D.L. Buzău - Romania</span></td>
+	<td>
+	<div style="border-bottom:1px solid #FFF;" >5 RON / 2g <span id="en">Variety</span><span id="ro">Soi</span> Smarald</div>
+	<span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>
+        </tr> 
+        <tr><td><span id="en">Spices and Herbs - Green Basil</span><span id="ro">Ierburi și Condimente - Busuic verde</span></td>
+	<td><span id="en">Supplier: S.C.D.L. Buzău - Romania</span><span id="ro">Furnizor: S.C.D.L. Buzău - Romania</span></td>
+	<td>
+	<div style="border-bottom:1px solid #FFF;" >500 RON / kg <span id="en">Variety</span><span id="ro">Soi</span> Aromat de Buzău</div>
+	<div style="border-bottom:1px solid #FFF;" >5 RON / 5g <span id="en">Variety</span><span id="ro">Soi</span> Aromat de Buzău</div>
+	<span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>
+        </tr> 
+        <tr><td><span id="en">Spices and Herbs - Purple Basil</span><span id="ro">Ierburi și Condimente - Busuic violet</span></td>
+	<td><span id="en">Supplier: S.C.D.L. Buzău - Romania</span><span id="ro">Furnizor: S.C.D.L. Buzău - Romania</span></td>
+	<td>
+	<div style="border-bottom:1px solid #FFF;" >500 RON / kg <span id="en">Variety</span><span id="ro">Soi</span> Serafim</div>
+	<div style="border-bottom:1px solid #FFF;" >5 RON / 2g <span id="en">Variety</span><span id="ro">Soi</span> Serafim</div>
+	<span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>
+        </tr> 
+        <tr><td><span id="en">Spices and Herbs - Lemon Flavor Basil</span><span id="ro">Ierburi și Condimente - Busuic cu aromă lămâie</span></td>
+	<td><span id="en">Supplier: S.C.D.L. Buzău - Romania</span><span id="ro">Furnizor: S.C.D.L. Buzău - Romania</span></td>
+	<td>
+	<div style="border-bottom:1px solid #FFF;" >500 RON / kg <span id="en">Variety</span><span id="ro">Soi</span> Macedon</div>
+	<div style="border-bottom:1px solid #FFF;" >5 RON / 5g <span id="en">Variety</span><span id="ro">Soi</span> Macedon</div>
+	<span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>
+        </tr> 
+        <tr><td><span id="en">Spices and Herbs - Lovage</span><span id="ro">Ierburi și Condimente - Leuștean</span></td>
+	<td><span id="en">Supplier: S.C.D.L. Buzău - Romania</span><span id="ro">Furnizor: S.C.D.L. Buzău - Romania</span></td>
+	<td>
+	<div style="border-bottom:1px solid #FFF;" >300 RON / kg <span id="en">Variety</span><span id="ro">Soi</span> Topaz</div>
+	<div style="border-bottom:1px solid #FFF;" >3.5 RON / 5g <span id="en">Variety</span><span id="ro">Soi</span> Topaz</div>
+	<span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>
+        </tr> 
+        <tr><td><span id="en">Spices and Herbs - Red orache</span><span id="ro">Ierburi și Condimente - Lobodă Roșie</span></td>
+	<td><span id="en">Supplier: S.C.D.L. Buzău - Romania</span><span id="ro">Furnizor: S.C.D.L. Buzău - Romania</span></td>
+	<td>
+	<div style="border-bottom:1px solid #FFF;" >300 RON / kg <span id="en">Variety</span><span id="ro">Soi</span> Zorina</div>
+	<div style="border-bottom:1px solid #FFF;" >35 RON / 100g <span id="en">Variety</span><span id="ro">Soi</span> Zorina</div>
+	<div style="border-bottom:1px solid #FFF;" >3.5 RON / 5g <span id="en">Variety</span><span id="ro">Soi</span> Zorina</div>
+	<span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>
+        </tr> 
+        <tr><td><span id="en">Spices and Herbs - Lophantus Anisatus</span><span id="ro">Ierburi și Condimente - Lophantus Anisatus</span></td>
+	<td><span id="en">Supplier: S.C.D.L. Buzău - Romania</span><span id="ro">Furnizor: S.C.D.L. Buzău - Romania</span></td>
+	<td>
+	<div style="border-bottom:1px solid #FFF;" >5000 RON / kg <span id="en">Variety</span><span id="ro">Soi</span> Aromat de Buzău</div>
+	<div style="border-bottom:1px solid #FFF;" >14 RON / 2g <span id="en">Variety</span><span id="ro">Soi</span> Aromat de Buzău</div>
+	<span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>
+        </tr>  
+        <tr><td><span id="en">Spices and Herbs - Parsley for leafs</span><span id="ro">Ierburi și Condimente - Pătrunjel pentru frunze</span></td>
+	<td><span id="en">Supplier: S.C.D.L. Buzău - Romania</span><span id="ro">Furnizor: S.C.D.L. Buzău - Romania</span></td>
+	<td>
+	<div style="border-bottom:1px solid #FFF;" >300 RON / kg <span id="en">Variety</span><span id="ro">Soi</span> Ory</div>
+	<div style="border-bottom:1px solid #FFF;" >35 RON / 100g <span id="en">Variety</span><span id="ro">Soi</span> Ory</div>
+	<div style="border-bottom:1px solid #FFF;" >4 RON / 10g <span id="en">Variety</span><span id="ro">Soi</span> Ory</div>
+	<span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>
+        </tr>  
+        <tr><td><span id="en">Spices and Herbs - Parsley for root</span><span id="ro">Ierburi și Condimente - Pătrunjel pentru rădăcină</span></td>
+	<td><span id="en">Supplier: S.C.D.L. Buzău - Romania</span><span id="ro">Furnizor: S.C.D.L. Buzău - Romania</span></td>
+	<td>
+	<div style="border-bottom:1px solid #FFF;" >300 RON / kg <span id="en">Variety</span><span id="ro">Soi</span> Oltis</div>
+	<div style="border-bottom:1px solid #FFF;" >35 RON / 100g <span id="en">Variety</span><span id="ro">Soi</span> Oltis</div>
+	<div style="border-bottom:1px solid #FFF;" >4 RON / 10g <span id="en">Variety</span><span id="ro">Soi</span> Oltis</div>
+	<span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>
+        </tr>  
+        <tr><td><span id="en">Medicinal Plants  - Mursalski Chai</span><span id="ro">Plante medicinale - Mursalski Chai (Iarba de fier)</span></td>
+	<td><span id="en">Supplier: S.C.D.L. Buzău - Romania</span><span id="ro">Furnizor: S.C.D.L. Buzău - Romania</span></td>
+	<td>
+	<div style="border-bottom:1px solid #FFF;" >5000 RON / kg <span id="en">Variety</span><span id="ro">Soi</span> Daniela</div>
+	<div style="border-bottom:1px solid #FFF;" >14 RON / 2g <span id="en">Variety</span><span id="ro">Soi</span> Daniela</div>
+	<span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>
+        </tr> 
+        <tr><td><span id="en">Medicinal Plants  - Rheum</span><span id="ro">Plante medicinale - Revent</span></td>
+	<td><span id="en">Supplier: S.C.D.L. Buzău - Romania</span><span id="ro">Furnizor: S.C.D.L. Buzău - Romania</span></td>
+	<td>
+	<div style="border-bottom:1px solid #FFF;" >300 RON / kg <span id="en">Variety</span><span id="ro">Soi</span> Matei</div>
+	<div style="border-bottom:1px solid #FFF;" >4 RON / 5g <span id="en">Variety</span><span id="ro">Soi</span> Matei</div>
+	<span id="en">VAT included</span><span id="ro">TVA este inclus</span></td>
+        </tr> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody>
+
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
