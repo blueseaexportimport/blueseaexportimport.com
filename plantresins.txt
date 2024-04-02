@@ -1,8 +1,7 @@
 <tbody>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">RES0001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Chios Mastiha ( Pistacia lentiscus - no impurities ) - The Chios Gum Mastic Growers Association 
- </span><span id="ro">Mastic de Chios ( Pistacia lentiscus - fără impurități ) - Asociația Producătorilor de Mastic din Chios</span></td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Chios Mastiha ( Pistacia lentiscus - no impurities ) - The Chios Gum Mastic Growers Association</span><span id="ro">Mastic de Chios ( Pistacia lentiscus - fără impurități ) - Asociația Producătorilor de Mastic din Chios</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Greece</span><span id="ro">Grecia</span></td></tr>
 
 <tr><td>Formula 1</td><td>20,70 € / 100g<span id="en"> Natural Chios Mastiha Large Tears</span><span id="ro"> Lacrimi mari Mastic de Chios</span></td></tr>
@@ -34,11 +33,6 @@ if (class_ro === "new") {
 
 <!--
 
-
-
-    <tr><td><span id="en">Peru balsam ( Myroxylon balsamum var. pereirae - no impurities  ) </span><span id="ro">Balsam de Peru ( Myroxylon balsamum var. pereirae - fără impurități  )</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Copalm balsam ( Liquidambar styraciflua - no impurities  ) </span><span id="ro">Styrax ( Liquidambar styraciflua - fără impurități   )</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Opopanax ( Commiphora guidottii - no impurities  ) </span><span id="ro">Opopanax ( Commiphora guidottii - fără impurități   )</span></td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Tragacanth ( Astragalus gummifer - no impurities  ) </span><span id="ro">Tragacant ( Astragalus gummifer - fără impurități   ) </span></td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Gum arabic ( Acacia senegal - no impurities  ) </span><span id="ro">Gumă arabică ( Acacia senegal - fără impurități  )</span></td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Pine resin ( Pinus - no impurities  ) </span><span id="ro">Rășină de pin ( Pinus - fără impurități  )</span></td><td>-</td><td>-</td></tr>  
