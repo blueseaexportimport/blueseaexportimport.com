@@ -3,7 +3,7 @@
 <tbody>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FLO0001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Flowers and ornamental - Agrosel</span><span id="ro">Flori și plante ornamentale - Agrosel</span></td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Flowers and ornamental plants - Agrosel</span><span id="ro">Flori și plante ornamentale - Agrosel</span></td></tr>
 <td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en" >They are seeds, bulbs and baby plants, so they can be transported easy long distance</span><span id="ro">Sunt semințe, bulbi și puieți plante, pentru a fi transportate ușor pe distanțe lungi</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
 
@@ -59,6 +59,38 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FLO0002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Flowers and ornamental - Kertimag</span><span id="ro">Flori și plante ornamentale - Kertimag</span></td></tr>
+<td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en" >They are seeds, bulbs and baby plants, so they can be transported easy long distance</span><span id="ro">Sunt semințe, bulbi și puieți plante, pentru a fi transportate ușor pe distanțe lungi</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
+
+
+<tr><td>Formula 1</td><td>2.6 RON / <span id="en">envelope Castor oil plant ( Ricinus communis )</span><span id="ro">plic Ricin ( Ricinus communis )</span></td></tr>
+<tr><td>Formula 1</td><td>2.6 RON / <span id="en">envelope Cosmos ( Cosmos bipinnatus ) - mix</span><span id="ro">plic Cosmos ( Cosmos bipinnatus ) - mix</span></td></tr>
+<tr><td>Formula 1</td><td>2.6 RON / <span id="en">envelope Wild pansy ( Dianthus caryophyllus ) - Chabaud</span><span id="ro">plic Garoafă ( Dianthus caryophyllus ) - Chabaud</span></td></tr>
+<tr><td>Formula 1</td><td>3.4 RON / <span id="en">envelope Wild pansy ( Dianthus caryophyllus ) - Grenadin</span><span id="ro">plic Garoafă ( Dianthus caryophyllus ) - Grenadin</span></td></tr>
+
+<tr><td>Formula 1</td><td>2.6 RON / <span id="en">envelope Common zinnia ( Zinnia elegans ) - mix</span><span id="ro">plic Cârciumăreasă ( Zinnia elegans ) - mix</span></td></tr>
+<tr><td>Formula 1</td><td>2.6 RON / <span id="en">envelope Common zinnia ( Zinnia elegans ) - red</span><span id="ro">plic Cârciumăreasă ( Zinnia elegans ) - rosu</span></td></tr>
+<tr><td>Formula 1</td><td>2.6 RON / <span id="en">envelope Common zinnia ( Zinnia elegans ) - purple</span><span id="ro">plic Cârciumăreasă ( Zinnia elegans ) - mov</span></td></tr>
+<tr><td>Formula 1</td><td>2.6 RON / <span id="en">envelope Common zinnia ( Zinnia elegans ) - white</span><span id="ro">plic Cârciumăreasă ( Zinnia elegans ) - alb</span></td></tr>
+<tr><td>Formula 1</td><td>2.6 RON / <span id="en">envelope Common zinnia ( Zinnia elegans ) - liliput</span><span id="ro">plic Cârciumăreasă ( Zinnia elegans ) - liliput</span></td></tr>
+<tr><td>Formula 1</td><td>2.6 RON / <span id="en">envelope Common zinnia ( Zinnia elegans ) - yellow</span><span id="ro">plic Cârciumăreasă ( Zinnia elegans ) - galben</span></td></tr>
+<tr><td>Formula 1</td><td>2.6 RON / <span id="en">envelope Common zinnia ( Zinnia elegans ) - cactus</span><span id="ro">plic Cârciumăreasă ( Zinnia elegans ) - cactus</span></td></tr>
+<tr><td>Formula 1</td><td>2.6 RON / <span id="en">envelope Common zinnia ( Zinnia elegans ) - orange</span><span id="ro">plic Cârciumăreasă ( Zinnia elegans ) - portocaliu</span></td></tr>
+<tr><td>Formula 1</td><td>3.96 RON / <span id="en">envelope Common zinnia ( Zinnia elegans ) - dalii</span><span id="ro">plic Cârciumăreasă ( Zinnia elegans ) - dalii</span></td></tr>
+
+<tr><td>Formula 1</td><td>13.2 RON / 5<span id="en"> bulbs Lily of the valley ( Convallaria majalis )</span><span id="ro"> bulbi Lăcrămioară ( Convallaria majalis )</span></td></tr>
+<tr><td>Formula 1</td><td>13.2 RON / 2<span id="en"> bulbs German bearded iris ( Iris × germanica ) - pink </span><span id="ro"> bulbi Stânjenel ( Iris × germanica ) - roz</span></td></tr>
+<tr><td>Formula 1</td><td>13.2 RON / 2<span id="en"> bulbs German bearded iris ( Iris × germanica ) - bronze </span><span id="ro"> bulbi Stânjenel ( Iris × germanica ) - bronz</span></td></tr>
+<tr><td>Formula 1</td><td>13.2 RON / 2<span id="en"> bulbs German bearded iris ( Iris × germanica ) - black </span><span id="ro"> bulbi Stânjenel ( Iris × germanica ) - negru</span></td></tr>
+
+
+
+<tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://kertimag.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
+
+
 
 </tbody>
 
@@ -86,7 +118,6 @@ if (class_ro === "new") {
     <tr><td><span id="en">China rose ( Rosa chinensis )</span><span id="ro">Trandafir chinezesc ( Rosa chinensis )</span></td><td>-</td><td>-</td></tr>   
     <tr><td><span id="en">White rose of York ( Rosa × alba )</span><span id="ro">Trandafir alb de York ( Rosa × alba )</span></td><td>-</td><td>-</td></tr>   
     <tr><td><span id="en">Dog Rose ( Rosa caninae )</span><span id="ro">Măceș ( Rosa caninae )</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Castor oil plant ( Ricinus communis )</span><span id="ro">Ricin ( Ricinus communis )</span></td><td>-</td><td>-</td></tr>     
 
     <tr><td><span id="en">Dwarf periwinkle ( Vinca Minor )</span><span id="ro">Saschiu ( Vinca Minor )</span></td><td>-</td><td>-</td></tr>   
     <tr><td><span id="en">Fescue ( Festuca - genus )</span><span id="ro">Păiuș ( Festuca - genus )</span></td><td>-</td><td>-</td></tr>     
@@ -94,14 +125,9 @@ if (class_ro === "new") {
 
 
     <tr><td><span id="en">Poet's daffodil ( Narcissus poeticus )</span><span id="ro">Narcisa albă  ( Narcissus poeticus )</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Lily of the valley ( Convallaria majalis )</span><span id="ro">Lăcrămioară ( Convallaria majalis )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Common zinnia ( Zinnia elegans )</span><span id="ro">Cârciumăreasă ( Zinnia elegans )</span></td><td>-</td><td>-</td></tr>     
     <tr><td><span id="en">Wild pansy ( Viola tricolor )</span><span id="ro">Panseluță ( Viola tricolor )</span></td><td>-</td><td>-</td></tr>   
     <tr><td><span id="en">Wax begonia  ( Begonia Semperflorens )</span><span id="ro">Begonie cerată  ( Begonia Semperflorens )</span></td><td>-</td><td>-</td></tr>   
     <tr><td><span id="en">Common violet ( Viola odorata )</span><span id="ro">Toporaș ( Viola odorata )</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Wild pansy ( Dianthus caryophyllus )</span><span id="ro">Garoafă ( Dianthus caryophyllus )</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Cosmos ( Cosmos bipinnatus )</span><span id="ro">Cosmos ( Cosmos bipinnatus )</span></td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">German bearded iris ( Iris × germanica )</span><span id="ro">Stânjenel ( Iris × germanica )</span></td><td>-</td><td>-</td></tr>    
     <tr><td><span id="en">Clematis 'Jackmanii' ( Clematis × jackmanii )</span><span id="ro">Curpen de grădină ( Clematis × jackmanii )</span></td><td>-</td><td>-</td></tr>   
     <tr><td><span id="en">Alpine columbine ( Aquilegia alpina )</span><span id="ro">Columbina alpină ( Aquilegia alpina )</span></td><td>-</td><td>-</td></tr>  
 -->
