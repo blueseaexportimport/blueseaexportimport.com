@@ -120,6 +120,22 @@ $(document).ready(function () {
 
 
   // Grab combined fodder info on click start
+  $("#plantresinsbtn").click(function() {
+    if ($("#plantresins").hasClass("clickedplantresins")) {
+        // already been clicked once, hide it
+        $("#plantresins").html("");
+        $( "#plantresins" ).removeClass( "clickedplantresins" )
+    }else {
+        // first time this is clicked, mark it
+        $("#plantresins").addClass("clickedplantresins");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/plantresins.txt", success: function(result){
+         $("#plantresins").html(result);
+        }});
+    }
+   });
+  // Grab combined fodder on click end
+
+  // Grab combined fodder info on click start
   $("#combinedfodderbtn").click(function() {
     if ($("#combinedfodder").hasClass("clickedcombinedfodder")) {
         // already been clicked once, hide it
@@ -2733,7 +2749,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div> 	
    </div></li><!--END SECTION-->  
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (11)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (11)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (12)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (12)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="concreteandsteelsilosbtn" ><span id="en">Concrete and steel silos</span><span id="ro">Silozuri beton și oțel</span></h5> 
    <table id="concreteandsteelsilos" class="categorypanel" >
    <!-- Load info start --> 
@@ -2764,7 +2780,7 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table> 	
-  <h5 class="categoryaccordion" id="plantresinsbtn" ><span id="en">Plant resins</span><span id="ro">Rășini vegetale</span></h5>    
+  <h5 class="categoryaccordion" id="plantresinsbtn" ><span id="en">Plant resins (1)</span><span id="ro">Rășini vegetale (1)</span></h5>    
    <table id="plantresins" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
