@@ -51,6 +51,7 @@
 <tr><td>Formula 39</td><td>6.42 RON / <span id="en">3 bulbs Garden hyacinth Yellow Queen ( Hyacinthus orientalis )</span><span id="ro">3 bulbi Zambilă Yellow Queen ( Hyacinthus orientalis )</span></td></tr>
 
 <tr><td>Formula 40</td><td>6.42 RON / <span id="en">10 bulbs Snowdrop ( Galanthus nivalis )</span><span id="ro">10 bulbi Ghiocel ( Galanthus nivalis )</span></td></tr>
+
 <tr><td>Formula 41</td><td>34.41 RON / 1kg <span id="en">Red clover ( Trifolium pratense )</span><span id="ro">Trifoi roşu ( Trifolium pratense )</span></td></tr>
 
 
