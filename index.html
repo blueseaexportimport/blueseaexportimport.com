@@ -135,6 +135,38 @@ $(document).ready(function () {
    });
   // Grab combined fodder on click end
 
+  // Grab conifers info on click start
+  $("#soilerosionpreventionplantsconifersbtn").click(function() {
+    if ($("#soilerosionpreventionplantsconifers").hasClass("clickedsoilerosionpreventionplantsconifers")) {
+        // already been clicked once, hide it
+        $("#soilerosionpreventionplantsconifers").html("");
+        $( "#soilerosionpreventionplantsconifers" ).removeClass( "clickedsoilerosionpreventionplantsconifers" )
+    }else {
+        // first time this is clicked, mark it
+        $("#soilerosionpreventionplantsconifers").addClass("clickedsoilerosionpreventionplantsconifers");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/soilerosionpreventionplantsconifers.txt", success: function(result){
+         $("#soilerosionpreventionplantsconifers").html(result);
+        }});
+    }
+   });
+  // Grab conifers on click end
+
+ // Grab deciduous info on click start
+  $("#soilerosionpreventionplantsdeciduousbtn").click(function() {
+    if ($("#soilerosionpreventionplantsdeciduous").hasClass("clickedsoilerosionpreventionplantsdeciduous")) {
+        // already been clicked once, hide it
+        $("#soilerosionpreventionplantsdeciduous").html("");
+        $( "#soilerosionpreventionplantsdeciduous" ).removeClass( "clickedsoilerosionpreventionplantsdeciduous" )
+    }else {
+        // first time this is clicked, mark it
+        $("#soilerosionpreventionplantsdeciduous").addClass("clickedsoilerosionpreventionplantsdeciduous");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/soilerosionpreventionplantsdeciduous.txt", success: function(result){
+         $("#soilerosionpreventionplantsdeciduous").html(result);
+        }});
+    }
+   });
+  // Grab deciduous on click end
+
 
   // Grab fish info on click start
   $("#fishbtn").click(function() {
@@ -2651,7 +2683,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div> 	
    </div></li><!--END SECTION-->  
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (0)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE  (0)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (2)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE  (2)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="concreteandsteelsilosbtn" ><span id="en">Concrete and steel silos</span><span id="ro">Silozuri beton și oțel</span></h5> 
    <table id="concreteandsteelsilos" class="categorypanel" >
    <!-- Load info start --> 
@@ -2697,12 +2729,12 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table> 
-  <h5 class="categoryaccordion" id="soilerosionpreventionplantsconifersbtn" ><span id="en">Soil erosion prevention plants - conifers</span><span id="ro">Puieți plante prevenție eroziune - conifere</span></h5>
+  <h5 class="categoryaccordion" id="soilerosionpreventionplantsconifersbtn" ><span id="en">Soil erosion prevention plants - conifers (1)</span><span id="ro">Puieți plante prevenție eroziune - conifere (1)</span></h5>
    <table id="soilerosionpreventionplantsconifers" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table>  	   
-  <h5 class="categoryaccordion" id="soilerosionpreventionplantsdeciduousbtn" ><span id="en">Soil erosion prevention plants - deciduous</span><span id="ro">Puieți plante prevenție eroziune - foioase</span></h5> 
+  <h5 class="categoryaccordion" id="soilerosionpreventionplantsdeciduousbtn" ><span id="en">Soil erosion prevention plants - deciduous (1)</span><span id="ro">Puieți plante prevenție eroziune - foioase (1)</span></h5> 
    <table id="soilerosionpreventionplantsdeciduous" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
