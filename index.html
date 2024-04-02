@@ -183,6 +183,22 @@ $(document).ready(function () {
    });
   // Grab babyfruitstrees on click end
 
+ // Grab flowersandornamentalplants info on click start
+  $("#flowersandornamentalplantsbtn").click(function() {
+    if ($("#flowersandornamentalplants").hasClass("clickedflowersandornamentalplants")) {
+        // already been clicked once, hide it
+        $("#flowersandornamentalplants").html("");
+        $( "#flowersandornamentalplants" ).removeClass( "clickedflowersandornamentalplants" )
+    }else {
+        // first time this is clicked, mark it
+        $("#flowersandornamentalplants").addClass("clickedflowersandornamentalplants");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/flowersandornamentalplants.txt", success: function(result){
+         $("#flowersandornamentalplants").html(result);
+        }});
+    }
+   });
+  // Grab flowersandornamentalplants on click end
+
 
   // Grab fish info on click start
   $("#fishbtn").click(function() {
@@ -2699,7 +2715,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div> 	
    </div></li><!--END SECTION-->  
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (3)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (3)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (6)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (6)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="concreteandsteelsilosbtn" ><span id="en">Concrete and steel silos</span><span id="ro">Silozuri beton și oțel</span></h5> 
    <table id="concreteandsteelsilos" class="categorypanel" >
    <!-- Load info start --> 
@@ -2760,7 +2776,7 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table> 
-  <h5 class="categoryaccordion" id="flowersandornamentalplantsbtn" ><span id="en">Flowers and ornamental plants seeds</span><span id="ro">Semințe flori și plante ornamentale</span></h5>  
+  <h5 class="categoryaccordion" id="flowersandornamentalplantsbtn" ><span id="en">Flowers and ornamental plants seeds (3)</span><span id="ro">Semințe flori și plante ornamentale (3)</span></h5>  
    <table id="flowersandornamentalplants" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
