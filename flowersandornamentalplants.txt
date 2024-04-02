@@ -101,8 +101,7 @@
 <tr><td>Formula 4</td><td>218.02 RON / 10kg <span id="en">Ornamental grass seeds - for landscaping and sunny places</span><span id="ro">Semințe de gazon Ornamental - pentru peisagistică și locuri cu mult soare</span></td></tr>
 <tr><td>Formula 5</td><td>224.21 RON / 10kg <span id="en">Sport grass seeds - for sports field</span><span id="ro">Semințe de gazon Sport - pentru terenuri sportive</span></td></tr>
 
-
-<tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://agrosel.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://agrosel.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
 
