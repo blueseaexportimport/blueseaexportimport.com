@@ -167,6 +167,22 @@ $(document).ready(function () {
    });
   // Grab deciduous on click end
 
+ // Grab babyfruitstrees info on click start
+  $("#babyfruitstreesbtn").click(function() {
+    if ($("#babyfruitstrees").hasClass("clickedbabyfruitstrees")) {
+        // already been clicked once, hide it
+        $("#babyfruitstrees").html("");
+        $( "#babyfruitstrees" ).removeClass( "clickedbabyfruitstrees" )
+    }else {
+        // first time this is clicked, mark it
+        $("#babyfruitstrees").addClass("clickedbabyfruitstrees");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/babyfruitstrees.txt", success: function(result){
+         $("#babyfruitstrees").html(result);
+        }});
+    }
+   });
+  // Grab babyfruitstrees on click end
+
 
   // Grab fish info on click start
   $("#fishbtn").click(function() {
@@ -2683,7 +2699,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div> 	
    </div></li><!--END SECTION-->  
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (2)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE  (2)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (3)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (3)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="concreteandsteelsilosbtn" ><span id="en">Concrete and steel silos</span><span id="ro">Silozuri beton și oțel</span></h5> 
    <table id="concreteandsteelsilos" class="categorypanel" >
    <!-- Load info start --> 
@@ -2739,7 +2755,7 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table> 
-  <h5 class="categoryaccordion" id="babyfruitstreesbtn" ><span id="en">Baby fruits trees</span><span id="ro">Puieți arbuști fructiferi</span></h5>    	
+  <h5 class="categoryaccordion" id="babyfruitstreesbtn" ><span id="en">Baby fruits trees (1)</span><span id="ro">Puieți arbuști fructiferi (1)</span></h5>    	
    <table id="babyfruitstrees" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
