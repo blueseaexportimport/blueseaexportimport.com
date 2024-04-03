@@ -118,6 +118,24 @@ $(document).ready(function() {
 <script>
 $(document).ready(function () { 
 
+
+  // Grab cartoonsshowsandmovies on click start
+  $("#cartoonsshowsandmoviesbtn").click(function() {
+    if ($("#cartoonsshowsandmovies").hasClass("clickedcartoonsshowsandmovies")) {
+        // already been clicked once, hide it
+        $("#cartoonsshowsandmovies").html("");
+        $( "#cartoonsshowsandmovies" ).removeClass( "clickedcartoonsshowsandmovies" )
+    }else {
+        // first time this is clicked, mark it
+        $("#cartoonsshowsandmovies").addClass("clickedcartoonsshowsandmovies");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/cartoonsshowsandmovies.txt", success: function(result){
+         $("#cartoonsshowsandmovies").html(result);
+        }});
+    }
+   });
+  // Grab cartoonsshowsandmovies on click end
+
+
   // Grab cranes info on click start
   $("#cranesbtn").click(function() {
     if ($("#cranes").hasClass("clickedcranes")) {
@@ -3171,8 +3189,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Pinball and Arcade Machines</span><span id="ro">Cabinete Arcade și Pinball</span></h5>    
   <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" ><span id="en">Cartoons Shows and Movies</span><span id="ro">Filme și Seriale Desene Animate</span></h5>    
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="cartoonsshowsandmoviesbtn" ><span id="en">Cartoons Shows and Movies</span><span id="ro">Filme și Seriale Desene Animate</span></h5>    
+   <table id="cartoonsshowsandmovies" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
   <h5 class="categoryaccordion" ><span id="en">TV Shows</span><span id="ro">Seriale TV</span></h5>    
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">TV Documentaries</span><span id="ro">Documentare TV</span></h5>    
