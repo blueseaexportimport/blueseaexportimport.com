@@ -124,6 +124,13 @@
 <tr><td>Formula 54</td><td>1.76 EUR / 0.25kg <span id="en">Pieces of fried mackerel fillet in jelly "Nēģi mājas gaumē" - Expiration 60days</span><span id="ro">Bucăți de macrou prăjit în jeleu "Nēģi mājas gaumē" - Termen valabilitate 60zile</td></tr>
 <tr><td>Formula 55</td><td>2.9 EUR / 0.5kg <span id="en">Pieces of fried mackerel fillet in jelly "Nēģi mājas gaumē" - Expiration 60days</span><span id="ro">Bucăți de macrou prăjit în jeleu "Nēģi mājas gaumē" - Termen valabilitate 60zile</td></tr>
 
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">>Canned Atlantic mackerel</span><span id="ro">Pește macrou la conservă</span></td><td></td></tr>
+
+<tr><td>Formula 55</td><td>0.96 EUR / 0.24kg <span id="en">Atlantic Mackerel in own juice with oil - Easy Open can - Expiration 730days</span><span id="ro">Macrou de Atlantic în suc propriu - conservă Easy Open - Termen valabilitate 730zile</td></tr>
+<tr><td>Formula 55</td><td>0.96 EUR / 0.24kg <span id="en">Atlantic Mackerel in tomato sauce - Easy Open can - Expiration 730days</span><span id="ro">Macrou de Atlantic în ulei - conservă Easy Open - Termen valabilitate 730zile</td></tr>
+<tr><td>Formula 55</td><td>0.99 EUR / 0.24kg <span id="en">Atlantic Mackerel in oil - Easy Open can - Expiration 730days</span><span id="ro">Macrou de Atlantic în ulei - conservă Easy Open - Termen valabilitate 730zile</td></tr>
+
+
 <tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">>Fish salad</span><span id="ro">Salată de pește</span></td><td></td></tr>
 
 
