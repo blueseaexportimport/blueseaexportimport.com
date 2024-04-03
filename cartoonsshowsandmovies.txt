@@ -4,8 +4,8 @@
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CRM001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Cartoons - Hanna-Barbera</span><span id="ro">Desene Animate - Hanna-Barbera</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">USA</span><span id="en">SUA</span></td></tr>
-<tr><td><span id="en" >Language</span><span id="ro">Limbă</span></td><td style="color:#39ff14;" ><span id="en">English</span><span id="en">Engleză</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">USA</span><span id="ro">SUA</span></td></tr>
+<tr><td><span id="en" >Language</span><span id="ro">Limbă</span></td><td style="color:#39ff14;" ><span id="en">English</span><span id="ro">Engleză</span></td></tr>
 
 <tr><td>Formula 1</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Tom and Jerry shows and specials (1940–1958, 1975, 1990–1993, 2001)</td></tr>
 <tr><td>Formula 2</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Ruff and Reddy Show (1957–1960)</td></tr>
