@@ -25,10 +25,13 @@
 
 <tr><td>Formula 10</td><td>0.54 EUR / 0.16kg <span id="en">Baltic Sardines (whole sprats) in tomato sauce - Easy Open can - Expiration 730days</span><span id="ro">Sardine baltice ( sport intreg ) în sos de tomate - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
 <tr><td>Formula 11</td><td>0.57 EUR / 0.16kg <span id="en">Baltic Sardines (whole sprats) in oil - Easy Open can - Expiration 730days</span><span id="ro">Sardine baltice ( sport intreg ) în ulei - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
-<tr><td>Formula 12</td><td>0.88 EUR / 0.17kg <span id="en">Baltic Sardines (head/tail off) in tomato sauce - Easy Open can - Expiration 730days</span><span id="ro">Sardine baltice ( fără cap/coadă ) în sos de tomate - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
-<tr><td>Formula 13</td><td>0.88 EUR / 0.17kg <span id="en">Baltic Sardines (head/tail off) in oil - Easy Open can - Expiration 730days</span><span id="ro">Sardine baltice ( fără cap/coadă ) în ulei - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
-<tr><td>Formula 14</td><td>0.83 EUR / 0.17kg <span id="en">Atlantic Sardine fillets in oil - Easy Open can - Expiration 730days</span><span id="ro">Sardine de Atlantic file în ulei - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
-<tr><td>Formula 15</td><td>0.83 EUR / 0.17kg <span id="en">Atlantic Sardine fillets in tomato sauce - Easy Open can - Expiration 730days</span><span id="ro">Sardine de Atlantic file în sos de tomate - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
+<tr><td>Formula 12</td><td>0.80 EUR / 0.24kg <span id="en">Atlantic Sardines in own juice with oil - Easy Open can - Expiration 730days</span><span id="ro">Sardine de Atlantic în suc propriu  - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
+<tr><td>Formula 13</td><td>0.80 EUR / 0.24kg <span id="en">Atlantic Sardines in tomato sauce - Easy Open can - Expiration 730days</span><span id="ro">Sardine de Atlantic în sos de tomate - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
+<tr><td>Formula 14</td><td>0.83 EUR / 0.24kg <span id="en">Atlantic Sardines in oil - Easy Open can - Expiration 730days</span><span id="ro">Sardine de Atlantic în ulei - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
+<tr><td>Formula 15</td><td>0.88 EUR / 0.17kg <span id="en">Baltic Sardines (head/tail off) in tomato sauce - Easy Open can - Expiration 730days</span><span id="ro">Sardine baltice ( fără cap/coadă ) în sos de tomate - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
+<tr><td>Formula 16</td><td>0.88 EUR / 0.17kg <span id="en">Baltic Sardines (head/tail off) in oil - Easy Open can - Expiration 730days</span><span id="ro">Sardine baltice ( fără cap/coadă ) în ulei - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
+<tr><td>Formula 17</td><td>0.83 EUR / 0.17kg <span id="en">Atlantic Sardine fillets in oil - Easy Open can - Expiration 730days</span><span id="ro">Sardine de Atlantic file în ulei - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
+<tr><td>Formula 18</td><td>0.83 EUR / 0.17kg <span id="en">Atlantic Sardine fillets in tomato sauce - Easy Open can - Expiration 730days</span><span id="ro">Sardine de Atlantic file în sos de tomate - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
 
 
 <tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Pieces of herring fillets</span><span id="ro">Bucăți file de hering</span></td><td></td></tr>
