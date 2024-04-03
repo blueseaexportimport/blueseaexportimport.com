@@ -161,6 +161,21 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP020</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;" ><span id="en">Sea cabbage ( kale algae ) - Baltijas zivis-97</span><span id="ro">Varză de mare ( Alge Kale ) - Baltijas zivis-97</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Latvia</span><span id="ro">Letonia</span></td></tr>
+
+<tr><td>Formula 105</td><td>1.1 EUR / 0.25kg <span id="en">Sea cabbage in oil - Expiration 60days</span><span id="ro">Varză de mare în ulei  - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 105</td><td>1.1 EUR / 0.25kg <span id="en">Sea cabbage in mayonnaise - Expiration 60days</span><span id="ro">Varză de mare în maioneză  - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 105</td><td>1.1 EUR / 0.25kg <span id="en">Sea cabbage in mayonnaise with Korean carrots - Expiration 60days</span><span id="ro">Varză de mare în maioneză cu morcovi coreeni  - Termen valabilitate 60zile</td></tr>
+
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://www.bz97.lv/en/products/all" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
 </tbody>
 
 
