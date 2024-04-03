@@ -1,0 +1,41 @@
+
+<tbody>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CRN001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Overhead travelling cranes</span><span id="ro">Poduri rulante</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">-</span><span id="en">-</span></td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >pcs Overhead travelling crane</span><span id="ro">buc Pod rulant</span> 20kN</td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >pcs Overhead travelling crane</span><span id="ro">buc Pod rulant</span> 50kN</td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >pcs Overhead travelling crane</span><span id="ro">buc Pod rulant</span> 70kN</td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >pcs Overhead travelling crane</span><span id="ro">buc Pod rulant</span> 75kN</td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >pcs Overhead travelling crane</span><span id="ro">buc Pod rulant</span> 90kN</td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >pcs Overhead travelling crane</span><span id="ro">buc Pod rulant</span> 150kN</td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >pcs Overhead travelling crane</span><span id="ro">buc Pod rulant</span> 180kN</td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >pcs Overhead travelling crane</span><span id="ro">buc Pod rulant</span> 200kN</td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >pcs Overhead travelling crane</span><span id="ro">buc Pod rulant</span> 225kN</td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >pcs Overhead travelling crane</span><span id="ro">buc Pod rulant</span> 250kN</td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >pcs Overhead travelling crane</span><span id="ro">buc Pod rulant</span> 300kN</td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >pcs Overhead travelling crane</span><span id="ro">buc Pod rulant</span> 400kN</td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >pcs Overhead travelling crane</span><span id="ro">buc Pod rulant</span> 500kN</td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >pcs Overhead travelling crane</span><span id="ro">buc Pod rulant</span> 750kN</td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >pcs Overhead travelling crane</span><span id="ro">buc Pod rulant</span> 1000kN</td></tr>
+<tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various EU suppliers</span><span id="ro">Furnizori din UE</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+</tbody>
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
