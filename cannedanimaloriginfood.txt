@@ -95,9 +95,19 @@
 
 <tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">>Fish salad</span><span id="ro">Salată de pește</span></td><td></td></tr>
 
-<tr><td>Formula 1</td><td>1.74 EUR / 0.25kg <span id="en">A herring in a “Coat” with carrots and beets - Expiration 60days</span><span id="ro">Un hering la "Costum" cu morcovi și sfeclă - Termen valabilitate 60zile</td></tr>
 
-
+<tr><td>Formula 1</td><td>1.18 EUR / 0.2kg <span id="en">Fish salad with beans and beets in mayonnaise "Veselība" - Expiration 45days</span><span id="ro">Salată de pește cu fasole, sfeclă și maioneză "Veselība" - Termen valabilitate 45zile</td></tr>
+<tr><td>Formula 1</td><td>1.18 EUR / 0.2kg <span id="en">Fish salad with cucumbers in oil "Rudens veltes" - Expiration 45days</span><span id="ro">Salată de pește în ulei cu castraveți "Rudens veltes" - Termen valabilitate 45zile</td></tr>
+<tr><td>Formula 1</td><td>1.18 EUR / 0.2kg <span id="en">Fish salad with cucumbers in mayonnaise "Zelta rudens" - Expiration 45days</span><span id="ro">Salată de pește în maioneză cu castraveți "Zelta rudens" - Termen valabilitate 45zile</td></tr>
+<tr><td>Formula 1</td><td>1.25 EUR / 0.21kg <span id="en">Pieces of herring fillets in mayonnaise - mustard sauce "Sinepīte" - Expiration 45days</span><span id="ro">Bucăți file de hering în maioneză și muștar "Sinepīte" - Termen valabilitate 45zile</td></tr>
+<tr><td>Formula 1</td><td>1.3 EUR / 0.28kg <span id="en">Fish salad in Hungarian taste "Lečo" - Expiration 60days</span><span id="ro">Salată de pește în stil unguresc "Lečo" - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.3 EUR / 0.2kg <span id="en">Pieces of herring fillets in tomato sauce "Vārava" - Expiration 60days</span><span id="ro">Bucăți file de hering în sos de tomate "Vārava" - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.35 EUR / 0.25kg <span id="en">Pieces of herring fillets in mayonnaise sauce - Expiration 45days</span><span id="ro">Bucăți file de hering în maioneză - Termen valabilitate 45zile</td></tr>
+<tr><td>Formula 1</td><td>1.45 EUR / 0.28kg <span id="en">Pieces of herring fillets in mayonnaise "Pasaciņa" - Expiration 45days</span><span id="ro">Bucăți file de hering în maioneză "Pasaciņa" - Termen valabilitate 45zile</td></tr>
+<tr><td>Formula 1</td><td>1.47 EUR / 0.28kg <span id="en">Pieces of herring fillets in mayonnaise "Bietīte" - Expiration 45days</span><span id="ro">Bucăți file de hering în maioneză "Bietīte" - Termen valabilitate 45zile</td></tr>
+<tr><td>Formula 1</td><td>1.64 EUR / 0.36kg <span id="en">Herring salad in oil with vegetables and plums "Ziemeļvējš" - Expiration 60days</span><span id="ro">Salată de hering în ulei cu legume și prune "Ziemeļvējš" - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.79 EUR / 0.36kg <span id="en">Pieces of herring fillets in mustard sauce "Somu gaumē" - Expiration 45days</span><span id="ro">Bucăți file de hering în sos de muștar "Somu gaumē" - Termen valabilitate 45zile</td></tr>
+<tr><td>Formula 1</td><td>2.1 EUR / 0.5kg <span id="en">A herring in a “Coat” with carrots and beets - Expiration 45days</span><span id="ro">Un hering la "Costum" cu morcovi și sfeclă - Termen valabilitate 45zile</td></tr>
 
 
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://www.bz97.lv" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
