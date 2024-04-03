@@ -1255,6 +1255,22 @@ $(document).ready(function () {
     }
    });
   // Grab canned plant based food on click end
+
+  // Grab cannedanimaloriginfood info on click start
+  $("#cannedanimaloriginfoodbtn").click(function() {
+    if ($("#cannedanimaloriginfood").hasClass("clickedcannedanimaloriginfood")) {
+        // already been clicked once, hide it
+        $("#cannedanimaloriginfood").html("");
+        $( "#cannedanimaloriginfood" ).removeClass( "clickedcannedanimaloriginfood" )
+    }else {
+        // first time this is clicked, mark it
+        $("#cannedanimaloriginfood").addClass("clickedcannedanimaloriginfood");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/cannedanimaloriginfood.txt", success: function(result){
+         $("#cannedanimaloriginfood").html(result);
+        }});
+    }
+   });
+  // Grab cannedanimaloriginfood on click end
 	
 
   // Grab smokedandcuredmeat on click start
@@ -2947,7 +2963,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (39)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (39)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (41)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (41)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Echipamente morărit</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Echipamente ambalat alimente</span></h5> 
@@ -2995,7 +3011,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion"><span id="en">Cereals</span><span id="ro">Cereale</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" id="cannedplantbasedfoodbtn" ><span id="en">Canned Plant Based Food and Pickles (19)</span><span id="ro">Conserve Alimente de Origine Vegetală și Murături (19)</span></h5>
+  <h5 class="categoryaccordion" id="cannedplantbasedfoodbtn" ><span id="en">Canned Plant Based Food and Pickles (20)</span><span id="ro">Conserve Alimente de Origine Vegetală și Murături (20)</span></h5>
    <table id="cannedplantbasedfood" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
@@ -3019,8 +3035,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table> 
-  <h5 class="categoryaccordion" ><span id="en">Canned Animal Origin Food</span><span id="ro">Conserve Alimente de Origine Animală</span></h5>
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="cannedanimaloriginfoodbtn" ><span id="en">Canned Animal Origin Food (1)</span><span id="ro">Conserve Alimente de Origine Animală (1)</span></h5>
+   <table id="cannedanimaloriginfood" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 	
   <h5 class="categoryaccordion" ><span id="en">Dietetic Hospital Food</span><span id="ro">Mâncare pentru Regimuri Alimentare Spital</span></h5> 
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" id="milkanddairyproductsbtn" ><span id="en">Milk and Dairy Products (3)</span><span id="ro">Lapte și Lactate (3)</span></h5>   
