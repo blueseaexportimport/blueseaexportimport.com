@@ -118,8 +118,23 @@ $(document).ready(function() {
 <script>
 $(document).ready(function () { 
 
+  // Grab cranes info on click start
+  $("#cranesbtn").click(function() {
+    if ($("#cranes").hasClass("clickedcranes")) {
+        // already been clicked once, hide it
+        $("#cranes").html("");
+        $( "#cranes" ).removeClass( "clickedcranes" )
+    }else {
+        // first time this is clicked, mark it
+        $("#cranes").addClass("clickedcranes");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/cranes.txt", success: function(result){
+         $("#cranes").html(result);
+        }});
+    }
+   });
+  // Grab cranes on click end
 
-  // Grab plant resins info on click start
+  // Grab milk and dairy info on click start
   $("#milkanddairyproductsbtn").click(function() {
     if ($("#milkanddairyproducts").hasClass("clickedmilkanddairyproducts")) {
         // already been clicked once, hide it
@@ -133,7 +148,7 @@ $(document).ready(function () {
         }});
     }
    });
-  // Grab plant resins on click end
+  // Grab milk and dairy on click end
 
 	
   // Grab plant resins info on click start
@@ -2248,6 +2263,11 @@ $(document).ready(function () {
   </div></li><!--END SECTION-->
 
    <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (2)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (2)</b></span></button><div class="catalogpanel">
+   <h5 class="categoryaccordion" id="cranesbtn" ><span id="en">Overhead cranes</span><span id="ro">Poduri rulante</span></h5>    	
+   <table id="cranes" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>     
    <h5 class="categoryaccordion" id="mineraloresbtn" ><span id="en">Space mining minerals ( ores )</span><span id="ro">Minereuri provenit din minerit spațial</span></h5>    	
    <table id="mineralores" class="categorypanel" >
    <!-- Load info start --> 
