@@ -75,6 +75,90 @@
 <tr><td>Formula 2</td><td>415.5 RON / <span id="en" >European cooking utensils set IRIS 48pcs</span><span id="ro" >Set ustensile gătit IRIS 48pcs</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icos.ro/?product_cat=seturi-tacamuri" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">COU006</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Forjed professional cooking knifes ICOS</span><span id="ro">Cuțite de gătit profesionale forjat ICOS</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+
+<tr><td>Formula 1</td><td>30 RON / <span id="en" >Forjed boning knife 9 cm</span><span id="ro" >Cutit forjat dezosat 9 cm</span></td></tr>
+<tr><td>Formula 2</td><td>30 RON / <span id="en" >Forjed bread knife 20 cm</span><span id="ro" >Cutit forjat pâine 20 cm</span></td></tr>
+<tr><td>Formula 3</td><td>30 RON / <span id="en" >Forjed utility knife 11cm</span><span id="ro" >Cutit forjat util 11cm</span></td></tr>
+<tr><td>Formula 4</td><td>40 RON / <span id="en" >Forjed slicing knife 20 cm</span><span id="ro" >Cutit forjat feliat 20 cm</span></td></tr>
+<tr><td>Formula 5</td><td>50 RON / <span id="en" >Forjed santoku knife 17cm</span><span id="ro" >Cutit forjat santoku 17cm</span></td></tr>
+<tr><td>Formula 6</td><td>84.2 RON / <span id="en" >Forjed chef’s knife</span><span id="ro" >Cutit forjat bucatar</span></td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icos.ro/?product_cat=cutite-profesionale-forjate" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">COU007</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Manual grinding machines and accessories ICOS</span><span id="ro">Mașini de tocat manuale și accesorii ICOS</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td>Formula 1</td><td>45.3 RON / <span id="en" >Universal grinding machine</span><span id="ro" >Masina de macinat universala</span></td></tr>
+<tr><td>Formula 2</td><td>49.8 RON / <span id="en" >Nuts kernal grinding machine</span><span id="ro" >Masina de macinat nuca</span></td></tr>
+<tr><td>Formula 3</td><td>71.1 RON / <span id="en" >Traditional cast iron meat grinding machine no. 5</span><span id="ro" >Masina de tocat din fonta traditionala nr 5</span></td></tr>
+<tr><td>Formula 4</td><td>8.6 RON / <span id="en" >Universal grinding machine no. 5</span><span id="ro" >Dispozitiv pentru biscuiti nr. 5</span></td></tr>
+<tr><td>Formula 5</td><td>9.3 RON / <span id="en" >Universal grinding machine no. 5</span><span id="ro" >Sita pentru masina de tocat carne nr. 5</span></td></tr>
+<tr><td>Formula 6</td><td>9.9 RON / <span id="en" >Knife for grinding machine no. 5</span><span id="ro" >Cutit pentru masina de tocat carne nr. 5</span></td></tr>
+<tr><td>Formula 7</td><td>87.8 RON / <span id="en" >Traditional cast iron meat grinding machine no. 8</span><span id="ro" >Masina de tocat din fonta traditionala nr 8</span></td></tr>
+<tr><td>Formula 8</td><td>5.7 RON / <span id="en" >Sausages making device no. 8</span><span id="ro" >Dispozitiv pentru facut carnati nr. 8</span></td></tr>
+<tr><td>Formula 9</td><td>8.6 RON / <span id="en" >Biscuit making device no. 8</span><span id="ro" >Dispozitiv pentru biscuiti nr. 8</span></td></tr>
+<tr><td>Formula 10</td><td>10 RON / <span id="en" >Sieve for grinding machine no. 8</span><span id="ro" >Sita pentru masina de tocat carne nr. 8</span></td></tr>
+<tr><td>Formula 11</td><td>10.5 RON / <span id="en" >Knife for grinding machine no. 8</span><span id="ro" >Cutit pentru masina de tocat carne nr. 8</span></td></tr>
+<tr><td>Formula 12</td><td>102 RON / <span id="en" >Traditional cast iron meat grinding machine no. 10</span><span id="ro" >Masina de tocat din fonta traditionala nr 10</span></td></tr>
+<tr><td>Formula 13</td><td>134.8 RON / <span id="en" >Traditional cast iron meat grinding machine no. 10 - siliver color</span><span id="ro" >Masina de tocat din fonta traditionala nr 10 - culoare argintie</span></td></tr>
+<tr><td>Formula 14</td><td>5.6 RON / <span id="en" >Sausages making device no. 8</span><span id="ro" >Dispozitiv pentru facut carnati nr. 8</span></td></tr>
+<tr><td>Formula 15</td><td>8.6 RON / <span id="en" >Biscuit making device no. 8</span><span id="ro" >Dispozitiv pentru biscuiti nr. 8</span></td></tr>
+<tr><td>Formula 16</td><td>13.5 RON / <span id="en" >Sieve for grinding machine no. 8</span><span id="ro" >Sita pentru masina de tocat carne nr. 8</span></td></tr>
+<tr><td>Formula 17</td><td>11.9 RON / <span id="en" >Knife for grinding machine no. 8</span><span id="ro" >Cutit pentru masina de tocat carne nr. 8</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icos.ro/?product_cat=masini-manuale-de-tocat-din-fonta" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">COU08</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Wood utensils ICOS</span><span id="ro">Ustensile de gătit din lemn ICOS</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td>Formula 1</td><td>5.3 RON / <span id="en" >Egg beater with wood handle</span><span id="ro" >Batator oua spiral conic</span></td></tr>
+<tr><td>Formula 2</td><td>5.7 RON / <span id="en" >Schnitzel hammer</span><span id="ro" >Ciocan schnitzele</span></td></tr>
+<tr><td>Formula 3</td><td>7 RON / <span id="en" >Potato masher with wood handle</span><span id="ro" >Zdrobitor pentru legume</span></td></tr>
+<tr><td>Formula 4</td><td>7.4 RON / <span id="en" >Dough knife with wood handle</span><span id="ro" >Cutit pentru aluat cu maner de lemn</span></td></tr>
+<tr><td>Formula 5</td><td>13.2 RON / <span id="en" >Wood spoon</span><span id="ro" >Lingura lemn</span></td></tr>
+<tr><td>Formula 6</td><td>15.2 RON / <span id="en" >Wood chopping board 340 x 210 x 16 mm</span><span id="ro" >Placa pentru tocat din lemn 340 x 210 x 16 mm</span></td></tr>
+<tr><td>Formula 7</td><td>19 RON / <span id="en" >Wood rolling pin</span><span id="ro" >Sucitor rotativ mare</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icos.ro/?product_cat=produse-din-lemn-pentru-bucatarie&paged=2" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">COU09</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Kitchen utensils ICOS</span><span id="ro">Ustensile de bucătărie ICOS</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td>Formula 1</td><td>6.2 RON / <span id="en" >Pizza knife with plastic handle</span><span id="ro" >Cutit pizza cu maner de plastic</span></td></tr>
+<tr><td>Formula 2</td><td>7.6 RON / <span id="en" >Stainless steel bottle opener 18cm</span><span id="ro" >Desfacator sticle inox 18 cm</span></td></tr>
+<tr><td>Formula 3</td><td>9.7 RON / <span id="en" >Grater 4 sides Razatoare 4 laturi 8.7×6.5×21 cm</span><span id="ro" >Razatoare 4 laturi 8.7×6.5×21 cm</span></td></tr>
+<tr><td>Formula 4</td><td>10.4 RON / <span id="en" >Spaghetti tongues 24cm</span><span id="ro" >Cleste spagetti 24cm</span></td></tr>
+<tr><td>Formula 5</td><td>17.3 RON / <span id="en" >Corkscrew - wine bottle opener</span><span id="ro" >Tirbuson - desfacator sticle vin</span></td></tr>
+<tr><td>Formula 6</td><td>28.8 RON / <span id="en" >Garlic crusher</span><span id="ro" >Presa pentru usturoi</span></td></tr>
+<tr><td>Formula 7</td><td>15.8 RON / <span id="en" >Nutcracker</span><span id="ro" >Spargator de nuci</span></td></tr>
+<tr><td>Formula 8</td><td>17.7 RON / <span id="en" >Non-stick round tart pan 27cm x 3cm</span><span id="ro" >Tava tarta rotunda 27cm x 3cm antiaderenta</span></td></tr>
+<tr><td>Formula 9</td><td>35.9 RON / <span id="en" >Mortar and pestle 8cm stone</span><span id="ro" >Mojar cu pistil 8cm din piatra</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icos.ro/?product_cat=ustensile-de-bucatarie" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">COU010</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Barbeque utensils with plastic handle ICOS</span><span id="ro">Ustensile de gătit friptură cu mâner de plastic ICOS</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td>Formula 1</td><td>4.6 RON / <span id="en" >Barbeque knife with plastic handle 11cm</span><span id="ro" >Cutit pentru friptura cu maner plastic negru 11 cm</span></td></tr>
+<tr><td>Formula 2</td><td>5.7 RON / 2 x <span id="en" >Barbeque forks</span><span id="ro" >furculite pentru friptura</span></td></tr>
+<tr><td>Formula 3</td><td>8.2 RON / <span id="en" >Barbeque knife with rivets and plastic handle 11cm</span><span id="ro" >Cutit pentru friptura cu nituri si maner plastic negru 11 cm</span></td></tr>
+<tr><td>Formula 4</td><td>18.7 RON / <span id="en" >Chopping - cleaver knife knife with plastic handle</span><span id="ro" >Satâr cu maner plastic negru</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icos.ro/?product_cat=cutite-hermania-in-inox-cu-manere-plastic-negru-cu-nituri" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">COU011</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Stainless steel knifes with plastic handle HERMANIA</span><span id="ro">Cuțite de gătit din inox cu mâner de plastic HERMANIA</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+
+<tr><td>Formula 1</td><td>6.6 RON / <span id="en" >Stainless steel fillet knife</span><span id="ro" >Cutit inox pentru feliat</span></td></tr>
+<tr><td>Formula 2</td><td>6.9 RON / <span id="en" >Stainless steel vegetables knife</span><span id="ro" >Cutit inox pentru legume</span></td></tr>
+<tr><td>Formula 3</td><td>9.2 RON / <span id="en" >Stainless steel bread knife</span><span id="ro" >Cutit inox pentru paine</span></td></tr>
+<tr><td>Formula 4</td><td>9.6 RON / <span id="en" >Stainless steel butcher knife</span><span id="ro" >Cutit inox pentru macelar</span></td></tr>
+<tr><td>Formula 5</td><td>9.6 RON / <span id="en" >Stainless steel santuko knife</span><span id="ro" >Cutit inox santuko</span></td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icos.ro/?product_cat=cutite-hermania-in-inox-cu-manere-plastic-negru-cu-nituri" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
 
 
 
@@ -134,90 +218,5 @@ if (class_ro === "new") {
        <tr><td>Tomato strainer</td><td>-</td><td>-</td></tr>    
        <tr><td>Meat slicer</td><td>-</td><td>-</td></tr>    
        <tr><td>Bread slicer</td><td>-</td><td>-</td></tr>  
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">COU006</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Forjed professional cooking knifes ICOS</span><span id="ro">Cuțite de gătit profesionale forjat ICOS</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-
-<tr><td>Formula 1</td><td>30 RON / <span id="en" >Forjed boning knife 9 cm</span><span id="ro" >Cutit forjat dezosat 9 cm</span></td></tr>
-<tr><td>Formula 2</td><td>30 RON / <span id="en" >Forjed bread knife 20 cm</span><span id="ro" >Cutit forjat pâine 20 cm</span></td></tr>
-<tr><td>Formula 3</td><td>30 RON / <span id="en" >Forjed utility knife 11cm</span><span id="ro" >Cutit forjat util 11cm</span></td></tr>
-<tr><td>Formula 4</td><td>40 RON / <span id="en" >Forjed slicing knife 20 cm</span><span id="ro" >Cutit forjat feliat 20 cm</span></td></tr>
-<tr><td>Formula 5</td><td>50 RON / <span id="en" >Forjed santoku knife 17cm</span><span id="ro" >Cutit forjat santoku 17cm</span></td></tr>
-<tr><td>Formula 6</td><td>84.2 RON / <span id="en" >Forjed chef’s knife</span><span id="ro" >Cutit forjat bucatar</span></td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icos.ro/?product_cat=cutite-profesionale-forjate" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">COU007</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Stainless steel knifes with plastic handle HERMANIA</span><span id="ro">Cuțite de gătit din inox cu mâner de plastic HERMANIA</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-
-<tr><td>Formula 1</td><td>6.6 RON / <span id="en" >Stainless steel fillet knife</span><span id="ro" >Cutit inox pentru feliat</span></td></tr>
-<tr><td>Formula 2</td><td>6.9 RON / <span id="en" >Stainless steel vegetables knife</span><span id="ro" >Cutit inox pentru legume</span></td></tr>
-<tr><td>Formula 3</td><td>9.2 RON / <span id="en" >Stainless steel bread knife</span><span id="ro" >Cutit inox pentru paine</span></td></tr>
-<tr><td>Formula 4</td><td>9.6 RON / <span id="en" >Stainless steel butcher knife</span><span id="ro" >Cutit inox pentru macelar</span></td></tr>
-<tr><td>Formula 5</td><td>9.6 RON / <span id="en" >Stainless steel santuko knife</span><span id="ro" >Cutit inox santuko</span></td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icos.ro/?product_cat=cutite-hermania-in-inox-cu-manere-plastic-negru-cu-nituri" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">COU008</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Barbeque utensils with plastic handle ICOS</span><span id="ro">Ustensile de gătit friptură cu mâner de plastic ICOS</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>4.6 RON / <span id="en" >Barbeque knife with plastic handle 11cm</span><span id="ro" >Cutit pentru friptura cu maner plastic negru 11 cm</span></td></tr>
-<tr><td>Formula 2</td><td>5.7 RON / 2 x <span id="en" >Barbeque forks</span><span id="ro" >furculite pentru friptura</span></td></tr>
-<tr><td>Formula 3</td><td>8.2 RON / <span id="en" >Barbeque knife with rivets and plastic handle 11cm</span><span id="ro" >Cutit pentru friptura cu nituri si maner plastic negru 11 cm</span></td></tr>
-<tr><td>Formula 4</td><td>18.7 RON / <span id="en" >Chopping - cleaver knife knife with plastic handle</span><span id="ro" >Satâr cu maner plastic negru</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icos.ro/?product_cat=cutite-hermania-in-inox-cu-manere-plastic-negru-cu-nituri" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">COU009</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Manual grinding machines and accessories ICOS</span><span id="ro">Mașini de tocat manuale și accesorii ICOS</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>45.3 RON / <span id="en" >Universal grinding machine</span><span id="ro" >Masina de macinat universala</span></td></tr>
-<tr><td>Formula 2</td><td>49.8 RON / <span id="en" >Nuts kernal grinding machine</span><span id="ro" >Masina de macinat nuca</span></td></tr>
-<tr><td>Formula 3</td><td>71.1 RON / <span id="en" >Traditional cast iron meat grinding machine no. 5</span><span id="ro" >Masina de tocat din fonta traditionala nr 5</span></td></tr>
-<tr><td>Formula 4</td><td>8.6 RON / <span id="en" >Universal grinding machine no. 5</span><span id="ro" >Dispozitiv pentru biscuiti nr. 5</span></td></tr>
-<tr><td>Formula 5</td><td>9.3 RON / <span id="en" >Universal grinding machine no. 5</span><span id="ro" >Sita pentru masina de tocat carne nr. 5</span></td></tr>
-<tr><td>Formula 6</td><td>9.9 RON / <span id="en" >Knife for grinding machine no. 5</span><span id="ro" >Cutit pentru masina de tocat carne nr. 5</span></td></tr>
-<tr><td>Formula 7</td><td>87.8 RON / <span id="en" >Traditional cast iron meat grinding machine no. 8</span><span id="ro" >Masina de tocat din fonta traditionala nr 8</span></td></tr>
-<tr><td>Formula 8</td><td>5.7 RON / <span id="en" >Sausages making device no. 8</span><span id="ro" >Dispozitiv pentru facut carnati nr. 8</span></td></tr>
-<tr><td>Formula 9</td><td>8.6 RON / <span id="en" >Biscuit making device no. 8</span><span id="ro" >Dispozitiv pentru biscuiti nr. 8</span></td></tr>
-<tr><td>Formula 10</td><td>10 RON / <span id="en" >Sieve for grinding machine no. 8</span><span id="ro" >Sita pentru masina de tocat carne nr. 8</span></td></tr>
-<tr><td>Formula 11</td><td>10.5 RON / <span id="en" >Knife for grinding machine no. 8</span><span id="ro" >Cutit pentru masina de tocat carne nr. 8</span></td></tr>
-<tr><td>Formula 12</td><td>102 RON / <span id="en" >Traditional cast iron meat grinding machine no. 10</span><span id="ro" >Masina de tocat din fonta traditionala nr 10</span></td></tr>
-<tr><td>Formula 13</td><td>134.8 RON / <span id="en" >Traditional cast iron meat grinding machine no. 10 - siliver color</span><span id="ro" >Masina de tocat din fonta traditionala nr 10 - culoare argintie</span></td></tr>
-<tr><td>Formula 14</td><td>5.6 RON / <span id="en" >Sausages making device no. 8</span><span id="ro" >Dispozitiv pentru facut carnati nr. 8</span></td></tr>
-<tr><td>Formula 15</td><td>8.6 RON / <span id="en" >Biscuit making device no. 8</span><span id="ro" >Dispozitiv pentru biscuiti nr. 8</span></td></tr>
-<tr><td>Formula 16</td><td>13.5 RON / <span id="en" >Sieve for grinding machine no. 8</span><span id="ro" >Sita pentru masina de tocat carne nr. 8</span></td></tr>
-<tr><td>Formula 17</td><td>11.9 RON / <span id="en" >Knife for grinding machine no. 8</span><span id="ro" >Cutit pentru masina de tocat carne nr. 8</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icos.ro/?product_cat=masini-manuale-de-tocat-din-fonta" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">COU010</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Wood utensils ICOS</span><span id="ro">Ustensile de gătit din lemn ICOS</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>5.3 RON / <span id="en" >Egg beater with wood handle</span><span id="ro" >Batator oua spiral conic</span></td></tr>
-<tr><td>Formula 2</td><td>5.7 RON / <span id="en" >Schnitzel hammer</span><span id="ro" >Ciocan schnitzele</span></td></tr>
-<tr><td>Formula 3</td><td>7 RON / <span id="en" >Potato masher with wood handle</span><span id="ro" >Zdrobitor pentru legume</span></td></tr>
-<tr><td>Formula 4</td><td>7.4 RON / <span id="en" >Dough knife with wood handle</span><span id="ro" >Cutit pentru aluat cu maner de lemn</span></td></tr>
-<tr><td>Formula 5</td><td>13.2 RON / <span id="en" >Wood spoon</span><span id="ro" >Lingura lemn</span></td></tr>
-<tr><td>Formula 6</td><td>15.2 RON / <span id="en" >Wood chopping board 340 x 210 x 16 mm</span><span id="ro" >Placa pentru tocat din lemn 340 x 210 x 16 mm</span></td></tr>
-<tr><td>Formula 7</td><td>19 RON / <span id="en" >Wood rolling pin</span><span id="ro" >Sucitor rotativ mare</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icos.ro/?product_cat=produse-din-lemn-pentru-bucatarie&paged=2" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">COU011</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Kitchen utensils ICOS</span><span id="ro">Ustensile de bucătărie ICOS</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-
-<tr><td>Formula 1</td><td>6.2 RON / <span id="en" >Pizza knife with plastic handle</span><span id="ro" >Cutit pizza cu maner de plastic</span></td></tr>
-<tr><td>Formula 2</td><td>7.6 RON / <span id="en" >Stainless steel bottle opener 18cm</span><span id="ro" >Desfacator sticle inox 18 cm</span></td></tr>
-<tr><td>Formula 3</td><td>9.7 RON / <span id="en" >Grater 4 sides Razatoare 4 laturi 8.7×6.5×21 cm</span><span id="ro" >Razatoare 4 laturi 8.7×6.5×21 cm</span></td></tr>
-<tr><td>Formula 4</td><td>10.4 RON / <span id="en" >Spaghetti tongues 24cm</span><span id="ro" >Cleste spagetti 24cm</span></td></tr>
-<tr><td>Formula 5</td><td>17.3 RON / <span id="en" >Corkscrew - wine bottle opener</span><span id="ro" >Tirbuson - desfacator sticle vin</span></td></tr>
-<tr><td>Formula 6</td><td>28.8 RON / <span id="en" >Garlic crusher</span><span id="ro" >Presa pentru usturoi</span></td></tr>
-<tr><td>Formula 7</td><td>15.8 RON / <span id="en" >Nutcracker</span><span id="ro" >Spargator de nuci</span></td></tr>
-<tr><td>Formula 8</td><td>17.7 RON / <span id="en" >Non-stick round tart pan 27cm x 3cm</span><span id="ro" >Tava tarta rotunda 27cm x 3cm antiaderenta</span></td></tr>
-<tr><td>Formula 9</td><td>35.9 RON / <span id="en" >Mortar and pestle 8cm stone</span><span id="ro" >Mojar cu pistil 8cm din piatra</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icos.ro/?product_cat=ustensile-de-bucatarie" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
 
 -->
