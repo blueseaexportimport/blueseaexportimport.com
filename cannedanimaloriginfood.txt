@@ -1,4 +1,94 @@
+<tbody>
 
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">MIK0001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Canned and marinated fish - Baltijas zivis-97</span><span id="ro">Conserve și marinate din pește - Baltijas zivis-97</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Latvia</span><span id="ro">Letonia</span></td></tr>
+
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Baltic sprats</span><span id="ro">Sprot baltic</span></td><td></td></tr>
+
+<tr><td>Formula 1</td><td>1.19 EUR / 0.3kg <span id="en">Baltic sprats in spice brine - Expiration 60days</span><span id="ro">Sprot baltic în saramură - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.45 EUR / 0.5kg <span id="en">Baltic sprats in spice brine - Expiration 60days</span><span id="ro">Șprot baltic în saramură - Termen valabilitate 60zile</td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Pieces of herring fillets</span><span id="ro">Bucăți file de hering</span></td><td></td></tr>
+
+<tr><td>Formula 1</td><td>1.19 EUR / 0.2kg <span id="en">Pieces of herring fillets in marinade with plums "Plūmīte"  - Expiration 60days</span><span id="ro">Bucati File de hering în marinată cu prune "Plūmīte" - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.19 EUR / 0.2kg <span id="en">Pieces of herring fillets in marinade "Islandes gaumē"  - Expiration 60days</span><span id="ro">Bucati File de hering în marinată "Islandes gaumē" - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.19 EUR / 0.2kg <span id="en">Pieces of herring fillets in marinade lemon-cranberry "Ziemeļnieku gaumē"  - Expiration 60days</span><span id="ro">Bucati File de hering în marinată de merișoare și lămâie "Ziemeļnieku gaumē" - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.26 EUR / 0.2kg <span id="en">Pieces of herring fillets in a wine marinade  - Expiration 60days</span><span id="ro">Bucati File de hering în marinată de vin - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.26 EUR / 0.2kg <span id="en">Pieces of herring fillets in a wine marinade  - Expiration 60days</span><span id="ro">Bucati File de hering în marinată de vin - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.26 EUR / 0.2kg <span id="en">Pieces of herring fillets in oil with pickled vegetables "Trent"  - Expiration 60days</span><span id="ro">Bucati File de hering în ulei cu legume murate - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.26 EUR / 0.18kg <span id="en">Pieces of herring fillets in oil "Ocean"  - Expiration 60days</span><span id="ro">Bucati File de hering în ulei "Ocean" - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.26 EUR / 0.18kg <span id="en">Pieces of herring fillets in oil "Salsa"  - Expiration 60days</span><span id="ro">Bucati File de hering în ulei "Salsa" - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.26 EUR / 0.18kg <span id="en">Pieces of herring fillets in oil "Coast"  - Expiration 60days</span><span id="ro">Bucati File de hering în ulei "Coast" - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.26 EUR / 0.2kg <span id="en">Pieces of herring fillets in oil "Matje" - Expiration 60days</span><span id="ro">Bucati File de hering în ulei "Matje" - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.26 EUR / 0.2kg <span id="en">Pieces of herring fillets in oil with seaweed "Duets" - Expiration 60days</span><span id="ro">Bucati File de hering în ulei cu alge "Duets" - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.26 EUR / 0.2kg <span id="en">Pieces of herring fillets with vegetables in oil "Jūras orhideja" - Expiration 60days</span><span id="ro">Bucati File de hering în ulei "Jūras orhideja" - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.26 EUR / 0.2kg <span id="en">Pieces of herring fillets in oil "Islandes gaumē" - Expiration 60days</span><span id="ro">Bucati File de hering în ulei "Islandes gaumē" - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.26 EUR / 0.18kg <span id="en">Pieces of herring fillets in oil with spices and onions "Aģe" - Expiration 60days</span><span id="ro">Bucati File de hering în ulei cu condimente si ceapa "Aģe" - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.33 EUR / 0.3kg <span id="en">Pieces of herring fillets in marinade with skin - Expiration 60days</span><span id="ro">Bucati File de hering cu peliță în marinată - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.44 EUR / 0.25kg <span id="en">Pieces of herring fillets in oil with garlic "Ķiplociņš" - Expiration 60days</span><span id="ro">Bucati File de hering în ulei cu usturoi "Ķiplociņš" - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.89 EUR / 0.5kg <span id="en">Pieces of herring fillets in lemon-cranberry marinade - Expiration 60days</span><span id="ro">Bucati File de hering în marinată de merișoare și lămâie - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.9 EUR / 0.5kg <span id="en">Pieces of herring fillets in marinade with skin - Expiration 60days</span><span id="ro">Bucati File de hering cu peliță în marinată - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>2.25 EUR / 0.5kg <span id="en">Pieces of herring fillet in oil with beet salad and sea cabbage in mayonnaise "Pavasaris" - Expiration 60days</span><span id="ro">Bucati File de hering în ulei cu salara de sfecla si maioneza "Pavasaris" - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>2.25 EUR / 0.5kg <span id="en">Pieces of herring fillet in oil with sea cabbage and fish salad "Northern Lights" - Expiration 60days</span><span id="ro">Bucati File de hering în ulei cu salara varza de mare si de peste "Northern Lights" - Termen valabilitate 60zile</td></tr>
+
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Herring fillets</span><span id="ro">File de hering</span></td><td></td></tr>
+
+
+<tr><td>Formula 1</td><td>1.26 EUR / 0.2kg <span id="en">Smoked herring fillet in oil - Expiration 60days</span><span id="ro">Hering file afumat in ulei - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.9 EUR / 0.5kg <span id="en">Herring fillets in marinade "Islandes gaumē" - Expiration 60days</span><span id="ro">Hering file in marinata "Islandes gaumē" - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.9 EUR / 0.5kg <span id="en">Herring fillets in marinade lemon-cranberry "Ziemeļnieku gaumē" - Expiration 60days</span><span id="ro">Hering file în marinată de merișoare și lămâie - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>2.14 EUR / 0.5kg <span id="en">Herring fillets in oil "Matje" - Expiration 60days</span><span id="ro">Hering file in ulei "Matje" - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>2.47 EUR / 0.65kg <span id="en">Herring fillets in home-style marinade with onions without skin - Expiration 60days</span><span id="ro">Hering file fara pielita in marinata de "casa" cu ceapa - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>2.47 EUR / 0.65kg <span id="en">Herring fillets in home-style marinade with black plums without skin - Expiration 60days</span><span id="ro">Hering file fara pielita in marinata de "casa" cu prune negre - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>2.65 EUR / 0.65kg <span id="en">Herring fillets in oil "Matje" - Expiration 60days</span><span id="ro">Hering file in ulei "Matje" - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>2.67 EUR / 0.65kg <span id="en">Herring fillets in oil "Ledenīte" - Expiration 60days</span><span id="ro">Hering file in ulei "Ledenīte" - Termen valabilitate 60zile</td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">>Herring rolls</span><span id="ro">Rulouri de hering</span></td><td></td></tr>
+
+<tr><td>Formula 1</td><td>1.88 EUR / 0.5kg <span id="en">Herring rolls in lemon-cranberry marinade without skin - Expiration 60days</span><span id="ro">Rulouri de hering fară peliță în marinată de merișoare și lămâie - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.88 EUR / 0.5kg <span id="en">Herring rolls with mushrooms and cucumbers in marinade without skin - Expiration 60days</span><span id="ro">Rulouri de hering fară peliță în marinată cu castraveți și ciuperci - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.88 EUR / 0.5kg <span id="en">Herring rolls in marinade without skin - Expiration 60days</span><span id="ro">Rulouri de hering fară peliță în marinată - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>1.9 EUR / 0.5kg <span id="en">Herring rolls in marinade with oranges with skin - Expiration 60days</span><span id="ro">Rulouri de hering fară peliță în marinată cu portocale - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 1</td><td>2.24 EUR / 0.5kg <span id="en">Herring rolls with feta cheese and korean carrots in oil without skin - Expiration 45days</span><span id="ro">Rulouri de hering fară peliță cu brânză Feta și morcovi coreeni - Termen valabilitate 45zile</td></tr>
+<tr><td>Formula 1</td><td>3.3 EUR / 1kg <span id="en">Herring rolls in marinade without skin - Expiration 60days</span><span id="ro">Rulouri de hering fară peliță în marinată - Termen valabilitate 60zile</td></tr>
+
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">>Whole herring</span><span id="ro">Hering întreg</span></td><td></td></tr>
+
+<tr><td>Formula 1</td><td>2.44 EUR / 1.3kg <span id="en">Whole herring in special brine - Expiration 60days</span><span id="ro">Hering în saramură specială - Termen valabilitate 60zile</td></tr>
+
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://www.bz97.lv" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
+
+
+
+</tbody>
+
+
+
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
+
+
+<!--
     <tr><td><span id="en">Canned mackerel fillets in vegetable oil</span><span id="ro">File de macrou în ulei vegetal</span></td><td>-</td><td>-</td></tr>   
     <tr><td><span id="en">Canned mackerel fillets in tomatoes sauces</span><span id="ro">File de macrou în sos tomate</span></td><td>-</td><td>-</td></tr>   
     <tr><td><span id="en">Canned smoked sprat in vegetable oil</span><span id="ro">Șprot afumat în ulei vegetal</span></td><td>-</td><td>-</td></tr>   
@@ -36,3 +126,4 @@
     <tr><td><span id="en">Pork meat with beans</span><span id="ro">Carne de vită cu fasole</span> </td><td>-</td><td>-</td></tr> 
     <tr><td><span id="en">Beef Kalops ( Scandinavian beef stew )</span><span id="ro">Kalops de vită - tocăniță scandinavă de vită</span></td><td>-</td><td>-</td></tr> 
     <tr><td><span id="en">Boeuf Stroganoff</span><span id="ro">Stroganoff de vită rusesc</span></td><td>-</td><td>-</td></tr> 
+-->
