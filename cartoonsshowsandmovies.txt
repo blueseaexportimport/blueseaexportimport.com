@@ -88,8 +88,8 @@
 <tr><td>Formula 79</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Yogi Bear Show and related spin-offs (1961–present)</td></tr>
 <tr><td>Formula 80</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Scooby-Doo and related spin-offs (1969–present)</td></tr>
 
-<tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various suppliers around the world</span><span id="ro">Furnizori din toată lumea</span></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.amazon.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 </tbody>
