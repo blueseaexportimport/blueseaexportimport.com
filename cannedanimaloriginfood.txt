@@ -8,8 +8,28 @@
 
 <tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Baltic sprats</span><span id="ro">Sprot baltic</span></td><td></td></tr>
 
-<tr><td>Formula 1</td><td>1.19 EUR / 0.3kg <span id="en">Baltic sprats in spice brine - Expiration 60days</span><span id="ro">Sprot baltic în saramură - Termen valabilitate 60zile</td></tr>
-<tr><td>Formula 2</td><td>1.45 EUR / 0.5kg <span id="en">Baltic sprats in spice brine - Expiration 60days</span><span id="ro">Șprot baltic în saramură - Termen valabilitate 60zile</td></tr>
+
+<tr><td>Formula 1</td><td>0.54 EUR / 0.24kg <span id="en">Baltic Sprats in tomato sauce - Easy Open* can - Expiration 240days</span><span id="ro">Șprot baltic în sos de tomate - conservă Easy Open* - Termen valabilitate 240zile</td></tr>
+<tr><td>Formula 2</td><td>0.57 EUR / 0.24kg <span id="en">Baltic Sprats in oil - Easy Open* can - Expiration 240days</span><span id="ro">Șprot baltic în ulei - conservă Easy Open* - Termen valabilitate 240zile</td></tr>
+<tr><td>Formula 3</td><td>0.84 EUR / 0.24kg <span id="en">Baltic Sprats fried in tomato sauce - Easy Open* can - Expiration 730days</span><span id="ro">Șprot baltic prăjit în sos de tomate - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
+
+<tr><td>Formula 4</td><td>0.96 EUR / 0.16kg <span id="en">Sprats smoked in oil - Easy Open* can - Expiration 910days</span><span id="ro">Șprot afumat în ulei - conservă Easy Open* - Termen valabilitate 910zile</td></tr>
+<tr><td>Formula 5</td><td>0.93 EUR / 0.16kg <span id="en">Sprats smoked in tomato sauce - Easy Open* can - Expiration 910days</span><span id="ro">Șprot afumat în sos tomate - conservă Easy Open* - Termen valabilitate 910zile</td></tr>
+<tr><td>Formula 6</td><td>1.06 EUR / 0.24kg <span id="en">Sprats smoked in tomato sauce - Easy Open* can - Expiration 910days</span><span id="ro">Șprot afumat în sos tomate - conservă Easy Open* - Termen valabilitate 910zile</td></tr>
+<tr><td>Formula 7</td><td>1.09 EUR / 0.24kg <span id="en">Sprats smoked in oil - Easy Open* can - Expiration 910days</span><span id="ro">Șprot afumat în ulei - conservă Easy Open* - Termen valabilitate 910zile</td></tr>
+
+<tr><td>Formula 8</td><td>1.19 EUR / 0.3kg <span id="en">Baltic sprats in spice brine - Expiration 60days</span><span id="ro">Sprot baltic în saramură picantă - Termen valabilitate 60zile</td></tr>
+<tr><td>Formula 9</td><td>1.45 EUR / 0.5kg <span id="en">Baltic sprats in spice brine - Expiration 60days</span><span id="ro">Șprot baltic în saramură picantă - Termen valabilitate 60zile</td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Canned sardines</span><span id="ro">Sardine în conservă</span></td><td></td></tr>
+
+<tr><td>Formula 10</td><td>0.54 EUR / 0.16kg <span id="en">Baltic Sardines (whole sprats) in tomato sauce - Easy Open can - Expiration 730days</span><span id="ro">Sardine baltice ( sport intreg ) în sos de tomate - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
+<tr><td>Formula 11</td><td>0.57 EUR / 0.16kg <span id="en">Baltic Sardines (whole sprats) in oil - Easy Open can - Expiration 730days</span><span id="ro">Sardine baltice ( sport intreg ) în ulei - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
+<tr><td>Formula 12</td><td>0.88 EUR / 0.17kg <span id="en">Baltic Sardines (head/tail off) in tomato sauce - Easy Open can - Expiration 730days</span><span id="ro">Sardine baltice ( fără cap/coadă ) în sos de tomate - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
+<tr><td>Formula 13</td><td>0.88 EUR / 0.17kg <span id="en">Baltic Sardines (head/tail off) in oil - Easy Open can - Expiration 730days</span><span id="ro">Sardine baltice ( fără cap/coadă ) în ulei - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
+<tr><td>Formula 14</td><td>0.83 EUR / 0.17kg <span id="en">Atlantic Sardine fillets in oil - Easy Open can - Expiration 730days</span><span id="ro">Sardine de Atlantic file în ulei - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
+<tr><td>Formula 15</td><td>0.83 EUR / 0.17kg <span id="en">Atlantic Sardine fillets in tomato sauce - Easy Open can - Expiration 730days</span><span id="ro">Sardine de Atlantic file în sos de tomate - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
+
 
 <tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Pieces of herring fillets</span><span id="ro">Bucăți file de hering</span></td><td></td></tr>
 
