@@ -163,7 +163,7 @@
 <tr><td>Formula 104</td><td>1.58 EUR / 0.25kg <span id="en">Lightly salted herring fillet "Islandes gaumē" - Expiration 30days</span><span id="ro">File hering ușor sărat "Islandes gaumē" - Termen valabilitate 30zile</td></tr>
 <tr><td>Formula 105</td><td>1.75 EUR / 0.15kg <span id="en">Mackerel fillet slices lightly salted with spices "Aromātiskā" - Expiration 30days</span><span id="ro">Felii de file macrou condimentat și ușor sărat "Aromātiskā"  - Termen valabilitate 30zile</td></tr>
 
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://www.bz97.lv" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://www.bz97.lv/en/products/all" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
 
 
