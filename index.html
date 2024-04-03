@@ -119,7 +119,24 @@ $(document).ready(function() {
 $(document).ready(function () { 
 
 
-  // Grab combined fodder info on click start
+  // Grab plant resins info on click start
+  $("#milkanddairyproductsbtn").click(function() {
+    if ($("#milkanddairyproducts").hasClass("clickedmilkanddairyproducts")) {
+        // already been clicked once, hide it
+        $("#milkanddairyproducts").html("");
+        $( "#milkanddairyproducts" ).removeClass( "clickedmilkanddairyproducts" )
+    }else {
+        // first time this is clicked, mark it
+        $("#milkanddairyproducts").addClass("clickedmilkanddairyproducts");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/milkanddairyproducts.txt", success: function(result){
+         $("#milkanddairyproducts").html(result);
+        }});
+    }
+   });
+  // Grab plant resins on click end
+
+	
+  // Grab plant resins info on click start
   $("#plantresinsbtn").click(function() {
     if ($("#plantresins").hasClass("clickedplantresins")) {
         // already been clicked once, hide it
@@ -133,7 +150,7 @@ $(document).ready(function () {
         }});
     }
    });
-  // Grab combined fodder on click end
+  // Grab plant resins on click end
 
   // Grab combined fodder info on click start
   $("#combinedfodderbtn").click(function() {
@@ -2895,10 +2912,6 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Truffles and Mushrooms</span><span id="ro">Trufe și Ciuperci</span></h5>
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion"><span id="en">Milk and Dairy Products</span><span id="ro">Lapte și Lactate</span></h5>   
-  <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Matured Cheese</span><span id="ro">Brânzeturi Maturate</span></h5>    
-  <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Fresh Eggs</span><span id="ro">Ouă Proaspete</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" id="chickenfreshmeatbtn" ><span id="en">Chicken Fresh Meat (1)</span><span id="ro">Carne Proaspătă de Pui (1)</span></h5>    
@@ -2934,14 +2947,14 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (29)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (29)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (39)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (39)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Echipamente morărit</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Echipamente ambalat alimente</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Cookware Items</span><span id="ro">Articole Gătit</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" id="cookingutensilsbtn" ><span id="en">Cooking utensils (4)</span><span id="ro">Ustensile Gătit (4)</span></h5>    
+  <h5 class="categoryaccordion" id="cookingutensilsbtn" ><span id="en">Cooking utensils (11)</span><span id="ro">Ustensile Gătit (11)</span></h5>    
    <table id="cookingutensils" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
@@ -3009,6 +3022,13 @@ $(document).ready(function () {
   <h5 class="categoryaccordion" ><span id="en">Canned Animal Origin Food</span><span id="ro">Conserve Alimente de Origine Animală</span></h5>
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Dietetic Hospital Food</span><span id="ro">Mâncare pentru Regimuri Alimentare Spital</span></h5> 
+  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="milkanddairyproductsbtn" ><span id="en">Milk and Dairy Products (3)</span><span id="ro">Lapte și Lactate (3)</span></h5>   
+   <table id="milkanddairyproducts" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	
+  <h5 class="categoryaccordion" ><span id="en">Matured Cheese</span><span id="ro">Brânzeturi Maturate</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion"><span id="en">Ice cream</span><span id="ro">Înghețată</span></h5>    
   <div class="rowbin" >-</div> 	
