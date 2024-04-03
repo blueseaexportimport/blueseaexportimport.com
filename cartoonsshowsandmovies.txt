@@ -1,5 +1,7 @@
 <tbody>
 
+
+
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CRM001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Cartoons - Hanna-Barbera</span><span id="ro">Desene Animate - Hanna-Barbera</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">USA</span><span id="en">SUA</span></td></tr>
