@@ -40,7 +40,7 @@
 <tr><td>Formula 22</td><td>1.3 EUR / 0.24kg <span id="en">Atlantic Salmon fillet "Premium Line" in mustard sauce - Easy Open can - Expiration 240days</span><span id="ro">Somon de Atlantic în sos muștar "Premium Line"  - conservă Easy Open* - Termen valabilitate 240zile</td></tr>
 <tr><td>Formula 23</td><td>1.3 EUR / 0.24kg <span id="en">Atlantic Salmon fillet "Premium Line" in brine - Easy Open can - Expiration 730days</span><span id="ro">Somon de Atlantic în saramură "Premium Line"  - conservă Easy Open* - Termen valabilitate 730zile</td></tr>
 
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">>Canned Atlantic Herring</span><span id="ro">Hering de Atlantic la conservă</span></td><td></td></tr>
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Canned Atlantic Herring</span><span id="ro">Hering de Atlantic la conservă</span></td><td></td></tr>
 
 <tr><td>Formula 24</td><td>0.80 EUR / 0.24kg <span id="en">Atlantic Herring in own juice with oil - Easy Open can - Expiration 240days</span><span id="ro">Hering de Atlantic în suc propriu cu ulei - conservă Easy Open* - Termen valabilitate 240zile</td></tr>
 <tr><td>Formula 25</td><td>0.80 EUR / 0.24kg <span id="en">Atlantic Herring in tomato sauce - Easy Open can - Expiration 240days</span><span id="ro">Hering de Atlantic în sos de tomate - conservă Easy Open* - Termen valabilitate 240zile</td></tr>
@@ -82,7 +82,7 @@
 <tr><td>Formula 53</td><td>2.65 EUR / 0.65kg <span id="en">Herring fillets in oil "Matje" - Expiration 60days</span><span id="ro">Hering file in ulei "Matje" - Termen valabilitate 60zile</td></tr>
 <tr><td>Formula 54</td><td>2.67 EUR / 0.65kg <span id="en">Herring fillets in oil "Ledenīte" - Expiration 60days</span><span id="ro">Hering file in ulei "Ledenīte" - Termen valabilitate 60zile</td></tr>
 
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">>Herring rolls</span><span id="ro">Rulouri de hering</span></td><td></td></tr>
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Herring rolls</span><span id="ro">Rulouri de hering</span></td><td></td></tr>
 
 <tr><td>Formula 55</td><td>1.88 EUR / 0.5kg <span id="en">Herring rolls in lemon-cranberry marinade without skin - Expiration 60days</span><span id="ro">Rulouri de hering fară peliță în marinată de merișoare și lămâie - Termen valabilitate 60zile</td></tr>
 <tr><td>Formula 56</td><td>1.88 EUR / 0.5kg <span id="en">Herring rolls with mushrooms and cucumbers in marinade without skin - Expiration 60days</span><span id="ro">Rulouri de hering fară peliță în marinată cu castraveți și ciuperci - Termen valabilitate 60zile</td></tr>
@@ -92,18 +92,18 @@
 <tr><td>Formula 60</td><td>3.3 EUR / 1kg <span id="en">Herring rolls in marinade without skin - Expiration 60days</span><span id="ro">Rulouri de hering fară peliță în marinată - Termen valabilitate 60zile</td></tr>
 
 
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">>Whole herring</span><span id="ro">Hering întreg</span></td><td></td></tr>
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Whole herring</span><span id="ro">Hering întreg</span></td><td></td></tr>
 
 <tr><td>Formula 61</td><td>2.44 EUR / 1.3kg <span id="en">Whole herring in special brine - Expiration 60days</span><span id="ro">Hering în saramură specială - Termen valabilitate 60zile</td></tr>
 
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">>Pieces of mackerel</span><span id="ro">Bucăți macrou</span></td><td></td></tr>
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Pieces of mackerel</span><span id="ro">Bucăți macrou</span></td><td></td></tr>
 
 <tr><td>Formula 62</td><td>1.55 EUR / 0.2kg <span id="en">Pieces of mackerel fillets in lemon marinade - Expiration 60days</span><span id="ro">Bucăți de macrou în marinată cu lămâie - Termen valabilitate 60zile</td></tr>
 <tr><td>Formula 63</td><td>1.65 EUR / 0.2kg <span id="en">Pieces of mackerel fillets smoked in oil - Expiration 60days</span><span id="ro">Bucăți de macrou afumat în ulei - Termen valabilitate 60zile</td></tr>
 <tr><td>Formula 64</td><td>1.65 EUR / 0.2kg <span id="en">Pieces of mackerel fillets in oil "Jums" - Expiration 60days</span><span id="ro">Bucăți de macrou în ulei "Jums" - Termen valabilitate 60zile</td></tr>
 <tr><td>Formula 65</td><td>2.96 EUR / 0.5kg <span id="en">Pieces of mackerel fillets in cranberry marinade - Expiration 60days</span><span id="ro">Bucăți de macrou în marinată de merișoare - Termen valabilitate 60zile</td></tr>
 
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">>Fried herring</span><span id="ro">Pește hering prăjit</span></td><td></td></tr>
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Fried herring</span><span id="ro">Pește hering prăjit</span></td><td></td></tr>
 
 <tr><td>Formula 66</td><td>1.25 EUR / 0.3kg <span id="en">Fried herring carcasses in marinade "Baltija" - Expiration 60days</span><span id="ro">Carcasă de hering prăjită în marinată "Baltija"  - Termen valabilitate 60zile</td></tr>
 <tr><td>Formula 67</td><td>1.29 EUR / 0.25kg <span id="en">Fried herring carcasses in jelly "Dzintariņš" - Expiration 60days</span><span id="ro">Carcasă de hering prăjită în jeleu ""Dzintariņš"  - Termen valabilitate 60zile</td></tr>
@@ -121,20 +121,20 @@
 <tr><td>Formula 77</td><td>5.4 EUR / 1.4kg <span id="en">Fried herring rolls in jelly "Zivju torte" - Expiration 60days</span><span id="ro">Rulouri de hering prăjit în jeleu "Zivju torte"  - Termen valabilitate 60zile</td></tr>
 
 
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">>Fried mackerel</span><span id="ro">Pește macrou prăjit</span></td><td></td></tr>
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Fried mackerel</span><span id="ro">Pește macrou prăjit</span></td><td></td></tr>
 
 <tr><td>Formula 78</td><td>1.74 EUR / 0.25kg <span id="en">Pieces of fried mackerel fillet tomato-vegetable sauce "Rudens" - Expiration 60days</span><span id="ro">Bucăți de macrou prăjit în sos tomate "Rudens" - Termen valabilitate 60zile</td></tr>
 <tr><td>Formula 79</td><td>1.76 EUR / 0.25kg <span id="en">Pieces of fried mackerel fillet in jelly "Nēģi mājas gaumē" - Expiration 60days</span><span id="ro">Bucăți de macrou prăjit în jeleu "Nēģi mājas gaumē" - Termen valabilitate 60zile</td></tr>
 <tr><td>Formula 80</td><td>2.9 EUR / 0.5kg <span id="en">Pieces of fried mackerel fillet in jelly "Nēģi mājas gaumē" - Expiration 60days</span><span id="ro">Bucăți de macrou prăjit în jeleu "Nēģi mājas gaumē" - Termen valabilitate 60zile</td></tr>
 
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">>Canned Atlantic mackerel</span><span id="ro">Pește macrou la conservă</span></td><td></td></tr>
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Canned Atlantic mackerel</span><span id="ro">Pește macrou la conservă</span></td><td></td></tr>
 
 <tr><td>Formula 81</td><td>0.96 EUR / 0.24kg <span id="en">Atlantic Mackerel in own juice with oil - Easy Open can - Expiration 730days</span><span id="ro">Macrou de Atlantic în suc propriu - conservă Easy Open - Termen valabilitate 730zile</td></tr>
 <tr><td>Formula 82</td><td>0.96 EUR / 0.24kg <span id="en">Atlantic Mackerel in tomato sauce - Easy Open can - Expiration 730days</span><span id="ro">Macrou de Atlantic în ulei - conservă Easy Open - Termen valabilitate 730zile</td></tr>
 <tr><td>Formula 83</td><td>0.99 EUR / 0.24kg <span id="en">Atlantic Mackerel in oil - Easy Open can - Expiration 730days</span><span id="ro">Macrou de Atlantic în ulei - conservă Easy Open - Termen valabilitate 730zile</td></tr>
 
 
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">>Fish salad</span><span id="ro">Salată de pește</span></td><td></td></tr>
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Fish salad</span><span id="ro">Salată de pește</span></td><td></td></tr>
 
 <tr><td>Formula 84</td><td>0.84 EUR / 0.24kg <span id="en">Salmon salad "Mexican" canned - Expiration 730days</span><span id="ro">Salata de somon in stil mexican la conservă - Termen valabilitate 730zile</td></tr>
 <tr><td>Formula 85</td><td>0.84 EUR / 0.24kg <span id="en">Salmon salad "Italian" canned - Expiration 730days</span><span id="ro">Salata de somon in stil italian la conservă - Termen valabilitate 730zile</td></tr>
@@ -154,7 +154,7 @@
 <tr><td>Formula 98</td><td>1.79 EUR / 0.36kg <span id="en">Pieces of herring fillets in mustard sauce "Somu gaumē" - Expiration 45days</span><span id="ro">Bucăți file de hering în sos de muștar "Somu gaumē" - Termen valabilitate 45zile</td></tr>
 <tr><td>Formula 99</td><td>2.1 EUR / 0.5kg <span id="en">A herring in a “Coat” with carrots and beets - Expiration 45days</span><span id="ro">Un hering la "Costum" cu morcovi și sfeclă - Termen valabilitate 45zile</td></tr>
 
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">>Fish in vacuum bag</span><span id="ro">Pește la pungă vacuum</span></td><td></td></tr>
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Fish in vacuum bag</span><span id="ro">Pește la pungă vacuum</span></td><td></td></tr>
 
 <tr><td>Formula 100</td><td>1.3 EUR / 0.1kg <span id="en">Slightly salted mackerel fillet slices with spices "Queen" - Expiration 30days</span><span id="ro">Felii de file macrou condimentat și ușor sărat "Queen"  - Termen valabilitate 30zile</td></tr>
 <tr><td>Formula 101</td><td>1.3 EUR / 0.2kg <span id="en">Lightly salted herring fillet "Matje" - Expiration 30days</span><span id="ro">File hering ușor sărat "Matje" - Termen valabilitate 30zile</td></tr>
