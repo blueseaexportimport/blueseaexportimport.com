@@ -232,7 +232,9 @@ if (class_ro === "new") {
     <tr><td><span id="en">Buttermilk powder</span><span id="ro">Pudra de zară</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr>   
     <tr><td><span id="en">Dietetic Yogurt</span><span id="ro">Iaurt dietetic</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span><br>( 0.1% -1% <span id="en">fats</span><span id="ro"> grăsimi</span>)</td><td>-</td></tr> 
 
--->
     <tr><td><span id="en">Mozzarela</span><span id="ro">Mozzarela</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr>         
     <tr><td><span id="en">Curd</span><span id="ro">Lapte covăsit</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr>             
     <tr><td><span id="en">Cheese cream</span><span id="ro">Cremă de brânză</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr> 
+
+-->
+
