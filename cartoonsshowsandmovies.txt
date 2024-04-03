@@ -7,86 +7,86 @@
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">USA</span><span id="en">SUA</span></td></tr>
 <tr><td><span id="en" >Language</span><span id="ro">Limbă</span></td><td style="color:#39ff14;" ><span id="en">English</span><span id="en">Engleză</span></td></tr>
 
-<tr><td>Formula 1</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Tom and Jerry shows and specials (1940–1958, 1975, 1990–1993, 2001)</td></tr>
-<tr><td>Formula 2</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Ruff and Reddy Show (1957–1960)</td></tr>
-<tr><td>Formula 3</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Huckleberry Hound Show (1958–1962) </td></tr>
-<tr><td>Formula 4</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Loopy De Loop (1959–1965) </td></tr>
-<tr><td>Formula 5</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Quick Draw McGraw Show (1959–1961)</td></tr>
-<tr><td>Formula 6</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Top Cat (1961–1962)</td></tr>
-<tr><td>Formula 7</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Hanna–Barbera New Cartoon Series (1962) </td></tr>
-<tr><td>Formula 8</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Jetsons (1962–1987) </td></tr>
-<tr><td>Formula 9</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Magilla Gorilla (1963–1967) </td></tr>
-<tr><td>Formula 10</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Jonny Quest (1964–1965) </td></tr>
-<tr><td>Formula 11</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Peter Potamus Show (1964–1965)</td></tr>
-<tr><td>Formula 12</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Atom Ant Show (1965–1967)</td></tr>
-<tr><td>Formula 13</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Secret Squirrel Show (1965–1968)</td></tr>
-<tr><td>Formula 14</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Impossibles (1966) </td></tr>
-<tr><td>Formula 15</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Space Ghost and Dino Boy (1966–1968)</td></tr>
-<tr><td>Formula 16</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Space Kidettes (1966-1967)</td></tr>
-<tr><td>Formula 17</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Shazzan (1967)</td></tr>
-<tr><td>Formula 18</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Birdman and the Galaxy Trio (1967–1969)</td></tr>
-<tr><td>Formula 19</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Moby Dick and Mighty Mightor (1967–1969) </td></tr>
-<tr><td>Formula 20</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Herculoids (1967–1969, 1981–1982) </td></tr>
-<tr><td>Formula 21</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Banana Splits (1968–1970)</td></tr>
-<tr><td>Formula 22</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Wacky Races (1968–1970)</td></tr>
-<tr><td>Formula 23</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Perils of Penelope Pitstop (1969–1971)</td></tr>
-<tr><td>Formula 24</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Josie and the Pussycats (1970–1972) </td></tr>
-<tr><td>Formula 25</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Dastardly and Muttley in Their Flying Machines (1969–1971) </td></tr>
-<tr><td>Formula 26</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Where's Huddles? (1970)</td></tr>
-<tr><td>Formula 27</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Help!... It's the Hair Bear Bunch! (1971–1974) </td></tr>
-<tr><td>Formula 28</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Amazing Chan and the Chan Clan (1972)</td></tr>
-<tr><td>Formula 29</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Roman Holidays (1972)</td></tr>
-<tr><td>Formula 30</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Sealab 2020 (1972)</td></tr>
-<tr><td>Formula 31</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Wait Till Your Father Gets Home (1972–1974)</td></tr>
-<tr><td>Formula 32</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Butch Cassidy and the Sundance Kids (1973)</td></tr>
-<tr><td>Formula 33</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Inch High Private Eye (1973) </td></tr>
-<tr><td>Formula 34</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Speed Buggy (1973)</td></tr>
-<tr><td>Formula 35</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Jeannie (1973–1975) </td></tr>
-<tr><td>Formula 36</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Goober and the Ghost Chasers (1973–1975) </td></tr>
-<tr><td>Formula 37</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Devlin (1974) </td></tr>
-<tr><td>Formula 38</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> These Are the Days (1974–1975)</td></tr>
-<tr><td>Formula 39</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Wheelie and the Chopper Bunch (1974–1975)</td></tr>
-<tr><td>Formula 40</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Hong Kong Phooey (1974–1976) </td></tr>
-<tr><td>Formula 41</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Valley of the Dinosaurs (1974–1976)</td></tr>
-<tr><td>Formula 42</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Great Grape Ape Show (1975–1978) </td></tr>
-<tr><td>Formula 43</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Clue Club (1976–1977) </td></tr>
-<tr><td>Formula 44</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Dynomutt, Dog Wonder (1976–1977) </td></tr>
-<tr><td>Formula 45</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Skatebirds (1977–1978)</td></tr>
-<tr><td>Formula 46</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Jabberjaw (1976–1978) </td></tr>
-<tr><td>Formula 47</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> CB Bears (1977)</td></tr>
-<tr><td>Formula 48</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Captain Caveman and the Teen Angels (1977–1980)</td></tr>
-<tr><td>Formula 49</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Jana of the Jungle (1978) </td></tr>
-<tr><td>Formula 50</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Dinky Dog (1978–1981) </td></tr>
-<tr><td>Formula 51</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Godzilla (1978–1981) </td></tr>
-<tr><td>Formula 52</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Kwicky Koala Show (1981) </td></tr>
-<tr><td>Formula 53</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Pac-Man (1982–1984)</td></tr>
-<tr><td>Formula 54</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The All New Popeye Hour (1978–1983) </td></tr>
-<tr><td>Formula 55</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Casper and the Space Angels (1979)</td></tr>
-<tr><td>Formula 56</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Space Stars (1981)</td></tr>
-<tr><td>Formula 57</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Smurfs (1981–1990)</td></tr>
-<tr><td>Formula 58</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Biskitts (1983) </td></tr>
-<tr><td>Formula 59</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Pink Panther and Sons (1984–1985)</td></tr>
-<tr><td>Formula 60</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Snorks (1984-1989)</td></tr>
-<tr><td>Formula 61</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Berenstain Bears (1985–1987) </td></tr>
-<tr><td>Formula 62</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Pound Puppies (1985, 1986–1987)</td></tr>
-<tr><td>Formula 63</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Foofur (1986–1988) </td></tr>
-<tr><td>Formula 64</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Completely Mental Misadventures of Ed Grimley (1988) </td></tr>
-<tr><td>Formula 65</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Captain Planet and the Planeteers (1990–1996) </td></tr>
-<tr><td>Formula 66</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Once Upon a Forest (1993) </td></tr>
-<tr><td>Formula 67</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Droopy, Master Detective (1993) </td></tr>
-<tr><td>Formula 68</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The New Adventures of Captain Planet (1993–1996) </td></tr>
-<tr><td>Formula 69</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> SWAT Kats: The Radical Squadron (1993–1994)</td></tr>
-<tr><td>Formula 70</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> 2 Stupid Dogs (1993–1995) </td></tr>
-<tr><td>Formula 71</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Daisy-Head Mayzie (1995) </td></tr>
-<tr><td>Formula 72</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Cartoon Cartoon Show (1995) </td></tr>
-<tr><td>Formula 73</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Dexter's Laboratory (1996–2003) </td></tr>
-<tr><td>Formula 74</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Cow and Chicken (1997–1999) </td></tr>
-<tr><td>Formula 75</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> I Am Weasel (1997–2000) </td></tr>
-<tr><td>Formula 76</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Johnny Bravo (1997–2004) </td></tr>
-<tr><td>Formula 77</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Powerpuff Girls (1998-2005)</td></tr>
-<tr><td>Formula 78</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Flintstones and related spin-offs (1960–present) </td></tr>
-<tr><td>Formula 79</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Yogi Bear Show and related spin-offs (1961–present)</td></tr>
-<tr><td>Formula 80</td><td>0.00 RON / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Scooby-Doo and related spin-offs (1969–present)</td></tr>
+<tr><td>Formula 1</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Tom and Jerry shows and specials (1940–1958, 1975, 1990–1993, 2001)</td></tr>
+<tr><td>Formula 2</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Ruff and Reddy Show (1957–1960)</td></tr>
+<tr><td>Formula 3</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Huckleberry Hound Show (1958–1962) </td></tr>
+<tr><td>Formula 4</td><td>44 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Loopy De Loop (1959–1965) </td></tr>
+<tr><td>Formula 5</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Quick Draw McGraw Show (1959–1961)</td></tr>
+<tr><td>Formula 6</td><td>12.50 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Top Cat (1961–1962)</td></tr>
+<tr><td>Formula 7</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Hanna–Barbera New Cartoon Series (1962) </td></tr>
+<tr><td>Formula 8</td><td>15 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Jetsons (1962–1987) </td></tr>
+<tr><td>Formula 9</td><td>9.77 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Magilla Gorilla (1963–1967) </td></tr>
+<tr><td>Formula 10</td><td>12.92 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Jonny Quest: The Complete Original Series (1964–1965) </td></tr>
+<tr><td>Formula 11</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Peter Potamus Show (1964–1965)</td></tr>
+<tr><td>Formula 12</td><td>22.46 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Atom Ant Show (1965–1967)</td></tr>
+<tr><td>Formula 13</td><td>24.99 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Secret Squirrel Show (1965–1968)</td></tr>
+<tr><td>Formula 14</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Impossibles (1966) </td></tr>
+<tr><td>Formula 15</td><td>22.98 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Space Ghost and Dino Boy (1966–1968)</td></tr>
+<tr><td>Formula 16</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Space Kidettes (1966-1967)</td></tr>
+<tr><td>Formula 17</td><td>22.99 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Shazzan (1967)</td></tr>
+<tr><td>Formula 18</td><td>16.09 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Birdman and the Galaxy Trio (1967–1969)</td></tr>
+<tr><td>Formula 19</td><td>24.46 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Moby Dick and Mighty Mightor (1967–1969) </td></tr>
+<tr><td>Formula 20</td><td>18.96 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Herculoids (1967–1969, 1981–1982) </td></tr>
+<tr><td>Formula 21</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Banana Splits (1968–1970)</td></tr>
+<tr><td>Formula 22</td><td>11 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Wacky Races (1968–1970)</td></tr>
+<tr><td>Formula 23</td><td>18.86 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Perils of Penelope Pitstop (1969–1971)</td></tr>
+<tr><td>Formula 24</td><td>11.99 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Josie and the Pussycats (1970–1972) </td></tr>
+<tr><td>Formula 25</td><td>56.99 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Dastardly and Muttley in Their Flying Machines (1969–1971) </td></tr>
+<tr><td>Formula 26</td><td>21.87 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Where's Huddles? (1970)</td></tr>
+<tr><td>Formula 27</td><td>16.95 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Help!... It's the Hair Bear Bunch! (1971–1974) </td></tr>
+<tr><td>Formula 28</td><td>36.99 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Amazing Chan and the Chan Clan (1972)</td></tr>
+<tr><td>Formula 29</td><td>16.95 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Roman Holidays (1972)</td></tr>
+<tr><td>Formula 30</td><td>19.99 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Sealab 2020 (1972)</td></tr>
+<tr><td>Formula 31</td><td>77.45 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Wait Till Your Father Gets Home (1972–1974)</td></tr>
+<tr><td>Formula 32</td><td>9.99 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Butch Cassidy and the Sundance Kids (1973)</td></tr>
+<tr><td>Formula 33</td><td>8.99 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Inch High Private Eye (1973) </td></tr>
+<tr><td>Formula 34</td><td>18.88 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Speed Buggy (1973)</td></tr>
+<tr><td>Formula 35</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Jeannie (1973–1975) </td></tr>
+<tr><td>Formula 36</td><td>19.99 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Goober and the Ghost Chasers (1973–1975) </td></tr>
+<tr><td>Formula 37</td><td>24.15 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Devlin (1974) </td></tr>
+<tr><td>Formula 38</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> These Are the Days (1974–1975)</td></tr>
+<tr><td>Formula 39</td><td>19.99 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Wheelie and the Chopper Bunch (1974–1975)</td></tr>
+<tr><td>Formula 40</td><td>14.87 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Hong Kong Phooey (1974–1976) </td></tr>
+<tr><td>Formula 41</td><td>17.99 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Valley of the Dinosaurs (1974–1976)</td></tr>
+<tr><td>Formula 42</td><td>17.99 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Great Grape Ape Show (1975–1978) </td></tr>
+<tr><td>Formula 43</td><td>14.55 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Clue Club (1976–1977) </td></tr>
+<tr><td>Formula 44</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Dynomutt, Dog Wonder (1976–1977) </td></tr>
+<tr><td>Formula 45</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Skatebirds (1977–1978)</td></tr>
+<tr><td>Formula 46</td><td>26.99 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Jabberjaw (1976–1978) </td></tr>
+<tr><td>Formula 47</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> CB Bears (1977)</td></tr>
+<tr><td>Formula 48</td><td>13.88 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Captain Caveman and the Teen Angels (1977–1980)</td></tr>
+<tr><td>Formula 49</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Jana of the Jungle (1978) </td></tr>
+<tr><td>Formula 50</td><td>12.91 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Dinky Dog (1978–1981) </td></tr>
+<tr><td>Formula 51</td><td>166.83 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Godzilla (1978–1981) </td></tr>
+<tr><td>Formula 52</td><td>22.49 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Kwicky Koala Show (1981) </td></tr>
+<tr><td>Formula 53</td><td>28.37 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Pac-Man (1982–1984)</td></tr>
+<tr><td>Formula 54</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The All New Popeye Hour (1978–1983) </td></tr>
+<tr><td>Formula 55</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Casper and the Space Angels (1979)</td></tr>
+<tr><td>Formula 56</td><td>22.29 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Space Stars (1981)</td></tr>
+<tr><td>Formula 57</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Smurfs (1981–1990)</td></tr>
+<tr><td>Formula 58</td><td>24.14 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Biskitts (1983) </td></tr>
+<tr><td>Formula 59</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Pink Panther and Sons (1984–1985)</td></tr>
+<tr><td>Formula 60</td><td>53.96 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Snorks (1984-1989)</td></tr>
+<tr><td>Formula 61</td><td>15.96 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Berenstain Bears (1985–1987) </td></tr>
+<tr><td>Formula 62</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Pound Puppies (1985, 1986–1987)</td></tr>
+<tr><td>Formula 63</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Foofur (1986–1988) </td></tr>
+<tr><td>Formula 64</td><td>22.95 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Completely Mental Misadventures of Ed Grimley (1988) </td></tr>
+<tr><td>Formula 65</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Captain Planet and the Planeteers (1990–1996) </td></tr>
+<tr><td>Formula 66</td><td>6.11 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Once Upon a Forest (1993) </td></tr>
+<tr><td>Formula 67</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Droopy, Master Detective (1993) </td></tr>
+<tr><td>Formula 68</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The New Adventures of Captain Planet (1993–1996) </td></tr>
+<tr><td>Formula 69</td><td>39.72 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> SWAT Kats: The Radical Squadron (1993–1994)</td></tr>
+<tr><td>Formula 70</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> 2 Stupid Dogs (1993–1995) </td></tr>
+<tr><td>Formula 71</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Daisy-Head Mayzie (1995) </td></tr>
+<tr><td>Formula 72</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Cartoon Cartoon Show (1995) </td></tr>
+<tr><td>Formula 73</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Dexter's Laboratory (1996–2003) </td></tr>
+<tr><td>Formula 74</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Cow and Chicken (1997–1999) </td></tr>
+<tr><td>Formula 75</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> I Am Weasel (1997–2000) </td></tr>
+<tr><td>Formula 76</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Johnny Bravo (1997–2004) </td></tr>
+<tr><td>Formula 77</td><td>59.99 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Powerpuff Girls (1998-2005)</td></tr>
+<tr><td>Formula 78</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Flintstones and related spin-offs (1960–present) </td></tr>
+<tr><td>Formula 79</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> The Yogi Bear Show and related spin-offs (1961–present)</td></tr>
+<tr><td>Formula 80</td><td>0.00 USD / DVD <span id="en" >Complete Series</span><span id="ro">Serie completă</span> Scooby-Doo and related spin-offs (1969–present)</td></tr>
 
 
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.amazon.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
