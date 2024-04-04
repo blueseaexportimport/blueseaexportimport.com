@@ -119,6 +119,26 @@ $(document).ready(function() {
 $(document).ready(function () { 
 
 
+
+
+
+
+  // Grab crosswords on click start
+  $("#crosswordsbtn").click(function() {
+    if ($("#crosswords").hasClass("clickedcrosswords")) {
+        // already been clicked once, hide it
+        $("#crosswords").html("");
+        $( "#crosswords" ).removeClass( "clickedcrosswords" )
+    }else {
+        // first time this is clicked, mark it
+        $("#crosswords").addClass("clickedcrosswords");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/crosswords.txt", success: function(result){
+         $("#crosswords").html(result);
+        }});
+    }
+   });
+  // Grab crosswords on click end
+
   // Grab cartoonsshowsandmovies on click start
   $("#cartoonsshowsandmoviesbtn").click(function() {
     if ($("#cartoonsshowsandmovies").hasClass("clickedcartoonsshowsandmovies")) {
@@ -3155,8 +3175,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Children books </span><span id="ro">Cărți copii</span></h5>    
   <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" ><span id="en">Crosswords, sudoku, puzzles and other games</span><span id="ro">Integrame, sudoku și alte jocuri</span></h5>  
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="crosswordsbtn" ><span id="en">Crosswords, sudoku, puzzles and other games (1)</span><span id="ro">Integrame, sudoku și alte jocuri (1)</span></h5>  
+   <table id="crosswords" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	
   </div></li><!--END SECTION-->
  
   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>Y. ART AND COLLECTIBLES (2)</b></span> <span id="ro"><b>Y. ARTĂ ȘI OBIECTE DE COLECȚIE (2)</b></span></button><div class="catalogpanel">
