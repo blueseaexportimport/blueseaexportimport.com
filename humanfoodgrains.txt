@@ -3,8 +3,6 @@
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">GRN0001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Grains</span><span id="ro">Cereale</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-<tr><td><span id="en" >Packaging</span><span id="ro">Ambalaj</span></td><td style="color:#39ff14;" ><span id="en" >Plastic sack</span><span id="ro">Sac rafie</span></td></tr>
-<tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en" >non-treated with fungicide</span><span id="ro">ne-tratate cu fungicid</span></td></tr>
 
 <tr><td>Formula 1</td><td>5.44 RON / 500g <span id="en">Common wheat seeds</span><span id="ro">Semințe grâu</span></td></tr>
 <tr><td>Formula 2</td><td>5.58 RON / 500g <span id="en">Rye seeds</span><span id="ro">Semințe secară</span></td></tr>
