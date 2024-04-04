@@ -1,10 +1,44 @@
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">GRN0001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Human food grains</span><span id="ro">Cereale consum uman</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td><span id="en" >Packaging</span><span id="ro">Ambalaj</span></td><td style="color:#39ff14;" ><span id="en" >Plastic sack</span><span id="ro">Sac rafie</span></td></tr>
+
+<tr><td>Formula 1</td><td>0 RON / kg <span id="en">Rye</span><span id="ro">Secară</span></td></tr>
+<tr><td>Formula 1</td><td>0 RON / kg <span id="en">Soybeans</span><span id="ro">Boabe de soia</span></td></tr>
+<tr><td>Formula 1</td><td>0 RON / kg <span id="en">Canola</span><span id="ro">Boabe de rapiță</span></td></tr>
+<tr><td>Formula 1</td><td>0 RON / kg <span id="en">Barley</span><span id="ro">Orz</span></td></tr>
+<tr><td>Formula 1</td><td>0 RON / kg <span id="en">Oats</span><span id="ro">Ovăz</span></td></tr>
+<tr><td>Formula 1</td><td>0 RON / kg <span id="en">Common wheat</span><span id="ro">Grâu</span></td></tr>
+<tr><td>Formula 1</td><td>0 RON / kg <span id="en">Spelt wheat</span><span id="ro">Grâu spelta</span></td></tr>
+<tr><td>Formula 1</td><td>0 RON / kg <span id="en">Durum wheat</span><span id="ro">Grâu durum</span></td></tr>
+<tr><td>Formula 1</td><td>0 RON / kg <span id="en">Maize - Zea mays indurata</span><span id="ro">Grăunțe porumb sticlos</span></td></tr>
+<tr><td>Formula 1</td><td>0 RON / kg <span id="en">White dent maize - Zea mays var. indentat</span><span id="ro">Grăunțe porumb alb</span></td></tr>
+<tr><td>Formula 1</td><td>0 RON / kg <span id="en">Popcorn maize - Zea mays var. everta</span><span id="ro">Grăunțe porumb floricele</span></td></tr>
 
 
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://www.fermador.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
+</tbody>
+
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
 
 <!--
-
 
 <tr><td><span id="en">Edible food grade rye</span><span id="ro">Secară alimentară</span></td><td><span id="en">Standard SR 984 Grade Ro Nr. 1</span><span id="ro">Standard SR 984 Grad Ro Nr. 1</span></td><td>-</td></tr>    
     <tr><td><span id="en">Soybeans</span><span id="ro">Boabe de soia</span> </td><td><span id="en">Standard SR 3319 Grade Ro Nr. 1</span><span id="ro">Standard SR 3319 Grad Ro Nr. 1</span></td><td>-</td></tr>    
