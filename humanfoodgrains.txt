@@ -1,24 +1,33 @@
+<tbody>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">GRN0001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Human food grains</span><span id="ro">Cereale consum uman</span></td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Grains</span><span id="ro">Cereale</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
 <tr><td><span id="en" >Packaging</span><span id="ro">Ambalaj</span></td><td style="color:#39ff14;" ><span id="en" >Plastic sack</span><span id="ro">Sac rafie</span></td></tr>
+<tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en" >non-treated with fungicide</span><span id="ro">ne-tratate cu fungicid</span></td></tr>
 
-<tr><td>Formula 1</td><td>0 RON / kg <span id="en">Rye seeds</span><span id="ro">Semințe secară</span></td></tr>
-<tr><td>Formula 2</td><td>0 RON / kg <span id="en">Soybeans seeds</span><span id="ro">Boabe de soia</span></td></tr>
-<tr><td>Formula 3</td><td>0 RON / kg <span id="en">Canola seeds</span><span id="ro">Boabe de rapiță</span></td></tr>
-<tr><td>Formula 4</td><td>0 RON / kg <span id="en">Barley seeds</span><span id="ro">Semințe orz</span></td></tr>
-<tr><td>Formula 5</td><td>0 RON / kg <span id="en">Oats seeds</span><span id="ro">Semințe ovăz</span></td></tr>
-<tr><td>Formula 6</td><td>0 RON / kg <span id="en">Common wheat seeds</span><span id="ro">Semințe grâu</span></td></tr>
-<tr><td>Formula 7</td><td>0 RON / kg <span id="en">Spelt wheat seeds</span><span id="ro">Semințe grâu spelta</span></td></tr>
-<tr><td>Formula 8</td><td>0 RON / kg <span id="en">Durum wheat seeds</span><span id="ro">Semințe grâu durum</span></td></tr>
-<tr><td>Formula 9</td><td>0 RON / kg <span id="en">Maize seeds - Zea mays indurata</span><span id="ro">Grăunțe porumb sticlos</span></td></tr>
-<tr><td>Formula 10</td><td>0 RON / kg <span id="en">White dent maize seeds - Zea mays var. indentat</span><span id="ro">Grăunțe porumb alb</span></td></tr>
-<tr><td>Formula 11</td><td>0 RON / kg <span id="en">Popcorn maize seeds - Zea mays var. everta</span><span id="ro">Grăunțe porumb floricele</span></td></tr>
+<tr><td>Formula 1</td><td>5.44 RON / 500g <span id="en">Common wheat seeds</span><span id="ro">Semințe grâu</span></td></tr>
+<tr><td>Formula 2</td><td>5.58 RON / 500g <span id="en">Rye seeds</span><span id="ro">Semințe secară</span></td></tr>
+<tr><td>Formula 3</td><td>7.12 RON / 500g <span id="en">Soybeans seeds</span><span id="ro">Boabe de soia</span></td></tr>
+<tr><td>Formula 4</td><td>7.26 RON / 500g <span id="en">Barley seeds</span><span id="ro">Semințe orz</span></td></tr>
+<tr><td>Formula 5</td><td>8.37 RON / 500g <span id="en">Oats seeds</span><span id="ro">Semințe ovăz</span></td></tr>
+<tr><td>Formula 6</td><td>8.79 RON / 500g <span id="en">Spelt wheat seeds</span><span id="ro">Semințe grâu spelta</span></td></tr>
+<tr><td>Formula 7</td><td>9.21 RON / 500g <span id="en">Shelled millet</span><span id="ro">Grăunțe mei decorticat</span></td></tr>
 
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://solarisplant.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+
+
+<tr><td>Formula 8</td><td>0 RON / 500g <span id="en">Durum wheat seeds</span><span id="ro">Semințe grâu durum</span></td></tr>
+<tr><td>Formula 9</td><td>0 RON / 500g <span id="en">Maize seeds - Zea mays indurata</span><span id="ro">Grăunțe porumb sticlos</span></td></tr>
+<tr><td>Formula 10</td><td>0 RON / 500g <span id="en">White dent maize seeds - Zea mays var. indentat</span><span id="ro">Grăunțe porumb alb</span></td></tr>
+<tr><td>Formula 11</td><td>0 RON / 500g <span id="en">Popcorn maize seeds - Zea mays var. everta</span><span id="ro">Grăunțe porumb floricele</span></td></tr>
+<tr><td>Formula 3</td><td>0 RON / 500g <span id="en">Canola seeds</span><span id="ro">Boabe de rapiță</span></td></tr>
+
+
+
+
 
 </tbody>
 
