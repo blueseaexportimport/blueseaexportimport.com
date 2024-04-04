@@ -1,2 +1,329 @@
 <tbody>
+
+
+<tbody>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CRS0001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Romanian Crosswords Magazines</span><span id="ro">Revistă România Integrame</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en" >Could take 30-40 days until they arrive in your country</span><span id="ro">Poate dura 30-40 zile până să ajungă în țara dumneavoastră</span></td></tr>
+<tr><td><span id="en" >Language</span><span id="ro">Limbă</span></td><td style="color:#39ff14;" ><span id="en" >Romanian</span><span id="ro">Română</span></td></tr>
+
+<tr><td>Formula 1</td><td>20.6 RON /  Integrama De Elita <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>4.8 RON / Integrame Fără Stres <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>15.3 RON / Integrame Fără Stres <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>27.6 RON / Integrame Fără Stres <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>4.8 RON / Integrame Fascinante <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>15.3 RON / Integrame Fascinante <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>27.6 RON / Integrame Fascinante <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>4.8 RON / Integrame Speciale <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>15.3 RON / Integrame Speciale <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>27.6 RON / Integrame Speciale <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>27.6 RON / Caleidoscop Integrame & Jocuri <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>13.8 RON / Integrame Domino <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>27.6 RON / Integrame Domino <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>5.3 RON / Integrama Verde <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>31.8 RON / Integrama Verde <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>20.6 RON / Sudoku Mania <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>41.2 RON / Sudoku Mania <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>12.9 RON / Integrama Blitz <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>25.8 RON / Integrama Blitz <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>51.6 RON / Integrama Blitz <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>12.9 RON / Integrama De Buzunar <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>25.8 RON / Integrama De Buzunar <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>51.6 RON / Integrama De Buzunar <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>12.9 RON / Integrama Fantastică <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>25.8 RON / Integrama Fantastică <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>51.6 RON / Integrama Fantastică <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>12.9 RON / Integrama Fulger <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>25.8 RON / Integrama Fulger <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>51.6 RON / Integrama Fulger <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>12.9 RON / Integrame Pentru Tinerii Pensionari <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>25.8 RON / Integrame Pentru Tinerii Pensionari <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>51.6 RON / Integrame Pentru Tinerii Pensionari <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>12.9 RON / Jocuri <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>25.8 RON / Jocuri <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>51.6 RON / Jocuri <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>12.9 RON / Parada Integramelor <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>25.8 RON / Parada Integramelor <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>51.6 RON / Parada Integramelor <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>12.9 RON / Sudoku De Buzunar <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>25.8 RON / Sudoku De Buzunar <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>51.6 RON / Sudoku De Buzunar <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>14.4 RON / Integrame Vesele <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>28.8 RON / Integrame Vesele <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>57.6 RON / Integrame Vesele <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>14.4 RON / Integrame De Timp Liber <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>28.8 RON / Integrame De Timp Liber <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>57.6 RON / Integrame De Timp Liber <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>12.3 RON / Integrama Simplex <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>32.4 RON / Integrama Simplex <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>59.4 RON / Integrama Simplex <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
+
+<tr><td>Formula 1</td><td>12.3 RON / Integrame Usurele <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>32.4 RON / Integrame Usurele <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>59.4 RON / Integrame Usurele <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
+
+<tr><td>Formula 1</td><td>15.2 RON / Almanah De Integrame Varietati <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>60.8 RON / Almanah De Integrame Varietati <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
+
+<tr><td>Formula 1</td><td>15.2 RON / Almanah Sudoku <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>60.8 RON / Almanah Sudoku <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
+
+<tr><td>Formula 1</td><td>18.9 RON / Rebus Maxim De Buzunar <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>32.8 RON / Rebus Maxim De Buzunar <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>61.6 RON / Rebus Maxim De Buzunar <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>10.3 RON / Integrama Carnaval <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>63.6 RON / Integrama Carnaval <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
+
+<tr><td>Formula 1</td><td>15.9 RON / Integrama De Top <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>31.8 RON / Integrama De Top <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>63.6 RON / Integrama De Top <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>15.9 RON / Integrama Haioasă <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>31.8 RON / Integrama Haioasă <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>63.6 RON / Integrama Haioasă <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>15.9 RON / Integrama Zodiilor <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>31.8 RON / Integrama Zodiilor <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>63.6 RON / Integrama Zodiilor <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>15.9 RON / Integrama De Curiozitati <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>31.8 RON / Integrama De Curiozitati <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>63.6 RON / Integrama De Curiozitati <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>15.9 RON / Integrama Mondenă <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>31.8 RON / Integrama Mondenă <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>63.6 RON / Integrama Mondenă <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>15.9 RON / Integrame Cu Gust <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>31.8 RON / Integrame Cu Gust <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>63.6 RON / Integrame Cu Gust <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>15.9 RON / Rebus De Buzunar <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>31.8 RON / Rebus De Buzunar <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>63.6 RON / Rebus De Buzunar <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>18.6 RON / Rebusache <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>37.2 RON / Rebusache <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>74.4 RON / Rebusache <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>15.3 RON / Integrama Celor Mici <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>40.05 RON / Integrama Celor Mici <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>75.6 RON / Integrama Celor Mici <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
+
+<tr><td>Formula 1</td><td>15.3 RON / Integrama Copiilor <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>40.05 RON / Integrama Copiilor <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>75.6 RON / Integrama Copiilor <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
+
+<tr><td>Formula 1</td><td>15.3 RON / Integrama Cu Desene <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>40.05 RON / Integrama Cu Desene <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>75.6 RON / Integrama Cu Desene <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
+
+<tr><td>Formula 1</td><td>15.3 RON / Integrama Junior <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>39.15 RON / Integrama Junior <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>75.6 RON / Integrama Junior <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
+
+
+<tr><td>Formula 1</td><td>15.3 RON / Integrame Simplissime <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>39.15 RON / Integrame Simplissime <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>75.6 RON / Integrame Simplissime <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
+
+<tr><td>Formula 1</td><td>18.9 RON / Divers Rebus <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>37.8 RON / Divers Rebus <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>75.6 RON / Divers Rebus <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
+
+<tr><td>Formula 1</td><td>16.3 RON / Ok Sudoku <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>41.88 RON / Ok Sudoku <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>78.6 RON / Ok Sudoku <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
+
+<tr><td>Formula 1</td><td>21.9 RON / Rebus Plus <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>43.8 RON / Rebus Plus <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>87.6 RON / Rebus Plus <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>9.3 RON / Bazar Umoristic <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>27.9 RON / Bazar Umoristic <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>47.8 RON / Bazar Umoristic <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>89.6 RON / Bazar Umoristic <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>9.3 RON / Diagrame Cu Umor <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>27.9 RON / Diagrame Cu Umor <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>47.8 RON / Diagrame Cu Umor <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>89.6 RON / Diagrame Cu Umor <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>9.3 RON / Pastile Antistres <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>27.9 RON / Pastile Antistres <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>47.8 RON / Pastile Antistres <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>89.6 RON / Pastile Antistres <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>9.3 RON / Retrograme Cu Umor <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>27.9 RON / Retrograme Cu Umor <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>47.8 RON / Retrograme Cu Umor <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>89.6 RON / Retrograme Cu Umor <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>9.3 RON / Weekend Magazin <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>27.9 RON / Weekend Magazin <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>47.8 RON / Weekend Magazin <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>89.6 RON / Weekend Magazin <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+
+<tr><td>Formula 1</td><td>11.3 RON / Rebus Maxim <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>33.9 RON / Rebus Maxim <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>57.8 RON / Rebus Maxim <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>109.6 RON / Rebus Maxim <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>11.3 RON / Super Sudoku International <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>33.9 RON / Super Sudoku International <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>57.8 RON / Super Sudoku International <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>109.6 RON / Super Sudoku International <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>12.3 RON / Bancuri si Integrame <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>33.3 RON / Bancuri si Integrame <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>63 RON / Bancuri si Integrame <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>118.8 RON / Bancuri si Integrame <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>12.3 RON / Formula Maxim <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>33.3 RON / Formula Maxim <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>63 RON / Formula Maxim <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>118.8 RON / Formula Maxim <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>12.3 RON / Integrama Asilor <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>33.3 RON / Integrama Asilor <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>63 RON / Integrama Asilor <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>118.8 RON / Integrama Asilor <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>12.3 RON / Integrama De 5 Stele <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>33.3 RON / Integrama De 5 Stele <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>63 RON / Integrama De 5 Stele <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>118.8 RON / Integrama De 5 Stele <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>12.3 RON / Integrama Expert <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>33.3 RON / Integrama Expert <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>63 RON / Integrama Expert <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>118.8 RON / Integrama Expert <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>12.3 RON / Integrama Femeilor <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>33.3 RON / Integrama Femeilor <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>63 RON / Integrama Femeilor <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>118.8 RON / Integrama Femeilor <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>12.3 RON / Integrame Cu Mult Haz <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>33.3 RON / Integrame Cu Mult Haz <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>63 RON / Integrame Cu Mult Haz <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>118.8 RON / Integrame Cu Mult Haz <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>12.3 RON / Integrame Cu Poante <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>33.3 RON / Integrame Cu Poante <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>63 RON / Integrame Cu Poante <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>118.8 RON / Integrame Cu Poante <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>25.3 RON / Almanah De Integrame Cu Bancuri <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>65.55 RON / Almanah De Integrame Cu Bancuri <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>121.8 RON / Almanah De Integrame Cu Bancuri <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>25.3 RON / Almanah De Integrame Cu Mult Haz <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>65.55 RON / Almanah De Integrame Cu Mult Haz <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>121.8 RON / Almanah De Integrame Cu Mult Haz <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>25.3 RON / Almanah De Integrame Cu Glume <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>65.55 RON / Almanah De Integrame Cu Glume <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>121.8 RON / Almanah De Integrame Cu Glume <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>25.3 RON / Almanah De Integrame Cu Poante <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>65.55 RON / Almanah De Integrame Cu Poante <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>121.8 RON / Almanah De Integrame Cu Poante <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>25.3 RON / Almanah De Integrame Cu Umor <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>65.55 RON / Almanah De Integrame Cu Umor <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>121.8 RON / Almanah De Integrame Cu Umor <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>25.3 RON / Almanah Integrama 5 Stele <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>65.55 RON / Almanah Integrama 5 Stele <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>121.8 RON / Almanah Integrama 5 Stele <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>25.3 RON / Almanah Integrama Asilor <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>65.55 RON / Almanah Integrama Asilor <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>121.8 RON / Almanah Integrama Asilor <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>25.3 RON / Almanah Integrama Femeilor <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>65.55 RON / Almanah Integrama Femeilor <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>121.8 RON / Almanah Integrama Femeilor <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>36.9 RON / Rebus <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>73.8 RON / Rebus <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>147.6 RON / Rebus <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>15.3 RON / Rebus Elixir <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>41.4 RON / Rebus Elixir <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>78.3 RON / Rebus Elixir <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>147.6 RON / Rebus Elixir <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>18.3 RON / Divertissima <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>54.9 RON / Divertissima <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>93.8 RON / Divertissima <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>176.6 RON / Divertissima <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>18.3 RON / Gigantica <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>54.9 RON / Gigantica <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>93.8 RON / Gigantica <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>176.6 RON / Gigantica <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>18.3 RON / Grandissima <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>54.9 RON / Grandissima <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>93.8 RON / Grandissima <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>176.6 RON / Grandissima <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>18.3 RON / Integrame Cu Bancuri <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>54.9 RON / Integrame Cu Bancuri <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>93.8 RON / Integrame Cu Bancuri <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>176.6 RON / Integrame Cu Bancuri <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>18.3 RON / Integrame La Maxim <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>54.9 RON / Integrame La Maxim <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>93.8 RON / Integrame La Maxim <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>176.6 RON / Integrame La Maxim <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+<tr><td>Formula 1</td><td>18.3 RON / Surprize <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
+<tr><td>Formula 1</td><td>54.9 RON / Surprize <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>93.8 RON / Surprize <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
+<tr><td>Formula 1</td><td>176.6 RON / Surprize <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Lună</span></td></tr>
+
+
+
+<tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.posta-romana.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
+</tbody>
+
+
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
+
+
+
+
+
 </tbody>
