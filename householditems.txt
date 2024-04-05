@@ -17,12 +17,24 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Clothes drying rack</span><span id="ro">Uscător rufe</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >China</span><span id="ro">China</span></td></tr>
 
-<tr><td>Formula 1</td><td>54 RON / model 180 x 55 x 93 cm</td></tr>
+<tr><td>Formula 1</td><td>4.32 RON / model 180 x 55 x 93 cm</td></tr>
 <tr><td>Formula 2</td><td>70 RON / model 170.5 x 54 x 88.5 cm</td></tr>
 
 <tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.dedeman.ro/ro/uscatoare-rufe-clasice/c/6384?order=price-asc&page=1" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
 
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0003</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Clothes line wire</span><span id="ro">Sârmă pentru rufe</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >China</span><span id="ro">China</span></td></tr>
+
+<tr><td>Formula 1</td><td>4.32 RON / PVC 10m <span id="en" >green</span><span id="ro">verde</span></td></tr>
+<tr><td>Formula 2</td><td>4.32 RON / PVC 10m <span id="en" >yellow</span><span id="ro">galben</span></td></tr>
+<tr><td>Formula 3</td><td>4.32 RON / PVC 10m <span id="en" >blue</span><span id="ro">albastru</span></td></tr>
+<tr><td>Formula 4</td><td>4.32 RON / PVC 10m <span id="en" >red</span><span id="ro">rosu</span></td></tr>
+
+<tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.inaplast.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
 
 
 
@@ -47,7 +59,6 @@ if (class_ro === "new") {
 
 <!--
 
-       <tr><td>Clothes line wire</td><td>-</td><td>-</td></tr>
        <tr><td>Clothes Wire hangers</td><td>-</td><td>-</td></tr>
        <tr><td>Wood clothes pegs</td><td>-</td><td>-</td></tr>
        <tr><td>Clothes brush</td><td>-</td><td>-</td></tr>
