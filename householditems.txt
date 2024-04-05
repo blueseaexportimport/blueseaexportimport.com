@@ -142,6 +142,20 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0014</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Dustpan</span><span id="ro">Făraș</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>9.5 RON / <span id="en" >pcs</span><span id="ro">buc</span> model 1792</td></tr>
+
+<tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.perind.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+
+
+
 
 </tbody> 
 
@@ -193,7 +207,6 @@ if (class_ro === "new") {
        <tr><td>Enameled Washbowl</td><td>-</td><td>-</td></tr>
        <tr><td>MDF toilet lid</td><td>-</td><td>-</td></tr>
        <tr><td>Recycle bin</td><td>-</td><td>-</td></tr>
-       <tr><td>Dustpan</td><td>-</td><td>-</td></tr>
        <tr><td>Ceramic children potty</td><td>-</td><td>-</td></tr>
        <tr><td>Metalic bucket with squeezer</td><td>-</td><td>-</td></tr>
        <tr><td>Dish Rack  </td><td>- </td><td>-</td></tr>
