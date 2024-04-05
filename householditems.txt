@@ -36,6 +36,54 @@
 <tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.inaplast.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0004</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Clothes wire hangers</span><span id="ro">Umerașe rufe</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>0.55 RON /  model F507 – <span id="en" >Wire hangers</span><span id="ro">Umerașe sârmă</span></td></tr>
+<tr><td>Formula 2</td><td>0.59 RON /  model F536 – <span id="en" >Wire hangers for children cloathing</span><span id="ro">Umerașe sârmă pentru haine copii</span></td></tr>
+<tr><td>Formula 3</td><td>1.44 RON /  model F570 – <span id="en" >Wire hangers</span><span id="ro">Umerașe sârmă</span></td></tr>
+<tr><td>Formula 4</td><td>2.02 RON /  model P224 – <span id="en" >Wire hangers with clips for accessories</span><span id="ro">Umerașe sârmă cu clips pentru accesorii</span></td></tr>
+<tr><td>Formula 5</td><td>2.94 RON /  model F524 – <span id="en" >Wire hangers with clips</span><span id="ro">Umerașe sârmă cu clips</span></td></tr>
+
+<tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.producator-umerase.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0005</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Retractable long stick pole for hangers</span><span id="ro">Băț retractabil pentru umerașe</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>9.24 RON /  model TC282 – <span id="en" >Retractable long stick pole for hangers</span><span id="ro">Băț retractabil pentru umerașe</span> 80 – 105 cm</td></tr>
+<tr><td>Formula 2</td><td>21.01 RON /  model TC263/1 – <span id="en" >Retractable long stick pole for hangers</span><span id="ro">Băț retractabil pentru umerașe</span> 80 – 135 cm</td></tr>
+<tr><td>Formula 3</td><td>29.41 RON /  model TT204 – <span id="en" >Retractable long stick pole for hangers</span><span id="ro">Băț retractabil pentru umerașe</span> 70 – 185 cm</td></tr>
+
+<tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.producator-umerase.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0006</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Wardrobe numbers</span><span id="ro">Numere garderobă</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>1.11 RON /  model P224 – <span id="en" >Wardrobe numbers 10pcs set</span><span id="ro">Numere garderobă set 10buc</span></td></tr>
+
+<tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.producator-umerase.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0007</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Bamboo clothes pegs</span><span id="ro">Cârlige rufe din bambus</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >China</span><span id="ro">China</span></td></tr>
+
+<tr><td>Formula 1</td><td>5 RON /  20<span id="en" >20pcs set</span><span id="ro">set 20buc</span></td></tr>
+
+<tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various Romania suppliers</span><span id="ro">Furnizori din România</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+
 
 
 
@@ -59,8 +107,6 @@ if (class_ro === "new") {
 
 <!--
 
-       <tr><td>Clothes Wire hangers</td><td>-</td><td>-</td></tr>
-       <tr><td>Wood clothes pegs</td><td>-</td><td>-</td></tr>
        <tr><td>Clothes brush</td><td>-</td><td>-</td></tr>
        <tr><td>Carpets brush</td><td>-</td><td>-</td></tr>
        <tr><td>Shoe spoon</td><td>-</td><td>-</td></tr>
@@ -93,7 +139,6 @@ if (class_ro === "new") {
 
        <tr><td>Luggage scale</td><td>-</td><td>-</td></tr>
        <tr><td>Broom handle</td><td>-</td><td>-</td></tr>
-       <tr><td>Sorghum broom</td><td>-</td><td>-</td></tr>
        <tr><td>Barbecue grill</td><td>-</td><td>-</td></tr>
        <tr><td>Fish grill</td><td>-</td><td>-</td></tr>
        <tr><td>Wire brush</td><td>-</td><td>-</td></tr> 
