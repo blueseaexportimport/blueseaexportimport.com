@@ -238,9 +238,7 @@
 <tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various Romania suppliers</span><span id="ro">Furnizori din România</span></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0022</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0023</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Plastic Washbowl</span><span id="ro">Lighean rufe plastic</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
 
@@ -260,7 +258,28 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0024</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Wooden back scraper</span><span id="ro">Scărpinător de spate din lemn</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td>Formula 1</td><td>6.72 RON / <span id="en" >pcs</span><span id="ro">buc</span> 45x3.5 cm</td></tr>
+<tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://artizane.ro/ro/search/121456/pc/100000/p/0" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0024</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Wooden massage device</span><span id="ro">Dispozitiv de masaj din lemn</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>6.72 RON / <span id="en" >pcs 2 rolls</span><span id="ro">buc 2 role</span> 18x7.5x4.5 cm</td></tr>
+<tr><td>Formula 2</td><td>19.8 RON / <span id="en" >pcs 3 rolls</span><span id="ro">buc 3 role</span> 18x12.5x4.5 cm</td></tr>
+<tr><td>Formula 3</td><td>26.4 RON / <span id="en" >pcs 2 rolls</span><span id="ro">buc 4 role</span> 15.5x17.5x4.5 cm</td></tr>
+<tr><td>Formula 4</td><td>43.2 RON / <span id="en" >pcs 4 rolls</span><span id="ro">buc 4 role</span> 27x18x7 cm</td></tr>
+<tr><td>Formula 5</td><td>26.4 RON / <span id="en" >pcs 2 rolls - double</span><span id="ro">buc 2 role - dublu</span> 33.5x7.5x5 cm</td></tr>
+<tr><td>Formula 6</td><td>39.6 RON / <span id="en" >pcs 3 rolls - double</span><span id="ro">buc 3 role - dublu</span> 33.5x12.5x4.5 cm</td></tr>
+<tr><td>Formula 7</td><td>52.8 RON / <span id="en" >pcs 4 rolls - double</span><span id="ro">buc 4 role - dublu</span> 33.5x15.5x4.5 cm</td></tr>
+
+<tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://artizane.ro/ro/search/121456/pc/100000/p/0" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
 
@@ -289,8 +308,6 @@ if (class_ro === "new") {
 
 
 
-       <tr><td>Drawing / Architect plans storage tube</td><td>-</td><td>-</td></tr>
-       <tr><td>Wooden back scraper</td><td>-</td><td>-</td></tr>
        <tr><td>Gift wrapping paper</td><td>-</td><td>-</td></tr>  
 
 
@@ -309,7 +326,6 @@ if (class_ro === "new") {
        <tr><td>Soot shovel</td><td>-</td><td>-</td></tr>
        <tr><td>Cardboard tray for food</td><td>-</td><td>-</td></tr>
 
-       <tr><td>Wooden massage device</td><td>-</td><td>-</td></tr>
        <tr><td>Jewelry box</td><td>-</td><td>-</td></tr>
 
        <tr><td>Luggage scale</td><td>-</td><td>-</td></tr>
