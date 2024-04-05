@@ -179,7 +179,6 @@ if (class_ro === "new") {
        <tr><td>Ceramic children potty</td><td>-</td><td>-</td></tr>
        <tr><td>Metalic bucket with squeezer</td><td>-</td><td>-</td></tr>
        <tr><td>Dish Rack  </td><td>- </td><td>-</td></tr>
-       <tr><td>Curtains clips</td><td>-</td><td>-</td></tr>
        <tr><td>Soap dish</td><td>-</td><td>-</td></tr>
        <tr><td>Watering can</td><td>-</td><td>-</td></tr>
        <tr><td>Toothbrush and toothpaste holder</td><td>-</td><td>-</td></tr>
