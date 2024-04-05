@@ -176,24 +176,37 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Trash can for interior with pedal</span><span id="ro">Coș de gunoi interior cu pedală</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
 
-
 <tr><td>Formula 1</td><td>22 RON / <span id="en" >pcs - different colors</span><span id="ro">buc - culori diferite</span> 24 X 21 X 16cm plastic - 5L</td></tr>
-<tr><td>Formula 1</td><td>39 RON / <span id="en" >pcs - different colors</span><span id="ro">buc - culori diferite</span> 30 X 27 X 33cm plastic - 10L</td></tr>
-<tr><td>Formula 1</td><td>57 RON / <span id="en" >pcs - different colors</span><span id="ro">buc - culori diferite</span> 35 X 32 X 40cm plastic - 18L</td></tr>
+<tr><td>Formula 2</td><td>39 RON / <span id="en" >pcs - different colors</span><span id="ro">buc - culori diferite</span> 30 X 27 X 33cm plastic - 10L</td></tr>
+<tr><td>Formula 3</td><td>57 RON / <span id="en" >pcs - different colors</span><span id="ro">buc - culori diferite</span> 35 X 32 X 40cm plastic - 18L</td></tr>
 
-<tr><td>Formula 1</td><td>22 RON / <span id="en" >pcs</span><span id="ro">buc</span> plastic "Ratan" - 5L</td></tr>
-<tr><td>Formula 1</td><td>54 RON / <span id="en" >pcs</span><span id="ro">buc</span> plastic "Ratan" - 10L</td></tr>
-<tr><td>Formula 1</td><td>79 RON / <span id="en" >pcs</span><span id="ro">buc</span> plastic "Ratan" - 18L</td></tr>
-
+<tr><td>Formula 4</td><td>22 RON / <span id="en" >pcs</span><span id="ro">buc</span> plastic "Ratan" - 5L</td></tr>
+<tr><td>Formula 5</td><td>54 RON / <span id="en" >pcs</span><span id="ro">buc</span> plastic "Ratan" - 10L</td></tr>
+<tr><td>Formula 6</td><td>79 RON / <span id="en" >pcs</span><span id="ro">buc</span> plastic "Ratan" - 18L</td></tr>
 
 <tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.sterkplast.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0018</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Soap dish with lid</span><span id="ro">Săpunieră cu capac</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td>Formula 1</td><td>3.5 RON / <span id="en" >pcs - white</span><span id="ro">buc - alb</span> 11 X 8 X 4 cm plastic</td></tr>
+<tr><td>Formula 1</td><td>3.5 RON / <span id="en" >pcs - blue</span><span id="ro">buc - albastru</span> 11 X 8 X 4 cm plastic</td></tr>
+<tr><td>Formula 1</td><td>3.5 RON / <span id="en" >pcs - red</span><span id="ro">buc - rosu</span> 11 X 8 X 4 cm plastic</td></tr>
+<tr><td>Formula 1</td><td>3.5 RON / <span id="en" >pcs - green</span><span id="ro">buc - verde</span> 11 X 8 X 4 cm plastic</td></tr>
+<tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.sterkplast.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0019</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Toothbrush and toothpaste holder</span><span id="ro">Suport pastă și periuță dinți</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td>Formula 1</td><td>4 RON / <span id="en" >pcs - white</span><span id="ro">buc - alb</span> 13 x 9 x 9 cm plastic</td></tr>
+<tr><td>Formula 2</td><td>4 RON / <span id="en" >pcs - blue</span><span id="ro">buc - albastru</span> 13 x 9 x 9 cm plastic</td></tr>
+<tr><td>Formula 3</td><td>4 RON / <span id="en" >pcs - red</span><span id="ro">buc - rosu</span> 13 x 9 x 9 cm plastic</td></tr>
+<tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.sterkplast.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
    
-
-
-
-
 
 
 </tbody> 
@@ -217,9 +230,7 @@ if (class_ro === "new") {
 <!--
 
 
-       <tr><td>Soap dish</td><td>-</td><td>-</td></tr>
-       <tr><td>Toothbrush and toothpaste holder</td><td>-</td><td>-</td></tr>       
-        <tr><td>Toilet lid</td><td>-</td><td>-</td></tr>
+       <tr><td>Toilet lid</td><td>-</td><td>-</td></tr>
        <tr><td>Children potty</td><td>-</td><td>-</td></tr>
        <tr><td>Sink plug</td><td>-</td><td>-</td></tr>
        <tr><td>Bathtub plug</td><td>-</td><td>-</td></tr>
