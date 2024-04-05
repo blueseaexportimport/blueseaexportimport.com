@@ -130,7 +130,16 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0013</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Laundry basket</span><span id="ro">Coș pentru rufe</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
 
+<tr><td>Formula 1</td><td>37 RON / <span id="en" >pcs - different colors</span><span id="ro">buc - culori diferite</span> plastic - model Oval 45 X 38 X 51 cm</td></tr>
+<tr><td>Formula 2</td><td>37 RON / <span id="en" >pcs - different colors</span><span id="ro">buc - culori diferite</span> plastic - model Scoica 46 X 36 X 54 cm</td></tr>
+<tr><td>Formula 3</td><td>60 RON / <span id="en" >pcs - different colors</span><span id="ro">buc - culori diferite</span> plastic - model "Ratan" 46 X 34 X 51 cm</td></tr>
+
+<tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.sterkplast.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
 
@@ -153,9 +162,8 @@ if (class_ro === "new") {
 </script>
 
 <!--
-
        <tr><td>Ironing board</td><td>-</td><td>-</td></tr>
-       <tr><td>Laundry basket</td><td>-</td><td>-</td></tr>
+
        <tr><td>Oxygen absorber / scavenger</td><td>-</td><td>-</td></tr>     
     
        <tr><td>Cake wax candles set</td><td>-</td><td>-</td></tr>    
@@ -168,7 +176,6 @@ if (class_ro === "new") {
        <tr><td>Keychain</td><td>-</td><td>-</td></tr>
        <tr><td>Mosquito net</td><td>-</td><td>-</td></tr>
 
-       <tr><td>Hotel reception bell</td><td>-</td><td>-</td></tr>
        <tr><td>Wooden back scraper</td><td>-</td><td>-</td></tr>
        <tr><td>Soot rake</td><td>-</td><td>-</td></tr>
        <tr><td>Soot shovel</td><td>-</td><td>-</td></tr>
