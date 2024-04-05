@@ -305,12 +305,23 @@
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0027</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Silicagel antimoist</span><span id="ro">Silicagel - antiumezeală</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Sweden</span><span id="ro">Suedia</span></td></tr>
 
 <tr><td>Formula 1</td><td>0.07 RON / <span id="en">1g Plic silica gel ( minimum order 10000pcs )</span><span id="ro">1g Silica gel pouch (comandă minimă 10000buc )</span></td></tr>
 
 <tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.shop.antiumezeala.ro/Silicagel-Silicarom?product_id=89" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0028</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Diatomaceous earth</span><span id="ro">Pământ de diatomee</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >China</span><span id="ro">China</span></td></tr>
+
+<tr><td>Formula 1</td><td>1.36 RON / 1kg <span id="en" >pcs - different colors</span><span id="ro">buc - culori diferite</span></td></tr>
+
+<tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.liverom.ro/oferte/Breloc-chei-detaliu---id760.htm" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
 
 
 
@@ -334,14 +345,11 @@ if (class_ro === "new") {
 
 <!--
 
-
-
        <tr><td>Ironing board</td><td>-</td><td>-</td></tr>
        <tr><td>Cake wax candles set</td><td>-</td><td>-</td></tr>    
        <tr><td>Perfumed wax candles</td><td>-</td><td>-</td></tr>
        <tr><td>Candle wick</td><td>-</td><td>-</td></tr>
        <tr><td>Ice cubes tray</td><td>-</td><td>-</td></tr>     
-       <tr><td>Keychain</td><td>-</td><td>-</td></tr>
        <tr><td>Soot rake</td><td>-</td><td>-</td></tr>
        <tr><td>Soot shovel</td><td>-</td><td>-</td></tr>
        <tr><td>Cardboard tray for food</td><td>-</td><td>-</td></tr>
