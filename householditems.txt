@@ -1,5 +1,38 @@
 <tbody>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Sorghum brooms</span><span id="ro">Mături din sorg</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>13 RON / <span id="en">Small size sorghum broom</span><span id="ro">Mătură din sorg mîcă</span></td></tr>
+<tr><td>Formula 1</td><td>16 RON / <span id="en">Medium size sorghum broom with wood tail</span><span id="ro">Mătură medie din sorg cu coadă din lemn </span></td></tr>
+<tr><td>Formula 1</td><td>18 RON / <span id="en">Large size sorghum broom with wood tail</span><span id="ro">Mătură mare din sorg cu coadă din lemn</span></td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+ 
+
+</tbody> 
+
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
+
+<!--
+
        <tr><td>Clothes drying rack</td><td>-</td><td>-</td></tr>
        <tr><td>Clothes line wire</td><td>-</td><td>-</td></tr>
        <tr><td>Clothes Wire hangers</td><td>-</td><td>-</td></tr>
@@ -52,6 +85,8 @@
        <tr><td>Watering can</td><td>-</td><td>-</td></tr>
        <tr><td>Toothbrush and toothpaste holder</td><td>-</td><td>-</td></tr>
        <tr><td>Mop head</td><td>-</td><td>-</td></tr>
+
+-->
 
 
 
