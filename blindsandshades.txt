@@ -35,6 +35,7 @@
        <tr><td>Curtain pole</td><td>-</td><td>-</td></tr>
        <tr><td>Curtain wire</td><td>-</td><td>-</td></tr>
        <tr><td>Curtain end caps</td><td>-</td><td>-</td></tr>
+       <tr><td>Curtains clips</td><td>-</td><td>-</td></tr>
        <tr><td>Rail connector</td><td>-</td><td>-</td></tr>
        <tr><td>Glider</td><td>-</td><td>-</td></tr>
        <tr><td>Rings with hooks</td><td>-</td><td>-</td></tr>
