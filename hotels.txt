@@ -17,5 +17,7 @@
  <tr><td><span id="en">Wet wipe</span><span id="ro">Șervețel umed</span></td>
  <tr><td><span id="en">Biodegradable Laundry Bag</span><span id="ro">Sac rufe biodegradabil</span></td>
 
+       <tr><td>Hotel reception bell</td><td>-</td><td>-</td></tr>
+
 
 </tbody>
