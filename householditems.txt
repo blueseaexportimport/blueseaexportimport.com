@@ -65,9 +65,7 @@
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0006</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Wardrobe numbers</span><span id="ro">Numere garderobă</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-
 <tr><td>Formula 1</td><td>1.11 RON /  model P224 – <span id="en" >Wardrobe numbers 10pcs set</span><span id="ro">Numere garderobă set 10buc</span></td></tr>
-
 <tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.producator-umerase.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
@@ -75,11 +73,47 @@
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0007</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Bamboo clothes pegs</span><span id="ro">Cârlige rufe din bambus</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >China</span><span id="ro">China</span></td></tr>
-
 <tr><td>Formula 1</td><td>5 RON /  20<span id="en" >20pcs set</span><span id="ro">set 20buc</span></td></tr>
-
 <tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various Romania suppliers</span><span id="ro">Furnizori din România</span></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0008</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Clothes brush</span><span id="ro">Perie haine</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td>Formula 1</td><td>4.75 RON / <span id="en" >pcs</span><span id="ro">buc</span> 172 x 52 x 40 mm Dora</td></tr>
+<tr><td>Formula 2</td><td>7 RON / <span id="en" >pcs</span><span id="ro">buc</span> 190 x 50 x 20 mm Practic</td></tr>
+<tr><td>Formula 3</td><td>3 RON / <span id="en" >pcs</span><span id="ro">buc</span> 135 x 50 x 38 mm Sanda</td></tr>
+<tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.perind.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0009</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Carpets / scrubbing brush</span><span id="ro">Perie covoare / frecat</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>2.53 RON / <span id="en" >pcs</span><span id="ro">buc</span> model 1</td></tr>
+<tr><td>Formula 3</td><td>7 RON / <span id="en" >pcs</span><span id="ro">buc</span> model 3</td></tr>
+<tr><td>Formula 4</td><td>13 RON / <span id="en" >pcs - it needs long handle</span><span id="ro">buc - are nevoie de coadă</span> model 4</td></tr>
+
+<tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.perind.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0010</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Mop head</span><span id="ro">Cap mop</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>5.5 RON / <span id="en" >pcs</span><span id="ro">buc</span> model 120 g</td></tr>
+<tr><td>Formula 2</td><td>5.5 RON / <span id="en" >pcs</span><span id="ro">buc</span> model 140 g</td></tr>
+<tr><td>Formula 3</td><td>5.5 RON / <span id="en" >pcs</span><span id="ro">buc</span> model 160 g</td></tr>
+<tr><td>Formula 4</td><td>7 RON / <span id="en" >pcs</span><span id="ro">buc</span> model 180 g</td></tr>
+<tr><td>Formula 5</td><td>7 RON / <span id="en" >pcs</span><span id="ro">buc</span> model 200 g</td></tr>
+<tr><td>Formula 6</td><td>7.5 RON / <span id="en" >pcs</span><span id="ro">buc</span> model 220 g</td></tr>
+<tr><td>Formula 7</td><td>9 RON / <span id="en" >pcs</span><span id="ro">buc</span> model 250 g</td></tr>
+
+
+<tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.perind.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 
 
@@ -107,10 +141,6 @@ if (class_ro === "new") {
 
 <!--
 
-       <tr><td>Clothes brush</td><td>-</td><td>-</td></tr>
-       <tr><td>Carpets brush</td><td>-</td><td>-</td></tr>
-       <tr><td>Shoe spoon</td><td>-</td><td>-</td></tr>
-       <tr><td>Shoe Inserts / Insoles</td><td>-</td><td>-</td></tr>
        <tr><td>Ironing board</td><td>-</td><td>-</td></tr>
        <tr><td>Laundry basket</td><td>-</td><td>-</td></tr>
        <tr><td>Oxygen absorber / scavenger</td><td>-</td><td>-</td></tr>     
@@ -153,7 +183,6 @@ if (class_ro === "new") {
        <tr><td>Soap dish</td><td>-</td><td>-</td></tr>
        <tr><td>Watering can</td><td>-</td><td>-</td></tr>
        <tr><td>Toothbrush and toothpaste holder</td><td>-</td><td>-</td></tr>
-       <tr><td>Mop head</td><td>-</td><td>-</td></tr>
 
 -->
 
