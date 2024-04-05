@@ -160,20 +160,18 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0016</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Watering can</span><span id="ro">Stropitoare grădină</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
 
-       <tr><td>Soap dish</td><td>-</td><td>-</td></tr>
-       <tr><td>Watering can</td><td>-</td><td>-</td></tr>
-       <tr><td>Toothbrush and toothpaste holder</td><td>-</td><td>-</td></tr>
-       <tr><td>Toilet lid</td><td>-</td><td>-</td></tr>
-       <tr><td>Children potty</td><td>-</td><td>-</td></tr>
-       <tr><td>Sink plug</td><td>-</td><td>-</td></tr>
-       <tr><td>Bathtub plug</td><td>-</td><td>-</td></tr>
-       <tr><td>Recycle bin</td><td>-</td><td>-</td></tr>
-       <tr><td>Plastic Washbowl</td><td>-</td><td>-</td></tr>
-       <tr><td>Drawing / Architect plans storage tube</td><td>-</td><td>-</td></tr>
-       <tr><td>Mosquito net</td><td>-</td><td>-</td></tr>
-       <tr><td>Wooden back scraper</td><td>-</td><td>-</td></tr>
-       <tr><td>Gift wrapping paper</td><td>-</td><td>-</td></tr>     
+<tr><td>Formula 1</td><td>8.9 RON / <span id="en" >pcs</span><span id="ro">buc</span> plastic - 1.5L</td></tr>
+<tr><td>Formula 1</td><td>15.9 RON / <span id="en" >pcs</span><span id="ro">buc</span> plastic - 4L</td></tr>
+<tr><td>Formula 1</td><td>21.5 RON / <span id="en" >pcs</span><span id="ro">buc</span> plastic - 10L</td></tr>
+
+<tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.sterkplast.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+   
 
 
 </tbody> 
@@ -195,6 +193,21 @@ if (class_ro === "new") {
 </script>
 
 <!--
+
+
+       <tr><td>Soap dish</td><td>-</td><td>-</td></tr>
+       <tr><td>Toothbrush and toothpaste holder</td><td>-</td><td>-</td></tr>       
+        <tr><td>Toilet lid</td><td>-</td><td>-</td></tr>
+       <tr><td>Children potty</td><td>-</td><td>-</td></tr>
+       <tr><td>Sink plug</td><td>-</td><td>-</td></tr>
+       <tr><td>Bathtub plug</td><td>-</td><td>-</td></tr>
+       <tr><td>Recycle bin</td><td>-</td><td>-</td></tr>
+       <tr><td>Plastic Washbowl</td><td>-</td><td>-</td></tr>
+       <tr><td>Drawing / Architect plans storage tube</td><td>-</td><td>-</td></tr>
+       <tr><td>Wooden back scraper</td><td>-</td><td>-</td></tr>
+       <tr><td>Gift wrapping paper</td><td>-</td><td>-</td></tr>  
+
+
        <tr><td>Ironing board</td><td>-</td><td>-</td></tr>
 
        <tr><td>Oxygen absorber / scavenger</td><td>-</td><td>-</td></tr>     
@@ -203,7 +216,6 @@ if (class_ro === "new") {
        <tr><td>Perfumed wax candles</td><td>-</td><td>-</td></tr>
        <tr><td>Candle wick</td><td>-</td><td>-</td></tr>
 
-       <tr><td>Oxygen absorber / scavenger</td><td>-</td><td>-</td></tr>     
        <tr><td>Ice cubes tray</td><td>-</td><td>-</td></tr>     
        <tr><td>Keychain</td><td>-</td><td>-</td></tr>
 
@@ -219,6 +231,7 @@ if (class_ro === "new") {
        <tr><td>Fish grill</td><td>-</td><td>-</td></tr>
 
        <tr><td>Dish Rack  </td><td>- </td><td>-</td></tr>
+       <tr><td>Mosquito net</td><td>-</td><td>-</td></tr>
 
 -->
 
