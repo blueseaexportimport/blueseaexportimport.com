@@ -119,7 +119,21 @@ $(document).ready(function() {
 $(document).ready(function () { 
 
 
-
+  // Grab householditems on click start
+  $("#householditemsbtn").click(function() {
+    if ($("#householditems").hasClass("clickedhouseholditems")) {
+        // already been clicked once, hide it
+        $("#householditems").html("");
+        $( "#householditems" ).removeClass( "clickedhouseholditems" )
+    }else {
+        // first time this is clicked, mark it
+        $("#householditems").addClass("clickedhouseholditems");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/householditems.txt", success: function(result){
+         $("#householditems").html(result);
+        }});
+    }
+   });
+  // Grab householditems on click end
 
 
 
@@ -2787,9 +2801,12 @@ $(document).ready(function () {
   </table>  
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>R. PERSONAL CARE AND HYGIENE (46)</b></span> <span id="ro"><b>R. IGIENĂ ȘI ÎNGRIJIRE PERSONALĂ (46)</b></span></button><div class="catalogpanel">
-   <h5 class="categoryaccordion" ><span id="en">Household Items</span><span id="ro">Articole Uz Caznic</span></h5>    
-   <div class="rowbin" >-</div> 	
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>R. PERSONAL CARE AND HYGIENE (47)</b></span> <span id="ro"><b>R. IGIENĂ ȘI ÎNGRIJIRE PERSONALĂ (47)</b></span></button><div class="catalogpanel">
+   <h5 class="categoryaccordion" id="householditemsbtn" ><span id="en">Household Items (1)</span><span id="ro">Articole Uz Caznic (1)</span></h5>    
+   <table id="householditems" class="categorypanel"  >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  
    <h5 class="categoryaccordion" ><span id="en">Laundry cleaning Items</span><span id="ro">Articole curățat rufe</span></h5>  
    <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" ><span id="en">Dishwashing cleaning Items</span><span id="ro">Articole curățat vase</span></h5>    
