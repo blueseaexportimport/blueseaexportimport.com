@@ -230,9 +230,42 @@
 <tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.sterkplast.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0022</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Sink / bathtub plug</span><span id="ro">Dop cadă / chiuvetă</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td>Formula 1</td><td>2.11 RON / <span id="en" >pcs</span><span id="ro">buc</span> 35 cm plastic</td></tr>
+<tr><td>Formula 2</td><td>2.23 RON / <span id="en" >pcs</span><span id="ro">buc</span> 43 cm plastic</td></tr>
+<tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various Romania suppliers</span><span id="ro">Furnizori din România</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
- 
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0022</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Plastic Washbowl</span><span id="ro">Lighean rufe plastic</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>10.5 RON / <span id="en" >pcs - different colors - round</span><span id="ro">buc - culori diferite - rotund</span> 34 X 11cm plastic - 4L</td></tr>
+<tr><td>Formula 2</td><td>11.2 RON / <span id="en" >pcs - different colors - round</span><span id="ro">buc - culori diferite - rotund</span> 37 X 13cm plastic - 6L</td></tr>
+<tr><td>Formula 3</td><td>8.5 RON / <span id="en" >pcs - different colors - round</span><span id="ro">buc - culori diferite - rotund</span> 38 X 13cm plastic - 8L</td></tr>
+<tr><td>Formula 4</td><td>14 RON / <span id="en" >pcs - different colors - round</span><span id="ro">buc - culori diferite - rotund</span> 45 X 14cm plastic - 12L</td></tr>
+<tr><td>Formula 5</td><td>12 RON / <span id="en" >pcs - different colors - round</span><span id="ro">buc - culori diferite - rotund</span> 45 X 17cm plastic - 14L</td></tr>
+<tr><td>Formula 6</td><td>14.3 RON / <span id="en" >pcs - different colors - round</span><span id="ro">buc - culori diferite - rotund</span> 47 X 18cm plastic - 16L</td></tr>
+<tr><td>Formula 7</td><td>19.4 RON / <span id="en" >pcs - different colors - round</span><span id="ro">buc - culori diferite - rotund</span> 44 X 20cm plastic - 18L</td></tr>
+<tr><td>Formula 8</td><td>16.3 RON / <span id="en" >pcs - different colors - round</span><span id="ro">buc - culori diferite - rotund</span> 48 X 19cm plastic - 20L</td></tr>
+<tr><td>Formula 9</td><td>23.1 RON / <span id="en" >pcs - different colors - round</span><span id="ro">buc - culori diferite - rotund</span> 48 X 22cm plastic - 22L</td></tr>
+<tr><td>Formula 10</td><td>16.9 RON / <span id="en" >pcs - different colors - round</span><span id="ro">buc - culori diferite - rotund</span> 55 X 15cm plastic - 25L</td></tr>
+<tr><td>Formula 11</td><td>36.3 RON / <span id="en" >pcs - different colors - round</span><span id="ro">buc - culori diferite - rotund</span> 57 X 17cm plastic - 30L</td></tr>
+
+<tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.sterkplast.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+
+
+
+
+
 
 </tbody> 
 
@@ -255,9 +288,7 @@ if (class_ro === "new") {
 <!--
 
 
-       <tr><td>Sink plug</td><td>-</td><td>-</td></tr>
-       <tr><td>Bathtub plug</td><td>-</td><td>-</td></tr>
-       <tr><td>Plastic Washbowl</td><td>-</td><td>-</td></tr>
+
        <tr><td>Drawing / Architect plans storage tube</td><td>-</td><td>-</td></tr>
        <tr><td>Wooden back scraper</td><td>-</td><td>-</td></tr>
        <tr><td>Gift wrapping paper</td><td>-</td><td>-</td></tr>  
