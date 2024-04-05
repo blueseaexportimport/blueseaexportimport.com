@@ -363,10 +363,22 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0034</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Cardboard tray for food</span><span id="ro">Tăvițe carton pentru mici</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td>Formula 1</td><td>11 RON / 100<span id="en" >pcs</span><span id="ro">buc</span> model T2 11x14,6cm</td></tr>
+<tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.ambalaje-cofetarii.ro/ro/tavite-tip-2" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0035</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Mosquito net for bed</span><span id="ro">Plasă țânțari pentru pat</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >China</span><span id="ro">China</span></td></tr>
+<tr><td>Formula 1</td><td>20 RON / <span id="en">pcs - white</span><span id="ro">buc - alba</span> 250 x 650 cm</td></tr>
+<tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various Romania suppliers</span><span id="ro">Furnizori din România</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-       <tr><td>Cardboard tray for food</td><td>-</td><td>-</td></tr>
-       <tr><td>Mosquito net</td><td>-</td><td>-</td></tr>
+
 
        <tr><td>Barbecue grill</td><td>-</td><td>-</td></tr>
        <tr><td>Fish grill</td><td>-</td><td>-</td></tr>
