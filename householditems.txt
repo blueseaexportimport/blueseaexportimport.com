@@ -8,10 +8,9 @@
 <tr><td>Formula 2</td><td>16 RON / <span id="en">Medium size sorghum broom with wood tail</span><span id="ro">Mătură medie din sorg cu coadă din lemn </span></td></tr>
 <tr><td>Formula 3</td><td>18 RON / <span id="en">Large size sorghum broom with wood tail</span><span id="ro">Mătură mare din sorg cu coadă din lemn</span></td></tr>
 
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
- 
+<tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various Romania suppliers</span><span id="ro">Furnizori din România</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 </tbody> 
 
