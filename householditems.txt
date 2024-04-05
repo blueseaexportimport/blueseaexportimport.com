@@ -332,6 +332,20 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0030</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Dish Rack</span><span id="ro">Scurgator de Vase</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td>Formula 1</td><td>29.2 RON / <span id="en" >pcs - different colors</span><span id="ro">buc - culori diferite</span> 42 X 26 X 10cm plastic "Select"</td></tr>
+<tr><td>Formula 1</td><td>35.2 RON / <span id="en" >pcs - different colors</span><span id="ro">buc - culori diferite</span> 42.5 X 33.5 X 7.5cm plastic "Model" </td></tr>
+<tr><td>Formula 1</td><td>35.3 RON / <span id="en" >pcs - different colors</span><span id="ro">buc - culori diferite</span> 43 X 35 X 8cm plastic </td></tr>
+<tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.sterkplast.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+
+
+
 
 
 </tbody> 
@@ -361,7 +375,6 @@ if (class_ro === "new") {
        <tr><td>Cardboard tray for food</td><td>-</td><td>-</td></tr>
        <tr><td>Jewelry box</td><td>-</td><td>-</td></tr>
        <tr><td>Luggage scale</td><td>-</td><td>-</td></tr>
-       <tr><td>Dish Rack  </td><td>- </td><td>-</td></tr>
        <tr><td>Mosquito net</td><td>-</td><td>-</td></tr>
 
        <tr><td>Cake wax candles set</td><td>-</td><td>-</td></tr>    
