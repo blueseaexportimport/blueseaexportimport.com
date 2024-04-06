@@ -92,4 +92,73 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.amazon.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
+
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CRM002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Movies - Metro-Goldwyn-Mayer 1924-1929</span><span id="ro">Filme - Metro-Goldwyn-Mayer 1924-1929</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">USA</span><span id="ro">SUA</span></td></tr>
+<tr><td><span id="en" >Language</span><span id="ro">Limbă</span></td><td style="color:#39ff14;" ><span id="en">English</span><span id="ro">Engleză</span></td></tr>
+
+<tr><td>Formula 1</td><td>7.53 USD / DVD He Who Gets Slapped (Nov 9, 1924)</td></tr>
+<tr><td>Formula 2</td><td>26.3 USD / DVD Seven Chances (Mar 11, 1925)</td></tr>
+<tr><td>Formula 3</td><td>7 USD / DVD The Monster (Mar 16, 1925)</td></tr>
+<tr><td>Formula 4</td><td>43 USD / DVD Daddy's Gone A-Hunting (Mar 29, 1925)</td></tr>
+<tr><td>Formula 5</td><td>43 USD / DVD Confessions of a Queen (Mar 30, 1925)</td></tr>
+<tr><td>Formula 6</td><td>43 USD / DVD The Sporting Venus (Apr 13, 1925)</td></tr>
+<tr><td>Formula 7</td><td>43 USD / DVD Proud Flesh (Apr 27, 1925)</td></tr>
+<tr><td>Formula 8</td><td>8 USD / DVD The Unholy Three (Aug 16, 1925)</td></tr>
+<tr><td>Formula 9</td><td>10 USD / DVD The Merry Widow (Aug 26, 1925)</td></tr>
+<tr><td>Formula 10</td><td>43 USD / DVD Pretty Ladies (Sep 6, 1925)</td></tr>
+<tr><td>Formula 11</td><td>13 USD / DVD The Circle (Sep 22, 1925)</td></tr>
+<tr><td>Formula 12</td><td>0.00 USD / DVD The Big Parade  (Nov 5, 1925)</td></tr>
+<tr><td>Formula 13</td><td>43 USD / DVD Lights of Old Broadway (Nov 8, 1925)</td></tr>
+<tr><td>Formula 14</td><td>17 USD / DVD Ben-Hur (Dec 30, 1925)</td></tr>
+<tr><td>Formula 15</td><td>17 USD / DVD Mare Nostrum (Feb 15, 1926)</td></tr>
+<tr><td>Formula 16</td><td>9 USD / DVD Brown of Harvard (May 2, 1926)</td></tr>
+<tr><td>Formula 17</td><td>10 USD / DVD The Boob (May 17, 1926)</td></tr>
+<tr><td>Formula 18</td><td>43 USD / DVD The Scarlet Letter (Aug 9, 1926)</td></tr>
+<tr><td>Formula 19</td><td>29 USD / DVD Battling Butler (Sep 4, 1926)</td></tr>
+<tr><td>Formula 20</td><td>0.00 USD / DVD The Temptress (Sep 4, 1926)</td></tr>
+<tr><td>Formula 21</td><td>43 USD / DVD Upstage (Nov 7, 1926)</td></tr>
+<tr><td>Formula 22</td><td>23 USD / DVD Faust (Dec 5, 1926)</td></tr>
+<tr><td>Formula 23</td><td>43 USD / DVD The Fire Brigade (Dec 20, 1926)</td></tr>
+<tr><td>Formula 24</td><td>9.5 USD / DVD Tell It to the Marines (Dec 23, 1926)</td></tr>
+<tr><td>Formula 25</td><td>13 USD / DVD The Show (Jan 23, 1927)</td></tr>
+<tr><td>Formula 26</td><td>43 USD / DVD Annie Laurie  (May 11, 1927)</td></tr>
+<tr><td>Formula 27</td><td>43 USD / DVD After Midnight (Aug 20, 1927)</td></tr>
+<tr><td>Formula 28</td><td>43 USD / DVD The Fair Co-Ed (Oct 1, 1927)</td></tr>
+<tr><td>Formula 29</td><td>43 USD / DVD Man, Woman and Sin (Nov 19, 1927)</td></tr>
+<tr><td>Formula 30</td><td>43 USD / DVD The Enemy (Dec 8, 1927)</td></tr>
+<tr><td>Formula 31</td><td>11.9 USD / DVD Show People (Nov 20, 1928)</td></tr>
+<tr><td>Formula 32</td><td>10 USD / DVD West of Zanzibar (Nov 24, 1928)</td></tr>
+<tr><td>Formula 33</td><td>0.00 USD / DVD A Lady of Chance (Dec 1, 1928)</td></tr>
+<tr><td>Formula 34</td><td>20 USD / DVD A Woman of Affairs (Dec 15, 1928)</td></tr>
+<tr><td>Formula 35</td><td>15.4 USD / DVD The Broadway Melody (Feb 1, 1929)</td></tr>
+<tr><td>Formula 36</td><td>0 USD / DVD Wild Orchids (Feb 23, 1929)</td></tr>
+<tr><td>Formula 37</td><td>14 USD / DVD Desert Nights  (Mar 29, 1929)</td></tr>
+<tr><td>Formula 38</td><td>15.4 USD / DVD The Broadway Melody (Feb 1, 1929)</td></tr>
+<tr><td>Formula 39</td><td>0.00 USD / DVD The Bridge of San Luis Rey (Mar 30, 1929)</td></tr>
+<tr><td>Formula 40</td><td>15.5 USD / DVD Spite Marriage (Apr 6, 1929)</td></tr>
+<tr><td>Formula 41</td><td>0.00 USD / DVD The Idle Rich  (Jun 15, 1929)</td></tr>
+<tr><td>Formula 42</td><td>8.5 USD / DVD The Last of Mrs. Cheyney (Jul 26, 1929)</td></tr>
+<tr><td>Formula 43</td><td>13.5 USD / DVD Madame X (Aug 17, 1929)</td></tr>
+<tr><td>Formula 44</td><td>15 USD / DVD Hallelujah (Aug 20, 1929)</td></tr>
+<tr><td>Formula 45</td><td>22.8 USD / DVD Marianne (Aug 24, 1929)</td></tr>
+<tr><td>Formula 46</td><td>0.00 USD / DVD Our Modern Maidens (Aug 24, 1929)</td></tr>
+<tr><td>Formula 47</td><td>11.9 USD / DVD Speedway (Sep 7, 1929)</td></tr>
+<tr><td>Formula 48</td><td>0.00 USD / DVD Wise Girls  (Sep 21, 1929)</td></tr>
+<tr><td>Formula 49</td><td>11.9 USD / DVD Speedway (Sep 7, 1929)</td></tr>
+<tr><td>Formula 50</td><td>18.1 USD / DVD The Mysterious Island (Oct 5, 1929)</td></tr>
+<tr><td>Formula 51</td><td>15 USD / DVD The Thirteenth Chair (Oct 19, 1929)</td></tr>
+<tr><td>Formula 52</td><td>0.00 USD / DVD Untamed (Nov 23, 1929)</td></tr>
+
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.amazon.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+
+
+
+
 </tbody>
