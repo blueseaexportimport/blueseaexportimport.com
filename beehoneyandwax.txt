@@ -33,6 +33,7 @@
 <tr><td>Formula 7</td><td>45 RON / 100g <span id="en">Bee bread</span><span id="ro">Păstură</span></td></tr>
 <tr><td>Formula 8</td><td>32 RON / 200g ( 10x20g ) <span id="en">Fresh harvested polen</span><span id="ro">Polen recoltat proaspăt</span></td></tr>
 <tr><td>Formula 9</td><td>25 RON / 30ml <span id="en">Propolis tincture</span><span id="ro">Tinctură de propolis</span></td></tr>
+<tr><td>Formula 10</td><td>35 RON / 21g <span id="en">Propolis capsules</span><span id="ro">Capsule de propolis</span></td></tr>
 
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icdapicultura.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
@@ -41,7 +42,6 @@
 
 
 <!--
-    <tr><td><span id="en">Propolis</span><span id="ro" >Propolis</span> </td><td>-</td><td>-</td></tr> 
     <tr><td><span id="en">Honeycombs</span><span id="ro" >Fagure cu miere</span> </td><td>-</td><td>-</td></tr> 
     <tr><td><span id="en">Honey small portion packet</span><span id="ro" >Pliculețe Miere de Albine</span></td><td>-</td><td>-</td></tr>
 -->
