@@ -119,6 +119,23 @@ $(document).ready(function() {
 $(document).ready(function () { 
 
 
+
+  // Grab personalcarebabycare on click start
+  $("#personalcarebabycarebtn").click(function() {
+    if ($("#personalcarebabycare").hasClass("clickedpersonalcarebabycare")) {
+        // already been clicked once, hide it
+        $("#personalcarebabycare").html("");
+        $( "#personalcarebabycare" ).removeClass( "clickedpersonalcarebabycare" )
+    }else {
+        // first time this is clicked, mark it
+        $("#personalcarebabycare").addClass("clickedpersonalcarebabycare");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/personalcarebabycare.txt", success: function(result){
+         $("#personalcarebabycare").html(result);
+        }});
+    }
+   });
+  // Grab personalcarebabycare on click end
+
   // Grab householditems on click start
   $("#householditemsbtn").click(function() {
     if ($("#householditems").hasClass("clickedhouseholditems")) {
@@ -134,7 +151,6 @@ $(document).ready(function () {
     }
    });
   // Grab householditems on click end
-
 
 
   // Grab crosswords on click start
@@ -2801,7 +2817,7 @@ $(document).ready(function () {
   </table>  
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>R. PERSONAL CARE AND HYGIENE (85)</b></span> <span id="ro"><b>R. IGIENĂ ȘI ÎNGRIJIRE PERSONALĂ (85)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>R. PERSONAL CARE AND HYGIENE (94)</b></span> <span id="ro"><b>R. IGIENĂ ȘI ÎNGRIJIRE PERSONALĂ (94)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="householditemsbtn" ><span id="en">Household Items (39)</span><span id="ro">Articole Uz Caznic (39)</span></h5>    
    <table id="householditems" class="categorypanel"  >
    <!-- Load info start --> 
@@ -2837,8 +2853,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table>  	
-   <h5 class="categoryaccordion" ><span id="en">Personal care - baby care</span><span id="ro">Îngrijire copii</span></h5>    
-   <div class="rowbin" >-</div> 
+   <h5 class="categoryaccordion" id="personalcarebabycarebtn" ><span id="en">Personal care - baby care (9)</span><span id="ro">Îngrijire copii (9)</span></h5>    
+   <table id="personalcarebabycare" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	
    <h5 class="categoryaccordion" id="adultandbabypersonalhygienebtn" ><span id="en">Adult and Baby Personal Hygiene (13)</span><span id="ro">Produse De igienă copii și adulți (13)</span></h5>       
   <table id="adultandbabypersonalhygiene" class="categorypanel"  >
    <!-- Load info start --> 
