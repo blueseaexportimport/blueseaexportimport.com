@@ -386,6 +386,23 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0037</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Perfumed wax candles</span><span id="ro">Lumânări parfumate cu ceară naturală</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+<tr><td>Formula 1</td><td>30 RON / <span id="en" >pcs - 14cm height perfume lemon</span><span id="ro">buc - înălțime 14cm parfum lămâie</span></td></tr>
+<tr><td>Formula 1</td><td>30 RON / <span id="en" >pcs - 14cm height perfume ocean</span><span id="ro">buc - înălțime 14cm parfum ocean</span></td></tr>
+<tr><td>Formula 1</td><td>30 RON / <span id="en" >pcs - 14cm height perfume apple</span><span id="ro">buc - înălțime 14cm parfum măr</span></td></tr>
+<tr><td>Formula 1</td><td>30 RON / <span id="en" >pcs - 14cm height perfume rose</span><span id="ro">buc - înălțime 14cm parfum trandafir</span></td></tr>
+<tr><td>Formula 1</td><td>30 RON / <span id="en" >pcs - 14cm height perfume lavender</span><span id="ro">buc - înălțime 14cm parfum lavandă</span></td></tr>
+<tr><td>Formula 1</td><td>30 RON / <span id="en" >pcs - 14cm height perfume orange</span><span id="ro">buc - înălțime 14cm parfum portocală</span></td></tr>
+<tr><td>Formula 1</td><td>30 RON / <span id="en" >pcs - 14cm height perfume cinnimon</span><span id="ro">buc - înălțime 14cm parfum scorțișoară</span></td></tr>
+<tr><td>Formula 1</td><td>30 RON / <span id="en" >pcs - 14cm height perfume honey</span><span id="ro">buc - înălțime 14cm parfum miere</span></td></tr>
+<tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icdapicultura.ro/product/lumanare-parfumata-cu-ceara-naturala/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+
 </tbody> 
 
 
@@ -408,7 +425,6 @@ if (class_ro === "new") {
 
        <tr><td>Barbecue grill</td><td>-</td><td>-</td></tr>
        <tr><td>Cake wax candles set</td><td>-</td><td>-</td></tr>    
-       <tr><td>Perfumed wax candles</td><td>-</td><td>-</td></tr
        <tr><td>Candle wick</td><td>-</td><td>-</td></tr>
 
 -->
