@@ -34,9 +34,33 @@
 <tr><td>Formula 8</td><td>32 RON / 200g ( 10x20g ) <span id="en">Fresh harvested polen</span><span id="ro">Polen recoltat proaspăt</span></td></tr>
 <tr><td>Formula 9</td><td>25 RON / 30ml <span id="en">Propolis tincture</span><span id="ro">Tinctură de propolis</span></td></tr>
 <tr><td>Formula 10</td><td>35 RON / 21g <span id="en">Propolis capsules</span><span id="ro">Capsule de propolis</span></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icdapicultura.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">BEE001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
+<td style="color:#39ff14;" ><span id="en">Bee based food supplements I.C.D.A. Apicultura</span><span id="ro">Suplimente alimentare apicole I.C.D.A. Apicultura</span></td></tr>
+
+<tr><td>Formula 1</td><td>24.5 RON / 750g <span id="en"></span><span id="ro">Miere polifloră</span></td></tr>
+<tr><td>Formula 2</td><td>25.5 RON / 750g <span id="en">Canola bee honey</span><span id="ro">Miere de rapiță</span></td></tr>
+<tr><td>Formula 3</td><td>29 RON / 750g <span id="en">Linden bee honey</span><span id="ro">Miere de tei</span></td></tr>
+<tr><td>Formula 4</td><td>48.5 RON / 750g <span id="en">Acacia bee honey</span><span id="ro">Miere de salcâm</span></td></tr>
+<tr><td>Formula 5</td><td>27.5 RON / 450g <span id="en">Forest honey (manna)</span><span id="ro">Miere de mană</span></td></tr>
+<tr><td>Formula 6</td><td>26.5 RON / 10g <span id="en">Royal jelly</span><span id="ro">Lăptișor de matcă</span></td></tr>
+<tr><td>Formula 7</td><td>45 RON / 100g <span id="en">Bee bread</span><span id="ro">Păstură</span></td></tr>
+<tr><td>Formula 8</td><td>32 RON / 200g ( 10x20g ) <span id="en">Fresh harvested polen</span><span id="ro">Polen recoltat proaspăt</span></td></tr>
+<tr><td>Formula 9</td><td>25 RON / 30ml <span id="en">Propolis tincture</span><span id="ro">Tinctură de propolis</span></td></tr>
+<tr><td>Formula 10</td><td>35 RON / 21g <span id="en">Propolis capsules</span><span id="ro">Capsule de propolis</span></td></tr>
 
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icdapicultura.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+
+
+
+
 
 </tbody>
 
