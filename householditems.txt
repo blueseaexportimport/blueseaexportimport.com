@@ -404,14 +404,37 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Thread for candle making - box</span><span id="ro">Ață pentru fabricat lumânări  - cutie</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
 <tr><td>Formula 1</td><td>65 RON / kg ( Nm 13/4 100% <span id="en" >cotton - carded</span><span id="ro" >bumbac - cardat</span> )</td></tr>
-<tr><td>Formula 1</td><td>66 RON / kg ( Nm 13/5 100% <span id="en" >cotton - carded</span><span id="ro" >bumbac - cardat</span> )</td></tr>
-<tr><td>Formula 1</td><td>66 RON / kg ( Nm 13/6 100% <span id="en" >cotton - carded</span><span id="ro" >bumbac - cardat</span> )</td></tr>
-<tr><td>Formula 1</td><td>66 RON / kg ( Nm 20/4 100% <span id="en" >cotton - carded</span><span id="ro" >bumbac - cardat</span> )</td></tr>
-<tr><td>Formula 1</td><td>67 RON / kg ( Nm 13/8 100% <span id="en" >cotton - carded</span><span id="ro" >bumbac - cardat</span> )</td></tr>
-<tr><td>Formula 1</td><td>67 RON / kg ( Nm 13/10 100% <span id="en" >cotton - carded</span><span id="ro" >bumbac - cardat</span> )</td></tr>
-<tr><td>Formula 1</td><td>67 RON / kg ( Nm 13/13 100% <span id="en" >cotton - carded</span><span id="ro" >bumbac - cardat</span> )</td></tr>
+<tr><td>Formula 2</td><td>66 RON / kg ( Nm 13/5 100% <span id="en" >cotton - carded</span><span id="ro" >bumbac - cardat</span> )</td></tr>
+<tr><td>Formula 3</td><td>66 RON / kg ( Nm 13/6 100% <span id="en" >cotton - carded</span><span id="ro" >bumbac - cardat</span> )</td></tr>
+<tr><td>Formula 4</td><td>66 RON / kg ( Nm 20/4 100% <span id="en" >cotton - carded</span><span id="ro" >bumbac - cardat</span> )</td></tr>
+<tr><td>Formula 5</td><td>67 RON / kg ( Nm 13/8 100% <span id="en" >cotton - carded</span><span id="ro" >bumbac - cardat</span> )</td></tr>
+<tr><td>Formula 6</td><td>67 RON / kg ( Nm 13/10 100% <span id="en" >cotton - carded</span><span id="ro" >bumbac - cardat</span> )</td></tr>
+<tr><td>Formula 7</td><td>67 RON / kg ( Nm 13/13 100% <span id="en" >cotton - carded</span><span id="ro" >bumbac - cardat</span> )</td></tr>
 <tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://romanofir.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HHI0039</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Cake wax candles</span><span id="ro">Lumânări tort</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">EU</span></td></tr>
+<tr><td>Formula 1</td><td>5 RON / kg <span id="en" >number 0 - Susy card</span><span id="ro" >număr 0 - Susy card</span> h 8,5 cm</td></tr>
+<tr><td>Formula 1</td><td>5 RON / kg <span id="en" >number 1 - Susy card</span><span id="ro" >număr 1 - Susy card</span> h 8,5 cm</td></tr>
+<tr><td>Formula 1</td><td>5 RON / kg <span id="en" >number 2 - Susy card</span><span id="ro" >număr 2 - Susy card</span> h 8,5 cm</td></tr>
+<tr><td>Formula 1</td><td>5 RON / kg <span id="en" >number 3 - Susy card</span><span id="ro" >număr 3 - Susy card</span> h 8,5 cm</td></tr>
+<tr><td>Formula 1</td><td>5 RON / kg <span id="en" >number 4 - Susy card</span><span id="ro" >număr 4 - Susy card</span> h 8,5 cm</td></tr>
+<tr><td>Formula 1</td><td>5 RON / kg <span id="en" >number 5 - Susy card</span><span id="ro" >număr 5 - Susy card</span> h 8,5 cm</td></tr>
+<tr><td>Formula 1</td><td>5 RON / kg <span id="en" >number 6 - Susy card</span><span id="ro" >număr 6 - Susy card</span> h 8,5 cm</td></tr>
+<tr><td>Formula 1</td><td>5 RON / kg <span id="en" >number 7 - Susy card</span><span id="ro" >număr 7 - Susy card</span> h 8,5 cm</td></tr>
+<tr><td>Formula 1</td><td>5 RON / kg <span id="en" >number 8 - Susy card</span><span id="ro" >număr 8 - Susy card</span> h 8,5 cm</td></tr>
+<tr><td>Formula 1</td><td>5 RON / kg <span id="en" >number 9 - Susy card</span><span id="ro" >număr 9 - Susy card</span> h 8,5 cm</td></tr>
+<tr><td><span id="en">Link to manufacturer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herlitz.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+       <tr><td>Cake wax candles set</td><td>-</td><td>-</td></tr>    
+
 
 
 </tbody> 
@@ -435,7 +458,6 @@ if (class_ro === "new") {
 <!--
 
        <tr><td>Barbecue grill</td><td>-</td><td>-</td></tr>
-       <tr><td>Cake wax candles set</td><td>-</td><td>-</td></tr>    
 
 -->
 
