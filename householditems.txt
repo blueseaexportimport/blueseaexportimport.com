@@ -433,9 +433,6 @@
 
 
 
-       <tr><td>Cake wax candles set</td><td>-</td><td>-</td></tr>    
-
-
 
 </tbody> 
 
