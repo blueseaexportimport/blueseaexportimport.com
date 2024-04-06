@@ -42,32 +42,32 @@
 <td style="color:#39ff14;" ><span id="en">Bee based food supplements I.C.D.A. Apicultura</span><span id="ro">Suplimente alimentare apicole I.C.D.A. Apicultura</span></td></tr>
 
 <tr><td>Formula 1</td><td>27.5 RON / <span id="en">30 capsules Api-chlorella</span><span id="ro">30 capsule Api-chlorella</span></td></tr>
-<tr><td>Formula 1</td><td>27.5 RON / 15g 30<span id="en">capsules Api-heprotect</span><span id="ro">capsule Api-heprotect</span></td></tr>
-<tr><td>Formula 1</td><td>27.5 RON / 15g 30<span id="en">capsules Api-rezist</span><span id="ro">capsule Api-rezist</span></td></tr>
-<tr><td>Formula 1</td><td>33 RON / 30g 60<span id="en">capsules Vi-fort ( natural energy booster )</span><span id="ro">capsule Vi-fort ( energizant natural )</span></td></tr>
-<tr><td>Formula 1</td><td>37 RON / 42g 60<span id="en">capsules Api-carbactiv ( with activated carbon )</span><span id="ro">capsule Api-carbactiv ( cu carbon activ )</span></td></tr>
+<tr><td>Formula 2</td><td>27.5 RON / 15g 30<span id="en">capsules Api-heprotect</span><span id="ro">capsule Api-heprotect</span></td></tr>
+<tr><td>Formula 3</td><td>27.5 RON / 15g 30<span id="en">capsules Api-rezist</span><span id="ro">capsule Api-rezist</span></td></tr>
+<tr><td>Formula 4</td><td>33 RON / 30g 60<span id="en">capsules Vi-fort ( natural energy booster )</span><span id="ro">capsule Vi-fort ( energizant natural )</span></td></tr>
+<tr><td>Formula 5</td><td>37 RON / 42g 60<span id="en">capsules Api-carbactiv ( with activated carbon )</span><span id="ro">capsule Api-carbactiv ( cu carbon activ )</span></td></tr>
 
-<tr><td>Formula 1</td><td>14 RON / 50g 100<span id="en">tablets Polenapin (polen based supplement)</span><span id="ro">comprimate Polenapin (supliment pe bază de polen)</span></td></tr>
-<tr><td>Formula 1</td><td>23 RON / 100g <span id="en">liquid Polenolecitin (polen + vegetable lecithin)</span><span id="ro">lichid Polenolecitin (polen + lecitina vegetală)</span></td></tr>
+<tr><td>Formula 6</td><td>14 RON / 50g 100<span id="en">tablets Polenapin (polen based supplement)</span><span id="ro">comprimate Polenapin (supliment pe bază de polen)</span></td></tr>
+<tr><td>Formula 7</td><td>23 RON / 100g <span id="en">liquid Polenolecitin (polen + vegetable lecithin)</span><span id="ro">lichid Polenolecitin (polen + lecitina vegetală)</span></td></tr>
 
-<tr><td>Formula 1</td><td>15 RON / 60g 50<span id="en">tablets Revipol (polen+vitaman C)</span><span id="ro">comprimate Revipol (polen+vitaman C)</span></td></tr>
-<tr><td>Formula 1</td><td>17 RON / 15g 30<span id="en">tablets Septoprop C (propolis+vitaman C)</span><span id="ro">comprimate Septoprop C (propolis+vitaman C)</span></td></tr>
-<tr><td>Formula 1</td><td>18 RON / 15g 30<span id="en">tablets Septoprop (propolis extract + sugar)</span><span id="ro">comprimate Septoprop (extract de propolis + zahar)</span></td></tr>
+<tr><td>Formula 8</td><td>15 RON / 60g 50<span id="en">tablets Revipol (polen+vitaman C)</span><span id="ro">comprimate Revipol (polen+vitaman C)</span></td></tr>
+<tr><td>Formula 9</td><td>17 RON / 15g 30<span id="en">tablets Septoprop C (propolis+vitaman C)</span><span id="ro">comprimate Septoprop C (propolis+vitaman C)</span></td></tr>
+<tr><td>Formula 10</td><td>18 RON / 15g 30<span id="en">tablets Septoprop (propolis extract + sugar)</span><span id="ro">comprimate Septoprop (extract de propolis + zahar)</span></td></tr>
 
-<tr><td>Formula 1</td><td>14 RON / 60g 50<span id="en">tablets Meltonic-T-Catina (polen+sea buckthorn+propolis)</span><span id="ro">comprimate Meltonic-T-Catina (polen+cătină+propolis)</span></td></tr>
-<tr><td>Formula 1</td><td>14 RON / 60g 50<span id="en">tablets Meltonic-T-Paducel (hawthorns+propolis)</span><span id="ro">comprimate Meltonic-T-Paducel (paducele+propolis)</span></td></tr>
-<tr><td>Formula 1</td><td>14 RON / 60g 50<span id="en">tablets Meltonic-T-Rostopasca (polen+celandine+propolis)</span><span id="ro">comprimate Meltonic-T-Rostopasca (polen+rostopasca+propolis)</span></td></tr>
-<tr><td>Formula 1</td><td>14 RON / 60g 50<span id="en">tablets Meltonic-T-Ienupar (juniper+propolis)</span><span id="ro">comprimate Meltonic-T-Ienupar (ienupar+propolis)</span></td></tr>
-<tr><td>Formula 1</td><td>14 RON / 60g 50<span id="en">tablets Meltonic-T-Eucalipt (eucalyptus+propolis)</span><span id="ro">comprimate Meltonic-T-Eucalipt (eucalipt+propolis)</span></td></tr>
-<tr><td>Formula 1</td><td>16 RON / 60g 50<span id="en">tablets Meltonic-T-Cimbru (thyme+propolis)</span><span id="ro">comprimate Meltonic-T-Cimbru (cimbru+propolis)</span></td></tr>
-<tr><td>Formula 1</td><td>18.5 RON / 200g <span id="en">Melcalcin (honey+royal jelly+calcium)</span><span id="ro">Melcalcin (honey+lăptișor de matcă+calcium)</span></td></tr>
-<tr><td>Formula 1</td><td>23 RON / 200g <span id="en">Mel-prop ( Bee honey with propolis )</span><span id="ro">Mel-prop ( Miere de albine cu propolis )</span></td></tr>
-<tr><td>Formula 1</td><td>23 RON / 200g <span id="en">Mel-royal ( Bee honey with royal jelly )</span><span id="ro">Mel-prop ( Miere de albine cu lăptișor de matcă )</span></td></tr>
-<tr><td>Formula 1</td><td>25.5 RON / 200g <span id="en">Vi-fort pasta ( natural energy booster )</span><span id="ro">Vi-fort pasta ( energizant natural )</span></td></tr>
-<tr><td>Formula 1</td><td>29 RON / 200g <span id="en">Api-chocolate</span><span id="ro">Api-ciocolata</span></td></tr>
+<tr><td>Formula 11</td><td>14 RON / 60g 50<span id="en">tablets Meltonic-T-Catina (polen+sea buckthorn+propolis)</span><span id="ro">comprimate Meltonic-T-Catina (polen+cătină+propolis)</span></td></tr>
+<tr><td>Formula 12</td><td>14 RON / 60g 50<span id="en">tablets Meltonic-T-Paducel (hawthorns+propolis)</span><span id="ro">comprimate Meltonic-T-Paducel (paducele+propolis)</span></td></tr>
+<tr><td>Formula 13</td><td>14 RON / 60g 50<span id="en">tablets Meltonic-T-Rostopasca (polen+celandine+propolis)</span><span id="ro">comprimate Meltonic-T-Rostopasca (polen+rostopasca+propolis)</span></td></tr>
+<tr><td>Formula 14</td><td>14 RON / 60g 50<span id="en">tablets Meltonic-T-Ienupar (juniper+propolis)</span><span id="ro">comprimate Meltonic-T-Ienupar (ienupar+propolis)</span></td></tr>
+<tr><td>Formula 15</td><td>14 RON / 60g 50<span id="en">tablets Meltonic-T-Eucalipt (eucalyptus+propolis)</span><span id="ro">comprimate Meltonic-T-Eucalipt (eucalipt+propolis)</span></td></tr>
+<tr><td>Formula 16</td><td>16 RON / 60g 50<span id="en">tablets Meltonic-T-Cimbru (thyme+propolis)</span><span id="ro">comprimate Meltonic-T-Cimbru (cimbru+propolis)</span></td></tr>
+<tr><td>Formula 17</td><td>18.5 RON / 200g <span id="en">Melcalcin (honey+royal jelly+calcium)</span><span id="ro">Melcalcin (honey+lăptișor de matcă+calcium)</span></td></tr>
+<tr><td>Formula 18</td><td>23 RON / 200g <span id="en">Mel-prop ( Bee honey with propolis )</span><span id="ro">Mel-prop ( Miere de albine cu propolis )</span></td></tr>
+<tr><td>Formula 19</td><td>23 RON / 200g <span id="en">Mel-royal ( Bee honey with royal jelly )</span><span id="ro">Mel-prop ( Miere de albine cu lăptișor de matcă )</span></td></tr>
+<tr><td>Formula 20</td><td>25.5 RON / 200g <span id="en">Vi-fort pasta ( natural energy booster )</span><span id="ro">Vi-fort pasta ( energizant natural )</span></td></tr>
+<tr><td>Formula 21</td><td>29 RON / 200g <span id="en">Api-chocolate</span><span id="ro">Api-ciocolata</span></td></tr>
 
-<tr><td>Formula 1</td><td>63.5 RON / 20g 60<span id="en">capsules Propoliv extract Junior (propolis+olive oil for childrin)</span><span id="ro">capsule Propoliv extract Junior (propolis+ulei măsline pentru copii)</span></td></tr>
-<tr><td>Formula 1</td><td>63 RON / 20g 60<span id="en">capsules Propoliv extract Junior (propolis+olive oil for adults)</span><span id="ro">capsule Propoliv extract Junior (propolis+ulei măsline pentru adulți)</span></td></tr>
+<tr><td>Formula 22</td><td>63.5 RON / 20g 60<span id="en">capsules Propoliv extract Junior (propolis+olive oil for childrin)</span><span id="ro">capsule Propoliv extract Junior (propolis+ulei măsline pentru copii)</span></td></tr>
+<tr><td>Formula 23</td><td>63 RON / 20g 60<span id="en">capsules Propoliv extract Junior (propolis+olive oil for adults)</span><span id="ro">capsule Propoliv extract Junior (propolis+ulei măsline pentru adulți)</span></td></tr>
 
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://icdapicultura.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
