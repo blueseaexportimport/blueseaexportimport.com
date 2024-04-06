@@ -33,7 +33,6 @@
 
        <tr><td>Baby bath gel</td><td>-</td><td>-</td></tr>
        <tr><td>Baby shampoo</td><td>-</td><td>-</td></tr>
-       <tr><td>Baby body lotion</td><td>-</td><td>-</td></tr>
        <tr><td>Baby care oil</td><td>-</td><td>-</td></tr>
        <tr><td>Baby happy cream</td><td>-</td><td>-</td></tr>
        <tr><td>Baby powder</td><td>-</td><td>-</td></tr>
