@@ -62,12 +62,12 @@
 <tr><td>Formula 2</td><td>44.5 RON / 125ml Natural Response</td></tr>
 <tr><td>Formula 3</td><td>48.3 RON / 260ml Natural Response</td></tr>
 <tr><td>Formula 4</td><td>51 RON / 330ml Natural Response</td></tr>
-<tr><td>Formula 4</td><td>36.9 RON / 2x Natural Response Teat 0m <span id="en">0 months debit 1</span><span id="ro">0 luni debit 1</span></td></tr>
-<tr><td>Formula 4</td><td>36.9 RON / 2x Natural Response Teat 0m+ <span id="en">over 0 months debit 2</span><span id="ro">mai mare de 0 luni debit 2</span></td></tr>
-<tr><td>Formula 4</td><td>36.9 RON / 2x Natural Response Teat 1m+ <span id="en">over 1 months debit 3</span><span id="ro">mai mare de 1 luni debit 3</span></td></tr>
-<tr><td>Formula 4</td><td>41.5 RON / 2x Natural Response Teat 3m+ <span id="en">over 3 months debit 4</span><span id="ro">mai mare de 3 luni debit 4</span></td></tr>
-<tr><td>Formula 4</td><td>35.1 RON / 2x Natural Response Teat 6m <span id="en">over 6 months debit 5</span><span id="ro">mai mare de 6 luni debit 5</span></td></tr>
-<tr><td>Formula 4</td><td>37.3 RON / 2x Natural Response Teat 6m+ <span id="en">over 6 months debit 6</span><span id="ro">mai mare de 6 luni debit 6</span></td></tr>
+<tr><td>Formula 5</td><td>36.9 RON / 2x Natural Response Teat 0m <span id="en">0 months debit 1</span><span id="ro">0 luni debit 1</span></td></tr>
+<tr><td>Formula 6</td><td>36.9 RON / 2x Natural Response Teat 0m+ <span id="en">over 0 months debit 2</span><span id="ro">mai mare de 0 luni debit 2</span></td></tr>
+<tr><td>Formula 7</td><td>36.9 RON / 2x Natural Response Teat 1m+ <span id="en">over 1 months debit 3</span><span id="ro">mai mare de 1 luni debit 3</span></td></tr>
+<tr><td>Formula 8</td><td>41.5 RON / 2x Natural Response Teat 3m+ <span id="en">over 3 months debit 4</span><span id="ro">mai mare de 3 luni debit 4</span></td></tr>
+<tr><td>Formula 9</td><td>35.1 RON / 2x Natural Response Teat 6m <span id="en">over 6 months debit 5</span><span id="ro">mai mare de 6 luni debit 5</span></td></tr>
+<tr><td>Formula 10</td><td>37.3 RON / 2x Natural Response Teat 6m+ <span id="en">over 6 months debit 6</span><span id="ro">mai mare de 6 luni debit 6</span></td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.philips.ro/c-e/shop/1000-de-zile.html" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
