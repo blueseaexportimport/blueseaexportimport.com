@@ -12,6 +12,15 @@
 <tr><td>Formula 1</td><td>0 RON / <span id="en" >I beam: thickness -mm width -mm length -mm condition - alloy - standard</span><span id="ro">profil I: grosime -mm lățime -mm lungime -mm stare - aliaj - standard</span> - </td></tr>
 
 
+<tr><td>Formula 1</td><td>83.3 RON / m <span id="en" >H (HEA 100) profile: dim. h:96mm b:100mm s:5mm t:8mm length 12m alloy S275JR standard</span><span id="ro">profil H (HEA 100): dim. h:96mm b:100mm s:5mm t:8mm lungime 12m aliaj S275JR standard</span> EN 10025 </td></tr>
+<tr><td>Formula 1</td><td>99.3 RON / m <span id="en" >H (HEA 120) profile: dim. h:114mm b:120mm s:5mm t:8mm length 12m alloy S275JR standard</span><span id="ro">profil H (HEA 120): dim. h:114mm b:120mm s:5mm t:8mm lungime 12m aliaj S275JR standard</span> EN 10025 </td></tr>
+<tr><td>Formula 1</td><td>132.1 RON / m <span id="en" >H (HEA 140) profile: dim. h:133mm b:140mm s:5.5mm t:8.5mm length 12m alloy S275JR standard</span><span id="ro">profil H (HEA 140): dim. h:133mm b:140mm s:5.5mm t:8.5mm lungime 12m aliaj S275JR standard</span> EN 10025 </td></tr>
+<tr><td>Formula 1</td><td>151.7 RON / m <span id="en" >H (HEA 160) profile: dim. h:152mm b:160mm s:6mm t:9mm length 12m alloy S275JR standard</span><span id="ro">profil H (HEA 160): dim. h:152mm b:160mm s:6mm t:9mm lungime 12m aliaj S275JR standard</span> EN 10025 </td></tr>
+<tr><td>Formula 1</td><td>195.1 RON / m <span id="en" >H (HEA 180) profile: dim. h:171mm b:180mm s:6mm t:9.5mm length 12m alloy S275JR standard</span><span id="ro">profil H (HEA 180): dim. h:171mm b:180mm s:6mm t:9.5mm lungime 12m aliaj S275JR standard</span> EN 10025 </td></tr>
+<tr><td>Formula 1</td><td>285.6 RON / m <span id="en" >H (HEA 220) profile: dim. h:210mm b:220mm s:7mm t:11mm length 12m alloy S275JR standard</span><span id="ro">profil H (HEA 220): dim. h:210mm b:220mm s:7mm t:11mm lungime 12m aliaj S275JR standard</span> EN 10025 </td></tr>
+<tr><td>Formula 1</td><td>331.3 RON / m <span id="en" >H (HEA 240) profile: dim. h:230mm b:240mm s:7.5mm t:12mm length 12m alloy S275JR standard</span><span id="ro">profil H (HEA 240): dim. h:230mm b:240mm s:7.5mm t:12mm lungime 12m aliaj S275JR standard</span> EN 10025 </td></tr>
+
+
 <tr><td>Formula 1</td><td>2.3 RON / m <span id="en" >flat bar: dim. 5 X 12 mm length 6m alloy S235JR standard</span><span id="ro">platbandă: dim. 5 X 12 mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
 <tr><td>Formula 1</td><td>2.9 RON / m <span id="en" >flat bar: dim. 5 X 16 mm length 6m alloy S235JR standard</span><span id="ro">platbandă: dim. 5 X 16 mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
 <tr><td>Formula 1</td><td>3.5 RON / m <span id="en" >flat bar: dim. 6 X 16 mm length 6m alloy S235JR standard</span><span id="ro">platbandă: dim. 6 X 16 mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
