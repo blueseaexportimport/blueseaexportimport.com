@@ -119,6 +119,37 @@ $(document).ready(function() {
 $(document).ready(function () { 
 
 
+  // Grab laminatedfproducts on click start
+  $("#laminatedfproductsbtn").click(function() {
+    if ($("#laminatedfproducts").hasClass("clickedlaminatedfproducts")) {
+        // already been clicked once, hide it
+        $("#laminatedfproducts").html("");
+        $( "#laminatedfproducts" ).removeClass( "clickedlaminatedfproducts" )
+    }else {
+        // first time this is clicked, mark it
+        $("#laminatedfproducts").addClass("clickedlaminatedfproducts");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/laminatedfproducts.txt", success: function(result){
+         $("#laminatedfproducts").html(result);
+        }});
+    }
+   });
+  // Grab laminatedfproducts on click end
+	
+  // Grab laminatednfproducts on click start
+  $("#laminatednfproductsbtn").click(function() {
+    if ($("#laminatednfproducts").hasClass("clickedlaminatednfproducts")) {
+        // already been clicked once, hide it
+        $("#laminatednfproducts").html("");
+        $( "#laminatednfproducts" ).removeClass( "clickedlaminatednfproducts" )
+    }else {
+        // first time this is clicked, mark it
+        $("#laminatednfproducts").addClass("clickedlaminatednfproducts");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/laminatednfproducts.txt", success: function(result){
+         $("#laminatednfproducts").html(result);
+        }});
+    }
+   });
+  // Grab laminatednfproducts on click end
 
   // Grab personalcarebabycare on click start
   $("#personalcarebabycarebtn").click(function() {
@@ -2420,13 +2451,21 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table> 
-
-   <h5 class="categoryaccordion" ><span id="en">Tools and safety equipment</span><span id="ro">Unelte și echipamente de protecție</span></h5>    	
-   <div class="rowbin" >-</div> 
-   <h5 class="categoryaccordion" ><span id="en">Laminated steel products</span><span id="ro">Produse laminate din oțel</span></h5>    	
-   <div class="rowbin" >-</div> 
-   <h5 class="categoryaccordion" ><span id="en">Laminated non-ferrous metals products</span><span id="ro">Produse laminate din metale neferoase</span></h5>    	
-   <div class="rowbin" >-</div> 
+   <h5 class="categoryaccordion" id="foundrytoolsbtn" ><span id="en">Tools and safety equipment</span><span id="ro">Unelte și echipamente de protecție</span></h5>    	
+   <table id="foundrytools" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+   <h5 class="categoryaccordion" id="laminatedfproductsbtn" ><span id="en">Laminated steel products</span><span id="ro">Produse laminate din oțel</span></h5>    	
+   <table id="laminatednfproducts" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
+   <h5 class="categoryaccordion" id="laminatednfproductsbtn" ><span id="en">Laminated non-ferrous metals products</span><span id="ro">Produse laminate din metale neferoase</span></h5>    	
+   <table id="laminatednfproducts" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
 	   
    </div></li><!--END SECTION-->
 	   
