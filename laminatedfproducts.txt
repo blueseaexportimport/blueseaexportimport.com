@@ -3,7 +3,7 @@
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">LFF001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Steel hot laminated products</span><span id="ro">Produse oțel laminate la cald</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="en">UE</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="ro">UE</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >-</td></tr>
 
 <tr><td>Formula 1</td><td>0 RON / <span id="en" >U profile: thickness -mm width -mm length -mm condition - alloy - standard</span><span id="ro">profil U: grosime -mm lățime -mm lungime -mm stare - aliaj - standard</span> - </td></tr>
@@ -14,55 +14,55 @@
 
 <tr><td>Formula 1</td><td>2.3 RON / m <span id="en" >flat bar: thickness 5mm width 12mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 12mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
 
-<tr><td>Formula 1</td><td>2.9 RON / m <span id="en" >flat bar: thickness 5mm width 16mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 16mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>3.5 RON / m <span id="en" >flat bar: thickness 6mm width 16mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 6mm lățime 16mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>2.3 RON / m <span id="en" >flat bar: thickness 3mm width 20mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 3mm lățime 20mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>3.2 RON / m <span id="en" >flat bar: thickness 4mm width 20mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 4mm lățime 20mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>3.7 RON / m <span id="en" >flat bar: thickness 5mm width 20mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 20mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>5.8 RON / m <span id="en" >flat bar: thickness 8mm width 20mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 8mm lățime 20mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>7.2 RON / m <span id="en" >flat bar: thickness 10mm width 20mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 10mm lățime 20mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>2.8 RON / m <span id="en" >flat bar: thickness 3mm width 25mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 3mm lățime 25mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>3.7 RON / m <span id="en" >flat bar: thickness 4mm width 25mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 4mm lățime 25mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>4.6 RON / m <span id="en" >flat bar: thickness 5mm width 25mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 25mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>7.2 RON / m <span id="en" >flat bar: thickness 8mm width 25mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 8mm lățime 25mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>9.3 RON / m <span id="en" >flat bar: thickness 10mm width 25mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 10mm lățime 25mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>3 RON / m <span id="en" >flat bar: thickness 2.7mm width 30mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 2.7mm lățime 30mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>3.3 RON / m <span id="en" >flat bar: thickness 3mm width 30mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 3mm lățime 30mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>4.4 RON / m <span id="en" >flat bar: thickness 4mm width 30mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 4mm lățime 30mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>5.5 RON / m <span id="en" >flat bar: thickness 5mm width 30mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 30mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>6.5 RON / m <span id="en" >flat bar: thickness 6mm width 30mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 6mm lățime 30mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>10.9 RON / m <span id="en" >flat bar: thickness 10mm width 30mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 10mm lățime 30mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>4.4 RON / m <span id="en" >flat bar: thickness 3mm width 40mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 3mm lățime 40mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>5.8 RON / m <span id="en" >flat bar: thickness 4mm width 40mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 4mm lățime 40mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>7.9 RON / m <span id="en" >flat bar: thickness 5mm width 40mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 40mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>8.7 RON / m <span id="en" >flat bar: thickness 6mm width 40mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 6mm lățime 40mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>11.6 RON / m <span id="en" >flat bar: thickness 8mm width 40mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 8mm lățime 40mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>14.5 RON / m <span id="en" >flat bar: thickness 10mm width 40mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 10mm lățime 40mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>6.4 RON / m <span id="en" >flat bar: thickness 5mm width 35mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 35mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>5.6 RON / m <span id="en" >flat bar: thickness 3mm width 50mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 3mm lățime 50mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>7.2 RON / m <span id="en" >flat bar: thickness 4mm width 50mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 4mm lățime 50mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>8.5 RON / m <span id="en" >flat bar: thickness 4.7mm width 50mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 4.7mm lățime 50mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>9.1 RON / m <span id="en" >flat bar: thickness 5mm width 50mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 50mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>11 RON / m <span id="en" >flat bar: thickness 6mm width 50mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 6mm lățime 50mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>14.5 RON / m <span id="en" >flat bar: thickness 8mm width 50mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 8mm lățime 50mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>18.1 RON / m <span id="en" >flat bar: thickness 10mm width 50mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 10mm lățime 50mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>10.9 RON / m <span id="en" >flat bar: thickness 5mm width 60mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 60mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>13.3 RON / m <span id="en" >flat bar: thickness 6mm width 60mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 6mm lățime 60mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>18.2 RON / m <span id="en" >flat bar: thickness 8mm width 60mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 8mm lățime 60mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>2.9 RON / m <span id="en" >flat bar: thickness 5mm width 16mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 16mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>3.5 RON / m <span id="en" >flat bar: thickness 6mm width 16mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 6mm lățime 16mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>2.3 RON / m <span id="en" >flat bar: thickness 3mm width 20mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 3mm lățime 20mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>3.2 RON / m <span id="en" >flat bar: thickness 4mm width 20mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 4mm lățime 20mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>3.7 RON / m <span id="en" >flat bar: thickness 5mm width 20mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 20mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>5.8 RON / m <span id="en" >flat bar: thickness 8mm width 20mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 8mm lățime 20mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>7.2 RON / m <span id="en" >flat bar: thickness 10mm width 20mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 10mm lățime 20mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>2.8 RON / m <span id="en" >flat bar: thickness 3mm width 25mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 3mm lățime 25mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>3.7 RON / m <span id="en" >flat bar: thickness 4mm width 25mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 4mm lățime 25mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>4.6 RON / m <span id="en" >flat bar: thickness 5mm width 25mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 25mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>7.2 RON / m <span id="en" >flat bar: thickness 8mm width 25mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 8mm lățime 25mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>9.3 RON / m <span id="en" >flat bar: thickness 10mm width 25mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 10mm lățime 25mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>3 RON / m <span id="en" >flat bar: thickness 2.7mm width 30mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 2.7mm lățime 30mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>3.3 RON / m <span id="en" >flat bar: thickness 3mm width 30mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 3mm lățime 30mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>4.4 RON / m <span id="en" >flat bar: thickness 4mm width 30mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 4mm lățime 30mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>5.5 RON / m <span id="en" >flat bar: thickness 5mm width 30mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 30mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>6.5 RON / m <span id="en" >flat bar: thickness 6mm width 30mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 6mm lățime 30mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>10.9 RON / m <span id="en" >flat bar: thickness 10mm width 30mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 10mm lățime 30mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>4.4 RON / m <span id="en" >flat bar: thickness 3mm width 40mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 3mm lățime 40mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>5.8 RON / m <span id="en" >flat bar: thickness 4mm width 40mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 4mm lățime 40mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>7.9 RON / m <span id="en" >flat bar: thickness 5mm width 40mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 40mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>8.7 RON / m <span id="en" >flat bar: thickness 6mm width 40mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 6mm lățime 40mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>11.6 RON / m <span id="en" >flat bar: thickness 8mm width 40mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 8mm lățime 40mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>14.5 RON / m <span id="en" >flat bar: thickness 10mm width 40mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 10mm lățime 40mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>6.4 RON / m <span id="en" >flat bar: thickness 5mm width 35mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 35mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>5.6 RON / m <span id="en" >flat bar: thickness 3mm width 50mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 3mm lățime 50mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>7.2 RON / m <span id="en" >flat bar: thickness 4mm width 50mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 4mm lățime 50mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>8.5 RON / m <span id="en" >flat bar: thickness 4.7mm width 50mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 4.7mm lățime 50mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>9.1 RON / m <span id="en" >flat bar: thickness 5mm width 50mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 50mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>11 RON / m <span id="en" >flat bar: thickness 6mm width 50mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 6mm lățime 50mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>14.5 RON / m <span id="en" >flat bar: thickness 8mm width 50mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 8mm lățime 50mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>18.1 RON / m <span id="en" >flat bar: thickness 10mm width 50mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 10mm lățime 50mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>10.9 RON / m <span id="en" >flat bar: thickness 5mm width 60mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 60mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>13.3 RON / m <span id="en" >flat bar: thickness 6mm width 60mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 6mm lățime 60mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>18.2 RON / m <span id="en" >flat bar: thickness 8mm width 60mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 8mm lățime 60mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
 <tr><td>Formula 1</td><td>22.6 RON / m <span id="en" >flat bar: thickness 10mm width 60mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 10mm lățime 60mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
 <tr><td>Formula 1</td><td>13.3 RON / m <span id="en" >flat bar: thickness 5mm width 70mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 70mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>26.6 RON / m <span id="en" >flat bar: thickness 10mm width 70mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 10mm lățime 70mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>15.2 RON / m <span id="en" >flat bar: thickness 5mm width 80mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 80mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>18.2 RON / m <span id="en" >flat bar: thickness 6mm width 80mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 6mm lățime 80mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>30.3 RON / m <span id="en" >flat bar: thickness 10mm width 80mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 10mm lățime 80mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>19 RON / m <span id="en" >flat bar: thickness 5mm width 100mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 100mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>22.7 RON / m <span id="en" >flat bar: thickness 6mm width 100mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 6mm lățime 100mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>30.3 RON / m <span id="en" >flat bar: thickness 8mm width 100mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 8mm lățime 100mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>37.8 RON / m <span id="en" >flat bar: thickness 10mm width 100mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 10mm lățime 100mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>46.5 RON / m <span id="en" >flat bar: thickness 12mm width 100mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 12mm lățime 100mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>37.2 RON / m <span id="en" >flat bar: thickness 8mm width 120mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 8mm lățime 120mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>46.5 RON / m <span id="en" >flat bar: thickness 10mm width 120mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 10mm lățime 120mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>55.8 RON / m <span id="en" >flat bar: thickness 12mm width 120mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 12mm lățime 120mm lungime 6mm aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>26.6 RON / m <span id="en" >flat bar: thickness 10mm width 70mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 10mm lățime 70mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>15.2 RON / m <span id="en" >flat bar: thickness 5mm width 80mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 80mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>18.2 RON / m <span id="en" >flat bar: thickness 6mm width 80mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 6mm lățime 80mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>30.3 RON / m <span id="en" >flat bar: thickness 10mm width 80mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 10mm lățime 80mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>19 RON / m <span id="en" >flat bar: thickness 5mm width 100mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 5mm lățime 100mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>22.7 RON / m <span id="en" >flat bar: thickness 6mm width 100mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 6mm lățime 100mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>30.3 RON / m <span id="en" >flat bar: thickness 8mm width 100mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 8mm lățime 100mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>37.8 RON / m <span id="en" >flat bar: thickness 10mm width 100mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 10mm lățime 100mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>46.5 RON / m <span id="en" >flat bar: thickness 12mm width 100mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 12mm lățime 100mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>37.2 RON / m <span id="en" >flat bar: thickness 8mm width 120mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 8mm lățime 120mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>46.5 RON / m <span id="en" >flat bar: thickness 10mm width 120mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 10mm lățime 120mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>55.8 RON / m <span id="en" >flat bar: thickness 12mm width 120mm length 6m alloy S235JR standard</span><span id="ro">platbandă: grosime 12mm lățime 120mm lungime 6m aliaj S235JR standard</span>EN 10025</td></tr>
 
 
 <tr><td>Formula 1</td><td>0 RON / <span id="en" >equal angle bar: thickness -mm width -mm length -mm condition - alloy - standard</span><span id="ro">cornier laturi egale: grosime -mm lățime -mm lungime -mm stare - aliaj - standard</span> - </td></tr>
@@ -88,7 +88,34 @@
 
 
 <tr><td>Formula 1</td><td>0 RON / <span id="en" >hexagonal bar: thickness -mm width -mm length -mm condition - alloy - standard</span><span id="ro">bară hexagonală: grosime -mm lățime -mm lungime -mm stare - aliaj - standard</span> - </td></tr>
-<tr><td>Formula 1</td><td>0 RON / <span id="en" >round bar: thickness -mm width -mm length -mm condition - alloy - standard</span><span id="ro">bară rotundă: grosime -mm lățime -mm lungime -mm stare - aliaj - standard</span> - </td></tr>
+
+
+<tr><td>Formula 1</td><td>1.8 RON / m <span id="en" >round bar: thickness 8mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 8mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>2.9 RON / m <span id="en" >round bar: thickness 10mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 10mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>3.6 RON / m <span id="en" >round bar: thickness 11mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 11mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>4.1 RON / m <span id="en" >round bar: thickness 12mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 12mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>5.6 RON / m <span id="en" >round bar: thickness 14mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 14mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>7.3 RON / m <span id="en" >round bar: thickness 16mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 16mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>9.2 RON / m <span id="en" >round bar: thickness 18mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 18mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>10.3 RON / m <span id="en" >round bar: thickness 19mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 19mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>11.3 RON / m <span id="en" >round bar: thickness 20mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 20mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>15.5 RON / m <span id="en" >round bar: thickness 22mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 22mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>16.4 RON / m <span id="en" >round bar: thickness 24mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 24mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>17.7 RON / m <span id="en" >round bar: thickness 25mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 25mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>22 RON / m <span id="en" >round bar: thickness 27mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 27mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>22.7 RON / m <span id="en" >round bar: thickness 28mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 28mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>26.1 RON / m <span id="en" >round bar: thickness 30mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 30mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>31 RON / m <span id="en" >round bar: thickness 32mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 32mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>38.1 RON / m <span id="en" >round bar: thickness 35mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 35mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>38.7 RON / m <span id="en" >round bar: thickness 36mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 36mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>43.2 RON / m <span id="en" >round bar: thickness 38mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 38mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>47.9 RON / m <span id="en" >round bar: thickness 40mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 40mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>60.6 RON / m <span id="en" >round bar: thickness 45mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 45mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+<tr><td>Formula 1</td><td>77.4 RON / m <span id="en" >round bar: thickness 50mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 50mm lungime 6m aliaj S235JR standard</span> EN 10025</td></tr>
+
+
+
+
 <tr><td>Formula 1</td><td>0 RON / <span id="en" >wire: thickness -mm width -mm length -mm condition - alloy - standard</span><span id="ro">sârmă: grosime -mm lățime -mm lungime -mm stare - aliaj - standard</span> - </td></tr>
 <tr><td>Formula 1</td><td>0 RON / <span id="en" >checker sheet: thickness -mm width -mm length -mm condition - alloy - standard</span><span id="ro">tablă striată: grosime -mm lățime -mm lungime -mm stare - aliaj - standard</span> - </td></tr>
 <tr><td>Formula 1</td><td>0 RON / <span id="en" >perforated sheet: thickness -mm width -mm length -mm condition - alloy - standard</span><span id="ro">tablă perforată: grosime -mm lățime -mm lungime -mm stare - aliaj - standard</span> - </td></tr>
@@ -101,7 +128,7 @@
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">LFF002</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Steel cold laminated products</span><span id="ro">Produse oțel laminate la rece</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="en">UE</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="ro">UE</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >-</td></tr>
 
 <tr><td>Formula 1</td><td>0 RON / <span id="en" >U profile: thickness -mm width -mm length -mm condition - alloy - standard</span><span id="ro">profil U: grosime -mm lățime -mm lungime -mm stare - aliaj - standard</span> - </td></tr>
