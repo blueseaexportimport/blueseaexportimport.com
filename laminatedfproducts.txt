@@ -182,9 +182,9 @@
 <tr><td>Formula 1</td><td>3.1 RON / m <span id="en" >square bar: dim. 9 X 9 mm length 6m  alloy S235JR standard</span><span id="ro">bară pătrată: dim. 9 X 9 mm lungime 9m aliaj S235JR  standard</span>EN 10025</td></tr>
 <tr><td>Formula 1</td><td>3.6 RON / m <span id="en" >square bar: dim. 10 X 10 mm length 6m  alloy S235JR standard</span><span id="ro">bară pătrată: dim. 10 X 10 mm lungime 6m aliaj S235JR  standard</span>EN 10025</td></tr>
 <tr><td>Formula 1</td><td>4.6 RON / m <span id="en" >square bar: dim. 11 X 11 mm length 6m  alloy S235JR standard</span><span id="ro">bară pătrată: dim. 11 X 11 mm lungime 6m aliaj S235JR  standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>>5.3 RON / m <span id="en" >square bar: dim. 12 X 12 mm length 6m  alloy S235JR standard</span><span id="ro">bară pătrată: dim. 12 X 12 mm lungime 6m aliaj S235JR  standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>>7.2 RON / m <span id="en" >square bar: dim. 14 X 14 mm length 6m  alloy S235JR standard</span><span id="ro">bară pătrată: dim. 14 X 14 mm lungime 6m aliaj S235JR  standard</span>EN 10025</td></tr>
-<tr><td>Formula 1</td><td>>9.3 RON / m <span id="en" >square bar: dim. 16 X 16 mm length 6m  alloy S235JR standard</span><span id="ro">bară pătrată: dim. 16 X 16 mm lungime 6m aliaj S235JR  standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>5.3 RON / m <span id="en" >square bar: dim. 12 X 12 mm length 6m  alloy S235JR standard</span><span id="ro">bară pătrată: dim. 12 X 12 mm lungime 6m aliaj S235JR  standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>7.2 RON / m <span id="en" >square bar: dim. 14 X 14 mm length 6m  alloy S235JR standard</span><span id="ro">bară pătrată: dim. 14 X 14 mm lungime 6m aliaj S235JR  standard</span>EN 10025</td></tr>
+<tr><td>Formula 1</td><td>9.3 RON / m <span id="en" >square bar: dim. 16 X 16 mm length 6m  alloy S235JR standard</span><span id="ro">bară pătrată: dim. 16 X 16 mm lungime 6m aliaj S235JR  standard</span>EN 10025</td></tr>
 <tr><td>Formula 1</td><td>12.3 RON / m <span id="en" >square bar: dim. 18 X 18 mm length 6m  alloy S235JR standard</span><span id="ro">bară pătrată: dim. 18 X 18 mm lungime 6m aliaj S235JR  standard</span>EN 10025</td></tr>
 <tr><td>Formula 1</td><td>15.2 RON / m <span id="en" >square bar: dim. 20 X 20 mm length 6m  alloy S235JR standard</span><span id="ro">bară pătrată: dim. 20 X 20 mm lungime 6m aliaj S235JR  standard</span>EN 10025</td></tr>
 
