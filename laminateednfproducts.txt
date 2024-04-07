@@ -1,0 +1,32 @@
+<tbody>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">LNF001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Aluminium checker sheet</span><span id="ro">Tablă aluminiu striată</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">Unknown</span><span id="en">Necunoscută</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >-</td></tr>
+<tr><td><span id="en" >Alloy</span><span id="ro">Aliaj</span></td><td style="color:#39ff14;" >-</td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >thickness -mm width -mm length -mm condition -</span><span id="ro">grosime -mm lățime -mm lungime -mm stare -</span></td></tr>
+<tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various EU suppliers</span><span id="ro">Furnizori din UE</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+
+</tbody>
+
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
