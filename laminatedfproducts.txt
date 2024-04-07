@@ -4,7 +4,6 @@
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">LFF001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Steel hot laminated products</span><span id="ro">Produse oțel laminate la cald</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="ro">UE</span></td></tr>
-<tr><td>Standard</td><td style="color:#39ff14;" >-</td></tr>
 
 <tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">T profile</span><span id="ro">Profil T</span></td><td></td></tr>
 <tr><td>Formula 1</td><td>0 RON / <span id="en" >T profile: thickness -mm width -mm length -mm condition - alloy - standard</span><span id="ro">profil T: grosime -mm lățime -mm lungime -mm stare - aliaj - standard</span> - </td></tr>
