@@ -374,4 +374,22 @@ if (class_ro === "new") {
 <tr><td><span id="en">Soft Black Wire ⌀ 2.5mm ÷ ⌀ 5mm Coil weight 80-120kg</span><span id="ro">Sârmă moale neagră ⌀ 2.5mm ÷ ⌀ 5mm Greutate colac 80-120kg</span></td>
 <tr><td><span id="en">Soft Black Wire ⌀ 1.8mm ÷ ⌀ 2mm Coil weight 80-120kg</span><span id="ro">Sârmă moale neagră ⌀ 1.8mm ÷ ⌀ 2mm Greutate colac 80-120kg</span></td>
 
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Wire</span><span id="ro">Sârmă</span></td><td></td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >wire: thickness -mm width -mm length -mm condition - alloy - standard</span><span id="ro">sârmă: grosime -mm lățime -mm lungime -mm stare - aliaj - standard</span> - </td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Checker sheet</span><span id="ro">Tablă striată</span></td><td></td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >checker sheet: thickness -mm width -mm length -mm condition - alloy - standard</span><span id="ro">tablă striată: grosime -mm lățime -mm lungime -mm stare - aliaj - standard</span> - </td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Perforated sheet</span><span id="ro">Tablă perforată</span></td><td></td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >perforated sheet: thickness -mm width -mm length -mm condition - alloy - standard</span><span id="ro">tablă perforată: grosime -mm lățime -mm lungime -mm stare - aliaj - standard</span> - </td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Plain sheet</span><span id="ro">Tablă lisa</span></td><td></td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >plain sheet: thickness -mm width -mm length -mm condition - alloy - standard</span><span id="ro">tablă lisa: grosime -mm lățime -mm lungime -mm stare - aliaj - standard</span> - </td></tr>
+
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Unequal angle bar</span><span id="ro">Cornier laturi inegale</span></td><td></td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >unequal angle bar: thickness -mm width -mm length -mm condition - alloy - standard</span><span id="ro">cornier laturi inegale: grosime -mm lățime -mm lungime -mm stare - aliaj - standard</span> - </td></tr>
+
+
 -->
