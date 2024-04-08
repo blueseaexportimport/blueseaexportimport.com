@@ -45,7 +45,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">VTS003</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">VTS004</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Supplements capsules and tablets - Redis Nutriție</span><span id="ro">Suplimente capsule și tablete - Redis Nutriție</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
 
@@ -60,6 +60,21 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">VTS004</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Amino acids Supplements capsules and tablets - Redis Nutriție</span><span id="ro">Suplimente amino acizi capsule și tablete - Redis Nutriție</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>23 RON / 100 <span id="en">capsules Taurina-R</span><span id="ro">capsule Taurina-R</span></td></tr>
+<tr><td>Formula 2</td><td>29 RON / 120 <span id="en">capsules Glutamine</span><span id="ro">capsule Glutamina</span></td></tr>
+<tr><td>Formula 3</td><td>29 RON / 120 <span id="en">capsules BCAA</span><span id="ro">capsule BCAA</span></td></tr>
+<tr><td>Formula 4</td><td>37 RON / 300 <span id="en">capsules Amino-R</span><span id="ro">capsule Amino-R</span></td></tr>
+<tr><td>Formula 5</td><td>39 RON / 120 <span id="en">capsules Argina</span><span id="ro">capsule Argina</span></td></tr>
+<tr><td>Formula 6</td><td>39 RON / 120 <span id="en">capsules Ornitina</span><span id="ro">capsule Ornitina</span></td></tr>
+<tr><td>Formula 7</td><td>39 RON / 300 <span id="en">capsules Amino Egg-R</span><span id="ro">capsule Amino Egg-R</span></td></tr>
+<tr><td>Formula 7</td><td>57 RON / 300 <span id="en">capsules Amino Whey-R</span><span id="ro">capsule Amino Whey-R</span></td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
 
 
 <script>
