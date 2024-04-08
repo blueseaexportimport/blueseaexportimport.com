@@ -77,6 +77,25 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
 
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">VTS005</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Bodybuilding Supplements - Redis Nutriție</span><span id="ro">Suplimente culturism - Redis Nutriție</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>66.67 RON / 5kg <span id="en">bucket Energocarb-R</span><span id="ro">galeata Energocarb-R</span></td></tr>
+<tr><td>Formula 2</td><td>67 RON / 2kg <span id="en">bucket Ideal Protein</span><span id="ro">galeata Ideal Protein</span></td></tr>
+<tr><td>Formula 3</td><td>73.15 RON / 2.5kg <span id="en">bucket Mixforte-R</span><span id="ro">galeata Mixforte-R</span></td></tr>
+<tr><td>Formula 4</td><td>75 RON / 0.9kg <span id="en">bucket Super Protein-R 90</span><span id="ro">galeata Super Protein-R 90</span></td></tr>
+<tr><td>Formula 5</td><td>86.30 RON / 2kg <span id="en">bucket Whey Mass-R</span><span id="ro">galeata Whey Mass-R</span></td></tr>
+<tr><td>Formula 6</td><td>97.17 RON / 5kg <span id="en">bucket Nutrifort-R</span><span id="ro">galeata Nutrifort-R</span></td></tr>
+<tr><td>Formula 7</td><td>103.76 RON / 5kg <span id="en">bucket Mass Forte Creatin R</span><span id="ro">galeata Mass Forte Creatin R</span></td></tr>
+<tr><td>Formula 8</td><td>125.56 RON / 5kg <span id="en">bucket Super Mass-R</span><span id="ro">galeata Super Mass-R</span></td></tr>
+<tr><td>Formula 9</td><td>149 RON / 2kg <span id="en">bucket Milk & Egg</span><span id="ro">galeata Milk & Egg</span></td></tr>
+<tr><td>Formula 10</td><td>149 RON / 2kg <span id="en">bucket Protwhey-R</span><span id="ro">galeata Protwhey-R</span></td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
+
+
 <script>
 $(document).ready(function() {
 var class_ro = $('#ro_button').attr('class').split(' ')[1];
