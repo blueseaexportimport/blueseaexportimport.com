@@ -315,9 +315,9 @@
 
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ARM008</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Soft black wire</span><span id="ro">Sârmă moale neagră</span></td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Soft black wire ( Oiled baling wire )</span><span id="ro">Sârmă moale neagră ( Sârmă pentru balotat uleiată )</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">Romania</span><span id="ro">România</span></td></tr>
-<tr><td>Standard</td><td style="color:#39ff14;" >EN 10218-2/98</td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >STAS 889-89 / EN 10218-2/98</td></tr>
 
 <tr><td>Formula 1</td><td>5.66 RON / kg ⌀ 2.5mm ÷ ⌀ 5mm <span id="en" >coil weight 80-120kg</span><span id="ro">greutate colac 80-120kg</span></td></tr>
 <tr><td>Formula 2</td><td>5.95 RON / kg ⌀ 1.2mm ÷ ⌀ 1.5mm <span id="en" >coil weight 80-120kg</span><span id="ro">greutate colac 80-120kg</span></td></tr>
@@ -340,7 +340,7 @@
 
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ARM010</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Galvanized wire</span><span id="ro">Sârmă zincată</span></td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Steel hard matte wire</span><span id="ro">Sârmă tare mată</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">Romania</span><span id="ro">România</span></td></tr>
 <tr><td>Standard</td><td style="color:#39ff14;" >EN 10218-2/99</td></tr>
 
@@ -442,7 +442,6 @@ if (class_ro === "new") {
 
     <tr><td><span id="en">Roofing nails</span><span id="ro">Cuie pentru acoperiș</span></td><td>- </td><td>-</td></tr>
     <tr><td><span id="en">Laminated Steel Wire SAE 1006 / SAE 1008</span><span id="ro">Sârmă laminată din oțel SAE 1006 / SAE 1008</span> </td><td>- </td><td>-</td></tr>  
-    <tr><td><span id="en">Oiled baling wire</span><span id="ro">Sârmă pentru balotat uleiată STAS 889-89</span></td><td>- </td><td>-</td></tr>  
     <tr><td><span id="en">Steel Rabitz Wire Mesh</span><span id="ro">Plasă Rabitz din oțel</span> </td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Galvanized Steel Wire Mesh</span><span id="ro">Plasă zincată</span></td><td>- </td><td>-</td></tr>  
     <tr><td><span id="en">Rebar OB37</span><span id="ro">Oțel beton OB37</span></td><td>-  </td><td>-</td></tr>  
@@ -462,14 +461,15 @@ if (class_ro === "new") {
     <tr><td><span id="en">Reinforcement steel fiber</span><span id="ro">Fibră metalică pentru armare </span></td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Steel Profile Type T</span><span id="ro">Profil de oțel tip T</span></td><td>-</td><td>-</td></tr>       
     <tr><td><span id="en">Pickled steel sheet</span><span id="ro">Tablă decapată</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Striated - chequered steel sheet</span><span id="ro">Tablă striată</span></td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Black steel sheet</span><span id="ro">Tablă neagră</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Steel striated sheet</span><span id="ro">Tablă oțel striat</span></td><td>- </td><td>-</td></tr>  
     <tr><td><span id="en">Galvanized sheet</span><span id="ro">Tablă oțel zincat</span></td><td>- </td><td>-</td></tr>  
 
 
 <tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Checker sheet</span><span id="ro">Tablă striată</span></td><td></td></tr>
 <tr><td>Formula 1</td><td>0 RON / <span id="en" >checker sheet: thickness -mm width -mm length -mm condition - alloy - standard</span><span id="ro">tablă striată: grosime -mm lățime -mm lungime -mm stare - aliaj - standard</span> - </td></tr>
+    <tr><td><span id="en">Striated - chequered steel sheet</span><span id="ro">Tablă striată</span></td><td>-</td><td>-</td></tr>  
+    <tr><td><span id="en">Steel striated sheet</span><span id="ro">Tablă oțel striat</span></td><td>- </td><td>-</td></tr>  
+
 
 <tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Perforated sheet</span><span id="ro">Tablă perforată</span></td><td></td></tr>
 <tr><td>Formula 1</td><td>0 RON / <span id="en" >perforated sheet: thickness -mm width -mm length -mm condition - alloy - standard</span><span id="ro">tablă perforată: grosime -mm lățime -mm lungime -mm stare - aliaj - standard</span> - </td></tr>
