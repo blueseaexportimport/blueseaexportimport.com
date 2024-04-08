@@ -18,8 +18,8 @@
 <tr><td>Formula 12</td><td>4.2 RON / kg B500C Ø 32mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
 <tr><td>Formula 13</td><td>0 RON / kg B500C Ø 36mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
 <tr><td>Formula 14</td><td>0 RON / kg B500C Ø 40mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various EU suppliers</span><span id="ro">Furnizori din UE</span></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
+<tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.baduc.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ARM002</td></tr>
