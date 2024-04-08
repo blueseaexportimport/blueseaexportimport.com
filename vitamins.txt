@@ -16,7 +16,7 @@
 <tr><td>Formula 8</td><td>4.26 RON /<span id="en">pcs Wheybar-R Forte Bar</span><span id="ro">buc Wheybar-R Forte Bar</span></td></tr>
 <tr><td>Formula 9</td><td>7.32 RON /<span id="en">pcs Survivor Bar</span><span id="ro">buc Survivor Bar</span></td></tr>
 
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">VTS002</td></tr>
@@ -29,7 +29,7 @@
 <tr><td>Formula 4</td><td>2.1 RON / <span id="en">pcs Isotonic-R Forte drink</span><span id="ro">buc Isotonic-R Forte băutură  instant</span></td></tr>
 <tr><td>Formula 5</td><td>2.1 RON / <span id="en">pcs L-carnitin instant</span><span id="ro">buc L-carnitin instant</span></td></tr>
 
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">VTS003</td></tr>
@@ -42,7 +42,7 @@
 <tr><td>Formula 4</td><td>79 RON / 300g <span id="en">pcs BCAA</span><span id="ro">buc BCAA</span></td></tr>
 <tr><td>Formula 5</td><td>109 RON / 500g <span id="en">pcs Creatine monohydrate</span><span id="ro">buc Creatin Monohidrat</span></td></tr>
 
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">VTS004</td></tr>
@@ -57,7 +57,7 @@
 <tr><td>Formula 6</td><td>29 RON / 120 <span id="en">tablets Calcium Magnesium Zinc</span><span id="ro">tablete Calciu Magneziu Zinc</span></td></tr>
 <tr><td>Formula 7</td><td>53 RON / 90 <span id="en">capsules Omega 3, 6, 9</span><span id="ro">capsule Omega 3, 6, 9</span></td></tr>
 
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">VTS004</td></tr>
@@ -73,7 +73,7 @@
 <tr><td>Formula 7</td><td>39 RON / 300 <span id="en">capsules Amino Egg-R</span><span id="ro">capsule Amino Egg-R</span></td></tr>
 <tr><td>Formula 8</td><td>57 RON / 300 <span id="en">capsules Amino Whey-R</span><span id="ro">capsule Amino Whey-R</span></td></tr>
 
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
 
 
@@ -92,7 +92,7 @@
 <tr><td>Formula 9</td><td>149 RON / 2kg <span id="en">bucket Milk & Egg</span><span id="ro">galeata Milk & Egg</span></td></tr>
 <tr><td>Formula 10</td><td>149 RON / 2kg <span id="en">bucket Protwhey-R</span><span id="ro">galeata Protwhey-R</span></td></tr>
 
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
 
 
