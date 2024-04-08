@@ -1,6 +1,5 @@
 <tbody>
 
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Protein bars</span><span id="ro">Batoane proteine</span></td><td></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">VTS001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Protein bars - Redis Nutriție</span><span id="ro">Batoane proteine - Redis Nutriție</span></td></tr>
