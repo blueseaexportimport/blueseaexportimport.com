@@ -1,7 +1,6 @@
 
 <tbody> 
 
-
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ARM001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Rebar B500C</span><span id="ro">Fier striat B500C</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">Unknown</span><span id="en">Necunoscută</span></td></tr>
@@ -22,11 +21,10 @@
 <tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various EU suppliers</span><span id="ro">Furnizori din UE</span></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-    <tr><td><span id="en">Reinforcing rebar mesh type G</span><span id="ro">Plasă sudată tip G</span></td><td>- </td><td>-</td></tr>  
-
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ARM002</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">>Reinforcing rebar mesh - FierCTC</span><span id="ro">Plasă sudată - FierCTC</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >STAS 438-3/2012</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">Romania</span><span id="en">România</span></td></tr>
 <tr><td>Formula 1</td><td>84.04 RON / <span id="en" >pcs</span><span id="ro">buc</span> Φ 4 mm 100x100x2000x6000 mm</td></tr>
 <tr><td>Formula 2</td><td>70.02 RON / <span id="en" >pcs</span><span id="ro">buc</span> Φ 4 mm 100x100x2000x5000 mm/td></tr>
