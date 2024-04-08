@@ -71,7 +71,7 @@
 <tr><td>Formula 5</td><td>39 RON / 120 <span id="en">capsules Argina</span><span id="ro">capsule Argina</span></td></tr>
 <tr><td>Formula 6</td><td>39 RON / 120 <span id="en">capsules Ornitina</span><span id="ro">capsule Ornitina</span></td></tr>
 <tr><td>Formula 7</td><td>39 RON / 300 <span id="en">capsules Amino Egg-R</span><span id="ro">capsule Amino Egg-R</span></td></tr>
-<tr><td>Formula 7</td><td>57 RON / 300 <span id="en">capsules Amino Whey-R</span><span id="ro">capsule Amino Whey-R</span></td></tr>
+<tr><td>Formula 8</td><td>57 RON / 300 <span id="en">capsules Amino Whey-R</span><span id="ro">capsule Amino Whey-R</span></td></tr>
 
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
