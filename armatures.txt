@@ -5,19 +5,19 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Rebar B500C</span><span id="ro">Fier striat B500C</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">Unknown</span><span id="en">Necunoscută</span></td></tr>
 <tr><td>Formula 1</td><td>0 RON / kg B500C Ø 6mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 2</td><td>4.2 RON / kg B500C Ø 8mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 3</td><td>4.2 RON / kg B500C Ø 10mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 4</td><td>4.2 RON / kg B500C Ø 12mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 5</td><td>4.2 RON / kg B500C Ø 14mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 6</td><td>4.2 RON / kg B500C Ø 16mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 7</td><td>4.2 RON / kg B500C Ø 18mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 8</td><td>4.2 RON / kg B500C Ø 20mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 9</td><td>4.2 RON / kg B500C Ø 22mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 10</td><td>4.2 RON / kg B500C Ø 25mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 11</td><td>4.2 RON / kg B500C Ø 28mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 12</td><td>4.2 RON / kg B500C Ø 32mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 13</td><td>0 RON / kg B500C Ø 36mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 14</td><td>0 RON / kg B500C Ø 40mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 2</td><td>3.86 RON / kg B500C Ø 8mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 3</td><td>3.86 RON / kg B500C Ø 10mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 4</td><td>3.86 RON / kg B500C Ø 12mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 5</td><td>3.86 RON / kg B500C Ø 14mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 6</td><td>3.86 RON / kg B500C Ø 16mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 7</td><td>3.86 RON / kg B500C Ø 18mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 8</td><td>3.86 RON / kg B500C Ø 20mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 9</td><td>3.86 RON / kg B500C Ø 22mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 10</td><td>3.86 RON / kg B500C Ø 25mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 11</td><td>0.00 RON / kg B500C Ø 28mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 12</td><td>3.97 RON / kg B500C Ø 32mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 13</td><td>0.00 RON / kg B500C Ø 36mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 14</td><td>0.00 RON / kg B500C Ø 40mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
 <tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.baduc.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
