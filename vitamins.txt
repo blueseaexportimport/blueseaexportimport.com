@@ -49,13 +49,13 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Supplements capsules and tablets - Redis Nutriție</span><span id="ro">Suplimente capsule și tablete - Redis Nutriție</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
 
-<tr><td>Formula 1</td><td>53 RON / 90 <span id="en">capsules Omega 3, 6, 9</span><span id="ro">capsule Omega 3, 6, 9</span></td></tr>
 <tr><td>Formula 1</td><td>21 RON / 50 <span id="en">capsules Complex R vitamins and minerals</span><span id="ro">capsule Complex R vitamine si minerale</span></td></tr>
-<tr><td>Formula 1</td><td>26.1 RON / 120 <span id="en">tablets Vitamin Complex</span><span id="ro">tablete Vitamin Complex</span></td></tr>
-<tr><td>Formula 1</td><td>29 RON / 120 <span id="en">tablets Zinc</span><span id="ro">tablete Zinc</span></td></tr>
-<tr><td>Formula 1</td><td>29 RON / 120 <span id="en">tablets Calcium Magnesium</span><span id="ro">tablete Calciu Magneziu</span></td></tr>
-<tr><td>Formula 1</td><td>29 RON / 120 <span id="en">tablets Vitamin C 700</span><span id="ro">tablete Calciu Vitamina C 700</span></td></tr>
-<tr><td>Formula 1</td><td>29 RON / 120 <span id="en">tablets Calcium Magnesium Zinc</span><span id="ro">tablete Calciu Magneziu Zinc</span></td></tr>
+<tr><td>Formula 2</td><td>26.1 RON / 120 <span id="en">tablets Vitamin Complex</span><span id="ro">tablete Vitamin Complex</span></td></tr>
+<tr><td>Formula 3</td><td>29 RON / 120 <span id="en">tablets Zinc</span><span id="ro">tablete Zinc</span></td></tr>
+<tr><td>Formula 4</td><td>29 RON / 120 <span id="en">tablets Calcium Magnesium</span><span id="ro">tablete Calciu Magneziu</span></td></tr>
+<tr><td>Formula 5</td><td>29 RON / 120 <span id="en">tablets Vitamin C 700</span><span id="ro">tablete Calciu Vitamina C 700</span></td></tr>
+<tr><td>Formula 6</td><td>29 RON / 120 <span id="en">tablets Calcium Magnesium Zinc</span><span id="ro">tablete Calciu Magneziu Zinc</span></td></tr>
+<tr><td>Formula 7</td><td>53 RON / 90 <span id="en">capsules Omega 3, 6, 9</span><span id="ro">capsule Omega 3, 6, 9</span></td></tr>
 
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
