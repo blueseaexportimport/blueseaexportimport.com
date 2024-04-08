@@ -119,6 +119,23 @@ $(document).ready(function() {
 $(document).ready(function () { 
 
 
+
+  // Grab vitamins on click start
+  $("#vitaminsbtn").click(function() {
+    if ($("#vitamins").hasClass("clickedvitamins")) {
+        // already been clicked once, hide it
+        $("#vitamins").html("");
+        $( "#vitamins" ).removeClass( "clickedvitamins" )
+    }else {
+        // first time this is clicked, mark it
+        $("#vitamins").addClass("clickedvitamins");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/vitamins.txt", success: function(result){
+         $("#vitamins").html(result);
+        }});
+    }
+   });
+  // Grab vitamins on click end
+
   // Grab laminatedfproducts on click start
   $("#laminatedfproductsbtn").click(function() {
     if ($("#laminatedfproducts").hasClass("clickedlaminatedfproducts")) {
