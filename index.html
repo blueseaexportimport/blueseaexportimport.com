@@ -1402,6 +1402,23 @@ $(document).ready(function () {
     }
    });
   // Grab cannedanimaloriginfood on click end
+
+
+  // Grab cannedfishoriginfood info on click start
+  $("#cannedfishoriginfoodbtn").click(function() {
+    if ($("#cannedfishoriginfood").hasClass("clickedcannedfishoriginfood")) {
+        // already been clicked once, hide it
+        $("#cannedfishoriginfood").html("");
+        $( "#cannedfishoriginfood" ).removeClass( "clickedcannedfishoriginfood" )
+    }else {
+        // first time this is clicked, mark it
+        $("#cannedfishoriginfood").addClass("clickedcannedfishoriginfood");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/cannedfishoriginfood.txt", success: function(result){
+         $("#cannedfishoriginfood").html(result);
+        }});
+    }
+   });
+  // Grab cannedfishoriginfood on click end
 	
 
   // Grab smokedandcuredmeat on click start
@@ -3113,7 +3130,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (46)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (46)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (47)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (47)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Echipamente morărit</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Echipamente ambalat alimente</span></h5> 
@@ -3185,8 +3202,13 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table> 
-  <h5 class="categoryaccordion" id="cannedanimaloriginfoodbtn" ><span id="en">Canned Animal Origin Food (1)</span><span id="ro">Conserve Alimente de Origine Animală (1)</span></h5>
+  <h5 class="categoryaccordion" id="cannedanimaloriginfoodbtn" ><span id="en">Canned Animal Origin Food</span><span id="ro">Conserve Alimente de Origine Animală</span></h5>
    <table id="cannedanimaloriginfood" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 	
+  <h5 class="categoryaccordion" id="cannedfishoriginfoodbtn" ><span id="en">Canned Fish Origin Food (2)</span><span id="ro">Conserve Alimente de Origine Pește (2)</span></h5>
+   <table id="cannedfishoriginfood" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table> 	
