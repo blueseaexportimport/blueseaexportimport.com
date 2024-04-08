@@ -2,7 +2,7 @@
 
 <tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Protein bars</span><span id="ro">Batoane proteine</span></td><td></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">VTS0001</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">VTS001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Protein bars - Redis Nutriție</span><span id="ro">Batoane proteine - Redis Nutriție</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
 
@@ -16,9 +16,26 @@
 <tr><td>Formula 8</td><td>4.26 RON /<span id="en">pcs Wheybar-R Forte Bar</span><span id="ro">buc Wheybar-R Forte Bar</span></td></tr>
 <tr><td>Formula 9</td><td>7.32 RON /<span id="en">pcs Survivor Bar</span><span id="ro">buc Survivor Bar</span></td></tr>
 
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">VTS002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Instant drinks - Redis Nutriție</span><span id="ro">Băuturi instant - Redis Nutriție</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>2.1 RON / <span id="en">pcs L-carnitin instant</span><span id="ro">buc L-carnitin instant</span></td></tr>
+<tr><td>Formula 2</td><td>2.1 RON / <span id="en">pcs Instant energy with vitamins</span><span id="ro">buc Instant energy cu vitamine</span></td></tr>
+<tr><td>Formula 3</td><td>2.1 RON / <span id="en">pcs Fibro drink instant</span><span id="ro">buc Fibro drink instant</span></td></tr>
+<tr><td>Formula 4</td><td>2.1 RON / <span id="en">pcs Isotonic-R Forte drink</span><span id="ro">buc Isotonic-R Forte băutură  instant</span></td></tr>
+<tr><td>Formula 5</td><td>2.1 RON / <span id="en">pcs L-carnitin instant</span><span id="ro">buc L-carnitin instant</span></td></tr>
 
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.redis.ro target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
+
+
+
+
+
 
 
 <script>
