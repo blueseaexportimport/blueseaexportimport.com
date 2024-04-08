@@ -315,48 +315,43 @@
 
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ARM008</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Soft Black Wire</span><span id="ro">Sârmă moale neagră</span></td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Soft black wire</span><span id="ro">Sârmă moale neagră</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">Romania</span><span id="ro">România</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 10218-2/98</td></tr>
+
+<tr><td>Formula 1</td><td>5.66 RON / kg ⌀ 2.5mm ÷ ⌀ 5mm <span id="en" >coil weight 80-120kg</span><span id="ro">greutate colac 80-120kg</span></td></tr>
+<tr><td>Formula 2</td><td>5.95 RON / kg ⌀ 1.2mm ÷ ⌀ 1.5mm <span id="en" >coil weight 80-120kg</span><span id="ro">greutate colac 80-120kg</span></td></tr>
+<tr><td>Formula 3</td><td>6,19 RON / kg ⌀ 1.8mm ÷ ⌀ 2mm <span id="en" >coil weight 80-120kg</span><span id="ro">greutate colac 80-120kg</span></td></tr>
+<tr><td>Formula 4</td><td>9.7 RON / kg ⌀ 0.8mm ÷ ⌀ 1mm <span id="en" >coil weight 80-120kg</span><span id="ro">greutate colac 80-120kg</span></td></tr>
+
+<tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.ancorascm.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ARM009</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Galvanized wire</span><span id="ro">Sârmă zincată</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">Romania</span><span id="ro">România</span></td></tr>
 
-<tr><td>Formula 1</td><td>77.4 RON / m <span id="en" >round bar: thickness 50mm length 6m alloy S235JR standard</span><span id="ro">bară rotundă: grosime 50mm lungime 6m aliaj S235JR standard</span></td></tr>
+<tr><td>Formula 1</td><td>7.74 RON / kg ⌀ 2mm ÷ ⌀ 2.8mm  <span id="en" >coil weight 80-120kg</span><span id="ro">greutate colac 550-700kg</span></td></tr>
+<tr><td>Formula 2</td><td>8.57 RON / kg ⌀ 1.2mm ÷ ⌀ 1.5mm <span id="en" >coil weight 80-120kg</span><span id="ro">greutate colac 180-230kg</span></td></tr>
+<tr><td>Formula 3</td><td>10.12 RON / kg ⌀ 1.8mm ÷ ⌀ 2mm <span id="en" >coil weight 80-120kg</span><span id="ro">greutate colac 180-230kg</span></td></tr>
 
-<tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.baduc.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.ancorascm.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ARM010</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Galvanized wire</span><span id="ro">Sârmă zincată</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">Romania</span><span id="ro">România</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 10218-2/99</td></tr>
 
-<tr>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Start Product:<br> </span>
-	<span id="ro">Start Produs:<br> </span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Producer:<br> Ancora SCM</span>
-	<span id="ro">Producător:<br> Ancora SCM</span>
-   </td>
-   <td style="background:#39ff14;color:black;" >
-	<span id="en">Brand:<br> Ancora SCM</span>
-	<span id="ro">Brand:<br> Ancora SCM</span>
-   </td>	
-</tr>	   
-    <tr>	
-    <td><span id="en">Soft Black Wire ⌀ 2.5mm ÷ ⌀ 5mm </span><span id="ro">Sârmă moale neagră ⌀ 2.5mm ÷ ⌀ 5mm </span></td>
-    <td><span id="en"><b>Pakaging: Coil weight 80-120kg</b></span><span id="ro" >Ambalaj: Greutate colac 80-120kg</span></div></td>
-    <td><span id="en">5.66 RON - Romanian VAT included / kg</span><span id="ro">5.66 RON TVA este inclus / kg</span></td>
-    </tr><tr>
-    <td><span id="en">Soft Black Wire ⌀ 1.2mm ÷ ⌀ 1.5mm </span><span id="ro">Sârmă moale neagră ⌀ 1.2mm ÷ ⌀ 1.5mm </span></td>
-    <td><span id="en"><b>Pakaging: Coil weight 80-120kg</b></span><span id="ro" >Ambalaj: Greutate colac 80-120kg</span></div></td>
-    <td><span id="en">5.95 RON - Romanian VAT included / kg</span><span id="ro">5.95 RON TVA este inclus / kg</span></td>
-    </tr><tr>
-    <td><span id="en">Soft Black Wire ⌀ 1.8mm ÷ ⌀ 2mm </span><span id="ro">Sârmă moale neagră ⌀ 1.8mm ÷ ⌀ 2mm </span></td>
-    <td><span id="en"><b>Pakaging: Coil weight 80-120kg</b></span><span id="ro" >Ambalaj: Greutate colac 80-120kg</span></div></td>
-    <td><span id="en">6,19 RON - Romanian VAT included / kg</span><span id="ro">6,19 RON TVA este inclus / kg</span></td>
-    </tr><tr>
-    <td><span id="en">Soft Black Wire ⌀ 0.8mm ÷ ⌀ 1mm </span><span id="ro">Sârmă moale neagră ⌀ 0.8mm ÷ ⌀ 1mm </span></td>
-    <td><span id="en"><b>Pakaging: Coil weight 80-120kg</b></span><span id="ro" >Ambalaj: Greutate colac 80-120kg</span></div></td>
-    <td><span id="en">9.7 RON - Romanian VAT included / kg</span><span id="ro">9.7 RON TVA este inclus / kg</span></td>
-    </tr>
-<!-- End Brand -->	
+<tr><td>Formula 1</td><td>5.72 RON / kg ⌀ 2.5mm ÷ ⌀ 6mm  <span id="en" >coil weight 200-250kg</span><span id="ro">greutate colac 200-250kg</span></td></tr>
+<tr><td>Formula 2</td><td>6.55 RON / kg ⌀ 1.2mm ÷ ⌀ 2.2mm <span id="en" >coil weight 50kg and 250kg</span><span id="ro">greutate colac 50kg și 250kg</span></td></tr>
+<tr><td>Formula 3</td><td>7.74 RON / kg ⌀ 3mm ÷ ⌀ 6mm <span id="en" >coil weight 50kg and 250kg</span><span id="ro">greutate colac 50kg și 250kg</span></td></tr>
+
+<tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.ancorascm.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
 
 
 
