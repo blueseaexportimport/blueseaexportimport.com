@@ -1,23 +1,61 @@
 <tbody>
- <tr><td><span id="en">Soap 15g diamtre 4cm</span><span id="ro">Săpun 15g diametru 4cm </span></td>
- <tr><td><span id="en">Shampoo 35ml</span><span id="ro">Șampon 35ml </span></td>
- <tr><td><span id="en">Hair and Body gel 35ml</span><span id="ro">Gel mixt corp și păr 35 ml  </span></td>
- <tr><td><span id="en">Hair conditionar 35ml</span><span id="ro">Balsam păr 35ml </span></td>
- <tr><td><span id="en">Body Lotion 35ml</span><span id="ro">Cremă de corp 35ml </span></td>
- <tr><td><span id="en">Shower Gel 35ml </span><span id="ro">Gel de duș 35ml  </span></td>
- <tr><td><span id="en">Shaving cream 5ml </span><span id="ro">Cremă de ras 5ml </span></td>
- <tr><td><span id="en">Vanity Kit ( 2 cleansing discs and 4 cotton buds )</span><span id="ro">Set igienic ( 2 discuri demachiante și 4 bețișoare cu vată )</span></td>
- <tr><td><span id="en">Shower cap 500pcs per box</span><span id="ro">Cască de duș 500buc per cutie</span></td>
- <tr><td><span id="en">Sewing kit ( 6 different colored threads, 1 sewing needle, 2 buttons and 1 safety pin )</span><span id="ro">Set cusut ( 6 ațe culori diferite, 1 ac pentru cusut, 2 nasturi și 1 ac de siguranță )</span></td>
- <tr><td><span id="en">Dental kit ( Toothbrush, 5g Toothpaste )</span><span id="ro">Set dentar ( Periuță dinți, 5g pastă de dinți )</span></td>
- <tr><td><span id="en">Shaving kit ( Mini disposable razor + 5ml shaving cream )</span><span id="ro">Set de ras ( Mini aparat de ras + cremă de ras 5 ml  )</span></td>
- <tr><td><span id="en">Comb diametre 13cm</span><span id="ro">Pieptăn diametru 13cm</span></td>
- <tr><td><span id="en">Shoe shine wipe</span><span id="ro">Șervețel pentru pantofi</span></td>
- <tr><td><span id="en">Shoe shine sponge</span><span id="ro">Burete pentru pantofi</span></td>
- <tr><td><span id="en">Wet wipe</span><span id="ro">Șervețel umed</span></td>
- <tr><td><span id="en">Biodegradable Laundry Bag</span><span id="ro">Sac rufe biodegradabil</span></td>
 
-       <tr><td>Hotel reception bell</td><td>-</td><td>-</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HPH01</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Hotels personal hygiene - Sense</span><span id="ro">Igienă personală hoteluri - Sense</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="ro">UE</span></td></tr>
+
+<tr><td>Formula 1</td><td>96 RON / 400<span id="en">pcs - Shoe shine wipe</span><span id="ro">buc - Șervețel pentru pantofi</span></td></tr>
+<tr><td>Formula 2</td><td>100 RON / 100<span id="en">pcs - Wet wipe</span><span id="ro">buc - Șervețel umed</span></td></tr>
+<tr><td>Formula 3</td><td>137.60 RON / 160<span id="en">pcs - Shampoo 35ml</span><span id="ro">buc - Șampon 35ml</span></td></tr>
+<tr><td>Formula 4</td><td>140.80 RON / 160<span id="en">pcs - Hair conditioner 35ml</span><span id="ro">buc - Balsam păr 35ml</span></td></tr>
+<tr><td>Formula 5</td><td>142.40 RON / 160<span id="en">pcs - Hair and Body gel 35ml</span><span id="ro">buc - Gel mixt corp și păr 35 ml</span></td></tr>
+<tr><td>Formula 6</td><td>148.80 RON / 160<span id="en">pcs - Body Lotion 35ml</span><span id="ro">buc - Cremă de corp 35ml</span></td></tr>
+<tr><td>Formula 7</td><td>190 RON / 500<span id="en">pcs - Soap 15g diamtre 4cm</span><span id="ro">buc - Săpun 15g diametru 4cm</span></td></tr>
+<tr><td>Formula 8</td><td>235 RON / 500<span id="en">pcs - Sewing kit ( 6 different colored threads, 1 sewing needle, 2 buttons and 1 safety pin )</span><span id="ro">buc - Set cusut ( 6 ațe culori diferite, 1 ac pentru cusut, 2 nasturi și 1 ac de siguranță )</span></td></tr>
+<tr><td>Formula 9</td><td>245 RON / 500<span id="en">pcs - Shower cap 500pcs per box</span><span id="ro">buc - Cască de duș 500buc per cutie</span></td></tr>
+<tr><td>Formula 10</td><td>275 RON / 500<span id="en">pcs - Vanity Kit ( 2 cleansing discs and 4 cotton buds )</span><span id="ro">buc - Set igienic ( 2 discuri demachiante și 4 bețișoare cu vată )</span></td></tr>
+<tr><td>Formula 11</td><td>350 RON / 500<span id="en">pcs - Shoe shine sponge</span><span id="ro">buc - Burete pentru pantofi</span></td></tr>
+<tr><td>Formula 12</td><td>395 RON / 500<span id="en">pcs - Comb diametre 13cm</span><span id="ro">buc - Pieptăn diametru 13cm</span></td></tr>
+<tr><td>Formula 13</td><td>564 RON / 300<span id="en">pcs - Shaving kit ( Mini disposable razor + 5ml shaving cream )</span><span id="ro">buc - Set de ras ( Mini aparat de ras + cremă de ras 5 ml  )</span></td></tr>
+<tr><td>Formula 14</td><td>615 RON / 1500<span id="en">pcs - Shaving cream 5ml</span><span id="ro">buc - Cremă de ras 5ml</span></td></tr>
+<tr><td>Formula 15</td><td>740 RON / 500<span id="en">pcs - Dental kit ( Toothbrush, 5g Toothpaste )</span><span id="ro">buc - Set dentar ( Periuță dinți, 5g pastă de dinți )</span></td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://cahm.eu/ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HPH02</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Hotels cleaning - Sense</span><span id="ro">Curățenie hotel - Sense</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="ro">UE</span></td></tr>
+
+<tr><td>Formula 1</td><td>584 RON / 400<span id="en">pcs - Biodegradable Laundry Bag</span><span id="ro">buc - Sac rufe biodegradabil</span></td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://cahm.eu/ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">HPH03</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Hotel reception bell</span><span id="ro">Clopoțel recepție hotel</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="ro">UE</span></td></tr>
+
+<tr><td>Formula 1</td><td>25 RON / <span id="en">pcs - diameter</span><span id="ro">buc - diametru</span> 85 mm</td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://cahm.eu/ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
 </tbody>
+
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
