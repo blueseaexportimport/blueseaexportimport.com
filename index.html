@@ -120,6 +120,22 @@ $(document).ready(function () {
 
 
 
+  // Grab hotels on click start
+  $("#hotelsbtn").click(function() {
+    if ($("#hotels").hasClass("clickedhotels")) {
+        // already been clicked once, hide it
+        $("#hotels").html("");
+        $( "#hotels" ).removeClass( "clickedhotels" )
+    }else {
+        // first time this is clicked, mark it
+        $("#hotels").addClass("clickedhotels");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/hotels.txt", success: function(result){
+         $("#hotels").html(result);
+        }});
+    }
+   });
+  // Grab hotels on click end
+
   // Grab vitamins on click start
   $("#vitaminsbtn").click(function() {
     if ($("#vitamins").hasClass("clickedvitamins")) {
@@ -2890,7 +2906,7 @@ $(document).ready(function () {
   </table>  
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>R. PERSONAL CARE AND HYGIENE (94)</b></span> <span id="ro"><b>R. IGIENĂ ȘI ÎNGRIJIRE PERSONALĂ (94)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>R. PERSONAL CARE AND HYGIENE (97)</b></span> <span id="ro"><b>R. IGIENĂ ȘI ÎNGRIJIRE PERSONALĂ (97)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="householditemsbtn" ><span id="en">Household Items (39)</span><span id="ro">Articole Uz Caznic (39)</span></h5>    
    <table id="householditems" class="categorypanel"  >
    <!-- Load info start --> 
@@ -2941,8 +2957,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
   </table>   	
-   <h5 class="categoryaccordion" ><span id="en">Hotels, horeca and tourism products</span><span id="ro">Produse pentru hoteluri, horeca și turism</span></h5>   
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="hotelsbtn" ><span id="en">Hotels, horeca and tourism products (3)</span><span id="ro">Produse pentru hoteluri, horeca și turism (3)</span></h5>   
+  <table id="hotels" class="categorypanel"  >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+  </table>   	
    <h5 class="categoryaccordion" ><span id="en">Perfumes</span><span id="ro">Parfumuri</span></h5>    	      
    <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" ><span id="en">Essential oils </span><span id="ro">Uleiuri esențiale</span></h5>    
