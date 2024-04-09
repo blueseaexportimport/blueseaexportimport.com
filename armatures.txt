@@ -48,47 +48,7 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ARM001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Rebar B500C</span><span id="ro">Fier striat B500C</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="ro">UE</span></td></tr>
-<tr><td>Formula 1</td><td>0 RON / kg B500C Ø 6mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 2</td><td>3.86 RON / kg B500C Ø 8mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 3</td><td>3.86 RON / kg B500C Ø 10mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 4</td><td>3.86 RON / kg B500C Ø 12mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 5</td><td>3.86 RON / kg B500C Ø 14mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 6</td><td>3.86 RON / kg B500C Ø 16mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 7</td><td>3.86 RON / kg B500C Ø 18mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 8</td><td>3.86 RON / kg B500C Ø 20mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 9</td><td>3.86 RON / kg B500C Ø 22mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 10</td><td>3.86 RON / kg B500C Ø 25mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 11</td><td>0.00 RON / kg B500C Ø 28mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 12</td><td>3.97 RON / kg B500C Ø 32mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 13</td><td>0.00 RON / kg B500C Ø 36mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td>Formula 14</td><td>0.00 RON / kg B500C Ø 40mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
-<tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.baduc.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ARM002</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">>Reinforcing rebar mesh - FierCTC</span><span id="ro">Plasă sudată - FierCTC</span></td></tr>
-<tr><td>Standard</td><td style="color:#39ff14;" >STAS 438-3/2012</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">Romania</span><span id="en">România</span></td></tr>
-<tr><td>Formula 1</td><td>84.04 RON / <span id="en" >pcs</span><span id="ro">buc</span> Φ 4 mm 100x100x2000x6000 mm</td></tr>
-<tr><td>Formula 2</td><td>70.02 RON / <span id="en" >pcs</span><span id="ro">buc</span> Φ 4 mm 100x100x2000x5000 mm/td></tr>
-<tr><td>Formula 3</td><td>130.92 RON / <span id="en" >pcs</span><span id="ro">buc</span> Φ 5 mm 100x100x2000x6000 mm</td></tr>
-<tr><td>Formula 4</td><td>109.11 RON / <span id="en" >pcs</span><span id="ro">buc</span> Φ 5 mm 100x100x2000x5000 mm</td></tr>
-<tr><td>Formula 5</td><td>188.15 RON / <span id="en" >pcs</span><span id="ro">buc</span> Φ 6 mm 100x100x2000x6000 mm</td></tr>
-<tr><td>Formula 6</td><td>156.81 RON / <span id="en" >pcs</span><span id="ro">buc</span> Φ 6 mm 100x100x2000x5000 mm</td></tr>
-<tr><td>Formula 7</td><td>329.83 RON / <span id="en" >pcs</span><span id="ro">buc</span> Φ 8 mm 100x100x2000x6000 mm</td></tr>
-<tr><td>Formula 8</td><td>275.39 RON / <span id="en" >pcs</span><span id="ro">buc</span> Φ 8 mm 100x100x2000x5000 mm</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.fierctc.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ARM003</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Steel hot laminated products alloy S235JR</span><span id="ro">Produse oțel laminate la cald aliaj S235JR</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="ro">UE</span></td></tr>
 
@@ -211,6 +171,79 @@
 
 <tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.thesteel.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ARM001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Rebar B500C</span><span id="ro">Fier striat B500C</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="ro">UE</span></td></tr>
+<tr><td>Formula 1</td><td>0 RON / kg B500C Ø 6mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 2</td><td>3.86 RON / kg B500C Ø 8mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 3</td><td>3.86 RON / kg B500C Ø 10mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 4</td><td>3.86 RON / kg B500C Ø 12mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 5</td><td>3.86 RON / kg B500C Ø 14mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 6</td><td>3.86 RON / kg B500C Ø 16mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 7</td><td>3.86 RON / kg B500C Ø 18mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 8</td><td>3.86 RON / kg B500C Ø 20mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 9</td><td>3.86 RON / kg B500C Ø 22mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 10</td><td>3.86 RON / kg B500C Ø 25mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 11</td><td>0.00 RON / kg B500C Ø 28mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 12</td><td>3.97 RON / kg B500C Ø 32mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 13</td><td>0.00 RON / kg B500C Ø 36mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td>Formula 14</td><td>0.00 RON / kg B500C Ø 40mm <span id="en" >ribbed bar</span><span id="ro">bară striată</span> 12m</td></tr>
+<tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.baduc.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ARM002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">>Reinforcing rebar mesh - FierCTC</span><span id="ro">Plasă sudată - FierCTC</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >STAS 438-3/2012</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">Romania</span><span id="en">România</span></td></tr>
+<tr><td>Formula 1</td><td>84.04 RON / <span id="en" >pcs</span><span id="ro">buc</span> Φ 4 mm 100x100x2000x6000 mm</td></tr>
+<tr><td>Formula 2</td><td>70.02 RON / <span id="en" >pcs</span><span id="ro">buc</span> Φ 4 mm 100x100x2000x5000 mm/td></tr>
+<tr><td>Formula 3</td><td>130.92 RON / <span id="en" >pcs</span><span id="ro">buc</span> Φ 5 mm 100x100x2000x6000 mm</td></tr>
+<tr><td>Formula 4</td><td>109.11 RON / <span id="en" >pcs</span><span id="ro">buc</span> Φ 5 mm 100x100x2000x5000 mm</td></tr>
+<tr><td>Formula 5</td><td>188.15 RON / <span id="en" >pcs</span><span id="ro">buc</span> Φ 6 mm 100x100x2000x6000 mm</td></tr>
+<tr><td>Formula 6</td><td>156.81 RON / <span id="en" >pcs</span><span id="ro">buc</span> Φ 6 mm 100x100x2000x5000 mm</td></tr>
+<tr><td>Formula 7</td><td>329.83 RON / <span id="en" >pcs</span><span id="ro">buc</span> Φ 8 mm 100x100x2000x6000 mm</td></tr>
+<tr><td>Formula 8</td><td>275.39 RON / <span id="en" >pcs</span><span id="ro">buc</span> Φ 8 mm 100x100x2000x5000 mm</td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.fierctc.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+
+
+
 
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ARM004</td></tr>
