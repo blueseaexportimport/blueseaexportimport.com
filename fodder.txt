@@ -1,3 +1,25 @@
+<tbody> 
+
+
+</tbody> 
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
+
+
+<!--
     <tr><td><span id="en">Fodder Wheat ( Triticum )</span><span id="ro">Grâu furajer ( Triticum )</span></td><td>-</td><td>-</td></tr>    
     <tr><td><span id="en">Fodder Barley ( Hordeum vulgare )</span><span id="ro">Orz furajer ( Hordeum vulgare )</span></td><td>-</td><td>-</td></tr>    
     <tr><td><span id="en">Fodder Canola ( Brassica napus oleifera )</span><span id="ro">Rapiță furajeră ( Brassica napus oleifera )</span></td><td>-</td><td>-</td></tr>    
@@ -66,4 +88,6 @@
 
 <tr><td><span id="en">Zootechnical Rock salt - bulk 3-50kg</span><span id="ro">Bulgăre de sare furajer vrac 3-50kg</span> </td>
 <tr><td><span id="en">Zootechnical ground limestone in big bags</span><span id="ro">Calcar furajer în big bags</span> </td>
+
+-->
 
