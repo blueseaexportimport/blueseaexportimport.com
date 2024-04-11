@@ -17,48 +17,28 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.saptespice.ro/magazin/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FLA002</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >White wheat flour - Raftul bunicii</span><span id="ro">Făină albă de grâu - Raftul bunicii</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-
-<tr><td>Formula 1</td><td>3.5 RON / kg Raftul bunicii - superioară <span id="en">White wheat flour 000 (max 0.48% ash and moist gluten max 28%) 1kg paper bag - for home baking</span><span id="ro">Făină albă de grâu 000 (max 0.48% cenușă și gluten umed 28%) pungă hârtie 1kg - pentru gătit acasă</td></tr>
-<tr><td>Formula 2</td><td>3.2 RON / kg Raftul bunicii - cozonac <span id="en">White wheat flour 000 (max 0.48% ash and moist gluten max 28%) 1kg paper bag - for cakes making</span><span id="ro">Făină albă de grâu 000 (max 0.48% cenușă și gluten umed 28%) pungă hârtie 1kg - pentru cozonac</td></tr>
-<tr><td>Formula 3</td><td>6.3 RON / kg Raftul bunicii <span id="en">White wheat flour 650 (max 0.65% ash) 1kg paper bag - for home pizza and biscuits</span><span id="ro">Făină albă de grâu 650 (max 0.65% cenușă) pungă hârtie 1kg - pentru pizza de casă și biscuiți</td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://goodmills.ro/ro/products" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FLA002</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >White wheat flour - Raftul bunicii</span><span id="ro">Făină albă de grâu - Raftul bunicii</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-
-<tr><td>Formula 1</td><td>3.5 RON / kg Raftul bunicii - superioară <span id="en">White wheat flour 000 (max 0.48% ash and moist gluten max 28%) 1kg paper bag - for home baking</span><span id="ro">Făină albă de grâu 000 (max 0.48% cenușă și gluten umed 28%) pungă hârtie 1kg - pentru gătit acasă</td></tr>
-<tr><td>Formula 2</td><td>3.2 RON / kg Raftul bunicii - cozonac <span id="en">White wheat flour 000 (max 0.48% ash and moist gluten max 28%) 1kg paper bag - for cakes making</span><span id="ro">Făină albă de grâu 000 (max 0.48% cenușă și gluten umed 28%) pungă hârtie 1kg - pentru cozonac</td></tr>
-<tr><td>Formula 3</td><td>6.3 RON / kg Raftul bunicii <span id="en">White wheat flour 650 (max 0.65% ash) 1kg paper bag - for home pizza and biscuits</span><span id="ro">Făină albă de grâu 650 (max 0.65% cenușă) pungă hârtie 1kg - pentru pizza de casă și biscuiți</td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://goodmills.ro/ro/products" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FLA003</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Cornmeal - Boromir</span><span id="ro">Mălai - Boromir</span></td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Grain mill products - Boromir</span><span id="ro">Produse morărit - Boromir</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
 
-<tr><td>Formula 1</td><td>3.3 RON / kg <span id="en">Cornmeal extra 1kg bag - for home baking</span><span id="ro">Mălai extra pungă 1kg</td></tr>
-<tr><td>Formula 1</td><td>3.6 RON / kg <span id="en">Cornmeal superior 1kg bag - for home baking</span><span id="ro">Mălai superior 1kg</td></tr>
-<tr><td>Formula 1</td><td>4.5 RON / kg <span id="en">Cornmeal clasic 1kg bag - for home baking</span><span id="ro">Mălai clasic pungă 1kg</td></tr>
-<tr><td>Formula 1</td><td>5 RON / kg <span id="en">Cornmeal fast 1kg bag - for home baking</span><span id="ro">Mălai rapid pungă 1kg</td></tr>
 
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.boromirmarket.ro/malai" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+<tr><td>Formula 1</td><td>3 RON / kg <span id="en">White wheat flour 000 (max 0.48% ash and moist gluten max 28%) 1kg paper bag - for home baking</span><span id="ro">Făină albă de grâu 000 (max 0.48% cenușă și gluten umed 28%) pungă hârtie 1kg - pentru gătit acasă</td></tr>
+<tr><td>Formula 2</td><td>4.9 RON / kg <span id="en">White wheat flour 000 (max 0.48% ash and moist gluten max 28%) 1kg paper bag - for cakes making</span><span id="ro">Făină albă de grâu 000 (max 0.48% cenușă și gluten umed 28%) pungă hârtie 1kg - pentru cozonac</td></tr>
+<tr><td>Formula 3</td><td>4.4 RON / kg <span id="en">White wheat flour 650 (max 0.65% ash) 1kg paper bag</span><span id="ro">Făină albă de grâu 650 (max 0.65% cenușă) pungă hârtie 1kg</td></tr>
+<tr><td>Formula 4</td><td>3.3 RON / kg <span id="en">Cornmeal extra 1kg bag - for home baking</span><span id="ro">Mălai extra pungă 1kg</td></tr>
+<tr><td>Formula 5</td><td>3.6 RON / kg <span id="en">Cornmeal superior 1kg bag - for home baking</span><span id="ro">Mălai superior 1kg</td></tr>
+<tr><td>Formula 6</td><td>4.5 RON / kg <span id="en">Cornmeal clasic 1kg bag - for home baking</span><span id="ro">Mălai clasic pungă 1kg</td></tr>
+<tr><td>Formula 7</td><td>5 RON / kg <span id="en">Cornmeal fast 1kg bag - for home baking</span><span id="ro">Mălai rapid pungă 1kg</td></tr>
+<tr><td>Formula 8</td><td>4.7 RON / kg <span id="en">Pearl wheat 1kg bag</span><span id="ro">Arpacaș din grâu pungă 1kg</td></tr>
+<tr><td>Formula 9</td><td>6.5 RON / kg <span id="en">Semolina 1kg bag</span><span id="ro">Griș pungă 1kg</td></tr>
+<tr><td>Formula 10</td><td>6 RON / 0.5kg <span id="en">Bread crumbs 0.5kg bag</span><span id="ro">Pesmet pungă 0.5kg</td></tr>
 
 
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.boromirmarket.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
 
 
-   <tr><td><span id="en">Semolina</span><span id="ro">Griș</span> </td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Bread crumbs</span><span id="ro">Pesmet</span> </td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Food Grade Wheat Bran</span><span id="ro">Tărâță de grâu alimetară</span></td><td>-</td><td>-</td></tr>    
 
 
 
@@ -91,7 +71,7 @@ if (class_ro === "new") {
    <tr><td><span id="en">Half-white flour 800 (max 0.66-0.9% ash)</span><span id="ro">Făină semialbă de grâu 800 (max 0.66-0.9% cenușă)</span> </td><td>-</td><td>-</td></tr> 
    <tr><td><span id="en">Half-white flour 900 (max 0.66-0.9% ash)</span><span id="ro">Făină semialbă de grâu 900 (max 0.66-0.9% cenușă)</span> </td><td>-</td><td>-</td></tr> 
 
-<tr><td>Formula 1</td><td>5.9 RON / kg Raftul bunicii - superioară <span id="en">Black wheat flour 1250 (max 0.91-1.4% ash) 1kg paper bag - for bread making machine</span><span id="ro">Făină neagră de grâu 1250 (max 0.91-1.4% cenușă) pungă hârtie 1kg - pentru mașină de pâine </td></tr>
+<tr><td>Formula 1</td><td>5.9 RON / kg superioară <span id="en">Black wheat flour 1250 (max 0.91-1.4% ash) 1kg paper bag - for bread making machine</span><span id="ro">Făină neagră de grâu 1250 (max 0.91-1.4% cenușă) pungă hârtie 1kg - pentru mașină de pâine </td></tr>
    <tr><td><span id="en">Black wheat flour 1300 (max 0.91-1.4% ash)</span><span id="ro">Făină neagră de grâu 1300 (max 0.91-1.4% cenușă)</span> </td><td>-</td><td>-</td></tr> 
 
    <tr><td><span id="en">Grain wheat flour 1500 (max 1.41 - 2.2% ash)</span><span id="ro">Făină integrală de grâu 1500 (max 1.41 - 2.2% cenușă)</span> </td><td>-</td><td>-</td></tr>  
@@ -116,6 +96,7 @@ if (class_ro === "new") {
    <tr><td><span id="en">Tapioca flour</span><span id="ro">Făină tapioca</span> </td><td>-</td><td>-</td></tr>
    <tr><td><span id="en">Almond flour</span><span id="ro">Făină migdale</span> </td><td>-</td><td>-</td></tr>  
    <tr><td><span id="en">Flax flour</span><span id="ro">Făină de in</span> </td><td>-</td><td>-</td></tr>    
+   <tr><td><span id="en">Food Grade Wheat Bran</span><span id="ro">Tărâță de grâu alimetară</span></td><td>-</td><td>-</td></tr>    
    <tr><td><span id="en">Food Grade Corn Bran</span><span id="ro">Tărâță de porumb alimetară</span></td><td>-</td><td>-</td></tr>    
    <tr><td><span id="en">Cacao powder</span><span id="ro">Pudră de cacao</span></td><td>-</td><td>-</td></tr>
 -->
