@@ -39,7 +39,7 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FLA003</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Grain mill products - Solaris</span><span id="ro">Produse morărit - Solaris</span></td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Flour mill products - Solaris</span><span id="ro">Produse morărit - Solaris</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
 
 <tr><td>Formula 1</td><td>4.4 RON / 0.25kg <span id="en">Food Grade Wheat Bran 0.25kg bag - big grains</span><span id="ro">Tărâță de grâu alimetară pungă 0.25kg - mari</td></tr>
