@@ -29,6 +29,38 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FLA002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >White wheat flour - Raftul bunicii</span><span id="ro">Făină albă de grâu - Raftul bunicii</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>3.5 RON / kg Raftul bunicii - superioară <span id="en">White wheat flour 000 (max 0.48% ash and moist gluten max 28%) 1kg paper bag - for home baking</span><span id="ro">Făină albă de grâu 000 (max 0.48% cenușă și gluten umed 28%) pungă hârtie 1kg - pentru gătit acasă</td></tr>
+<tr><td>Formula 2</td><td>3.2 RON / kg Raftul bunicii - cozonac <span id="en">White wheat flour 000 (max 0.48% ash and moist gluten max 28%) 1kg paper bag - for cakes making</span><span id="ro">Făină albă de grâu 000 (max 0.48% cenușă și gluten umed 28%) pungă hârtie 1kg - pentru cozonac</td></tr>
+<tr><td>Formula 3</td><td>6.3 RON / kg Raftul bunicii <span id="en">White wheat flour 650 (max 0.65% ash) 1kg paper bag - for home pizza and biscuits</span><span id="ro">Făină albă de grâu 650 (max 0.65% cenușă) pungă hârtie 1kg - pentru pizza de casă și biscuiți</td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://goodmills.ro/ro/products" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FLA003</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Cornmeal - Boromir</span><span id="ro">Mălai - Boromir</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>3.3 RON / kg <span id="en">Cornmeal extra 1kg bag - for home baking</span><span id="ro">Mălai extra pungă 1kg</td></tr>
+<tr><td>Formula 1</td><td>3.6 RON / kg <span id="en">Cornmeal superior 1kg bag - for home baking</span><span id="ro">Mălai superior 1kg</td></tr>
+<tr><td>Formula 1</td><td>4.5 RON / kg <span id="en">Cornmeal clasic 1kg bag - for home baking</span><span id="ro">Mălai clasic pungă 1kg</td></tr>
+<tr><td>Formula 1</td><td>5 RON / kg <span id="en">Cornmeal fast 1kg bag - for home baking</span><span id="ro">Mălai rapid pungă 1kg</td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.boromirmarket.ro/malai" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+
+
+
+   <tr><td><span id="en">Semolina</span><span id="ro">Griș</span> </td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">Bread crumbs</span><span id="ro">Pesmet</span> </td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">Food Grade Wheat Bran</span><span id="ro">Tărâță de grâu alimetară</span></td><td>-</td><td>-</td></tr>    
+
+
 
 
 </tbody>
@@ -66,26 +98,24 @@ if (class_ro === "new") {
    <tr><td><span id="en">Grain wheat flour 1750 (max 1.41 - 2.2% ash)</span><span id="ro">Făină integrală de grâu 1750 (max 1.41 - 2.2% cenușă)</span> </td><td>-</td><td>-</td></tr>  
 
 
-   <tr><td><span id="en">Cornmeal extra</span><span id="ro">Mălai extra</span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Cornmeal superior</span><span id="ro">Mălai superior</span></td><td>-</td><td>-</td></tr>
+
    <tr><td><span id="en">Pearl barley</span><span id="ro">Orz perlat fără coajă exterioară/span> </td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Semolina</span><span id="ro">Griș</span> </td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Bread crumbs</span><span id="ro">Pesmet</span> </td><td>-</td><td>-</td></tr> 
    <tr><td><span id="en">Pure Rye flour 1800</span><span id="ro">Făină de secară pură 1800</span> </td><td>-</td><td>-</td></tr>
    <tr><td><span id="en">Rye combined with wheat flour 997</span><span id="ro">Făină de secară combinată cu făină de grâu 997</span> </td><td>-</td><td>-</td></tr>
    <tr><td><span id="en">Rye combined with wheat flour 1150</span><span id="ro">Făină de secară combinată cu făină de grâu 1150</span> </td><td>-</td><td>-</td></tr>
    <tr><td><span id="en">Spelta wheat flour</span><span id="ro">Făină de grâu spelta</span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Soybean flour</span><span id="ro">Făină de soia</span></td><td>-</td><td>-</td></tr>
+
+
    <tr><td><span id="en">Oat flour</span><span id="ro">Făină de ovăz</span></td><td>-</td><td>-</td></tr>
+   <tr><td><span id="en">Buckwheat flour</span><span id="ro">Făină hrișcă</span></td><td>-</td><td>-</td></tr> 
+   <tr><td><span id="en">Soybean flour</span><span id="ro">Făină de soia</span></td><td>-</td><td>-</td></tr>
    <tr><td><span id="en">Chickpea flour</span><span id="ro">Făină de năut</span></td><td>-</td><td>-</td></tr> 
    <tr><td><span id="en">Coconut flour</span><span id="ro">Făină nucă de cocos</span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Buckwheat flour</span><span id="ro">Făină hrișcă</span></td><td>-</td><td>-</td></tr> 
    <tr><td><span id="en">Rice flour</span><span id="ro">Făină orez</span> </td><td>-</td><td>-</td></tr>
    <tr><td><span id="en">Banana flour</span><span id="ro">Făină banane</span> </td><td>-</td><td>-</td></tr> 
    <tr><td><span id="en">Tapioca flour</span><span id="ro">Făină tapioca</span> </td><td>-</td><td>-</td></tr>
    <tr><td><span id="en">Almond flour</span><span id="ro">Făină migdale</span> </td><td>-</td><td>-</td></tr>  
    <tr><td><span id="en">Flax flour</span><span id="ro">Făină de in</span> </td><td>-</td><td>-</td></tr>    
-   <tr><td><span id="en">Food Grade Wheat Bran</span><span id="ro">Tărâță de grâu alimetară</span></td><td>-</td><td>-</td></tr>    
    <tr><td><span id="en">Food Grade Corn Bran</span><span id="ro">Tărâță de porumb alimetară</span></td><td>-</td><td>-</td></tr>    
    <tr><td><span id="en">Cacao powder</span><span id="ro">Pudră de cacao</span></td><td>-</td><td>-</td></tr>
 -->
