@@ -119,6 +119,22 @@ $(document).ready(function() {
 $(document).ready(function () { 
 
 
+  // Grab flour on click start
+  $("#hotelsbtn").click(function() {
+    if ($("#flour").hasClass("clickedflour")) {
+        // already been clicked once, hide it
+        $("#flour").html("");
+        $( "#flour" ).removeClass( "clickedflour" )
+    }else {
+        // first time this is clicked, mark it
+        $("#flour").addClass("clickedflour");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/flour.txt", success: function(result){
+         $("#flour").html(result);
+        }});
+    }
+   });
+  // Grab flour on click end
+
 
   // Grab hotels on click start
   $("#hotelsbtn").click(function() {
@@ -3165,8 +3181,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 
   <h5 class="categoryaccordion"><span id="en">Flavour Powder</span><span id="ro">Aromă Alimentară Pudră </span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Flour and Plant Based Powders</span><span id="ro">Făină, Mălai și Pudre din Plante</span></h5>  
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="flourbtn" ><span id="en">Flour and Plant Based Powders (3)</span><span id="ro">Făină, Mălai și Pudre din Plante (3)</span></h5>  
+   <table id="flour" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	
   <h5 class="categoryaccordion"><span id="en">Refined sugar</span><span id="ro">Zahăr rafinat</span></h5>    
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion"><span id="en">Cooking Ingrediants</span><span id="ro">Ingrediente pentru Gătit</span></h5>  
