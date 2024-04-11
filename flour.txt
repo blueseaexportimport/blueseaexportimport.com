@@ -29,15 +29,6 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FLA003</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Black wheat flour - Băneasa</span><span id="ro">Făină neagră de grâu - Băneasa</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-
-<tr><td>Formula 1</td><td>5.9 RON / kg Raftul bunicii - superioară <span id="en">Black wheat flour 1250 (max 0.91-1.4% ash) 1kg paper bag - for bread making machine</span><span id="ro">Făină neagră de grâu 1250 (max 0.91-1.4% cenușă) pungă hârtie 1kg - pentru mașină de pâine </td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.pastebaneasa.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
 
 
 </tbody>
@@ -68,6 +59,7 @@ if (class_ro === "new") {
    <tr><td><span id="en">Half-white flour 800 (max 0.66-0.9% ash)</span><span id="ro">Făină semialbă de grâu 800 (max 0.66-0.9% cenușă)</span> </td><td>-</td><td>-</td></tr> 
    <tr><td><span id="en">Half-white flour 900 (max 0.66-0.9% ash)</span><span id="ro">Făină semialbă de grâu 900 (max 0.66-0.9% cenușă)</span> </td><td>-</td><td>-</td></tr> 
 
+<tr><td>Formula 1</td><td>5.9 RON / kg Raftul bunicii - superioară <span id="en">Black wheat flour 1250 (max 0.91-1.4% ash) 1kg paper bag - for bread making machine</span><span id="ro">Făină neagră de grâu 1250 (max 0.91-1.4% cenușă) pungă hârtie 1kg - pentru mașină de pâine </td></tr>
    <tr><td><span id="en">Black wheat flour 1300 (max 0.91-1.4% ash)</span><span id="ro">Făină neagră de grâu 1300 (max 0.91-1.4% cenușă)</span> </td><td>-</td><td>-</td></tr> 
 
    <tr><td><span id="en">Grain wheat flour 1500 (max 1.41 - 2.2% ash)</span><span id="ro">Făină integrală de grâu 1500 (max 1.41 - 2.2% cenușă)</span> </td><td>-</td><td>-</td></tr>  
