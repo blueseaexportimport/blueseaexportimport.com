@@ -7,10 +7,31 @@
 <tr><td>Formula 1</td><td>0.6 RON / 10g <span id="en">Baking powder</span><span id="ro">Praf de copt</span></td></tr>
 <tr><td>Formula 2</td><td>0.8 RON / 8g <span id="en">Vanilla sugar</span><span id="ro">Zahăr vanilat</span></td></tr>
 <tr><td>Formula 3</td><td>0.5 RON / 7g <span id="en">Food grade ammonium bicarbonate for baking</span><span id="ro">Bicarbonat de amoniu alimentar</span></td></tr>
-<tr><td>Formula 4</td><td>1.2 RON / 50g <span id="en">Food grade sodium bicarbonate salt</span><span id="ro">Bicarbonat de sodiu alimentar</span></td></tr>
-<tr><td>Formula 5</td><td>1.5 RON / 10g <span id="en">Cooking gelatin powder</span><span id="ro">Gelatină pudră alimentară</span></td></tr>
-<tr><td>Formula 6</td><td>1.5 RON / 10g <span id="en">Food grade citric acid</span><span id="ro">Acid citric alimentar ( Sare de lămâie )</span></td></tr>
-<tr><td>Formula 7</td><td>1.7 RON / 7g <span id="en">Baking dry yeast</span><span id="ro">Drojdie uscată pudră alimentară</span></td></tr>
+<tr><td>Formula 4</td><td>1.1 RON / 8g <span id="en">Whipped cream thickener</span><span id="ro">Întăritor de frișcă</span></td></tr>
+<tr><td>Formula 5</td><td>1.2 RON / 50g <span id="en">Food grade sodium bicarbonate salt</span><span id="ro">Bicarbonat de sodiu alimentar</span></td></tr>
+<tr><td>Formula 6</td><td>1.5 RON / 10g <span id="en">Cooking gelatin powder</span><span id="ro">Gelatină pudră alimentară</span></td></tr>
+<tr><td>Formula 7</td><td>1.5 RON / 10g <span id="en">Food grade citric acid</span><span id="ro">Acid citric alimentar ( Sare de lămâie )</span></td></tr>
+<tr><td>Formula 8</td><td>1.7 RON / 7g <span id="en">Baking dry yeast</span><span id="ro">Drojdie uscată pudră alimentară</span></td></tr>
+
+<tr><td>Formula 9</td><td>1.4 RON / 40g <span id="en">Pudding powder with caramel taste</span><span id="ro">Praf de budincă cu gust de caramel</span></td></tr>
+<tr><td>Formula 10</td><td>1.4 RON / 40g <span id="en">Pudding powder with whipped cream taste</span><span id="ro">Praf de budincă cu gust de frişcă</span></td></tr>
+<tr><td>Formula 11</td><td>1.5 RON / 40g <span id="en">Pudding powder with vanilla taste</span><span id="ro">Praf de budincă cu gust de vanilie</span></td></tr>
+<tr><td>Formula 12</td><td>1.7 RON / 50g <span id="en">Pudding powder with chocolate and rom taste</span><span id="ro">Praf de budincă cu gust de ciocolată și rom</span></td></tr>
+<tr><td>Formula 13</td><td>1.8 RON / 40g <span id="en">Pudding powder with strawberry taste</span><span id="ro">Praf de budincă cu gust de căpşuni</span></td></tr>
+<tr><td>Formula 14</td><td>1.8 RON / 40g <span id="en">Pudding powder with lemon taste</span><span id="ro">Praf de budincă cu gust de lămâie</span></td></tr>
+<tr><td>Formula 15</td><td>1.9 RON / 50g <span id="en">Pudding powder with chocolate taste</span><span id="ro">Praf de budincă cu gust de ciocolată</span></td></tr>
+<tr><td>Formula 16</td><td>1.9 RON / 40g <span id="en">Pudding powder with Crème Brûlée taste</span><span id="ro">Praf de budincă cu gust de Crème Brûlée</span></td></tr>
+<tr><td>Formula 17</td><td>2 RON / 50g <span id="en">Pudding powder with dark chocolate taste</span><span id="ro">Praf de budincă u gust de ciocolată neagră</span></td></tr>
+<tr><td>Formula 18</td><td>2.7 RON / 40g <span id="en">Pudding powder with white chocolate and peanuts taste</span><span id="ro">Praf de budincă cu gust de ciocolată albă și alune</span></td></tr>
+
+
+<tr><td>Formula 19</td><td>2.5 RON / 38g <span id="en">Pudding powder premium pudding caramel</span><span id="ro">Praf de budincă premium pudding caramel</span></td></tr>
+<tr><td>Formula 20</td><td>2.5 RON / 51g <span id="en">Pudding powder premium pudding belgian chocolate</span><span id="ro">Praf de budincă premium pudding ciocolată belgiană</span></td></tr>
+<tr><td>Formula 21</td><td>3.5 RON / 35g <span id="en">Pudding powder premium pudding with vanilla and strawberry</span><span id="ro">Praf de budincă premium pudding cu vanilie şi căpşuni</span></td></tr>
+<tr><td>Formula 22</td><td>3.6 RON / 47g <span id="en">Pudding powder premium pudding with chocolate and coconut</span><span id="ro">Praf de budincă premium pudding ciocolată şi cocos</span></td></tr>
+<tr><td>Formula 23</td><td>3.9 RON / 36g <span id="en">Pudding powder premium pudding pistachio</span><span id="ro">Praf de budincă premium pudding fistic</span></td></tr>
+<tr><td>Formula 24</td><td>4.7 RON / 37g <span id="en">Pudding powder premium pudding coffee</span><span id="ro">Praf de budincă premium pudding cafea</span></td></tr>
+<tr><td>Formula 25</td><td>5.5 RON / 34g <span id="en">Pudding powder premium pudding vanilie Bourbon</span><span id="ro">Praf de budincă premium pudding vanilie Bourbon</span></td></tr>
 
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.oetker.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
