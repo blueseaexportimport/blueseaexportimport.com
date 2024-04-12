@@ -118,7 +118,21 @@ $(document).ready(function() {
 <script>
 $(document).ready(function () { 
 
-
+  // Grab foodadditives on click start
+  $("#foodadditivesbtn").click(function() {
+    if ($("#foodadditives").hasClass("clickedfoodadditives")) {
+        // already been clicked once, hide it
+        $("#foodadditives").html("");
+        $( "#foodadditives" ).removeClass( "clickedfoodadditives" )
+    }else {
+        // first time this is clicked, mark it
+        $("#foodadditives").addClass("clickedfoodadditives");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/foodadditives.txt", success: function(result){
+         $("#foodadditives").html(result);
+        }});
+    }
+   });
+  // Grab foodadditives on click end
 
   // Grab cookingessence on click start
   $("#cookingessencebtn").click(function() {
@@ -136,7 +150,6 @@ $(document).ready(function () {
    });
   // Grab cookingessence on click end
 
-	
 
   // Grab cookingingrediants on click start
   $("#cookingingrediantsbtn").click(function() {
@@ -3201,7 +3214,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (62)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (62)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (63)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (63)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Echipamente morărit</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Echipamente ambalat alimente</span></h5> 
@@ -3213,8 +3226,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table>  	   
-  <h5 class="categoryaccordion"><span id="en">Food Additives</span><span id="ro">Aditiv alimentari</span></h5>    
-  <div class="rowbin" >-</div> 
+  <h5 class="categoryaccordion" id="foodadditivesbtn" ><span id="en">Food Additives (1)</span><span id="ro">Aditiv alimentari (1)</span></h5>    
+   <table id="foodadditives" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	
   <h5 class="categoryaccordion"><span id="en">Flavour Powder</span><span id="ro">Aromă Alimentară Pudră </span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" id="flourbtn" ><span id="en">Flour and Plant Based Powders (3)</span><span id="ro">Făină, Mălai și Pudre din Plante (3)</span></h5>  
