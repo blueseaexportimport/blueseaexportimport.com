@@ -35,16 +35,26 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING004</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Turkish delight - Feleacul</span><span id="ro">Rahat turcesc -  Feleacul</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>11 RON / 500g <span id="en">with cacao flavor</span><span id="ro">cu aromă cacao</td></tr>
+<tr><td>Formula 2</td><td>11 RON / 500g <span id="en">with fruits flavor</span><span id="ro">cu aromă de fructe</td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.boromirmarket.ro/rahat" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+
+
 
 </tbody>
 
 
 <!--
-<tr><td>Formula 3</td><td>0.00 RON / 10g <span id="en">Baking liquid yeast</span><span id="ro">Drojdie lichidă alimentară</td></tr>
 
-       <tr><td><span id="en">Malt Extract</span><span id="ro">Extract de malț</span> </td><td>- </td><td>- </td></tr>
-       <tr><td><span id="en">Inverted sugar syrup</span><span id="ro">Sirop de zahăr invertit </span> </td><td>- </td><td>- </td></tr>
-       <tr><td><span id="en">Turkish delight</span><span id="ro">Rahăt turcesc</span> </td><td>- </td><td>- </td></tr>
 
        <tr><td><span id="en">Dissected grated coconut</span><span id="ro">Nucă de cocos rasă uscată</span>  </td><td>-</td><td>-</td></tr>    
 
@@ -62,5 +72,9 @@
        <tr><td><span id="en">Vanillin</span><span id="ro">Vanilină alimentară</span>  </td><td>-</td><td>-</td></tr>      
        <tr><td><span id="en">Food Grade Glucose tablets</span><span id="ro">Glucoză alimentară</span>  </td><td>-</td><td>-</td></tr>
         Seasoning powder for soups Bază pentru mâncăruri 
+
+        <tr><td>Formula 3</td><td>0.00 RON / 10g <span id="en">Baking liquid yeast</span><span id="ro">Drojdie lichidă alimentară</td></tr>
+       <tr><td><span id="en">Malt Extract</span><span id="ro">Extract de malț</span> </td><td>- </td><td>- </td></tr>
+       <tr><td><span id="en">Inverted sugar syrup</span><span id="ro">Sirop de zahăr invertit </span> </td><td>- </td><td>- </td></tr>
 
 -->
