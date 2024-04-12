@@ -1,59 +1,78 @@
 <tbody>
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" Cooking ingredients - Dr. Oetker</span><span id="ro">Ingrediente pentru gătit -  Dr. Oetker</span></td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Cooking ingredients - Dr. Oetker</span><span id="ro">Ingrediente pentru gătit -  Dr. Oetker</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
 
-<tr><td>Formula 1</td><td>0.5 RON / 7g <span id="en">Food grade ammonium bicarbonate for baking</span><span id="ro">Bicarbonat de amoniu alimentar</td></tr>
-<tr><td>Formula 2</td><td>1.2 RON / 50g <span id="en">Food grade sodium bicarbonate salt</span><span id="ro">Bicarbonat de sodiu alimentar</td></tr>
-<tr><td>Formula 3</td><td>1.5 RON / 10g <span id="en">Cooking gelatin powder</span><span id="ro">Gelatină pudră alimentară</td></tr>
-<tr><td>Formula 4</td><td>1.5 RON / 10g <span id="en">Food grade citric acid</span><span id="ro">Acid citric alimentar ( Sare de lămâie )</td></tr>
-<tr><td>Formula 3</td><td>1.7 RON / 7g <span id="en">Baking dry yeast</span><span id="ro">Drojdie uscată pudră alimentară</td></tr>
+<tr><td>Formula 1</td><td>0.5 RON / 7g <span id="en">Food grade ammonium bicarbonate for baking</span><span id="ro">Bicarbonat de amoniu alimentar</span></td></tr>
+<tr><td>Formula 2</td><td>0.8 RON / 8g <span id="en">Vanilla sugar</span><span id="ro">Zahăr vanilat</span></td></tr>
+<tr><td>Formula 3</td><td>1.2 RON / 50g <span id="en">Food grade sodium bicarbonate salt</span><span id="ro">Bicarbonat de sodiu alimentar</span></td></tr>
+<tr><td>Formula 4</td><td>1.5 RON / 10g <span id="en">Cooking gelatin powder</span><span id="ro">Gelatină pudră alimentară</span></td></tr>
+<tr><td>Formula 5</td><td>1.5 RON / 10g <span id="en">Food grade citric acid</span><span id="ro">Acid citric alimentar ( Sare de lămâie )</span></td></tr>
+<tr><td>Formula 6</td><td>1.7 RON / 7g <span id="en">Baking dry yeast</span><span id="ro">Drojdie uscată pudră alimentară</span></td></tr>
 
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.oetker.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING002</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" Cooking ingredients - Pakmaya</span><span id="ro">Ingrediente pentru gătit -  Pakmaya</span></td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Cooking ingredients - Solaris</span><span id="ro">Ingrediente pentru gătit -  Solaris</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>7.7 RON / 100g <span id="en">Dissected grated coconut</span><span id="ro">Nucă de cocos rasă uscată</span></td></tr>
+<tr><td>Formula 2</td><td>9.1 RON / 100g <span id="en">Coconut flakes</span><span id="ro">Fulgi nucă de cocos</span></td></tr>
+<tr><td>Formula 3</td><td>10.7 RON / 500g <span id="en">Muscovado brown sugar</span><span id="ro">Zahăr brun Muscovado</span></td></tr>
+<tr><td>Formula 4</td><td>10.8 RON / 170ml <span id="en">Molasses</span><span id="ro">Melasă</span></td></tr>
+<tr><td>Formula 5</td><td>15.1 RON / 250g <span id="en">Coconut sugar </span><span id="ro">Zahăr din cocos</span></td></tr>
+<tr><td>Formula 6</td><td>16.5 RON / kg <span id="en">Unrefined brown sugar from sugar cane</span><span id="ro">Zahăr nerafinat brun din trestie</span></td></tr>
+<tr><td>Formula 7</td><td>19.3 RON / kg <span id="en">Brown sugar from molasses</span><span id="ro">Zahăr brun din melasă</span></td></tr>
+<tr><td>Formula 8</td><td>42.8 RON / kg <span id="en">Raw sugar cane sugar eco</span><span id="ro">Zahăr brut din trestie eco</span></td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://solarisplant.ro/cocos-ras-solaris" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING003</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Raw sugar cane sugar - Solaris</span><span id="ro">Zahăr brut din trestie -  Solaris</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Non-EU</span><span id="ro">Non-UE</span></td></tr>
+
+<tr><td>Formula 1</td><td>9.37 RON / kg  <span id="en">Raw sugar cane sugar 25kg bag</span><span id="ro">Zahăr brut din trestie sac 25kg</span></td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://sanovita.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING004</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Yeast - Pakmaya</span><span id="ro">Drojdie -  Pakmaya</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
 
-<tr><td>Formula 1</td><td>0.9 RON / 10g <span id="en">Baking dry yeast</span><span id="ro">Drojdie uscată pudră alimentară</td></tr>
-<tr><td>Formula 2</td><td>1.2 RON / 25g <span id="en">Baking fresh cube yeast</span><span id="ro">Drojdie cuburi alimentară</td></tr>
+<tr><td>Formula 1</td><td>0.9 RON / 10g <span id="en">Baking dry yeast</span><span id="ro">Drojdie uscată pudră alimentară</span></td></tr>
+<tr><td>Formula 2</td><td>1.2 RON / 25g <span id="en">Baking fresh cube yeast</span><span id="ro">Drojdie cuburi alimentară</span></td></tr>
 
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://pakmaya.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING003</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING005</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Lemon juice - Limmi</span><span id="ro">Suc de lămâie -  Limmi</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Italia</span><span id="ro">Italia</span></td></tr>
 
-<tr><td>Formula 1</td><td>5.2 RON / 200ml <span id="en">Lemon juice</span><span id="ro">Suc de lămâie</td></tr>
-<tr><td>Formula 2</td><td>7.2 RON / 200ml <span id="en">Green lemon juice</span><span id="ro">Suc de lămâie verde</td></tr>
+<tr><td>Formula 1</td><td>5.2 RON / 200ml <span id="en">Lemon juice</span><span id="ro">Suc de lămâie</span></td></tr>
+<tr><td>Formula 2</td><td>7.2 RON / 200ml <span id="en">Green lemon juice</span><span id="ro">Suc de lămâie verde</span></td></tr>
 
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.limmi.it" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING004</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING006</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Turkish delight - Feleacul</span><span id="ro">Rahat turcesc -  Feleacul</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
 
-<tr><td>Formula 1</td><td>11 RON / 500g <span id="en">with cacao flavor</span><span id="ro">cu aromă cacao</td></tr>
-<tr><td>Formula 2</td><td>11 RON / 500g <span id="en">with fruits flavor</span><span id="ro">cu aromă de fructe</td></tr>
+<tr><td>Formula 1</td><td>11 RON / 500g <span id="en">with cacao flavor</span><span id="ro">cu aromă cacao</span></td></tr>
+<tr><td>Formula 2</td><td>11 RON / 500g <span id="en">with fruits flavor</span><span id="ro">cu aromă de fructe</span></td></tr>
 
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.boromirmarket.ro/rahat" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING005</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Dissected grated coconut - Solaris</span><span id="ro">Nucă de cocos rasă uscată -  Solaris</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-
-<tr><td>Formula 1</td><td>7.7 RON / 100g <span id="en">Dissected grated coconut</span><span id="ro">Nucă de cocos rasă uscată</td></tr>
-<tr><td>Formula 2</td><td>9.1 RON / 100g <span id="en">Coconut flakes</span><span id="ro">Fulgi nucă de cocos</td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://solarisplant.ro/cocos-ras-solaris" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
 
@@ -62,12 +81,9 @@
 
 
 <!--
-
-       <tr><td><span id="en">Molasses</span><span id="ro">Melasă</span> </td><td>- </td><td>- </td></tr>
        <tr><td><span id="en">Unrefined sugar cane sugar</span><span id="ro">Zahăr nerafinat din trestie de zahăr</span> </td><td>- </td><td>- </td></tr>
        <tr><td><span id="en">Unrefined beet sugar</span><span id="ro">Zahăr nerafinat din sfeclă de zahăr</span> </td><td>- </td><td>- </td></tr>
        <tr><td><span id="en">Dates sugar</span><span id="ro">Zahăr nerafinat din curmale</span> </td><td>- </td><td>- </td></tr>
-       <tr><td><span id="en">Raw sugar cane sugar</span><span id="ro">Zahăr brut din trestie de zahăr</span> </td><td>- </td><td>- </td></tr>
        <tr><td><span id="en">Raw beet sugar</span><span id="ro">Zahăr brut din sfeclă de zahăr</span> </td><td>- </td><td>- </td></tr>
        <tr><td><span id="en">Unrefined sugar small portion packets</span><span id="ro">Plicuri Zahăr nerafinat </span></td><td>-</td><td>-</td></tr>   
 
