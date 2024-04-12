@@ -1,14 +1,36 @@
 <tbody>
-       <tr><td><span id="en">Rum Essence</span><span id="ro">Esență de Rom</span> </td><td>-</td><td>-</td></tr>    
-       <tr><td><span id="en">Vanilla Essence</span><span id="ro">Esență de Vanilie</span> </td><td>-</td><td>-</td></tr>    
-       <tr><td><span id="en">Orange Essence</span><span id="ro">Esență de Portocale</span> </td><td>-</td><td>-</td></tr>    
-       <tr><td><span id="en">Lemon Essence</span><span id="ro">Esență de Lămâie</span> </td><td>-</td><td>-</td></tr>    
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ESS001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Food essences - Coseli</span><span id="ro">Esențe alimentare -  Coseli</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
+
+<tr><td>Formula 1</td><td>2.6 RON / 25ml <span id="en">Rum Essence</span><span id="ro">Esență de Rom</span></td></tr>
+<tr><td>Formula 2</td><td>2.6 RON / 25ml <span id="en">Vanilla Essence</span><span id="ro">Esență de Vanilie</span></td></tr>
+<tr><td>Formula 3</td><td>2.6 RON / 25ml <span id="en">Vanilla Essence</span><span id="ro">Esență de Vanilie</span></td></tr>
+<tr><td>Formula 4</td><td>2.6 RON / 25ml <span id="en">Almond Essence</span><span id="ro">Esență de Migdale</span></td></tr>
+<tr><td>Formula 5</td><td>2.6 RON / 25ml <span id="en">Coffee Essence</span><span id="ro">Esență de Cafea</span></td></tr>
+<tr><td>Formula 6</td><td>3.3 RON / 25ml <span id="en">Orange Essence</span><span id="ro">Esență de Portocale</span></td></tr>
+<tr><td>Formula 7</td><td>3.3 RON / 25ml <span id="en">Lemon Essence</span><span id="ro">Esență de Lămâie</span></td></tr>
+<tr><td>Formula 8</td><td>3.3 RON / 25ml <span id="en">Forest Fruits Essence</span><span id="ro">Esență Fructe de Pădure</span></td></tr>
+<tr><td>Formula 9</td><td>3.4 RON / 25ml <span id="en">Apple and Cinnamon Essence</span><span id="ro">Esență de Măr Cu Scorțișoară</span></td></tr>
+<tr><td>Formula 10</td><td>3.6 RON / 25ml <span id="en">Spearmint Essence</span><span id="ro">Esență de Mentă</span></td></tr>
+<tr><td>Formula 11</td><td>3.8 RON / 25ml <span id="en">Pistachio Essence</span><span id="ro">Esență de Fistic</span></td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.coseli.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+
+  
+</tbody>
+
+<!-- 
+       <tr><td><span id="en">Peppermint Essence</span><span id="ro">Esență de Izma Bună</span></td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Rose Essence</span><span id="ro">Esență de Trandafir</span> </td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Saffron Essence</span><span id="ro">Esență de Șofran</span> </td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Mango Essence</span><span id="ro">Esență de Mango</span> </td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Chocolate Essence</span><span id="ro">Esență de Ciocolată</span> </td><td>-</td><td>-</td></tr>    
-       <tr><td><span id="en">Pistachio Essence</span><span id="ro">Esență de Fistic</span> </td><td>-</td><td>-</td></tr>    
-       <tr><td><span id="en">Almond Essence</span><span id="ro">Esență de Migdale</span> </td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Pineapple Essence</span><span id="ro">Esență de Ananas</span> </td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Strawberry Essence</span><span id="ro">Esență de Căpșuni</span> </td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Banana Essence</span><span id="ro">Esență de Banane</span> </td><td>-</td><td>-</td></tr>    
@@ -21,9 +43,9 @@
        <tr><td><span id="en">Nutmeg Essence</span><span id="ro">Esență de Nucșoară</span> </td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Mixed Fruit Essence</span><span id="ro">Esență Amestec Fructe</span> </td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Cardamom Essence</span><span id="ro">Esență de Cardamom</span> </td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Peppermint Essence</span><span id="ro">Esență de Mentă</span></td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Peppermint Oil</span><span id="ro">Ulei de Izma Bună</span></td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Eucalyptus Oil</span><span id="ro">Ulei de Eucalipt</span> </td><td>-</td><td>-</td></tr> 
        <tr><td><span id="en">Kewra water</span><span id="ro">Apă Kewra</span> </td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Rose water</span><span id="ro">Apă de Trandafir</span> </td><td>-</td><td>-</td></tr>
-</tbody>
+
+--> 
