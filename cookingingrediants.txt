@@ -1,27 +1,66 @@
 <tbody>
 
-       <tr><td><span id="en">Food Grade Sodium Bicarbonate salt</span><span id="ro">Bicarbonat de sodiu alimentar</span> </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Food Grade Ammonium Bicarbonate for baking</span><span id="ro">Bicarbonat de amoniu alimentar</span>  </td><td>-</td><td>-</td></tr>    
-       <tr><td><span id="en">Cooking gelatin powder</span><span id="ro">Getalină pudră alimentară</span>  </td><td>-</td><td>-</td></tr> 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" Cooking ingredients - Dr. Oetker</span><span id="ro">Ingrediente pentru gătit -  Dr. Oetker</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
+
+<tr><td>Formula 1</td><td>0.5 RON / 7g <span id="en">Food grade ammonium bicarbonate for baking</span><span id="ro">Bicarbonat de amoniu alimentar</td></tr>
+<tr><td>Formula 2</td><td>1.2 RON / 50g <span id="en">Food grade sodium bicarbonate salt</span><span id="ro">Bicarbonat de sodiu alimentar</td></tr>
+<tr><td>Formula 3</td><td>1.5 RON / 10g <span id="en">Cooking gelatin powder</span><span id="ro">Gelatină pudră alimentară</td></tr>
+<tr><td>Formula 4</td><td>1.5 RON / 10g <span id="en">Food grade citric acid</span><span id="ro">Acid citric alimentar ( Sare de lămâie )</td></tr>
+<tr><td>Formula 3</td><td>1.7 RON / 7g <span id="en">Baking dry yeast</span><span id="ro">Drojdie uscată pudră alimentară</td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.oetker.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" Cooking ingredients - Pakmaya</span><span id="ro">Ingrediente pentru gătit -  Pakmaya</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
+
+<tr><td>Formula 1</td><td>0.9 RON / 10g <span id="en">Baking dry yeast</span><span id="ro">Drojdie uscată pudră alimentară</td></tr>
+<tr><td>Formula 2</td><td>1.2 RON / 25g <span id="en">Baking fresh cube yeast</span><span id="ro">Drojdie cuburi alimentară</td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://pakmaya.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING003</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Lemon juice - Limmi</span><span id="ro">Suc de lămâie -  Limmi</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Italia</span><span id="ro">Italia</span></td></tr>
+
+<tr><td>Formula 1</td><td>5.2 RON / 200ml <span id="en">Lemon juice</span><span id="ro">Suc de lămâie</td></tr>
+<tr><td>Formula 2</td><td>7.2 RON / 200ml <span id="en">Green lemon juice</span><span id="ro">Suc de lămâie verde</td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.limmi.it" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+</tbody>
+
+
+<!--
+<tr><td>Formula 3</td><td>0.00 RON / 10g <span id="en">Baking liquid yeast</span><span id="ro">Drojdie lichidă alimentară</td></tr>
+
        <tr><td><span id="en">Malt Extract</span><span id="ro">Extract de malț</span> </td><td>- </td><td>- </td></tr>
        <tr><td><span id="en">Inverted sugar syrup</span><span id="ro">Sirop de zahăr invertit </span> </td><td>- </td><td>- </td></tr>
        <tr><td><span id="en">Turkish delight</span><span id="ro">Rahăt turcesc</span> </td><td>- </td><td>- </td></tr>
-       <tr><td><span id="en">Lemon juice</span><span id="ro">Suc de lămâie</span> </td><td>- </td><td>- </td></tr>
-       <tr><td><span id="en">Food grade citric acid</span><span id="ro">Acid citric alimentar</span> </td><td>- </td><td>- </td></tr>
+
+       <tr><td><span id="en">Dissected grated coconut</span><span id="ro">Nucă de cocos rasă uscată</span>  </td><td>-</td><td>-</td></tr>    
+
        <tr><td><span id="en">Molasses</span><span id="ro">Melasă</span> </td><td>- </td><td>- </td></tr>
        <tr><td><span id="en">Unrefined sugar cane sugar</span><span id="ro">Zahăr nerafinat din trestie de zahăr</span> </td><td>- </td><td>- </td></tr>
        <tr><td><span id="en">Unrefined beet sugar</span><span id="ro">Zahăr nerafinat din sfeclă de zahăr</span> </td><td>- </td><td>- </td></tr>
        <tr><td><span id="en">Dates sugar</span><span id="ro">Zahăr nerafinat din curmale</span> </td><td>- </td><td>- </td></tr>
        <tr><td><span id="en">Raw sugar cane sugar</span><span id="ro">Zahăr brut din trestie de zahăr</span> </td><td>- </td><td>- </td></tr>
        <tr><td><span id="en">Raw beet sugar</span><span id="ro">Zahăr brut din sfeclă de zahăr</span> </td><td>- </td><td>- </td></tr>
-       <tr><td><span id="en">Unrefined sugar small portion packets</span><span id="ro">Plicuri Zahăr nerafinat </span></td><td>-</td><td>-</td></tr>      
+       <tr><td><span id="en">Unrefined sugar small portion packets</span><span id="ro">Plicuri Zahăr nerafinat </span></td><td>-</td><td>-</td></tr>   
+
+
        <tr><td><span id="en">Candied fruits</span><span id="ro">Fructe confiate</span></td><td>- </td><td>- </td></tr>
-       <tr><td><span id="en">Dissected grated coconut</span><span id="ro">Nucă de cocos rasă uscată</span>  </td><td>-</td><td>-</td></tr>    
-       <tr><td><span id="en">Baking dry yeast</span><span id="ro">Drojdie uscată pudră alimentară</span> </td><td>- </td><td>-</td></tr>    
-       <tr><td><span id="en">Baking fresh cube yeast</span><span id="ro">Drojdie cuburi alimentară</span> </td><td>- </td><td>-</td></tr>    
-       <tr><td><span id="en">Baking liquid yeast</span><span id="ro">Drojdie lichidă alimentară</span> </td><td>- </td><td>-</td></tr>    
        <tr><td><span id="en">Cheese making rennet</span><span id="ro">Cheag pentru brânzeturi</span> </td><td>- </td><td>-</td></tr>  
        <tr><td><span id="en">Vanillin</span><span id="ro">Vanilină alimentară</span>  </td><td>-</td><td>-</td></tr>      
        <tr><td><span id="en">Food Grade Glucose tablets</span><span id="ro">Glucoză alimentară</span>  </td><td>-</td><td>-</td></tr>
-Seasoning powder for soups Bază pentru mâncăruri 
-</tbody>
+        Seasoning powder for soups Bază pentru mâncăruri 
+
+-->
