@@ -82,7 +82,10 @@
        <tr><td>Eye shadow</td><td>-</td><td>-</td></tr>
        <tr><td>Concealer Primer</td><td>-</td><td>-</td></tr>
        <tr><td>Liquid lipstick</td><td>-</td><td>-</td></tr>
-       <tr><td>Bronzing powder</td><td>-</td><td>-</td></tr> -->
+       <tr><td>Bronzing powder</td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Kewra water</span><span id="ro">Apă Kewra</span> </td><td>-</td><td>-</td></tr>    
+
+-->
 
 
 
