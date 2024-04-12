@@ -119,6 +119,23 @@ $(document).ready(function() {
 $(document).ready(function () { 
 
 
+  // Grab cookingingrediants on click start
+  $("#cookingingrediantsbtn").click(function() {
+    if ($("#cookingingrediants").hasClass("clickedcookingingrediants")) {
+        // already been clicked once, hide it
+        $("#cookingingrediants").html("");
+        $( "#cookingingrediants" ).removeClass( "clickedcookingingrediants" )
+    }else {
+        // first time this is clicked, mark it
+        $("#cookingingrediants").addClass("clickedcookingingrediants");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/cookingingrediants.txt", success: function(result){
+         $("#cookingingrediants").html(result);
+        }});
+    }
+   });
+  // Grab cookingingrediants on click end
+
+
   // Grab flour on click start
   $("#flourbtn").click(function() {
     if ($("#flour").hasClass("clickedflour")) {
@@ -3188,8 +3205,11 @@ $(document).ready(function () {
    </table>  	
   <h5 class="categoryaccordion"><span id="en">Refined sugar</span><span id="ro">Zahăr rafinat</span></h5>    
   <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion"><span id="en">Cooking Ingrediants (10)</span><span id="ro">Ingrediente pentru Gătit (10)</span></h5>  
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="cookingingrediantsbtn" ><span id="en">Cooking Ingrediants (10)</span><span id="ro">Ingrediente pentru Gătit (10)</span></h5>  
+   <table id="cookingingrediants" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	
   <h5 class="categoryaccordion"><span id="en">Food Grade Starch</span><span id="ro">Amidon alimentar</span></h5>     
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion"><span id="en">Cooking Essence</span><span id="ro">Esențe Alimentare</span></h5>    
