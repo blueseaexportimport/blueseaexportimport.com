@@ -119,6 +119,25 @@ $(document).ready(function() {
 $(document).ready(function () { 
 
 
+
+  // Grab cookingessence on click start
+  $("#cookingessencebtn").click(function() {
+    if ($("#cookingessence").hasClass("clickedcookingessence")) {
+        // already been clicked once, hide it
+        $("#cookingessence").html("");
+        $( "#cookingessence" ).removeClass( "clickedcookingessence" )
+    }else {
+        // first time this is clicked, mark it
+        $("#cookingessence").addClass("clickedcookingessence");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/cookingessence.txt", success: function(result){
+         $("#cookingessence").html(result);
+        }});
+    }
+   });
+  // Grab cookingessence on click end
+
+	
+
   // Grab cookingingrediants on click start
   $("#cookingingrediantsbtn").click(function() {
     if ($("#cookingingrediants").hasClass("clickedcookingingrediants")) {
@@ -3212,8 +3231,11 @@ $(document).ready(function () {
    </table>  	
   <h5 class="categoryaccordion"><span id="en">Food Grade Starch</span><span id="ro">Amidon alimentar</span></h5>     
   <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion"><span id="en">Cooking Essence (2)</span><span id="ro">Esențe Alimentare (2)</span></h5>    
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="cookingessencebtn" ><span id="en">Cooking Essence (2)</span><span id="ro">Esențe Alimentare (2)</span></h5>    
+   <table id="cookingessence" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
   <h5 class="categoryaccordion" ><span id="en">Vegetable Cooking Oils</span><span id="ro">Uleiuri Vegetale pentru Gătit</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Table Salt</span><span id="ro">Sare de Masă</span></h5>
