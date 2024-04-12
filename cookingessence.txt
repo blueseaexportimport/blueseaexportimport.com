@@ -33,7 +33,7 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ESS002/td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ESS002</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Flavoured water - Darinne</span><span id="ro">Apă aromatizată -  Darinne</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
 
@@ -53,7 +53,6 @@
        <tr><td><span id="en">Mango Essence</span><span id="ro">Esență de Mango</span> </td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Chocolate Essence</span><span id="ro">Esență de Ciocolată</span> </td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Pineapple Essence</span><span id="ro">Esență de Ananas</span> </td><td>-</td><td>-</td></tr>    
-       <tr><td><span id="en">Caribbean Mixed Essence</span><span id="ro">Esență Mix Caraibe</span> </td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Coconut Essence</span><span id="ro">Esență de Nucă de Cocos</span></td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Pear Essence</span><span id="ro">Esență de Pere</span> </td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Cinnamon Essence</span><span id="ro">Esență de Scorțișoară</span> </td><td>-</td><td>-</td></tr>    
@@ -62,8 +61,6 @@
        <tr><td><span id="en">Nutmeg Essence</span><span id="ro">Esență de Nucșoară</span> </td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Mixed Fruit Essence</span><span id="ro">Esență Amestec Fructe</span> </td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Cardamom Essence</span><span id="ro">Esență de Cardamom</span> </td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Peppermint Oil</span><span id="ro">Ulei de Izma Bună</span></td><td>-</td><td>-</td></tr>    
-       <tr><td><span id="en">Eucalyptus Oil</span><span id="ro">Ulei de Eucalipt</span> </td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Kewra water</span><span id="ro">Apă Kewra</span> </td><td>-</td><td>-</td></tr>    
+       <tr><td><span id="en">Walnuts Essence</span><span id="ro">Esență de Nuci</span> </td><td>-</td><td>-</td></tr> 
 
 --> 
