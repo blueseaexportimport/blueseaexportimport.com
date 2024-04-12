@@ -33,7 +33,18 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-  
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ESS002/td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Flavoured water - Darinne</span><span id="ro">Apă aromatizată -  Darinne</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
+
+<tr><td>Formula 1</td><td>14.5 RON / 300ml <span id="en">Rose water</span><span id="ro">Apă de Trandafir</span></td></tr>
+<tr><td>Formula 1</td><td>15.1 RON / 300ml <span id="en">Orange Blossom Water</span><span id="ro">Apă Flori de Portocale</span></td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.darinne.ro/categorie/libaneze/page/2/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
 </tbody>
 
 <!-- 
@@ -54,6 +65,5 @@
        <tr><td><span id="en">Peppermint Oil</span><span id="ro">Ulei de Izma Bună</span></td><td>-</td><td>-</td></tr>    
        <tr><td><span id="en">Eucalyptus Oil</span><span id="ro">Ulei de Eucalipt</span> </td><td>-</td><td>-</td></tr> 
        <tr><td><span id="en">Kewra water</span><span id="ro">Apă Kewra</span> </td><td>-</td><td>-</td></tr>    
-       <tr><td><span id="en">Rose water</span><span id="ro">Apă de Trandafir</span> </td><td>-</td><td>-</td></tr>
 
 --> 
