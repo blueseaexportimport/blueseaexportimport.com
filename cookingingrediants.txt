@@ -4,6 +4,7 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Cooking ingredients - Dr. Oetker</span><span id="ro">Ingrediente pentru gătit -  Dr. Oetker</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
 
+<tr><td>Formula 7</td><td>0.6 RON / 10g <span id="en">Baking powder</span><span id="ro">Praf de copt</span></td></tr>
 <tr><td>Formula 1</td><td>0.8 RON / 8g <span id="en">Vanilla sugar</span><span id="ro">Zahăr vanilat</span></td></tr>
 <tr><td>Formula 2</td><td>0.5 RON / 7g <span id="en">Food grade ammonium bicarbonate for baking</span><span id="ro">Bicarbonat de amoniu alimentar</span></td></tr>
 <tr><td>Formula 3</td><td>1.2 RON / 50g <span id="en">Food grade sodium bicarbonate salt</span><span id="ro">Bicarbonat de sodiu alimentar</span></td></tr>
