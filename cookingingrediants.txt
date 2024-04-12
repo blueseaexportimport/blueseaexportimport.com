@@ -74,8 +74,22 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.limmi.it" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING007</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Candied fruits </span><span id="ro">Fructe confiate -  Eurocas</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
+
+<tr><td>Formula 1</td><td>46.2 RON / kg <span id="en">Candied cherries</span><span id="ro">Cireșe confiate</span> - Eurocas</td></tr>
+<tr><td>Formula 2</td><td>44.5 RON / kg <span id="en">Candied Amarena cherries</span><span id="ro">Cireșe Amarena confiate</span> - <a style="color:gold;" href="https://eurocas.ro" target="_blank" >Eurocas</a></td></tr>
+<tr><td>Formula 3</td><td>34.6 RON / kg <span id="en">Candied orange cubes</span><span id="ro">Cuburi portocale confiate</span> - <a style="color:gold;" href="https://eurocas.ro" target="_blank" >Eurocas</a></td></tr>
+<tr><td>Formula 4</td><td>43.5 RON / kg <span id="en">Candied Amarena cherries in syrup</span><span id="ro">Cireșe Amarena confiate în sirop</span> - <a style="color:gold;" href="https://eurocas.ro" target="_blank" >Eurocas</a></td></tr>
+<tr><td>Formula 5</td><td>12.8 RON / 200g <span id="en">Candied ginger</span><span id="ro">Ghimbir confiat</span> - <a style="color:gold;" href="https://solarisplant.ro/ghimbir-confiat-200g-solaris" target="_blank" >Solaris plant</a></td></tr>
+<tr><td>Formula 6</td><td>10.3 RON / 100g <span id="en">Candied papaya</span><span id="ro">Papaya confiate</span> - <a style="color:gold;" href="https://sanovita.ro" target="_blank" >Sanovita</a></td></tr>
+<tr><td>Formula 7</td><td>12.3 RON / 100g <span id="en">Candied pineapple</span><span id="ro">Ananas confiate</span> - <a style="color:gold;" href="https://sanovita.ro" target="_blank" >Sanovita</a></td></tr>
+
+<tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various Romania suppliers</span><span id="ro">Furnizori din România</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING008</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Cheese making rennet - Ideal</span><span id="ro">Cheag pentru brânzeturi -  Ideal</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
 
@@ -107,7 +121,6 @@
        <tr><td><span id="en">Unrefined sugar small portion packets</span><span id="ro">Plicuri Zahăr nerafinat </span></td><td>-</td><td>-</td></tr>   
 
 
-       <tr><td><span id="en">Candied fruits</span><span id="ro">Fructe confiate</span></td><td>- </td><td>- </td></tr>
        <tr><td><span id="en">Vanillin</span><span id="ro">Vanilină alimentară</span>  </td><td>-</td><td>-</td></tr>      
         Seasoning powder for soups Bază pentru mâncăruri 
 
