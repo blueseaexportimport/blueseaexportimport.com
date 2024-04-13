@@ -7,6 +7,13 @@
 
 <tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">National</span><span id="ro">Național</span></td><td></td></tr>
 
+<tr><td>Formula 1</td><td>12 RON / Adult <span id="en">Bucharest - The National Art Museum of Romania - Krikor H. Zambaccia Museum</span><span id="ro">București - Muzeul Național de Artă al României - Muzeul Krikor H. Zambaccia</span></td></tr>
+<tr><td>Formula 2</td><td>12 RON / Adult <span id="en">Bucharest - The National Art Museum of Romania - Theodor Pallady Museum</span><span id="ro">București - Muzeul Național de Artă al României - Muzeul Theodor Pallady</span></td></tr>
+<tr><td>Formula 3</td><td>20 RON / Adult <span id="en">Bucharest - The National Art Museum of Romania - European Decorative Art Gallery</span><span id="ro">București - Muzeul Național de Artă al României - Galeria de Artă Decorativă Europeană</span></td></tr>
+<tr><td>Formula 4</td><td>24 RON / Adult <span id="en">Bucharest - The National Art Museum of Romania - National Art Gallery</span><span id="ro">București - Muzeul Național de Artă al României - Galeria de Artă Națională</span></td></tr>
+<tr><td>Formula 5</td><td>24 RON / Adult <span id="en">Bucharest - The National Art Museum of Romania - European Art Gallery</span><span id="ro">București - Muzeul Național de Artă al României - Galeria de Artă Europeană</span></td></tr>
+<tr><td>Formula 6</td><td>24 RON / Adult <span id="en">Bucharest - The National Art Museum of Romania - Historical Spaces</span><span id="ro">București - Muzeul Național de Artă al României - Spații Istorice</span></td></tr>
+<tr><td>Formula 7</td><td>32 RON / Adult <span id="en">Bucharest - The National Art Museum of Romania - Museum of Art Collections</span><span id="ro">București - Muzeul Național de Artă al României - Muzeul Colecțiilor de Artă</span></td></tr>
 
 
 <tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Bucharest</span><span id="ro">București</span></td><td></td></tr>
@@ -43,8 +50,6 @@
 
 
 
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://muzeulvrancei.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
