@@ -1,2 +1,42 @@
 <tbody>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">EVT001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Museum tickets - Romania</span><span id="ro">Bilete muzee -  Romania</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
+
+<tr><td>Formula 1</td><td>10 RON / Adult <span id="en">Vrancea Museum - Department of Natural Sciences</span><span id="ro">Muzeul Vrancei - Secția de Științe ale Naturii</span></td></tr>
+<tr><td>Formula 2</td><td>10 RON / Adult <span id="en">Vrancea Museum - Union Museum</span><span id="ro">Muzeul Vrancei - Muzeul Unirii</span></td></tr>
+<tr><td>Formula 3</td><td>10 RON / Adult <span id="en">Vrancea Museum - Focsani Mausoleum</span><span id="ro">Muzeul Vrancei - Mausoleul Focșani</span></td></tr>
+<tr><td>Formula 4</td><td>10 RON / Adult <span id="en">Vrancea Museum - "Alexandru Vlahuță" Dragosloveni Memorial Museum/span><span id="ro">Muzeul Vrancei - Muzeul Memorial „Alexandru Vlahuță” Dragosloveni</span></td></tr>
+<tr><td>Formula 5</td><td>10 RON / Adult <span id="en">Vrancea Museum - Memorial House "Ion Roata" Câmpuri</span><span id="ro">Muzeul Vrancei - Casa Memorială "Ion Roată" Câmpuri</span></td></tr>
+<tr><td>Formula 6</td><td>10 RON / Adult <span id="en">Vrancea Museum - Ethnography Section from Crângul Petrești</span><span id="ro">Muzeul Vrancei - Secția de Etnografie din Crângul Petrești 
+</span></td></tr>
+<tr><td>Formula 7</td><td>10 RON / Adult <span id="en">Vrancea Museum - City Museum Adjud</span><span id="ro">Muzeul Vrancei - Muzeul Orășenesc Adjud</span></td></tr>
+<tr><td>Formula 8</td><td>10 RON / Adult <span id="en">Vrancea Museum - Vrancea Country Museum</span><span id="ro">Muzeul Vrancei - Muzeul Țării Vrancei</span></td></tr>
+<tr><td>Formula 9</td><td>20 RON / Adult <span id="en">Vrancea Museum - Heroes' Mausoleum in Mărășești</span><span id="ro">Muzeul Vrancei - Mausoleul Eroilor Mărășești</span></td></tr>
+<tr><td>Formula 10</td><td>20 RON / Adult <span id="en">Vrancea Museum - Heroes' Mausoleum in Mărăști</span><span id="ro">Muzeul Vrancei - Mausoleul Eroilor Mărăști</span></td></tr>
+<tr><td>Formula 11</td><td>20 RON / Adult <span id="en">Vrancea Museum - Heroes' Mausoleum in Soveja</span><span id="ro">Muzeul Vrancei - Mausoleul Eroilor Soveja</span></td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://muzeulvrancei.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
 </tbody>
+
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
