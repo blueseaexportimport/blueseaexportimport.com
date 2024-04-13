@@ -59,8 +59,32 @@
 <tr><td>Formula 52</td><td>226.6 RON / L <span id="en">Black cherries flavor</span><span id="ro">Aromă de cirese negre</span></td></tr>
 <tr><td>Formula 53</td><td>288 RON / L <span id="en">Caramel flavor</span><span id="ro">Aromă de caramel</span></td></tr>
 
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.coseli.ro/produse-vrac/arome/cp-45.html" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.coseli.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FDA002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Food colors - Coseli</span><span id="ro">Colorant alimentar -  Coseli</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>14.7 RON / L <span id="en">Oranges color 1</span><span id="ro">Colorant portocale 1</span></td></tr>
+<tr><td>Formula 2</td><td>14.7 RON / L <span id="en">Green color 1</span><span id="ro">Colorant verde 1</span></td></tr>
+<tr><td>Formula 3</td><td>14.8 RON / L <span id="en">Blue color</span><span id="ro">Colorant albastru</span></td></tr>
+<tr><td>Formula 4</td><td>14.8 RON / L <span id="en">Raspberry color</span><span id="ro">Colorant zmeura</span></td></tr>
+<tr><td>Formula 5</td><td>14.8 RON / L <span id="en">Purple color</span><span id="ro">Colorant mov</span></td></tr>
+<tr><td>Formula 6</td><td>14.8 RON / L <span id="en">Fruits color</span><span id="ro">Colorant fructe</span></td></tr>
+<tr><td>Formula 7</td><td>14.9 RON / L <span id="en">Red color</span><span id="ro">Colorant rosu</span></td></tr>
+<tr><td>Formula 8</td><td>14.9 RON / L <span id="en">Peach color</span><span id="ro">Colorant piersica</span></td></tr>
+<tr><td>Formula 9</td><td>15 RON / L <span id="en">Yellow color</span><span id="ro">Colorant galben</span></td></tr>
+<tr><td>Formula 10</td><td>16.2 RON / L <span id="en">Apricots color</span><span id="ro">Colorant caise</span></td></tr>
+<tr><td>Formula 11</td><td>16.7 RON / L <span id="en">Strawberry color</span><span id="ro">Colorant capsuni</span></td></tr>
+<tr><td>Formula 12</td><td>17.8 RON / L <span id="en">Black cherry color</span><span id="ro">Colorant cirese negre</span></td></tr>
+<tr><td>Formula 13</td><td>18 RON / L <span id="en">Blueberry color</span><span id="ro">Colorant afine</span></td></tr>
+<tr><td>Formula 14</td><td>20.5 RON / L <span id="en">Sour cherry color 1</span><span id="ro">Colorant visine</span></td></tr>
+<tr><td>Formula 15</td><td>27 RON / kg <span id="en">Caramel color</span><span id="ro">Colorant caramel</span></td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.coseli.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
 
 
 </tbody>
