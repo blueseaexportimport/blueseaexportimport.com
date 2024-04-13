@@ -118,6 +118,23 @@ $(document).ready(function() {
 <script>
 $(document).ready(function () { 
 
+  // Grab eventstickets on click start
+  $("#eventsticketsbtn").click(function() {
+    if ($("#eventstickets").hasClass("clickedeventstickets")) {
+        // already been clicked once, hide it
+        $("#eventstickets").html("");
+        $( "#eventstickets" ).removeClass( "clickedeventstickets" )
+    }else {
+        // first time this is clicked, mark it
+        $("#eventstickets").addClass("clickedeventstickets");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/eventstickets.txt", success: function(result){
+         $("#eventstickets").html(result);
+        }});
+    }
+   });
+  // Grab eventstickets on click end
+
+	
 
   // Grab fishing on click start
   $("#essentialoilsbtn").click(function() {
@@ -3406,9 +3423,12 @@ $(document).ready(function () {
    </table> 
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>X. TICKETS, NEWSPAPERS, BOOKS AND MAGAZINES (3)</b></span> <span id="ro"><b>X. BILETE, ZIARE, CĂRȚI ȘI REVISTE (3)</b></span></button><div class="catalogpanel">
-  <h5 class="categoryaccordion" ><span id="en">Events tickets</span><span id="ro">Bilete evenimente</span></h5>    
-  <div class="rowbin" >-</div>
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>X. TICKETS, NEWSPAPERS, BOOKS AND MAGAZINES (4)</b></span> <span id="ro"><b>X. BILETE, ZIARE, CĂRȚI ȘI REVISTE (4)</b></span></button><div class="catalogpanel">
+  <h5 class="categoryaccordion" id="eventsticketsbtn" ><span id="en">Events tickets (1)</span><span id="ro">Bilete evenimente (1)</span></h5>    
+   <table id="eventstickets" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
   <h5 class="categoryaccordion" id="newspapersbtn" ><span id="en">Newspapers (1)</span><span id="ro">Ziare</span></h5>    
    <table id="newspapers" class="categorypanel" >
    <!-- Load info start --> 
