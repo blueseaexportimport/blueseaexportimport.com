@@ -1,29 +1,72 @@
 <tbody>
 
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FIS001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Essential oils - Solaris</span><span id="ro">Uleiuri esențiale -  Solaris</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
+
+<tr><td>Formula 1</td><td>8.7 RON / 10ml <span id="en">Lemongrass essential oil</span><span id="ro">Ulei esențial citronela</span></td></tr>
+<tr><td>Formula 2</td><td>9.2 RON / 10ml <span id="en">Oranges essential oil</span><span id="ro">Ulei esențial portocale</span></td></tr>
+<tr><td>Formula 3</td><td>9.5 RON / 10ml <span id="en">Fir essential oil</span><span id="ro">Ulei esențial brad</span></td></tr>
+<tr><td>Formula 4</td><td>9.5 RON / 10ml <span id="en">Lemon essential oil</span><span id="ro">Ulei esențial lămâie</span></td></tr>
+<tr><td>Formula 5</td><td>9.6 RON / 10ml <span id="en">Eucalyptus essential oil</span><span id="ro">Ulei esențial eucalipt</span></td></tr>
+<tr><td>Formula 6</td><td>10.1 RON / 10ml <span id="en">Tea tree essential oil</span><span id="ro">Ulei esențial arbore de ceai</span></td></tr>
+<tr><td>Formula 7</td><td>10.4 RON / 10ml <span id="en">Bergamota essential oil</span><span id="ro">Ulei esențial bergamota</span></td></tr>
+<tr><td>Formula 8</td><td>11.2 RON / 10ml <span id="en">Spearmint essential oil</span><span id="ro">Ulei esențial mentă</span></td></tr>
+<tr><td>Formula 9</td><td>11.5 RON / 10ml <span id="en">Thyme essential oil</span><span id="ro">Ulei esențial cimbru</span></td></tr>
+<tr><td>Formula 10</td><td>11.8 RON / 10ml <span id="en">Rosemary essential oil</span><span id="ro">Ulei esențial rozmarin</span></td></tr>
+<tr><td>Formula 11</td><td>11.8 RON / 10ml <span id="en">Cinnamon essential oil</span><span id="ro">Ulei esențial scorţişoară</span></td></tr>
+<tr><td>Formula 12</td><td>11.8 RON / 10ml <span id="en">Thuja essential oil</span><span id="ro">Ulei esențial tuia</span></td></tr>
+<tr><td>Formula 13</td><td>11.9 RON / 10ml <span id="en">Basil essential oil</span><span id="ro">Ulei esențial busuioc</span></td></tr>
+<tr><td>Formula 14</td><td>11.9 RON / 10ml <span id="en">Cloves essential oil</span><span id="ro">Ulei esențial cuișoare</span></td></tr>
+<tr><td>Formula 15</td><td>12.4 RON / 10ml <span id="en">Pine essential oil</span><span id="ro">Ulei esențial pin</span></td></tr>
+<tr><td>Formula 16</td><td>12.8 RON / 10ml <span id="en">Grapefruit essential oil</span><span id="ro">Ulei esențial grapefrut</span></td></tr>
+<tr><td>Formula 17</td><td>12.8 RON / 10ml <span id="en">Lime essential oil</span><span id="ro">Ulei esențial lime</span></td></tr>
+<tr><td>Formula 18</td><td>13.1 RON / 10ml <span id="en">Lavender essential oil</span><span id="ro">Ulei esențial lavandă</span></td></tr>
+<tr><td>Formula 19</td><td>13.1 RON / 10ml <span id="en">Juniper essential oil</span><span id="ro">Ulei esențial ienupar</span></td></tr>
+<tr><td>Formula 20</td><td>13.1 RON / 10ml <span id="en">Geranium essential oil</span><span id="ro">Ulei esențial geraniu</span></td></tr>
+<tr><td>Formula 21</td><td>13.4 RON / 10ml <span id="en">Ginger essential oil</span><span id="ro">Ulei esențial ghimbir</span></td></tr>
+<tr><td>Formula 22</td><td>13.8 RON / 10ml <span id="en">Dill essential oil</span><span id="ro">Ulei esențial mărar</span></td></tr>
+<tr><td>Formula 23</td><td>13.9 RON / 10ml <span id="en">Lemon balm essential oil</span><span id="ro">Ulei esențial roiniță</span></td></tr>
+<tr><td>Formula 24</td><td>14.7 RON / 10ml <span id="en">Coriander essential oil</span><span id="ro">Ulei esențial coriandru</span></td></tr>
+<tr><td>Formula 25</td><td>14.7 RON / 10ml <span id="en">Ylang ylang essential oil</span><span id="ro">Ulei esențial ylang ylang</span></td></tr>
+<tr><td>Formula 26</td><td>15.3 RON / 10ml <span id="en">Oregano essential oil</span><span id="ro">Ulei esențial oregano</span></td></tr>
+<tr><td>Formula 27</td><td>15.3 RON / 10ml <span id="en">Sage essential oil</span><span id="ro">Ulei esențial salvie</span></td></tr>
+<tr><td>Formula 28</td><td>16.6 RON / 10ml <span id="en">Frankincense essential oil</span><span id="ro">Ulei esențial tămâie</span></td></tr>
+<tr><td>Formula 29</td><td>17.7 RON / 10ml <span id="en">Patchouli essential oil</span><span id="ro">Ulei esențial patchouli</span></td></tr>
+<tr><td>Formula 30</td><td>21.2 RON / 10ml <span id="en">Jasmine essential oil</span><span id="ro">Ulei esențial iasomie</span></td></tr>
+<tr><td>Formula 31</td><td>23.8 RON / 10ml <span id="en">Rose essential oil</span><span id="ro">Ulei esențial trandafir</span></td></tr>
+
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://solarisplant.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+</tbody>
+
+
+<!--
+
        <tr><td>Pumpkin carrier essential oil </td><td>-</td><td>-</td></tr>
        <tr><td>Walnuts carrier essential oil</td><td>-</td><td>-</td></tr>
        <tr><td>Grape seeds carrier essential oil</td><td>-</td><td>-</td></tr>              
        <tr><td>Wheat germ carrier essential oil</td><td>-</td><td>-</td></tr>   
        <tr><td>Apricot kernel carrier essential oil</td><td>-</td><td>-</td></tr>   
+
+
        <tr><td>Jasmine essential oil</td><td>-</td><td>-</td></tr>   
        <tr><td>Rose essential oil</td><td>-</td><td>-</td></tr>
        <tr><td>Moss essential oil</td><td>-</td><td>-</td></tr>      
        <tr><td>Oak wood essential oil</td><td>-</td><td>-</td></tr>   
-       <tr><td>Pine wood essential oil</td><td>-</td><td>-</td></tr>
        <tr><td>Spruce wood essential oil</td><td>-</td><td>-</td></tr>
        <tr><td>Cypress wood essential oil</td><td>-</td><td>-</td></tr>   
-       <tr><td>Juniper essential oil</td><td>-</td><td>-</td></tr>
        <tr><td>Plum essential oil</td><td>-</td><td>-</td></tr>
        <tr><td>Wormwood wood essential oil</td><td>-</td><td>-</td></tr>   
-       <tr><td>Basil essential oil</td><td>-</td><td>-</td></tr>
-       <tr><td>Lavender essential oil</td><td>-</td><td>-</td></tr>      
        <tr><td>Carrot seeds essential oil</td><td>-</td><td>-</td></tr>   
        <tr><td>Celery seeds essential oil</td><td>-</td><td>-</td></tr>
        <tr><td>Fennel seeds essential oil</td><td>-</td><td>-</td></tr>
-       <tr><td>Chamomile wood essential oil</td><td>-</td><td>-</td></tr>   
-       <tr><td>Dill essential oil</td><td>-</td><td>-</td></tr>
+       <tr><td>Chamomile essential oil</td><td>-</td><td>-</td></tr>   
        <tr><td>Hops essential oil</td><td>-</td><td>-</td></tr>
-       <tr><td>Thyme wood essential oil</td><td>-</td><td>-</td></tr>   
        <tr><td>Marjoram essential oil</td><td>-</td><td>-</td></tr>
        <tr><td>Parsley essential oil</td><td>-</td><td>-</td></tr>      
        <tr><td>Nettle essential oil</td><td>-</td><td>-</td></tr>   
@@ -41,8 +84,6 @@
        <tr><td>Petunie essential oil</td><td>-</td><td>-</td></tr>   
        <tr><td>Wild pansy essential oil</td><td>-</td><td>-</td></tr>
        <tr><td>Hyacinth essential oil</td><td>-</td><td>-</td></tr>
-       <tr><td>Lemon balm essential oil</td><td>-</td><td>-</td></tr>   
-       <tr><td>Mint essential oil</td><td>-</td><td>-</td></tr>
        <tr><td>Peppermint essential oil</td><td>-</td><td>-</td></tr>    
        <tr><td>Fresh grass essential oil</td><td>-</td><td>-</td></tr>   
        <tr><td>Linden flowers essential oil</td><td>-</td><td>-</td></tr>
@@ -50,11 +91,8 @@
        <tr><td>Cherry flowers essential oil</td><td>-</td><td>-</td></tr>   
        <tr><td>Apricot flowers essential oil</td><td>-</td><td>-</td></tr>
        <tr><td>Acacia flowers essential oil</td><td>-</td><td>-</td></tr>
-       <tr><td>Acacia flowers essential oil</td><td>-</td><td>-</td></tr>   
        <tr><td>Cherry plum flowers essential oil</td><td>-</td><td>-</td></tr>
        <tr><td>Lilacs essential oil</td><td>-</td><td>-</td></tr>      
-       <tr><td>Lemongrass essential oil</td><td>-</td><td>-</td></tr>   
-       <tr><td>Sage essential oil</td><td>-</td><td>-</td></tr>
        <tr><td>Snowdrop essential oil</td><td>-</td><td>-</td></tr>
        <tr><td>Cucumbers essential oil</td><td>-</td><td>-</td></tr>   
        <tr><td>Alfalfa essential oil</td><td>-</td><td>-</td></tr>
@@ -69,6 +107,21 @@
        <tr><td>Damasc rose essential oil</td><td>-</td><td>-</td></tr>
        <tr><td>Strawberry essential oil</td><td>-</td><td>-</td></tr>
 
+-->
 
 
-</tbody>
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
