@@ -118,6 +118,24 @@ $(document).ready(function() {
 <script>
 $(document).ready(function () { 
 
+
+  // Grab fishing on click start
+  $("#fishingbtn").click(function() {
+    if ($("#fishing").hasClass("clickedfishing")) {
+        // already been clicked once, hide it
+        $("#fishing").html("");
+        $( "#fishing" ).removeClass( "clickedfishing" )
+    }else {
+        // first time this is clicked, mark it
+        $("#fishing").addClass("clickedfishing");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/fishing.txt", success: function(result){
+         $("#fishing").html(result);
+        }});
+    }
+   });
+  // Grab fishing on click end
+	
+
   // Grab foodadditives on click start
   $("#foodadditivesbtn").click(function() {
     if ($("#foodadditives").hasClass("clickedfoodadditives")) {
@@ -3114,6 +3132,14 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table>  	
+  <h5 class="categoryaccordion" id="fishingbtn" ><span id="en">Fishing and aquaculture</span><span id="ro">Pescuit si acvacultură</span></h5>    
+   <table id="fishing" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	
+
+
+	  
   </div></li><!--END SECTION-->
 	   
   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>T. DOMESTIC ANIMALS FEED (3)</b></span><span id="ro"><b>T. HRANĂ ANIMALE DOMESTICE (3)</b></span></button><div class="catalogpanel">
