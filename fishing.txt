@@ -1,0 +1,41 @@
+<tbody>
+
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FIS001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Fishings flavor - Coseli</span><span id="ro">Arome pescuit -  Coseli</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+
+<tr><td>Formula 1</td><td>66 RON / L <span id="en">Progel 800 (wpc) flavor</span><span id="ro">Aromă progel 800 (wpc)</span></td></tr>
+<tr><td>Formula 2</td><td>66 RON / L <span id="en">Maple flavor</span><span id="ro">Aromă arțar</span></td></tr>
+<tr><td>Formula 3</td><td>66 RON / L <span id="en">Smoke flavor</span><span id="ro">Aromă de fum</span></td></tr>
+<tr><td>Formula 4</td><td>82.5 RON / L <span id="en">Mulberries flavor</span><span id="ro">Aromă de dude</span></td></tr>
+<tr><td>Formula 5</td><td>90.4 RON / L <span id="en">Scopex flavor</span><span id="ro">Aromă scopex</span></td></tr>
+<tr><td>Formula 6</td><td>95.6 RON / L <span id="en">Cranberries flavor</span><span id="ro">Aromă de merișoare</span></td></tr>
+<tr><td>Formula 7</td><td>99.6 RON / L <span id="en">Garlic flavor</span><span id="ro">Aromă de usturoi</span></td></tr>
+<tr><td>Formula 8</td><td>104.5 RON / L <span id="en">Sea food flavor</span><span id="ro">Aromă de fructe de mare</span></td></tr>
+<tr><td>Formula 9</td><td>104.5 RON / L <span id="en">Fish flavor</span><span id="ro">Aromă de pește</span></td></tr>
+<tr><td>Formula 10</td><td>111.5 RON / L <span id="en">Sweet corn flavor</span><span id="ro">Aromă de porumb dulce</span></td></tr>
+<tr><td>Formula 11</td><td>165 RON / L <span id="en">Shrimp flavor</span><span id="ro">Aromă de creveți</span></td></tr>
+<tr><td>Formula 12</td><td>172.2 RON / L <span id="en">Crab flavor</span><span id="ro">Aromă de crab</span></td></tr>
+<tr><td>Formula 13</td><td>225.16 RON / L <span id="en">Squid flavor</span><span id="ro">Aromă de calamar</span></td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.coseli.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+</tbody>
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
