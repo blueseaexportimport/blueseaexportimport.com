@@ -120,6 +120,23 @@ $(document).ready(function () {
 
 
   // Grab fishing on click start
+  $("#essentialoilsbtn").click(function() {
+    if ($("#essentialoils").hasClass("clickedessentialoils")) {
+        // already been clicked once, hide it
+        $("#essentialoils").html("");
+        $( "#essentialoils" ).removeClass( "clickedessentialoils" )
+    }else {
+        // first time this is clicked, mark it
+        $("#essentialoils").addClass("clickedessentialoils");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/essentialoils.txt", success: function(result){
+         $("#essentialoils").html(result);
+        }});
+    }
+   });
+  // Grab fishing on click end
+
+	
+  // Grab fishing on click start
   $("#fishingbtn").click(function() {
     if ($("#fishing").hasClass("clickedfishing")) {
         // already been clicked once, hide it
@@ -2989,7 +3006,7 @@ $(document).ready(function () {
   </table>  
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>R. PERSONAL CARE AND HYGIENE (97)</b></span> <span id="ro"><b>R. IGIENĂ ȘI ÎNGRIJIRE PERSONALĂ (97)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>R. PERSONAL CARE AND HYGIENE (98)</b></span> <span id="ro"><b>R. IGIENĂ ȘI ÎNGRIJIRE PERSONALĂ (98)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="householditemsbtn" ><span id="en">Household Items (39)</span><span id="ro">Articole Uz Caznic (39)</span></h5>    
    <table id="householditems" class="categorypanel"  >
    <!-- Load info start --> 
@@ -3047,8 +3064,12 @@ $(document).ready(function () {
   </table>   	
    <h5 class="categoryaccordion" ><span id="en">Perfumes</span><span id="ro">Parfumuri</span></h5>    	      
    <div class="rowbin" >-</div> 	
-   <h5 class="categoryaccordion" ><span id="en">Essential oils </span><span id="ro">Uleiuri esențiale</span></h5>    
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="essentialoilsbtn" ><span id="en">Essential oils (1)</span><span id="ro">Uleiuri esențiale (1)</span></h5>    
+  <table id="essentialoils" class="categorypanel"  >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+  </table>   	
+	   
    </div></li><!--END SECTION-->  
 
   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (13)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (13)</b></span></button><div class="catalogpanel">
