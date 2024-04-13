@@ -14,31 +14,32 @@
 <tr><td>Formula 5</td><td>24 RON / Adult <span id="en">Bucharest - The National Art Museum of Romania - European Art Gallery</span><span id="ro">București - Muzeul Național de Artă al României - Galeria de Artă Europeană</span></td></tr>
 <tr><td>Formula 6</td><td>24 RON / Adult <span id="en">Bucharest - The National Art Museum of Romania - Historical Spaces</span><span id="ro">București - Muzeul Național de Artă al României - Spații Istorice</span></td></tr>
 <tr><td>Formula 7</td><td>32 RON / Adult <span id="en">Bucharest - The National Art Museum of Romania - Museum of Art Collections</span><span id="ro">București - Muzeul Național de Artă al României - Muzeul Colecțiilor de Artă</span></td></tr>
-
-<tr><td>Formula 8</td><td>12 RON / Adult <span id="en">Bucharest - The National Museum of the Romanian Peasant - The permanent exhibition of the Antipa Museum</span><span id="ro">București - Muzeul Național al Țăranului Român</span></td></tr>
-<tr><td>Formula 9</td><td>15 RON / Adult <span id="en">Bucharest - The National Museum of Geology</span><span id="ro">București - Muzeul Național de Geologie</span></td></tr>
-<tr><td>Formula 10</td><td>20 RON / Adult <span id="en">Bucharest - "Grigore Antipa" National Museum of Natural History - The permanent exhibition of the Antipa Museum</span><span id="ro">București - Muzeul Național de Istorie Naturală „Grigore Antipa” - Expoziția permanentă a Muzeului Antipa</span></td></tr>
-<tr><td>Formula 11</td><td>20 RON / Adult <span id="en">Bucharest - National Technical Museum "Prof. Engineer Dimitrie Leonida" - The permanent exhibition of the Antipa Museum</span><span id="ro">București - Muzeul Național Tehnic „Prof. ing. Dimitrie Leonida”</span></td></tr>
-<tr><td>Formula 12</td><td>22 RON / Adult <span id="en">Bucharest - The National History Museum of Romania</span><span id="ro">București - Muzeul Național de Istorie a României</span></td></tr>
-<tr><td>Formula 13</td><td>30 RON / Adult <span id="en">Bucharest - National Museum of the Village "Dimitrie Gusti" - The permanent exhibition of the Antipa Museum</span><span id="ro">București - Muzeului Național al Satului ”Dimitrie Gusti”</span></td></tr>
-
-
+<tr><td>Formula 8</td><td>40 RON / Adult <span id="en">Bucharest - Museum of Recent Art</span><span id="ro">București - Muzeul de Artă Recentă</span></td></tr>
+<tr><td>Formula 9</td><td>12 RON / Adult <span id="en">Bucharest - The National Museum of the Romanian Peasant - The permanent exhibition of the Antipa Museum</span><span id="ro">București - Muzeul Național al Țăranului Român</span></td></tr>
+<tr><td>Formula 10</td><td>15 RON / Adult <span id="en">Bucharest - The National Museum of Geology</span><span id="ro">București - Muzeul Național de Geologie</span></td></tr>
+<tr><td>Formula 11</td><td>20 RON / Adult <span id="en">Bucharest - "Grigore Antipa" National Museum of Natural History - The permanent exhibition of the Antipa Museum</span><span id="ro">București - Muzeul Național de Istorie Naturală „Grigore Antipa” - Expoziția permanentă a Muzeului Antipa</span></td></tr>
+<tr><td>Formula 13</td><td>20 RON / Adult <span id="en">Bucharest - National Technical Museum "Prof. Engineer Dimitrie Leonida" - The permanent exhibition of the Antipa Museum</span><span id="ro">București - Muzeul Național Tehnic „Prof. ing. Dimitrie Leonida”</span></td></tr>
+<tr><td>Formula 13</td><td>22 RON / Adult <span id="en">Bucharest - The National History Museum of Romania</span><span id="ro">București - Muzeul Național de Istorie a României</span></td></tr>
+<tr><td>Formula 14</td><td>30 RON / Adult <span id="en">Bucharest - National Museum of the Village "Dimitrie Gusti" - The permanent exhibition of the Antipa Museum</span><span id="ro">București - Muzeului Național al Satului ”Dimitrie Gusti”</span></td></tr>
 
 
 <tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Bucharest</span><span id="ro">București</span></td><td></td></tr>
 
-<tr><td>Formula 1</td><td>- / Adult <span id="en">Bucharest Museum - Gheorghe Tattarescu Museum - closed for restoration</span><span id="ro">Muzeul București - Muzeul Gheorghe Tattarescu - inchis pentru restaurare</span></td></tr>
-<tr><td>Formula 2</td><td>- / Adult <span id="en">Bucharest Museum - Voivodeship Old Court Museum - closed for restoration</span><span id="ro">Muzeul București - Muzeul Palatul Voievodal Curtea Veche
+<tr><td>Formula 1</td><td>0 RON / Adult <span id="en">Bucharest -  University of Bucharest Museum</span><span id="ro">București - Muzeul Universității din București</span></td></tr>
+<tr><td>Formula 2</td><td>- / Adult <span id="en">Bucharest Museum - Gheorghe Tattarescu Museum - closed for restoration</span><span id="ro">Muzeul București - Muzeul Gheorghe Tattarescu - inchis pentru restaurare</span></td></tr>
+<tr><td>Formula 3</td><td>- / Adult <span id="en">Bucharest Museum - Voivodeship Old Court Museum - closed for restoration</span><span id="ro">Muzeul București - Muzeul Palatul Voievodal Curtea Veche
 </span></td></tr>
-<tr><td>Formula 3</td><td>13 RON / Adult <span id="en">Bucharest Museum - Suțu Palace</span><span id="ro">Muzeul București - Palatul Suţu</span></td></tr>
-<tr><td>Formula 4</td><td>13 RON / Adult <span id="en">Bucharest Museum - Theodor Aman Museum</span><span id="ro">Muzeul București - Muzeul Theodor Aman</span></td></tr>
-<tr><td>Formula 5</td><td>13 RON / Adult <span id="en">Bucharest Museum - "George Severeanu" Museum</span><span id="ro">Muzeul București - Muzeul „George Severeanu”</span></td></tr>
-<tr><td>Formula 6</td><td>13 RON / Adult <span id="en">Bucharest Museum - "Ligia and Pompiliu Macovei" Art Collection</span><span id="ro">Muzeul București - Colecţia de Artă „Ligia şi Pompiliu Macovei”</span></td></tr>
-<tr><td>Formula 7</td><td>13 RON / Adult <span id="en">Bucharest Museum - Victor Babeș Museum</span><span id="ro">Muzeul București - Muzeul Victor Babeș</span></td></tr>
-<tr><td>Formula 8</td><td>13 RON / Adult <span id="en">Bucharest Museum - Nicolae Minovici Museum</span><span id="ro">Muzeul București - Muzeul Nicolae Minovici</span></td></tr>
-<tr><td>Formula 9</td><td>13 RON / Adult <span id="en">Bucharest Museum - Frederic Storck and Cecilia Cuțescu-Storck Museum</span><span id="ro">Muzeul București - Muzeul Frederic Storck și Cecilia Cuțescu-Storck</span></td></tr>
-<tr><td>Formula 10</td><td>13 RON / Adult <span id="en">Bucharest Museum - Vasile Urseanu Astronomical Observatory</span><span id="ro">Muzeul București - Observatorul Astronomic Vasile Urseanu</span></td></tr>
-<tr><td>Formula 11</td><td>13 RON / Adult <span id="en">Bucharest Museum - Dacia-Romania Palace ( Pinacotecii Palace )</span><span id="ro">Muzeul București - Palatul Dacia-România ( Palatului Pinacotecii )</span></td></tr>
+<tr><td>Formula 4</td><td>13 RON / Adult <span id="en">Bucharest Museum - Suțu Palace</span><span id="ro">Muzeul București - Palatul Suţu</span></td></tr>
+<tr><td>Formula 5</td><td>13 RON / Adult <span id="en">Bucharest Museum - Theodor Aman Museum</span><span id="ro">Muzeul București - Muzeul Theodor Aman</span></td></tr>
+<tr><td>Formula 6</td><td>13 RON / Adult <span id="en">Bucharest Museum - "George Severeanu" Museum</span><span id="ro">Muzeul București - Muzeul „George Severeanu”</span></td></tr>
+<tr><td>Formula 7</td><td>13 RON / Adult <span id="en">Bucharest Museum - "Ligia and Pompiliu Macovei" Art Collection</span><span id="ro">Muzeul București - Colecţia de Artă „Ligia şi Pompiliu Macovei”</span></td></tr>
+<tr><td>Formula 8</td><td>13 RON / Adult <span id="en">Bucharest Museum - Victor Babeș Museum</span><span id="ro">Muzeul București - Muzeul Victor Babeș</span></td></tr>
+<tr><td>Formula 9</td><td>13 RON / Adult <span id="en">Bucharest Museum - Nicolae Minovici Museum</span><span id="ro">Muzeul București - Muzeul Nicolae Minovici</span></td></tr>
+<tr><td>Formula 10</td><td>13 RON / Adult <span id="en">Bucharest Museum - Frederic Storck and Cecilia Cuțescu-Storck Museum</span><span id="ro">Muzeul București - Muzeul Frederic Storck și Cecilia Cuțescu-Storck</span></td></tr>
+<tr><td>Formula 11</td><td>13 RON / Adult <span id="en">Bucharest Museum - Vasile Urseanu Astronomical Observatory</span><span id="ro">Muzeul București - Observatorul Astronomic Vasile Urseanu</span></td></tr>
+<tr><td>Formula 12</td><td>13 RON / Adult <span id="en">Bucharest Museum - Dacia-Romania Palace ( Pinacotecii Palace )</span><span id="ro">Muzeul București - Palatul Dacia-România ( Palatului Pinacotecii )</span></td></tr>
+<tr><td>Formula 13</td><td>35 RON / Adult <span id="en">Bucharest - House of Experiments</span><span id="ro">București - Casa Experimentelor</span></td></tr>
+
 
 <tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Vrancea</span><span id="ro">Vrancea</span></td><td></td></tr>
 
