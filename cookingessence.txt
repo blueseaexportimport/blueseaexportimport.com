@@ -37,8 +37,8 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Flavoured water - Darinne</span><span id="ro">Apă aromatizată -  Darinne</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Liban</span><span id="ro">Lebanon</span></td></tr>
 
-<tr><td>Formula 1</td><td>14.5 RON / 300ml <span id="en">Rose water</span><span id="ro">Apă de Trandafir</span></td></tr>
-<tr><td>Formula 2</td><td>15.1 RON / 300ml <span id="en">Orange Blossom Water</span><span id="ro">Apă Flori de Portocale</span></td></tr>
+<tr><td>Formula 1</td><td>13.5 RON / 300ml <span id="en">Rose water</span><span id="ro">Apă de Trandafir</span></td></tr>
+<tr><td>Formula 2</td><td>13.5 RON / 300ml <span id="en">Orange Blossom Water</span><span id="ro">Apă Flori de Portocale</span></td></tr>
 
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.darinne.ro/categorie/libaneze/page/2/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
