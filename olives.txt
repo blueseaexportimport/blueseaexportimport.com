@@ -3,7 +3,9 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Olives in brine</span><span id="ro">Măsline în saramură</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
 
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Cellina di Nardo</td></tr>
+https://loliva.it/en/apulian-capers-olives/21608-pitted-celline-olives.html
+
+<tr><td>Formula 1</td><td>3.5 EUR / 160g <span id="en">Region Puglia - Italy - olive cultivar</span><span id="ro">Regiune Puglia - Italia - soi de măslin</span> Cellina di Nardo <a style="color:gold;" href="https://loliva.it/en/apulian-capers-olives/21608-pitted-celline-olives.html" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
 <tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Throumbolia</td></tr>
 <tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Nocellara del Belice / Castelvetrano</td></tr>
 <tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Megaritiki</td></tr>
