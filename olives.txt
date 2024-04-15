@@ -3,51 +3,60 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Olives in brine</span><span id="ro">Măsline în saramură</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
 
-https://loliva.it/en/apulian-capers-olives/21608-pitted-celline-olives.html
+<tr><td>Formula 1</td><td>3.1 EUR / 200g <span id="en">Region Sicily - Italy - olive cultivar</span><span id="ro">Regiune Sicilia - Italia - soi de măslin</span> Nocellara Etnea <a style="color:gold;" href="https://www.madamaolivashop.it/it/olive-dolci-nere-nocellbelice-dop" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 2</td><td>3.2 EUR / 200g <span id="en">Region Italy - olive cultivar</span><span id="ro">Regiune Italia - soi de măslin</span> Leccino <a style="color:gold;" href="https://www.madamaolivashop.it/it/olive-dolci-nere-nocellbelice-dop" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 3</td><td>3.5 EUR / 160g <span id="en">Region Puglia - Italy - olive cultivar</span><span id="ro">Regiune Puglia - Italia - soi de măslin</span> Cellina di Nardo <a style="color:gold;" href="https://loliva.it/en/apulian-capers-olives/21608-pitted-celline-olives.html" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 4</td><td>4 EUR / 250g <span id="en">Region Sicily - Italy - olive cultivar</span><span id="ro">Regiune Sicilia - Italia - soi de măslin</span> Nocellara del Belice <a style="color:gold;" href="https://www.madamaolivashop.it/it/olive-dolci-nere-nocellbelice-dop" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 5</td><td>4 EUR / 250g <span id="en">Region Sicily - Italy - olive cultivar</span><span id="ro">Regiune Sicilia - Italia - soi de măslin</span> Castelvetrano <a style="color:gold;" href="https://www.madamaolivashop.it/it/olive-dolci-nere-nocellbelice-dop" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 6</td><td>4 EUR / 250g <span id="en">Region Apulia - Italy - olive cultivar</span><span id="ro">Regiune Apulia - Italia - soi de măslin</span> Bella di Cerignola <a style="color:gold;" href="https://www.madamaolivashop.it/it/olive-dolci-nere-nocellbelice-dop" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 7</td><td>4.6 EUR / 250g <span id="en">Region Liguria - Italy - olive cultivar</span><span id="ro">Regiune Liguria - Italia - soi de măslin</span> Cailletier / Taggiasca <a style="color:gold;" href="https://www.madamaolivashop.it/it/olive-dolci-nere-nocellbelice-dop" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 8</td><td>4.6 EUR / 250g <span id="en">Region Lazio - Italy - olive cultivar</span><span id="ro">Regiune Lazio - Italia - soi de măslin</span> Itrana Nera del Lazio <a style="color:gold;" href="https://www.madamaolivashop.it/it/olive-dolci-nere-nocellbelice-dop" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
 
-<tr><td>Formula 1</td><td>3.5 EUR / 160g <span id="en">Region Puglia - Italy - olive cultivar</span><span id="ro">Regiune Puglia - Italia - soi de măslin</span> Cellina di Nardo <a style="color:gold;" href="https://loliva.it/en/apulian-capers-olives/21608-pitted-celline-olives.html" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Throumbolia</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Nocellara del Belice / Castelvetrano</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Megaritiki</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Kothreiki</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Gemlik</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Memeli</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Empeltre</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Domat</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Arbequina</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Memecik</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Salonenque</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Nabali</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Beruguette</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Aloreña</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Amfissa</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Beldi</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Cailletier / Niçoise</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Cerignola</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Conservolea</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Gordal</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Halkidiki</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Hondroelia</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Coratina Dolce Agogio</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Kalamata</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Hondroelia</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Lechín de Sevilla</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Lucques</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Manzanilla</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Mastoidis / Tsounati</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Picholine</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Picual</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Mission</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Nocellara Etnea</td></tr>
+<tr><td>Formula 9</td><td>8.5 EUR / kg <span id="en">Region Catalonia - Spain - olive cultivar</span><span id="ro">Regiune Catalonia - Spania - soi de măslin</span> Arbequina <a style="color:gold;" href="https://olivascaseras.com" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></td></tr>
+<tr><td>Formula 10</td><td>9 EUR / kg <span id="en">Region Aragón - Spain - olive cultivar</span><span id="ro">Regiune Aragón - Spania - soi de măslin</span> Empeltre / Aragón <a style="color:gold;" href="https://olivascaseras.com" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></td></tr>
+<tr><td>Formula 11</td><td>9 EUR / kg <span id="en">Region Seville - Spain - olive cultivar</span><span id="ro">Regiune Sevilia - Spania - soi de măslin</span> Manzanilla / Sevillana <a style="color:gold;" href="https://olivascaseras.com" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></td></tr>
+<tr><td>Formula 12</td><td>9.5 EUR / kg <span id="en">Region Madrid - Spain - olive cultivar</span><span id="ro">Regiune Madrid - Spania - soi de măslin</span> Campo Real <a style="color:gold;" href="https://olivascaseras.com" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></td></tr>
+<tr><td>Formula 13</td><td>10 EUR / kg <span id="en">Region Málaga - Spain - olive cultivar</span><span id="ro">Regiune Málaga - Spania - soi de măslin</span> Aloreña <a style="color:gold;" href="https://olivascaseras.com" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></td></tr>
+<tr><td>Formula 14</td><td>13.5 EUR / kg <span id="en">Region Sevilia - Spain - olive cultivar</span><span id="ro">Regiune Sevilia - Spania - soi de măslin</span> Gordal <a style="color:gold;" href="https://olivascaseras.com" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></td></tr>
+
+
+
 <tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Thassos</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Halkidiki</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Kalamata</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Mastoidis / Tsounati</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Amfissa</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Conservolea</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Hondroelia</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Hondroelia</td></tr>
+<tr><td>Formula 1</td><td>- EUR / kg <span id="en">Region Crete - Greexe - olive cultivar</span><span id="ro">Regiune Creta - Grecia - soi de măslin</span> Throumbolia <a style="color:gold;" href="https://ladasfoods.gr/en/product/throumba-olives-whole-vacuum-5kg-elia-elia/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+
+
+Franta
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Beruguette / Aglandau </td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Lucques</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Picholine</td></tr>
 <tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Germaine</td></tr>
 <tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Nyons / Tanche</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Sevillano</td></tr>
 
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+
+
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
+
+<tr><td>Formula 1</td><td>78 RON / 2.5kg <span id="en">Region Marmara - Turkey - olive cultivar</span><span id="ro">Regiune Marmara - Turcia - soi de măslin</span> Gemlik <a style="color:gold;" href="https://magazin.yunus.ro/cumpara/masline-gemlik-naturale-cutie-2-5kg-yunus-519" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Memecik</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Domat</td></tr>
+
+Israel
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Nabali / Baladi</td></tr>
+
+Maroc
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Beldi</td></tr>
+
+SUA
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Mission</td></tr>
 
 </tbody>
 
