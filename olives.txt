@@ -1,76 +1,68 @@
 
-    <tr><td>Arbosana </td><td>-</td><td>-</td></tr>
-    <tr><td>Ayvalık  </td><td>-</td><td>-</td></tr>   
-    <tr><td>Barnea </td><td>-</td><td>-</td></tr>
-    <tr><td>Bidni </td><td>-</td><td>-</td></tr>    
-    <tr><td>Bosana </td><td>-</td><td>-</td></tr>    
-    <tr><td>Bouteillan </td><td>-</td><td>-</td></tr>    
-    <tr><td>Cayon </td><td>-</td><td>-</td></tr>    
-    <tr><td>Carolea </td><td>-</td><td>-</td></tr> 
-    <tr><td>Cornicabra </td><td>-</td><td>-</td></tr>    
-    <tr><td>Frantoio </td><td>-</td><td>-</td></tr>    
-    <tr><td>Hojiblanca / Nevadillo Blanco </td><td>-</td><td>-</td></tr>    
-    <tr><td>İzmir Sofralık  </td><td>-</td><td>-</td></tr> 
-    <tr><td>Dritta </td><td>-</td><td>-</td></tr> 
-    <tr><td>Koroneiki </td><td>-</td><td>-</td></tr> 
-    <tr><td>Leccino </td><td>-</td><td>-</td></tr>
-    <tr><td>Maalot  </td><td>-</td><td>-</td></tr>   
-    <tr><td>Souri  </td><td>-</td><td>-</td></tr>
-    <tr><td>Meslalla </td><td>-</td><td>-</td></tr>    
-    <tr><td>Biancolilla </td><td>-</td><td>-</td></tr>    
-    <tr><td>Canino </td><td>-</td><td>-</td></tr>    
-    <tr><td>Casaliva </td><td>-</td><td>-</td></tr>    
-    <tr><td>Cellina di Nardo </td><td>-</td><td>-</td></tr> 
-    <tr><td>Cobrançosa </td><td>-</td><td>-</td></tr>    
-    <tr><td>Gentile di Chieti (Nostrana) </td><td>-</td><td>-</td></tr>    
-    <tr><td>Grossane </td><td>-</td><td>-</td></tr>    
-    <tr><td>Oliana  </td><td>-</td><td>-</td></tr> 
-    <tr><td>Patrinia </td><td>-</td><td>-</td></tr> 
-    <tr><td>Ravece </td><td>-</td><td>-</td></tr>
-    <tr><td>Sabine </td><td>-</td><td>-</td></tr>    
-    <tr><td>Sevillenca  </td><td>-</td><td>-</td></tr> 
-    <tr><td>Sikitita </td><td>-</td><td>-</td></tr> 
-    <tr><td>Verdale-de-l'Hérault </td><td>-</td><td>-</td></tr>
-    <tr><td>Throumbolia </td><td>-</td><td>-</td></tr>
-    <tr><td>Morrut / Morruda and Regués </td><td>-</td><td>-</td></tr>   
-    <tr><td>Nocellara del Belice </td><td>-</td><td>-</td></tr>
-    <tr><td>Megaritiki </td><td>-</td><td>-</td></tr>    
-    <tr><td>Kothreiki </td><td>-</td><td>-</td></tr>    
-    <tr><td>Gemlik </td><td>-</td><td>-</td></tr>    
-    <tr><td>Memeli </td><td>-</td><td>-</td></tr>    
-    <tr><td>Empeltre </td><td>-</td><td>-</td></tr> 
-    <tr><td>Domat </td><td>-</td><td>-</td></tr>    
-    <tr><td>Arbequina </td><td>-</td><td>-</td></tr>    
-    <tr><td>Lugano </td><td>-</td><td>-</td></tr>    
-    <tr><td>Memecik  </td><td>-</td><td>-</td></tr> 
-    <tr><td>Salonenque </td><td>-</td><td>-</td></tr> 
-    <tr><td>Nabali </td><td>-</td><td>-</td></tr>
-    <tr><td>Beruguette </td><td>-</td><td>-</td></tr>    
-    <tr><td>Aloreña  </td><td>-</td><td>-</td></tr> 
-    <tr><td>Amfissa </td><td>-</td><td>-</td></tr> 
-    <tr><td>Beldi </td><td>-</td><td>-</td></tr>
-    <tr><td>Cailletier / Niçoise </td><td>-</td><td>-</td></tr>    
-    <tr><td>Cerignola  </td><td>-</td><td>-</td></tr> 
-    <tr><td>Conservolea </td><td>-</td><td>-</td></tr> 
-    <tr><td>Gordal </td><td>-</td><td>-</td></tr>
-    <tr><td>Coratina Dolce Agogio </td><td>-</td><td>-</td></tr>    
-    <tr><td>Halkidiki  </td><td>-</td><td>-</td></tr> 
-    <tr><td>Hondroelia </td><td>-</td><td>-</td></tr> 
-    <tr><td>Kalamata </td><td>-</td><td>-</td></tr>
-    <tr><td>Hondroelia </td><td>-</td><td>-</td></tr>    
-    <tr><td>Lechín de Sevilla  </td><td>-</td><td>-</td></tr> 
-    <tr><td>Lucques </td><td>-</td><td>-</td></tr> 
-    <tr><td>Manzanilla </td><td>-</td><td>-</td></tr>
-    <tr><td>Mastoidis / Tsounati </td><td>-</td><td>-</td></tr>    
-    <tr><td>Picholine  </td><td>-</td><td>-</td></tr> 
-    <tr><td>Picual </td><td>-</td><td>-</td></tr> 
-    <tr><td>Mission </td><td>-</td><td>-</td></tr>
-    <tr><td>Napoleon </td><td>-</td><td>-</td></tr>    
-    <tr><td>Nocellara Etnea  </td><td>-</td><td>-</td></tr> 
-    <tr><td>Thassos </td><td>-</td><td>-</td></tr> 
-    <tr><td>Castelvetrano </td><td>-</td><td>-</td></tr>    
-    <tr><td>Galega </td><td>-</td><td>-</td></tr>
-    <tr><td>Germaine </td><td>-</td><td>-</td></tr>    
-    <tr><td>Nyons / Tanche  </td><td>-</td><td>-</td></tr> 
-    <tr><td>Olivière </td><td>-</td><td>-</td></tr> 
-    <tr><td>Sevillano </td><td>-</td><td>-</td></tr> 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OLV001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Olives in brine</span><span id="ro">Măsline în saramură</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
+
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Cellina di Nardo</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Throumbolia</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Nocellara del Belice / Castelvetrano</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Megaritiki</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Kothreiki</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Gemlik</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Memeli</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Empeltre</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Domat</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Arbequina</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Memecik</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Salonenque</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Nabali</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Beruguette</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Aloreña</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Amfissa</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Beldi</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Cailletier / Niçoise</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Cerignola</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Conservolea</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Gordal</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Halkidiki</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Hondroelia</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Coratina Dolce Agogio</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Kalamata</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Hondroelia</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Lechín de Sevilla</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Lucques</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Manzanilla</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Mastoidis / Tsounati</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Picholine</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Picual</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Mission</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Nocellara Etnea</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Thassos</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Germaine</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Nyons / Tanche</td></tr>
+<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Sevillano</td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+</tbody>
+
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
+
+
