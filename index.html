@@ -118,6 +118,24 @@ $(document).ready(function() {
 <script>
 $(document).ready(function () { 
 
+
+
+  // Grab olives on click start
+  $("#olivesbtn").click(function() {
+    if ($("#olives").hasClass("clickedolives")) {
+        // already been clicked once, hide it
+        $("#olives").html("");
+        $( "#olives" ).removeClass( "clickedolives" )
+    }else {
+        // first time this is clicked, mark it
+        $("#olives").addClass("clickedolives");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/olives.txt", success: function(result){
+         $("#olives").html(result);
+        }});
+    }
+   });
+  // Grab olives on click end
+	
   // Grab perfumes on click start
   $("#perfumesbtn").click(function() {
     if ($("#perfumes").hasClass("clickedperfumes")) {
@@ -3262,7 +3280,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (7)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (7)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (10)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (10)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Human Food Grains</span><span id="ro">Cereale Consum Uman</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Rice</span><span id="ro">Orez</span></h5>    
@@ -3290,7 +3308,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Green Robusta Coffee Beans</span><span id="ro">Boabe Cafea Robusta Verde</span></h5>
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Olives</span><span id="ro">Măsline</span></h5>
+  <h5 class="categoryaccordion" ><span id="en">Olives (3)</span><span id="ro">Măsline (3)</span></h5>
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Spices and Herbs</span><span id="ro">Ierburi și Condimente</span></h5>
   <div class="rowbin" >-</div> 	
