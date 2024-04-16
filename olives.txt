@@ -39,11 +39,19 @@
 
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OLV002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Olives in brine - Turkey</span><span id="ro">Măsline în saramură - Turcia</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Turkey</span><span id="ro">Turcia</span></td></tr>
+
+<tr><td>Formula 1</td><td>825 RON / 3.6kg <span id="en">Region Balıkesir - Turkey - olive cultivar</span><span id="ro">Regiune Marmara - Balıkesir - soi de măslin</span> Ayvalık <a style="color:gold;" href="https://magaza.ozgunzeytin.com.tr" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 2</td><td>945 RON / 3.5kg <span id="en">Region Manisa - Turkey - olive cultivar</span><span id="ro">Regiune Manisa - Balıkesir - soi de măslin</span> Domat <a style="color:gold;" href="https://magaza.ozgunzeytin.com.tr" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 3</td><td>975 RON / 3.9kg <span id="en">Region Marmara - Turkey - olive cultivar</span><span id="ro">Regiune Marmara - Turcia - soi de măslin</span> Gemlik <a style="color:gold;" href="https://magaza.ozgunzeytin.com.tr" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">not este inclus</span></td></tr>
 
 
-<tr><td>Formula 1</td><td>78 RON / 2.5kg <span id="en">Region Marmara - Turkey - olive cultivar</span><span id="ro">Regiune Marmara - Turcia - soi de măslin</span> Gemlik <a style="color:gold;" href="https://magazin.yunus.ro/cumpara/masline-gemlik-naturale-cutie-2-5kg-yunus-519" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Memecik</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Domat</td></tr>
+
+
 
 Israel
 <tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Nabali / Baladi</td></tr>
@@ -53,6 +61,11 @@ Maroc
 
 SUA
 <tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Mission</td></tr>
+
+
+
+
+
 
 </tbody>
 
