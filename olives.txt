@@ -19,29 +19,18 @@
 <tr><td>Formula 13</td><td>10 EUR / kg <span id="en">Region Málaga - Spain - olive cultivar</span><span id="ro">Regiune Málaga - Spania - soi de măslin</span> Aloreña <a style="color:gold;" href="https://olivascaseras.com" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></td></tr>
 <tr><td>Formula 14</td><td>13.5 EUR / kg <span id="en">Region Sevilia - Spain - olive cultivar</span><span id="ro">Regiune Sevilia - Spania - soi de măslin</span> Gordal <a style="color:gold;" href="https://olivascaseras.com" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></td></tr>
 
-<tr><td>Formula 1</td><td>- EUR / kg <span id="en">Region Crete - Greece - olive cultivar</span><span id="ro">Regiune Creta - Grecia - soi de măslin</span> Throumbolia <a style="color:gold;" href="https://ladasfoods.gr/en/product/throumba-olives-whole-vacuum-5kg-elia-elia/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>- EUR / kg <span id="en">Region Thassos - Greece - olive cultivar</span><span id="ro">Regiune Thassos - Grecia - soi de măslin</span> Thassos <a style="color:gold;" href="/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>- EUR / kg <span id="en">Region Thassos - Greece - olive cultivar</span><span id="ro">Regiune Thassos - Grecia - soi de măslin</span> Halkidiki <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 15</td><td>- EUR / kg <span id="en">Region Crete - Greece - olive cultivar</span><span id="ro">Regiune Creta - Grecia - soi de măslin</span> Throumbolia <a style="color:gold;" href="https://ladasfoods.gr/en/product/throumba-olives-whole-vacuum-5kg-elia-elia/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 16</td><td>- EUR / kg <span id="en">Region Thassos - Greece - olive cultivar</span><span id="ro">Regiune Thassos - Grecia - soi de măslin</span> Thassos <a style="color:gold;" href="/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 17</td><td>- EUR / kg <span id="en">Region Halkidiki - Greece - olive cultivar</span><span id="ro">Regiune Halkidiki - Grecia - soi de măslin</span> Halkidiki / Hondroelia <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 18</td><td>- EUR / kg <span id="en">Region Kalamata - Greece - olive cultivar</span><span id="ro">Regiune Kalamata - Grecia - soi de măslin</span> Kalamata <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 19</td><td>- EUR / kg <span id="en">Region Crete - Greece - olive cultivar</span><span id="ro">Regiune Creta - Grecia - soi de măslin</span> Mastoidis / Tsounati <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 20</td><td>- EUR / kg <span id="en">Region Phocis - Greece - olive cultivar</span><span id="ro">Regiune Phocis - Grecia - soi de măslin</span> Amfissa / Conservolea <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
 
-
-
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Kalamata</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Mastoidis / Tsounati</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Amfissa</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Conservolea</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Hondroelia</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Hondroelia</td></tr>
-
-
-
-Franta
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Beruguette / Aglandau </td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Lucques</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Picholine</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Germaine</td></tr>
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Nyons / Tanche</td></tr>
-
-
+<tr><td>Formula 21</td><td>- EUR / kg <span id="en">Region Provence - France - olive cultivar</span><span id="ro">Regiune Provence - Franța - soi de măslin</span> Beruguette / Aglandau <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 22</td><td>- EUR / kg <span id="en">Region Languedoc - France - olive cultivar</span><span id="ro">Regiune Languedoc - Franța - soi de măslin</span> Lucques <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 23</td><td>- EUR / kg <span id="en">Region Occitania - France - olive cultivar</span><span id="ro">Regiune Occitania - Franța - soi de măslin</span> Picholine <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 24</td><td>- EUR / kg <span id="en">Region Corsica - France - olive cultivar</span><span id="ro">Regiune Corsica - Franța - soi de măslin</span> Picholine <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 25</td><td>- EUR / kg <span id="en">Region Provence-Alpes-Côte d'Azur - France - olive cultivar</span><span id="ro">Regiune Provence-Alpes-Côte d'Azur - Franța - soi de măslin</span> Nyons / Tanche <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
 
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
