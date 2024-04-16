@@ -2,8 +2,9 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Vegetables</span><span id="ro">Legume</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
 
-<tr><td>Formula 1</td><td>1.7 RON / kg <span id="en">Pink potatoes</span><span id="ro">Cartofi roz</span></td></tr>
-<tr><td>Formula 2</td><td>1.7 RON / kg <span id="en">White potatoes</span><span id="ro">Cartofi albi</span></td></tr>
+<tr><td>Formula 1</td><td>1.8 RON / kg <span id="en">Pink potatoes</span><span id="ro">Cartofi roz</span></td></tr>
+<tr><td>Formula 2</td><td>1.8 RON / kg <span id="en">White potatoes</span><span id="ro">Cartofi albi</span></td></tr>
+<tr><td>Formula 3</td><td>7 RON / kg <span id="en">Sweet potatoes</span><span id="ro">Cartofi dulci</span></td></tr>
 
 <tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various European Union suppliers</span><span id="ro">Furnizori din Uniunea Europeană</span></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
@@ -37,7 +38,6 @@ if (class_ro === "new") {
     <tr><td><span id="en">Shallots</span><span id="ro">Ceapă Shallots</span> </td><td>-</td><td>-</td></tr>   
     <tr><td><span id="en">Green onion</span><span id="ro">Ceapă Verde</span> </td><td>-</td><td>-</td></tr>     
     <tr><td><span id="en">White garlic</span><span id="ro">Usturoi alb</span> </td><td>-</td><td>-</td></tr>     
-    <tr><td><span id="en">Sweet potatoes</span><span id="ro">Cartofi dulci</span> </td><td>-</td><td>-</td></tr>     
     <tr><td><span id="en">Yams</span><span id="ro">Yams</span> </td><td>-</td><td>-</td></tr>     
     <tr><td><span id="en">Cassava</span><span id="ro">Cassava</span> </td><td>-</td><td>-</td></tr>     
     <tr><td><span id="en">Manioc</span><span id="ro">Manioc</span> </td><td>-</td><td>-</td></tr>     
