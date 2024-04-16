@@ -118,6 +118,21 @@ $(document).ready(function() {
 <script>
 $(document).ready(function () { 
 
+  // Grab vegetables on click start
+  $("#vegetablesbtn").click(function() {
+    if ($("#vegetables").hasClass("clickedvegetables")) {
+        // already been clicked once, hide it
+        $("#vegetables").html("");
+        $( "#vegetables" ).removeClass( "clickedvegetables" )
+    }else {
+        // first time this is clicked, mark it
+        $("#vegetables").addClass("clickedvegetables");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/vegetables.txt", success: function(result){
+         $("#vegetables").html(result);
+        }});
+    }
+   });
+  // Grab vegetables on click end
 	
 
   // Grab magazines on click start
@@ -3236,8 +3251,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Pulses</span><span id="ro">Păstăioase</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Vegetables</span><span id="ro">Legume</span></h5>
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="vegetablesbtn" ><span id="en">Vegetables (1)</span><span id="ro">Legume (1)</span></h5>
+   <table id="vegetables" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
   <h5 class="categoryaccordion" ><span id="en">Microgreens</span><span id="ro">Microgreens</span></h5>
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Fruits</span><span id="ro">Fructe</span></h5>
