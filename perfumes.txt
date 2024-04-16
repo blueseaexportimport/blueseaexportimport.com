@@ -55,6 +55,28 @@
 <tr><td>Formula 6</td><td>95 EUR / 30ml - Champ Bleu du Ciel - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/champ-bleu-du-ciel-1" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
 <tr><td>Formula 7</td><td>95 EUR / 30ml - L'Invitation au Voyage - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/linvitation-au-voyage" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
 
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(P) Perfume - Men</span><span id="ro">(P) Parfum - Bărbați</span></td><td></td></tr>
+
+<tr><td>Formula 1</td><td>120 EUR / 75ml - Pour Un Homme de CARON Parfum - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/pour-un-homme-de-caron-parfum" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 2</td><td>220 EUR / 30ml - Tabac Blond - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/tabac-blond-1" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 3</td><td>220 EUR / 30ml - Pois de Senteur - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/pois-de-senteur" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(EdP) Eau de Parfum - Men</span><span id="ro">(EdP) Eau de Parfum - Bărbați</span></td><td></td></tr>
+
+<tr><td>Formula 1</td><td>39 EUR / 12ml - Pour Un Homme de CARON Le Soir - Vaporisateur Voyage - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/vaporisateur-12-ml-pour-un-homme-le-soir" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 2</td><td>97 EUR / 75ml - Pour Un Homme de CARON Le Soir - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/pour-un-homme-de-caron-le-soir" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 3</td><td>140 EUR / 30ml - Vétiver Infini - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/vetiver-infini" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 4</td><td>140 EUR / 30ml - Poivre Sacré - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/poivre-sacre" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 5</td><td>140 EUR / 30ml - Santal Précieux - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/santal-precieux" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 6</td><td>140 EUR / 30ml - Tabac Exquis - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/tabac-exquis" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 7</td><td>140 EUR / 30ml - Tabac Blanc - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/tabac-blanc-2" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 8</td><td>140 EUR / 30ml - Tabac Noir - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/tabac-noir" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 9</td><td>140 EUR / 30ml - Rose Ébène De Caron - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/rose-ebene" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 10</td><td>140 EUR / 30ml - Narcisse Blanc - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/narcisse-blanc" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 11</td><td>370 EUR / 2 x 50ml - Coffret Duo Tabacs - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/coffret-tabacs" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+
+
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
