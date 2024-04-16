@@ -53,7 +53,7 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Olives in brine - USA</span><span id="ro">Măsline în saramură - SUA</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Turkey</span><span id="ro">Turcia</span></td></tr>
 
-<tr><td>Formula 1</td><td>10 USD / 383g <span id="en">Region California - USA - olive cultivar</span><span id="ro">Regiune California - SUA - soi de măslin</span> Ayvalık <a style="color:gold;" href="https://temeculaoliveoil.com/product/mission-olives/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>10 USD / 381g <span id="en">Region California - USA - olive cultivar</span><span id="ro">Regiune California - SUA - soi de măslin</span> Ayvalık <a style="color:gold;" href="https://temeculaoliveoil.com/product/mission-olives/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
 
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">not este inclus</span></td></tr>
 
