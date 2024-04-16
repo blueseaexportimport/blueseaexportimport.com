@@ -49,22 +49,13 @@
 
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">not este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OLV003</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Olives in brine - USA</span><span id="ro">Măsline în saramură - SUA</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Turkey</span><span id="ro">Turcia</span></td></tr>
 
+<tr><td>Formula 1</td><td>10 USD / 383g <span id="en">Region California - USA - olive cultivar</span><span id="ro">Regiune California - SUA - soi de măslin</span> Ayvalık <a style="color:gold;" href="https://temeculaoliveoil.com/product/mission-olives/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
 
-
-
-Israel
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Nabali / Baladi</td></tr>
-
-Maroc
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Beldi</td></tr>
-
-SUA
-<tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Mission</td></tr>
-
-
-
-
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">not este inclus</span></td></tr>
 
 
 </tbody>
