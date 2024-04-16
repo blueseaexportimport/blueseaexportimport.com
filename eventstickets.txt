@@ -50,7 +50,7 @@
 <tr><td>Formula 4</td><td>2 RON / Adult <span id="en">Vrancea - Natural Reservation Park Putna Waterfall</span><span id="ro">Vrancea - Rezervația Naturală Cascada Putnei</span></td></tr>
 <tr><td>Formula 5</td><td>3 RON / Adult <span id="en">Vrancea - Natural Reservation Park Tișița</span><span id="ro">Vrancea - Rezervația Naturală Tișița</span></td></tr>
 <tr><td>Formula 6</td><td>- / Adult <span id="en">Vrancea - Memorial House "Duiliu Zamfirescu" Faraoane - closed for restoration</span><span id="ro">Vrancea - Casa Memorială "Duiliu Zamfirescu" Faraoane - inchis pentru restaurare</span></td></tr>
-<tr><td>Formula 7</td><td>- / Adult <span id="en">Vrancea Museum - History Museum Focșani - closed for restoration</span><span id="ro">Muzeul Vrancei - Muzeul de Istorie Focșani - inchis pentru restaurare</span></td></tr>
+<tr><td>Formula 7</td><td>- / Adult <span id="en">Vrancea Museum - Department History and Archaeology Focșani - closed for restoration</span><span id="ro">Muzeul Vrancei - Secția de Istorie și Arheologie Focșani - inchis pentru restaurare</span></td></tr>
 <tr><td>Formula 8</td><td>10 RON / Adult <span id="en">Vrancea Museum - Department of Natural Sciences</span><span id="ro">Muzeul Vrancei - Secția de Științe ale Naturii</span></td></tr>
 <tr><td>Formula 9</td><td>10 RON / Adult <span id="en">Vrancea Museum - Union Museum Focșani</span><span id="ro">Muzeul Vrancei - Muzeul Unirii Focșani</span></td></tr>
 <tr><td>Formula 10</td><td>10 RON / Adult <span id="en">Vrancea Museum - Focsani Mausoleum</span><span id="ro">Muzeul Vrancei - Mausoleul Focșani</span></td></tr>
