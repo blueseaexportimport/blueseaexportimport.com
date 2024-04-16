@@ -19,7 +19,7 @@
 <tr><td>Formula 13</td><td>10 EUR / kg <span id="en">Region Málaga - Spain - olive cultivar</span><span id="ro">Regiune Málaga - Spania - soi de măslin</span> Aloreña <a style="color:gold;" href="https://olivascaseras.com" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></td></tr>
 <tr><td>Formula 14</td><td>13.5 EUR / kg <span id="en">Region Sevilia - Spain - olive cultivar</span><span id="ro">Regiune Sevilia - Spania - soi de măslin</span> Gordal <a style="color:gold;" href="https://olivascaseras.com" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></td></tr>
 
-
+<tr><td>Formula 1</td><td>- EUR / kg <span id="en">Region Crete - Greece - olive cultivar</span><span id="ro">Regiune Creta - Grecia - soi de măslin</span> Throumbolia <a style="color:gold;" href="https://ladasfoods.gr/en/product/throumba-olives-whole-vacuum-5kg-elia-elia/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
 
 <tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Thassos</td></tr>
 <tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Halkidiki</td></tr>
@@ -29,7 +29,7 @@
 <tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Conservolea</td></tr>
 <tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Hondroelia</td></tr>
 <tr><td>Formula 1</td><td>0.0 EUR / kg <span id="en">olive cultivar</span><span id="ro">soi de măslin</span> Hondroelia</td></tr>
-<tr><td>Formula 1</td><td>- EUR / kg <span id="en">Region Crete - Greexe - olive cultivar</span><span id="ro">Regiune Creta - Grecia - soi de măslin</span> Throumbolia <a style="color:gold;" href="https://ladasfoods.gr/en/product/throumba-olives-whole-vacuum-5kg-elia-elia/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+
 
 
 Franta
