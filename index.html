@@ -118,6 +118,22 @@ $(document).ready(function() {
 <script>
 $(document).ready(function () { 
 
+  // Grab perfumes on click start
+  $("#perfumesbtn").click(function() {
+    if ($("#perfumes").hasClass("clickedperfumes")) {
+        // already been clicked once, hide it
+        $("#perfumes").html("");
+        $( "#perfumes" ).removeClass( "clickedperfumes" )
+    }else {
+        // first time this is clicked, mark it
+        $("#perfumes").addClass("clickedperfumes");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/perfumes.txt", success: function(result){
+         $("#perfumes").html(result);
+        }});
+    }
+   });
+  // Grab perfumes on click end
+
   // Grab vegetables on click start
   $("#vegetablesbtn").click(function() {
     if ($("#vegetables").hasClass("clickedvegetables")) {
@@ -134,7 +150,6 @@ $(document).ready(function () {
    });
   // Grab vegetables on click end
 	
-
   // Grab magazines on click start
   $("#magazinesbtn").click(function() {
     if ($("#magazines").hasClass("clickedmagazines")) {
@@ -3061,7 +3076,7 @@ $(document).ready(function () {
   </table>  
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>R. PERSONAL CARE AND HYGIENE (99)</b></span> <span id="ro"><b>R. IGIENĂ ȘI ÎNGRIJIRE PERSONALĂ (99)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>R. PERSONAL CARE AND HYGIENE (100)</b></span> <span id="ro"><b>R. IGIENĂ ȘI ÎNGRIJIRE PERSONALĂ (100)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="householditemsbtn" ><span id="en">Household Items (39)</span><span id="ro">Articole Uz Caznic (39)</span></h5>    
    <table id="householditems" class="categorypanel"  >
    <!-- Load info start --> 
@@ -3117,8 +3132,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
   </table>   	
-   <h5 class="categoryaccordion" ><span id="en">Perfumes</span><span id="ro">Parfumuri</span></h5>    	      
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="perfumesbtn" ><span id="en">Perfumes (1)</span><span id="ro">Parfumuri (1)</span></h5>    	      
+  <table id="perfumes" class="categorypanel"  >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+  </table>  	
    <h5 class="categoryaccordion" id="essentialoilsbtn" ><span id="en">Essential oils (2)</span><span id="ro">Uleiuri esențiale (2)</span></h5>    
   <table id="essentialoils" class="categorypanel"  >
    <!-- Load info start --> 
