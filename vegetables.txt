@@ -5,7 +5,7 @@
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">VEG001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Vegetables</span><span id="ro">Legume</span></td></tr>
 <tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >International</span><span id="ro">Internațional</span></td></tr>
-<tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en">Vegetables calibre size unknown, vegetables are a seasonal produc, suppliers can change there is no contract, prices are only informal</span><span id="ro">Calibru legume necunoscut, legumele sunt un produs sezonier, furnizori se pot schimaba nu există contract, prețul este doar estimativ</span></td></tr>
+<tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en">Vegetables calibre size unknown, vegetables are a seasonal product, suppliers can change there is no contract, prices are only informal</span><span id="ro">Calibru legume necunoscut, legumele sunt un produs sezonier, furnizori se pot schimaba nu există contract, prețul este doar estimativ</span></td></tr>
 
 <tr><td>Formula 1</td><td>0 RON / kg <span id="en">Pink potatoes</span><span id="ro">Cartofi roz</span></td></tr>
 <tr><td>Formula 2</td><td>0 RON / kg <span id="en">White potatoes</span><span id="ro">Cartofi albi</span></td></tr>
