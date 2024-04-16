@@ -1,4 +1,34 @@
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">VEG001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Vegetables</span><span id="ro">Legume</span></td></tr>
+<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
 
+<tr><td>Formula 1</td><td>1.7 RON / kg <span id="en">Pink potatoes</span><span id="ro">Cartofi roz</span></td></tr>
+<tr><td>Formula 2</td><td>1.7 RON / kg <span id="en">White potatoes</span><span id="ro">Cartofi albi</span></td></tr>
+
+<tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various European Union suppliers</span><span id="ro">Furnizori din Uniunea Europeană</span></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+</tbody>
+
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
+
+
+<!--
    <tr><td><span id="en">Celery root</span><span id="ro">Rădăcină de țelină</span></td><td>-</td><td>-</td></tr>    
     <tr><td><span id="en">Parsnip</span><span id="ro">Păstârnac</span></td><td>-</td><td>-</td></tr>    
     <tr><td><span id="en">Carrots with leaves</span><span id="ro">Morcovi cu frunze</span></td></td><td>-</td><td>-</td></tr>    
@@ -7,7 +37,6 @@
     <tr><td><span id="en">Shallots</span><span id="ro">Ceapă Shallots</span> </td><td>-</td><td>-</td></tr>   
     <tr><td><span id="en">Green onion</span><span id="ro">Ceapă Verde</span> </td><td>-</td><td>-</td></tr>     
     <tr><td><span id="en">White garlic</span><span id="ro">Usturoi alb</span> </td><td>-</td><td>-</td></tr>     
-    <tr><td><span id="en">Pink and white potatoes</span><span id="ro">Cartofi roz sau albi</span> </td><td>-</td><td>-</td></tr>     
     <tr><td><span id="en">Sweet potatoes</span><span id="ro">Cartofi dulci</span> </td><td>-</td><td>-</td></tr>     
     <tr><td><span id="en">Yams</span><span id="ro">Yams</span> </td><td>-</td><td>-</td></tr>     
     <tr><td><span id="en">Cassava</span><span id="ro">Cassava</span> </td><td>-</td><td>-</td></tr>     
@@ -48,3 +77,4 @@
     <tr><td><span id="en">Bush Green Beans</span><span id="ro">Păstăi fasole verzi  - tufe</span></td><td>-</td><td>-</td></tr>   
     <tr><td><span id="en">Pole Green Beans</span><span id="ro">Păstăi fasole verzi - urcătoare</span></td><td>-</td><td>-</td></tr>    
     <tr><td><span id="en">Amla Berries</span><span id="ro">Coacăze indiene</span></td><td>-</td><td>-</td></tr>  
+-->
