@@ -1,7 +1,5 @@
 <tbody>
 
-
-
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CRY001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Dry Ice</span><span id="ro">Gheață carbonică</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
@@ -101,7 +99,6 @@
 
 
        <tr><td>Natural Refrigerant R-718 (Water)</td><td>-</td><td>-</td></tr>    
-       <tr><td>Natural Refrigerant R-729 (Air)</td><td>-</td><td>-</td></tr> 
 
 
 
