@@ -98,7 +98,17 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 
-       <tr><td>Natural Refrigerant R-718 (Water)</td><td>-</td><td>-</td></tr>    
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CRY006</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Utrapure water (UPW) - Apex</span><span id="ro">Apă demineralizată ultrapură - Apex</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+
+<tr><td>Formula 1</td><td>1 RON / L 1<span id="en" >pcs</span><span id="ro">buc</span> x 5L ( 5 RON )</td></tr>
+<tr><td>Formula 2</td><td>0.95 RON / L 120<span id="en" >pcs</span><span id="ro">buc</span> x 5L ( 570 RON )</td></tr>
+<tr><td>Formula 3</td><td>0.9 RON / L 360<span id="en" >pcs</span><span id="ro">buc</span> x 5L ( 1620 RON )</td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.apex-shop.ro/prod_show.php?grupaid=1244" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
 
 
 
