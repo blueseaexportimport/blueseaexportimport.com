@@ -118,7 +118,22 @@ $(document).ready(function() {
 <script>
 $(document).ready(function () { 
 
-
+  // Grab cryogenicequipment on click start
+  $("#cryogenicequipmentbtn").click(function() {
+    if ($("#cryogenicequipment").hasClass("clickedcryogenicequipment")) {
+        // already been clicked once, hide it
+        $("#cryogenicequipment").html("");
+        $( "#cryogenicequipment" ).removeClass( "clickedcryogenicequipment" )
+    }else {
+        // first time this is clicked, mark it
+        $("#cryogenicequipment").addClass("clickedolives");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/cryogenicequipment.txt", success: function(result){
+         $("#cryogenicequipment").html(result);
+        }});
+    }
+   });
+  // Grab cryogenicequipment on click end
+	
 
   // Grab olives on click start
   $("#olivesbtn").click(function() {
@@ -2451,7 +2466,7 @@ $(document).ready(function () {
    </table>	 	  
    </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (0)</b></span><span id="ro"><b>G. ȘCOALĂ, HIGH-TECH, AEROSPAȚIAL ȘI CERCETARE (0)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (7)</b></span><span id="ro"><b>G. ȘCOALĂ, HIGH-TECH, AEROSPAȚIAL ȘI CERCETARE (7)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="didacticmaterialsbtn" ><span id="en">Didactic Materials</span><span id="ro">Materiale Didactice</span></h5>    
    <table id="didacticmaterials" class="categorypanel" >
    <!-- Load info start --> 
@@ -2462,7 +2477,7 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </table>	
-  <h5 class="categoryaccordion" id="cryogenicequipmentbtn" ><span id="en">Cryogenic equipment and eco cryogeninc agents</span><span id="ro">Echipamente criogenice și agenți criogenici</span></h5>
+  <h5 class="categoryaccordion" id="cryogenicequipmentbtn" ><span id="en">Cryogenic equipment and cryogeninc agents (7)</span><span id="ro">Echipamente criogenice și agenți criogenici (7)</span></h5>
    <table id="cryogenicequipment" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
