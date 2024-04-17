@@ -44,40 +44,62 @@
 <tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(EdT) Eau de Toilette - For Women</span><span id="ro">(EdT) Eau de Toilette - Pentru Femei</span></td><td></td></tr>
 
 <tr><td>Formula 1</td><td>22 EUR / 50ml - Narcisse - <a style="color:gold;" href="https://www.fragonard.com/fr-int/narcisse/narcisse-p-2594.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>22 EUR / 50ml - Lilas - <a style="color:gold;" href="https://www.fragonard.com/fr-int/lilas/lilas-p-2802.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>28 EUR / 100ml - Fragonard - <a style="color:gold;" href="https://www.fragonard.com/fr-int/fragonard/fragonard-p-1180-o-38.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>35 EUR / 100ml - Jasmin - <a style="color:gold;" href="https://www.fragonard.com/fr-int/jasmin/jasmin-p-1040.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 2</td><td>22 EUR / 50ml - Lilas - <a style="color:gold;" href="https://www.fragonard.com/fr-int/lilas/lilas-p-2802.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 3</td><td>28 EUR / 100ml - Fragonard - <a style="color:gold;" href="https://www.fragonard.com/fr-int/fragonard/fragonard-p-1180-o-38.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 4</td><td>35 EUR / 100ml - Jasmin - <a style="color:gold;" href="https://www.fragonard.com/fr-int/jasmin/jasmin-p-1040.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 5</td><td>40 EUR / 100ml - Beau de Provence - <a style="color:gold;" href="https://www.fragonard.com/fr-int/beau-de-provence/beau-de-provence-p-1620.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 6</td><td>40 EUR / 100ml - Belle d'Arles - <a style="color:gold;" href="https://www.fragonard.com/fr-int/belle-d-arles/belle-d-arles-p-2282.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 7</td><td>40 EUR / 100ml - Belle de Paris - <a style="color:gold;" href="https://www.fragonard.com/fr-int/belle-de-paris/belle-de-paris-p-2272.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 8</td><td>40 EUR / 100ml - Bel Oranger - <a style="color:gold;" href="https://www.fragonard.com/fr-int/bel-oranger/bel-oranger-p-2539.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 9</td><td>40 EUR / 100ml - Belle de Grasse - <a style="color:gold;" href="https://www.fragonard.com/fr-int/belle-de-grasse/belle-de-grasse-p-1619.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 10</td><td>75 EUR / 600ml - Belle de Nuit - <a style="color:gold;" href="https://www.fragonard.com/fr-int/belle-de-nuit/belle-de-nuit-p-1059-o-139.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 11</td><td>75 EUR / 600ml - Belle de Soleil - <a style="color:gold;" href="https://www.fragonard.com/fr-int/belle-de-soleil/belle-de-soleil-p-1084-o-141.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 12</td><td>75 EUR / 600ml - Belle Chérie - <a style="color:gold;" href="https://www.fragonard.com/fr-int/belle-cherie/belle-cherie-p-1048-o-133.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 13</td><td>75 EUR / 600ml - Eau des Vacances - <a style="color:gold;" href="https://www.fragonard.com/fr-int/eau-des-vacances/eau-des-vacances-p-1138-o-149.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 14</td><td>75 EUR / 600ml - Reine des Coeurs - <a style="color:gold;" href="https://www.fragonard.com/fr-int/reine-des-coeurs/reine-des-coeurs-p-1575-o-239.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 15</td><td>75 EUR / 600ml - Eau Du Bonheur - <a style="color:gold;" href="https://www.fragonard.com/fr-int/eau-du-bonheur/eau-du-bonheur-p-1916-o-147.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 16</td><td>75 EUR / 600ml - Rêve Indien - <a style="color:gold;" href="https://www.fragonard.com/fr-int/reve-indien/reve-indien-p-2478-o-575.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 17</td><td>75 EUR / 600ml - Fragonard - Nouvelle Fragrance - <a style="color:gold;" href="https://www.fragonard.com/fr-int/fragonard-nouvelle-fragrance/fragonard-nouvelle-fragrance-p-2905.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 18</td><td>75 EUR / 600ml - Etoile - <a style="color:gold;" href="https://www.fragonard.com/fr-int/etoile/etoile-p-2914.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 19</td><td>75 EUR / 600ml - Frivole - <a style="color:gold;" href="https://www.fragonard.com/fr-int/frivole/frivole-p-2918.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 20</td><td>75 EUR / 600ml - Emilie - <a style="color:gold;" href="https://www.fragonard.com/fr-int/emilie/emilie-p-1184-o-255.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 21</td><td>75 EUR / 600ml - Verveine - <a style="color:gold;" href="https://www.fragonard.com/fr-int/verveine/verveine-p-1429-o-261.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 22</td><td>75 EUR / 600ml - Rose de Mai - <a style="color:gold;" href="https://www.fragonard.com/fr-int/rose-de-mai/rose-de-mai-p-1433-o-262.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 23</td><td>75 EUR / 600ml - Fleur d'Oranger - <a style="color:gold;" href="https://www.fragonard.com/fr-int/fleur-d-oranger/fleur-d-oranger-p-1437-o-267.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 24</td><td>75 EUR / 600ml - Pivoine - <a style="color:gold;" href="https://www.fragonard.com/fr-int/pivoine/pivoine-p-1450-o-270.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 25</td><td>75 EUR / 600ml - Vetiver - <a style="color:gold;" href="https://www.fragonard.com/fr-int/vetiver/vetiver-p-1456-o-235.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 26</td><td>75 EUR / 600ml - Patchouli - <a style="color:gold;" href="https://www.fragonard.com/fr-int/patchouli/patchouli-p-1457-o-236.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 27</td><td>75 EUR / 600ml - Diamant - <a style="color:gold;" href="https://www.fragonard.com/fr-int/diamant/diamant-p-1121-o-145.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(EdP) Eau de Parfum - For Men</span><span id="ro">(EdP) Eau de Parfum - Pentru Bărbați</span></td><td></td></tr>
+
+<tr><td>Formula 1</td><td>40 EUR / 50ml - Ma Bergamote - <a style="color:gold;" href="https://www.fragonard.com/fr-int/ma-bergamote/ma-bergamote-p-1053.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 2</td><td>40 EUR / 50ml - Mon Poivre - <a style="color:gold;" href="https://www.fragonard.com/fr-int/mon-poivre/mon-poivre-p-1512.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(EdT) Eau de Toilette - For Men</span><span id="ro">(EdT) Eau de Toilette - Pentru Bărbați</span></td><td></td></tr>
+
 <tr><td>Formula 1</td><td>40 EUR / 100ml - Beau de Provence - <a style="color:gold;" href="https://www.fragonard.com/fr-int/beau-de-provence/beau-de-provence-p-1620.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>40 EUR / 100ml - Belle d'Arles - <a style="color:gold;" href="https://www.fragonard.com/fr-int/belle-d-arles/belle-d-arles-p-2282.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>40 EUR / 100ml - Belle de Paris - <a style="color:gold;" href="https://www.fragonard.com/fr-int/belle-de-paris/belle-de-paris-p-2272.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>40 EUR / 100ml - Bel Oranger - <a style="color:gold;" href="https://www.fragonard.com/fr-int/bel-oranger/bel-oranger-p-2539.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>40 EUR / 100ml - Belle de Grasse - <a style="color:gold;" href="https://www.fragonard.com/fr-int/belle-de-grasse/belle-de-grasse-p-1619.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>75 EUR / 600ml - Belle de Nuit - <a style="color:gold;" href="https://www.fragonard.com/fr-int/belle-de-nuit/belle-de-nuit-p-1059-o-139.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>75 EUR / 600ml - Belle de Soleil - <a style="color:gold;" href="https://www.fragonard.com/fr-int/belle-de-soleil/belle-de-soleil-p-1084-o-141.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>75 EUR / 600ml - Belle Chérie - <a style="color:gold;" href="https://www.fragonard.com/fr-int/belle-cherie/belle-cherie-p-1048-o-133.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>75 EUR / 600ml - Eau des Vacances - <a style="color:gold;" href="https://www.fragonard.com/fr-int/eau-des-vacances/eau-des-vacances-p-1138-o-149.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>75 EUR / 600ml - Reine des Coeurs - <a style="color:gold;" href="https://www.fragonard.com/fr-int/reine-des-coeurs/reine-des-coeurs-p-1575-o-239.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>75 EUR / 600ml - Eau Du Bonheur - <a style="color:gold;" href="https://www.fragonard.com/fr-int/eau-du-bonheur/eau-du-bonheur-p-1916-o-147.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>75 EUR / 600ml - Rêve Indien - <a style="color:gold;" href="https://www.fragonard.com/fr-int/reve-indien/reve-indien-p-2478-o-575.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>75 EUR / 600ml - Fragonard - Nouvelle Fragrance - <a style="color:gold;" href="https://www.fragonard.com/fr-int/fragonard-nouvelle-fragrance/fragonard-nouvelle-fragrance-p-2905.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>75 EUR / 600ml - Etoile - <a style="color:gold;" href="https://www.fragonard.com/fr-int/etoile/etoile-p-2914.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>75 EUR / 600ml - Frivole - <a style="color:gold;" href="https://www.fragonard.com/fr-int/frivole/frivole-p-2918.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>75 EUR / 600ml - Emilie - <a style="color:gold;" href="https://www.fragonard.com/fr-int/emilie/emilie-p-1184-o-255.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>75 EUR / 600ml - Verveine - <a style="color:gold;" href="https://www.fragonard.com/fr-int/verveine/verveine-p-1429-o-261.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>75 EUR / 600ml - Rose de Mai - <a style="color:gold;" href="https://www.fragonard.com/fr-int/rose-de-mai/rose-de-mai-p-1433-o-262.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>75 EUR / 600ml - Fleur d'Oranger - <a style="color:gold;" href="https://www.fragonard.com/fr-int/fleur-d-oranger/fleur-d-oranger-p-1437-o-267.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>75 EUR / 600ml - Pivoine - <a style="color:gold;" href="https://www.fragonard.com/fr-int/pivoine/pivoine-p-1450-o-270.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>75 EUR / 600ml - Vetiver - <a style="color:gold;" href="https://www.fragonard.com/fr-int/vetiver/vetiver-p-1456-o-235.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
 <tr><td>Formula 1</td><td>75 EUR / 600ml - Patchouli - <a style="color:gold;" href="https://www.fragonard.com/fr-int/patchouli/patchouli-p-1457-o-236.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 1</td><td>75 EUR / 600ml - Diamant - <a style="color:gold;" href="https://www.fragonard.com/fr-int/diamant/diamant-p-1121-o-145.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>75 EUR / 600ml - Secret Absolu - <a style="color:gold;" href="https://www.fragonard.com/fr-int/secret-absolu/secret-absolu-p-1241-o-223.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>75 EUR / 600ml - Vetiver - <a style="color:gold;" href="https://www.fragonard.com/fr-int/vetiver/vetiver-p-1456-o-235.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>75 EUR / 600ml - Valentin - <a style="color:gold;" href="https://www.fragonard.com/fr-int/valentin/valentin-p-1239-o-221.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>75 EUR / 600ml - Bleu Riviera - <a style="color:gold;" href="https://www.fragonard.com/fr-int/bleu-riviera/bleu-riviera-p-3124.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>75 EUR / 600ml - Désert - <a style="color:gold;" href="https://www.fragonard.com/fr-int/desert/desert-p-1235-o-217.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>75 EUR / 600ml - Eau de Hongrie - <a style="color:gold;" href="https://www.fragonard.com/fr-int/eau-de-hongrie/eau-de-hongrie-p-1230-o-212.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>75 EUR / 600ml - Eau du Séducteur - <a style="color:gold;" href="https://www.fragonard.com/fr-int/eau-du-seducteur/eau-du-seducteur-p-1240-o-222.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>75 EUR / 600ml - Beau Gosse - <a style="color:gold;" href="https://www.fragonard.com/fr-int/beau-gosse/beau-gosse-p-1233-o-215.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>75 EUR / 600ml - Concerto - <a style="color:gold;" href="https://www.fragonard.com/fr-int/concerto/concerto-p-1232-o-214.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>75 EUR / 600ml - L'Aventurier - <a style="color:gold;" href="https://www.fragonard.com/fr-int/l-aventurier/l-aventurier-p-1238-o-220.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>75 EUR / 600ml - Homme Elegant - <a style="color:gold;" href="https://www.fragonard.com/fr-int/homme-elegant/homme-elegant-p-1237-o-219.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
 
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(EdC) Eau de Cologne - Men</span><span id="ro">(EdC) Eau de Cologne - Bărbați</span></td><td></td></tr>
 
-
+<tr><td>Formula 1</td><td>42 EUR / 200ml - Cologne Grand Luxe - <a style="color:gold;" href="https://www.fragonard.com/fr-int/cologne-grand-luxe/cologne-grand-luxe-p-1101.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
 
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PEF001</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PEF002</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Lubin Paris</span><span id="ro">Lubin Paris</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">France</span><span id="ro">Franța</span></td></tr>
 
@@ -130,7 +152,7 @@
 
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PEF002</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PEF003</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Caron Paris 1904</span><span id="ro">Caron Paris 1904</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">France</span><span id="ro">Franța</span></td></tr>
 
