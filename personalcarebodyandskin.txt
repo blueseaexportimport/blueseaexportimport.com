@@ -1,21 +1,21 @@
 <tbody>
 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0000001</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Liquid Soap with glycerin and linden extract Herbagen</span><span id="ro">Săpun lichid cu glicerină și extract de tei</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >35 RON / 1000ml</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0000002</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS002</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Facial liquid soap with cornflower extract Herbagen</span><span id="ro">Săpun lichid facial cu extract de albăstrele Herbagen</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >48 RON / 1000ml</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0000003</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS003</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Intimate liquid soap Herbagen</span><span id="ro">Săpun lichid intim Herbagen</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td><span id="en">with lavender & echinacea extract</span><span id="ro">cu extracte de lavanda si echinacea</span></td></tr>
@@ -27,7 +27,7 @@
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >60 RON / 1000ml</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0000004</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS004</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Shower gel Herbagen</span><span id="ro">Gel de duș Herbagen</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td><span id="en">coconut and vanilla</span><span id="ro">vanilie și cocos</span></td></tr>
@@ -54,7 +54,7 @@
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >42 RON / 1000ml</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0000005</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS005</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Hand cream Herbagen</span><span id="ro">Cremă pentru mâini Herbagen</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td><span id="en">with aloe vera gel and collagen</span><span id="ro">cu gel aloe vera și colagen</span></td></tr>
@@ -65,7 +65,7 @@
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >71 RON / 1000g</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0000006</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS006</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Body cream Herbagen</span><span id="ro">Cremă de corp Herbagen</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td>83 RON / 1000g <span id="en">with mint leaves</span><span id="ro">cu extract de frunze de mentă</span></td></tr>
@@ -78,7 +78,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0000007</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS007</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Foot care cream Herbagen</span><span id="ro">Cremă îngrijire picioare Herbagen</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td>95 RON / 1000g <span id="en">KERITOGEN urea 10%</span><span id="ro">KERITOGEN urea 10%</span></td></tr>
@@ -89,7 +89,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0000008</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS008</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Face cream Herbagen</span><span id="ro">Cremă de față Herbagen</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td>71 RON / 1000g <span id="en">for men - with organic jojoba oil and vitamin A+E</span><span id="ro">pentru bărbați - cu ulei de jojoba bio si vitamina A+E</span></td></tr>
@@ -99,7 +99,7 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0000009</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS009</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Body butter Herbagen</span><span id="ro">Unt de corp Herbagen</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td>107 RON / 1000g <span id="en">vanilla & coconut</span><span id="ro">vanilie & cocos</span></td></tr>
@@ -108,7 +108,7 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0000010</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0010</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Coffee scrub Herbagen</span><span id="ro">Scrub cu cafea Herbagen</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
@@ -116,7 +116,7 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0000011</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0011</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Marigold ointment Herbagen</span><span id="ro">Unguent gălbenele Herbagen</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
@@ -124,7 +124,7 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0000012</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0012</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Body milk Herbagen</span><span id="ro">Lapte de corp Herbagen</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td><span id="en">hydrating with macadamia oil Rose</span><span id="ro">cu ulei de macadamia hidratant Rose</span></td></tr>
@@ -138,7 +138,7 @@
 <tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >49 RON / 1000ml</td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0000013</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0013</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Body oil with essential oils Herbagen</span><span id="ro">Ulei de corp cu uleiuri esențiale Herbagen</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td><span id="en">bergamot and grapefruit</span><span id="ro">bergamota și grapefruit</span></td></tr>
@@ -152,7 +152,7 @@
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS00000014</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0014</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Massage oil Herbagen</span><span id="ro">Ulei de masaj Herbagen</span></td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 <tr><td>Formula 1</td><td><span id="en">with macadamia oil and coffee</span><span id="ro">cu ulei de macadamia și cafea</span></td></tr>
