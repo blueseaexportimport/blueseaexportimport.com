@@ -89,7 +89,15 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.linde-gas.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CRY005</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Synthetic air</span><span id="ro">Aer sintetic</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
 
+<tr><td>Formula 1</td><td>350 EUR / 10m3  <span id="en" >gas synthetic air 20% oxygen tank </span><span id="ro">butelie aer sintetic 20% oxigen gaz</span> 13kg 50L 200bar</td></tr>
+<tr><td>Formula 1</td><td>600 EUR / 10m3  <span id="en" >gas synthetic air without hydrocarbons 20% oxygen tank </span><span id="ro">butelie aer sintetic fără hidrocarburi 20% oxigen gaz</span> 13kg 50L 200bar</td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.linde-gas.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 
        <tr><td>Natural Refrigerant R-718 (Water)</td><td>-</td><td>-</td></tr>    
