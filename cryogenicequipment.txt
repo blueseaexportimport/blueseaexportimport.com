@@ -48,9 +48,35 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.linde-gas.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CRY001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Nitrogen</span><span id="ro">Azot</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+
+<tr><td>Formula 1</td><td>12.35 EUR / 1.9m3  <span id="en" >gas ≥ 99.996% purity nitrogen tank </span><span id="ro">butelie azot ≥ 99.996% puritate gaz</span> 2.4kg 10L 200bar</td></tr>
+<tr><td>Formula 2</td><td>13.65 EUR / 2.1m3  <span id="en" >gas ≥ 99.996% purity nitrogen tank </span><span id="ro">butelie azot ≥ 99.996% puritate gaz</span> 2.52kg 14L 150bar</td></tr>
+<tr><td>Formula 3</td><td>24.7 EUR / 3.8m3  <span id="en" >gas ≥ 99.996% purity nitrogen tank </span><span id="ro">butelie azot ≥ 99.996% puritate gaz</span> 4.8kg 20L 200bar</td></tr>
+<tr><td>Formula 4</td><td>62.4 EUR / 9.6m3  <span id="en" >gas ≥ 99.996% purity nitrogen tank </span><span id="ro">butelie azot ≥ 99.996% puritate gaz</span> 12kg 50L 200bar</td></tr>
+<tr><td>Formula 5</td><td>85.8 EUR / 13.2m3  <span id="en" >gas ≥ 99.996% purity nitrogen tank </span><span id="ro">butelie azot ≥ 99.996% puritate gaz</span> 18kg 50L 300bar</td></tr>
+<tr><td>Formula 6</td><td>748.8 EUR / 115.2m3  <span id="en" >gas ≥ 99.996% purity nitrogen battery </span><span id="ro">baterie azot ≥ 99.996% puritate gaz</span> 144kg 800L 200bar</td></tr>
+<tr><td>Formula 7</td><td>1371.5 EUR / 211m3  <span id="en" >gas ≥ 99.996% purity nitrogen battery </span><span id="ro">baterie azot ≥ 99.996% puritate gaz</span> 288kg 800L 300bar</td></tr>
+<tr><td>Formula 8</td><td>288 EUR / 9.6m3  <span id="en" >gas ≥ 99.999% purity nitrogen tank </span><span id="ro">butelie azot ≥ 99.999% puritate gaz</span> 12kg 50L 200bar</td></tr>
+<tr><td>Formula 9</td><td>396 EUR / 13.2m3  <span id="en" >gas ≥ 99.999% purity nitrogen tank </span><span id="ro">butelie azot ≥ 99.999% puritate gaz</span> 18kg 50L 300bar</td></tr>
+<tr><td>Formula 10</td><td>3456 EUR / 115.2m3  <span id="en" >gas ≥ 99.999% purity nitrogen battery </span><span id="ro">baterie azot ≥ 99.999% puritate gaz</span> 144kg 600L 200bar</td></tr>
+<tr><td>Formula 11</td><td>6330 EUR / 211m3  <span id="en" >gas ≥ 99.999% purity nitrogen battery </span><span id="ro">baterie azot ≥ 99.999% puritate gaz</span> 288kg 800L 300bar</td></tr>
+<tr><td>Formula 12</td><td>428 EUR / 107m3  <span id="en" >liquid nitrogen ≥ 99% purity tank</span><span id="ro">butelie azot ≥ 99% puritate lichid</span> 131kg 160L</td></tr>
+<tr><td>Formula 13</td><td>616 EUR / 154m3  <span id="en" >liquid nitrogen ≥ 99% purity tank</span><span id="ro">butelie azot ≥ 99% puritate lichid</span> 320kg 240L</td></tr>
+<tr><td>Formula 14</td><td>985 EUR / 394m3  <span id="en" >liquid nitrogen ≥ 99% purity tank</span><span id="ro">butelie azot ≥ 99% puritate lichid</span> 462kg 600L</td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.linde-gas.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
+
+
+
+
+
 
        <tr><td>Natural Refrigerant R-718 (Water)</td><td>-</td><td>-</td></tr>    
-       <tr><td>Natural Refrigerant R-728 (Nitrogen)</td><td>-</td><td>-</td></tr>    
        <tr><td>Natural Refrigerant R-729 (Air)</td><td>-</td><td>-</td></tr> 
 
 
