@@ -22,6 +22,27 @@
 
 <tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(EdP) Eau de Parfum - For Women</span><span id="ro">(EdP) Eau de Parfum - Pentru Femei</span></td><td></td></tr>
 
+<tr><td>Formula 1</td><td>40 EUR / 50ml - Grenade Pivoine - <a style="color:gold;" href="https://www.fragonard.com/fr-int/grenade-pivoine/grenade-pivoine-p-1306.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>40 EUR / 50ml - Santal Cardamome - <a style="color:gold;" href="https://www.fragonard.com/fr-int/santal-cardamome/santal-cardamome-p-1303.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>40 EUR / 50ml - Rose Ambre - <a style="color:gold;" href="https://www.fragonard.com/fr-int/rose-ambre/rose-ambre-p-1302.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>40 EUR / 50ml - Mon Poivre - <a style="color:gold;" href="https://www.fragonard.com/fr-int/mon-poivre/mon-poivre-p-1512.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>40 EUR / 50ml - Ma Bergamote - <a style="color:gold;" href="https://www.fragonard.com/fr-int/ma-bergamote/ma-bergamote-p-1053.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>40 EUR / 50ml - Mon Immortelle - <a style="color:gold;" href="https://www.fragonard.com/fr-int/mon-immortelle/mon-immortelle-p-1291.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>40 EUR / 50ml - Rose Lavande - <a style="color:gold;" href="https://www.fragonard.com/fr-int/rose-lavande/rose-lavande-p-1305.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>40 EUR / 50ml - Heliotrope Gingembre - <a style="color:gold;" href="https://www.fragonard.com/fr-int/heliotrope-gingembre/heliotrope-gingembre-p-1301.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>40 EUR / 50ml - Jasmin Perle de Thé - <a style="color:gold;" href="https://www.fragonard.com/fr-int/jasmin-perle-de-the/jasmin-perle-de-the-p-1299.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>40 EUR / 50ml - Tilleul Cédrat - <a style="color:gold;" href="https://www.fragonard.com/fr-int/tilleul-cedrat/tilleul-cedrat-p-1298.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>48 EUR / 50ml - Diamant - <a style="color:gold;" href="https://www.fragonard.com/fr-int/diamant-prestige/diamant-p-1213.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>48 EUR / 50ml - Belle Chérie - <a style="color:gold;" href="https://www.fragonard.com/fr-int/belle-cherie-prestige/belle-cherie-p-1211.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>48 EUR / 50ml - Belle de Nuit - <a style="color:gold;" href="https://www.fragonard.com/fr-int/belle-de-nuit-prestige/belle-de-nuit-p-1212.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>48 EUR / 50ml - Reine des Coeurs - <a style="color:gold;" href="https://www.fragonard.com/fr-int/reine-des-coeurs-prestige/reine-des-coeurs-p-1214.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>48 EUR / 50ml - Etoile - <a style="color:gold;" href="https://www.fragonard.com/fr-int/etoile-prestige/etoile-p-1210.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>48 EUR / 50ml - Fleur d'Oranger Intense - <a style="color:gold;" href="https://www.fragonard.com/fr-int/fleur-d-oranger-intense/fleur-d-oranger-intense-p-1222.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>55 EUR / 100ml - Coeur de Soleil - <a style="color:gold;" href="https://www.fragonard.com/fr-int/coeur-de-soleil/coeur-de-soleil-p-1107-o-142.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>55 EUR / 100ml - Grain de Soleil - <a style="color:gold;" href="https://www.fragonard.com/fr-int/grain-de-soleil/grain-de-soleil-p-1226-o-186.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 1</td><td>55 EUR / 100ml - Soleil - <a style="color:gold;" href="https://www.fragonard.com/fr-int/soleil/soleil-p-1613-o-243.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+
+
 <tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(EdT) Eau de Toilette - For Women</span><span id="ro">(EdT) Eau de Toilette - Pentru Femei</span></td><td></td></tr>
 
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
