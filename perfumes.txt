@@ -1,5 +1,31 @@
 <tbody>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PEF001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Fragonard</span><span id="ro">Fragonard</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">France</span><span id="ro">Franța</span></td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(P) Perfume - For Women</span><span id="ro">(P) Parfum - Pentru Femei</span></td><td></td></tr>
+<tr><td>Formula 1</td><td>55.2 EUR / 60ml - Fragonard - <a style="color:gold;" href="https://www.fragonard.com/fr-int/fragonard/fragonard-p-2695-o-913.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 2</td><td>99 EUR / 120ml - Diamant - <a style="color:gold;" href="https://www.fragonard.com/fr-int/diamant/diamant-p-2705-o-1102.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 3</td><td>99 EUR / 120ml - Fragonard - Nouvelle Fragrance - <a style="color:gold;" href="https://www.fragonard.com/fr-int/fragonard-nouvelle-fragrance/fragonard-nouvelle-fragrance-p-2906-o-1492.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 4</td><td>99 EUR / 120ml - Etoile - <a style="color:gold;" href="https://www.fragonard.com/fr-int/etoile/etoile-p-2915-o-1504.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 5</td><td>99 EUR / 120ml - Frivole - <a style="color:gold;" href="https://www.fragonard.com/fr-int/frivole/frivole-p-2698-o-964.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 6</td><td>99 EUR / 120ml - Emilie - <a style="color:gold;" href="https://www.fragonard.com/fr-int/emilie/emilie-p-2696-o-924.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 7</td><td>99 EUR / 120ml - Ile d'Amour - <a style="color:gold;" href="https://www.fragonard.com/fr-int/ile-d-amour/ile-d-amour-p-2697-o-960.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 8</td><td>99 EUR / 120ml - Fleur d’Oranger - <a style="color:gold;" href="https://www.fragonard.com/fr-int/fleur-d-oranger/fleur-d-oranger-p-2879-o-1486.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 9</td><td>99 EUR / 120ml - Jasmin Perle de Thé - <a style="color:gold;" href="https://www.fragonard.com/fr-int/jasmin-perle-de-the/jasmin-perle-de-the-p-2723-o-1321.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 10</td><td>99 EUR / 120ml - Grenade Pivoine - <a style="color:gold;" href="https://www.fragonard.com/fr-int/grenade-pivoine/grenade-pivoine-p-2713-o-1207.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 11</td><td>99 EUR / 120ml - Heliotrope Gingembre - <a style="color:gold;" href="https://www.fragonard.com/fr-int/heliotrope-gingembre/heliotrope-gingembre-p-2724-o-1367.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 12</td><td>99 EUR / 120ml - Rose Lavande - <a style="color:gold;" href="https://www.fragonard.com/fr-int/rose-lavande/rose-lavande-p-2720-o-1275.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 13</td><td>99 EUR / 120ml - Belle Chérie - <a style="color:gold;" href="https://www.fragonard.com/fr-int/belle-cherie/belle-cherie-p-2706-o-1148.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+<tr><td>Formula 14</td><td>99 EUR / 120ml - Belle de Nuit - <a style="color:gold;" href="https://www.fragonard.com/fr-int/belle-de-nuit/belle-de-nuit-p-2704-o-1056.htm" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(EdP) Eau de Parfum - For Women</span><span id="ro">(EdP) Eau de Parfum - Pentru Femei</span></td><td></td></tr>
+
+<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(EdT) Eau de Toilette - For Women</span><span id="ro">(EdT) Eau de Toilette - Pentru Femei</span></td><td></td></tr>
+
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PEF001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Lubin Paris</span><span id="ro">Lubin Paris</span></td></tr>
