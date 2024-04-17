@@ -1,6 +1,24 @@
 <tbody>
 
 
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CRY001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Dry Ice</span><span id="ro">Gheață carbonică</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+
+<tr><td>Formula 1</td><td>250 RON / 18kg  <span id="en" >thermoresistant box</span><span id="ro">cutie termorezistentă</span> </td></tr>
+<tr><td>Formula 2</td><td>500 RON / 2 x 18kg  <span id="en" >thermoresistant box</span><span id="ro">cutie termorezistentă</span> </td></tr>
+<tr><td>Formula 3</td><td>675 RON / 3 x 18kg  <span id="en" >thermoresistant box</span><span id="ro">cutie termorezistentă</span> </td></tr>
+<tr><td>Formula 4</td><td>900 RON / 4 x 18kg  <span id="en" >thermoresistant box</span><span id="ro">cutie termorezistentă</span> </td></tr>
+<tr><td>Formula 5</td><td>1125 RON / 5 x 18kg  <span id="en" >thermoresistant box</span><span id="ro">cutie termorezistentă</span> </td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.dry-ice.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
+
+
 </tbody> 
 
 
@@ -20,7 +38,6 @@ if (class_ro === "new") {
 </script>
 
 
-       <tr><td>Dry Ice</td><td>-</td><td>-</td></tr>    
        <tr><td>Cryogenic liquid nitrogen hose</td><td>-</td><td>-</td></tr>    
        <tr><td>Cryogenic Phase Separator</td><td>-</td><td>-</td></tr>    
        <tr><td>Cryogenic Overfill Protection Device</td><td>-</td><td>-</td></tr>    
