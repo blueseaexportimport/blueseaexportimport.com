@@ -1,9 +1,68 @@
 <tbody>
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ENF001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Romanian Legislation Forms</span><span id="ro">Tipizate România </span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+<tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en">You must understand romanian language and legislation to buy this forms</span><span id="ro">Trebuie să cunoașteți limba română și legislația pentru a achiziționa aceste formulare </span></td></tr>
+
+<tr><td>Formula 1</td><td>0.2 RON / Fișă de magazie A5 - carton duplex 230 g/mp  ( 210 x 150 mm  ) </td></tr>
+<tr><td>Formula 1</td><td>2 RON / 16 file - Carnet de sănătate - hârtie offset A5 ( 110 x 170 mm ) </td></tr>
+<tr><td>Formula 1</td><td>2 RON / 8 + 1 file Dosar medical individual + Fișă aptitudini - hârtie offset + autocopiativă ( 105 x 150 mm ) </td></tr>
+<tr><td>Formula 1</td><td>3 RON / 100 file - Dispoziție casierie A6 - hârtie offset  ( 210 x 150 mm ) </td></tr>
+<tr><td>Formula 1</td><td>4.5 RON / 100 file - Dispoziție de casierie A6 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 105 x 150 mm ) </td></tr>
+<tr><td>Formula 1</td><td>4.5 RON / 100 file - Monetar A6 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 105 x 150 mm ) </td></tr>
+<tr><td>Formula 1</td><td>4.6 RON / 100 file - Chitanțier A6 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 105 x 150 mm ) </td></tr>
+<tr><td>Formula 1</td><td>7 RON / 150 file - Chitanțier A6 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 105 x 150 mm ) </td></tr>
+<tr><td>Formula 1</td><td>6 RON / 100 file - Ordin de deplasare ( delegație ) A5 - hârtie offset  ( 210 x 150 mm  ) </td></tr>
+<tr><td>Formula 1</td><td>6 RON / 100 file - Borderou achiziții - hârtie offset A5 ( 210 x 150 mm ) </td></tr>
+<tr><td>Formula 1</td><td>6 RON / 100 file - Decont cheltuieli A5 - hârtie offset  ( 210 x 150 mm ) </td></tr>
+<tr><td>Formula 1</td><td>8 RON / 100 file - Bon consum orizontal A5 ( 50 set x 2 exemplare/set) - hârtie autocopiativa ( 100 x 297 mm ) </td></tr>
+<tr><td>Formula 1</td><td>8 RON / 100 file - Dispoziție livrare A5 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 210 x 150 mm ) </td></tr>
+<tr><td>Formula 1</td><td>11.7 RON / 100 file - Notă contabilă A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
+<tr><td>Formula 1</td><td>11.7 RON / 100 file - Notă contabilă A5 - hârtie offset  ( 210 x 150 mm  ) </td></tr>
+<tr><td>Formula 1</td><td>12 RON / 100 file - Notă intrare recepție A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
+<tr><td>Formula 1</td><td>12 RON / 100 file - Raport de gestiune zilnic A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
+<tr><td>Formula 1</td><td>12 RON / 100 file - Listă inventariere A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
+<tr><td>Formula 1</td><td>12 RON / 150 file - Foaie colectivă de prezență A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
+<tr><td>Formula 1</td><td>12 RON / 100 file Registru intrare ieșire A4 - hârtie offset ( 105 x 150 mm ) </td></tr>
+<tr><td>Formula 1</td><td>12 RON / 150 file - Aviz insotire marfa A5 ( 50 set x 3 exemplare/set) - hârtie autocopiativa ( 210 x 150 mm ) </td></tr>
+<tr><td>Formula 1</td><td>24 RON / 150 file - Aviz insotire marfa A4 ( 50 set x 3 exemplare/set) - hârtie autocopiativa ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 1</td><td>12 RON / 100 file - Foaie de parcurs auto transport marfă A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
+<tr><td>Formula 1</td><td>12 RON / 100 file - Foaie de parcurs auto transport persoane A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
+<tr><td>Formula 1</td><td>12 RON / 100 file - Registru inventar A4 - hârtie offset  ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 1</td><td>12 RON / 100 file - Registru jurnal încasări și plăți A4 - hârtie offset  ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 1</td><td>12 RON / 100 file - Registru de casă A4 ( 1 exemplar ) - hârtie offset  ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 1</td><td>15.7 RON / 150 file - Registru de casă A4 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 1</td><td>15.7 RON / 100 file - Notă intrare recepție A4 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 1</td><td>12 RON / 150 file - Facturier fără TVA A5 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 210 x 150 mm ) </td></tr>
+<tr><td>Formula 1</td><td>12 RON / 150 file - Facturier A5 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 210 x 150 mm ) </td></tr>
+<tr><td>Formula 1</td><td>24 RON / 150 file - Facturier fără TVA A4 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 1</td><td>24 RON / 150 file - Facturier A4 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 1</td><td>17 RON / 100 file -  Registru intrare ieșire A4 copertat - hârtie offset  ( 210 x 297 mm ) </td></tr>
+
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
+
 
 </tbody>
 
 
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
+
+<!--
 <tr><td><span id="en">Paper Envelope C7 (90 x 140 mm) Color White</span><span id="ro">Plic din hârtie C7 (90 x 140 mm) Culoare Albă</span></td>
 <tr><td><span id="en">Paper Envelope C6 (114 x 162 mm) Color White</span><span id="ro">Plic din hârtie C6 (114 x 162 mm) Culoare Albă</span></td>
 <tr><td><span id="en">Paper Envelope DL (110 x 220 mm) Color White</span><span id="ro">Plic din hârtie DL (110 x 220 mm) Culoare Albă</span></td>
@@ -47,5 +106,7 @@
  <tr><td><span id="en">Paper Envelope S5 (185 x 255 mm ) </span><span id="ro">Plic din hârtie S5 (185 x 255 mm )</span></td><td>-</td><td>-</td></tr>        
  <tr><td><span id="en">Paper Envelope S65 (110 x 255 mm ) </span><span id="ro">Plic din hârtie S65 (110 x 255 mm )</span></td><td>-</td><td>-</td></tr>        
  <tr><td><span id="en">Paper Envelope X5 (105 x 216 mm ) </span><span id="ro">Plic din hârtie X5 (105 x 216 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope EX5 (155 x 216 mm ) </span><span id="ro">Plic din hârtie EX5 (155 x 216 mm )</span></td><td>-</td><td>-</td></tr>        
+ <tr><td><span id="en">Paper Envelope EX5 (155 x 216 mm ) </span><span id="ro">Plic din hârtie EX5 (155 x 216 mm )</span></td><td>-</td><td>-</td></tr>
+
+-->
 	   
