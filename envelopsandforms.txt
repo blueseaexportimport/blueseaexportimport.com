@@ -6,40 +6,45 @@
 <tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en">You must understand romanian language and legislation to buy this forms</span><span id="ro">Trebuie să cunoașteți limba română și legislația pentru a achiziționa aceste formulare </span></td></tr>
 
 <tr><td>Formula 1</td><td>0.2 RON / Fișă de magazie A5 - carton duplex 230 g/mp  ( 210 x 150 mm  ) </td></tr>
-<tr><td>Formula 1</td><td>2 RON / 16 file - Carnet de sănătate - hârtie offset A5 ( 110 x 170 mm ) </td></tr>
-<tr><td>Formula 1</td><td>2 RON / 8 + 1 file Dosar medical individual + Fișă aptitudini - hârtie offset + autocopiativă ( 105 x 150 mm ) </td></tr>
-<tr><td>Formula 1</td><td>3 RON / 100 file - Dispoziție casierie A6 - hârtie offset  ( 210 x 150 mm ) </td></tr>
-<tr><td>Formula 1</td><td>4.5 RON / 100 file - Dispoziție de casierie A6 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 105 x 150 mm ) </td></tr>
-<tr><td>Formula 1</td><td>4.5 RON / 100 file - Monetar A6 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 105 x 150 mm ) </td></tr>
-<tr><td>Formula 1</td><td>4.6 RON / 100 file - Chitanțier A6 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 105 x 150 mm ) </td></tr>
-<tr><td>Formula 1</td><td>7 RON / 150 file - Chitanțier A6 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 105 x 150 mm ) </td></tr>
-<tr><td>Formula 1</td><td>6 RON / 100 file - Ordin de deplasare ( delegație ) A5 - hârtie offset  ( 210 x 150 mm  ) </td></tr>
-<tr><td>Formula 1</td><td>6 RON / 100 file - Borderou achiziții - hârtie offset A5 ( 210 x 150 mm ) </td></tr>
-<tr><td>Formula 1</td><td>6 RON / 100 file - Decont cheltuieli A5 - hârtie offset  ( 210 x 150 mm ) </td></tr>
-<tr><td>Formula 1</td><td>8 RON / 100 file - Bon consum orizontal A5 ( 50 set x 2 exemplare/set) - hârtie autocopiativa ( 100 x 297 mm ) </td></tr>
-<tr><td>Formula 1</td><td>8 RON / 100 file - Dispoziție livrare A5 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 210 x 150 mm ) </td></tr>
-<tr><td>Formula 1</td><td>11.7 RON / 100 file - Notă contabilă A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
-<tr><td>Formula 1</td><td>11.7 RON / 100 file - Notă contabilă A5 - hârtie offset  ( 210 x 150 mm  ) </td></tr>
-<tr><td>Formula 1</td><td>12 RON / 100 file - Notă intrare recepție A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
-<tr><td>Formula 1</td><td>12 RON / 100 file - Raport de gestiune zilnic A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
-<tr><td>Formula 1</td><td>12 RON / 100 file - Listă inventariere A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
-<tr><td>Formula 1</td><td>12 RON / 150 file - Foaie colectivă de prezență A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
-<tr><td>Formula 1</td><td>12 RON / 100 file Registru intrare ieșire A4 - hârtie offset ( 105 x 150 mm ) </td></tr>
-<tr><td>Formula 1</td><td>12 RON / 150 file - Aviz insotire marfa A5 ( 50 set x 3 exemplare/set) - hârtie autocopiativa ( 210 x 150 mm ) </td></tr>
-<tr><td>Formula 1</td><td>24 RON / 150 file - Aviz insotire marfa A4 ( 50 set x 3 exemplare/set) - hârtie autocopiativa ( 210 x 297 mm ) </td></tr>
-<tr><td>Formula 1</td><td>12 RON / 100 file - Foaie de parcurs auto transport marfă A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
-<tr><td>Formula 1</td><td>12 RON / 100 file - Foaie de parcurs auto transport persoane A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
-<tr><td>Formula 1</td><td>12 RON / 100 file - Registru inventar A4 - hârtie offset  ( 210 x 297 mm ) </td></tr>
-<tr><td>Formula 1</td><td>12 RON / 100 file - Registru jurnal încasări și plăți A4 - hârtie offset  ( 210 x 297 mm ) </td></tr>
-<tr><td>Formula 1</td><td>12 RON / 100 file - Registru de casă A4 ( 1 exemplar ) - hârtie offset  ( 210 x 297 mm ) </td></tr>
-<tr><td>Formula 1</td><td>15.7 RON / 150 file - Registru de casă A4 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 210 x 297 mm ) </td></tr>
-<tr><td>Formula 1</td><td>15.7 RON / 100 file - Notă intrare recepție A4 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 210 x 297 mm ) </td></tr>
-<tr><td>Formula 1</td><td>12 RON / 150 file - Facturier fără TVA A5 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 210 x 150 mm ) </td></tr>
-<tr><td>Formula 1</td><td>12 RON / 150 file - Facturier A5 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 210 x 150 mm ) </td></tr>
-<tr><td>Formula 1</td><td>24 RON / 150 file - Facturier fără TVA A4 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 210 x 297 mm ) </td></tr>
-<tr><td>Formula 1</td><td>24 RON / 150 file - Facturier A4 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 210 x 297 mm ) </td></tr>
-<tr><td>Formula 1</td><td>17 RON / 100 file -  Registru intrare ieșire A4 copertat - hârtie offset  ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 2</td><td>2 RON / 16 file - Carnet de sănătate - hârtie offset A5 ( 110 x 170 mm ) </td></tr>
+<tr><td>Formula 3</td><td>2 RON / 8 + 1 file Dosar medical individual + Fișă aptitudini - hârtie offset + autocopiativă ( 105 x 150 mm ) </td></tr>
+<tr><td>Formula 4</td><td>3 RON / 100 file - Dispoziție casierie A6 - hârtie offset  ( 210 x 150 mm ) </td></tr>
+<tr><td>Formula 5</td><td>3.8 RON / 150 file - Bon de predare transfer, restituire A4 - hârtie offset  ( 1/2 din A4 ) </td></tr>
+<tr><td>Formula 6</td><td>4.5 RON / 100 file - Dispoziție de casierie A6 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 105 x 150 mm ) </td></tr>
+<tr><td>Formula 7</td><td>4.5 RON / 100 file - Monetar A6 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 105 x 150 mm ) </td></tr>
+<tr><td>Formula 8</td><td>4.6 RON / 100 file - Chitanțier A6 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 105 x 150 mm ) </td></tr>
+<tr><td>Formula 9</td><td>7 RON / 150 file - Chitanțier A6 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 105 x 150 mm ) </td></tr>
+<tr><td>Formula 10</td><td>6 RON / 100 file - Ordin de deplasare ( delegație ) A5 - hârtie offset  ( 210 x 150 mm  ) </td></tr>
+<tr><td>Formula 11</td><td>6 RON / 100 file - Borderou achiziții - hârtie offset A5 ( 210 x 150 mm ) </td></tr>
+<tr><td>Formula 12</td><td>6 RON / 100 file - Decont cheltuieli A5 - hârtie offset  ( 210 x 150 mm ) </td></tr>
+<tr><td>Formula 13</td><td>8 RON / 100 file - Bon consum orizontal A5 ( 50 set x 2 exemplare/set) - hârtie autocopiativa ( 100 x 297 mm ) </td></tr>
+<tr><td>Formula 14</td><td>8 RON / 100 file - Dispoziție livrare A5 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 210 x 150 mm ) </td></tr>
+<tr><td>Formula 15</td><td>11.7 RON / 100 file - Notă contabilă A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
+<tr><td>Formula 16</td><td>11.7 RON / 100 file - Notă contabilă A5 - hârtie offset  ( 210 x 150 mm  ) </td></tr>
+<tr><td>Formula 17</td><td>12 RON / 100 file - Notă intrare recepție A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
+<tr><td>Formula 18</td><td>12 RON / 100 file - Raport de gestiune zilnic A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
+<tr><td>Formula 19</td><td>12 RON / 100 file - Listă inventariere A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
+<tr><td>Formula 20</td><td>12 RON / 150 file - Foaie colectivă de prezență A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
+<tr><td>Formula 21</td><td>12 RON / 100 file - Registru intrare ieșire A4 - hârtie offset ( 105 x 150 mm ) </td></tr>
+<tr><td>Formula 22</td><td>12 RON / 150 file - Aviz insotire marfa A5 ( 50 set x 3 exemplare/set) - hârtie autocopiativa ( 210 x 150 mm ) </td></tr>
+<tr><td>Formula 23</td><td>24 RON / 150 file - Aviz insotire marfa A4 ( 50 set x 3 exemplare/set) - hârtie autocopiativa ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 24</td><td>12 RON / 100 file - Foaie de parcurs auto transport marfă A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
+<tr><td>Formula 25</td><td>12 RON / 100 file - Foaie de parcurs auto transport persoane A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
+<tr><td>Formula 26</td><td>12 RON / 100 file - Registru inventar A4 - hârtie offset  ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 27</td><td>12 RON / 100 file - Registru jurnal încasări și plăți A4 - hârtie offset  ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 28</td><td>12 RON / 100 file - Registru de casă A4 ( 1 exemplar ) - hârtie offset  ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 29</td><td>15.7 RON / 150 file - Registru de casă A4 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 30</td><td>15.7 RON / 100 file - Notă intrare recepție A4 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 31</td><td>17 RON / 100 file - Registru intrare ieșire A4 copertat - hârtie offset  ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 32</td><td>12 RON / 150 file - Facturier fără TVA A5 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 210 x 150 mm ) </td></tr>
+<tr><td>Formula 33</td><td>12 RON / 150 file - Facturier A5 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 210 x 150 mm ) </td></tr>
+<tr><td>Formula 34</td><td>24 RON / 150 file - Facturier fără TVA A4 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 35</td><td>24 RON / 150 file - Facturier A4 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 36</td><td>35 RON / 100 file - Registru special de evidență operațiuni cu metale prețioase A4 - hârtie offset  ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 37</td><td>40 RON / 50 file - Registrul acționarilor A4 - hârtie offset  ( 210 x 297 mm ) </td></tr>
+<tr><td>Formula 38</td><td>40 RON / 50 file - Registru de acțiuni A4 - hârtie offset  ( 210 x 297 mm ) </td></tr>
 
+<tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various Romania suppliers</span><span id="ro">Furnizori din România</span></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 
