@@ -118,6 +118,24 @@ $(document).ready(function() {
 <script>
 $(document).ready(function () { 
 
+
+
+  // Grab cookwareitems on click start
+  $("#cookwareitemsbtn").click(function() {
+    if ($("#cookwareitems").hasClass("clickedcookwareitems")) {
+        // already been clicked once, hide it
+        $("#cookwareitems").html("");
+        $( "#cookwareitems" ).removeClass( "clickedcookwareitems" )
+    }else {
+        // first time this is clicked, mark it
+        $("#cookwareitems").addClass("clickedcookwareitems");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/cookwareitems.txt", success: function(result){
+         $("#cookwareitems").html(result);
+        }});
+    }
+   });
+  // Grab cookwareitems on click end
+
   // Grab envelopsandforms on click start
   $("#envelopsandformsbtn").click(function() {
     if ($("#envelopsandforms").hasClass("clickedenvelopsandforms")) {
@@ -3392,13 +3410,16 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (65)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (65)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (66)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (66)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Echipamente morărit</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Echipamente ambalat alimente</span></h5> 
   <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" ><span id="en">Cookware Items</span><span id="ro">Articole Gătit</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="cookwareitemsbtn" ><span id="en">Cookware Items (1)</span><span id="ro">Articole Gătit (1)</span></h5>    
+   <table id="cookwareitems" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table>  	
   <h5 class="categoryaccordion" id="cookingutensilsbtn" ><span id="en">Cooking utensils (11)</span><span id="ro">Ustensile Gătit (11)</span></h5>    
    <table id="cookingutensils" class="categorypanel" >
    <!-- Load info start --> 
