@@ -119,6 +119,21 @@ $(document).ready(function() {
 $(document).ready(function () { 
 
 
+  // Grab foodgradevinegar on click start
+  $("#foodgradevinegarbtn").click(function() {
+    if ($("#cookwareitems").hasClass("clickedfoodgradevinegar")) {
+        // already been clicked once, hide it
+        $("#foodgradevinegar").html("");
+        $( "#foodgradevinegar" ).removeClass( "clickedfoodgradevinegar" )
+    }else {
+        // first time this is clicked, mark it
+        $("#foodgradevinegar").addClass("clickedfoodgradevinegar");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/foodgradevinegar.txt", success: function(result){
+         $("#foodgradevinegar").html(result);
+        }});
+    }
+   });
+  // Grab foodgradevinegar on click end
 
   // Grab cookwareitems on click start
   $("#cookwareitemsbtn").click(function() {
@@ -3410,7 +3425,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (66)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (66)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (67)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (67)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Echipamente morărit</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Echipamente ambalat alimente</span></h5> 
@@ -3455,8 +3470,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Table Salt</span><span id="ro">Sare de Masă</span></h5>
   <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" ><span id="en">Food Grade Vinegar</span><span id="ro">Oțet Alimentar</span></h5>
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="foodgradevinegarbtn" ><span id="en">Food Grade Vinegar (1)</span><span id="ro">Oțet Alimentar (1)</span></h5>
+   <table id="foodgradevinegar" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </table> 
   <h5 class="categoryaccordion" ><span id="en">Plant Based Milk</span><span id="ro">Lapte Vegetal</span></h5>
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Bottled Water</span><span id="ro">Apă Îmbuteliată</span></h5>   
