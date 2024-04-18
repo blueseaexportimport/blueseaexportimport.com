@@ -1,4 +1,26 @@
 <tbody>
+
+
+
+
+</tbody>
+
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
+
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
+
+<!--
     <tr><td><span id="en">Red wine vinegar</span><span id="ro">Oțet vin roșu</span> </td><td>-</td><td>-</td></tr> 
     <tr><td><span id="en">White wine vinegar</span><span id="ro">Oțet vin alb</span> </td><td>-</td><td>-</td></tr> 
     <tr><td><span id="en">Apple vinegar</span><span id="ro">Oțet de mere</span> </td><td>-</td><td>-</td></tr> 
@@ -7,6 +29,4 @@
     <tr><td><span id="en">Red oranges vinegar</span><span id="ro">Oțet de portocale roșii</span> </td><td>-</td><td>-</td></tr> 
     <tr><td><span id="en">Pomegranate vinegar</span><span id="ro">Oțet de rodii</span> </td><td>-</td><td>-</td></tr> 
     <tr><td><span id="en">Balsamic vinegar</span><span id="ro">Oțet balsamic</span> </td><td>-</td><td>-</td></tr> 
-
-
-</tbody>
+-->
