@@ -1,6 +1,10 @@
 <tbody>
 
-      <tr><td><span id="en">Mechanical aviator watch</span><span id="ro">Ceas de mână mecanic aviator</span> </td><td>- </td><td>-</td></tr>  
+
+</tbody>
+
+<!-- 
+       <tr><td><span id="en">Mechanical aviator watch</span><span id="ro">Ceas de mână mecanic aviator</span> </td><td>- </td><td>-</td></tr>  
        <tr><td><span id="en">Automatic military watch</span><span id="ro">Ceas de mână militar automatic</span> </td><td>- </td><td>-</td></tr> 
        <tr><td><span id="en">Quartz racing watch</span><span id="ro">Ceas de mână quartz automobiliști</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Solar diver watch</span><span id="ro">Ceas de mână scafandru solar</span> </td><td>- </td><td>-</td></tr>
@@ -20,6 +24,19 @@
        <tr><td><span id="en">Watch strap - rubber bracelet</span><span id="ro">Brățară ceas din cauciuc</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Watch strap - silicone bracelet</span><span id="ro">Brățară ceas din silicon</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Watch strap - textile bracelet</span><span id="ro">Brățară ceas textilă</span> </td><td>- </td><td>-</td></tr>
+-->
 
+<script>
+$(document).ready(function() {
+var class_ro = $('#ro_button').attr('class').split(' ')[1];
+var class_en = $('#en_button').attr('class').split(' ')[1];
 
-</tbody>
+if (class_ro === "new") {
+     $('span[id^="ro"]').show();
+     $('span[id^="en"]').hide();
+}else{
+     $('span[id^="ro"]').hide();
+     $('span[id^="en"]').show();
+}
+});
+</script>
