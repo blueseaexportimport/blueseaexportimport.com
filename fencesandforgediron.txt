@@ -52,6 +52,26 @@
 
 
 
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FEN0004</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Steel wire chain link fencing</span><span id="ro">Plasă împletită din oțel pentru împrejmuiri</span></td></tr>
+<tr><td>Standard</td><td style="color:#39ff14;" >EN 10223-6:2013</td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
+
+<tr><td>Formula 1</td><td>51.2 RON / 10m <span id="en" >roll</span><span id="ro">rolă</span> 1,6x55x55x1200 mm</td></tr>
+<tr><td>Formula 2</td><td>64.1 RON / 10m <span id="en" >roll</span><span id="ro">rolă</span> 1,6x55x55x1500 mm</td></tr>
+<tr><td>Formula 3</td><td>74.8 RON / 10m <span id="en" >roll</span><span id="ro">rolă</span> 1,6x55x55x1700 mm</td></tr>
+<tr><td>Formula 4</td><td>85.4 RON / 10m <span id="en" >roll</span><span id="ro">rolă</span> 1,6x55x55x2000 mm</td></tr>
+<tr><td>Formula 5</td><td>76 RON / 10m <span id="en" >roll</span><span id="ro">rolă</span> 2,0x55x55x1200 mm </td></tr>
+<tr><td>Formula 6</td><td>95 RON / 10m <span id="en" >roll</span><span id="ro">rolă</span> 2,0x55x55x1500 mm </td></tr>
+<tr><td>Formula 7</td><td>110.9 RON / 10m <span id="en" >roll</span><span id="ro">rolă</span> 2,0x55x55x1700 mm </td></tr>
+<tr><td>Formula 8</td><td>126.7 RON / 10m <span id="en" >roll</span><span id="ro">rolă</span> 2,0x55x55x2000 mm </td></tr>
+
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.fierctc.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+
+
 </tbody>
 
 <script>
