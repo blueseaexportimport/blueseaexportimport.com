@@ -9,11 +9,8 @@
 <tr style="background:#39ff14;" ><td style="color:black;" >The tokamak enclosure system </td><td></td></tr>
 <tr><td>Formula 1</td><td>0 RON / Cryostat and Cryostat Torus Cryopump - Dual certified 304/304L cold laminated stainless steel plates for machining ( <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a> )</td></tr>
 <tr><td>Formula 2</td><td>0 RON / Cryostat Torus Cryopump - 316LN cold laminated stainless steel plates for machining ( <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a> )</td></tr>
-<tr><td>Formula 3</td><td>0 RON / Cryostat Torus Cryopump - Activated charcoal for crypanels coating  ( <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a> )</td></tr>
-
-
-
-
+<tr><td>Formula 3</td><td>0 RON / Cryostat Torus Cryopump - CuZn25Al5 manganese bronze for machining EN 1982:2018 ( <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a> )</td></tr>
+<tr><td>Formula 4</td><td>0 RON / Cryostat Torus Cryopump - Activated charcoal for crypanels coating  ( <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a> )</td></tr>
 
 
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
