@@ -5,8 +5,8 @@
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >International</td></tr>
 
 <tr><td>Formula 1</td><td>0 RON / <span id="en" >pcs Digital smart watch</span><span id="ro">buc Ceas de mână smart digital</span></td></tr>
+<tr><td>Formula 1</td><td>0 RON / <span id="en" >pcs Digital fitness watch</span><span id="ro">buc Ceas de mână fitness digital</span></td></tr>
 <tr><td>Formula 2</td><td>0 RON / <span id="en" >pcs Stopwatch</span><span id="ro">buc Cronometru</span> Seiko Stopwatch</td></tr>
-<tr><td>Formula 3</td><td>0 RON / <span id="en" >pcs Digital fitness watch</span><span id="ro">buc Ceas de mână fitness digital</span></td></tr>
 <tr><td>Formula 4</td><td>0 RON / <span id="en" >pcs Quartz sport watch</span><span id="ro">buc Ceas de mână Quartz sport</span></td></tr>
 <tr><td>Formula 6</td><td>0 RON / <span id="en" >pcs Solar diver watch</span><span id="ro">buc Ceas de mână scafandru solar</span></td></tr>
 <tr><td>Formula 7</td><td>0 RON / <span id="en" >pcs Quartz racing watch</span><span id="ro">buc Ceas de mână quartz automobiliști</span></td></tr>
