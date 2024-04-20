@@ -12,7 +12,7 @@
 <tr><td>Formula 3</td><td>0 RON / Cryostat Torus Cryopump - CuZn25Al5 manganese bronze for machining EN 1982:2018 ( <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a> )</td></tr>
 <tr><td>Formula 4</td><td>0 RON / Cryostat Torus Cryopump - Activated coconut charcoal coating for crypanels  ( <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a> )</td></tr>
 <tr><td>Formula 5</td><td>0 RON / Cryostat Torus Cryopump - Graphitized polyimide for cryopump sliding ring  ( <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a> )</td></tr>
-<tr><td>Formula 6</td><td>0 RON / Cryostat Torus Cryopump - Hydroform Press for manufacturing components  ( <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a> )</td></tr>
+<tr><td>Formula 6</td><td>0 RON / Cryostat and Cryostat Torus Cryopump - Hydroform press for manufacturing components  ( <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a> )</td></tr>
 
 
 
