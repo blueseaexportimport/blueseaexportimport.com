@@ -7,7 +7,7 @@
 <tr><td><span id="en" >Note</span></td><td style="color:#39ff14;" >We will use only english language in this category</td></tr>
 
 <tr style="background:#39ff14;" ><td style="color:black;" >The tokamak enclosure system </td><td></td></tr>
-<tr><td>Formula 1</td><td>0 RON / Cryostat - Dual certified 304/304L laminated steel plates for machining - Standard ASTM A240 ( <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a> )</td></tr>
+<tr><td>Formula 1</td><td>0 RON / Cryostat - Dual certified 304/304L laminated stainless steel plates for machining - Standard ASTM A240 ( <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a> )</td></tr>
 
 
 
