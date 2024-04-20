@@ -4,7 +4,7 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">ITER Stellarator - Tokamak Power</span><span id="ro">ITER Stellarator - Tokamak</span></td></tr>  
 <tr><td><span id="en" >Info source</span><span id="ro">Sursă informații</span></td><td style="color:#39ff14;" >( <a style="color:gold;" href="https://www-pub.iaea.org/MTCD/Publications/PDF/ITER-EDA-DS-24.pdf" target="_blank" >ITER</a> )</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >International</td></tr>
-<tr><td><span id="en" >Note</span></td><td style="color:#39ff14;" >We will use only english language in this section</td></tr>
+<tr><td><span id="en" >Note</span></td><td style="color:#39ff14;" >We will use only english language in this category</td></tr>
 
 <tr style="background:#39ff14;" ><td style="color:black;" >The tokamak enclosure system </td><td></td></tr>
 <tr><td>Formula 1</td><td>0 RON / Cryostat - Dual certified 316/316L laminated steel plates for machining ( <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a> )</td></tr>
