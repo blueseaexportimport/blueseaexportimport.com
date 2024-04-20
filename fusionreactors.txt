@@ -4,8 +4,16 @@
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">ITER Stellarator - Tokamak Power</span><span id="ro">ITER Stellarator - Tokamak</span></td></tr>  
 <tr><td><span id="en" >Info source</span><span id="ro">Sursă informații</span></td><td style="color:#39ff14;" >( <a style="color:gold;" href="https://www-pub.iaea.org/MTCD/Publications/PDF/ITER-EDA-DS-24.pdf" target="_blank" >ITER</a> )</td></tr>
 <tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >International</td></tr>
+<tr><td><span id="en" >Note</span></td><td style="color:#39ff14;" >We will use only english language in this section</td></tr>
 
-<tr><td>Formula 1</td><td>0 RON / - ( <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a> )</td></tr>
+<tr style="background:#39ff14;" ><td style="color:black;" >The tokamak enclosure system </td><td></td></tr>
+<tr><td>Formula 1</td><td>0 RON / Cryostat - Dual certified 316/316L laminated steel plates for machining ( <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a> )</td></tr>
+
+
+
+
+
+
 
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
@@ -29,5 +37,39 @@ if (class_ro === "new") {
 
 
 <!-- 
-<tr><td><span id="en"></span><span id="ro">  </span></td><td>-</td><td>-</td></tr>  
+
+The entire tokamak is enclosed in a cryostat, with thermal shields between the hot components and the cryogenically cooled magnets.
+
+The major components of the tokamak are the superconducting toroidal and poloidal field
+coils which magnetically confine, shape and control the plasma inside a toroidal vacuum
+vessel. 
+
+The magnet system comprises toroidal field (TF) coils, a central solenoid (CS),
+external poloidal field (PF) coils, and correction coils (CC). 
+
+The centring force acting on the D-shaped toroidal magnets is reacted by these coils by wedging in the vault formed by their
+straight sections.
+
+The TF coil windings are enclosed in strong cases used also to support the external PF coils.
+
+The vacuum vessel is a double-walled structure also supported on the toroidal field coils.
+
+The magnet system together with the vacuum vessel and internals are supported by gravity supports, one beneath each TF coil.
+
+Inside the vacuum vessel, the internal, replaceable components, including blanket modules, divertor cassettes, and port plugs such as the limiter, heating antennae, test blanket modules,
+and diagnostics modules, absorb the radiated heat as well as most of the neutrons from the plasma and protect the vessel and magnet coils from excessive nuclear radiation.
+
+The shielding blanket design does not preclude its later replacement on the outboard side by a tritium-breeding blanket constrained to the same temperature cooling water as the shielding
+blanket.
+
+The heat deposited in the internal components and in the vessel is rejected to the environment
+by means of the tokamak cooling water system (comprising individual heat transfer systems)
+designed to exclude releases of tritium and activated corrosion products to the environment.
+
+Some elements of these heat transfer systems are also employed to bake and consequently
+clean the plasma-facing surfaces inside the vessel by releasing trapped impurities.
+
+
+
+<tr><td>Formula 1</td><td>0 RON / Cryostat Torus Cryopump - Dual certified 316/316L laminated steel plates ( <a style="color:gold;" href="" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a> )</td></tr>
 -->
