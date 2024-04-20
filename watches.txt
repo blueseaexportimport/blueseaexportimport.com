@@ -2,37 +2,41 @@
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">WAT0001</td></tr>
 <tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Watches</span><span id="ro">Ceas-uri de mână</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Europe</span><span id="ro">Europa</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >International</td></tr>
 
-<tr><td>Formula 1</td><td>805 RON / <span id="en" >pcs Quartz sport watch</span><span id="ro">buc Ceas de mână Quartz sport</span> Candino Sport Elegance </td></tr>
-<tr><td>Formula 2</td><td>1300 RON / <span id="en" >pcs Digital fashion watch for women</span><span id="ro">buc Ceas de mână digital de modă pentru femei</span> Swarovski Cosmopolitan </td></tr>
-<tr><td>Formula 3</td><td>1455 RON / <span id="en" >pcs Solar diver watch</span><span id="ro">buc Ceas de mână scafandru solar</span> Citizen ProMaster Marine Chrono Diver's Eco Drive </td></tr>
-<tr><td>Formula 4</td><td>2364.6 RON / <span id="en" >pcs Quartz racing watch</span><span id="ro">buc Ceas de mână quartz automobiliști</span> Certina DS Podium Chronograph Lap Time Racing Edition </td></tr>
-<tr><td>Formula 5</td><td>2750 RON / <span id="en" >pcs Analogue field watch</span><span id="ro">buc Ceas mână de câmp analogic</span> Hamilton Khaki Field Mechanical </td></tr>
-<tr><td>Formula 6</td><td>3570 RON / <span id="en" >pcs Analogue dress watch for men</span><span id="ro">buc Ceas de mână analogic de modă pentru bărbați</span> Atlantic Worldmaster Art Deco </td></tr>
-<tr><td>Formula 7</td><td>4090.5 RON / <span id="en" >pcs Automatic military watch</span><span id="ro">buc Ceas de mână militar automatic</span> Atlantic Worldmaster Heritage Military 1951 </td></tr>
-<tr><td>Formula 8</td><td>4227 RON / <span id="en" >pcs Mechanical pocket watch</span><span id="ro">buc Ceas de mână mecanic de buzunar</span> Tissot Savonnette Mechanical </td></tr>
-<tr><td>Formula 9</td><td>8478.8 RON / <span id="en" >pcs Mechanical aviator watch</span><span id="ro">buc Ceas de mână mecanic aviator</span> Hamilton Khaki Aviation Pioneer Mechanical Chrono </td></tr>
-<tr><td>Formula 10</td><td>200000 RON / <span id="en" >pcs Chronograph luxury watch</span><span id="ro">buc Ceas mână de lux cronograf</span> Breitling Navitimer B01 Chronograph 46 </td></tr>
+<tr><td>Formula 1</td><td>211.2 RON / <span id="en" >pcs Digital smart watch</span><span id="ro">buc Ceas de mână smart digital</span> Q&Q Citrea Smart Watch</td></tr>
+<tr><td>Formula 2</td><td>700 RON / <span id="en" >pcs Stopwatch</span><span id="ro">buc Cronometru</span> Seiko Stopwatch</td></tr>
+<tr><td>Formula 3</td><td>752.8 RON / <span id="en" >pcs Digital fitness watch</span><span id="ro">buc Ceas de mână fitness digital</span> Suunto 3 Fitness Black </td></tr>
+<tr><td>Formula 4</td><td>805 RON / <span id="en" >pcs Quartz sport watch</span><span id="ro">buc Ceas de mână Quartz sport</span> Candino Sport Elegance </td></tr>
+<tr><td>Formula 5</td><td>1300 RON / <span id="en" >pcs Digital fashion watch for women</span><span id="ro">buc Ceas de mână digital de modă pentru femei</span> Swarovski Cosmopolitan </td></tr>
+<tr><td>Formula 6</td><td>1455 RON / <span id="en" >pcs Solar diver watch</span><span id="ro">buc Ceas de mână scafandru solar</span> Citizen ProMaster Marine Chrono Diver's Eco Drive </td></tr>
+<tr><td>Formula 7</td><td>2364.6 RON / <span id="en" >pcs Quartz racing watch</span><span id="ro">buc Ceas de mână quartz automobiliști</span> Certina DS Podium Chronograph Lap Time Racing Edition </td></tr>
+<tr><td>Formula 8</td><td>2750 RON / <span id="en" >pcs Analogue field watch</span><span id="ro">buc Ceas mână de câmp analogic</span> Hamilton Khaki Field Mechanical </td></tr>
+<tr><td>Formula 9</td><td>3570 RON / <span id="en" >pcs Analogue dress watch for men</span><span id="ro">buc Ceas de mână analogic de modă pentru bărbați</span> Atlantic Worldmaster Art Deco </td></tr>
+<tr><td>Formula 10</td><td>4090.5 RON / <span id="en" >pcs Automatic military watch</span><span id="ro">buc Ceas de mână militar automatic</span> Atlantic Worldmaster Heritage Military 1951 </td></tr>
+<tr><td>Formula 11</td><td>4227 RON / <span id="en" >pcs Mechanical pocket watch</span><span id="ro">buc Ceas de mână mecanic de buzunar</span> Tissot Savonnette Mechanical </td></tr>
+<tr><td>Formula 12</td><td>8478.8 RON / <span id="en" >pcs Mechanical aviator watch</span><span id="ro">buc Ceas de mână mecanic aviator</span> Hamilton Khaki Aviation Pioneer Mechanical Chrono </td></tr>
+<tr><td>Formula 13</td><td>200000 RON / <span id="en" >pcs Chronograph luxury watch</span><span id="ro">buc Ceas mână de lux cronograf</span> Breitling Navitimer B01 Chronograph 46 </td></tr>
 
+<tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.bb-shop.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
+<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">WAT0002</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Watch strap</span><span id="ro">Brățări ceas</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >International</td></tr>
+
+<tr><td>Formula 1</td><td>211.2 RON / <span id="en" >pcs Digital smart watch</span><span id="ro">buc Ceas de mână smart digital</span> Q&Q Citrea Smart Watch</td></tr>
 
 
 <tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.bb-shop.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
+
 </tbody>
 
 <!-- 
-       <tr><td><span id="en">Digital smart watch</span><span id="ro">Ceas de mână smart digital</span> </td><td>-  </td><td>-</td></tr> 
-       <tr><td><span id="en">Digital fitness watch</span><span id="ro">Ceas de mână fitness digital</span> </td><td>-  </td><td>-</td></tr>
-       <tr><td><span id="en">Hybrid fitness watch</span><span id="ro">Ceas mână de fitness hibrid</span> </td><td>-  </td><td>-</td></tr>  
-
-
        <tr><td><span id="en">Automatic nurse watch</span><span id="ro">Ceas de mână automatic asistentă medicală</span> </td><td>- </td><td>-</td></tr> 
-       <tr><td><span id="en">Solar wood watch</span><span id="ro">Ceas de mână solar cu brățară din lemn</span> </td><td>- </td><td>-</td></tr>
-
-
        <tr><td><span id="en">Watch strap - metal bracelet </span><span id="ro">Brățară ceas metalică</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Watch strap - leather bracelet</span><span id="ro">Brățară ceas din piele</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Watch strap - rubber bracelet</span><span id="ro">Brățară ceas din cauciuc</span> </td><td>- </td><td>-</td></tr>
