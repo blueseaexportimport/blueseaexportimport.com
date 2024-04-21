@@ -1,20 +1,25 @@
 <tbody>
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">SP000000001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" >-</td></tr>
-<tr><td>Standard:</td><td style="color:#39ff14;" >IEC 61730</td></tr>
+<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">SP001</td></tr>
+<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Terrestrial solar panel</span><span id="ro">Panou solar terestru</span></td></tr><tr><td>Standard:</td><td style="color:#39ff14;" >IEC61215 + IEC61730 + IEC61701 + IEC62716</td></tr>
 <tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
-<tr><td><span id="en" >Material</span><span id="ro">Material</span></td><td style="color:#39ff14;" ><span id="en" >Monocrystalline Silicon</span><span id="ro" >Siliciu monocristalin</span></td></tr>
-<tr><td><span id="en" >Dim.</span><span id="ro">Dim.</span></td><td style="color:#39ff14;" >2384x1303x35 mm</td></tr>
 <tr><td><span id="en" >Installation service:</span><span id="ro">Servicii instalare:</span></td><td style="color:#39ff14;" ><span id="en" >No</span><span id="ro" >Nu</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >-</td></tr>
-<tr><td><span id="en" >HS Code</span><span id="ro">Cod HS</span>(<a style="color:gold;" href="https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition/hs-nomenclature-2022-edition.aspx" target="_blank">2022 edition</a>)</td><td style="color:#39ff14;" >8541.43</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >0.00 RON / <span id="en">watt</span><span id="ro">watt</span></td></tr>
-<tr><td><span id="en">Min. order:</span><span id="ro">Comanda minima:</span></td><td style="color:#39ff14;" >15000 <span id="en">watts</span><span id="ro">watts</span></td></tr>
+<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >China</td></tr>
+
+<tr><td>Formula 1</td><td>510 RON / <span id="en">Monocrystalline Silicon</span><span id="ro">Siliciu monocristalin</span> IP68 Dim. 1762x1134x30mm Trina Solar Vertex S Dual Glass N-Type 425W TSM-NEG9R.28</td></tr>
+<tr><td>Formula 2</td><td>536.8 RON / <span id="en">Monocrystalline Silicon</span><span id="ro">Siliciu monocristalin</span> IP68 Dim. 1762x1086x30mm Trina Solar Vertex S Dual Glass N-Type 445W TSM-NEG9R.28</td></tr>
+<tr><td>Formula 3</td><td>555 RON / <span id="en">Monocrystalline Silicon</span><span id="ro">Siliciu monocristalin</span> IP68 Dim. 1762x1134x30mm Trina Solar Vertex S Dual Glass N-Type 450W TSM-NEG9R.28</td></tr>
+<tr><td>Formula 4</td><td>563.8 RON / <span id="en">Monocrystalline Silicon</span><span id="ro">Siliciu monocristalin</span> IP68 Dim. 1961x1134x30mm Trina Solar Vertex S Dual Glass N-Type 495W TSM-NEG18R.28</td></tr>
+<tr><td>Formula 5</td><td>569 RON / <span id="en">Monocrystalline Silicon</span><span id="ro">Siliciu monocristalin</span> IP68 Dim. 1961x1134x30mm Trina Solar Vertex S Dual Glass N-Type 500W TSM-NEG18R.28</td></tr>
+<tr><td>Formula 6</td><td>580 RON / <span id="en">Monocrystalline Silicon</span><span id="ro">Siliciu monocristalin</span> IP68 Dim. 1762x1134x30mm Trina Solar Vertex S 425W TSM-DE09R.08
+</td></tr>
+<tr><td>Formula 7</td><td>590 RON / <span id="en">Monocrystalline Silicon</span><span id="ro">Siliciu monocristalin</span> IP68 Dim. 1762x1134x30mm Trina Solar Vertex S 420W TSM-DE09R.08W
+</td></tr>
+
+<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.trinasolar.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
 
 
-
+ 
 
 </tbody>
  
