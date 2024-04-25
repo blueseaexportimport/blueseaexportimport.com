@@ -195,6 +195,26 @@ $(document).ready(function () {
    });
   // Grab journalism on click end
 
+  // Grab journalism on click start
+  $("#fishbtn").click(function() {
+    if ($("#fish").hasClass("clickedfish")) {
+        // already been clicked once, hide it
+        $("#fish").html("");
+        $( "#fish" ).removeClass( "clickedfish" )
+    }else {
+        // first time this is clicked, mark it
+        $("#fish").addClass("clickedfish");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/fish.txt", success: function(result){
+         $("#fish").html(result);
+        }});
+    }
+   });
+  // Grab journalism on click end
+
+
+
+	
+
 });
 </script>
 
@@ -893,7 +913,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (0)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (0)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (1)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (1)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Human Food Grains</span><span id="ro">Cereale Consum Uman</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Rice</span><span id="ro">Orez</span></h5>    
@@ -946,8 +966,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" id="beehoneyandwaxbtn" ><span id="en">Bee Honey and Wax</span><span id="ro">Miere de Albine și Ceară</span></h5>
   <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" id="fishbtn" ><span id="en">Fish</span><span id="ro">Pește</span></h5>
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="fishbtn" ><span id="en">Fish (1)</span><span id="ro">Pește (1)</span></h5>
+   <div id="fish" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" ><span id="en">Roe / Caviar</span><span id="ro">Icre și Caviar</span></h5>
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Seafood</span><span id="ro">Fructe de Mare</span></h5>
