@@ -8,19 +8,19 @@
 <div>
 
 <!-- Slide Start -->
-<div class="mySlides fade">
+<div class="journalismSlides fade">
 <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/photos/journalism.jpg" alt="journalism items" /> 
 </div>
 <!-- Slide End -->
 
 <!-- Slide Start -->
-<div class="mySlides fade">
+<div class="journalismSlides fade">
 <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/photos/journalism.jpg" alt="journalism items" /> 
 </div>
 <!-- Slide End -->
 
 <!-- Slide Start -->
-<div class="mySlides fade">
+<div class="journalismSlides fade">
 <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/photos/journalism.jpg" alt="journalism items" /> 
 </div>
 <!-- Slide End -->
@@ -43,17 +43,12 @@ function currentSlide(n) {
 
 function showSlides(n) {
   let i;
-  let slides = document.getElementsByClassName("mySlides");
-  let dots = document.getElementsByClassName("dot");
+  let slides = document.getElementsByClassName("journalismSlides");
   if (n > slides.length) {slideIndex = 1}    
   if (n < 1) {slideIndex = slides.length}
   for (i = 0; i < slides.length; i++) {
     slides[i].style.display = "none";  
   }
-  for (i = 0; i < dots.length; i++) {
-    dots[i].className = dots[i].className.replace(" active", "");
-  }
   slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
 }
 </script>
