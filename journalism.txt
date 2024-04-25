@@ -1,2 +1,3 @@
- <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/photos/journalism.jpg" alt="journalism items" /> 
- 
+<div class="sliderbin" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/photos/journalism.jpg" alt="journalism items" /> 
+</div>
