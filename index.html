@@ -64,12 +64,10 @@
 
 /* Next & previous buttons */
 .prev, .next {
+  display:inline-block;
   cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
+  width: 48%;
   padding: 16px;
-  margin-top: -22px;
   background-color: rgba(0,0,0,0.8);
   font-weight: bold;
   font-size: 18px;
@@ -78,11 +76,6 @@
   user-select: none;
 }
 
-/* Position the "next button" to the right */
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
-}
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
