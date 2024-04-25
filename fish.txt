@@ -1,3 +1,7 @@
+
+
+
+<!--
 <tbody> 
 
 <tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FIS001</td></tr>
@@ -62,31 +66,8 @@
 <tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various EU suppliers</span><span id="ro">Furnizori din UE</span></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
 
++++
 
-
-
-
-
-</tbody> 
-
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
-}
-});
-</script>
-
-
-<!--
     <tr><td>Thunnus alalunga</td><td><span id="en">Longfin tuna</span><span id="ro" >Ton alb</span></td><td>-</td></tr>    
     <tr><td>Thunnus albacares</td><td><span id="en">Yellowfin tuna</span><span id="ro" >Ton cu aripioare galbene</span></td><td>-</td></tr>    
     <tr><td>Thunnus tonggol</td><td><span id="en">Northern Bluefin Tuna</span><span id="ro" >Ton cu aripioare albastre de nord</span></td><td>-</td></tr>
