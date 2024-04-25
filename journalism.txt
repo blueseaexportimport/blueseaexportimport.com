@@ -7,6 +7,7 @@
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
 <div>
 
+<div class="slidesbin" >
 <!-- Slide Start -->
 <div class="journalismSlides fade">
 <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/photos/journalism.jpg" alt="journalism items1" /> 
@@ -25,7 +26,8 @@
 </div>
 <!-- Slide End -->
 
- 
+</div><!-- Slidesbin End -->
+
 
 </div><!-- Slide Container -->
 
