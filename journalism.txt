@@ -7,22 +7,9 @@
 
 <!-- Slide Start -->
 <div class="journalismSlides fade">
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/photos/journalism.jpg" alt="journalism items1" /> 
+<img src="https://i.ibb.co/JnvNKFS/journalism.jpg" alt="journalism item1" /> 
 </div>
 <!-- Slide End -->
-
-<!-- Slide Start -->
-<div class="journalismSlides fade">
-<img src="" alt="journalism items2" /> 
-</div>
-<!-- Slide End -->
-
-<!-- Slide Start -->
-<div class="journalismSlides fade">
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/photos/journalism.jpg" alt="journalism items3" /> 
-</div>
-<!-- Slide End -->
-
 
 
 </div><!-- Slide Container -->
