@@ -60,15 +60,23 @@
 
 /* slider */
     .slideshow-container{max-width:100%;position:relative;margin:auto;text-align:center;}
-    .slideprevnextbin{width:100%;display:block;border:1px solid #ccc;margin-top:7px;} 
     .slideshow-container img{max-width:100%;height:auto;display:block;}
+    
+.slideprevnextbin {
+  background-color: #FFFFFF;
+  display: flex;
+  justify-content: space-between;
+  border:0px solid #ccc;
+  width:100%;
+}
 
-	
 /* Next & previous buttons */
-.prev, .next {
-  display:inline-block;
+
+.prev, .next  {
+  text-align:center;
   cursor: pointer;
-  width: 49%;
+  width: 45%;
+  display:inline-block;
   padding: 16px;
   background-color: rgba(0,0,0,0.8);
   color:white;
@@ -76,13 +84,17 @@
   font-size: 18px;
   transition: 0.6s ease;
   user-select: none;
-  vertical-align: baseline;
 }
-
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+  background-color: gold;
+  color:black;
+}
+
+.prev:focus, .next:focus {
+  background-color: gold;
+  color:black;
 }
 
 /* Fading animation */
@@ -97,6 +109,10 @@
 }
 
 /* On smaller screens, decrease text size */
+@media only screen and (max-width: 700px) {
+.prev, .next  {width: 40%;} 
+}
+
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
 }
