@@ -35,6 +35,12 @@
 </div>
 <!-- Slide End -->
 
+<!-- Slide Start -->
+<div class="fishSlides fade">
+<img src="https://i.ibb.co/5THxRWq/oceanandseafishc.jpg" alt="fish item5" /> 
+</div>
+<!-- Slide End -->
+
 
 </div><!-- Slide Container -->
 
@@ -63,23 +69,3 @@ function showSlides(n) {
 </script>
 
 
-<!--
-    <tr><td>Scomberoides tol</td><td><span id="en">Needleskin Queenfish</span><span id="ro" >Pește regină cu solzi ace</span></td><td>-</td></tr>
-    <tr><td>Scomberoides tala</td><td><span id="en">Barred Queenfish</span><span id="ro" >Pește regină de apă adâncă</span></td><td>-</td></tr>
-    <tr><td>Scomberoides lysan</td><td><span id="en">Lesser Queenfish</span><span id="ro" >Pește regină cu pete duble</span></td><td>-</td></tr>
-    <tr><td>Scomberoides commersonnianus</td><td><span id="en">Giant Queenfish</span><span id="ro" >Pește regină gigant</span></td><td>-</td></tr>
-    <tr><td>Trachinotus botla</td><td><span id="en">Common Dart</span><span id="ro" >Pompano</span></td><td>-</td></tr>
-    <tr><td>Trachinotus baillonii </td><td><span id="en">Smallspotted Dart</span><span id="ro" >Pompano cu pete mici</span></td><td>-</td></tr>
-    <tr><td>Trachinotus blochii </td><td><span id="en">Snubnose Dart</span><span id="ro" >Pompano cu nas cârn</span></td><td>-</td></tr>
-    <tr><td>Trachinotus coppingeri </td><td><span id="en">Swallowtail Dart</span><span id="ro" >Pompano cu coadă de rândunică</span></td><td>-</td></tr>
-    <tr><td>Trachinotus anak</td><td><span id="en">Giant Oystercracker Dart</span><span id="ro" >Pompano de stridii</span></td><td>-</td></tr>
-    <tr><td>Sarda australis</td><td><span id="en">Australian Bonito</span><span id="ro" >Bonito australian</span></td><td>-</td></tr>
-    <tr><td>Sarda orientalis</td><td><span id="en">Oriental Bonito</span><span id="ro" >Bonito oriental</span></td><td>-</td></tr>
-    <tr><td>Cybiosarda elegans </td><td><span id="en">Leaping Bonito</span><span id="ro" >Bonito săritor</span></td><td>-</td></tr>
-    <tr><td>Sillago schomburgkii </td><td><span id="en">Yellowfin Whiting</span><span id="ro" >Merlan cu înotătoare galbenă</span></td><td>-</td></tr>
-    <tr><td>Sillago maculata </td><td><span id="en">Trumpeter Whiting</span><span id="ro" >Merlan trompetist</span></td><td>-</td></tr>
-    <tr><td>Sillago flindersi </td><td><span id="en">Eastern School Whiting</span><span id="ro" >Merlan de școală de Est</span></td><td>-</td></tr>
-    <tr><td>Sillago bassensis </td><td><span id="en">Southern School Whiting</span><span id="ro" >Merlan de școală de Sud</span></td><td>-</td></tr>
-    <tr><td>Sillago robusta </td><td><span id="en">Stout Whiting</span><span id="ro" >Merlan robust</span></td><td>-</td></tr>
-    <tr><td>Sillago ciliata </td><td><span id="en">Sand Whiting</span><span id="ro" >Merlan de nisip</span></td><td>-</td></tr>
--->
