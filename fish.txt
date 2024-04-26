@@ -29,6 +29,12 @@
 </div>
 <!-- Slide End -->
 
+<!-- Slide Start -->
+<div class="fishSlides fade">
+<img src="https://i.ibb.co/jG6H1F9/oceanandseafishb.jpg" alt="fish item5" /> 
+</div>
+<!-- Slide End -->
+
 
 </div><!-- Slide Container -->
 
@@ -58,32 +64,6 @@ function showSlides(n) {
 
 
 <!--
-
-
-    <tr><td>Genypterus tigerinus</td><td><span id="en">Rock Ling</span><span id="ro" >Ling de piatră</span></td><td>-</td></tr>
-    <tr><td>Genypterus blacodes</td><td><span id="en">Pink Ling</span><span id="ro" >Ling roz</span></td><td>-</td></tr>
-    <tr><td>Scomberomorus queenslandicus</td><td><span id="en">School Mackerel</span><span id="ro" >Macrou de Queensland </span></td><td>-</td></tr>
-    <tr><td>Scomberomorus semifasciatus</td><td><span id="en">Grey Mackerel</span><span id="ro" >Macrou cenușiu</span></td><td>-</td></tr>
-    <tr><td>Scomber australasicus</td><td><span id="en">Blue Mackerel</span><span id="ro" >Macrou albastru</span></td><td>-</td></tr>
-    <tr><td>Mugil cephalus</td><td><span id="en">Sea Mullet</span><span id="ro" >Chefal mare / Laban</span></td><td>-</td></tr>
-    <tr><td>Liza vaigiensis</td><td><span id="en">Diamondscale Mullet</span><span id="ro" >Mullet cu solzi diamant</span></td><td>-</td></tr>
-    <tr><td>Aptychotrema rostrata</td><td><span id="en">Eastern Shovelnose Ray</span><span id="ro" >Pisică de mare cu nas de lopată de Est</span></td><td>-</td></tr>
-    <tr><td>Epinephelus areolatus</td><td><span id="en">Yellowspotted Rockcod</span><span id="ro" >Cod de stâncă cu pete galbene</span></td><td>-</td></tr>
-    <tr><td>Caprodon longimanus</td><td><span id="en">Pink Maomao</span><span id="ro" >Maomao roz</span></td><td>-</td></tr>
-    <tr><td>Acanthistius ocellatus</td><td><span id="en">Eastern Wirrah</span><span id="ro" >Wirrah de Est</span></td><td>-</td></tr>
-    <tr><td>Variola louti</td><td><span id="en">Sea Mullet</span><span id="ro" >Mullet de Mare</span></td><td>-</td></tr>
-    <tr><td>Plectropomus oligacanthus </td><td><span id="en">Vermicular Cod</span><span id="ro" >Cod Vermicular</span></td><td>-</td></tr>
-    <tr><td>Plectropomus leopardus</td><td><span id="en">Common Coral Trout</span><span id="ro" >Păstrăv Coral</span></td><td>-</td></tr>
-    <tr><td>Plectropomus maculatus </td><td><span id="en">Barcheek Coral Trout</span><span id="ro" >Păstrăv Coral Barcheek</span></td><td>-</td></tr>
-    <tr><td>Epinephelus septemfasciatus </td><td><span id="en">Bar Rockcod</span><span id="ro" >Grouper deținut</span></td><td>-</td></tr>
-    <tr><td>Oncorhynchus tshawytscha</td><td><span id="en">Chinook Salmon (King Salmon)</span><span id="ro" >Somon Chinook</span></td><td>-</td></tr>
-    <tr><td>Salvelinus fontinalis</td><td><span id="en">Brook Trout (Saltwater Charr)</span><span id="ro" >Charr de apă sărată</span></td><td>-</td></tr>
-    <tr><td>Salmo salar</td><td><span id="en">Atlantic Salmon</span><span id="ro" >Somon de Atlantic</span></td><td>-</td></tr>
-    <tr><td>Trachurus novaezelandiae</td><td><span id="en">Yellowtail Scad</span><span id="ro" >Stavrid coada galbenă</span></td><td>-</td></tr>
-    <tr><td>Seriola lalandi</td><td><span id="en">Yellowtail Kingfish</span><span id="ro" >Pește rege coadă galbenă</span></td><td>-</td></tr>
-    <tr><td>Seriola dumerili </td><td><span id="en">Amberjack</span><span id="ro" >Măgar de mare</span></td><td>-</td></tr>
-    <tr><td>Seriola hippos</td><td><span id="en">Samsonfish</span><span id="ro" >Pește samson</span></td><td>-</td></tr>
-
     <tr><td>Scomberoides tol</td><td><span id="en">Needleskin Queenfish</span><span id="ro" >Pește regină cu solzi ace</span></td><td>-</td></tr>
     <tr><td>Scomberoides tala</td><td><span id="en">Barred Queenfish</span><span id="ro" >Pește regină de apă adâncă</span></td><td>-</td></tr>
     <tr><td>Scomberoides lysan</td><td><span id="en">Lesser Queenfish</span><span id="ro" >Pește regină cu pete duble</span></td><td>-</td></tr>
