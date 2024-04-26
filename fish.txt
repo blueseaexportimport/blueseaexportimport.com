@@ -17,6 +17,12 @@
 </div>
 <!-- Slide End -->
 
+<!-- Slide Start -->
+<div class="fishSlides fade">
+<img src="https://i.ibb.co/HXkPG79/pacifoceanandseafish.jpg" alt="journalism item1" /> 
+</div>
+<!-- Slide End -->
+
 </div><!-- Slide Container -->
 
 <script>
@@ -45,31 +51,6 @@ function showSlides(n) {
 
 
 <!--
-
-
-    <tr><td>Thunnus alalunga</td><td><span id="en">Longfin tuna</span><span id="ro" >Ton alb</span></td><td>-</td></tr>    
-    <tr><td>Thunnus albacares</td><td><span id="en">Yellowfin tuna</span><span id="ro" >Ton cu aripioare galbene</span></td><td>-</td></tr>    
-    <tr><td>Thunnus tonggol</td><td><span id="en">Northern Bluefin Tuna</span><span id="ro" >Ton cu aripioare albastre de nord</span></td><td>-</td></tr>
-    <tr><td>Micromesistius australis</td><td><span id="en">Southern Blue Whiting HGT</span><span id="ro" >Merlan de sud</span></td><td>-</td></tr>
-    <tr><td>Trachurus declivis</td><td><span id="en">Jack Mackerel</span><span id="ro" >Stavrid negru</span></td><td>-</td></tr>
-    <tr><td>Trachurus murphyi</td><td><span id="en">Peruvian Jack Mackerel</span><span id="ro" >Stavrid peruan</span></td><td>-</td></tr>
-    <tr><td>Pseudocaranx Dentex</td><td><span id="en">Trevally</span><span id="ro" >Trevally cu dungi</span></td><td>-</td></tr>
-    <tr><td>Pseudocaranx wrighti</td><td><span id="en">Skipjack Trevally</span><span id="ro" >Trevally de nisip</span></td><td>-</td></tr>
-    <tr><td>Zenopsis nebulosus</td><td><span id="en">Mirror Dory</span><span id="ro" >Doris oglindă</span></td><td>-</td></tr>
-    <tr><td>Pseudocyttus maculatus</td><td><span id="en">Smooth Oreo Dory</span><span id="ro" >Oreo neted</span></td><td>-</td></tr>
-    <tr><td>Cyttus australis</td><td><span id="en">Silver Dory</span><span id="ro" >Doris argintiu</span></td><td>-</td></tr>
-    <tr><td>Cyttus traversi</td><td><span id="en">King Dory</span><span id="ro" >Doris rege</span></td><td>-</td></tr>
-    <tr><td>Zeus faber</td><td><span id="en">John Dory</span><span id="ro" >Dulgher mare</span></td><td>-</td></tr>
-    <tr><td>Neocyttus rhomboidalis</td><td><span id="en">Spikey Oreodory</span><span id="ro" >Oreoul înțepător</span></td><td>-</td></tr>
-    <tr><td>Allocyttus niger</td><td><span id="en">Black Oreodory</span><span id="ro" >Oreo negru</span></td><td>-</td></tr>
-    <tr><td>Lethrinus nebulosus </td><td><span id="en">Greater Spangled Emperor</span><span id="ro" >Snapper mai mare</span></td><td>-</td></tr>
-    <tr><td>Lethrinus sp.  </td><td><span id="en">Lesser Spangled Emperor</span><span id="ro" >Snapper mai mic</span></td><td>-</td></tr>
-    <tr><td>Argyrops spinifer</td><td><span id="en">Frypan Bream</span><span id="ro" >Snapper de tigaie</span></td><td>-</td></tr>
-    <tr><td>Gymnocranius griseus </td><td><span id="en">Grey Seabream</span><span id="ro" >Oreo neted</span></td><td>-</td></tr>
-    <tr><td>Gymnocranius grandoculis </td><td><span id="en">Robinson's Seabream</span><span id="ro" >Doris argintiu</span></td><td>-</td></tr>
-    <tr><td>Gymnocranius elongatus</td><td><span id="en">Swallowtail Seabream</span><span id="ro" >Doris rege</span></td><td>-</td></tr>
-    <tr><td>Gymnocranius audleyi</td><td><span id="en">Collar Seabream</span><span id="ro" >Dulgher mare</span></td><td>-</td></tr>
-    <tr><td>Gnathodentex aureolineatus </td><td><span id="en">Goldspot Seabream</span><span id="ro" >Oreoul înțepător</span></td><td>-</td></tr>
 
     <tr><td>Gymnocranius euanus </td><td><span id="en">Paddletail Seabream</span><span id="ro" >Oreo negru</span></td><td>-</td></tr>
     <tr><td>Monotaxis grandoculis </td><td><span id="en">Bigeye Seabream</span><span id="ro" >Dorada cu ochi mari</span></td><td>-</td></tr>
