@@ -60,8 +60,8 @@ function showSlides(n) {
     <tr><td>Lethrinus lentjan</td><td><span id="en">Redspot Emperor</span><span id="ro" >Împăratul cu urechi roz</span></td><td>-</td></tr>
     <tr><td>Lethrinus olivaceus</td><td><span id="en">Longnose Emperor</span><span id="ro" >Împăratul cu față lungă</span></td><td>-</td></tr>
     <tr><td>Lethrinus laticaudis</td><td><span id="en">Grass Emperor</span><span id="ro" >Împăratul ierbii</span></td><td>-</td></tr>
-    <tr><td>Neoplatycephalus richardsoni</td><td><span id="en">Tiger Flathead</span><span id="ro" >Cap plat tigru</span></td><td>-</td></tr>
-    <tr><td>Neoplatycephalus aurimaculatus</td><td><span id="en">Toothy Flathead</span><span id="ro" >Cap plat cu dinți</span></td><td>-</td></tr>
+    <tr><td>Sillaginodes punctatus </td><td><span id="en">King George Whiting</span><span id="ro" >Merlan Regele George</span></td><td>-</td></tr>
+    <tr><td>Platycephalus richardsoni</td><td><span id="en">Tiger Flathead</span><span id="ro" >Cap plat tigru</span></td><td>-</td></tr>
     <tr><td>Platycephalus bassensis</td><td><span id="en">Southern Sand Flathead</span><span id="ro" >Cap plat de nisip</span></td><td>-</td></tr>
     <tr><td>Platycephalus fuscus</td><td><span id="en">Dusky Flathead</span><span id="ro" >Cap plat întunecat</span></td><td>-</td></tr>
     <tr><td>Neoplatycephalus conatus</td><td><span id="en">Deepwater Flathead</span><span id="ro" >Cap plat de apă adâncă</span></td><td>-</td></tr>
@@ -119,5 +119,4 @@ function showSlides(n) {
     <tr><td>Sillago bassensis </td><td><span id="en">Southern School Whiting</span><span id="ro" >Merlan de școală de Sud</span></td><td>-</td></tr>
     <tr><td>Sillago robusta </td><td><span id="en">Stout Whiting</span><span id="ro" >Merlan robust</span></td><td>-</td></tr>
     <tr><td>Sillago ciliata </td><td><span id="en">Sand Whiting</span><span id="ro" >Merlan de nisip</span></td><td>-</td></tr>
-    <tr><td>Sillaginodes punctatus </td><td><span id="en">King George Whiting</span><span id="ro" >Merlan Regele George</span></td><td>-</td></tr>
 -->
