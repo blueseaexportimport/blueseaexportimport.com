@@ -52,29 +52,6 @@ function showSlides(n) {
 
 <!--
 
-    <tr><td>Gymnocranius euanus </td><td><span id="en">Paddletail Seabream</span><span id="ro" >Oreo negru</span></td><td>-</td></tr>
-    <tr><td>Monotaxis grandoculis </td><td><span id="en">Bigeye Seabream</span><span id="ro" >Dorada cu ochi mari</span></td><td>-</td></tr>
-    <tr><td>Gymnocranius microdon</td><td><span id="en">Bluespotted Seabream</span><span id="ro" >Dorada mare cu pete albastre</span></td><td>-</td></tr>
-    <tr><td>Wattsia mossambica</td><td><span id="en">Mozambique Seabream</span><span id="ro" >Wattsia ( Dorada de Mozambic )</span></td><td>-</td></tr>
-    <tr><td>Lethrinus miniatus</td><td><span id="en">Redthroat Emperor</span><span id="ro" >Împăratul trompetă</span></td><td>-</td></tr>
-    <tr><td>Lethrinus lentjan</td><td><span id="en">Redspot Emperor</span><span id="ro" >Împăratul cu urechi roz</span></td><td>-</td></tr>
-    <tr><td>Lethrinus olivaceus</td><td><span id="en">Longnose Emperor</span><span id="ro" >Împăratul cu față lungă</span></td><td>-</td></tr>
-    <tr><td>Lethrinus laticaudis</td><td><span id="en">Grass Emperor</span><span id="ro" >Împăratul ierbii</span></td><td>-</td></tr>
-    <tr><td>Sillaginodes punctatus </td><td><span id="en">King George Whiting</span><span id="ro" >Merlan Regele George</span></td><td>-</td></tr>
-    <tr><td>Platycephalus richardsoni</td><td><span id="en">Tiger Flathead</span><span id="ro" >Cap plat tigru</span></td><td>-</td></tr>
-    <tr><td>Platycephalus bassensis</td><td><span id="en">Southern Sand Flathead</span><span id="ro" >Cap plat de nisip</span></td><td>-</td></tr>
-    <tr><td>Platycephalus fuscus</td><td><span id="en">Dusky Flathead</span><span id="ro" >Cap plat întunecat</span></td><td>-</td></tr>
-    <tr><td>Neoplatycephalus conatus</td><td><span id="en">Deepwater Flathead</span><span id="ro" >Cap plat de apă adâncă</span></td><td>-</td></tr>
-    <tr><td>Platycephalus caeruleopunctatus</td><td><span id="en">Bluespotted Flathead</span><span id="ro" >Cap plat cu pete albastre</span></td><td>-</td></tr>
-    <tr><td>Acanthopagrus australis</td><td><span id="en">Yellowfin Bream</span><span id="ro" >Dorada de Est</span></td><td>-</td></tr>
-    <tr><td>Acanthopagrus butcheri</td><td><span id="en">Black Bream</span><span id="ro" >Dorada de Sud</span></td><td>-</td></tr>
-    <tr><td>Chrysophrys auratus</td><td><span id="en">Snapper</span><span id="ro" >Dorada argintie</span></td><td>-</td></tr>
-    <tr><td>Acanthopagrus berda</td><td><span id="en">Pikey Bream</span><span id="ro" >Dorada de picnic</span></td><td>-</td></tr>
-    <tr><td>Tetrapturus audax</td><td><span id="en">Striped Marlin</span><span id="ro" >Marlin cu dungi</span></td><td>-</td></tr>
-    <tr><td>Macquaria novemaculeata</td><td><span id="en">Australian Bass</span><span id="ro" >Biban Australia</span></td><td>-</td></tr>
-    <tr><td>Lates calcarifer</td><td><span id="en">Barramundi</span><span id="ro" >Biban Asiatic de Mare</span></td><td>-</td></tr>
-    <tr><td>Macquaria ambigua</td><td><span id="en">Golden Perch</span><span id="ro" >Bibanul auriu</span></td><td>-</td></tr>
-    <tr><td>Nelusetta ayraudi</td><td><span id="en">Ocean Jacket</span><span id="ro" >Jacket oceanic</span></td><td>-</td></tr>
 
     <tr><td>Genypterus tigerinus</td><td><span id="en">Rock Ling</span><span id="ro" >Ling de piatră</span></td><td>-</td></tr>
     <tr><td>Genypterus blacodes</td><td><span id="en">Pink Ling</span><span id="ro" >Ling roz</span></td><td>-</td></tr>
@@ -109,7 +86,6 @@ function showSlides(n) {
     <tr><td>Trachinotus blochii </td><td><span id="en">Snubnose Dart</span><span id="ro" >Pompano cu nas cârn</span></td><td>-</td></tr>
     <tr><td>Trachinotus coppingeri </td><td><span id="en">Swallowtail Dart</span><span id="ro" >Pompano cu coadă de rândunică</span></td><td>-</td></tr>
     <tr><td>Trachinotus anak</td><td><span id="en">Giant Oystercracker Dart</span><span id="ro" >Pompano de stridii</span></td><td>-</td></tr>
-    <tr><td>Parastromateus niger</td><td><span id="en">Black Pomfret</span><span id="ro" >Pomfret negru</span></td><td>-</td></tr>
     <tr><td>Sarda australis</td><td><span id="en">Australian Bonito</span><span id="ro" >Bonito australian</span></td><td>-</td></tr>
     <tr><td>Sarda orientalis</td><td><span id="en">Oriental Bonito</span><span id="ro" >Bonito oriental</span></td><td>-</td></tr>
     <tr><td>Cybiosarda elegans </td><td><span id="en">Leaping Bonito</span><span id="ro" >Bonito săritor</span></td><td>-</td></tr>
