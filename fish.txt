@@ -7,21 +7,28 @@
 
 <!-- Slide Start -->
 <div class="fishSlides fade">
-<img src="https://i.ibb.co/x3RTC6h/atlanticandseafish.jpg" alt="journalism item1" /> 
+<img src="https://i.ibb.co/x3RTC6h/atlanticandseafish.jpg" alt="fish item1" /> 
 </div>
 <!-- Slide End -->
 
 <!-- Slide Start -->
 <div class="fishSlides fade">
-<img src="https://i.ibb.co/n8Tx3KW/freshwaterfish.jpg" alt="journalism item1" /> 
+<img src="https://i.ibb.co/n8Tx3KW/freshwaterfish.jpg" alt="fish item2" /> 
 </div>
 <!-- Slide End -->
 
 <!-- Slide Start -->
 <div class="fishSlides fade">
-<img src="https://i.ibb.co/HXkPG79/pacifoceanandseafish.jpg" alt="journalism item1" /> 
+<img src="https://i.ibb.co/HXkPG79/pacifoceanandseafish.jpg" alt="fish item3" /> 
 </div>
 <!-- Slide End -->
+
+<!-- Slide Start -->
+<div class="fishSlides fade">
+<img src="https://i.ibb.co/gg3p8gY/oceanandseafish.jpg" alt="fish item4" /> 
+</div>
+<!-- Slide End -->
+
 
 </div><!-- Slide Container -->
 
