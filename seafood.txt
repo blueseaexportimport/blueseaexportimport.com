@@ -1,36 +1,4 @@
 
-    <tr><td>Mytilus edulis</td><td><span id="en">Blue mussel</span><span id="ro" >Midii comune</span></td><td>-</td></tr> 
-    <tr><td>Mytilus galloprovincialis</td><td><span id="en">Mediterranean mussel</span><span id="ro" >Midii mediteraneene</span></td><td>-</td></tr> 
-    <tr><td>Mytilus trossulus</td><td><span id="en">Pacific blue mussel</span><span id="ro" >Midii comune de Pacific</span></td><td>-</td></tr> 
-    <tr><td>Mytilus chilensis</td><td><span id="en">Chilean mussel</span><span id="ro" >Midii chiliene</span></td><td>-</td></tr> 
-    <tr><td>Mytilus unguiculatus</td><td><span id="en">Korean mussel</span><span id="ro" >Midii coreene</span></td><td>-</td></tr> 
-    <tr><td>Mytilus californianus</td><td><span id="en">California mussel</span><span id="ro" >Midii de California</span></td><td>-</td></tr> 
-    <tr><td>Perna canaliculus</td><td><span id="en">New Zealand green-lipped mussel</span><span id="ro" >Midii cu buze verzi de Noua Zeelandă</span></td><td>-</td></tr> 
-    
-    <tr><td>Pinctada maxima </td><td><span id="en">Silver-lipped pearl oyster</span><span id="ro" >Stridii buze argintii cu perle</span></td><td>-</td></tr>       
-    <tr><td>Pinctada albina</td><td><span id="en">Arafura shell pearl oyster</span><span id="ro" >Stridii Arafura cu perle</span></td><td>-</td></tr>       
-    <tr><td>Pinctada fucata</td><td><span id="en">Akoya pearl oyster</span><span id="ro" >Stridii Akoya cu perle</span></td><td>-</td></tr>       
-    <tr><td>Pinctada radiata</td><td><span id="en">Atlantic pearl-oyster</span><span id="ro" >Stridii de Atlantic cu perle</span></td><td>-</td></tr>       
-    <tr><td>Pinctada margaritifera</td><td><span id="en">Black-lip pearl oyster</span><span id="ro" >Stridii buze negre cu perle</span></td><td>-</td></tr>       
-    <tr><td>Pinctada mazatlanica</td><td><span id="en">Panama pearl oyster</span><span id="ro" >Stridii de Panama cu perle</span></td><td>-</td></tr>   
-    
-    <tr><td>Magallana gigas / Crassostrea gigas</td><td><span id="en">Pacific oyster</span><span id="ro" >Stridii de Pacific</span></td><td>-</td></tr>       
-    <tr><td>Saccostrea glomerata</td><td><span id="en">Sydney Rock Oyster</span><span id="ro" >Stridii de Rocă Sydney </span></td><td>-</td></tr>       
-    <tr><td>Ostrea angasi</td><td><span id="en">Australian flat oyster</span><span id="ro" >Stridii Plate Australiane</span></td><td>-</td></tr>       
-    <tr><td>Ostrea chilensis</td><td><span id="en">Dredge oyster</span><span id="ro" >Stridii de Chile</span></td><td>-</td></tr>       
-    <tr><td>Ostrea edulis</td><td><span id="en">European flat oyster</span><span id="ro" >Stridii Plate Europene</span></td><td>-</td></tr>       
-    <tr><td>Ostrea equestris</td><td><span id="en">Horse oyster</span><span id="ro" >Stridii Cal</span></td><td>-</td></tr>   
-    <tr><td>Crassostrea rhizophorae</td><td><span id="en">Mangrove cupped oyster</span><span id="ro" >Stridii de Mangrove cu cupă</span></td><td>-</td></tr>   
-    <tr><td>Saccostrea echinata</td><td><span id="en">Blacklip rock oyster</span><span id="ro" >Stridii de Rocă buze negre</span></td><td>-</td></tr>   
-
-    <tr><td>Amusium balloti </td><td><span id="en">Dry Ballot’s Saucer Scallop</span><span id="ro" >Scoici de farfurie a lui Ballot</span></td><td>-</td></tr> 
-    <tr><td>Amusium pleuronectes </td><td><span id="en">Dry Northern Saucer Scallop</span><span id="ro" >Scoici Farfurie de Nord Uscate</span></td><td>-</td></tr> 
-    <tr><td>Pecten fumatus </td><td><span id="en">Dry Commercial Scallop</span><span id="ro" >Scoici Uscate Comerciale</span></td><td>-</td></tr> 
-    <tr><td>Pecten maximus </td><td><span id="en">Dry Great Scallops / St. Jacques</span><span id="ro" >St. Jacques</span></td><td>-</td></tr> 
-    <tr><td>Chlamys hastata </td><td><span id="en">Dry Alaskan Spiny Scallop</span><span id="ro" >Scoici Uscate Spinoase de Alaska</span></td><td>-</td></tr> 
-    <tr><td>Aequipecten opercularis </td><td><span id="en">Dry Queen Scallop</span><span id="ro" >Scoici Uscate Regine</span></td><td>-</td></tr> 
-    <tr><td>Argopecten irradians</td><td><span id="en">Dry Nantucket / Atlantic Bay Scallops</span><span id="ro" >Scoici de Atlantic / Scoici de Nantucket</span></td><td>-</td></tr> 
-    <tr><td>Argopecten purpuratus </td><td><span id="en">Dry Peruvian Calico Scallop</span><span id="ro" >Scoici Peruviene Uscate</span></td><td>-</td></tr> 
     <tr><td>Chlamys farreri </td><td><span id="en">Dry Zhikong Scallop</span><span id="ro" >Scoici Zhikong Uscate</span></td><td>-</td></tr> 
     
     <tr><td>Saxidomus gigantea</td><td><span id="en">Butter Clam</span><span id="ro" >Scoici Unt</span></td><td>-</td></tr> 
