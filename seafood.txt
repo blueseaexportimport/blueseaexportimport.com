@@ -11,6 +11,12 @@
 </div>
 <!-- Slide End -->
 
+<!-- Slide Start -->
+<div class="seafoodSlides fade">
+<img src="https://i.ibb.co/grVZwG4/seafoodb.jpg" alt="seafood item2" /> 
+</div>
+<!-- Slide End -->
+
 </div><!-- Slide Container -->
 
 <script>
