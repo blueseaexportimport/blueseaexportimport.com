@@ -195,7 +195,7 @@ $(document).ready(function () {
    });
   // Grab journalism on click end
 
-  // Grab journalism on click start
+  // Grab fish on click start
   $("#fishbtn").click(function() {
     if ($("#fish").hasClass("clickedfish")) {
         // already been clicked once, hide it
@@ -209,9 +209,24 @@ $(document).ready(function () {
         }});
     }
    });
-  // Grab journalism on click end
+  // Grab fish on click end
 
 
+  // Grab sea food on click start
+  $("#seafoodbtn").click(function() {
+    if ($("#seafood").hasClass("clickedseafood")) {
+        // already been clicked once, hide it
+        $("#seafood").html("");
+        $( "#seafood" ).removeClass( "clickedseafood" )
+    }else {
+        // first time this is clicked, mark it
+        $("#seafood").addClass("clickedseafood");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/seafood.txt", success: function(result){
+         $("#seafood").html(result);
+        }});
+    }
+   });
+  // Grab sea food on click end
 
 	
 
@@ -913,7 +928,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (6)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (6)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (7)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (7)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Human Food Grains</span><span id="ro">Cereale Consum Uman</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Rice</span><span id="ro">Orez</span></h5>    
@@ -973,7 +988,7 @@ $(document).ready(function () {
    </div>	
   <h5 class="categoryaccordion" ><span id="en">Roe / Caviar</span><span id="ro">Icre și Caviar</span></h5>
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Seafood</span><span id="ro">Fructe de Mare</span></h5>
+  <h5 class="categoryaccordion" ><span id="en">Seafood (1)</span><span id="ro">Fructe de Mare (1)</span></h5>
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Edible Algae</span><span id="ro">Alge comestibile</span></h5>
   <div class="rowbin" >-</div> 	
