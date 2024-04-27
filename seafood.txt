@@ -38,34 +38,7 @@ function showSlides(n) {
 </script>
 
 <!--
-    <tr><td>Chlamys farreri </td><td><span id="en">Dry Zhikong Scallop</span><span id="ro" >Scoici Zhikong Uscate</span></td><td>-</td></tr> 
-    
-    <tr><td>Saxidomus gigantea</td><td><span id="en">Butter Clam</span><span id="ro" >Scoici Unt</span></td><td>-</td></tr> 
-    <tr><td>Mercenaria mercenaria</td><td><span id="en">Atlantic Hard-Shell Clam</span><span id="ro" >Scoici cu coajă tare din Atlantic</span></td><td>-</td></tr> 
-    <tr><td>Mya arenaria</td><td><span id="en">Soft-shell Clam</span><span id="ro" >Scoici cu coajă moale</span></td><td>-</td></tr> 
-    <tr><td>Venerupis philippinarum</td><td><span id="en">Manila Clam</span><span id="ro" >Scoici de Manila</span></td><td>-</td></tr> 
-    <tr><td>Spisula solida</td><td><span id="en">Surf Clam</span><span id="ro" >Scoici Surf</span></td><td>-</td></tr> 
-    <tr><td>Siliqua patula</td><td><span id="en">Pacific Razor Clam</span><span id="ro" >Scoici Lamă de Pacific</span></td><td>-</td></tr> 
-    <tr><td>Ensis leei</td><td><span id="en">Atlantic Jackknife Clam</span><span id="ro" >Scoici Jackknife de Atlantic</span></td><td>-</td></tr> 
-    <tr><td>Cerastoderma edule</td><td><span id="en">Common Cockle / Clam</span><span id="ro" >Scoici comune</span></td><td>-</td></tr>       
-    <tr><td>Glycymeris glycymeris</td><td><span id="en">European bittersweet Clam</span><span id="ro" >Scoici dulci-amare Europene</span></td><td>-</td></tr>       
-    <tr><td>Clinocardium</td><td><span id="en">Nuttall's Cockle / Clam</span><span id="ro" >Scoicile lui Nuttall</span></td><td>-</td></tr> 
-    <tr><td>Corbicula fluminea</td><td><span id="en">Freshwater Clam</span><span id="ro" >Scoici de apă dulce</span></td><td>-</td></tr>
-    <tr><td>Panopea generosa</td><td><span id="en">Pacific Geoduck</span><span id="ro" >Scoici rață de Pacific</span></td><td>-</td></tr> 
 
-    <tr><td>Haliotis asinina</td><td><span id="en">Sea Snail Ass's-ear abalone</span><span id="ro" >Abalone Melc de Mare</span></td><td>-</td></tr>  
-    <tr><td>Haliotis australis</td><td><span id="en">Queen pāua</span><span id="ro" >Abalone Pāua Regină</span></td><td>-</td></tr>       
-    <tr><td>Haliotis iris</td><td><span id="en">Blackfoot pāua</span><span id="ro" >Abalone Pāua Picior Negru</span></td><td>-</td></tr>       
-    <tr><td>Haliotis virginea</td><td><span id="en">Virgin pāua</span><span id="ro" >Abalone Pāua Virgin</span></td><td>-</td></tr> 
-    <tr><td>Concholepas concholepas</td><td><span id="en">Chilean abalone</span><span id="ro" >Abalone Chilian</span></td><td>-</td></tr>
-    
-    <tr><td>Strongylocentrotus purpuratus</td><td><span id="en">Edible Purple Sea Urchin</span><span id="ro" >Arici de Mare Violet</span></td><td>-</td></tr> 
-    <tr><td>Strongylocentrotus droebachiensis</td><td><span id="en">Edible Green Sea Urchin</span><span id="ro" >Arici de Mare Verde</span></td><td>-</td></tr> 
-    <tr><td>Paracentrotus lividus</td><td><span id="en">Edible Stony Purple Sea Urchin</span><span id="ro" >Arici de Rocă Violet</span></td><td>-</td></tr> 
-    <tr><td>Psammechinus miliaris</td><td><span id="en">Edible Shore Sea Urchin</span><span id="ro" >Arici de Țărm</span></td><td>-</td></tr> 
-    <tr><td>Pseudocentrotus depressus</td><td><span id="en">Edible Pink Sea Urchin</span><span id="ro" >Arici de Mare Roz</span></td><td>-</td></tr> 
-    <tr><td>Hemicentrotus pulcherrimus</td><td><span id="en">Edible Japanese Purple Sea Urchin</span><span id="ro" >Arici de Mare Violet Japonez</span></td><td>-</td></tr> 
-    <tr><td>Evechinus chloroticus</td><td><span id="en">Edible Kina Sea Urchin</span><span id="ro" >Arici de Mare Kina</span></td><td>-</td></tr> 
     
     <tr><td>Cancer Pagurus</td><td><span id="en">Brown Crab</span><span id="ro" >Crabi bruni</span></td><td>-</td></tr> 
     <tr><td>Cancer magister</td><td><span id="en">Dungeness Crab</span><span id="ro" >Crabi Dungeness</span></td><td>-</td></tr> 
