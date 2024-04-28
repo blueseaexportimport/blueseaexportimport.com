@@ -1,5 +1,38 @@
-    <tr><td>Cyprinus carpio</td><td><span id="en">Carp roe</span><span id="ro" >Icre de crap</span></td><td>-</td></tr>   
-    <tr><td>Atlantic herring</td><td><span id="en">Herring roe</span><span id="ro" >Icre de hering</span></td><td>-</td></tr>   
-    <tr><td>Esox lucius</td><td><span id="en">Northern pike roe</span><span id="ro" >Icre de știucă</span></td><td>-</td></tr>    
-    <tr><td>Salmo salar</td><td><span id="en">Red (Atlantic salmon) caviar</span><span id="ro" >Icre de somon</span></td><td>-</td></tr>    
-    <tr><td>Huso huso</td><td><span id="en">Beluga caviar</span><span id="ro" >Caviar negru de Beluga</span></td><td>-</td></tr>
+<div class="slideprevnextbin">
+<div class="next" onclick="plusSlides(-1)" >&#10094;</div>
+<div class="prev" onclick="plusSlides(1)" >&#10095;</div>
+</div>
+
+<div class="slideshow-container">
+
+<!-- Slide Start -->
+<div class="roecaviarSlides fade">
+<img src="https://i.ibb.co/f8JvRmw/roecaviar.jpg" alt="roecaviar item1" /> 
+</div>
+<!-- Slide End -->
+
+</div><!-- Slide Container -->
+
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("roecaviarSlides");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slides[slideIndex-1].style.display = "block";  
+}
+</script>
