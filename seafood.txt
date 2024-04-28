@@ -19,7 +19,13 @@
 
 <!-- Slide Start -->
 <div class="seafoodSlides fade">
-<img src="https://i.ibb.co/VMgMZ32/seafoodc.jpg" alt="seafood item2" /> 
+<img src="https://i.ibb.co/VMgMZ32/seafoodc.jpg" alt="seafood item3" /> 
+</div>
+<!-- Slide End -->
+
+<!-- Slide Start -->
+<div class="seafoodSlides fade">
+<img src="https://i.ibb.co/bm180pK/seafoodd.jpg" alt="seafood item4" /> 
 </div>
 <!-- Slide End -->
 
@@ -49,23 +55,4 @@ function showSlides(n) {
 }
 </script>
 
-<!--
 
-    
-    <tr><td>Fenneropenaeus merguiensis</td><td><span id="en">White Banana Prawn</span><span id="ro" >Creveți Banane Albe</span></td><td>-</td></tr> 
-    <tr><td>Pandalus borealis</td><td><span id="en">Northern Prawn</span><span id="ro" >Creveți Nordici</span></td><td>-</td></tr>       
-    
-    <tr><td>Sicyonia brevirostris</td><td><span id="en">Brown rock shrimp</span><span id="ro" >Creveții Bruni de Rocă</span></td><td>-</td></tr>       
-    <tr><td>Pandalus montagui</td><td><span id="en">Aesop / Pink Shrimp</span><span id="ro" >Creveții Roz</span></td><td>-</td></tr>
-    <tr><td>Stomatopoda</td><td><span id="en">Mantis Shrimp</span><span id="ro" >Creveții Mantis</span></td><td>-</td></tr> 
-    <tr><td>Litopenaeus vannamei</td><td><span id="en">Whiteleg shrimp</span><span id="ro" >Creveții Picior alb</span></td><td>-</td></tr>  
-    <tr><td>Litopenaeus setiferus</td><td><span id="en">Atlantic white shrimp</span><span id="ro" >Creveții Albi de Atlantic</span></td><td>-</td></tr> 
-    
-    <tr><td>Procambarus clarkii</td><td><span id="en">Louisiana crawfish</span><span id="ro" >Raci de mlaștină Louisiana</span></td><td>-</td></tr>       
-    <tr><td>Cherax quadricarinatus</td><td><span id="en">Australian red claw crayfish</span><span id="ro" >Raci de apă dulce Australieni</span></td><td>-</td></tr> 
-    <tr><td>Pontastacus leptodactylus</td><td><span id="en">Danube crayfish</span><span id="ro" >Raci de Dunăre</span></td><td>-</td></tr> 
-
-Melci Escargot
-Pui de balta 
-
--->
