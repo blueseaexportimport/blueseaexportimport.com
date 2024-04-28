@@ -77,6 +77,8 @@ function showSlides(n) {
     <tr><td>Metapenaeus endeavouri</td><td><span id="en">Blue Endeavour Prawn</span><span id="ro" >Creveți Blue Endeavour</span></td><td>-</td></tr>  
     <tr><td>Metapenaeus ensis</td><td><span id="en">Red Endeavour Prawn</span><span id="ro" >Creveți Red Endeavour</span></td><td>-</td></tr>  
     <tr><td>Metapenaeus bennettae</td><td><span id="en">Greentail Prawn</span><span id="ro" >Creveți cu coada verde</span></td><td>-</td></tr>  
+
+
     <tr><td>Metapenaeus insolitus</td><td><span id="en">Greasyback Prawn</span><span id="ro" >Creveți Greasyback</span></td><td>-</td></tr> 
     <tr><td>Fenneropenaeus indicus</td><td><span id="en">Redleg Banana Prawn</span><span id="ro" >Creveți Picior Roșu</span></td><td>-</td></tr> 
     <tr><td>Fenneropenaeus merguiensis</td><td><span id="en">White Banana Prawn</span><span id="ro" >Creveți Banane Albe</span></td><td>-</td></tr> 
