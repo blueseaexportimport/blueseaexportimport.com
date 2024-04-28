@@ -17,6 +17,12 @@
 </div>
 <!-- Slide End -->
 
+<!-- Slide Start -->
+<div class="seafoodSlides fade">
+<img src="https://i.ibb.co/VMgMZ32/seafoodc.jpg" alt="seafood item2" /> 
+</div>
+<!-- Slide End -->
+
 </div><!-- Slide Container -->
 
 <script>
@@ -46,41 +52,6 @@ function showSlides(n) {
 <!--
 
     
-    <tr><td>Cancer Pagurus</td><td><span id="en">Brown Crab</span><span id="ro" >Crabi bruni</span></td><td>-</td></tr> 
-    <tr><td>Cancer magister</td><td><span id="en">Dungeness Crab</span><span id="ro" >Crabi Dungeness</span></td><td>-</td></tr> 
-    <tr><td>Paralithodes camtschaticus</td><td><span id="en">King Crab</span><span id="ro" >Crabi Rege</span></td><td>-</td></tr> 
-    <tr><td>Cancer irroratus</td><td><span id="en">Atlantic Rock Crab</span><span id="ro" >Crabi Atlantici de Rocă</span></td><td>-</td></tr> 
-    <tr><td>Ranina ranina</td><td><span id="en">Spanner Crab</span><span id="ro" >Crabi broască</span></td><td>-</td></tr> 
-    <tr><td>Scylla serrata</td><td><span id="en">Giant Mud Crab</span><span id="ro" >Crabi de Noroi Uriași</span></td><td>-</td></tr> 
-    <tr><td>Scylla olivacea</td><td><span id="en">Orange Mud Crab</span><span id="ro" >Crabi de Noroi Portocalii</span></td><td>-</td></tr> 
-    
-    <tr><td>Homarus americanus</td><td><span id="en">American / Maine Lobster</span><span id="ro" >Homari Americani</span></td><td>-</td></tr> 
-    <tr><td>Panulirus interruptus</td><td><span id="en">California Spiny Lobster</span><span id="ro" >Homari Spinoși Californieni</span></td><td>-</td></tr> 
-    <tr><td>Panulirus argus</td><td><span id="en">Caribbean Spiny Lobster</span><span id="ro" >Homari Spinoși de Caraibe</span></td><td>-</td></tr> 
-    <tr><td>Panulirus cygnus</td><td><span id="en">Western Rock Lobster</span><span id="ro" >Homari Vestici de Rocă</span></td><td>-</td></tr> 
-    <tr><td>Panulirus ornatus</td><td><span id="en">Tropical Rock Lobster</span><span id="ro" >Homari Tropicali de Rocă</span></td><td>-</td></tr> 
-    <tr><td>Jasus edwardsii</td><td><span id="en">Southern Rock Lobster</span><span id="ro" >Homari Sudici de Rocă</span></td><td>-</td></tr> 
-    <tr><td>Jasus verreauxi</td><td><span id="en">Eastern Rock Lobster</span><span id="ro" >Homari Estici de Rocă</span></td><td>-</td></tr> 
-    <tr><td>Palinurus elephas</td><td><span id="en">Mediterranean Lobster</span><span id="ro" >Homari Mediteranieni</span></td><td>-</td></tr>    
-    
-    <tr><td>Pandalus platyceros</td><td><span id="en">California spot Prawn</span><span id="ro" >Creveți de California</span></td><td>-</td></tr>       
-    <tr><td>Melicertus latisulcatus</td><td><span id="en">Western King Prawn</span><span id="ro" >Creveți Vestici Rege</span></td><td>-</td></tr>  
-    <tr><td>Melicertus plebejus</td><td><span id="en">Eastern King Prawn</span><span id="ro" >Creveți Estici Rege</span></td><td>-</td></tr>  
-    <tr><td>Nephrops norvegicus</td><td><span id="en">Dublin Bay Prawn / langoustine</span><span id="ro" >Langustine</span></td><td>-</td></tr>  
-    <tr><td>Penaeus monodo</td><td><span id="en">Black / Giant Tiger Prawn</span><span id="ro" >Creveți Tigri Uriași</span></td><td>-</td></tr>  
-    <tr><td>Marsupenaeus japonicus</td><td><span id="en">Kuruma Prawn</span><span id="ro" >Creveți Kuruma</span></td><td>-</td></tr>  
-    <tr><td>Penaeus esculentus</td><td><span id="en">Brown Tiger Prawn</span><span id="ro" >Creveți Tigri Maro</span></td><td>-</td></tr>  
-    <tr><td>Penaeus semisulcatus</td><td><span id="en">Grooved Tiger Prawn</span><span id="ro" >Creveți Tigri cu Șanțuri</span></td><td>-</td></tr>  
-    <tr><td>Metapenaeus macleayi</td><td><span id="en">School Prawn</span><span id="ro" >Creveți Școală</span></td><td>-</td></tr>  
-    <tr><td>Metapenaeus dalli</td><td><span id="en">Western School Prawn</span><span id="ro" >Creveți Vestici Școală</span></td><td>-</td></tr>  
-    <tr><td>Haliporoides sibogae</td><td><span id="en">Royal Red Prawn</span><span id="ro" >Creveți Roșii Roiali</span></td><td>-</td></tr>  
-    <tr><td>Metapenaeus endeavouri</td><td><span id="en">Blue Endeavour Prawn</span><span id="ro" >Creveți Blue Endeavour</span></td><td>-</td></tr>  
-    <tr><td>Metapenaeus ensis</td><td><span id="en">Red Endeavour Prawn</span><span id="ro" >Creveți Red Endeavour</span></td><td>-</td></tr>  
-    <tr><td>Metapenaeus bennettae</td><td><span id="en">Greentail Prawn</span><span id="ro" >Creveți cu coada verde</span></td><td>-</td></tr>  
-
-
-    <tr><td>Metapenaeus insolitus</td><td><span id="en">Greasyback Prawn</span><span id="ro" >Creveți Greasyback</span></td><td>-</td></tr> 
-    <tr><td>Fenneropenaeus indicus</td><td><span id="en">Redleg Banana Prawn</span><span id="ro" >Creveți Picior Roșu</span></td><td>-</td></tr> 
     <tr><td>Fenneropenaeus merguiensis</td><td><span id="en">White Banana Prawn</span><span id="ro" >Creveți Banane Albe</span></td><td>-</td></tr> 
     <tr><td>Pandalus borealis</td><td><span id="en">Northern Prawn</span><span id="ro" >Creveți Nordici</span></td><td>-</td></tr>       
     
@@ -93,4 +64,8 @@ function showSlides(n) {
     <tr><td>Procambarus clarkii</td><td><span id="en">Louisiana crawfish</span><span id="ro" >Raci de mlaștină Louisiana</span></td><td>-</td></tr>       
     <tr><td>Cherax quadricarinatus</td><td><span id="en">Australian red claw crayfish</span><span id="ro" >Raci de apă dulce Australieni</span></td><td>-</td></tr> 
     <tr><td>Pontastacus leptodactylus</td><td><span id="en">Danube crayfish</span><span id="ro" >Raci de Dunăre</span></td><td>-</td></tr> 
+
+Melci Escargot
+Pui de balta 
+
 -->
