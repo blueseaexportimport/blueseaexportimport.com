@@ -244,6 +244,21 @@ $(document).ready(function () {
    });
   // Grab roe caviar on click end
 
+  // Grab algae on click start
+  $("#algaebtn").click(function() {
+    if ($("#algae").hasClass("clickedalgae")) {
+        // already been clicked once, hide it
+        $("#algae").html("");
+        $( "#algae" ).removeClass( "clickedalgae" )
+    }else {
+        // first time this is clicked, mark it
+        $("#algae").addClass("clickedalgae");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/ediblealgae.txt", success: function(result){
+         $("#algae").html(result);
+        }});
+    }
+   });
+  // Grab algae on click end
 	
 
 });
@@ -944,7 +959,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (11)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (11)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (12)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (12)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Human Food Grains</span><span id="ro">Cereale Consum Uman</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Rice</span><span id="ro">Orez</span></h5>    
@@ -1012,8 +1027,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>		
-  <h5 class="categoryaccordion" ><span id="en">Edible Algae</span><span id="ro">Alge comestibile</span></h5>
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="algaebtn" ><span id="en">Edible Algae (1)</span><span id="ro">Alge comestibile (1)</span></h5>
+   <div id="algae" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 	
   </div></li><!--END SECTION-->	
 
   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (0)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (0)</b></span></button><div class="catalogpanel">
