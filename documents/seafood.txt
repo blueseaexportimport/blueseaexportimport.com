@@ -1,6 +1,6 @@
 <div class="slideprevnextbin">
-<div class="next" onclick="plusSlides(-1)" >&#10094;</div>
-<div class="prev" onclick="plusSlides(1)" >&#10095;</div>
+<div class="next" onclick="plusseafoodSlides(-1)" >&#10094;</div>
+<div class="prev" onclick="plusseafoodSlides(1)" >&#10095;</div>
 </div>
 
 <div class="slideshow-container">
@@ -35,11 +35,11 @@
 let slideIndexseafood = 1;
 showSlides(slideIndexseafood);
 
-function plusSlides(n) {
+function plusseafoodSlides(n) {
   showSlides(slideIndexseafood += n);
 }
 
-function currentSlide(n) {
+function currentseafoodSlide(n) {
   showSlides(slideIndexseafood = n);
 }
 
