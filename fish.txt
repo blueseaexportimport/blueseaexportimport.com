@@ -37,7 +37,7 @@
 
 <!-- Slide Start -->
 <div class="fishSlides fade">
-<img src="https://i.ibb.co/5THxRWq/oceanandseafishc.jpg" alt="fish item5" /> 
+<img src="https://i.ibb.co/5THxRWq/oceanandseafishc.jpg" alt="fish item6" /> 
 </div>
 <!-- Slide End -->
 
