@@ -52,8 +52,9 @@ function showSlides(n) {
     slidesseafood[i].style.display = "none";  
   }
   slidesseafood[slideIndexseafood-1].style.display = "block";  
-  console.log(slidesseafood[slideIndexseafood-1]);
 }
+  console.log(indexslide + "testseafood");
+
 </script>
 
 
