@@ -1,0 +1,59 @@
+<div class="slideprevnextbin">
+<div class="next" onclick="plusSlides(-1)" >&#10094;</div>
+<div class="prev" onclick="plusSlides(1)" >&#10095;</div>
+</div>
+
+<div class="slideshow-container">
+
+<!-- Slide Start -->
+<div class="seafoodSlides fade">
+<img src="https://i.ibb.co/0Y9VNzk/seafooda.jpg" alt="seafood sitem1" /> 
+</div>
+<!-- Slide End -->
+
+<!-- Slide Start -->
+<div class="seafoodSlides fade">
+<img src="https://i.ibb.co/grVZwG4/seafoodb.jpg" alt="seafood sitem2" /> 
+</div>
+<!-- Slide End -->
+
+<!-- Slide Start -->
+<div class="seafoodSlides fade">
+<img src="https://i.ibb.co/VMgMZ32/seafoodc.jpg" alt="seafood sitem3" /> 
+</div>
+<!-- Slide End -->
+
+<!-- Slide Start -->
+<div class="seafoodSlides fade">
+<img src="https://i.ibb.co/bm180pK/seafoodd.jpg" alt="seafood sitem4" /> 
+</div>
+<!-- Slide End -->
+
+</div><!-- Slide Container -->
+
+<script>
+let slideIndexseafood = 1;
+showSlides(slideIndexseafood);
+
+function plusSlides(n) {
+  showSlides(slideIndexseafood += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndexseafood = n);
+}
+
+function showSlides(n) {
+  let i;
+  let slidesseafood = document.getElementsByClassName("seafoodSlides");
+  if (n > slidesseafood.length) {slideIndexseafood = 1}    
+  if (n < 1) {slideIndexseafood = slidesseafood.length}
+  for (i = 0; i < slidesseafood.length; i++) {
+    slidesseafood[i].style.display = "none";  
+  }
+  slidesseafood[slideIndexseafood-1].style.display = "block";  
+  console.log(slidesseafood[slideIndexseafood-1]);
+}
+</script>
+
+
