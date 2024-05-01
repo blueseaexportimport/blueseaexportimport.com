@@ -33,17 +33,17 @@
 
 <script>
 let slideIndexseafood = 1;
-showSlides(slideIndexseafood);
+showseafoodSlides(slideIndexseafood);
 
 function plusseafoodSlides(n) {
-  showSlides(slideIndexseafood += n);
+  showseafoodSlides(slideIndexseafood += n);
 }
 
 function currentseafoodSlide(n) {
-  showSlides(slideIndexseafood = n);
+  showseafoodSlides(slideIndexseafood = n);
 }
 
-function showSlides(n) {
+function showseafoodSlides(n) {
   let i;
   let slidesseafood = document.getElementsByClassName("seafoodSlides");
   if (n > slidesseafood.length) {slideIndexseafood = 1}    
