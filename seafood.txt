@@ -7,25 +7,25 @@
 
 <!-- Slide Start -->
 <div class="seafoodSlides fade">
-<img src="https://i.ibb.co/0Y9VNzk/seafooda.jpg" alt="seafood item1" /> 
+<img src="https://i.ibb.co/0Y9VNzk/seafooda.jpg" alt="seafood sitem1" /> 
 </div>
 <!-- Slide End -->
 
 <!-- Slide Start -->
 <div class="seafoodSlides fade">
-<img src="https://i.ibb.co/grVZwG4/seafoodb.jpg" alt="seafood item2" /> 
+<img src="https://i.ibb.co/grVZwG4/seafoodb.jpg" alt="seafood sitem2" /> 
 </div>
 <!-- Slide End -->
 
 <!-- Slide Start -->
 <div class="seafoodSlides fade">
-<img src="https://i.ibb.co/VMgMZ32/seafoodc.jpg" alt="seafood item3" /> 
+<img src="https://i.ibb.co/VMgMZ32/seafoodc.jpg" alt="seafood sitem3" /> 
 </div>
 <!-- Slide End -->
 
 <!-- Slide Start -->
 <div class="seafoodSlides fade">
-<img src="https://i.ibb.co/bm180pK/seafoodd.jpg" alt="seafood item4" /> 
+<img src="https://i.ibb.co/bm180pK/seafoodd.jpg" alt="seafood sitem4" /> 
 </div>
 <!-- Slide End -->
 
