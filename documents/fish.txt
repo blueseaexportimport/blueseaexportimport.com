@@ -1,6 +1,6 @@
 <div class="slideprevnextbin">
-<div class="next" onclick="plusSlides(-1)" >&#10094;</div>
-<div class="prev" onclick="plusSlides(1)" >&#10095;</div>
+<div class="next" onclick="plusfishSlides(-1)" >&#10094;</div>
+<div class="prev" onclick="plusfishSlides(1)" >&#10095;</div>
 </div>
 
 <div class="slideshow-container">
@@ -47,17 +47,17 @@
 <script>
 $(document).ready(function() {
 let indexslide = 1;
-showSlides(indexslide);
+showfishSlides(indexslide);
 
-function plusSlides(n) {
-  showSlides(indexslide += n);
+function plusfishSlides(n) {
+  showfishSlides(indexslide += n);
 }
 
-function currentSlide(n) {
-  showSlides(indexslide = n);
+function currentfishSlide(n) {
+  showfishSlides(indexslide = n);
 }
 
-function showSlides(n) {
+function showfishSlides(n) {
   let i;
   let slidesfish = document.getElementsByClassName("fishSlides");
   if (n > slidesfish.length) {indexslide = 1}    
