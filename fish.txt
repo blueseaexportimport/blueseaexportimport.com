@@ -7,37 +7,37 @@
 
 <!-- Slide Start -->
 <div class="fishSlides fade">
-<img src="https://i.ibb.co/x3RTC6h/atlanticandseafish.jpg" alt="fish item1" /> 
+<img src="https://i.ibb.co/x3RTC6h/atlanticandseafish.jpg" alt="fish fitem1" /> 
 </div>
 <!-- Slide End -->
 
 <!-- Slide Start -->
 <div class="fishSlides fade">
-<img src="https://i.ibb.co/n8Tx3KW/freshwaterfish.jpg" alt="fish item2" /> 
+<img src="https://i.ibb.co/n8Tx3KW/freshwaterfish.jpg" alt="fish fitem2" /> 
 </div>
 <!-- Slide End -->
 
 <!-- Slide Start -->
 <div class="fishSlides fade">
-<img src="https://i.ibb.co/HXkPG79/pacifoceanandseafish.jpg" alt="fish item3" /> 
+<img src="https://i.ibb.co/HXkPG79/pacifoceanandseafish.jpg" alt="fish fitem3" /> 
 </div>
 <!-- Slide End -->
 
 <!-- Slide Start -->
 <div class="fishSlides fade">
-<img src="https://i.ibb.co/gg3p8gY/oceanandseafish.jpg" alt="fish item4" /> 
+<img src="https://i.ibb.co/gg3p8gY/oceanandseafish.jpg" alt="fish fitem4" /> 
 </div>
 <!-- Slide End -->
 
 <!-- Slide Start -->
 <div class="fishSlides fade">
-<img src="https://i.ibb.co/jG6H1F9/oceanandseafishb.jpg" alt="fish item5" /> 
+<img src="https://i.ibb.co/jG6H1F9/oceanandseafishb.jpg" alt="fish fitem5" /> 
 </div>
 <!-- Slide End -->
 
 <!-- Slide Start -->
 <div class="fishSlides fade">
-<img src="https://i.ibb.co/5THxRWq/oceanandseafishc.jpg" alt="fish item6" /> 
+<img src="https://i.ibb.co/5THxRWq/oceanandseafishc.jpg" alt="fish fitem6" /> 
 </div>
 <!-- Slide End -->
 
