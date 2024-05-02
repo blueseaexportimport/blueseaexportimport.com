@@ -1,6 +1,6 @@
 <div class="slideprevnextbin">
-<div class="next" onclick="plusSlides(-1)" >&#10094;</div>
-<div class="prev" onclick="plusSlides(1)" >&#10095;</div>
+<div class="next" onclick="fishplusSlides(-1)" >&#10094;</div>
+<div class="prev" onclick="fishplusSlides(1)" >&#10095;</div>
 </div>
 
 <div class="slideshow-container">
@@ -46,26 +46,26 @@
 
 <script>
 $(document).ready(function() {
-let slideIndex = 1;
-showSlides(slideIndex);
+let fishslideIndex = 1;
+fishshowSlides(fishslideIndex);
 
-function plusSlides(n) {
-  showSlides(slideIndex += n);
+function fishplusSlides(n) {
+  fishshowSlides(fishslideIndex += n);
 }
 
-function currentSlide(n) {
-  showSlides(slideIndex = n);
+function fishcurrentSlide(n) {
+  fishshowSlides(fishslideIndex = n);
 }
 
-function showSlides(n) {
+function fishshowSlides(n) {
   let i;
-  let slides = document.getElementsByClassName("fishSlides");
-  if (n > slides.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";  
+  let fishslides = document.getElementsByClassName("fishSlides");
+  if (n > fishslides.length) {fishslideIndex = 1}    
+  if (n < 1) {fishslideIndex = fishslides.length}
+  for (i = 0; i < fishslides.length; i++) {
+    fishslides[i].style.display = "none";  
   }
-  slides[slideIndex-1].style.display = "block";  
+  fishslides[slideIndex-1].style.display = "block";  
 }
 });
 </script>
