@@ -30,6 +30,25 @@
   justify-content: center;      /*  added  */
 }
 
+.fishslidernav{
+  text-align:center;
+  padding:0;
+  margin:15px 0;
+}
+.fishslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #ddd;
+  margin: 0 4px;
+}
+.fishslidernav a:hover {background-color: #ddd;}
+.fishslidernav a:focus {background-color: gold;}
+
+
+
 </style>
 
 <div class="fishslider">
