@@ -29,17 +29,7 @@
   display: flex;                /*  added  */
   align-items: center;          /*  added  */
   justify-content: center;      /*  added  */
-  animation: slide-fish 10s infinite;
 }
-
-@keyframes slide-fish {
-  0%    { transform: translateX(0); }
-  25%   { transform: translateX( calc(-100% - 100px) ); }
-  50%   { transform: translateX( calc(-200% - 200px) ); }
-  100%  { transform: translateX( calc(-300% - 300px) ); }
-}
-
-
 
 </style>
 
