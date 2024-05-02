@@ -129,7 +129,7 @@ $(document).ready(function () {
     }else {
         // first time this is clicked, mark it
         $("#journalism").addClass("clickedjournalism");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/journalism.txt", success: function(result){
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/journalism.txt?" + rand, success: function(result){
          $("#journalism").html(result);
         }});
     }
@@ -138,6 +138,7 @@ $(document).ready(function () {
 
   // Grab fish on click start
   $("#fishbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
     if ($("#fish").hasClass("clickedfish")) {
         // already been clicked once, hide it
         $("#fish").html("");
@@ -145,7 +146,7 @@ $(document).ready(function () {
     }else {
         // first time this is clicked, mark it
         $("#fish").addClass("clickedfish");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/fish.txt", success: function(result){
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/fish.txt?" + rand, success: function(result){
          $("#fish").html(result);
         }});
     }
@@ -172,6 +173,7 @@ $(document).ready(function () {
 
   // Grab roe caviar on click start
   $("#roecaviarbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
     if ($("#roecaviar").hasClass("clickedroecaviar")) {
         // already been clicked once, hide it
         $("#roecaviar").html("");
@@ -179,7 +181,7 @@ $(document).ready(function () {
     }else {
         // first time this is clicked, mark it
         $("#roecaviar").addClass("clickedroecaviar");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/caviar.txt", success: function(result){
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/caviar.txt?"  + rand, success: function(result){
          $("#roecaviar").html(result);
         }});
     }
@@ -188,6 +190,7 @@ $(document).ready(function () {
 
   // Grab algae on click start
   $("#algaebtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
     if ($("#algae").hasClass("clickedalgae")) {
         // already been clicked once, hide it
         $("#algae").html("");
@@ -195,7 +198,7 @@ $(document).ready(function () {
     }else {
         // first time this is clicked, mark it
         $("#algae").addClass("clickedalgae");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/ediblealgae.txt", success: function(result){
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/ediblealgae.txt?" + rand, success: function(result){
          $("#algae").html(result);
         }});
     }
