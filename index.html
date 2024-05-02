@@ -58,46 +58,6 @@
      li{text-align:left;}
      #ro{display:none;}
 
-/* slider */
-    .slideshow-container{max-width:100%;position:relative;margin:auto;text-align:center;}
-    .slideshow-container img{max-width:100%;height:auto;display:block;}
-    
-.slideprevnextbin {
-  background-color: #FFFFFF;
-  display: flex;
-  justify-content: space-between;
-  border:0px solid #ccc;
-  width:100%;
-  margin-top:13px;
-}
-
-/* Next & previous buttons */
-
-.prev, .next  {
-  text-align:center;
-  cursor: pointer;
-  width: 47%;
-  display:inline-block;
-  padding: 16px;
-  background-color: rgba(0,0,0,0.8);
-  color:white;
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  user-select: none;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-  background-color: gold;
-  color:black;
-}
-
-.prev:focus, .next:focus {
-  background-color: gold;
-  color:black;
-}
-
 /* Fading animation */
 .fade {
   animation-name: fade;
@@ -107,15 +67,6 @@
 @keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
-}
-
-/* On smaller screens, decrease text size */
-@media only screen and (max-width: 700px) {
-.prev, .next  {width: 43%;} 
-}
-
-@media only screen and (max-width: 300px) {
-  .prev, .next,.text {font-size: 11px}
 }
 
 
@@ -129,7 +80,7 @@
      table{display:none;}
      tbody{display:table;width:100% !important;}
     .categorypanel{border-spacing: 0px;border-collapse: collapse;background:white;color:black;width:100%;font-size:19px;white-space: normal;}
-    .categorypanel img{ width:auto; height:auto;}
+    .categorypanel img{ width:auto !important; height:auto !important;}
      th{padding:7px 7px;margin:0;font-weight:bold;width:25%;text-transform:uppercase;color:black;background:#f4f4f4;border-top:1px solid #999;border-right:1px solid #999;}
      th:first-child{border-left:1px solid #999;} 
      td{word-break: break-word;padding:7px 7px;margin:0;font-weight:normal;width:25%;color:black;font-family: 'Roboto Condensed', Arial, sans-serif;border-left:1px solid #999;border-right:1px solid #000;}
