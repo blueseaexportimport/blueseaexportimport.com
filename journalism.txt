@@ -1,3 +1,7 @@
-<div class="slidediv" >
+<style>
+    .journalismslidediv img{ width:auto; height:auto;}
+</style> 
+
+<div class="journalismslidediv" >
 <img src="https://i.ibb.co/JnvNKFS/journalism.jpg" alt="journalism item1" /> 
 </div>
