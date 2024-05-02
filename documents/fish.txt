@@ -31,7 +31,7 @@
 .slides > div {
   scroll-snap-align: start;
   flex-shrink: 0;
-  width: 100%;
+  width: 90%;
   height: auto;
   margin-right: 0px;
   border-radius: 0px;
