@@ -39,32 +39,26 @@
   <a href="#seafoodslide-2">2</a>
   <a href="#seafoodslide-3">3</a>
   <a href="#seafoodslide-4">4</a>
-  <a href="#seafoodslide-5">5</a>
-  <a href="#seafoodslide-6">6</a>
 </div>
 
   <div class="seafoodslides">
     <div class="fade" id="seafoodslide-1">
-      <img src="https://i.ibb.co/x3RTC6h/atlanticandseafish.jpg" alt="seafooditem1" /> 
+      <img src="https://i.ibb.co/0Y9VNzk/seafooda.jpg" alt="seafooditem1" /> 
     </div>
     <div class="fade" id="seafoodslide-2">
-      <img src="https://i.ibb.co/n8Tx3KW/freshwaterfish.jpg" alt="seafooditem2" /> 
+      <img src="https://i.ibb.co/grVZwG4/seafoodb.jpg" alt="seafooditem2" /> 
     </div>
     <div class="fade" id="seafoodslide-3">
-      <img src="https://i.ibb.co/HXkPG79/pacifoceanandseafish.jpg" alt="seafooditem3" /> 
+      <img src="https://i.ibb.co/VMgMZ32/seafoodc.jpg" alt="seafooditem3" /> 
     </div>
     <div class="fade" id="seafoodslide-4">
-      <img src="https://i.ibb.co/HXkPG79/oceanandseafish.jpg" alt="seafooditem4" /> 
-    </div>
-    <div class="fade" id="seafoodslide-5">
-      <img src="https://i.ibb.co/jG6H1F9/oceanandseafishb.jpg" alt="seafooditem5" /> 
-    </div>
-    <div class="fade" id="seafoodslide-6">
-      <img src="https://i.ibb.co/5THxRWq/oceanandseafishc.jpg" alt="seafooditem6" /> 
+      <img src="https://i.ibb.co/bm180pK/seafoodd.jpg" alt="seafooditem4" /> 
     </div>
   </div><!-- seafoodSlides -->
 
 </div><!-- seafoodSlider -->
+
+
 
 
 
