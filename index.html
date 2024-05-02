@@ -222,6 +222,25 @@ $(document).ready(function () {
    });
   // Grab olives on click end
 
+
+  // Grab honey on click start
+  $("#beehoneyandwaxbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#beehoneyandwax").hasClass("clickedbeehoneyandwax")) {
+        // already been clicked once, hide it
+        $("#beehoneyandwax").html("");
+        $( "#beehoneyandwax" ).removeClass( "clickedbeehoneyandwax" )
+    }else {
+        // first time this is clicked, mark it
+        $("#beehoneyandwax").addClass("clickedbeehoneyandwax");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/beehoneyandwax.txt?" + rand, success: function(result){
+         $("#beehoneyandwax").html(result);
+        }});
+    }
+   });
+  // Grab honey on click end
+
+
 	
 
 });
@@ -976,8 +995,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Frozen Meat</span><span id="ro">Carne Congelată</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" id="beehoneyandwaxbtn" ><span id="en">Bee Honey and Wax</span><span id="ro">Miere de Albine și Ceară</span></h5>
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="beehoneyandwaxbtn" ><span id="en">Bee Honey and Wax (1)</span><span id="ro">Miere de Albine și Ceară (1)</span></h5>
+   <div id="beehoneyandwax" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="fishbtn" ><span id="en">Fish (6)</span><span id="ro">Pește (6)</span></h5>
    <div id="fish" class="categorypanel" >
    <!-- Load info start --> 
