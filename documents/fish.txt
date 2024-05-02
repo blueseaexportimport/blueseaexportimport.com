@@ -1,65 +1,38 @@
-<div class="slideprevnextbin">
-<div class="next" onclick="fishplusSlides(-1)" >&#10094;</div>
-<div class="prev" onclick="fishplusSlides(1)" >&#10095;</div>
-</div>
-
-<div class="slideshow-container">
-
-<!-- Slide Start -->
-<div class="fishSlides fade">
-<img src="https://i.ibb.co/x3RTC6h/atlanticandseafish.jpg" alt="fish fitem1" /> 
-</div>
-<!-- Slide End -->
-
-<!-- Slide Start -->
-<div class="fishSlides fade">
-<img src="https://i.ibb.co/n8Tx3KW/freshwaterfish.jpg" alt="fish fitem2" /> 
-</div>
-<!-- Slide End -->
-
-<!-- Slide Start -->
-<div class="fishSlides fade">
-<img src="https://i.ibb.co/HXkPG79/pacifoceanandseafish.jpg" alt="fish fitem3" /> 
-</div>
-<!-- Slide End -->
-
-<!-- Slide Start -->
-<div class="fishSlides fade">
-<img src="https://i.ibb.co/gg3p8gY/oceanandseafish.jpg" alt="fish fitem4" /> 
-</div>
-<!-- Slide End -->
-
-<!-- Slide Start -->
-<div class="fishSlides fade">
-<img src="https://i.ibb.co/jG6H1F9/oceanandseafishb.jpg" alt="fish fitem5" /> 
-</div>
-<!-- Slide End -->
-
-<!-- Slide Start -->
-<div class="fishSlides fade">
-<img src="https://i.ibb.co/5THxRWq/oceanandseafishc.jpg" alt="fish fitem6" /> 
-</div>
-<!-- Slide End -->
 
 
-</div><!-- Slide Container -->
+<div class="slider">
+  
+  <a href="#slide-1">1</a>
+  <a href="#slide-2">2</a>
+  <a href="#slide-3">3</a>
+  <a href="#slide-4">4</a>
+  <a href="#slide-5">5</a>
 
-<script>
-let fishslideIndex = 1;
-fishshowSlides(fishslideIndex);
+  <div class="slides">
+    <div id="slide-1">
+      <img src="https://i.ibb.co/x3RTC6h/atlanticandseafish.jpg" alt="fishitem1" /> 
+    </div>
+    <div id="slide-2">
+      <img src="https://i.ibb.co/n8Tx3KW/freshwaterfish.jpg" alt="fishitem2" /> 
+    </div>
+    <div id="slide-3">
+      <img src="https://i.ibb.co/HXkPG79/pacifoceanandseafish.jpg" alt="fishitem3" /> 
+    </div>
+    <div id="slide-4">
+      <img src="https://i.ibb.co/HXkPG79/oceanandseafish.jpg" alt="fishitem4" /> 
+    </div>
+    <div id="slide-5">
+      <img src="https://i.ibb.co/jG6H1F9/oceanandseafishb.jpg" alt="fishitem5" /> 
+    </div>
+    <div id="slide-6">
+      <img src="https://i.ibb.co/5THxRWq/oceanandseafishc.jpg" alt="fishitem6" /> 
+    </div>
+  </div><!-- Slides -->
 
-function fishplusSlides(n) {
-  fishshowSlides(fishslideIndex += n);
-}
+</div><!-- Slider -->
 
-function fishshowSlides(n) {
-  let i;
-  let fishslides = document.getElementsByClassName("fishSlides");
-  if (n > fishslides.length) {fishslideIndex = 1}    
-  if (n < 1) {fishslideIndex = fishslides.length}
-  for (i = 0; i < fishslides.length; i++) {
-    fishslides[i].style.display = "none";  
-  }
-  fishslides[fishslideIndex-1].style.display = "block";  
-}
-</script>
+
+
+
+
+
