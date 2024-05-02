@@ -1,17 +1,59 @@
 
 <style>
 
+.slider{
+ width:100%;
+}
+.slidernav{
+ text-align:center;
+ width:100%; 
+}
+.slides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
+
+.slides img {
+  max-width: 100%;
+  height: auto;
+}
+
+.slides > div {
+  width: calc(100% - 100px);    /*  added, full width - margin  */
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 1px solid red;        /*  added, for demo purpose  */
+  margin: 20px 50px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+  
+  animation: slide-fish 10s infinite;
+}
+
+@keyframes slide-fish {
+  0%    { transform: translateX(0); }
+  25%   { transform: translateX( calc(-100% - 100px) ); }
+  50%   { transform: translateX( calc(-200% - 200px) ); }
+  100%  { transform: translateX( calc(-300% - 300px) ); }
+}
+
+
 
 </style>
 
 <div class="slider">
-  
+
+<div class="slidernav" >
   <a href="#slide-1">1</a>
   <a href="#slide-2">2</a>
   <a href="#slide-3">3</a>
   <a href="#slide-4">4</a>
   <a href="#slide-5">5</a>
   <a href="#slide-6">6</a>
+</div>
 
   <div class="slides">
     <div id="slide-1">
