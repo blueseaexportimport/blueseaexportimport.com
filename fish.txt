@@ -44,9 +44,10 @@
   border: 1px solid #ddd;
   margin: 0 4px;
 }
-.fishslidernav a:hover {background-color: #ddd;}
-.fishslidernav a:focus {background-color: gold;}
 
+.fishslidernav a:hover {background-color: gold;}
+.fishslidernav a:active {background-color: gold;}
+.fishslidernav a:focus {background-color: gold;}
 
 
 </style>
