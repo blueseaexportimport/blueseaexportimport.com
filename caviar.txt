@@ -1,3 +1,7 @@
-<div class="slidediv" >
+<style>
+    .caviarslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="caviarslidediv" >
 <img src="https://i.ibb.co/f8JvRmw/roecaviar.jpg" alt="roecaviar item1" /> 
 </div>
