@@ -44,7 +44,8 @@
   border: 1px solid #ddd;
   margin: 0 4px;
 }
-.seafoodslidernav a:hover {background-color: #ddd;}
+.seafoodslidernav a:hover {background-color: gold;}
+.seafoodslidernav a:active {background-color: gold;}
 .seafoodslidernav a:focus {background-color: gold;}
 
 </style>
