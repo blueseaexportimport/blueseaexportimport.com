@@ -23,7 +23,7 @@
 .seafoodslides > div {
   width: 100%;  
   flex-shrink: 0;               /*  added, so it won't shrink  */
-  border: 1px solid red;        /*  added, for demo purpose  */
+  border: 0px solid red;        /*  added, for demo purpose  */
   margin: 0px;                 /*  added, instead of padding on parent  */
   display: flex;                /*  added  */
   align-items: center;          /*  added  */
