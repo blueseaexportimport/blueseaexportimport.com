@@ -25,11 +25,10 @@
   width: calc(100% - 100px);    /*  added, full width - margin  */
   flex-shrink: 0;               /*  added, so it won't shrink  */
   border: 1px solid red;        /*  added, for demo purpose  */
-  margin: 20px 50px;                 /*  added, instead of padding on parent  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
   display: flex;                /*  added  */
   align-items: center;          /*  added  */
   justify-content: center;      /*  added  */
-  
   animation: slide-fish 10s infinite;
 }
 
