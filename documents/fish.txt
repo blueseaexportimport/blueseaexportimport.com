@@ -45,7 +45,6 @@
 </div><!-- Slide Container -->
 
 <script>
-$(document).ready(function() {
 let fishslideIndex = 1;
 fishshowSlides(fishslideIndex);
 
@@ -63,5 +62,4 @@ function fishshowSlides(n) {
   }
   fishslides[fishslideIndex-1].style.display = "block";  
 }
-});
 </script>
