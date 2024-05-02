@@ -45,6 +45,7 @@
 </div><!-- Slide Container -->
 
 <script>
+$(document).ready(function() {
 let slideIndex = 1;
 showSlides(slideIndex);
 
@@ -66,4 +67,5 @@ function showSlides(n) {
   }
   slides[slideIndex-1].style.display = "block";  
 }
+});
 </script>
