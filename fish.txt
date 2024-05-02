@@ -1,71 +1,67 @@
-<div class="slideprevnextbin">
-<div class="next" onclick="plusSlides(-1)" >&#10094;</div>
-<div class="prev" onclick="plusSlides(1)" >&#10095;</div>
-</div>
+<style>
 
-<div class="slideshow-container">
-
-<!-- Slide Start -->
-<div class="fishSlides fade">
-<img src="https://i.ibb.co/x3RTC6h/atlanticandseafish.jpg" alt="fish fitem1" /> 
-</div>
-<!-- Slide End -->
-
-<!-- Slide Start -->
-<div class="fishSlides fade">
-<img src="https://i.ibb.co/n8Tx3KW/freshwaterfish.jpg" alt="fish fitem2" /> 
-</div>
-<!-- Slide End -->
-
-<!-- Slide Start -->
-<div class="fishSlides fade">
-<img src="https://i.ibb.co/HXkPG79/pacifoceanandseafish.jpg" alt="fish fitem3" /> 
-</div>
-<!-- Slide End -->
-
-<!-- Slide Start -->
-<div class="fishSlides fade">
-<img src="https://i.ibb.co/gg3p8gY/oceanandseafish.jpg" alt="fish fitem4" /> 
-</div>
-<!-- Slide End -->
-
-<!-- Slide Start -->
-<div class="fishSlides fade">
-<img src="https://i.ibb.co/jG6H1F9/oceanandseafishb.jpg" alt="fish fitem5" /> 
-</div>
-<!-- Slide End -->
-
-<!-- Slide Start -->
-<div class="fishSlides fade">
-<img src="https://i.ibb.co/5THxRWq/oceanandseafishc.jpg" alt="fish fitem6" /> 
-</div>
-<!-- Slide End -->
-
-
-</div><!-- Slide Container -->
-
-<script>
-let slideIndex = 1;
-showSlides(slideIndex);
-
-function plusSlides(n) {
-  showSlides(slideIndex += n);
+.fishslider{
+ width:100%;
+}
+.fishslidernav{
+ text-align:center;
+ width:100%; 
+}
+.fishslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
 }
 
-function currentSlide(n) {
-  showSlides(slideIndex = n);
+.fishslides img {
+  max-width: 100%;
+  height: auto;
 }
 
-function showSlides(n) {
-  let i;
-  let slidesfish = document.getElementsByClassName("fishSlides");
-  if (n > slidesfish.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = slidesfish.length}
-  for (i = 0; i < slidesfish.length; i++) {
-    slidesfish[i].style.display = "none";  
-  }
-  slidesfish[slideIndex-1].style.display = "block";  
+.fishslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 1px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
 }
-</script>
 
+</style>
 
+<div class="fishslider">
+
+<div class="fishslidernav" >
+  <a href="#fishslide-1">1</a>
+  <a href="#fishslide-2">2</a>
+  <a href="#fishslide-3">3</a>
+  <a href="#fishslide-4">4</a>
+  <a href="#fishslide-5">5</a>
+  <a href="#fishslide-6">6</a>
+</div>
+
+  <div class="fishslides">
+    <div id="fishslide-1">
+      <img src="https://i.ibb.co/x3RTC6h/atlanticandseafish.jpg" alt="fishitem1" /> 
+    </div>
+    <div id="fishslide-2">
+      <img src="https://i.ibb.co/n8Tx3KW/freshwaterfish.jpg" alt="fishitem2" /> 
+    </div>
+    <div id="fishslide-3">
+      <img src="https://i.ibb.co/HXkPG79/pacifoceanandseafish.jpg" alt="fishitem3" /> 
+    </div>
+    <div id="fishslide-4">
+      <img src="https://i.ibb.co/HXkPG79/oceanandseafish.jpg" alt="fishitem4" /> 
+    </div>
+    <div id="fishslide-5">
+      <img src="https://i.ibb.co/jG6H1F9/oceanandseafishb.jpg" alt="fishitem5" /> 
+    </div>
+    <div id="fishslide-6">
+      <img src="https://i.ibb.co/5THxRWq/oceanandseafishc.jpg" alt="fishitem6" /> 
+    </div>
+  </div><!-- fishSlides -->
+
+</div><!-- fishSlider -->
