@@ -3,5 +3,5 @@
 </style> 
 
 <div class="beehoneyandwaxslidediv" >
-<img src="https://i.ibb.co/wh2pXtR/honey.jpg" alt="honey item1" /> 
+<img src="https://i.ibb.co/vdqKqY1/honey.jpg" alt="honey item1" /> 
 </div>
