@@ -47,7 +47,7 @@ function seafoodshowSlides(n) {
   let i;
   let seafoodslides = document.getElementsByClassName("seafoodSlides");
   if (n > seafoodslides.length) {seafoodslideIndex = 1}    
-  if (n < 1) {seafoodslideIndex = slides.length}
+  if (n < 1) {seafoodslideIndex = seafoodslides.length}
   for (i = 0; i < seafoodslides.length; i++) {
     seafoodslides[i].style.display = "none";  
   }
