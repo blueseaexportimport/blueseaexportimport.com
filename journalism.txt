@@ -1,5 +1,5 @@
 <style>
-    .journalismslidediv img{ width:auto; height:auto;}
+    .journalismslidediv img{ width:100%; height:auto;}
 </style> 
 
 <div class="journalismslidediv" >
