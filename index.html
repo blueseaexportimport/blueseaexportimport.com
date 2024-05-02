@@ -162,7 +162,7 @@ $(document).ready(function () {
     }else {
         // first time this is clicked, mark it
         $("#seafood").addClass("clickedseafood");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/seafood.txt", success: function(result){
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/seafood.txt" + Math.random(), success: function(result){
          $("#seafood").html(result);
         }});
     }
