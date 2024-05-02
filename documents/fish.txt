@@ -58,12 +58,12 @@ function currentSlide(n) {
 
 function showSlides(n) {
   let i;
-  let slidesfish = document.getElementsByClassName("fishSlides");
-  if (n > slidesfish.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = slidesfish.length}
-  for (i = 0; i < slidesfish.length; i++) {
-    slidesfish[i].style.display = "none";  
+  let slides = document.getElementsByClassName("fishSlides");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
   }
-  slidesfish[slideIndex-1].style.display = "block";  
+  slides[slideIndex-1].style.display = "block";  
 }
 </script>
