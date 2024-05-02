@@ -204,6 +204,24 @@ $(document).ready(function () {
     }
    });
   // Grab algae on click end
+
+  // Grab olives on click start
+  $("#olivesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#olives").hasClass("clickedolives")) {
+        // already been clicked once, hide it
+        $("#olives").html("");
+        $( "#olives" ).removeClass( "clickedolives" )
+    }else {
+        // first time this is clicked, mark it
+        $("#olives").addClass("clickedolives");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/olives.txt?" + rand, success: function(result){
+         $("#olives").html(result);
+        }});
+    }
+   });
+  // Grab olives on click end
+
 	
 
 });
@@ -904,7 +922,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (12)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (12)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (13)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (13)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Human Food Grains</span><span id="ro">Cereale Consum Uman</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Rice</span><span id="ro">Orez</span></h5>    
@@ -929,8 +947,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Green Robusta Coffee Beans</span><span id="ro">Boabe Cafea Robusta Verde</span></h5>
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" id="olivesbtn" ><span id="en">Olives</span><span id="ro">Măsline</span></h5>
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="olivesbtn" ><span id="en">Olives (1)</span><span id="ro">Măsline (1)</span></h5>
+   <div id="olives" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" ><span id="en">Spices and Herbs</span><span id="ro">Ierburi și Condimente</span></h5>
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Spices Mixes - Blends </span><span id="ro">Mixuri de Ierburi și Condimente</span></h5>
