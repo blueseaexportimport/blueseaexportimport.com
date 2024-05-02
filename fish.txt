@@ -32,8 +32,8 @@
 
 .fishslidernav{
   text-align:center;
-  padding:0;
-  margin:15px 0;
+  padding:15px 0;
+  margin:0;
 }
 .fishslidernav > a{
   display:inline-block; 
