@@ -44,22 +44,22 @@
 </div>
 
   <div class="fishslides">
-    <div id="fishslide-1">
+    <div class="fade" id="fishslide-1">
       <img src="https://i.ibb.co/x3RTC6h/atlanticandseafish.jpg" alt="fishitem1" /> 
     </div>
-    <div id="fishslide-2">
+    <div class="fade" id="fishslide-2">
       <img src="https://i.ibb.co/n8Tx3KW/freshwaterfish.jpg" alt="fishitem2" /> 
     </div>
-    <div id="fishslide-3">
+    <div class="fade" id="fishslide-3">
       <img src="https://i.ibb.co/HXkPG79/pacifoceanandseafish.jpg" alt="fishitem3" /> 
     </div>
-    <div id="fishslide-4">
+    <div class="fade" id="fishslide-4">
       <img src="https://i.ibb.co/HXkPG79/oceanandseafish.jpg" alt="fishitem4" /> 
     </div>
-    <div id="fishslide-5">
+    <div class="fade" id="fishslide-5">
       <img src="https://i.ibb.co/jG6H1F9/oceanandseafishb.jpg" alt="fishitem5" /> 
     </div>
-    <div id="fishslide-6">
+    <div class="fade" id="fishslide-6">
       <img src="https://i.ibb.co/5THxRWq/oceanandseafishc.jpg" alt="fishitem6" /> 
     </div>
   </div><!-- fishSlides -->
