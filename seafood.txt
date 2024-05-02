@@ -30,6 +30,21 @@
   justify-content: center;      /*  added  */
 }
 
+.seafoodslidernav{
+  text-align:center;
+}
+.seafoodslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #ddd;
+  margin: 0 4px;
+}
+.seafoodslidernav a:hover {background-color: #ddd;}
+.seafoodslidernav a:focus {background-color: gold;}
+
 </style>
 
 <div class="seafoodslider">
