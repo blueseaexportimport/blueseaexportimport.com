@@ -1,3 +1,7 @@
-<div class="slidediv" >
+<style>
+    .ediblealgaeslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="ediblealgaeslidediv" >
 <img src="https://i.ibb.co/yNHcytF/algae.jpg" alt="algae item1" /> 
 </div>
