@@ -47,7 +47,6 @@
 <script>
 $(document).ready(function() {
 let fishslideIndex = 1;
-
 fishshowSlides(fishslideIndex);
 
 function fishplusSlides(n) {
