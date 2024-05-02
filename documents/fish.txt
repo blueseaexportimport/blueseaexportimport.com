@@ -65,7 +65,7 @@ function fishshowSlides(n) {
   for (i = 0; i < fishslides.length; i++) {
     fishslides[i].style.display = "none";  
   }
-  fishslides[slideIndex-1].style.display = "block";  
+  fishslides[fishslideIndex-1].style.display = "block";  
 }
 });
 </script>
