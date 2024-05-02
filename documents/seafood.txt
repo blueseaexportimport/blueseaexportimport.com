@@ -1,6 +1,6 @@
 <div class="slideprevnextbin">
-<div class="next" onclick="plusSlides(-1)" >&#10094;</div>
-<div class="prev" onclick="plusSlides(1)" >&#10095;</div>
+<div class="next" onclick="seafoodplusSlides(-1)" >&#10094;</div>
+<div class="prev" onclick="seafoodplusSlides(1)" >&#10095;</div>
 </div>
 
 <div class="slideshow-container">
@@ -32,25 +32,25 @@
 </div><!-- Slide Container -->
 
 <script>
-let slideIndex = 1;
-showSlides(slideIndex);
+let seafoodslideIndex = 1;
+seafoodshowSlides(seafoodslideIndex);
 
-function plusSlides(n) {
-  showSlides(slideIndex += n);
+function seafoodplusSlides(n) {
+  seafoodshowSlides(seafoodslideIndex += n);
 }
 
 function currentSlide(n) {
-  showSlides(slideIndex = n);
+  seafoodshowSlides(seafoodslideIndex = n);
 }
 
-function showSlides(n) {
+function seafoodshowSlides(n) {
   let i;
-  let slides = document.getElementsByClassName("seafoodSlides");
-  if (n > slides.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";  
+  let seafoodslides = document.getElementsByClassName("seafoodSlides");
+  if (n > seafoodslides.length) {seafoodslideIndex = 1}    
+  if (n < 1) {seafoodslideIndex = slides.length}
+  for (i = 0; i < seafoodslides.length; i++) {
+    seafoodslides[i].style.display = "none";  
   }
-  slides[slideIndex-1].style.display = "block";  
+  seafoodslides[seafoodslideIndex-1].style.display = "block";  
 }
 </script>
