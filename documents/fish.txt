@@ -22,7 +22,7 @@
 }
 
 .slides > div {
-  width: calc(100% - 100px);    /*  added, full width - margin  */
+  width: 100%;    /*  added, full width - margin  */
   flex-shrink: 0;               /*  added, so it won't shrink  */
   border: 1px solid red;        /*  added, for demo purpose  */
   margin: 0px;                 /*  added, instead of padding on parent  */
