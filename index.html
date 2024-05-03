@@ -240,6 +240,23 @@ $(document).ready(function () {
    });
   // Grab honey on click end
 
+  // Grab spicesandherbs on click start
+  $("#spicesandherbsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#spicesandherbs").hasClass("clickedspicesandherbs")) {
+        // already been clicked once, hide it
+        $("#spicesandherbs").html("");
+        $( "#spicesandherbs" ).removeClass( "clickedspicesandherbs" )
+    }else {
+        // first time this is clicked, mark it
+        $("#spicesandherbs").addClass("clickedspicesandherbs");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/spicesandherbs.txt?" + rand, success: function(result){
+         $("#spicesandherbs").html(result);
+        }});
+    }
+   });
+  // Grab honey on click end
+
 
 	
 
@@ -941,7 +958,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (14)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (14)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (17)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (17)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Human Food Grains</span><span id="ro">Cereale Consum Uman</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Rice</span><span id="ro">Orez</span></h5>    
@@ -971,8 +988,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" ><span id="en">Spices and Herbs</span><span id="ro">Ierburi și Condimente</span></h5>
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="spicesandherbsbtn" ><span id="en">Spices and Herbs (3)</span><span id="ro">Ierburi și Condimente (3)</span></h5>
+   <div id="spicesandherbs" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" ><span id="en">Spices Mixes - Blends </span><span id="ro">Mixuri de Ierburi și Condimente</span></h5>
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Medicinal Plants and Tea</span><span id="ro">Plante Medicinale și Ceai</span></h5>
