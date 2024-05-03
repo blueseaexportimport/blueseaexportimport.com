@@ -58,7 +58,7 @@
   <a href="#spicesandherbsslide-3">3</a>
 </div>
 
-  <div class="seafoodslides">
+  <div class="spicesandherbsslides">
     <div class="fade" id="spicesandherbsslide-1">
       <img src="https://i.ibb.co/7SMw32P/spicesa.jpg" alt="spicesandherbsitem1" /> 
     </div>
@@ -68,6 +68,6 @@
     <div class="fade" id="spicesandherbsslide-3">
       <img src="https://i.ibb.co/nCbZ2cf/spicesc.jpg" alt="spicesandherbsitem3" /> 
     </div>
-  </div><!-- seafoodSlides -->
+  </div><!-- spicesandherbsSlides -->
 
-</div><!-- seafoodSlider -->
+</div><!-- spicesandherbsSlider -->
