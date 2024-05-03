@@ -1,30 +1,73 @@
+<style>
 
-    <tr><td><span id="en">Chervil leaves</span><span id="ro">Frunze lime Chervil</span></td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Curry leaves</span><span id="ro">Frunze lime Kaffir</span></td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Cinnamon leaves</span><span id="ro">Frunze lime Chervil</span></td><td>-</td><td>-</td></tr> 
+.spicesandherbsslider{
+ width:100%;
+}
+.spicesandherbsslidernav{
+ text-align:center;
+ width:100%; 
+}
+.spicesandherbsslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
-    <tr><td><span id="en">Malabar Tamarind - Camboge</span><span id="ro">Tamarind Malabar - Camboge</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Dehydrated Garlic Powder</span><span id="ro">Pudră usturoi deshidratat</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Dehydrated Onion Powder</span><span id="ro">Pudră ceapă deshidratată</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Nutmace / Nutmeg flower </span><span id="ro">Floare de nucșoară</span> </td><td>-</td><td>-</td></tr>    
-	  
-    <tr><td><span id="en">Black Pepper kottanadan</span><span id="ro">Kottanadan - Piper negru clasic</span> <br>( <span id="en">South East Asia</span><span id="ro">Asia de Sud Est</span> )</td><td>-</td><td>-</td></tr>        
-    <tr><td><span id="en">Cubeb Pepper</span><span id="ro">Piper Cubeb</span> <br>( <span id="en">South East Asia</span><span id="ro">Asia de Sud Est</span> )</td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Green Pepper</span><span id="ro">Piper Verde</span>  <br>( <span id="en">South East Asia</span><span id="ro">Asia de Sud Est</span> )</td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">White Pepper</span><span id="ro">Piper Alb</span>  <br>( <span id="en">South East Asia</span><span id="ro">Asia de Sud Est</span> )</td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Sechuan Pepper</span><span id="ro">Piper Sechuan</span>  <br>( <span id="en">South East Asia</span><span id="ro">Asia de Sud Est</span> )</td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Japanese Pepper</span><span id="ro">Piper Japonez</span>  <br>( <span id="en">South East Asia</span><span id="ro">Asia de Sud Est</span>)</td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Kerala / Malabar Pepper</span><span id="ro">Piper Kerala / Malabar</span>  <br>( <span id="en">South East Asia</span><span id="ro">Asia de Sud Est</span> )</td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Long Pepper</span><span id="ro">Piper Lung</span>  <br>( <span id="en">South East Asia</span><span id="ro">Asia de Sud Est</span> )</td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Penja white pepper</span><span id="ro">Piper Alb Penja</span>  <br>( <span id="en">West Africa</span><span id="ro">Africa de Vest</span> )</td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Alligator / Mbongo pepper</span><span id="ro">Piper Alligator / Mbongo</span>  <br>( <span id="en">West Africa</span><span id="ro">Africa de Vest</span> )</td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Guinea pepper - Selim beans</span><span id="ro">Piper Guinea sau Boabe Selim</span><br>( <span id="en">West Africa</span><span id="ro">Africa de Vest</span> )</td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Kani pepper</span><span id="ro">Piper Kani</span> <br>( <span id="en">West Africa</span><span id="ro">Africa de Vest</span> )</td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Benin pepper - Piper guineense</span><span id="ro">Piper Benin sau Piper guineense</span> <br>( <span id="en">West Africa</span><span id="ro">Africa de Vest</span> )</td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Dorrigo pepper</span><span id="ro">Piper Dorrigo</span> <br>(  <span id="en">Australia and Oceania</span><span id="ro">Australia și Oceania</span> )</td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Tasmanian pepperberry</span><span id="ro">Piper Tasmanian</span> <br>( A<span id="en">Australia and Oceania</span><span id="ro">Australia și Oceania</span> )</td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Kawakawa pepper</span><span id="ro">Piper Kawakawa</span> <br>( <span id="en">Australia and Oceania</span><span id="ro">Australia și Oceania</span> )</td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Brazilian pepper - rose pepper</span><span id="ro">Piper Brazilian sau piper roze</span> <br>( <span id="en">South and Central America</span><span id="ro">America Centrală și de Sud</span> )</td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Peruvian pepper</span><span id="ro">Piper Peruvian</span><br>( <span id="en">South and Central America</span><span id="ro">America Centrală și de Sud</span> )</td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Jamaican pepper - Allspice</span><span id="ro">Piper Jamaican - Allspice</span><br>( <span id="en">South and Central America</span><span id="ro">America Centrală și de Sud</span> )</td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Voa pepper - Allspice</span><span id="ro">Piper Voa - Allspice</span><br>( <span id="en">East Africa</span><span id="ro">Africa de Est</span> )</td><td>-</td><td>-</td></tr>
+.spicesandherbsslides img {
+  max-width: 100%;
+  height: auto;
+}
+
+.spicesandherbsslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.spicesandherbsslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.spicesandherbsslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.spicesandherbsslidernav a:hover {background-color: gold;}
+.spicesandherbsslidernav a:active {background-color: gold;}
+.spicesandherbsslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="spicesandherbsslider">
+
+<div class="spicesandherbsslidernav" >
+  <a href="#spicesandherbsslide-1">1</a>
+  <a href="#spicesandherbsslide-2">2</a>
+  <a href="#spicesandherbsslide-3">3</a>
+</div>
+
+  <div class="seafoodslides">
+    <div class="fade" id="spicesandherbsslide-1">
+      <img src="https://i.ibb.co/7SMw32P/spicesa.jpg" alt="spicesandherbsitem1" /> 
+    </div>
+    <div class="fade" id="spicesandherbsslide-2">
+      <img src="https://i.ibb.co/9pKs7cW/spicesb.jpg" alt="spicesandherbsitem2" /> 
+    </div>
+    <div class="fade" id="spicesandherbsslide-3">
+      <img src="https://i.ibb.co/nCbZ2cf/spicesc.jpg" alt="spicesandherbsitem3" /> 
+    </div>
+  </div><!-- seafoodSlides -->
+
+</div><!-- seafoodSlider -->
