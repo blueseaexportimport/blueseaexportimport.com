@@ -1,36 +1,4 @@
 
-     <tr><td><span id="en">Marjoram</span><span id="ro">Măghiran</span></td><td>  
-     <tr><td><span id="en">Thyme</span><span id="ro">Cimbru</span></td><td>  
-     <tr><td><span id="en">Basil</span><span id="ro">Busuioc</span></td><td>  
-    <tr><td><span id="en">Parsley</span><span id="ro">Pătrunjel</span></td><td>  
-
-    <tr><td><span id="en">Tarragon</span><span id="ro">Tarhon</span></td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Garden cress</span><span id="ro">Creson de grădină</span></td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Oregano</span><span id="ro">Oregano</span> </td><td>-</td><td>-</td></tr> 
-
-   <tr><td><span id="en">Rosemary</span><span id="ro">Rozmarin</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Nutmeg</span><span id="ro">Nucșoară</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Calabash Nutmeg</span><span id="ro">Nucșoară Calabash</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Liquorice root</span><span id="ro">Rădăcină Lemn Dulce</span> </td><td>-</td><td>-</td></tr>     
-    <tr><td><span id="en">Fingerroot</span><span id="ro">Rădăcină Fingerroot</span> </td><td>-</td><td>-</td></tr>     
-    <tr><td><span id="en">Orris</span><span id="ro">Rădăcină Orris</span> </td><td>-</td><td>-</td></tr>     
-    <tr><td><span id="en">Galangal</span><span id="ro">Rădăcină Galangal</span> </td><td>-</td><td>-</td></tr>     
-    <tr><td><span id="en">Ginseng</span><span id="ro">Rădăcină Ginseng</span> </td><td>-</td><td>-</td></tr>     
-    <tr><td><span id="en">Wasabi root</span><span id="ro">Rădăcină Wasabi</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Sarsaparilla</span><span id="ro">Rădăcină Sarsaparilla</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Turmeric</span><span id="ro">Rădăcină Turmeric</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Ginger</span><span id="ro">Rădăcină Ghimbir</span> </td><td>-</td><td>-</td></tr>     
-    <tr><td><span id="en">Cinnamon ceylon</span><span id="ro">Scorțișoară ceylon</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Cinnamon canella</span><span id="ro">Scorțișoară canella</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Cinnamon cassia</span><span id="ro">Scorțișoară cassia<</span> </td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Cinnamon vietnam</span><span id="ro">Scorțișoară vietnam</span> </td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Azafrán de bolita</span><span id="ro">Șofran de bolita</span> </td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Spanish Saffron</span><span id="ro">Șofran de Spania</span> </td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Iranian Saffron</span><span id="ro">Șofran de Iran</span> </td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Schinduf seeds</span><span id="ro">Semințe Schinduf</span> </td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Ajwain seeds</span><span id="ro">Semințe Ajwain</span> </td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Cumin seeds</span><span id="ro">Semințe Chimion</span> </td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Cardamom</span><span id="ro">Semințe Cardamom</span> </td><td>-</td><td>-</td></tr> 
     <tr><td><span id="en">Black Cardamom</span><span id="ro">Semințe Cardamom Negru</span> </td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Anise</span><span id="ro">Semințe Anason</span> </td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Star Anise</span><span id="ro">Semințe Anason Stelat</span> </td><td>-</td><td>-</td></tr>  
