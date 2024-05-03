@@ -1,21 +1,7 @@
-   <tr><td><span id="en">Long grain white rice</span><span id="ro">Orez Bob Lung</span> </td><td><span id="en">5% Broken Long grain</span><span id="ro">5% Spărtură Bob Lung</span></td><td>-</td></tr>    
-    <tr><td><span id="en">Long grain white rice</span><span id="ro">Orez Bob Lung</span> </td><td><span id="en">10% Broken Long grain</span><span id="ro">10% Spărtură Bob Lung</span></td><td>-</td></tr>    
-    <tr><td><span id="en">Long grain white rice</span><span id="ro">Orez Bob Lung</span> </td><td><span id="en">15% Broken Long grain</span><span id="ro">15% Spărtură Bob Lung</span></td><td>-</td></tr>    
-    <tr><td><span id="en">Long grain white rice</span><span id="ro">Orez Bob Lung</span> </td><td><span id="en">25% Broken Long grain</span><span id="ro">25% Spărtură Bob Lung</span></td><td>-</td></tr>    
-    <tr><td><span id="en">Long grain white rice</span><span id="ro">Orez Bob Lung</span> </td><td><span id="en">35% Broken Long grain</span><span id="ro">35% Spărtură Bob Lung</span></td><td>-</td></tr>    
-    <tr><td><span id="en">Long grain white rice</span><span id="ro">Orez Bob Lung</span> </td><td><span id="en">45% Broken Long grain</span><span id="ro">45% Spărtură Bob Lung</span></td><td>-</td></tr>    
-    <tr><td><span id="en">Long grain white rice</span><span id="ro">Orez Bob Lung</span> </td><td><span id="en">100% Broken Long grain</span><span id="ro">100% Spărtură Bob Lung</span></td><td>-</td></tr>    
-    <tr><td><span id="en">Arborio rice</span><span id="ro">Orez Arborio</span> </td><td><span id="en">5% Broken Medium grain</span><span id="ro">5% Spărtură Bob Mediu</span></td><td>-</td></tr>    
-    <tr><td><span id="en">Basmati rice</span><span id="ro">Orez Basmati</span> </td><td><span id="en">10% Broken Long grain</span><span id="ro">10% Spărtură Bob Lung</span></td><td>-</td></tr>    
-    <tr><td><span id="en">Black rice</span><span id="ro">Orez Negru</span> </td><td><span id="en">15% Broken Long grain</span><span id="ro">15% Spărtură Bob Lung</span></td><td>-</td></tr>   
-    <tr><td><span id="en">Black rice</span><span id="ro">Orez Negru</span> </td><td><span id="en">15% Broken Medium grain</span><span id="ro">15% Spărtură Bob Mediu</span></td><td>-</td></tr>   
-    <tr><td><span id="en">Black rice</span><span id="ro">Orez Negru</span> </td><td><span id="en">15% Broken Short grain</span><span id="ro">15% Spărtură Bob Scurt</span></td><td>-</td></tr>   
-    <tr><td><span id="en">Bomba rice</span><span id="ro">Orez Negru</span> </td><td><span id="en">25% Broken Short grain</span><span id="ro">25% Spărtură Bob Scurt</span></td><td>-</td></tr>    
-    <tr><td><span id="en">Brown rice</span><span id="ro">Orez Negru</span> </td><td><span id="en">35% Broken Long grain</span><span id="ro">35% Spărtură Bob Scurt</span></td><td>-</td></tr>    
-    <tr><td><span id="en">Jasmine rice</span><span id="ro">Orez Jasmine</span> </td><td><span id="en">45% Broken Long grain</span><span id="ro">45% Spărtură Bob Lung</span></td><td>-</td></tr>    
-    <tr><td><span id="en">Parboiled rice</span><span id="ro">Orez Parboiled</span> </td><td><span id="en">100% Broken Long grain</span><span id="ro">100% Spărtură Bob Lung</span></td><td>-</td></tr> 
-    <tr><td><span id="en">Parboiled rice</span><span id="ro">Orez Parboiled</span> </td><td><span id="en">100% Broken Medium grain</span><span id="ro">100% Spărtură Bob Mediu</span></td><td>-</td></tr> 
-    <tr><td><span id="en">Parboiled rice</span><span id="ro">Orez Parboiled</span> </td><td><span id="en">100% Broken Short grain</span><span id="ro">100% Spărtură Bob Scurt</span></td><td>-</td></tr> 
-    <tr><td><span id="en">Sticky rice</span><span id="ro">Orez Lipicios</span> </td><td><span id="en">5% Broken Long grain</span><span id="ro">5% Spărtură Bob Lung</span></td><td>-</td></tr>    
-    <tr><td><span id="en">Sushi rice</span><span id="ro">Orez Sushi</span> </td><td><span id="en">10% Broken Short grain</span><span id="ro">100% Spărtură Bob Scurt</span></td><td>-</td></tr>  
+<style>
+    .riceslidediv img{ width:100%; height:auto;}
+</style> 
 
+<div class="riceslidediv" >
+<img src="https://i.ibb.co/xC4XvPG/rice.jpg" alt="rice item1" /> 
+</div>
