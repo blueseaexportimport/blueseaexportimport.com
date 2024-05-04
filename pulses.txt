@@ -1,37 +1,69 @@
-    <tr><td><span id="en">Beans - White</span><span id="ro">Fasole albă bob mic</span> </td><td>530 - 570 per 100g</td><td>-</td></tr>   
-    <tr><td><span id="en">Beans - White</span><span id="ro">Fasole albă bob mediu</span> </td><td>300 - 430 per 100g</td><td>-</td></tr>
-    <tr><td><span id="en">Beans - White</span><span id="ro">Fasole albă bob mare</span> </td><td>45 - 50 per 100g</td><td>-</td></tr>
-    <tr><td><span id="en">Beans - Adzuki</span><span id="ro">Fasole - Adzuki</span>  </td><td>530 - 570 per 100g</td><td>-</td></tr>   
-    <tr><td><span id="en">Beans - Anasazi</span><span id="ro">Fasole - Anasazi</span> </td><td>300 - 430 per 100g</td><td>-</td></tr>
-    <tr><td><span id="en">Beans - Appaloosa</span><span id="ro">Fasole - Appaloosa</span> </td><td>45 - 50 per 100g</td><td>-</td></tr>   
-    <tr><td><span id="en">Beans - Baby Lima</span><span id="ro">Fasole - Baby Lima</span> </td><td>530 - 570 per 100g</td><td>-</td></tr>   
-    <tr><td><span id="en">Beans - Black Calypso</span><span id="ro">Fasole - Black Calypso</span> </td><td>300 - 430 per 100g</td><td>-</td></tr>
-    <tr><td><span id="en">Beans - Black Turtle</span><span id="ro">Fasole - Black Turtle</span></td><td>45 - 50 per 100g</td><td>-</td></tr>
-    <tr><td><span id="en">Beans - Dark Red Kidney</span><span id="ro">Fasole - Dark Red Kidney</span></td><td>530 - 570 per 100g</td><td>-</td></tr>   
-    <tr><td><span id="en">Beans - Great Northern</span><span id="ro">Fasole - Great Northern</span></td><td>300 - 430 per 100g</td><td>-</td></tr>
-    <tr><td><span id="en">Beans - Jacob's Cattle Trout</span><span id="ro">Fasole - Jacob's Cattle Trout</span></td><td>45 - 50 per 100g</td><td>-</td></tr>      
-    <tr><td><span id="en">Beans - Large Faba</span><span id="ro">Fasole - Faba</span></td><td>45 - 50 per 100g</td><td>-</td></tr>
-    <tr><td><span id="en">Beans - Large Lima</span><span id="ro">Fasole - Lima</span> </td><td>530 - 570 per 100g</td><td>-</td></tr>   
-    <tr><td><span id="en">Beans - Light Red Kidney</span><span id="ro">Fasole - Red Kidney</span></td><td>300 - 430 per 100g</td><td>-</td></tr>
-    <tr><td><span id="en">Beans - Mung</span><span id="ro">Fasole - Mung</span></td><td>45 - 50 per 100g</td><td>-</td></tr>        
-    <tr><td><span id="en">Beans - Scarlet</span><span id="ro">Fasole - Scarlet</span></td><td>45 - 50 per 100g</td><td>-</td></tr>
-    <tr><td><span id="en">Beans - Tongue of Fire</span><span id="ro">Fasole - Tongue of Firet</span></td><td>530 - 570 per 100g</td><td>-</td></tr>   
-    <tr><td><span id="en">Beans - White Kidney</span><span id="ro">Fasole - White Kidney</span></td><td>300 - 430 per 100g</td><td>-</td></tr>
-    <tr><td><span id="en">Beans - White Navy</span><span id="ro">Fasole - White Navy</span></td><td>45 - 50 per 100g</td><td>-</td></tr>       
-    <tr><td><span id="en">Beans - Yellow</span><span id="ro">Fasole - Galbenă</span></td><td>45 - 50 per 100g</td><td>-</td></tr>    
-    <tr><td><span id="en">Beans - Bambara</span><span id="ro">Fasole - Bambara</span></td><td>45 - 50 per 100g</td><td>-</td></tr>    
-    <tr><td><span id="en">Lentils - Beluga</span><span id="ro">Linte - Beluga</span></td><td>45 - 50 per 100g</td><td>-</td></tr>
-    <tr><td><span id="en">Lentils - Brown</span><span id="ro">Linte - Maro</span></td><td>530 - 570 per 100g</td><td>-</td></tr>   
-    <tr><td><span id="en">Lentils - French Green</span><span id="ro">Linte - Verde Franțuzească</span> </td><td>300 - 430 per 100g</td><td>-</td></tr>
-    <tr><td><span id="en">Lentils - Red (Split)</span><span id="ro">Lintea - roșie decorticată</span></td><td>45 - 50 per 100g</td><td>-</td></tr>       
-    <tr><td><span id="en">Lentils - Red (Whole)</span><span id="ro">Lintea - roșie nedecorticată</span></td><td>45 - 50 per 100g</td><td>-</td></tr>    
-    <tr><td><span id="en">Peas - Black-Eyed</span><span id="ro">Mazăre - Black-Eyed</span> </td><td>45 - 50 per 100g</td><td>-</td></tr>
-    <tr><td><span id="en">Peas - Green (Split)</span><span id="ro">Mazăre - verde decorticată</span></td><td>530 - 570 per 100g</td><td>-</td></tr>   
-    <tr><td><span id="en">Peas - Green (Whole)</span><span id="ro">Mazăre - verde nedecorticată</span></td><td>300 - 430 per 100g</td><td>-</td></tr>
-    <tr><td><span id="en">Peas - Marrowfat</span><span id="ro">Mazăre - Marrowfat</span></td><td>45 - 50 per 100g</td><td>-</td></tr>       
-    <tr><td><span id="en">Peas - Pigeon</span><span id="ro">Mazăre - Pigeon</span></td><td>45 - 50 per 100g</td><td>-</td></tr>  
-    <tr><td><span id="en">Peas - Yellow ( Split )</span><span id="ro">Mazăre - galbenă decorticată</span></td><td>45 - 50 per 100g</td><td>-</td></tr>
-    <tr><td><span id="en">Peas - Yellow ( Whole )</span><span id="ro">Mazăre - galbenă nedecorticată</span></td><td>530 - 570 per 100g</td><td>-</td></tr>   
-    <tr><td><span id="en">Peas - Yellow-Eyed</span><span id="ro">Mazăre - Yellow-Eyed</span></td><td>300 - 430 per 100g</td><td>-</td></tr>
-    <tr><td><span id="en">Chickpeas - Kabuli</span><span id="ro">Năut -  Kabuli</span> </td><td>45 - 50 per 100g</td><td>-</td></tr> 
-    <tr><td><span id="en">Chickpeas - Desi</span><span id="ro">Năut -  Desi</span> </td><td>45 - 50 per 100g</td><td>-</td></tr>  
+<style>
+
+.pulsesslider{
+ width:100%;
+}
+.pulsesslidernav{
+ text-align:center;
+ width:100%; 
+}
+.pulsesslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
+
+.pulsesslides img {
+  max-width: 100%;
+  height: auto;
+}
+
+.pulsesslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.pulsesslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.pulsesslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.pulsesslidernav a:hover {background-color: gold;}
+.pulsesslidernav a:active {background-color: gold;}
+.pulsesslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="pulsesslider">
+
+<div class="pulsesslidernav" >
+  <a href="#pulsesslide-1">1</a>
+  <a href="#pulsesslide-2">2</a>
+</div>
+
+  <div class="pulsesslides">
+    <div class="fade" id="pulsesslide-1">
+      <img src="https://i.ibb.co/WcrfRsM/pulses.jpg" alt="pulsesitem1" /> 
+    </div>
+    <div class="fade" id="pulsesslide-2">
+      <img src="https://i.ibb.co/XW82CHj/pulsesb.jpg" alt="pulsesitem2" /> 
+    </div>
+  </div><!-- pulsesSlides -->
+
+</div><!-- pulsesSlider -->
