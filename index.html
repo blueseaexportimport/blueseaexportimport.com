@@ -308,7 +308,25 @@ $(document).ready(function () {
    });
   // Grab humanfoodgrains on click end
 
+  // Grab pulses on click start
+  $("#pulses").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#pulses").hasClass("clickedpulses")) {
+        // already been clicked once, hide it
+        $("#pulses").html("");
+        $( "#pulses" ).removeClass( "clickedpulses" )
+    }else {
+        // first time this is clicked, mark it
+        $("#pulses").addClass("clickedpulses");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/pulses.txt?" + rand, success: function(result){
+         $("#pulses").html(result);
+        }});
+    }
+   });
+  // Grab pulses on click end
 
+
+	
 	
 });
 </script>
@@ -1008,7 +1026,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (20)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (20)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (22)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (22)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="humanfoodgrainsbtn" ><span id="en">Human Food Grains (1)</span><span id="ro">Cereale Consum Uman (1)</span></h5>    
    <div id="humanfoodgrains" class="categorypanel" >
    <!-- Load info start --> 
@@ -1019,8 +1037,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" ><span id="en">Pulses</span><span id="ro">Păstăioase</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="pulsesbtn" ><span id="en">Pulses (2)</span><span id="ro">Păstăioase (2)</span></h5>    
+   <div id="pulses" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="vegetablesbtn" ><span id="en">Vegetables</span><span id="ro">Legume</span></h5>
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Microgreens</span><span id="ro">Microgreens</span></h5>
