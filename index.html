@@ -291,7 +291,25 @@ $(document).ready(function () {
    });
   // Grab trufflesandmushrooms on click end
 	
+  // Grab humanfoodgrains on click start
+  $("#humanfoodgrainsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#humanfoodgrains").hasClass("clickedhumanfoodgrains")) {
+        // already been clicked once, hide it
+        $("#humanfoodgrains").html("");
+        $( "#humanfoodgrains" ).removeClass( "clickedhumanfoodgrains" )
+    }else {
+        // first time this is clicked, mark it
+        $("#humanfoodgrains").addClass("clickedhumanfoodgrains");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/humanfoodgrains.txt?" + rand, success: function(result){
+         $("#humanfoodgrains").html(result);
+        }});
+    }
+   });
+  // Grab humanfoodgrains on click end
 
+
+	
 });
 </script>
 
@@ -990,9 +1008,12 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (19)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (19)</b></span></button><div class="catalogpanel">
-  <h5 class="categoryaccordion" ><span id="en">Human Food Grains</span><span id="ro">Cereale Consum Uman</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (20)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (20)</b></span></button><div class="catalogpanel">
+  <h5 class="categoryaccordion" id="humanfoodgrainsbtn" ><span id="en">Human Food Grains (1)</span><span id="ro">Cereale Consum Uman (1)</span></h5>    
+   <div id="rice" class="humanfoodgrains" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="ricebtn" ><span id="en">Rice (1)</span><span id="ro">Orez (1)</span></h5>    
    <div id="rice" class="categorypanel" >
    <!-- Load info start --> 
