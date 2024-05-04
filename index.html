@@ -273,6 +273,23 @@ $(document).ready(function () {
     }
    });
   // Grab rice on click end
+
+  // Grab trufflesandmushrooms on click start
+  $("#trufflesandmushroomsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#trufflesandmushrooms").hasClass("clickedtrufflesandmushrooms")) {
+        // already been clicked once, hide it
+        $("#trufflesandmushrooms").html("");
+        $( "#trufflesandmushrooms" ).removeClass( "clickedtrufflesandmushrooms" )
+    }else {
+        // first time this is clicked, mark it
+        $("#trufflesandmushrooms").addClass("clickedtrufflesandmushrooms");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/trufflesandmushrooms.txt?" + rand, success: function(result){
+         $("#trufflesandmushrooms").html(result);
+        }});
+    }
+   });
+  // Grab trufflesandmushrooms on click end
 	
 
 });
@@ -973,7 +990,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (18)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (18)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (19)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (19)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Human Food Grains</span><span id="ro">Cereale Consum Uman</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" id="ricebtn" ><span id="en">Rice (1)</span><span id="ro">Orez (1)</span></h5>    
@@ -1017,8 +1034,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Chili Peppers </span><span id="ro">Ardei Iuți</span></h5>
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Truffles and Mushrooms</span><span id="ro">Trufe și Ciuperci</span></h5>
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="trufflesandmushroomsbtn" ><span id="en">Truffles and Mushrooms (1)</span><span id="ro">Trufe și Ciuperci (1)</span></h5>
+   <div id="trufflesandmushrooms" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" ><span id="en">Fresh Eggs</span><span id="ro">Ouă Proaspete</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" id="chickenfreshmeatbtn" ><span id="en">Chicken Fresh Meat</span><span id="ro">Carne Proaspătă de Pui</span></h5>    
