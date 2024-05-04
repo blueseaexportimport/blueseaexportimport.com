@@ -3,5 +3,5 @@
 </style> 
 
 <div class="riceslidediv" >
-<img src="https://i.ibb.co/xC4XvPG/rice.jpg" alt="rice item1" /> 
+<img src="https://i.ibb.co/P5KwCx0/rice.jpg" alt="rice item1" /> 
 </div>
