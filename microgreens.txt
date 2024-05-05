@@ -3,6 +3,6 @@
 </style> 
 
 <div class="microgreensslidediv" >
-<img src="https://i.ibb.co/6PP5xZ3/microgreens.jpg" alt="olives item1" /> 
+<img src="https://i.ibb.co/6PP5xZ3/microgreens.jpg" alt="microgreens item1" /> 
 </div>
 
