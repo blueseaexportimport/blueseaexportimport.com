@@ -50,7 +50,7 @@
 
 </style>
 
-<div class="spicesandherbsslider">
+<div class="vegetablesslider">
 
 <div class="vegetablesslidernav" >
   <a href="#vegetablesslide-1">1</a>
@@ -60,13 +60,13 @@
 
   <div class="vegetablesslides">
     <div class="fade" id="vegetablesslide-1">
-      <img src="https://i.ibb.co/5xLDQbR/vegetables.jpg" alt="spicesandherbsitem1" /> 
+      <img src="https://i.ibb.co/5xLDQbR/vegetables.jpg" alt="vegetablesitem1" /> 
     </div>
-    <div class="fade" id="spicesandherbsslide-2">
-      <img src="https://i.ibb.co/B33HFvy/vegetablesb.jpg" alt="spicesandherbsitem2" /> 
+    <div class="fade" id="vegetablesslide-2">
+      <img src="https://i.ibb.co/B33HFvy/vegetablesb.jpg" alt="vegetablesitem2" /> 
     </div>
-    <div class="fade" id="spicesandherbsslide-3">
-      <img src="https://i.ibb.co/Rhn9tLc/vegetablesc.jpg" alt="spicesandherbsitem3" /> 
+    <div class="fade" id="vegetablesslide-3">
+      <img src="https://i.ibb.co/Rhn9tLc/vegetablesc.jpg" alt="vegetablesitem3" /> 
     </div>
   </div><!-- vegetablesSlides -->
 
