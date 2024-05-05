@@ -1,21 +1,7 @@
-    <tr><td>Coarnă </td><td>- </td><td>-</td></tr>
-    <tr><td>Ceaslă  </td><td>-</td><td>-</td></tr>   
-    <tr><td>Cardinal</td><td>-</td><td>-</td></tr>
-    <tr><td>Eva</td><td>-</td><td>-</td></tr>
-    <tr><td>Dattier de Beyrouth</td><td>-</td><td>-</td></tr>
-    <tr><td>Favorit</td><td>-</td><td>-</td></tr>
-    <tr><td>Hamburg</td><td>-</td><td>-</td></tr>
-    <tr><td>Nero</td><td>-</td><td>-</td></tr>
-    <tr><td>Moldova</td><td>-</td><td>-</td></tr>
-    <tr><td>Victoria</td><td>-</td><td>-</td></tr> 
-    <tr><td>Crimson seedless</td><td>-</td><td>-</td></tr> 
-    <tr><td>Sultana</td><td>-</td><td>-</td></tr> 
-    <tr><td>Niagara</td><td>-</td><td>-</td></tr> 
-    <tr><td>Concord</td><td>-</td><td>-</td></tr> 
-    <tr><td>Black Monukka</td><td>-</td><td>-</td></tr> 
-    <tr><td>Moon Drop</td><td>-</td><td>-</td></tr> 
-    <tr><td>Flame seedless</td><td>-</td><td>-</td></tr> 
-    <tr><td>Cotton Candy Grapes</td><td>-</td><td>-</td></tr> 
-    <tr><td>Red Globe</td><td>-</td><td>-</td></tr> 
-    <tr><td>Autumn Royal</td><td>-</td><td>-</td></tr> 
-    <tr><td>Himrod</td><td>-</td><td>-</td></tr>
+<style>
+    .tablegrapesslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="tablegrapesslidediv" >
+<img src="https://i.ibb.co/0KyTXbC/tablegrapes.jpg" alt="tablegrapes item1" /> 
+</div>
