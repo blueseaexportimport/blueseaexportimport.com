@@ -393,6 +393,24 @@ $(document).ready(function () {
    });
   // Grab winemakinggrapes on click end
 
+  // Grab cacaobeans on click start
+  $("#cacaobeansbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#cacaobeans").hasClass("clickedcacaobeans")) {
+        // already been clicked once, hide it
+        $("#cacaobeans").html("");
+        $( "#cacaobeans" ).removeClass( "clickedcacaobeans" )
+    }else {
+        // first time this is clicked, mark it
+        $("#cacaobeans").addClass("clickedcacaobeans");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/cacaobeans.txt?" + rand, success: function(result){
+         $("#cacaobeans").html(result);
+        }});
+    }
+   });
+  // Grab cacaobeans on click end
+
+	
 	
 	
 });
@@ -1093,7 +1111,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (28)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (28)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (29)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (29)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="humanfoodgrainsbtn" ><span id="en">Human Food Grains (1)</span><span id="ro">Cereale Consum Uman (1)</span></h5>    
    <div id="humanfoodgrains" class="categorypanel" >
    <!-- Load info start --> 
@@ -1133,8 +1151,11 @@ $(document).ready(function () {
    </div>		
   <h5 class="categoryaccordion" ><span id="en">Nuts, Seeds and Dried Fruits </span><span id="ro">Nuci, Semințe și Fructe Deshidratate</span></h5>
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Cacao Beans</span><span id="ro">Boabe Cacao</span></h5>
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="cacaobeansbtn" ><span id="en">Cacao Beans (1)</span><span id="ro">Boabe Cacao (1)</span></h5>
+   <div id="cacaobeans" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 	
   <h5 class="categoryaccordion" ><span id="en">Green Arabica Coffee Beans</span><span id="ro">Boabe Cafea Arabica Verde</span></h5>
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Green Robusta Coffee Beans</span><span id="ro">Boabe Cafea Robusta Verde</span></h5>
