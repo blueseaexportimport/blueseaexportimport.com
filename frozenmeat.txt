@@ -11,5 +11,4 @@
     <tr><td><span id="en">Pork Carcass</span><span id="ro" >Carcasă Porc</span> </td><td>-</td><td>-</td></tr>    
     <tr><td><span id="en">Beef Carcass</span><span id="ro" >Carcasă Vită</span> </td><td>-</td><td>-</td></tr>    
     <tr><td><span id="en">Rabbit Carcass</span><span id="ro" >Carcasă Iepure</span></td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Frog legs</span><span id="ro" >Pui de balta ( Picioare de broaște )</span></td><td>-</td><td>-</td></tr>          
-    <tr><td><span id="en">Escargot snails</span><span id="ro" >Melci Escargot</span> </td><td>-</td><td>-</td></tr> 
+ 
