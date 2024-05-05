@@ -1,13 +1,7 @@
+<style>
+    .cacaobeansslidediv img{ width:100%; height:auto;}
+</style> 
 
-    <tr><td><span id="en">Cacao beans - Criollo</span><span id="ro">Boabe cacao - Criollo</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Cacao beans - Forastero</span><span id="ro">Boabe cacao - Forastero</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Cacao beans - Trinitario</span><span id="ro">Boabe cacao - Trinitario</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Cacao beans - Nacional</span><span id="ro">Boabe cacao - Nacional</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Cacao beans - Amelonado</span><span id="ro">Boabe cacao - Amelonado</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Cacao beans - Contamana</span><span id="ro">Boabe cacao - Contamana</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Cacao beans - Curaray</span><span id="ro">Boabe cacao - Curaray</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Cacao beans - Guiana</span><span id="ro">Boabe cacao - Guiana</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Cacao beans - Iquitos</span><span id="ro">Boabe cacao - Iquitos</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Cacao beans - Marañon</span><span id="ro">Boabe cacao - Marañon</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Cacao beans - Nanay</span><span id="ro">Boabe cacao - Nanay</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Cacao beans - Purús</span><span id="ro">Boabe cacao - Purús</span> </td><td>-</td><td>-</td></tr>  
+<div class="cacaobeansslidediv" >
+<img src="https://i.ibb.co/dDL9YgQ/cacaobeans.jpg" alt="cacaobeans item1" /> 
+</div>
