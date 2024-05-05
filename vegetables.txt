@@ -1,66 +1,73 @@
+<style>
 
-<tbody>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">VEG001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Vegetables</span><span id="ro">Legume</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >International</span><span id="ro">Internațional</span></td></tr>
-<tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en">Vegetables calibre size unknown, vegetables are a seasonal product, suppliers can change there is no contract, prices are only informal</span><span id="ro">Calibru legume necunoscut, legumele sunt un produs sezonier, furnizori se pot schimaba nu există contract, prețul este doar estimativ</span></td></tr>
-
-
-
-
-<tr><td>Formula 22</td><td>0 RON / kg <span id="en">Lettuce - Lactuca sativa</span><span id="ro">Salată -Lactuca sativa</span></td></tr>
-<tr><td>Formula 23</td><td>0 RON / kg <span id="en">Iceberg salad</span><span id="ro">Salată Iceberg</span></td></tr>
-<tr><td>Formula 24</td><td>0 RON / kg <span id="en">Rocket salad</span><span id="ro">Salată Rocket</span></td></tr>
-<tr><td>Formula 25</td><td>0 RON / kg <span id="en">Lollo rossa</span><span id="ro">Salată Lollo rossa</span></td></tr>
-<tr><td>Formula 26</td><td>0 RON / kg <span id="en">Spinach</span><span id="ro">Spanac</span></td></tr>
-<tr><td>Formula 35</td><td>0 RON / kg <span id="en">Fresh Parsley leaves</span><span id="ro">Frunze pătrunjel proaspete</span></td></tr>
-<tr><td>Formula 37</td><td>0 RON / kg <span id="en">Dill</span><span id="ro">Rădăcină pătrunjel</span></td></tr>
-<tr><td>Formula 38</td><td>0 RON / kg <span id="en">Lovage</span><span id="ro">Leuștean</span></td></tr>
-
-<tr><td>Formula 28</td><td>0 RON / kg <span id="en">White asparagus</span><span id="ro">Sparanghel alb</span></td></tr>
-<tr><td>Formula 29</td><td>0 RON / kg <span id="en">Purple asparagus</span><span id="ro">Sparanghel roz</span></td></tr>
-<tr><td>Formula 30</td><td>0 RON / kg <span id="en">Purple eggplant</span><span id="ro">Vinete mov</span></td></tr>
-<tr><td>Formula 31</td><td>0 RON / kg <span id="en">White eggplant</span><span id="ro">Vinete albe</span></td></tr>
-<tr><td>Formula 32</td><td>0 RON / kg <span id="en">Bell peppers</span><span id="ro">Ardei grași</span></td></tr>
-<tr><td>Formula 34</td><td>0 RON / kg <span id="en">Fennel bulb</span><span id="ro">Bulb Fenicul</span></td></tr>
-<tr><td>Formula 39</td><td>0 RON / kg <span id="en">Mouse Melons</span><span id="ro">Pepeni Mouse</span></td></tr>
-<tr><td>Formula 40</td><td>0 RON / kg <span id="en">Melons for pickling</span><span id="ro">Pepeni pentru murat</span></td></tr>
-<tr><td>Formula 41</td><td>0 RON / kg <span id="en">Tomatoes for pickling</span><span id="ro">Roșii pentru murat</span></td></tr>
-<tr><td>Formula 42</td><td>0 RON / kg <span id="en">Water Chestnut (Eleocharis dulcis)</span><span id="ro">Castane de apă  (Eleocharis dulcis)</span></td></tr>
-<tr><td>Formula 43</td><td>0 RON / kg <span id="en">Turnips</span><span id="ro">Napi</span></td></tr>
-<tr><td>Formula 44</td><td>0 RON / kg <span id="en">Purple turnip</span><span id="ro">Napi violet</span></td></tr>
-<tr><td>Formula 45</td><td>0 RON / kg <span id="en">Kohlrabi</span><span id="ro">Gulii</span></td></tr>
-<tr><td>Formula 46</td><td>0 RON / kg <span id="en">Red Beet</span><span id="ro">Sfeclă roșie</span></td></tr>
-<tr><td>Formula 47</td><td>0 RON / kg <span id="en">Sweet corn</span><span id="ro">Porumb dulce</span></td></tr>
-<tr><td>Formula 48</td><td>0 RON / kg <span id="en">Bush Green Beans</span><span id="ro">Păstăi fasole verzi  - tufe</span></td></tr>
-<tr><td>Formula 49</td><td>0 RON / kg <span id="en">Pole Green Beans</span><span id="ro">Păstăi fasole verzi - urcătoare</span></td></tr>
-<tr><td>Formula 50</td><td>0 RON / kg <span id="en">Amla Berries</span><span id="ro">Coacăze indiene</span></td></tr>
-
-<tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various suppliers - International</span><span id="ro">Furnizori - Internaționali</span></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-
-</tbody>
-
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
+.vegetablesslider{
+ width:100%;
 }
-});
-</script>
+.vegetablesslidernav{
+ text-align:center;
+ width:100%; 
+}
+.vegetablesslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
+.vegetablesslides img {
+  max-width: 100%;
+  height: auto;
+}
 
-<!--
-     
--->
+.vegetablesslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.vegetablesslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.vegetablesslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.vegetablesslidernav a:hover {background-color: gold;}
+.vegetablesslidernav a:active {background-color: gold;}
+.vegetablesslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="spicesandherbsslider">
+
+<div class="vegetablesslidernav" >
+  <a href="#vegetablesslide-1">1</a>
+  <a href="#vegetablesslide-2">2</a>
+  <a href="#vegetablesslide-3">3</a>
+</div>
+
+  <div class="vegetablesslides">
+    <div class="fade" id="vegetablesslide-1">
+      <img src="https://i.ibb.co/5xLDQbR/vegetables.jpg" alt="spicesandherbsitem1" /> 
+    </div>
+    <div class="fade" id="spicesandherbsslide-2">
+      <img src="https://i.ibb.co/B33HFvy/vegetablesb.jpg" alt="spicesandherbsitem2" /> 
+    </div>
+    <div class="fade" id="spicesandherbsslide-3">
+      <img src="https://i.ibb.co/Rhn9tLc/vegetablesc.jpg" alt="spicesandherbsitem3" /> 
+    </div>
+  </div><!-- vegetablesSlides -->
+
+</div><!-- vegetablesSlider -->
