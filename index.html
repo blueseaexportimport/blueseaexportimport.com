@@ -325,6 +325,25 @@ $(document).ready(function () {
    });
   // Grab pulses on click end
 
+  // Grab vegetables on click start
+  $("#vegetablesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#vegetables").hasClass("clickedvegetables")) {
+        // already been clicked once, hide it
+        $("#vegetables").html("");
+        $( "#vegetables" ).removeClass( "clickedvegetables" )
+    }else {
+        // first time this is clicked, mark it
+        $("#vegetables").addClass("clickedvegetables");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/vegetables.txt?" + rand, success: function(result){
+         $("#vegetables").html(result);
+        }});
+    }
+   });
+  // Grab vegetables on click end
+
+
+	
 
 	
 	
@@ -1026,7 +1045,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (22)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (22)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (25)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (25)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="humanfoodgrainsbtn" ><span id="en">Human Food Grains (1)</span><span id="ro">Cereale Consum Uman (1)</span></h5>    
    <div id="humanfoodgrains" class="categorypanel" >
    <!-- Load info start --> 
@@ -1042,8 +1061,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" id="vegetablesbtn" ><span id="en">Vegetables</span><span id="ro">Legume</span></h5>
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="vegetablesbtn" ><span id="en">Vegetables (3)</span><span id="ro">Legume (3)</span></h5>
+   <div id="vegetables" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" ><span id="en">Microgreens</span><span id="ro">Microgreens</span></h5>
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Fruits</span><span id="ro">Fructe</span></h5>
