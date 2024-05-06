@@ -1,12 +1,73 @@
+<style>
 
+.fruitsslider{
+ width:100%;
+}
+.fruitsslidernav{
+ text-align:center;
+ width:100%; 
+}
+.fruitsslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
+.fruitsslides img {
+  max-width: 100%;
+  height: auto;
+}
 
-    <tr><td><span id="en">Blackberries</span><span id="ro">Mure</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Blackcurrants</span><span id="ro">Coacăze negre</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Redcurrants</span><span id="ro">Coacăze roșii</span>  </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Black or White Mulberries</span><span id="ro">Dude negre sau albe</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Sloes - Prunus spinosa</span><span id="ro">Porumbele</span></td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Goji</span><span id="ro">Goji</span> </td><td>-</td><td>-</td></tr>       
-    <tr><td><span id="en">Sea buckthorn - Hippophae rhamnoides</span><span id="ro">Cătină albă</span></td><td>-</td><td>-</td></tr>       
-    <tr><td><span id="en">Rosehip</span><span id="ro">Măceșe</span> </td><td>-</td><td>-</td></tr>       
-    <tr><td><span id="en">Cranberries</span><span id="ro">Merișoare</span> </td><td>-</td><td>-</td></tr> 
+.fruitsslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.fruitsslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.fruitsslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.fruitsslidernav a:hover {background-color: gold;}
+.fruitsslidernav a:active {background-color: gold;}
+.fruitsslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="fruitsslider">
+
+<div class="fruitsslidernav" >
+  <a href="#fruitsslide-1">1</a>
+  <a href="#fruitsslide-2">2</a>
+  <a href="#fruitsslide-3">3</a>
+</div>
+
+  <div class="fruitsslides">
+    <div class="fade" id="fruitsslide-1">
+      <img src="https://i.ibb.co/7SMw32P/spicesa.jpg" alt="fruitsitem1" /> 
+    </div>
+    <div class="fade" id="fruitsslide-2">
+      <img src="https://i.ibb.co/9pKs7cW/spicesb.jpg" alt="fruitsitem2" /> 
+    </div>
+    <div class="fade" id="fruitsslide-3">
+      <img src="https://i.ibb.co/nCbZ2cf/spicesc.jpg" alt="fruitsitem3" /> 
+    </div>
+  </div><!-- fruitsSlides -->
+
+</div><!-- fruitsSlider -->
