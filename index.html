@@ -410,6 +410,23 @@ $(document).ready(function () {
    });
   // Grab cacaobeans on click end
 
+  // Grab fruits on click start
+  $("#fruitsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#fruits").hasClass("clickedfruits")) {
+        // already been clicked once, hide it
+        $("#fruits").html("");
+        $( "#fruits" ).removeClass( "clickedfruits" )
+    }else {
+        // first time this is clicked, mark it
+        $("#fruits").addClass("clickedfruits");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/fruits.txt?" + rand, success: function(result){
+         $("#fruits").html(result);
+        }});
+    }
+   });
+  // Grab fruits on click end
+
 	
 	
 	
@@ -1111,7 +1128,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (29)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (29)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (32)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (32)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="humanfoodgrainsbtn" ><span id="en">Human Food Grains (1)</span><span id="ro">Cereale Consum Uman (1)</span></h5>    
    <div id="humanfoodgrains" class="categorypanel" >
    <!-- Load info start --> 
@@ -1137,8 +1154,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" ><span id="en">Fruits</span><span id="ro">Fructe</span></h5>
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="fruitsbtn" ><span id="en">Fruits (3)</span><span id="ro">Fructe (3)</span></h5>
+   <div id="fruits" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 	
   <h5 class="categoryaccordion" id="tablegrapesbtn" ><span id="en">Table Grapes (1)</span><span id="ro">Struguri De Masă (1)</span></h5>
    <div id="tablegrapes" class="categorypanel" >
    <!-- Load info start --> 
