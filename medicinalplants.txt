@@ -1,21 +1,69 @@
+<style>
 
+.medicinalplantsslider{
+ width:100%;
+}
+.medicinalplantsslidernav{
+ text-align:center;
+ width:100%; 
+}
+.medicinalplantsslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
+.medicinalplantsslides img {
+  max-width: 100%;
+  height: auto;
+}
 
-    <tr><td><span id="en">Black Tea</span><span id="ro">Ceai Negru</span></td><td>-</td><td>-</td></tr>    	  
-    <tr><td><span id="en">Green Tea</span><span id="ro">Ceai Verde</span></td><td>-</td><td>-</td></tr>    	  
-    <tr><td><span id="en">White Tea</span><span id="ro">Ceai Alb</span></td><td>-</td><td>-</td></tr>    	  
-    <tr><td><span id="en">Yellow Tea</span><span id="ro">Ceai Galben</span></td><td>-</td><td>-</td></tr>    	  
-    <tr><td><span id="en">Black Tea</span><span id="ro">Ceai Negru</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Purple Tea</span><span id="ro">Ceai Violet</span></td><td>-</td><td>-</td></tr>    	  
-    <tr><td><span id="en">Oolong Tea</span><span id="ro">Ceai Oolong</span></td><td>-</td><td>-</td></tr>    	  
-    <tr><td><span id="en">Rooibos Tea</span><span id="ro">Ceai Rooibos</span></td><td>-</td><td>-</td></tr>    	  
-    <tr><td><span id="en">Matcha Tea</span><span id="ro">Ceai Matcha</span></td><td>-</td><td>-</td></tr>    	  
-    <tr><td><span id="en">Mate Tea</span><span id="ro">Ceai Mate</span></td><td>-</td><td>-</td></tr>    	  
-    <tr><td><span id="en">Fermented Tea - Pu-erh</span><span id="ro">Ceai Fermentat - Pu-erh</span></td><td>-</td><td>-</td></tr>    	  
-    <tr><td><span id="en">Fermented Tea - Anhui</span><span id="ro">Ceai Fermentat - Anhui</span></td><td>-</td><td>-</td></tr>    	  
-    <tr><td><span id="en">Fermented Tea - Guangxi</span><span id="ro">Ceai Fermentat - Guangxi</span></td><td>-</td><td>-</td></tr>    	  
-    <tr><td><span id="en">Fermented Tea - Hubei</span><span id="ro">Ceai Fermentat - Hubei</span></td><td>-</td><td>-</td></tr>    	  
-    <tr><td><span id="en">Fermented Tea - Shanxi</span><span id="ro">Ceai Fermentat - Shanxi</span></td><td>-</td><td>-</td></tr>    	  
-    <tr><td><span id="en">Fermented Tea - Sichuan</span><span id="ro">Ceai Fermentat - Sichuan</span></td><td>-</td><td>-</td></tr>    	  
-    <tr><td><span id="en">Fermented Tea - Tibet</span><span id="ro">Ceai Fermentat - Tibet</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Fermented Tea - Yunnan</span><span id="ro">Ceai Fermentat - Yunnan</span></td><td>-</td><td>-</td></tr>   
+.medicinalplantsslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.medicinalplantsslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.medicinalplantsslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.medicinalplantsslidernav a:hover {background-color: gold;}
+.medicinalplantsslidernav a:active {background-color: gold;}
+.medicinalplantsslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="medicinalplantsslider">
+
+<div class="medicinalplantsslidernav" >
+  <a href="#medicinalplantsslide-1">1</a>
+  <a href="#medicinalplantsslide-2">2</a>
+</div>
+
+  <div class="medicinalplantsslides">
+    <div class="fade" id="medicinalplantsslide-1">
+      <img src="https://i.ibb.co/X3FVKsk/medicinalplants.jpg" alt="medicinalplantsitem1" /> 
+    </div>
+    <div class="fade" id="medicinalplantsslide-2">
+      <img src="https://i.ibb.co/nRdzjPN/medicinalplantsb.jpg" alt="medicinalplantsitem2" /> 
+    </div>
+  </div><!-- medicinalplantsSlides -->
+
+</div><!-- medicinalplantsSlider -->
