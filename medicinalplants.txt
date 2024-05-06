@@ -1,8 +1,5 @@
 
-    <tr><td><span id="en">Hibiscus flower</span><span id="ro">Floare Hibiscus</span></td><td>  
-    <tr><td><span id="en">Matricaria recutita - Chamomile</span><span id="ro">Matricaria recutita - Mușețel</span></td><td>  
-     <tr><td><span id="en">Mentha spicata sive viridis - Spearmint</span><span id="ro">Mentha spicata sive viridis - Mentă</span></td><td>  
-     <tr><td><span id="en">Mentha × piperita - Peppermint</span><span id="ro">Mentha × piperita - Peppermint</span></td><td>  
+
 
     <tr><td><span id="en">Black Tea</span><span id="ro">Ceai Negru</span></td><td>-</td><td>-</td></tr>    	  
     <tr><td><span id="en">Green Tea</span><span id="ro">Ceai Verde</span></td><td>-</td><td>-</td></tr>    	  
@@ -22,29 +19,3 @@
     <tr><td><span id="en">Fermented Tea - Sichuan</span><span id="ro">Ceai Fermentat - Sichuan</span></td><td>-</td><td>-</td></tr>    	  
     <tr><td><span id="en">Fermented Tea - Tibet</span><span id="ro">Ceai Fermentat - Tibet</span></td><td>-</td><td>-</td></tr>   
     <tr><td><span id="en">Fermented Tea - Yunnan</span><span id="ro">Ceai Fermentat - Yunnan</span></td><td>-</td><td>-</td></tr>   
-
-    <tr><td><span id="en">Cymbopogon - Lemongrass</span><span id="ro">Cymbopogon - Citronelă</span></td><td></td><td>-</td></tr>    	  
-    <tr><td><span id="en">Crataegus - Hawthorn fruits</span><span id="ro">Crataegus - Păducel</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Artemisia absinthium - Common wormwood</span><span id="ro">Artemisia absinthium - Pelin</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Sambucus L. - Elderflower flowers</span><span id="ro">Sambucus L. - Flori de Soc</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Cornus mas - Cornel fruits</span><span id="ro">Cornus mas - Coarne</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Pinus mugo - Buds or young cones</span><span id="ro">Pinus mugo - Muguri sau conuri tinere de Jneapăn</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Plantago - Plantain</span><span id="ro">Plantago - Pătlagină</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Humulus - Hops</span><span id="ro">Humulus - Hamei</span> </td><td> </td><td>-</td></tr>    
-    <tr><td><span id="en">Echinacea angustifolia - Echinacea</span><span id="ro">Echinacea angustifolia - Echinacea</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Calendula officinalis - Common marigold</span><span id="ro">Calendula officinalis - Gălbenele</span></td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Rosa × damascena - Damask rose petals</span><span id="ro">Rosa × damascena - Petale Trandafir de Damasc</span></td><td>-</td><td>-</td></tr>     
-    <tr><td><span id="en">Equisetum arvense L. - Common horsetail</span><span id="ro">Equisetum arvense L. - Coada Calului</span></td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Achillea millefolium - Yarrow</span><span id="ro">Achillea millefolium - Coada șoricelului</span></td><td> </td><td>-</td></tr> 
-    <tr><td><span id="en">Potentilla anserina - L - Common silverweed</span><span id="ro">Potentilla anserina - L - Coada racului</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Portulaca oleracea - Little hogweed</span><span id="ro">Portulaca oleracea - Iarbă grasă</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Angelica archangelica - Garden angelica</span><span id="ro">Angelica archangelica - Angelică</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Capsella bursa-pastoris - Shepherd's purse</span><span id="ro">Capsella bursa-pastoris - Traista Ciobanului</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Rhamnus frangula - Frangula alnus</span><span id="ro">Rhamnus frangula - Crușin</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Sorbus aucuparia - Mountain-ash fruits</span><span id="ro">Sorbus aucuparia - Scoruş de munte</span></td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Ziziphus jujuba - Jujube fruits</span><span id="ro">Ziziphus jujuba - Fructe de Jujube</span></td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Hypericum perforatum - St John's wort</span><span id="ro">Hypericum perforatum - Sunătoare</span></td><td>-</td><td>-</td></tr>     
-    <tr><td><span id="en">Melissa officinalis L. - Lemon balm</span><span id="ro">Melissa officinalis L. - Roiniță</span></td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Chelidonium majus - Greater celandine</span><span id="ro">Chelidonium majus - Rostopască</span></td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Taraxacum officinale - Dandelion root</span><span id="ro">Taraxacum officinale - Rădăcină păpădie</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Silybum marianum L. - Saint Mary's thistle</span><span id="ro">Taraxacum officinale - Armurărui</span></td><td>-</td><td>-</td></tr> 
