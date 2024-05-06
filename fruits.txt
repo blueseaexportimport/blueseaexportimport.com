@@ -1,27 +1,4 @@
-    <tr><td><span id="en">Apples</span><span id="ro">Mere</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Pears</span><span id="ro">Pere</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Quince</span><span id="ro">Gutui</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Kiwi</span><span id="ro">Kiwi</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Kaki</span><span id="ro">Kaki</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Pineapples</span><span id="ro">Ananas</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Pomegranate</span><span id="ro">Rodii</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Bananas</span><span id="ro">Banane</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Prickly pears</span><span id="ro">Fructe de cactus</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Dragon fruit</span><span id="ro">Fructul dragonului</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Watermelon</span><span id="ro">Pepeni roșii</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Papaya</span><span id="ro">Papaya</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Passion Fruit</span><span id="ro">Fructul pasiunii</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Duarian</span><span id="ro">Durian</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Chinese apple ( Malus prunifolia )</span><span id="ro">Mere chinezești ( Malus prunifolia )</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Star apple (Chrysophyllum cainito)</span><span id="ro">Măr stea</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Guava</span><span id="ro">Guava</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Granadilla</span><span id="ro">Granadilla</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Starfruit</span><span id="ro">Carambola</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Jackfruit</span><span id="ro">Jackfruit</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Sapodilla</span><span id="ro">Sapodilla</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Açai</span><span id="ro">Acai</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Figs</span><span id="ro">Smochine</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Apricots</span><span id="ro">Caise</span> </td><td>-</td><td>-</td></tr> 
+
     <tr><td><span id="en">Nectarines</span><span id="ro">Nectarine</span> </td><td>-</td><td>-</td></tr> 
     <tr><td><span id="en">Peaches</span><span id="ro">Piersici</span> </td><td>-</td><td>-</td></tr> 
     <tr><td><span id="en">Plums</span><span id="ro">Prune</span> </td><td>-</td><td>-</td></tr> 
