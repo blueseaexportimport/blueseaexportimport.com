@@ -60,13 +60,13 @@
 
   <div class="fruitsslides">
     <div class="fade" id="fruitsslide-1">
-      <img src="https://i.ibb.co/7SMw32P/spicesa.jpg" alt="fruitsitem1" /> 
+      <img src="https://i.ibb.co/BGrcfc5/fruits.jpg" alt="fruitsitem1" /> 
     </div>
     <div class="fade" id="fruitsslide-2">
-      <img src="https://i.ibb.co/9pKs7cW/spicesb.jpg" alt="fruitsitem2" /> 
+      <img src="https://i.ibb.co/BqZbcd6/fruitsb.jpg" alt="fruitsitem2" /> 
     </div>
     <div class="fade" id="fruitsslide-3">
-      <img src="https://i.ibb.co/nCbZ2cf/spicesc.jpg" alt="fruitsitem3" /> 
+      <img src="https://i.ibb.co/2dHVn3L/fruitsc.jpg" alt="fruitsitem3" /> 
     </div>
   </div><!-- fruitsSlides -->
 
