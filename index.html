@@ -427,6 +427,24 @@ $(document).ready(function () {
    });
   // Grab fruits on click end
 
+
+  // Grab medicinalplants on click start
+  $("#medicinalplantsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#medicinalplants").hasClass("clickedmedicinalplants")) {
+        // already been clicked once, hide it
+        $("#medicinalplants").html("");
+        $( "#medicinalplants" ).removeClass( "clickedmedicinalplants" )
+    }else {
+        // first time this is clicked, mark it
+        $("#medicinalplants").addClass("clickedmedicinalplants");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/medicinalplants.txt?" + rand, success: function(result){
+         $("#medicinalplants").html(result);
+        }});
+    }
+   });
+  // Grab medicinalplants on click end
+
 	
 	
 	
@@ -1128,7 +1146,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (32)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (32)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (34)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (34)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="humanfoodgrainsbtn" ><span id="en">Human Food Grains (1)</span><span id="ro">Cereale Consum Uman (1)</span></h5>    
    <div id="humanfoodgrains" class="categorypanel" >
    <!-- Load info start --> 
@@ -1192,8 +1210,11 @@ $(document).ready(function () {
    </div>	
   <h5 class="categoryaccordion" ><span id="en">Spices Mixes - Blends </span><span id="ro">Mixuri de Ierburi și Condimente</span></h5>
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Medicinal Plants and Tea</span><span id="ro">Plante Medicinale și Ceai</span></h5>
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="medicinalplantsbtn" ><span id="en">Medicinal Plants and Tea (2)</span><span id="ro">Plante Medicinale și Ceai (2)</span></h5>
+   <div id="medicinalplants" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>		
   <h5 class="categoryaccordion" ><span id="en">Chili Peppers </span><span id="ro">Ardei Iuți</span></h5>
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" id="trufflesandmushroomsbtn" ><span id="en">Truffles and Mushrooms (1)</span><span id="ro">Trufe și Ciuperci (1)</span></h5>
