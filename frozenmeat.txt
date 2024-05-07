@@ -1,14 +1,7 @@
+<style>
+    .frozenmeatslidediv img{ width:100%; height:auto;}
+</style> 
 
-    <tr><td><span id="en">Chicken Carcass</span><span id="ro" >Carcasă Găină / Pui</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Rooster Carcass</span><span id="ro" >Carcasă Cocoș</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Turkey Carcass</span><span id="ro" >Carcasă Curcan</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Duck Carcass</span><span id="ro" >Carcasă Rață</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Goose Carcass</span><span id="ro" >Carcasă Gâscă</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Quail Carcass</span><span id="ro" >Carcasă Prepeliță</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Lamb Carcass</span><span id="ro" >Carcasă Oaie / Miel</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Mutton Carcass</span><span id="ro" >Carcasă Berbecuț</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Goat Carcass</span><span id="ro" >Carcasă Capră</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Pork Carcass</span><span id="ro" >Carcasă Porc</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Beef Carcass</span><span id="ro" >Carcasă Vită</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Rabbit Carcass</span><span id="ro" >Carcasă Iepure</span></td><td>-</td><td>-</td></tr> 
- 
+<div class="frozenmeatslidediv" >
+<img src="https://i.ibb.co/5KKf14N/frozenmeat.jpg" alt="frozenmeat item1" /> 
+</div>
