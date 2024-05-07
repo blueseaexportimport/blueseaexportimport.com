@@ -22,7 +22,9 @@
     <tr><td>Puya </td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 5,000 SHU </td><td>-</td></tr>             
     <tr><td>Black Hungarian</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 5,000–10,000 SHU </td><td>-</td></tr> 
     <tr><td>Sandia</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 5,000–30,000 SHU </td><td>-</td></tr> 
-    <tr><td>Cheongyang</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 10,000 SHU  </td><td>-</td></tr>          
+    <tr><td>Cheongyang</td><td><span id="en">not to hot</span><span id="ro">nu prea iute</span> <br> 10,000 SHU  </td><td>-</td></tr>        
+
+
     <tr><td>Black Heart</td><td><span id="en">hot</span><span id="ro">iute</span> <br> 5,000–20,000 SHU </td><td>-</td></tr> 
     <tr><td>Fish</td><td><span id="en">hot</span><span id="ro">iute</span><br> 5,000–30,000 SHU  </td><td>-</td></tr> 
     <tr><td>Bishop's Crown</td><td><span id="en">hot</span><span id="ro">iute</span> <br> 10,000–30,000 SHU  </td><td>-</td></tr> 
@@ -45,6 +47,7 @@
     <tr><td>Malagueta</td><td><span id="en">hot</span><span id="ro">iute</span><br> 60,000–100,000 SHU </td><td>-</td></tr> 
     <tr><td>Siling Labuyo</td><td><span id="en">hot</span><span id="ro">iute</span><br>80,000–100,000 SHU </td><td>-</td></tr> 
     <tr><td>Pequin</td><td><span id="en">hot</span><span id="ro">iute</span><br>100,000–140,000 SHU </td><td>-</td></tr> 
+
     <tr><td>Facing Heaven / Pimiento</td><td><span id="en">very hot</span><span id="ro">foarte iute</span><br>30,000-50,000 SHU </td><td>-</td></tr> 
     <tr><td>Lemon Drop</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br> 30,000–50,000 SHU  </td><td>-</td></tr>        
     <tr><td>Habanero</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>100,000–350,000 SHU </td><td>-</td></tr> 
@@ -53,7 +56,8 @@
     <tr><td>Madame Jeanette</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>100,000–350,000 SHU</td><td>-</td></tr> 
     <tr><td>Fatalii</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>125,000–325,000 SHU </td><td>-</td></tr> 
     <tr><td>Scotch Bonnet</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>150,000–325,000 SHU </td><td>-</td></tr>        
-    <tr><td>Hainan Yellow Lantern</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>300,000 SHU </td><td>-</td></tr>          
+    <tr><td>Hainan Yellow Lantern</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>300,000 SHU </td><td>-</td></tr>       
+
     <tr><td>Naga Morich</td><td><span id="en">super hot</span><span id="ro">super iute</span> <br>1,000,000 SHU</td><td>-</td></tr> 
     <tr><td>Bhut Jolokia</td><td><span id="en">super hot</span><span id="ro">super iute</span> <br> equal or smaller then 1,040,000 SHU </td><td>-</td></tr> 
     <tr><td>Naga Viper</td><td><span id="en">super hot</span><span id="ro">super iute</span> <br>1,382,118 SHU </td><td>-</td></tr>        
