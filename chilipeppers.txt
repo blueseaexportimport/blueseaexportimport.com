@@ -1,34 +1,69 @@
+<style>
 
+.chilipeppersslider{
+ width:100%;
+}
+.chilipeppersslidernav{
+ text-align:center;
+ width:100%; 
+}
+.chilipeppersslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
-    <tr><td>Árbol</td><td><span id="en">hot</span><span id="ro">iute</span><br> 15,000–30,000 SHU </td><td>-</td></tr>
-    <tr><td>Tabasco </td><td><span id="en">hot</span><span id="ro">iute</span><br> 30,000–50,000 SHU  </td><td>-</td></tr> 
-    <tr><td>Canário</td><td><span id="en">hot</span><span id="ro">iute</span><br> 30,000–50,000 SHU  </td><td>-</td></tr> 
-    <tr><td>Siling haba</td><td><span id="en">hot</span><span id="ro">iute</span><br> 50,000 SHU </td><td>-</td></tr> 
-    <tr><td>Rocoto</td><td><span id="en">hot</span><span id="ro">iute</span><br> 30,000–100,000 SHU </td><td>-</td></tr> 
-    <tr><td>Facing Heaven / Pimiento</td><td><span id="en">hot</span><span id="ro">iute</span> <br>30,000-50,000 SHU </td><td>-</td></tr> 
-    <tr><td>Lemon Drop</td><td><span id="en">hot</span><span id="ro">iute</span> <br> 30,000–50,000 SHU  </td><td>-</td></tr>          
-    <tr><td>Guntur Sannam</td><td><span id="en">hot</span><span id="ro">iute</span> <br> 35,000–40,000 SHU </td><td>-</td></tr> 
-    <tr><td>Bird's Eye</td><td><span id="en">hot</span><span id="ro">iute</span> <br>50,000–100,000 SHU </td><td>-</td></tr> 
-    <tr><td>Piri Piri / African Birdseye</td><td><span id="en">hot</span><span id="ro">iute</span> <br>50,000–175,000 SHU  </td><td>-</td></tr>       
-    <tr><td>Chiltepin</td><td><span id="en">hot</span><span id="ro">iute</span><br> 50,000–100,000 SHU </td><td>-</td></tr> 
-    <tr><td>Prik Kee Nu</td><td><span id="en">hot</span><span id="ro">iute</span><br> 50,000–100,000 SHU </td><td>-</td></tr> 
-    <tr><td>Malagueta</td><td><span id="en">hot</span><span id="ro">iute</span><br> 60,000–100,000 SHU </td><td>-</td></tr> 
-    <tr><td>Siling Labuyo</td><td><span id="en">hot</span><span id="ro">iute</span><br>80,000–100,000 SHU </td><td>-</td></tr> 
-    <tr><td>Pequin</td><td><span id="en">hot</span><span id="ro">iute</span><br>100,000–140,000 SHU </td><td>-</td></tr> 
+.chilipeppersslides img {
+  max-width: 100%;
+  height: auto;
+}
 
-    <tr><td>Facing Heaven / Pimiento</td><td><span id="en">very hot</span><span id="ro">foarte iute</span><br>30,000-50,000 SHU </td><td>-</td></tr> 
-    <tr><td>Lemon Drop</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br> 30,000–50,000 SHU  </td><td>-</td></tr>        
-    <tr><td>Habanero</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>100,000–350,000 SHU </td><td>-</td></tr> 
-    <tr><td>Datil</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>100,000–300,000 SHU </td><td>-</td></tr> 
-    <tr><td>Adjuma</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>100,000–500,000 SHU </td><td>-</td></tr> 
-    <tr><td>Madame Jeanette</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>100,000–350,000 SHU</td><td>-</td></tr> 
-    <tr><td>Fatalii</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>125,000–325,000 SHU </td><td>-</td></tr> 
-    <tr><td>Scotch Bonnet</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>150,000–325,000 SHU </td><td>-</td></tr>        
-    <tr><td>Hainan Yellow Lantern</td><td><span id="en">very hot</span><span id="ro">foarte iute</span> <br>300,000 SHU </td><td>-</td></tr>       
+.chilipeppersslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
 
-    <tr><td>Naga Morich</td><td><span id="en">super hot</span><span id="ro">super iute</span> <br>1,000,000 SHU</td><td>-</td></tr> 
-    <tr><td>Bhut Jolokia</td><td><span id="en">super hot</span><span id="ro">super iute</span> <br> equal or smaller then 1,040,000 SHU </td><td>-</td></tr> 
-    <tr><td>Naga Viper</td><td><span id="en">super hot</span><span id="ro">super iute</span> <br>1,382,118 SHU </td><td>-</td></tr>        
-    <tr><td>Trinidad Scorpion Butch T</td><td><span id="en">super hot</span><span id="ro">super iute</span> <br>equal or smaller then 1,400,000 SHU </td><td>-</td></tr>              
-    <tr><td>Carolina Reaper</td><td><span id="en">super hot</span><span id="ro">super iute</span> <br>1,569,300–2,200,000 SHU </td><td>-</td></tr>       
-    <tr><td>Trinidad Moruga Scorpion</td><td><span id="en">super hot</span><span id="ro">super iute</span> <br>equal or smaller then 2,000,000 SHU </td><td>-</td></tr>   
+.chilipeppersslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.chilipeppersslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.chilipeppersslidernav a:hover {background-color: gold;}
+.chilipeppersslidernav a:active {background-color: gold;}
+.chilipeppersslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="chilipeppersslider">
+
+<div class="chilipeppersslidernav" >
+  <a href="#chilipeppersslide-1">1</a>
+  <a href="#chilipeppersslide-2">2</a>
+</div>
+
+  <div class="chilipeppersslides">
+    <div class="fade" id="chilipeppersslide-1">
+      <img src="https://i.ibb.co/pjFgBTC/chilipeppers.jpg" alt="chilipeppersitem1" /> 
+    </div>
+    <div class="fade" id="chilipeppersslide-2">
+      <img src="https://i.ibb.co/VDC0tF2/chilipeppersb.jpg" alt="chilipeppersitem2" /> 
+    </div>
+  </div><!-- chilipeppersSlides -->
+
+</div><!-- chilipeppersSlider -->
