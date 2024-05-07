@@ -30,6 +30,8 @@
     <tr><td>Bishop's Crown</td><td><span id="en">hot</span><span id="ro">iute</span> <br> 10,000–30,000 SHU  </td><td>-</td></tr> 
     <tr><td>Serrano</td><td><span id="en">hot</span><span id="ro">iute</span> <br> 10,000–23,000 SHU   </td><td>-</td></tr> 
     <tr><td>Aleppo</td><td><span id="en">hot</span><span id="ro">iute</span> <br> 15,000 SHU  </td><td>-</td></tr> 
+
+
     <tr><td>Cayenne Peperoncino</td><td><span id="en">hot</span><span id="ro">iute</span><br> 15,000–30,000 SHU    </td><td>-</td></tr> 
     <tr><td>Árbol</td><td><span id="en">hot</span><span id="ro">iute</span><br> 15,000–30,000 SHU </td><td>-</td></tr>
     <tr><td>Cayenne</td><td><span id="en">hot</span><span id="ro">iute</span><br> 30,000–50,000 SHU </td><td>-</td></tr> 
