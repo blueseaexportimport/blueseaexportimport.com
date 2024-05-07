@@ -496,7 +496,22 @@ $(document).ready(function () {
    });
   // Grab fresheggs on click end
 
-	
+  // Grab frozenmeat on click start
+  $("#frozenmeatbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#frozenmeat").hasClass("clickedfrozenmeat")) {
+        // already been clicked once, hide it
+        $("#frozenmeat").html("");
+        $( "#frozenmeat" ).removeClass( "clickedfrozenmeat" )
+    }else {
+        // first time this is clicked, mark it
+        $("#frozenmeat").addClass("clickedfrozenmeat");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/frozenmeat.txt?" + rand, success: function(result){
+         $("#frozenmeat").html(result);
+        }});
+    }
+   });
+  // Grab frozenmeat on click end	
 
 
 	
@@ -1199,7 +1214,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (38)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (38)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (39)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (39)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="humanfoodgrainsbtn" ><span id="en">Human Food Grains (1)</span><span id="ro">Cereale Consum Uman (1)</span></h5>    
    <div id="humanfoodgrains" class="categorypanel" >
    <!-- Load info start --> 
@@ -1296,8 +1311,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" ><span id="en">Frozen Meat</span><span id="ro">Carne Congelată</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="frozenmeatbtn" ><span id="en">Frozen Meat (1)</span><span id="ro">Carne Congelată (1)</span></h5>    
+   <div id="frozenmeat" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 	
   <h5 class="categoryaccordion" id="beehoneyandwaxbtn" ><span id="en">Bee Honey and Wax (1)</span><span id="ro">Miere de Albine și Ceară (1)</span></h5>
    <div id="beehoneyandwax" class="categorypanel" >
    <!-- Load info start --> 
