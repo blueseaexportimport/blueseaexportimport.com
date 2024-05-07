@@ -479,6 +479,25 @@ $(document).ready(function () {
    });
   // Grab chilipeppers on click end
 
+  // Grab fresheggs on click start
+  $("#fresheggsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#fresheggs").hasClass("clickedfresheggs")) {
+        // already been clicked once, hide it
+        $("#fresheggs").html("");
+        $( "#fresheggs" ).removeClass( "clickedfresheggs" )
+    }else {
+        // first time this is clicked, mark it
+        $("#fresheggs").addClass("clickedfresheggs");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/fresheggs.txt?" + rand, success: function(result){
+         $("#fresheggs").html(result);
+        }});
+    }
+   });
+  // Grab fresheggs on click end
+
+	
+
 
 	
 	
@@ -1180,7 +1199,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (37)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (37)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (38)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (38)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="humanfoodgrainsbtn" ><span id="en">Human Food Grains (1)</span><span id="ro">Cereale Consum Uman (1)</span></h5>    
    <div id="humanfoodgrains" class="categorypanel" >
    <!-- Load info start --> 
@@ -1259,8 +1278,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" ><span id="en">Fresh Eggs</span><span id="ro">Ouă Proaspete</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="fresheggsbtn" ><span id="en">Fresh Eggs (1)</span><span id="ro">Ouă Proaspete (1)</span></h5>    
+   <div id="fresheggs" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 	
   <h5 class="categoryaccordion" id="chickenfreshmeatbtn" ><span id="en">Chicken Fresh Meat</span><span id="ro">Carne Proaspătă de Pui</span></h5>    
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Pork Fresh Meat</span><span id="ro">Carne Proaspătă de Porc</span></h5>    
