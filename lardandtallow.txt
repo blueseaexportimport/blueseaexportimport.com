@@ -1,7 +1,7 @@
-   <tr><td><span id="en">Pork Rendered Fat</span><span id="ro" >Untură</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Leaf Fat</span><span id="ro" >Untură din zona rinichiului de porc</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Mutton / Sheep Tallow</span><span id="ro" >Seu de berbecuț / oaie</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Goat Tallow</span><span id="ro" >Seu de capră</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Beef Tallow</span><span id="ro" >Seu de vită</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Poultry Tallow</span><span id="ro" >Seu de păsare</span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Margarine</span><span id="ro">Margarină</span> </td><td>- </td><td>- </td></tr>
+<style>
+    .lardandtallowslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="lardandtallowslidediv" >
+<img src="https://i.ibb.co/M8s64MG/lardandtallow.jpg" alt="lardandtallow item1" /> 
+</div>
