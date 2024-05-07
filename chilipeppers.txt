@@ -1,7 +1,6 @@
 
 
     <tr><td>Árbol</td><td><span id="en">hot</span><span id="ro">iute</span><br> 15,000–30,000 SHU </td><td>-</td></tr>
-    <tr><td>Cayenne</td><td><span id="en">hot</span><span id="ro">iute</span><br> 30,000–50,000 SHU </td><td>-</td></tr> 
     <tr><td>Tabasco </td><td><span id="en">hot</span><span id="ro">iute</span><br> 30,000–50,000 SHU  </td><td>-</td></tr> 
     <tr><td>Canário</td><td><span id="en">hot</span><span id="ro">iute</span><br> 30,000–50,000 SHU  </td><td>-</td></tr> 
     <tr><td>Siling haba</td><td><span id="en">hot</span><span id="ro">iute</span><br> 50,000 SHU </td><td>-</td></tr> 
