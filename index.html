@@ -462,7 +462,24 @@ $(document).ready(function () {
    });
   // Grab lardandtallow on click end
 	
-	
+  // Grab chilipeppers on click start
+  $("#chilipeppersbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#chilipeppers").hasClass("clickedchilipeppers")) {
+        // already been clicked once, hide it
+        $("#chilipeppers").html("");
+        $( "#chilipeppers" ).removeClass( "clickedchilipeppers" )
+    }else {
+        // first time this is clicked, mark it
+        $("#chilipeppers").addClass("clickedchilipeppers");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/chilipeppers.txt?" + rand, success: function(result){
+         $("#chilipeppers").html(result);
+        }});
+    }
+   });
+  // Grab chilipeppers on click end
+
+
 	
 	
 });
@@ -1163,7 +1180,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (35)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (35)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (37)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (37)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="humanfoodgrainsbtn" ><span id="en">Human Food Grains (1)</span><span id="ro">Cereale Consum Uman (1)</span></h5>    
    <div id="humanfoodgrains" class="categorypanel" >
    <!-- Load info start --> 
@@ -1232,8 +1249,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>		
-  <h5 class="categoryaccordion" ><span id="en">Chili Peppers </span><span id="ro">Ardei Iuți</span></h5>
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="chilipeppersbtn" ><span id="en">Chili Peppers (2)</span><span id="ro">Ardei Iuți (2)</span></h5>
+   <div id="chilipeppers" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="trufflesandmushroomsbtn" ><span id="en">Truffles and Mushrooms (1)</span><span id="ro">Trufe și Ciuperci (1)</span></h5>
    <div id="trufflesandmushrooms" class="categorypanel" >
    <!-- Load info start --> 
