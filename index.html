@@ -564,7 +564,22 @@ $(document).ready(function () {
    });
   // Grab solidfuels on click end	
 
-
+  // Grab liquidfuels on click start
+  $("#liquidfuelsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#liquidfuels").hasClass("clickedliquidfuels")) {
+        // already been clicked once, hide it
+        $("#liquidfuels").html("");
+        $( "#liquidfuels" ).removeClass( "clickedliquidfuels" )
+    }else {
+        // first time this is clicked, mark it
+        $("#liquidfuels").addClass("clickedliquidfuels");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/liquidfuels.txt?" + rand, success: function(result){
+         $("#liquidfuels").html(result);
+        }});
+    }
+   });
+  // Grab liquidfuels on click end	
 
 	
 	
@@ -650,14 +665,17 @@ $(document).ready(function () {
    <div class="rowbin" >-</div> 
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>B. RENEWABLE LOW / ZERO CARBON EMISSIONS ENERGY (1)</b></span> <span id="ro"><b>B. ENERGIE REGENERABILĂ CU EMISII REDUSE / ZERO CO2 (1)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>B. RENEWABLE LOW / ZERO CARBON EMISSIONS ENERGY (2)</b></span> <span id="ro"><b>B. ENERGIE REGENERABILĂ CU EMISII REDUSE / ZERO CO2 (2)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="solidfuelsbtn" ><span id="en">Solid fuels (1)</span><span id="ro">Combustibili solizi (1)</span></h5>   
    <div id="solidfuels" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	 
-   <h5 class="categoryaccordion" id="liquidfuelsbtn" ><span id="en">Bio Liquids / Fuels produced from biomass</span><span id="ro">Bio combustibili produși din biomasă</span></h5> 
-   <div class="rowbin" >-</div> 
+   <h5 class="categoryaccordion" id="liquidfuelsbtn" ><span id="en">Bio Liquids / Fuels produced from biomass (1)</span><span id="ro">Bio combustibili produși din biomasă (1)</span></h5> 
+   <div id="solidfuels" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" id="compressedgasfuelsbtn" ><span id="en">Compressed gas fuels</span><span id="ro">Combustibili gazoși comprimați</span></h5>    
    <div class="rowbin" >-</div>     
    </div></li><!--END SECTION-->
