@@ -581,6 +581,25 @@ $(document).ready(function () {
    });
   // Grab liquidfuels on click end	
 
+  // Grab compressedgasfuels on click start
+  $("#compressedgasfuelsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#compressedgasfuels").hasClass("clickedcompressedgasfuels")) {
+        // already been clicked once, hide it
+        $("#compressedgasfuels").html("");
+        $( "#compressedgasfuels" ).removeClass( "clickedcompressedgasfuels" )
+    }else {
+        // first time this is clicked, mark it
+        $("#compressedgasfuels").addClass("clickedcompressedgasfuels");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/compressedgasfuels.txt?" + rand, success: function(result){
+         $("#compressedgasfuels").html(result);
+        }});
+    }
+   });
+  // Grab compressedgasfuels on click end	
+
+
+
 	
 	
 });
@@ -665,7 +684,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div> 
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>B. RENEWABLE LOW / ZERO CARBON EMISSIONS ENERGY (2)</b></span> <span id="ro"><b>B. ENERGIE REGENERABILĂ CU EMISII REDUSE / ZERO CO2 (2)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>B. RENEWABLE LOW / ZERO CARBON EMISSIONS ENERGY (3)</b></span> <span id="ro"><b>B. ENERGIE REGENERABILĂ CU EMISII REDUSE / ZERO CO2 (3)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="solidfuelsbtn" ><span id="en">Solid fuels (1)</span><span id="ro">Combustibili solizi (1)</span></h5>   
    <div id="solidfuels" class="categorypanel" >
    <!-- Load info start --> 
@@ -676,8 +695,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-   <h5 class="categoryaccordion" id="compressedgasfuelsbtn" ><span id="en">Compressed gas fuels</span><span id="ro">Combustibili gazoși comprimați</span></h5>    
-   <div class="rowbin" >-</div>     
+   <h5 class="categoryaccordion" id="compressedgasfuelsbtn" ><span id="en">Compressed gas fuels (1)</span><span id="ro">Combustibili gazoși comprimați (1)</span></h5>    
+   <div id="compressedgasfuels" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 
    </div></li><!--END SECTION-->
 
    <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>C. WATER AND SEWAGE SYSTEMS (0)</b></span> <span id="ro"><b>C. APĂ ȘI CANALIZARE (0)</b></span></button><div class="catalogpanel">
