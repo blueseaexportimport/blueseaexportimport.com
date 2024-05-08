@@ -530,10 +530,24 @@ $(document).ready(function () {
    });
   // Grab nutsandseeds on click end	
 
+  // Grab greencoffee on click start
+  $("#greencoffeebtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#greencoffee").hasClass("clickedgreencoffee")) {
+        // already been clicked once, hide it
+        $("#greencoffee").html("");
+        $( "#greencoffee" ).removeClass( "clickedgreencoffee" )
+    }else {
+        // first time this is clicked, mark it
+        $("#greencoffee").addClass("clickedgreencoffee");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/greencoffee.txt?" + rand, success: function(result){
+         $("#greencoffee").html(result);
+        }});
+    }
+   });
+  // Grab greencoffee on click end	
 
 
-
-	
 	
 });
 </script>
@@ -1233,7 +1247,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (40)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (40)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (41)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (41)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="humanfoodgrainsbtn" ><span id="en">Human Food Grains (1)</span><span id="ro">Cereale Consum Uman (1)</span></h5>    
    <div id="humanfoodgrains" class="categorypanel" >
    <!-- Load info start --> 
@@ -1284,10 +1298,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	 	
-  <h5 class="categoryaccordion" ><span id="en">Green Arabica Coffee Beans</span><span id="ro">Boabe Cafea Arabica Verde</span></h5>
-  <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Green Robusta Coffee Beans</span><span id="ro">Boabe Cafea Robusta Verde</span></h5>
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="greencoffeebtn" ><span id="en">Green Coffee Beans (1)</span><span id="ro">Boabe Cafea Verde (1)</span></h5>
+   <div id="greencoffee" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="olivesbtn" ><span id="en">Olives (1)</span><span id="ro">Măsline (1)</span></h5>
    <div id="olives" class="categorypanel" >
    <!-- Load info start --> 
@@ -1298,8 +1313,6 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" ><span id="en">Spices Mixes - Blends </span><span id="ro">Mixuri de Ierburi și Condimente</span></h5>
-  <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" id="medicinalplantsbtn" ><span id="en">Medicinal Plants and Tea (2)</span><span id="ro">Plante Medicinale și Ceai (2)</span></h5>
    <div id="medicinalplants" class="categorypanel" >
    <!-- Load info start --> 
@@ -1403,6 +1416,8 @@ $(document).ready(function () {
   <h5 class="categoryaccordion" ><span id="en">Compote and Jams</span><span id="ro">Gemuri și Compoturi</span></h5>
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Sauces</span><span id="ro">Sosuri</span></h5>
+  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" ><span id="en">Spices Mixes - Blends </span><span id="ro">Mixuri de Ierburi și Condimente</span></h5>
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion"><span id="en">Roasted Coffee, Instant Cacao, Hot Chocolate and Tea</span><span id="ro">Cafea prăjită, Cacao Instant, Ciocolată Caldă și Ceai</span></h5>    
   <div class="rowbin" >-</div> 	
