@@ -122,6 +122,7 @@ $(document).ready(function () {
 
   // Grab journalism on click start
   $("#journalismbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
     if ($("#journalism").hasClass("clickedjournalism")) {
         // already been clicked once, hide it
         $("#journalism").html("");
