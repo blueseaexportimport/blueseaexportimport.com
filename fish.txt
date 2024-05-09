@@ -77,10 +77,10 @@
       <img src="https://i.ibb.co/C5h5kRg/oceanandseafish.jpg" alt="fishitem4" /> 
     </div>
     <div class="fade" id="fishslide-5">
-      <img src="https://i.ibb.co/jG6H1F9/oceanandseafishb.jpg" alt="fishitem5" /> 
+      <img src="https://i.ibb.co/C6pmWF5/oceanandseafishb.jpg" alt="fishitem5" /> 
     </div>
     <div class="fade" id="fishslide-6">
-      <img src="https://i.ibb.co/5THxRWq/oceanandseafishc.jpg" alt="fishitem6" /> 
+      <img src="https://i.ibb.co/QHN6Pr0/oceanandseafishc.jpg" alt="fishitem6" /> 
     </div>
   </div><!-- fishSlides -->
 
