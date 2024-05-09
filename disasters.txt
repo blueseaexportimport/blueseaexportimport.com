@@ -1,6 +1,7 @@
+<style>
+    .disastersslidediv img{ width:100%; height:auto;}
+</style> 
 
-<tbody>
-
-</tbody>
-
-
+<div class="disastersslidediv" >
+<img src="https://i.ibb.co/GHgXvvb/disasters.jpg" alt="disasters item1" /> 
+</div>
