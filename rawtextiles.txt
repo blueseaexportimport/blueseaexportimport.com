@@ -105,24 +105,11 @@ if (class_ro === "new") {
    <tr><td><span id="en">Polypropylene high-tenacity multifilament (PP3) - 3-, 4-, 8- and 12-strand ropes EN ISO 1346:2021</span><span id="ro">Frânghii din multifilamente de polipropilenă de înaltă tenacitate (PP3) cu 3, 4, 8 şi 12 toroane EN ISO 1346:2021</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>  	   
    <tr><td><span id="en">Polyethylene - 3- and 4-strand ropes EN ISO 1969:2007</span><span id="ro">Frânghii cu 3 şi 4 toroane din polietilenă EN ISO 1969:2007</span></td><td>-</td><td><div style="border-bottom:1px solid #FFF;" >0 RON / t</div><span id="en">VAT included</span><span id="ro">TVA este inclus</span></td></tr>
 
-
-    <tr><td><span id="en">Cotton - Pima ( ESL )</span><span id="ro">Bumbac - Pima ( ESL )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Merino sheep wool</span><span id="ro">Lână oaie Merinos </span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Llama wool</span><span id="ro">Lână Lamă</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Alpaca wool</span><span id="ro">Lână Alpaca</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Vicuña wool</span><span id="ro">Lână Vicuña</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Angora wool</span><span id="ro">Lână Angora</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Mohair wool</span><span id="ro">Lână Mohair</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Lambs wool</span><span id="ro">Lână Miel</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Cashmere goat hair</span><span id="ro">Lână Capră Kashmir</span></td><td>-</td><td>-</td></tr>    
+ 
     <tr><td><span id="en">Fleece</span><span id="ro">Lână Fleece</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Boiled wool</span><span id="ro">Lână Fiartă</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Silkworms cocoons</span><span id="ro">Gogoși viermi de mătase</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Spider silk</span><span id="ro">Mătase paianjan</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Jute</span><span id="ro">Iută</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Sisal</span><span id="ro">Sisal</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Flax for fibers</span><span id="ro">In pentru fibre</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Coconut fibre / coir</span><span id="ro">Fibră cocos</span></td><td>-</td><td>-</td></tr>   
+    <tr><td><span id="en">Boiled wool</span><span id="ro">Lână Fiartă</span> </td><td>-</td><td>-</td></tr> 
+
+
     <tr><td><span id="en">Wool tapestry fabric</span><span id="ro">Țesătură de lână pentru tapițerie</span></td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Cotton tapestry fabric</span><span id="ro">Țesătură de bumbac pentru tapițerie</span></td><td>-</td><td>-</td></tr>  
     <tr><td><span id="en">Silk organza fabric</span><span id="ro">Țesătură organza mătase</span></td><td>-</td><td>-</td></tr>  
