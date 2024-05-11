@@ -1,93 +1,82 @@
-<tbody>
+<style>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TXT001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Raw unwashed wool - not sorted</span><span id="ro">Lână nespălată și nesortată</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>3000 RON / tone </td></tr>
-<tr><td><span id="en">Producer:</span><span id="ro">Producător:</span></td><td><span id="en">Sheep owners from Romania</span><span id="ro">Deținători de oi din România</span></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-
-</tbody> 	
-
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
+.rawtextilesslider{
+ width:100%;
 }
-});
-</script>
+.rawtextilesslidernav{
+ text-align:center;
+ width:100%; 
+}
+.rawtextilesslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
-<!--
-     
+.rawtextilesslides img {
+  max-width: 100%;
+  height: auto;
+}
 
-    <tr><td><span id="en">Fleece</span><span id="ro">Lână Fleece</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Boiled wool</span><span id="ro">Lână Fiartă</span> </td><td>-</td><td>-</td></tr> 
+.rawtextilesslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
 
+.rawtextilesslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.rawtextilesslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.rawtextilesslidernav a:hover {background-color: gold;}
+.rawtextilesslidernav a:active {background-color: gold;}
+.rawtextilesslidernav a:focus {background-color: gold;}
 
-    <tr><td><span id="en">Wool tapestry fabric</span><span id="ro">Țesătură de lână pentru tapițerie</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Cotton tapestry fabric</span><span id="ro">Țesătură de bumbac pentru tapițerie</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Silk organza fabric</span><span id="ro">Țesătură organza mătase</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Silk embroidered organza fabric</span><span id="ro">Țesătură organza brodată mătase</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Silk mulberry fabric</span><span id="ro">Țesătură mulberry mătase</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Silk georgette fabric</span><span id="ro">Țesătură georgette mătase</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Silk Damascus fabric ( if it's not 100% silk it's not original )</span><span id="ro">Țesătură mătase de Damasc ( dacă nu este din 100% mătase nu este original )</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Cotton embroidered fabric</span><span id="ro">Țesătură bumbac brodată</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Printed cotton fabric</span><span id="ro">Țesătură bumbac imprimat</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Finet cotton fabric</span><span id="ro">Țesătură bumbac Finet</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Waffle cotton fabric</span><span id="ro">Țesătură bumbac Waffle</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Diftina cotton fabric</span><span id="ro">Țesătură bumbac Diftina</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Doc cotton fabric</span><span id="ro">Țesătură bumbac Doc</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Crepe cotton fabric</span><span id="ro">Țesătură bumbac Crep</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Gingham cotton fabric</span><span id="ro">Țesătură bumbac Gingham</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Nanghin cotton fabric for Inlet ( for pillows )</span><span id="ro">Țesătură bumbac Nanghin ( pentru perne )</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Melted web cotton fabric</span><span id="ro">Țesătură bumbac pânză topită</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Bbc cotton fabric</span><span id="ro">Țesătură bumbac Bbc</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Jerse cotton fabric</span><span id="ro">Țesătură bumbac Jerse</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Denim cotton fabric</span><span id="ro">Țesătură bumbac Denim</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Muselina cotton fabric</span><span id="ro">Țesătură bumbac Muselina</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Gauze cotton fabric</span><span id="ro">Țesătură bumbac Gauze</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">100% Cotton Batting fabric</span><span id="ro">Țesătură vată din bumbac 100%</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Wool felt-like fulled fabric ( Romanian postav )</span><span id="ro">Postav Lână</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Wool felt fabric</span><span id="ro">Pâslă Lână</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Hemp fabric</span><span id="ro">Țesătură cânepă</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Flax fabric</span><span id="ro">Țesătură in</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Jute fabric</span><span id="ro">Țesătură iută</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Batting mixed synthetic-natural fabric</span><span id="ro">Țesătură vatelină mix sintetic-natural</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Satin mixed synthetic-natural fabric</span><span id="ro">Țesătură satin mix sintetic-natural</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Tulle mixed synthetic-natural fabric</span><span id="ro">Țesătură tul mix sintetic-natural</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Tercot cotton-elastan mixed sintetic-natural fabric</span><span id="ro">Țesătură tercon bumbac-elastan mix sintetic-natural</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Velvet mixed synthetic-natural fabric</span><span id="ro">Țesătură velvet mix sintetic-natural</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Cocolino mixed synthetic-natural fabric</span><span id="ro">Țesătură cocolino mix sintetic-natural</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Plush mixed synthetic-natural fabric</span><span id="ro">Țesătură plush mix sintetic-natural</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Velour mixed synthetic-natural fabric</span><span id="ro">Țesătură velur mix sintetic-natural</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Viscose mixed synthetic-natural fabric</span><span id="ro">Țesătură vâscoza mix sintetic-natural</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Polar fleece mixed synthetic-natural fabric</span><span id="ro">Țesătură polar fleece mix sintetic-natural</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Veil synthetic-natural fabric</span><span id="ro">Țesătură voal sintetic-natural</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Lace synthetic-natural fabric</span><span id="ro">Țesătură dantelă sintetic-natural</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Canvas synthetic-natural fabric</span><span id="ro">Țesătură pânză sintetic-natural</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Lining synthetic-natural fabric</span><span id="ro">Țesătură căptușeală sintetic-natural</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Lycra / Spandex synthetic fabric</span><span id="ro">Țesătură lycra / spandex sintetic</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Neopran synthetic fabric</span><span id="ro">Țesătură neopran sintetic</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Goretex / teflon synthetic fabric</span><span id="ro">Țesătură goretex / teflon sintetic</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Nomex synthetic fabric</span><span id="ro">Țesătură nomex sintetic</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Mini matt synthetic fabric</span><span id="ro">Țesătură minimat sintetic</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Taffeta synthetic fabric</span><span id="ro">Țesătură taftă sintetic</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Crepe-embroidered taffeta synthetic fabric</span><span id="ro">Țesătură taftă crep brodat sintetic</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Satin crepe synthetic fabric</span><span id="ro">Țesătură satin crep sintetic</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Sequin synthetic fabric</span><span id="ro">Țesătură sequin sintetic</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Scuba synthetic fabric</span><span id="ro">Țesătură scuba sintetic</span></td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Reflective synthetic fabric</span><span id="ro">Țesătură reflectorizantă sintetic</span></td><td>-</td><td>-</td></tr>
+</style>
 
+<div class="rawtextilesslider">
 
--->
+<div class="rawtextilesslidernav" >
+  <a href="#rawtextilesslide-1">1</a>
+  <a href="#rawtextilesslide-2">2</a>
+  <a href="#rawtextilesslide-3">3</a>
+  <a href="#rawtextilesslide-4">4</a>
+  <a href="#rawtextilesslide-5">5</a>
+</div>
 
+  <div class="rawtextilesslides">
+    <div class="fade" id="rawtextilesslide-1">
+      <img src="https://i.ibb.co/717RnMx/rawtextiles.jpg" alt="rawtextilesitem1" /> 
+    </div>
+    <div class="fade" id="rawtextilesslide-2">
+      <img src="https://i.ibb.co/jw8rfRx/rawtextilesb.jpg" alt="rawtextilesitem2" /> 
+    </div>
+    <div class="fade" id="rawtextilesslide-3">
+      <img src="https://i.ibb.co/dgvDnRm/rawtextilesc.jpg" alt="rawtextilesitem3" /> 
+    </div>
+    <div class="fade" id="rawtextilesslide-4">
+      <img src="https://i.ibb.co/3k25JKg/rawtextilesd.jpg" alt="rawtextilesitem4" /> 
+    </div>
+    <div class="fade" id="rawtextilesslide-5">
+      <img src="https://i.ibb.co/LkQ5hw2/rawtextilese.jpg" alt="rawtextilesitem5" /> 
+    </div>
+
+  </div><!-- rawtextilesSlides -->
+
+</div><!-- rawtextilesSlider -->
