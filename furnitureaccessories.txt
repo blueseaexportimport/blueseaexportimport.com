@@ -3,5 +3,5 @@
 </style> 
 
 <div class="furnitureaccessoriesslidediv" >
-<img src="https://i.ibb.co/WFLzdJ2/furnitureaccesories.jpg" alt="furnitureaccessories item1" /> 
+<img src="https://i.ibb.co/nj9C4Xn/furnitureaccesories.jpg" alt="furnitureaccessories item1" /> 
 </div>
