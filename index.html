@@ -650,7 +650,22 @@ $(document).ready(function () {
    });
   // Grab furnitureaccessories on click end	
 
-
+  // Grab tehnicaltapes on click start
+  $("#tehnicaltapesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#tehnicaltapes").hasClass("clickedtehnicaltapes")) {
+        // already been clicked once, hide it
+        $("#tehnicaltapes").html("");
+        $( "#tehnicaltapes" ).removeClass( "clickedtehnicaltapes" )
+    }else {
+        // first time this is clicked, mark it
+        $("#tehnicaltapes").addClass("clickedtehnicaltapes");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/tehnicaltapes.txt?" + rand, success: function(result){
+         $("#tehnicaltapes").html(result);
+        }});
+    }
+   });
+  // Grab tehnicaltapes on click end	
 	
 	
 	
@@ -1091,15 +1106,18 @@ $(document).ready(function () {
   <div class="rowbin" >-</div>
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>N. TECHNICAL, CONSUMABLES AND TOOLS  (1)</b></span> <span id="ro"><b>N. CONSUMABILE, TEHNICE ȘI SCULE (1)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>N. TECHNICAL, CONSUMABLES AND TOOLS  (2)</b></span> <span id="ro"><b>N. CONSUMABILE, TEHNICE ȘI SCULE (2)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Tools And Measuring Instruments</span><span id="ro">Scule și Instrumente de Măsurat</span></h5>   
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Power Tools Consumables</span><span id="ro">Accesorii și consumabile scule electrice</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Welding Consumables</span><span id="ro">Consumabile sudură</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Tehnical Tapes</span><span id="ro">Benzi Tehnice</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="tehnicaltapesbtn" ><span id="en">Tehnical Tapes (2)</span><span id="ro">Benzi Tehnice (2)</span></h5>    
+   <div id="tehnicaltapes" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 	
   <h5 class="categoryaccordion" ><span id="en">Tehnical Aerosols - Sprays</span><span id="ro">Spray-uri Tehnice</span></h5>   
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Palletization Items</span><span id="ro">Paletizare</span></h5>    
