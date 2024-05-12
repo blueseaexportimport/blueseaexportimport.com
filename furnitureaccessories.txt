@@ -1,20 +1,7 @@
+<style>
+    .furnitureaccessoriesslidediv img{ width:100%; height:auto;}
+</style> 
 
-       <tr><td>Dowel </td><td>-</td><td>-</td></tr>   
-       <tr><td>Furniture leg </td><td>-</td><td>-</td></tr>              
-       <tr><td>Handle and screws </td><td>-</td><td>-</td></tr>     
-       <tr><td>Knob </td><td>-</td><td>-</td></tr>        
-       <tr><td>Cabinet Hinge </td><td>-</td><td>-</td></tr> 
-       <tr><td>Furniture Adjuster </td><td>-</td><td>-</td></tr>  
-       <tr><td>Furniture Adjuster </td><td>-</td><td>-</td></tr>
-       <tr><td>Wardrobe Sliding System </td><td>-</td><td>-</td></tr>  
-       <tr><td>Furniture bracket </td><td>-</td><td>-</td></tr> 
-       <tr><td>Furniture connector </td><td>-</td><td>-</td></tr> 
-       <tr><td>Table fittings flip brackets </td><td>-</td><td>$-</td></tr>   
-       <tr><td>Furniture rail and screws </td><td>-</td><td>-</td></tr>   
-       <tr><td>Latche </td><td>-</td><td>-</td></tr> 
-       <tr><td>Door Bolt </td><td>-</td><td>-</td></tr> 
-       <tr><td>Mail Slot </td><td>-</td><td>-</td></tr>     
-       <tr><td>Levers </td><td>-</td><td>-</td></tr>  
-       <tr><td>Door Viewer </td><td>-</td><td>-</td></tr>          
-       <tr><td>Door Kick Plate </td><td>-</td><td>-</td></tr>            
-       <tr><td>Door Deadbolt </td><td>-</td><td>-</td></tr> 
+<div class="furnitureaccessoriesslidediv" >
+<img src="https://i.ibb.co/WFLzdJ2/furnitureaccesories.jpg" alt="furnitureaccessories item1" /> 
+</div>
