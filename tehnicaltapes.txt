@@ -1,38 +1,7 @@
+<style>
+    .tehnicaltapesslidediv img{ width:100%; height:auto;}
+</style> 
 
-       <tr><td><span id="en">PES tape</span><span id="ro">Bandă PES </span></td><td>-</td><td>-</td></tr>
-      <tr><td><span id="en">PET palletization tape</span><span id="ro">Bandă de Legat PET </span></td><td>-</td><td>-</td></tr>
-      <tr><td><span id="en">PES tape</span><span id="ro">Bandă PES </span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Double-sided adhesive tape</span><span id="ro">Bandă dublu adezivă </span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Double-adhesive butyl tape</span><span id="ro">Bandă dublu adezivă butilică</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Ridge tape</span><span id="ro">Bandă coamă acoperișuri</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Venting Tape</span><span id="ro">Bandă de aerisire</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Window sealing tape</span><span id="ro">Bandă entansare ferestre</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Textile adhesive tape</span><span id="ro">Bandă adezivă textilă</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Fragile warning tape</span><span id="ro">Bandă avertizare Fragil</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Teflon tape</span><span id="ro">Bandă teflon</span></td><td>-</td><td>-</td></tr>      
-       <tr><td><span id="en">Velcro tape</span><span id="ro">Bandă cu scai - velcro</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Warning tape</span><span id="ro">Bandă avertizare</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Gift wrapping tape</span><span id="ro">Bandă împachetare cadouri</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Boundary tape</span><span id="ro">Bandă pentru delimitare</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Kapton tape</span><span id="ro">Bandă kapton</span></td><td>-</td><td>-</td></tr>      
-       <tr><td><span id="en">DuckTape tape</span><span id="ro">DuckTape - bandă reparatoare</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Aluminum tape</span><span id="ro">Bandă aluminiu</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Textile adhesive tape</span><span id="ro">Bandă adezivă textilă</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Door sealing tape</span><span id="ro">Bandă etanșare uși</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Bituminous tape</span><span id="ro">Bandă bituminoasă</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Sealing adhesive tape</span><span id="ro">Bandă adezivă etanșare</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Self-adhesive aluminum tape</span><span id="ro">Bandă autoadezivă aluminiu</span></td><td>-</td><td>-</td></tr>      
-       <tr><td><span id="en">Masking tape</span><span id="ro">Bandă de mascare</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Insulation tape</span><span id="ro">Bandă izoler</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Waterproof Rubber Tape</span><span id="ro">Bandă cauciucată etanșare</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Anti-skid tape</span><span id="ro">Bandă antiderapare</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Double adhesive tape</span><span id="ro">Bandă dublu adezivă</span></td><td>-</td><td>-</td></tr>      
-       <tr><td><span id="en">Reflective tape</span><span id="ro">Bandă reflectorizantă</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Fiberglass tape</span><span id="ro">Bandă fibră sticlă îmbinare</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Mounting tape</span><span id="ro">Bandă pentru montaj</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Gypsum board paper joint tape</span><span id="ro">Bandă hârtie finisare rigips </span></td><td>-</td><td>-</td></tr>      
-       <tr><td><span id="en">Edge protection tape</span><span id="ro">Bandă protecție colțuri</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Scotch tape 48mm</span><span id="ro">Bandă adezivă tip scotch 48mm</span></td><td>- </td><td>-</td></tr>   
-       <tr><td><span id="en">Scotch tape 18mm</span><span id="ro">Bandă adezivă tip scotch 18mm</span></td><td>- </td><td>-</td></tr>   
-       <tr><td><span id="en">Paper adhesive tape for construction use 48mm </span><span id="ro">Bandă adezivă hârtie pentru construcții 48mm</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Paper adhesive tape for construction use 25mm </span><span id="ro">Bandă adezivă hârtie pentru construcții 25mm</span></td><td>-</td><td>-</td></tr>
+<div class="tehnicaltapesslidediv" >
+<img src="https://i.ibb.co/r2bDDkm/tehnicaltapes.jpg" alt="tehnicaltapes item1" /> 
+</div>
