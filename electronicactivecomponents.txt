@@ -31,6 +31,8 @@
       <tr><td>Diode CRD Type </td><td>Model Xyz </td><td>-</td></tr>
        <tr><td>Diode Step recovery Type </td><td>Model Xyz </td><td>-</td></tr>
        <tr><td>Diode Tunnel Type </td><td>Model Xyz </td><td>-</td></tr>
+
+
        <tr><td>IC MOS IC Type </td><td>Model Xyz </td><td>-</td></tr>
        <tr><td>IC hybrid IC Type </td><td>Model Xyz </td><td>-</td></tr>
        <tr><td>IC Mixed-signal Type </td><td>Model Xyz </td><td>-</td></tr>
