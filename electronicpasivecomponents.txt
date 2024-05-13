@@ -1,1 +1,74 @@
+<style>
 
+.electronicactivecomponentsslider{
+ width:100%;
+}
+.electronicactivecomponentsslidernav{
+ text-align:center;
+ width:100%; 
+}
+.electronicactivecomponentsslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
+
+.electronicactivecomponentsslides img {
+  max-width: 100%;
+  height: auto;
+}
+
+.electronicactivecomponentsslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.electronicpasivecomponentsslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.electronicpasivecomponentsslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.electronicpasivecomponentsslidernav a:hover {background-color: gold;}
+.electronicpasivecomponentsslidernav a:active {background-color: gold;}
+.electronicpasivecomponentsslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="electronicpasivecomponentsslider">
+
+<div class="electronicpasivecomponentsslidernav" >
+  <a href="#electronicpasivecomponentsslide-1">1</a>
+  <a href="#electronicpasivecomponentsslide-2">2</a>
+  <a href="#electronicpasivecomponentsslide-3">3</a>
+
+</div>
+
+  <div class="electronicpasivecomponentsslides">
+    <div class="fade" id="electronicpasivecomponentsslide-1">
+      <img src="https://i.ibb.co/QrTB7wY/Electronicpasivecomponents.jpg" alt="electronicpasivecomponentsitem1" /> 
+    </div>
+    <div class="fade" id="electronicpasivecomponentsslide-2">
+      <img src="https://i.ibb.co/zF3FFnD/Electronicpasivecomponentsb.jpg" alt="electronicpasivecomponentsitem2" /> 
+    </div>
+    <div class="fade" id="electronicpasivecomponentsslide-3">
+      <img src="https://i.ibb.co/Kzy3G9V/Electronicpasivecomponentsc.jpg" alt="electronicpasivecomponentsitem3" /> 
+    </div>
+  </div><!-- electronicpasivecomponentsSlides -->
+
+</div><!-- electronicpasivecomponentsSlider -->
