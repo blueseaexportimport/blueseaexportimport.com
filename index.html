@@ -702,7 +702,6 @@ $(document).ready(function () {
    });
   // Grab electronicpasivecomponents on click end	
 	
-
   // Grab plateglass on click start
   $("#plateglassbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -719,6 +718,25 @@ $(document).ready(function () {
     }
    });
   // Grab plateglass on click end
+
+  // Grab cellulose on click start
+  $("#cellulosebtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#cellulose").hasClass("clickedcellulose")) {
+        // already been clicked once, hide it
+        $("#cellulose").html("");
+        $( "#cellulose" ).removeClass( "clickedcellulose" )
+    }else {
+        // first time this is clicked, mark it
+        $("#cellulose").addClass("clickedcellulose");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/cellulose.txt?" + rand, success: function(result){
+         $("#cellulose").html(result);
+        }});
+    }
+   });
+  // Grab cellulose on click end
+
+
 	
 	
 	
@@ -953,9 +971,12 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>      	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>H. PAPER AND CARDBOARD (0)</b></span><span id="ro"><b>H. HÂRTIE ȘI CARTON (0)</b></span></button><div class="catalogpanel">
-  <h5 class="categoryaccordion" ><span id="en">Cellulose and bulk paper</span><span id="ro">Celuloză și hârtie vrac</span></h5>    	
-  <div class="rowbin" >-</div> 
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>H. PAPER AND CARDBOARD (1)</b></span><span id="ro"><b>H. HÂRTIE ȘI CARTON (1)</b></span></button><div class="catalogpanel">
+  <h5 class="categoryaccordion" id="cellulosebtn" ><span id="en">Cellulose and bulk paper (1)</span><span id="ro">Celuloză și hârtie vrac (1)</span></h5>    	
+   <div id="cellulose" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>		
   <h5 class="categoryaccordion" ><span id="en">Cardboard</span><span id="ro">Carton</span></h5>  
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Corrugated cardboard</span><span id="ro">Carton corugat</span></h5>    
