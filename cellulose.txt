@@ -1,24 +1,7 @@
+<style>
+    .celluloseslidediv img{ width:100%; height:auto;}
+</style> 
 
-       <tr><td><span id="en">Alpha Cellulose</span><span id="ro">Alfa-celuloză</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Beta Cellulose</span><span id="ro">Beta-celuloză</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Gamma Cellulose</span><span id="ro">Gama-celuloză</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Microcrystalline Cellulose - MCC</span><span id="ro">Celuloză microcristalină</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Hydroxypropyl Cellulose - HPC</span><span id="ro">Celuloză Hidroxipropil - HPC</span></td><td>-</td><td>-</td></tr>    
-       <tr><td><span id="en">Hydroxyethyl Cellulose - HEC</span><span id="ro">Celuloză Hidroxietil - HEC</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Carboxymethyl Cellulose - CMC</span><span id="ro">Carboximetilceluloză - CMC</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Hydroxypropyl methyl Cellulose - HPMC</span><span id="ro">Hipromeloză - HPMC</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Filter paper 50g/m2</span><span id="ro">Hârtie de filtru 50g/m2</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Toilet tissue paper 17g/m2</span><span id="ro">Hârtie igienică 17g/m2</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Vacuum dust bag paper 42g/m2</span><span id="ro">Hârtie pentru saci aspirator 42g/m2</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Blotting paper 130g/m2</span><span id="ro">Hârtie matifiantă 130g/m2</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Bond paper 76g/m2</span><span id="ro">Hârtie bond paper 76g/m2</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Newsprint paper 53g/m2</span><span id="ro">Hârtie de ziar 53g/m2</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Copy paper 80g/m2</span><span id="ro">Hârtie copiator 80g/m2</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Writing paper 88g/m2</span><span id="ro">Hârtie de scris 88g/m2</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Wrapping tissue paper 12g/m2</span><span id="ro">Hârtie absorbantă pentru împachetat 12g/m2</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Cardboard paper 247g/m2</span><span id="ro">Hârtie carton 247g/m2</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Glassine paper 36g/m2</span><span id="ro">Hârtie glassine 36g/m2</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Parchment paper ( for baking ) 41g/m2</span><span id="ro">Hârtie de copt 41g/m2</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Cellophane - biodegradable</span><span id="ro">Hârtie celofan biodegradabil</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Anti-tarnish paper</span><span id="ro">Hârtie anti-pătarea</span></td><td>-</td><td>-</td></tr>	   
-       <tr><td><span id="en">Kraft paper ( Linerboard )</span><span id="ro">Hârtie kraft</span></td><td>-</td><td>-</td></tr>
+<div class="celluloseslidediv" >
+<img src="https://i.ibb.co/JFYwY3s/Cellulose.jpg" alt="cellulose item1" /> 
+</div>
