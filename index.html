@@ -703,7 +703,22 @@ $(document).ready(function () {
   // Grab electronicpasivecomponents on click end	
 	
 
-
+  // Grab plateglass on click start
+  $("#plateglassbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#plateglass").hasClass("clickedplateglass")) {
+        // already been clicked once, hide it
+        $("#plateglass").html("");
+        $( "#plateglass" ).removeClass( "clickedplateglass" )
+    }else {
+        // first time this is clicked, mark it
+        $("#plateglass").addClass("clickedplateglass");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/plateglass.txt?" + rand, success: function(result){
+         $("#plateglass").html(result);
+        }});
+    }
+   });
+  // Grab plateglass on click end
 	
 	
 	
@@ -1090,7 +1105,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>L. CERAMICS, GLASS AND MIRRORS (0)</b></span><span id="ro"><b>L. CERAMICĂ, STICLĂ ȘI OGLINZI (0)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>L. CERAMICS, GLASS AND MIRRORS (1)</b></span><span id="ro"><b>L. CERAMICĂ, STICLĂ ȘI OGLINZI (1)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="ceramicsandglassmaterialsbtn" ><span id="en">Ceramics, glass and mirrors materials</span><span id="ro">Materiale ceramică, sticlă și oglinzi</span></h5>    	
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Glassmaking equipment and tools</span><span id="ro">Echipamente și unelte pentru fabricarea sticlei</span></h5>    	
@@ -1101,8 +1116,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Glass bottling equipment</span><span id="ro">Echipamente îmbuteliere sticlă</span></h5> 
    <div class="rowbin" >-</div> 
-   <h5 class="categoryaccordion" ><span id="en">Plate glass</span><span id="ro">Sticlă plată</span></h5>    	
-   <div class="rowbin" >-</div>   
+   <h5 class="categoryaccordion" id="plateglassbtn" ><span id="en">Plate glass (1)</span><span id="ro">Sticlă plată (1)</span></h5>    	
+   <div id="plateglass" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	  
    <h5 class="categoryaccordion" ><span id="en">Stained glass</span><span id="ro">Vitralii</span></h5> 
    <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" ><span id="en">Laboratory glassware</span><span id="ro">Sticlărie de laborator</span></h5>    	
