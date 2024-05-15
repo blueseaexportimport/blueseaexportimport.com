@@ -7,7 +7,7 @@
  text-align:center;
  width:100%; 
 }
-.naturalrubbersslides{
+.naturalrubberslides{
   width:100%;
   display: flex;
   overflow: hidden;
