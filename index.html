@@ -762,6 +762,24 @@ $(document).ready(function () {
    });
   // Grab naturalrubber on click end
 	
+  // Grab plantresins on click start
+  $("plantresinsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#plantresins").hasClass("clickedplantresins")) {
+        // already been clicked once, hide it
+        $("#plantresins").html("");
+        $( "#plantresins" ).removeClass( "clickedplantresins" )
+    }else {
+        // first time this is clicked, mark it
+        $("#plantresins").addClass("clickedplantresins");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/plantresins.txt?" + rand, success: function(result){
+         $("#plantresins").html(result);
+        }});
+    }
+   });
+  // Grab plantresins on click end
+
+
 	
 	
 });
@@ -1430,10 +1448,9 @@ $(document).ready(function () {
    <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" id="essentialoilsbtn" ><span id="en">Essential oils</span><span id="ro">Uleiuri esențiale</span></h5>    
    <div class="rowbin" >-</div>
-	   
    </div></li><!--END SECTION-->  
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (2)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (2)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (3)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (3)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="concreteandsteelsilosbtn" ><span id="en">Concrete and steel silos</span><span id="ro">Silozuri beton și oțel</span></h5> 
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="agriculturalmachinerybtn" ><span id="en">Agricultural machinery</span><span id="ro">Utilaje agricultură</span></h5> 
@@ -1449,8 +1466,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" id="plantresinsbtn" ><span id="en">Plant resins</span><span id="ro">Rășini vegetale</span></h5>    
-   <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="plantresinsbtn" ><span id="en">Plant resins (1)</span><span id="ro">Rășini vegetale (1)</span></h5>    
+   <div id="plantresins" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="naturalpigmentsbtn" ><span id="en">Natural pigments / dyes</span><span id="ro">Pigmenți / coloranți naturali </span> </h5>    
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="weavingproductsbtn" ><span id="en">Weaving and basketry products</span><span id="ro">Produse pentru împletit și coșuri</span></h5>   
