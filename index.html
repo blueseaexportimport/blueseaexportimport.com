@@ -777,25 +777,23 @@ $(document).ready(function () {
     }
    });
   // Grab naturalrubber on click end
-	
+
   // Grab plantresins on click start
-  $("plantresinsbtn").click(function() {
+  $("#plantresinsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
-    if ($("#plantresins").hasClass("clickedplantresinsss")) {
+    if ($("#plantresins").hasClass("clickedplantresins")) {
         // already been clicked once, hide it
         $("#plantresins").html("");
-        $( "#plantresins" ).removeClass( "clickedplantresinsss" )
+        $( "#plantresins" ).removeClass( "clickedplantresins" )
     }else {
         // first time this is clicked, mark it
-        $("#plantresins").addClass("clickedplantresinsss");
+        $("#plantresins").addClass("clickedplantresins");
          $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/plantresins.txt?" + rand, success: function(result){
          $("#plantresins").html(result);
         }});
     }
    });
-  // Grab plantresins on click end
-
-
+  // Grab plantresins on click end	
 	
 	
 });
