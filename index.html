@@ -794,6 +794,25 @@ $(document).ready(function () {
     }
    });
   // Grab plantresins on click end	
+
+  // Grab fertilizers on click start
+  $("#fertilizersbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#fertilizers").hasClass("clickedfertilizers")) {
+        // already been clicked once, hide it
+        $("#fertilizers").html("");
+        $( "#fertilizers" ).removeClass( "clickedfertilizers" )
+    }else {
+        // first time this is clicked, mark it
+        $("#fertilizers").addClass("clickedfertilizers");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/fertilizers.txt?" + rand, success: function(result){
+         $("#fertilizers").html(result);
+        }});
+    }
+   });
+  // Grab fertilizers on click end	
+
+
 	
 	
 });
@@ -1464,15 +1483,18 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->  
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (3)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (3)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (4)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (4)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="concreteandsteelsilosbtn" ><span id="en">Concrete and steel silos</span><span id="ro">Silozuri beton și oțel</span></h5> 
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="agriculturalmachinerybtn" ><span id="en">Agricultural machinery</span><span id="ro">Utilaje agricultură</span></h5> 
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="agriculturalmachinerybtn" ><span id="en">Acid Rain Prevention Systems</span><span id="ro">Sisteme de prevenire ploi acide</span></h5> 
    <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" id="fertilizersbtn" ><span id="en">Fertilizers</span><span id="ro">Îngrășăminte</span></h5>    
-   <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="fertilizersbtn" ><span id="en">Fertilizers (1)</span><span id="ro">Îngrășăminte (1)</span></h5>    
+   <div id="fertilizers" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="sustainablewoodbtn" ><span id="en">Sustainable wood</span><span id="ro">Lemn sustenabil</span></h5>    
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="naturalrubberbtn" ><span id="en">Natural rubber (2)</span><span id="ro">Cauciuc natural (2)</span></h5>    
