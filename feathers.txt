@@ -1,1 +1,7 @@
-Feathers
+<style>
+    .feathers img{ width:100%; height:auto;}
+</style> 
+
+<div class="feathersslidediv" >
+<img src="https://i.ibb.co/cXkRH67/feathers.jpg" alt="feathers item1" /> 
+</div>
