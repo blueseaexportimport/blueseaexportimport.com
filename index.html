@@ -13,12 +13,7 @@
 <meta property="og:url" content="https://www.blueseaexportimport.com" >
 <meta property="og:image" content="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/SiglaBlueSeaExportImportSRL.png" >
 
-<meta name="twitter:card" content="summary" >
-<meta name="twitter:title" content="BLUE SEA EXPORT IMPORT S.R.L. - Commodities and goods brokerage, goods distribution, export - import and wholesale auctions at request" >
-<meta name="twitter:description" content="BLUE SEA EXPORT IMPORT S.R.L.- Romanian Exporters, Importers, Goods distribution, Commodities and goods brokerage, B2B, Wholesale auctions at request" >
-<meta name="twitter:url" content="https://www.blueseaexportimport.com" >
-<meta name="twitter:image" content="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/SiglaBlueSeaExportImportSRL.png" >
-	
+
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 <script src="jquery.min.js"></script>
 <!-- Google tag (gtag.js) -->
@@ -812,6 +807,25 @@ $(document).ready(function () {
    });
   // Grab fertilizers on click end	
 
+  // Grab naturalpigments on click start
+  $("#naturalpigmentsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#naturalpigments").hasClass("clickednaturalpigments")) {
+        // already been clicked once, hide it
+        $("#naturalpigments").html("");
+        $( "#naturalpigments" ).removeClass( "clickednaturalpigments" )
+    }else {
+        // first time this is clicked, mark it
+        $("#naturalpigments").addClass("clickednaturalpigments");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/naturalpigments.txt?" + rand, success: function(result){
+         $("#naturalpigments").html(result);
+        }});
+    }
+   });
+  // Grab naturalpigments on click end	
+
+
+	
 
 	
 	
@@ -1483,7 +1497,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->  
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (4)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (4)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (5)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (5)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="concreteandsteelsilosbtn" ><span id="en">Concrete and steel silos</span><span id="ro">Silozuri beton și oțel</span></h5> 
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="agriculturalmachinerybtn" ><span id="en">Agricultural machinery</span><span id="ro">Utilaje agricultură</span></h5> 
@@ -1507,7 +1521,7 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" id="naturalpigmentsbtn" ><span id="en">Natural pigments / dyes</span><span id="ro">Pigmenți / coloranți naturali </span> </h5>    
+  <h5 class="categoryaccordion" id="naturalpigmentsbtn" ><span id="en">Natural earth pigments (1)</span><span id="ro">Pigmenți naturali minerali (1) </span> </h5>    
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="weavingproductsbtn" ><span id="en">Weaving and basketry products</span><span id="ro">Produse pentru împletit și coșuri</span></h5>   
    <div class="rowbin" >-</div>
