@@ -841,7 +841,22 @@ $(document).ready(function () {
    });
   // Grab feathers on click end	
 	
-
+  // Grab leatherandfurs on click start
+  $("#leatherandfursbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#leatherandfurs").hasClass("clickedleatherandfurs")) {
+        // already been clicked once, hide it
+        $("#leatherandfurs").html("");
+        $( "#leatherandfurs" ).removeClass( "clickedleatherandfurs" )
+    }else {
+        // first time this is clicked, mark it
+        $("#leatherandfurs").addClass("clickedleatherandfurs");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/leatherandfurs.txt?" + rand, success: function(result){
+         $("#leatherandfurs").html(result);
+        }});
+    }
+   });
+  // Grab leatherandfurs on click end	
 	
 	
 });
@@ -1255,7 +1270,7 @@ $(document).ready(function () {
 
    </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>M. TEXTILES, LEATHER AND FURS (6)</b></span><span id="ro"><b>M. TEXTILE, PIELE ȘI BLĂNURI (6)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>M. TEXTILES, LEATHER AND FURS (7)</b></span><span id="ro"><b>M. TEXTILE, PIELE ȘI BLĂNURI (7)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Textile spinning mill</span><span id="ro">Filatură textile</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Textile weaving mill</span><span id="ro">Fabrică țesături</span></h5> 
@@ -1284,8 +1299,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Textiles - garments labels</span><span id="ro">Etichete pentru haine și textile</span></h5>    
   <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" ><span id="en">Leather and furs</span><span id="ro">Piele și blanuri</span></h5>    
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="leatherandfursbtn" ><span id="en">Leather and furs (1)</span><span id="ro">Piele și blanuri (1)</span></h5>    
+   <div id="leatherandfurs" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" ><span id="en">Shoemaking consumables</span><span id="ro">Consumabile cizmărie</span></h5>    
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Leatherwork consumables</span><span id="ro">Consumabile pielărie</span></h5>    
