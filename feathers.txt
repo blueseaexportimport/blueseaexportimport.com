@@ -1,5 +1,5 @@
 <style>
-    .feathers img{ width:100%; height:auto;}
+    .feathersslidediv img{ width:100%; height:auto;}
 </style> 
 
 <div class="feathersslidediv" >
