@@ -1,0 +1,7 @@
+<style>
+    .leatherandfursslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="leatherandfursslidediv" >
+<img src="https://i.ibb.co/3yq72G3/leatherandfurs.jpg" alt="leatherandfurs item1" /> 
+</div>
