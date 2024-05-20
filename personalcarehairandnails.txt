@@ -1,112 +1,73 @@
-<tbody>
+<style>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCHS0000001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Shampoo Herbagen</span><span id="ro">Șampon Herbagen</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>32 RON / 1000ml <span id="en">with tea tree extract</span><span id="ro">cu extract de arbore de ceai</span></td></tr>
-<tr><td>Formula 2</td><td>37 RON / 1000ml <span id="en">with nettle extract</span><span id="ro">cu extract de urzica</span></td></tr>
-<tr><td>Formula 3</td><td>37 RON / 1000ml <span id="en">with spirulina extract</span><span id="ro">cu extract de spirulina</span></td></tr>
-<tr><td>Formula 4</td><td>55 RON / 1000ml <span id="en">2 in 1 with marine collagen - volume, hydration</span><span id="ro">2 in 1 cu colagen marin - volum, hidratare</span></td></tr>
-<tr><td>Formula 5</td><td>62 RON / 1000ml <span id="en">for beard and scalp</span><span id="ro">pentru barbă și scalp</span></td></tr>
-<tr><td>Formula 6</td><td>65 RON / 1000ml <span id="en">with banana extract</span><span id="ro">cu extract de banana</span></td></tr>
-<tr><td>Formula 7</td><td>95 RON / 1000ml <span id="en">2 in 1 with bio-keratin, D-panthenol and vitamin E</span><span id="ro">2 in 1 cu bio- keratina, D-panthenol si vitamina E</span></td></tr>
-<tr><td>Formula 8</td><td>143 RON / 1000ml <span id="en">intensive capillary regenerator for women</span><span id="ro">regenerant capilar intensiv pentru femei</span></td></tr>
-<tr><td>Formula 9</td><td>143 RON / 1000ml <span id="en">intensive capillary regenerator for men</span><span id="ro">regenerant capilar intensiv pentru bărbați</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-</tbody>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCHS0000002</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Hair mask Herbagen</span><span id="ro">Mască de păr Herbagen</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>94 RON / 1000ml <span id="en">intensely moisturizing with macadamia oil</span><span id="ro">intens hidratantă cu ulei de macadamia</span></td></tr>
-<tr><td>Formula 2</td><td>150 RON / 1000ml <span id="en">with banana extract</span><span id="ro">cu extract de banana</span></td></tr>
-<tr><td>Formula 3</td><td>155 RON / 1000ml <span id="en">with eco honey</span><span id="ro">cu miere de albine bio</span></td></tr>
-<tr><td>Formula 4</td><td>179 RON / 1000ml <span id="en">capillary repair</span><span id="ro">reparatoare capilară</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0000003</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Hair removal beeswax Herbagen</span><span id="ro">Ceară pentru epilat Herbagen</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">Price</span><span id="ro">Pret:</span></td><td style="color:#39ff14;" >155 RON / 1000g</td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<!--
-
-       <tr><td><span id="en">Straight Razor</span><span id="ro">Brici</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Nail polish 6ml - different colors</span><span id="ro">Lac de acoperire unghii 6ml - culori diferite</span></td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">Nail polish remover - without acetone</span><span id="ro">Dizolvant ojă fără Acetonă</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Nail clippers Small 6cm</span><span id="ro">Unghieră mică 6cm</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Nail clippers Big 8cm</span><span id="ro">Unghieră mare 8cm</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Cuticle scissors - Stainless steel</span><span id="ro">Foarfece pentru cuticule - oțel inoxidabil</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Nail pliers - Stainless steel</span><span id="ro">Clește unghii - oțel inoxidabil</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Nail file with 2 sides coarse - fine</span><span id="ro">Pilă unghii cu două fețe aspru - fin</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Nail buffer 2pcs in a box</span><span id="ro">Buffer unghii 2 buc în cutie</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Nail treatment</span><span id="ro">Tratament unghii</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Hair conditioner</span><span id="ro">Balsam de păr</span></td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Root touch-up temporary hair coloring spray - different colors</span><span id="ro">Spray temporar pentru colorarea rădăcinilor - culori diferite</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Perfumed hair spray</span><span id="ro">Spray parfumat păr</span></td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Hair mousse - foam spray</span><span id="ro">Spray mousse - spumă de păr</span></td><td>- </td><td>-</td></tr>  
-       <tr><td><span id="en">Hair oxidizing cream 60ml 9% hydrogen peroxide</span><span id="ro">Cremă oxidantă de păr 60ml 9% peroxid de hidrogen</span></td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Hair gel</span><span id="ro">Gel de păr</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Hair modeling wax</span><span id="ro">Ceară modelare păr</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Hair growth serum without silicon</span><span id="ro">Ser creștere păr fară silicon</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Hair smoothing serum</span><span id="ro">Ser pentru netezire păr</span></td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Dry hair shampoo</span><span id="ro">Șampon păr uscat</span></td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Normal hair shampoo</span><span id="ro">>Șampon păr normal</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Men hair shampoo</span><span id="ro">Șampon păr bărbați</span></td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Hair dye 1pcs - different colors</span><span id="ro">Vopsea de păr - culori diferite</span></td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Hair bleaching powder</span><span id="ro">Pudră pentru decolorarea părului</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Hair fixative</span><span id="ro">Fixativ păr</span></td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Shaving cream</span><span id="ro">Cremă de ras</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Beard oil</span><span id="ro">Ulei barbă</span></td><td> </td><td>-</td></tr>  
-       <tr><td><span id="en">Depilatory wax - Recyclable Wax</span><span id="ro">Ceară pentru depilare - Ceară Reciclabilă</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Hair Removal Tape For Face</span><span id="ro">Bandă pentru îndepărtarea părului pentru față</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Hair Removal Tape For Body</span><span id="ro">Bandă pentru îndepărtarea părului pentru corp</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Hair clips</span><span id="ro">Agrafe păr</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Hair clipper</span><span id="ro">Clamă de păr</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Hair elastic</span><span id="ro">Elastic păr</span></td><td>-</td><td>-</td></tr>        
-       <tr><td><span id="en">Electric shaver</span><span id="ro">Aparat ras electric</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Electric ear and nose hair shaver</span><span id="ro">Aparat tuns păr urechi / nas</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Hair brush</span><span id="ro">Perie păr</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Hair comb</span><span id="ro">Pieptăn păr</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Hairdryer</span><span id="ro">Uscător par</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Shaving soap</span><span id="ro">Săpun de bărbierit</span></td><td>-</td><td>-</td></tr>    
-	<span id="en">Start Product:<br> Razor with spare blades</span><span id="ro">Start Produs:<br> Aparat ras cu lame rezervă</span>
-	<span id="en">Start Product:<br> Disposable Razor</span><span id="ro">Start Produs:<br> Aparat ras unică folosință</span>
-	<span id="en">Start Product:<br> Razor blades reserves</span><span id="ro">Start Produs:<br> Lame de ras</span>
-	<span id="en">Start Product:<br> Aftershave lotion</span><span id="ro">Start Produs:<br> Aftershave lotion</span>
-	<span id="en">Start Product:<br> After Shave</span><span id="ro">Start Produs:<br> After Shave </span>
-	<span id="en">Start Product:<br> Shaving foam</span><span id="ro">Start Produs:<br> Spumă de ras </span>
-	<span id="en">Start Product:<br> Shaving gel</span><span id="ro">Start Produs:<br> Gel de ras </span>
-<tr><td><span id="en">Hair Balm</span><span id="ro">Balsam păr</span></td>
-	<span id="en">Start Product:<br> Hair mask</span><span id="ro">Start Produs:<br> Mască de pâr  </span>
--->
-
-
-
-
-
-</tbody>
-
-
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
+.personalcarehairandnailsslider{
+ width:100%;
 }
-});
-</script>
+.personalcarehairandnailsslidernav{
+ text-align:center;
+ width:100%; 
+}
+.personalcarehairandnailsslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
+.personalcarehairandnailsslides img {
+  max-width: 100%;
+  height: auto;
+}
 
+.personalcarehairandnailsslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.personalcarehairandnailsslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.personalcarehairandnailsslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.personalcarehairandnailsslidernav a:hover {background-color: gold;}
+.personalcarehairandnailsslidernav a:active {background-color: gold;}
+.personalcarehairandnailsslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="personalcarehairandnailsslider">
+
+<div class="personalcarehairandnailsslidernav" >
+  <a href="#personalcarehairandnailsslide-1">1</a>
+  <a href="#personalcarehairandnailsslide-2">2</a>
+  <a href="#personalcarehairandnailsslide-3">3</a>
+</div>
+
+  <div class="personalcarehairandnailsslides">
+    <div class="fade" id="personalcarehairandnailsslide-1">
+      <img src="https://i.ibb.co/1zxn4hZ/personalcarehairandnails.jpg" alt="personalcarehairandnailsitem1" /> 
+    </div>
+    <div class="fade" id="personalcarehairandnailsslide-2">
+      <img src="https://i.ibb.co/pLfsMgm/personalcarehairandnailsb.jpg" alt="personalcarehairandnailsitem2" /> 
+    </div>
+    <div class="fade" id="personalcarehairandnailsslide-3">
+      <img src="https://i.ibb.co/Rcfz3tZ/personalcarehairandnailsc.jpg" alt="personalcarehairandnailsitem3" /> 
+    </div>
+  </div><!-- personalcarehairandnailsSlides -->
+
+</div><!-- personalcarehairandnailsSlider -->
