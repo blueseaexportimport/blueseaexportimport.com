@@ -1,64 +1,7 @@
-<tbody>
+<style>
+    .freshenersslidediv img{ width:100%; height:auto;}
+</style> 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FR0001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Universal air freshener solid</span><span id="ro" >Odorizant universal solid aer</span> Vanesica Fresh</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1:</td><td>1.6 RON / <span id="en" >pcs</span><span id="ro">buc</span> Smiley Cars</td></tr>
-<tr><td>Formula 2:</td><td>2.5 RON / <span id="en" >pcs</span><span id="ro">buc</span> Maxi</td></tr>
-<tr><td>Formula 3:</td><td>2.5 RON / <span id="en" >pcs</span><span id="ro">buc</span> My City</td></tr>
-<tr><td>Formula 4:</td><td>3 RON / <span id="en" >pcs</span><span id="ro">buc</span> Slipper</td></tr>
-<tr><td>Formula 5:</td><td>3 RON / <span id="en" >pcs</span><span id="ro">buc</span> Osmotic membrane</td></tr>
-<tr><td>Formula 6:</td><td>3 RON / <span id="en" >pcs</span><span id="ro">buc</span> Racing Circuit</td></tr>
-<tr><td>Formula 7:</td><td>4 RON / <span id="en" >pcs</span><span id="ro">buc</span> My Car</td></tr>
-<tr><td>Formula 8:</td><td>4.5 RON / <span id="en" >pcs</span><span id="ro">buc</span> Figurina</td></tr>
-<tr><td>Formula 9:</td><td>4.5 RON / <span id="en" >pcs</span><span id="ro">buc</span> Oriental</td></tr>
-<tr><td>Formula 10:</td><td>4.5 RON / <span id="en" >pcs</span><span id="ro">buc</span> Cristal Gel</td></tr>
-<tr><td>Formula 11:</td><td>4.5 RON / <span id="en" >pcs</span><span id="ro">buc</span> Smiley Mechanik</td></tr>
-<tr><td>Formula 12:</td><td>4.5 RON / <span id="en" >pcs</span><span id="ro">buc</span> Smiley Gel</td></tr>
-<tr><td>Formula 13:</td><td>6.5 RON / <span id="en" >pcs</span><span id="ro">buc</span> Carismatic</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.vanesica.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FR0002</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Universal air freshener liquid</span><span id="ro" >Odorizant universal lichid aer</span> Vanesica Fresh</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1:</td><td>2 RON / <span id="en">3ml - vial</span><span id="ro">3ml - fiola</span></td></tr>
-<tr><td>Formula 2:</td><td>3.80 RON / <span id="en">pcs - double vial</span><span id="ro">buc - fiola dubla</span></td></tr>
-<tr><td>Formula 3:</td><td>12 RON / <span id="en">spray bottle</span><span id="ro">sticluta spray</span> - My City</span></td></tr>
-<tr><td>Formula 4:</td><td>12 RON / <span id="en">spray bottle</span><span id="ro">sticluta spray</span> - Oriental</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.vanesica.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FR0003</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Ceramic urinal freshener</span><span id="ro" >Odorizant pisoar ceramic</span> Vanesica Fresh</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1:</td><td>7 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.vanesica.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FR0004</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Room freshener</span><span id="ro" >Odorizant cameră</span> Vanesica Fresh</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1:</td><td>12 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.vanesica.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-
-
-</tbody>
-
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
-}
-});
-</script>
+<div class="freshenersslidediv" >
+<img src="https://i.ibb.co/1Gx65RZ/Fresheners.jpg" alt="fresheners item1" /> 
+</div>
