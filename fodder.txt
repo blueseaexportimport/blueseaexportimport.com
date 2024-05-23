@@ -1,93 +1,69 @@
-<tbody> 
+<style>
 
-
-</tbody> 
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
+.fodderslider{
+ width:100%;
 }
-});
-</script>
+.fodderslidernav{
+ text-align:center;
+ width:100%; 
+}
+.fodderslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
+.fodderslides img {
+  max-width: 100%;
+  height: auto;
+}
 
-<!--
-    <tr><td><span id="en">Fodder Wheat ( Triticum )</span><span id="ro">Grâu furajer ( Triticum )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Fodder Barley ( Hordeum vulgare )</span><span id="ro">Orz furajer ( Hordeum vulgare )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Fodder Canola ( Brassica napus oleifera )</span><span id="ro">Rapiță furajeră ( Brassica napus oleifera )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Black Oat ( Avena strigosa Schreb. )</span><span id="ro">Ovăz negru ( Avena strigosa Schreb. )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Tall fescue ( Festuca arundinacea )</span><span id="ro">Păiuș înalt ( Festuca arundinacea )</span></td><td>-</td><td>-</td></tr>   
-    
-    <tr><td><span id="en">Meadow fescue ( Festuca pratensis )</span><span id="ro">Păiuș de livadă ( Festuca pratensis )</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Sudan grass ( Sorghum sudanense )</span><span id="ro">Iarbă de Sudan ( Sorghum sudanense )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Common vetch ( Vicia sativa )</span><span id="ro">Mazăre de primăvară ( Vicia sativa )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Common sainfoin ( Onobrychis viciifolia )</span><span id="ro">Sparcetă ( Onobrychis viciifolia )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Smooth Brome ( Bromus inermis )</span><span id="ro">Obsigă nearistată ( Bromus inermis )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Reed canary grass ( Phalaris arundinacea )</span><span id="ro">Picta ( Phalaris arundinacea )</span></td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Cat grass ( Dactylis glomerata )</span><span id="ro">Golomăț ( Dactylis glomerata )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Festulolium ( × Festulolium )</span><span id="ro">Festulolium ( × Festulolium )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Sheep's fescue ( Festuca ovina )</span><span id="ro">Păiușul oilor ( Festuca ovina )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Red fescue ( Festuca rubra )</span><span id="ro">Păiuș roșu ( Festuca rubra )</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Hybrid Ryegrass ( Lolium hybridum Hausskn )</span><span id="ro">Raigras hibrid ( Lolium hybridum Hausskn )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Perennial ryegrass ( Lolium perenne )</span><span id="ro">Raigras peren ( Lolium perenne )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Italian rye-grass ( Lolium multiflorum )</span><span id="ro">Raigras italian ( Lolium multiflorum )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Timothy ( Phleum pratense )</span><span id="ro">Timoftícă ( Phleum pratense )</span></td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Clover ( Trifolium )</span><span id="ro">Trifoi ( Trifolium )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">White clover ( Trifolium repens )</span><span id="ro">Trifoi alb ( Trifolium repens )</span></td><td></td><td>-</td></tr>    
-    <tr><td><span id="en">Egyptian clover ( Trifolium alexandrinum )</span><span id="ro">Trifoi Egiptean ( Trifolium alexandrinum )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Red clover ( Trifolium pratense )</span><span id="ro">Trifoi roșu ( Trifolium pratense )</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Common bird's-foot trefoil ( Lotus corniculatus )</span><span id="ro">Ghizdei ( Lotus corniculatus )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">White lupin ( Lupinus albus )</span><span id="ro">Lupin alb ( Lupinus albus )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Alfalfa ( Medicago sativa )</span><span id="ro">Lucernă ( Medicago sativa )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Fodder corn kernels ( Zea mays. L. )</span><span id="ro">Boabe porumb ( Zea mays. L. )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Fodder cabbage ( Brassica oleracea )</span><span id="ro">Varză furajeră ( Brassica oleracea )</span></td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Fodder beat ( Beta vulgaris )</span><span id="ro">Sfeclă furajeră ( Beta vulgaris )</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Fodder turnip ( Brassica rapa subsp. rapa )</span><span id="ro">Nap furajer ( Brassica rapa subsp. rapa )</span></td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Brewers' spent grain - BSG</span><span id="ro">Borhot bere</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Dried Grape Pomace</span><span id="ro">Boască / Tescovină struguri</span></td><td>-</td><td>-</td></tr>
-    
-    <tr><td><span id="en">Dried Potato Steam Peels</span><span id="ro">Coji cartofi uscate</span></td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Corn Dried distillers grains with solubles - DDGS</span><span id="ro">Borhot porumb distilare</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Cow Whey</span><span id="ro">Zer de vacă</span></td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Stockfeed potatoed</span><span id="ro">Cartofi furajeri</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Fodder pumpkins</span><span id="ro">Bostani furajeri</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Beans stalks</span><span id="ro">Tulpini fasole</span></td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Fodder carrots ( Daucus carota )</span><span id="ro">Morcovi furajeri ( Daucus carota )</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Maize cobs without grain</span><span id="ro">Ciocani porumb ( Știulete curățăt de boabe) </span></td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Maize stalks with leaves ( Maize stover )</span><span id="ro">Tulpină porumb - cocean</span> </td><td>-</td><td>-</td></tr>
-    
-    <tr><td><span id="en">Wheat straw  ( Wheat straw bale - Hesston square bale)</span><span id="ro">Balot paie grâu - Hesston dreptunghiular</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Wheat straw  ( Wheat straw bale - Krone square bale)</span><span id="ro">Balot paie grâu - Krone dreptunghiular</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Wheat straw  ( Wheat straw bale - Class square bale)</span><span id="ro">Balot paie grâu - Class dreptunghiular</span></td><td>-</td><td>-</td></tr>   
+.fodderslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
 
-    <tr><td><span id="en">Rye straw ( Rye straw bale - Hesston square bale )</span><span id="ro">Balot paie secară - Hesston dreptunghiular</span></td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Rye straw ( Rye straw bale - Krone square bale )</span><span id="ro">Balot paie secară - Krone dreptunghiular</span></td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Rye straw ( Rye straw bale - Class square bale )</span><span id="ro">Balot paie secară - Class dreptunghiular</span></td><td>-</td><td>-</td></tr>
+.fodderslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.fodderslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.fodderslidernav a:hover {background-color: gold;}
+.fodderslidernav a:active {background-color: gold;}
+.fodderslidernav a:focus {background-color: gold;}
 
-    <tr><td><span id="en">Barley straw  ( Barley straw bale - Hesston square bale )</span><span id="ro">Balot paie orz - Hesston dreptunghiular</span></td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Barley straw  ( Barley straw bale - Krone square bale )</span><span id="ro">Balot paie orz - Krone dreptunghiular</span></td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Barley straw  ( Barley straw bale - Krone square bale )</span><span id="ro">Balot paie orz - Class dreptunghiular</span></td><td>-</td><td>-</td></tr>
+</style>
 
-    <tr><td><span id="en">Fodder wheat flou</span><span id="ro">Făină de grâu furajeră</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Wheat bran</span><span id="ro">Tărâță de grâu</span></td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Rye bran</span><span id="ro">Tărâță de secară</span></td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Barley bran</span><span id="ro">Tărâță de orz</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Corn bran</span><span id="ro">Tărâță de porumb</span></td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Corn meal</span><span id="ro">Mălai porumb furajer</span></td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Sunflower seeds meal</span><span id="ro">Șrot floarea soarelui</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Soybean hulls</span><span id="ro">Coji de soia</span></td><td></td><td>-</td></tr>
-    <tr><td><span id="en">Canola seeds meal</span><span id="ro">Șrot rapiță</span> </td><td>-</td><td>-</td></tr>
+<div class="fodderslider">
 
-<tr><td><span id="en">Zootechnical Rock salt - bulk 3-50kg</span><span id="ro">Bulgăre de sare furajer vrac 3-50kg</span> </td>
-<tr><td><span id="en">Zootechnical ground limestone in big bags</span><span id="ro">Calcar furajer în big bags</span> </td>
+<div class="fodderslidernav" >
+  <a href="#fodderslide-1">1</a>
+  <a href="#fodderslide-2">2</a>
+</div>
 
--->
+  <div class="fodderslides">
+    <div class="fade" id="fodderslide-1">
+      <img src="https://i.ibb.co/9gqqGh5/fodder.jpg" alt="fodderitem1" /> 
+    </div>
+    <div class="fade" id="fodderslide-2">
+      <img src="https://i.ibb.co/3sBxxBf/fodderb.jpg" alt="fodderitem2" /> 
+    </div>
+  </div><!-- fodderSlides -->
 
+</div><!-- fodderSlider -->
