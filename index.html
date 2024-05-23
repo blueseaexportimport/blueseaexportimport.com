@@ -928,6 +928,23 @@ $(document).ready(function () {
    });
   // Grab batteries on click end	
 
+  // Grab fodder on click start
+  $("#fodderbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#fodder").hasClass("clickedfodder")) {
+        // already been clicked once, hide it
+        $("#fodder").html("");
+        $( "#fodder" ).removeClass( "clickedfodder" )
+    }else {
+        // first time this is clicked, mark it
+        $("#fodder").addClass("clickedfodder");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/fodder.txt?" + rand, success: function(result){
+         $("#fodder").html(result);
+        }});
+    }
+   });
+  // Grab fodder on click end	
+	
 	
 	
 });
@@ -1662,13 +1679,16 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>	
   </div></li><!--END SECTION-->
 	   
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>T. DOMESTIC ANIMALS FEED (0)</b></span><span id="ro"><b>T. HRANĂ ANIMALE DOMESTICE (0)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>T. DOMESTIC ANIMALS FEED (2)</b></span><span id="ro"><b>T. HRANĂ ANIMALE DOMESTICE (2)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Combined and concentrated feed factory</span><span id="ro">Fabrică nutrețuri combinate și concentrate</span></h5>    	
   <div class="rowbin" >-</div> 
   <h5 class="categoryaccordion" ><span id="en">Pet food factory</span><span id="ro">Fabrică nutrețuri hrană animale de companie</span></h5>    	
   <div class="rowbin" >-</div>   
-  <h5 class="categoryaccordion" ><span id="en">Fodder / Fed for domestic animals</span><span id="ro">Furaje pentru animale domestice</span></h5> 
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="fodderbtn" ><span id="en">Fodder / Fed for domestic animals (2)</span><span id="ro">Furaje pentru animale domestice (2)</span></h5> 
+   <div id="fodder" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="combinedfodderbtn" ><span id="en">Combined fodder for domestic animals</span><span id="ro">Nutrețuri combinate pentru animale domestice</span></h5>  
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Mineral feed for domestic animals</span><span id="ro">Furaje minerale pentru animale domestice</span></h5> 
