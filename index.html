@@ -909,7 +909,22 @@ $(document).ready(function () {
    });
   // Grab fresheners on click end		
 
-
+  // Grab batteries on click start
+  $("#batteriesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#batteries").hasClass("clickedbatteries")) {
+        // already been clicked once, hide it
+        $("#batteries").html("");
+        $( "#batteries" ).removeClass( "clickedbatteries" )
+    }else {
+        // first time this is clicked, mark it
+        $("#batteries").addClass("clickedbatteries");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/batteries.txt?" + rand, success: function(result){
+         $("#batteries").html(result);
+        }});
+    }
+   });
+  // Grab batteries on click end	
 
 	
 	
@@ -958,7 +973,7 @@ $(document).ready(function () {
     <br><br>
 </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>A. ELECTRICITY  (5)</b></span> <span id="ro"><b>A. ENERGIE ELECTRICĂ  (5)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>A. ELECTRICITY  (6)</b></span> <span id="ro"><b>A. ENERGIE ELECTRICĂ  (6)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="dysonspheresbtn" ><span id="en">Dyson spheres and black holes energy harvesting</span><span id="ro">Sfere Dyson și soluții recoltare energie găuri negre</span></h5>    	
    <div class="rowbin" >-</div> 
    <h5 class="categoryaccordion" id="fusionreactorsbtn" ><span id="en">Fusion reactors</span><span id="ro">Reactoare fuziune</span></h5>    	
@@ -973,8 +988,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div> 
    <h5 class="categoryaccordion" id="backupgeneratorsbtn" ><span id="en">Backup generators</span><span id="ro">Generatoare backup</span></h5>    	
    <div class="rowbin" >-</div> 
-   <h5 class="categoryaccordion" id="batteriesbtn" ><span id="en">Batteries and accumulators</span><span id="ro">Baterii și acumulatori</span></h5>    	
-   <div class="rowbin" >-</div> 
+   <h5 class="categoryaccordion" id="batteriesbtn" ><span id="en">Batteries and accumulators (1)</span><span id="ro">Baterii și acumulatori (1)</span></h5>    	
+   <div id="batteries" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" id="electricalsubstationbtn" ><span id="en">Electrical substation</span><span id="ro">Stație electrică de transformare</span></h5>    	
    <div class="rowbin" >-</div> 
    <h5 class="categoryaccordion" id="highvoltagesystemsbtn" ><span id="en">High voltage systems</span><span id="ro">Sisteme înaltă tensiune</span></h5>    
