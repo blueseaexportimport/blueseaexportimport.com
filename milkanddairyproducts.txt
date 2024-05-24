@@ -50,9 +50,9 @@
 
 </style>
 
-<div class="maturedcheeseslider">
+<div class="milkanddairyproductsslider">
 
-<div class="maturedcheeseslidernav" >
+<div class="milkanddairyproductsslidernav" >
   <a href="#milkanddairyproductsslide-1">1</a>
   <a href="#milkanddairyproductsslide-2">2</a>
 </div>
@@ -61,9 +61,9 @@
     <div class="fade" id="milkanddairyproductsslide-1">
       <img src="https://i.ibb.co/tZLvRsv/dairy.jpg" alt="milkanddairyproductsitem1" /> 
     </div>
-    <div class="fade" id="maturedcheeseslide-2">
+    <div class="fade" id="milkanddairyproductsslide-2">
       <img src="https://i.ibb.co/myLcWGj/dairyb.jpg" alt="milkanddairyproductsitem2" /> 
     </div>
-  </div><!-- maturedcheeseSlides -->
+  </div><!-- milkanddairyproductsSlides -->
 
-</div><!-- maturedcheeseSlider -->
+</div><!-- milkanddairyproductsSlider -->
