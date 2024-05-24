@@ -1,237 +1,69 @@
+<style>
 
-
-<tbody>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">MIK0001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Cow milk - Laktotrio</span><span id="ro">Lapte de vacă - Laktotrio</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-
-<tr><td>Formula 1</td><td>6,40 RON / 1L <span id="en">fats 0.1% Expiration 13days</span><span id="ro">grăsimi 0.1% Termen valabilitate 13zile</td></tr>
-<tr><td>Formula 2</td><td>6,40 RON / 1L <span id="en">fats 1,8% Expiration 13days</span><span id="ro">grăsimi 1,8% Termen valabilitate 13zile</td></tr>
-<tr><td>Formula 3</td><td>6,40 RON / 1L <span id="en">fats 3% Expiration 13days</span><span id="ro">grăsimi 3% Termen valabilitate 13zile</td></tr>
-<tr><td>Formula 4</td><td>7,40 RON / 3L <span id="en">fats 3,7 - 4% Expiration 13days</span><span id="ro">grăsimi 3,7 - 4%</span> Termen valabilitate 13zile</td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.laktotrio.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">MIK0002</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Dairy products - Laktotrio</span><span id="ro">Lactate - Laktotrio</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-
-<tr><td>Formula 1</td><td>2,80 RON / 100g <span id="en">Processed cheese - fats 38% Expiration 35days</span><span id="ro">Brânză topită - grăsimi 38% Termen valabilitate 35zile</span></td></tr>
-
-<tr><td>Formula 2</td><td>18,50 RON / 3kg <span id="en">Yogurt for drinking - fats 2% Expiration 35days</span><span id="ro">Iaurt de băut - grăsimi 2% Termen valabilitate 35zile</span></td></tr>
-<tr><td>Formula 3</td><td>20,20 RON / 3kg <span id="en">Sour Milk - fats 2% Expiration 35days</span><span id="ro">Lapte bătut - grăsimi 2% Termen valabilitate 35zile</span></td></tr>
-<tr><td>Formula 4</td><td>21,00 RON / 3kg <span id="en">Kefir milk - fats 3,5% Expiration 35days</span><span id="ro">Lapte Kefir - grăsimi 3,5% Termen valabilitate 35zile</span></td></tr>
-<tr><td>Formula 5</td><td>22,80 RON / 3kg <span id="en">Sana milk - fats 3,6% Expiration 35days</span><span id="ro">Lapte sana - grăsimi 3,6% Termen valabilitate 35zile</span></td></tr>
-<tr><td>Formula 6</td><td>69,50 RON / 5kg <span id="en">Yogurt with greek specific - fats 10% Expiration 35days</span><span id="ro">Iaurt cu specific grecesc - grăsimi 10% Termen valabilitate 35zile</span></td></tr>
-
-<tr><td>Formula 7</td><td>32,50 RON / 3L <span id="en">Liquid Sour cream for cooking  - fats 15% Expiration 8days</span><span id="ro">Smântână lichidă pentru gătit - grăsimi 15% Termen valabilitate 8zile</span></td></tr>
-<tr><td>Formula 8</td><td>62,00 RON / 3L <span id="en">Liquid Sour cream for cooking  - fats 30% Expiration 8days</span><span id="ro">Smântână lichidă pentru gătit - grăsimi 30% Termen valabilitate 8zile</span></td></tr>
-
-<tr><td>Formula 9</td><td>39,50 RON / 1kg <span id="en">Butter - fats 65% Expiration 60days</span><span id="ro">Unt - grăsimi 65% Termen valabilitate 60zile</span></td></tr>
-<tr><td>Formula 10</td><td>46,40 RON / 1kg <span id="en">Butter - fats 82% Expiration 60days</span><span id="ro">Unt - grăsimi 82% Termen valabilitate 60zile</span></td></tr>
-
-<tr><td>Formula 11</td><td>62,00 RON / 5kg <span id="en">Sour cream - fats 15% Expiration 32days</span><span id="ro">Smântână - grăsimi 15% Termen valabilitate 32zile</span></td></tr>
-<tr><td>Formula 12</td><td>73,20 RON / 5kg <span id="en">Sour cream - fats 20% Expiration 32days</span><span id="ro">Smântână - grăsimi 20% Termen valabilitate 32zile</span></td></tr>
-<tr><td>Formula 13</td><td>84,00 RON / 5kg <span id="en">Sour cream - fats 25% Expiration 32days</span><span id="ro">Smântână - grăsimi 25% Termen valabilitate 32zile</span></td></tr>
-<tr><td>Formula 14</td><td>368,00 RON / 17kg <span id="en">Sour cream - fats 30% Expiration 32days</span><span id="ro">Smântână - grăsimi 30% Termen valabilitate 32zile</span></td></tr>
-
-<tr><td>Formula 15</td><td>9,30 RON / 400g <span id="en">Cottage cheese with sour cream - fats 45% Expiration 10days</span><span id="ro">Brânză de vacă cu smântână - grăsimi 45% Termen valabilitate 10zile</span></td></tr>
-<tr><td>Formula 16</td><td>353,00 RON / 17Kg <span id="en">Fat cottage cheese - fats 25% Expiration 16days</span><span id="ro">Brânză grasă de vacă - grăsimi 25% Termen valabilitate 16zile</span></td></tr>
-<tr><td>Formula 17</td><td>330,00 RON / 17Kg <span id="en">Cottage cheese - fats 5% Expiration 16days</span><span id="ro">Brânză grasă de vacă - grăsimi 5% Termen valabilitate 16zile</span></td></tr>
-<tr><td>Formula 18</td><td>508,30 RON / 17Kg <span id="en">Kneaded cottage cheese - fats 30% Expiration 34days</span><span id="ro">Brânză frământată - grăsimi 30% Termen valabilitate 34zile</span></td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.laktotrio.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
-
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">MIK0003</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Dairy products - Hochland</span><span id="ro">Lactate - Hochland</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">EU</span></td></tr>
-
-
-
-<tr><td>Formula 1</td><td>2.99 RON / 90g <span id="en">Processed cheese one piece - Sour cream Expiration 180days</span><span id="ro">Brânză topită o bucată - Smantana Termen valabilitate 180zile</span></td></tr>
-<tr><td>Formula 2</td><td>2.99 RON / 90g <span id="en">Processed cheese one piece - Bacon cream Expiration 180days</span><span id="ro">Brânză topită o bucată - Sunca Termen valabilitate 180zile</span></td></tr>
-
-<tr><td>Formula 3</td><td>3.19 RON / 100g <span id="en">Processed cheese stick - with Butter Expiration 120days</span><span id="ro">Brânză topită baton - cu Unt Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 4</td><td>3.19 RON / 100g <span id="en">Processed cheese stick - with Greens Expiration 120days</span><span id="ro">Brânză topită baton - cu Verdeata Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 5</td><td>3.19 RON / 100g <span id="en">Processed cheese stick - with Sour Cream Expiration 120days</span><span id="ro">Brânză topită baton - cu Smantana Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 6</td><td>3.19 RON / 100g <span id="en">Processed cheese stick - with Bacon Expiration 120days</span><span id="ro">Brânză topită baton - cu Sunca Termen valabilitate 120zile</span></td></tr>
-
-<tr><td>Formula 7</td><td>5.79 RON / 140g <span id="en">Processed cheese triangular shapes - Sour Cream Expiration 210days</span><span id="ro">Brânză topită triunghiuri - Smantana Termen valabilitate 210zile</span></td></tr>
-<tr><td>Formula 8</td><td>5.79 RON / 140g <span id="en">Processed cheese triangular shapes - Bacon Expiration 210days</span><span id="ro">Brânză topită triunghiuri - Sunca Termen valabilitate 210zile</span></td></tr>
-<tr><td>Formula 9</td><td>5.79 RON / 140g <span id="en">Processed cheese triangular shapes - Cheese Expiration 210days</span><span id="ro">Brânză topită triunghiuri - Cascaval Termen valabilitate 210zile</span></td></tr>
-<tr><td>Formula 10</td><td>5.79 RON / 140g <span id="en">Processed cheese triangular shapes- Mixtett Classico Expiration 210days</span><span id="ro">Brânză topită triunghiuri - Mixtett Classico Termen valabilitate 210zile</span></td></tr>
-<tr><td>Formula 11</td><td>5.79 RON / 140g <span id="en">Processed cheese triangular shapes - Mixtett Formaggi Expiration 210days</span><span id="ro">Brânză topită triunghiuri - Mixtett Formaggi Termen valabilitate 210zile</span></td></tr>
-<tr><td>Formula 12</td><td>5.79 RON / 140g <span id="en">Processed cheese triangular shapes - Mixtett Gourmet Expiration 210days</span><span id="ro">Brânză topită triunghiuri - Mixtett Gourmet Termen valabilitate 210zile</span></td></tr>
-<tr><td>Formula 13</td><td>5.79 RON / 140g <span id="en">Processed cheese triangular shapes - Mixtett for Paste Expiration 210days</span><span id="ro">Brânză topită triunghiuri - Mixtett pentru Paste Termen valabilitate 210zile</span></td></tr>
-<tr><td>Formula 14</td><td>11.17 RON / 280g <span id="en">Processed cheese triangular shapes - Family Pack Sour Cream Expiration 210days</span><span id="ro">Brânză topită triunghiuri - Family Pack Smantana Termen valabilitate 210zile</span></td></tr>
-<tr><td>Formula 15</td><td>11.17 RON / 280g <span id="en">Processed cheese triangular shapes - Pack Mixtet Classico Expiration 210days</span><span id="ro">Brânză topită triunghiuri - Family Pack Mixtet Classico Termen valabilitate 210zile</span></td></tr>
-<tr><td>Formula 16</td><td>11.17 RON / 280g <span id="en">Processed cheese triangular shapes - Family Pack Bacon Expiration 210days</span><span id="ro">Brânză topită triunghiuri - Family Pack Sunca Termen valabilitate 210zile</span></td></tr>
-
-<tr><td>Formula 17</td><td>5.79 RON / 140g <span id="en">Processed cheese slices shapes - Sour Cream Expiration 180days</span><span id="ro">Brânză topită felii- Smantana Termen valabilitate 180zile</span></td></tr>
-<tr><td>Formula 18</td><td>5.79 RON / 140g <span id="en">Processed cheese slices shapes - Bacon Expiration 180days</span><span id="ro">Brânză topită felii- Sunca Termen valabilitate 180zile</span></td></tr>
-<tr><td>Formula 19</td><td>5.79 RON / 140g <span id="en">Processed cheese slices shapes - Cheese Expiration 180days</span><span id="ro">Brânză topită felii- Cascaval Termen valabilitate 180zile</span></td></tr>
-<tr><td>Formula 20</td><td>5.79 RON / 140g <span id="en">Processed cheese slices shapes - Cheeseburger Expiration 180days</span><span id="ro">Brânză topită felii- Cheeseburger Termen valabilitate 180zile</span></td></tr>
-<tr><td>Formula 21</td><td>5.79 RON / 140g <span id="en">Processed cheese slices shapes - Emmentaler Expiration 180days</span><span id="ro">Brânză topită felii- Emmentaler Termen valabilitate 180zile</span></td></tr>
-<tr><td>Formula 22</td><td>5.79 RON / 140g <span id="en">Processed cheese slices shapes - Ceddar Expiration 180days</span><span id="ro">Brânză topită felii- Ceddar Termen valabilitate 180zile</span></td></tr>
-
-<tr><td>Formula 23</td><td>11.17 RON / 280g <span id="en">Processed cheese slices shapes - Family Pack Sour Cream Expiration 180days</span><span id="ro">Brânză topită felii- Family Pack Smantana Termen valabilitate 180zile</span></td></tr>
-<tr><td>Formula 24</td><td>11.17 RON / 280g <span id="en">Processed cheese slices shapes - Family Pack Cheese Expiration 180days</span><span id="ro">Brânză topită felii- Family Pack Cascaval Termen valabilitate 180zile</span></td></tr>
-<tr><td>Formula 25</td><td>11.17 RON / 280g <span id="en">Processed cheese slices shapes - Family Pack Bacon Expiration 180days</span><span id="ro">Brânză topită felii- Family Pack Sunca Termen valabilitate 180zile</span></td></tr>
-
-<tr><td>Formula 26</td><td>29.88 RON / 700g <span id="en">Processed cheese slices shapes - Cheese Expiration 180days</span><span id="ro">Brânză topită felii- Cascaval Termen valabilitate 180zile</span></td></tr>
-<tr><td>Formula 27</td><td>29.88 RON / 700g <span id="en">Processed cheese slices shapes - Cheddar Expiration 180days</span><span id="ro">Brânză topită felii- Cheddar Termen valabilitate 180zile</span></td></tr>
-<tr><td>Formula 28</td><td>29.88 RON / 700g <span id="en">Processed cheese slices shapes - Sour cream Expiration 180days</span><span id="ro">Brânză topită felii- Smantana Termen valabilitate 180zile</span></td></tr>
-<tr><td>Formula 29</td><td>42.96 RON / 1200g <span id="en">Processed cheese slices professional Clasic Mastercheese Expiration 120days</span><span id="ro">Brânză topită felii profesional Clasic Mastercheese Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 30</td><td>43.96 RON / 1033g <span id="en">Processed cheese slices professional Cheddar Expiration 220days</span><span id="ro">Brânză topită felii profesional Cheddar Termen valabilitate 220zile</span></td></tr>
-
-
-<tr><td>Formula 31</td><td>5.84 RON / 150g <span id="en">Cheese cream Almette - Greens Expiration 120days</span><span id="ro">Cremă de brânză Almette - Verdeata Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 32</td><td>5.84 RON / 150g <span id="en">Cheese cream Almette - Sour Cream Expiration 120days</span><span id="ro">Cremă de brânză Almette - Smantana Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 33</td><td>5.84 RON / 150g <span id="en">Cheese cream Almette - Yougurt Expiration 120days</span><span id="ro">Cremă de brânză Almette - Iaurt Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 34</td><td>5.84 RON / 150g <span id="en">Cheese cream Almette - HourseRadish Expiration 120days</span><span id="ro">Cremă de brânză Almette - Hrean Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 35</td><td>5.84 RON / 150g <span id="en">Cheese cream Almette - Green Onion Expiration 120days</span><span id="ro">Cremă de brânză Almette - Ceapa Verde Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 36</td><td>5.84 RON / 150g <span id="en">Cheese cream Almette - Tomatoes and Basil Expiration 120days</span><span id="ro">Cremă de brânză Almette - Rosii si Busuioc Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 37</td><td>5.84 RON / 150g <span id="en">Cheese cream Almette - Porcini Expiration 120days</span><span id="ro">Cremă de brânză Almette - Hribi Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 38</td><td>6.88 RON / 140g <span id="en">Cheese cream Almette - "Savuros" Onions and Parsley Expiration 120days</span><span id="ro">Cremă de brânză Almette - Savuros Ceapa si Patrunjel Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 39</td><td>7.99 RON / 200g <span id="en">Cheese cream Almette - Crème Clasic Expiration 120days</span><span id="ro">Cremă de brânză Almette - Crème Clasic Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 40</td><td>7.99 RON / 200g <span id="en">Cheese cream Almette - Crème  Greens Expiration 120days</span><span id="ro">Cremă de brânză Almette - Crème  Greens Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 41</td><td>7.99 RON / 200g <span id="en">Cheese cream Almette - Crème Cocumbers Expiration 120days</span><span id="ro">Cremă de brânză Almette - Crème Cocumbers Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 42</td><td>7.99 RON / 200g <span id="en">Cheese cream Almette - Crème Bacon Expiration 120days</span><span id="ro">Cremă de brânză Almette - Crème Bacon Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 43</td><td>10.78 RON / 250g <span id="en">Cheese cream Almette - Sour Cream Expiration 120days</span><span id="ro">Cremă de brânză Almette - Smantana Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 44</td><td>10.78 RON / 250g <span id="en">Cheese cream Almette - Greens Expiration 120days</span><span id="ro">Cremă de brânză Almette - Verdeata Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 45</td><td>96.25 RON / 5kg <span id="en">Cheese cream with butter Hochland - professional Expiration 90days</span><span id="ro">Cremă de brânză cu unt Hochland - profesional Termen valabilitate 90zile</span></td></tr>
-<tr><td>Formula 46</td><td>119.89 RON / 3.5kg <span id="en">Cheese cream Hochland - professional Cremette Expiration 120days</span><span id="ro">Cremă de brânză Hochland - profesional Cremette Termen valabilitate 120zile</span></td></tr>
-
-
-<tr><td>Formula 47</td><td>5.55 RON / 125g <span id="en">Mozzarella Fresh Hochland Expiration 33days</span><span id="ro">Mozzarella Fresh Hochland Termen valabilitate 33zile</span></td></tr>
-<tr><td>Formula 48</td><td>17.18 RON / 300g <span id="en">Mozzarella Fresh Hochland Expiration 33days</span><span id="ro">Mozzarella Fresh Hochland Termen valabilitate 33zile</span></td></tr>
-<tr><td>Formula 49</td><td>10.22 RON / 150g <span id="en">Grated Mozzarella Hochland Expiration 80days</span><span id="ro">Mozzarella Rasa Hochland Termen valabilitate 80zile</span></td></tr>
-<tr><td>Formula 50</td><td>15.97 RON / 300g <span id="en">Grated Mozzarella - block Hochland Expiration 110days</span><span id="ro">Mozzarella Rasa - bloc Hochland Termen valabilitate 110zile</span></td></tr>
-<tr><td>Formula 51</td><td>32.27 RON / 700g <span id="en">Grated Mozzarella - block Hochland Expiration 110days</span><span id="ro">Mozzarella Rasa - bloc Hochland Termen valabilitate 110zile</span></td></tr>
-<tr><td>Formula 52</td><td>77.7 RON / 1800g <span id="en">Grated Mozzarella - block Hochland Expiration 110days</span><span id="ro">Mozzarella Rasa - bloc Hochland Termen valabilitate 110zile</span></td></tr>
-<tr><td>Formula 53</td><td>40.97 RON / 2kg <span id="en">Mozzarella HP professional Hochland Expiration 110days</span><span id="ro">Mozzarella HP profesional Hochland Termen valabilitate 110zile</span></td></tr>
-<tr><td>Formula 54</td><td>13.55 RON / 250g <span id="en">Mascarpone Hochland Expiration 95days</span><span id="ro">Mascarpone Hochland Termen valabilitate 95zile</span></td></tr>
-<tr><td>Formula 55</td><td>25.70 RON / 500g <span id="en">Mascarpone Hochland Expiration 95days</span><span id="ro">Mascarpone Hochland Termen valabilitate 95zile</span></td></tr>
-
-
-<tr><td>Formula 56</td><td>6.47 RON / 180g <span id="en">Fresh cottage beads cheese Hochland Expiration 36days</span><span id="ro">Margele de branza Hochland Termen valabilitate 36zile</span></td></tr>
-<tr><td>Formula 57</td><td>6.47 RON / 180g <span id="en">Fresh cottage beads cheese Hochland fats 3% Expiration 36days</span><span id="ro">Margele de branza Hochland grăsimi 3% Termen valabilitate 36zile</span></td></tr>
-<tr><td>Formula 58</td><td>6.65 RON / 180g <span id="en">Fresh cottage beads cheese Hochland without Lactoze Expiration 36days</span><span id="ro">Margele de branza Hochland Fara Lactoza Termen valabilitate 36zile</span></td></tr>
-<tr><td>Formula 59</td><td>7.77 RON / 180g <span id="en">Fresh cottage beads cheese Hochland Bio (RO ECO 029) Expiration 36days</span><span id="ro">Margele de branza Hochland Bio (RO ECO 029) Termen valabilitate 36zile</span></td></tr>
-
-
-<tr><td>Formula 60</td><td>6.47 RON / 165g <span id="en">Cottage Cheese Almette "Rasfat" Expiration 36days</span><span id="ro">Brânză proaspătă de vaci Almette "Rasfat" Termen valabilitate 36zile</span></td></tr>
-<tr><td>Formula 61</td><td>6.47 RON / 165g <span id="en">Cottage Cheese Almette "Revigorant" Expiration 36days</span><span id="ro">Brânză proaspătă de vaci Almette "Revigorant" Termen valabilitate 36zile</span></td></tr>
-<tr><td>Formula 62</td><td>6.47 RON / 165g <span id="en">Cottage Cheese Almette "Delica" Expiration 28days</span><span id="ro">Brânză proaspătă de vaci Almette "Delica" Termen valabilitate 28zile</span></td></tr>
-<tr><td>Formula 63</td><td>6.56 RON / 200g <span id="en">Fresh cottage cheese Hochland Expiration 26days</span><span id="ro">Branza proaspata de vaci Hochland Termen valabilitate 26zile</span></td></tr>
-<tr><td>Formula 64</td><td>9.08 RON / 275g <span id="en">Fresh cottage cheese Hochland fats 3.5% Expiration 25days</span><span id="ro">Branza proaspata de vaci Hochland grăsimi 3.5% Termen valabilitate 25zile</span></td></tr>
-
-
-<tr><td>Formula 65</td><td>8.89 RON / 135g <span id="en">"Delicii Calde" Oven Cheese Telemea Expiration 120days</span><span id="ro">"Delicii Calde" Telemea la Cuptor Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 66</td><td>13.97 RON / 150g <span id="en">Pane Cheese Hochland Expiration 84days</span><span id="ro">Cascaval Pane Hochland Termen valabilitate 84zile</span></td></tr>
-<tr><td>Formula 67</td><td>16.85 RON / 150g <span id="en">Grilled mixed cheeses Hochland 84days</span><span id="ro">Mix cu branzeturi La Gratar Termen valabilitate 84zile</span></td></tr>
-<tr><td>Formula 68</td><td>17.45 RON / 200g <span id="en">Cheese "Delicii Calde" Halloumi Slices Expiration 365days</span><span id="ro">Brânză "Delicii Calde" Halloumi Felii Termen valabilitate 365zile</span></td></tr>
-<tr><td>Formula 69</td><td>18.50 RON / 200g <span id="en">Cheese "Delicii Calde" Halloumi Expiration 365days</span><span id="ro">Brânză "Delicii Calde" Halloumi Termen valabilitate 365zile</span></td></tr>
-<tr><td>Formula 70</td><td>18.63 RON / 200g <span id="en">Grilled Camembert Hochland Expiration 134days</span><span id="ro">Camembert La Gratar Hochland Termen valabilitate 134zile</span></td></tr>
-
-<tr><td>Formula 71</td><td>6.99 RON / 100g <span id="en">Grated Cheese for Pasta Hochland Expiration 270days</span><span id="ro">Branza Rasa Pasta Hochland Termen valabilitate 270zile</span></td></tr>
-<tr><td>Formula 72</td><td>10.22 RON / 150g <span id="en">Grated Cheese for Pizza Hochland Expiration 120days</span><span id="ro">Branza Rasa Pizza Hochland Termen valabilitate 120zile</span></td></tr>
-<tr><td>Formula 73</td><td>24.34 RON / 400g <span id="en">Extra Cremoasa Cheese Hochland Expiration 6days</span><span id="ro">Brânză Extra Cremoasa Hochland Termen valabilitate 6zile</span></td></tr>
-
-<tr><td>Formula 74</td><td>14.97 RON / 150g <span id="en">Vegan cheese Simply V Slices - Natur Expiration 90days</span><span id="ro">Brânză vegan Simply V Felii - Natur Termen valabilitate 90zile</span></td></tr>
-<tr><td>Formula 75</td><td>14.97 RON / 150g <span id="en">Vegan cheese Simply V Slices - Intense Expiration 90days</span><span id="ro">Brânză vegan Simply V Felii - Intense Termen valabilitate 90zile</span></td></tr>
-<tr><td>Formula 76</td><td>14.97 RON / 150g <span id="en">Vegan cheese Simply V Slices - Grated Expiration 90days</span><span id="ro">Brânză vegan Simply V Felii - Ras Termen valabilitate 90zile</span></td></tr>
-
-<tr><td>Formula 77</td><td>15.99 RON / 200g <span id="en">Vegan cheese Simply V Slices - Grated with Almonds Expiration 90days</span><span id="ro">Brânză vegan Simply V Felii - Ras cu Migdale Termen valabilitate 90zile</span></td></tr>
-<tr><td>Formula 78</td><td>15.99 RON / 200g <span id="en">Vegan cheese Simply V Slices - Natur Expiration 90days</span><span id="ro">Brânză vegan Simply V Felii - Natur Termen valabilitate 90zile</span></td></tr>
-<tr><td>Formula 79</td><td>15.99 RON / 200g <span id="en">Vegan cheese Simply V Slices - with Greens Expiration 90days</span><span id="ro">Brânză vegan Simply V Felii - cu Verdeturi Termen valabilitate 90zile</span></td></tr>
-
-<tr><td>Formula 80</td><td>14.98 RON / 150g <span id="en">Vegan cheese Simply V block Expiration 90days</span><span id="ro">Brânză vegan Simply V bloc Termen valabilitate 90zile</span></td></tr>
-<tr><td>Formula 81</td><td>15.00 RON / 150g <span id="en">Vegan cheese Simply V Grill with Greens Expiration 90days</span><span id="ro">Brânză vegan Simply V Grill cu Verdeata Termen valabilitate 90zile</span></td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://hochland.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro"> este inclus</span></td></tr>
-
-
-
-</tbody>
-
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
+.milkanddairyproductsslider{
+ width:100%;
 }
-});
-</script>
+.milkanddairyproductsslidernav{
+ text-align:center;
+ width:100%; 
+}
+.milkanddairyproductsslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
+.milkanddairyproductsslides img {
+  max-width: 100%;
+  height: auto;
+}
 
+.milkanddairyproductsslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
 
+.milkanddairyproductsslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.milkanddairyproductsslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.milkanddairyproductsslidernav a:hover {background-color: gold;}
+.milkanddairyproductsslidernav a:active {background-color: gold;}
+.milkanddairyproductsslidernav a:focus {background-color: gold;}
 
+</style>
 
-    <td><span id="en">Processed cheese - triangular shapes Hochland</span><span id="ro">Brânză topită triunghiuri Hochland</span></td>
-    <td><span id="en">Expiration from production date = 210days / Supplier:</span><span id="ro">Termen de valabilitate de la data producție = 210zile / Furnizor:</span> Hochland* - Romania</td>	 
+<div class="maturedcheeseslider">
 
+<div class="maturedcheeseslidernav" >
+  <a href="#milkanddairyproductsslide-1">1</a>
+  <a href="#milkanddairyproductsslide-2">2</a>
+</div>
 
-<!--
-	<span id="en">Start Product:<br> Milk</span><span id="ro">Start Produs:<br> Lapte</span>
-	<span id="en">Start Product:<br> Sour Milk</span><span id="ro">Start Produs:<br> Lapte acru / bătut </span>
-	<span id="en">Start Product:<br> Kefir milk</span><span id="ro">Start Produs:<br> Lapte chefir </span>
-	<span id="en">Start Product:<br> Yogurt with greek specific</span><span id="ro">Start Produs:<br> Iaurt cu specific grecesc </span>
-	<span id="en">Start Product:<br> Yogurt</span><span id="ro">Start Produs:<br>Iaurt</span>
-	<span id="en">Start Product:<br> Sana milk</span><span id="ro">Start Produs:<br>Lapte sana</span>
-	<span id="en">Start Product:<br> Processed cheese</span><span id="ro">Start Produs:<br>Brânză topită</span>
-	<span id="en">Start Product:<br> Sour cream</span><span id="ro">Start Produs:<br>Smântână</span>
-	<span id="en">Start Product:<br> Liquid Sour cream for cooking</span><span id="ro">Start Produs:<br>Smântână lichidă pentru gătit</span>
-	<span id="en">Start Product:<br>Butter</span><span id="ro">Start Produs:<br>Unt</span>
-	<span id="en">Start Product:<br>Cottage cheese with sour cream</span><span id="ro">Start Produs:<br>Brânză de vacă cu smântână</span>
-	<span id="en">Start Product:<br>Fat cottage cheese</span><span id="ro">Start Produs:<br>Brânză grasă de vacă</span>
-	<span id="en">Start Product:<br>Cottage cheese</span><span id="ro">Start Produs:<br>Brânză de vacă</span>
-	<span id="en">Start Product:<br>Kneaded cottage cheese</span><span id="ro">Start Produs:<br>Brânză frământată</span>
-    <tr><td><span id="en">Cottage cheese</span><span id="ro">Brânză de vacă</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr>       
-    <tr><td><span id="en">Butter 250g</span><span id="ro">Unt 250g</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( 60% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>     
-    <tr><td><span id="en">Butter 250g</span><span id="ro">Unt 250g</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( 67% <span id="en">fats</span><span id="ro"> grăsimi</span>  )</td><td>-</td></tr>     
-    <tr><td><span id="en">Butter 200g</span><span id="ro">Unt 200g</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( 80% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>     
-   	   
+  <div class="milkanddairyproductsslides">
+    <div class="fade" id="milkanddairyproductsslide-1">
+      <img src="https://i.ibb.co/tZLvRsv/dairy.jpg" alt="milkanddairyproductsitem1" /> 
+    </div>
+    <div class="fade" id="maturedcheeseslide-2">
+      <img src="https://i.ibb.co/myLcWGj/dairyb.jpg" alt="milkanddairyproductsitem2" /> 
+    </div>
+  </div><!-- maturedcheeseSlides -->
 
-    <tr><td><span id="en">Milk UHT TetraPak 1L</span><span id="ro">Lapte UHT TetraPak 1L</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( 3.5% <span id="en">fats</span><span id="ro"> grăsimi</span>)</td><td>-</td></tr>    
-    <tr><td><span id="en">Milk UHT TetraPak 1L</span><span id="ro">Lapte UHT TetraPak 1L</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( 1.5% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>    
-    <tr><td><span id="en">Camil Milk TetraPak 1L</span><span id="ro">Lapte de cămilă TetraPak 1L</span></td><td><span id="en">Camil</span><span id="ro">Cămilă</span> <br>( 1.9% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>    
-
-
-    <tr><td><span id="en">Yak Butter 200g</span><span id="ro">Unt Yak 200g</span> </td><td><span id="en">Yak</span><span id="ro">Yak</span> <br>( 82% <span id="en">fats</span><span id="ro"> grăsimi</span>  )</td><td>-</td></tr>     
-    <tr><td><span id="en">Ghee Butter 200g</span><span id="ro">Unt Ghee 200g</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( 82% <span id="en">fats</span><span id="ro"> grăsimi</span>  )</td><td>-</td></tr>     
-
-    <tr><td><span id="en">Condensed Milk</span><span id="ro">Lapte condensat</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr>   
-    <tr><td><span id="en">Baby milk powder formula</span><span id="ro">Lapte praf copii mici</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( 0-3 <span id="en">months</span><span id="ro">luni</span> )</td><td>-</td></tr>    
-    <tr><td><span id="en">Whole milk powder</span><span id="ro">Lapte praf</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( min 26% - max 44% <span id="en">fats</span><span id="ro"> grăsimi</span>  )</td><td>-</td></tr>    
-    <tr><td><span id="en">Milk Powder For Baking</span><span id="ro">Lapte praf alimentar</span> </td><td>- </td><td>- </td></tr>
-    <tr><td><span id="en">Partially skimmed milk powder</span><span id="ro">Lapte parțial degresat praf</span></td><td>Cow <br>( min 1.5% - max 26% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>    
-    <tr><td><span id="en">Skimmed milk powder</span><span id="ro">Lapte degresat praf</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( max 1.5% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>    
-    <tr><td><span id="en">Instant milk powder</span><span id="ro">Lapte praf instant</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( max 1.5% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>    
-    <tr><td><span id="en">Sour cream powder</span><span id="ro">Smântână pudră</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( min 65% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>    
-    <tr><td><span id="en">Sour cream powder</span><span id="ro">Smântână pudră</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( min 50% - max 65% <span id="en">fats</span><span id="ro"> grăsimi</span> )</td><td>-</td></tr>    
-    <tr><td><span id="en">Whey powder</span><span id="ro">Zer praf</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span> <br>( min 50% - max 65% <span id="en">fats</span><span id="ro"> grăsimi</span>)</td><td>-</td></tr>    
-    <tr><td><span id="en">Powdered cheese</span><span id="ro">Pulbere de brânză</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr>    
-    <tr><td><span id="en">Powdered ice cream mix</span><span id="ro">Mix pulbere de înghețată </span></td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr>    
-    <tr><td><span id="en">Buttermilk powder</span><span id="ro">Pudra de zară</span></td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr>   
-    <tr><td><span id="en">Dietetic Yogurt</span><span id="ro">Iaurt dietetic</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span><br>( 0.1% -1% <span id="en">fats</span><span id="ro"> grăsimi</span>)</td><td>-</td></tr> 
-
-    <tr><td><span id="en">Mozzarela</span><span id="ro">Mozzarela</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr>         
-    <tr><td><span id="en">Curd</span><span id="ro">Lapte covăsit</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr>             
-    <tr><td><span id="en">Cheese cream</span><span id="ro">Cremă de brânză</span> </td><td><span id="en">Cow</span><span id="ro">Vacă</span></td><td>-</td></tr> 
-
--->
-
+</div><!-- maturedcheeseSlider -->
