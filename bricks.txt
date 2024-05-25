@@ -80,7 +80,8 @@
 
 -->
 
-
+       <tr><td><span id="en">Glass Block</span><span id="ro">Bloc de sticlă</span></td><td>-</td><td>-</td></tr> 
+       <tr><td><span id="en">Glass Mozaic Block</span><span id="ro">Bloc mozaic de sticlă</span></td><td>-</td><td>-</td></tr> 
 
 </tbody>
 
