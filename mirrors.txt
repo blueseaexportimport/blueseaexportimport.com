@@ -1,8 +1,7 @@
+<style>
+    .mirrorsslidediv img{ width:100%; height:auto;}
+</style> 
 
-       <tr><td><span id="en">Heated convex mirror</span><span id="ro">Oglindă convexă încălzită</span> </td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Heated concave mirror</span><span id="ro">Oglindă concavă încălzită</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Heated flat mirror</span><span id="ro">Oglindă plană încălzită</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Safety convex mirror</span><span id="ro">Oglindă siguranță trafic convexă</span> </td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Safety concave mirror</span><span id="ro">Oglindă siguranță trafic concavă</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Glass Block</span><span id="ro">Bloc de sticlă</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Glass Mozaic Block</span><span id="ro">Bloc mozaic de sticlă</span></td><td>-</td><td>-</td></tr> 
+<div class="mirrorsslidediv" >
+<img src="https://i.ibb.co/3c5bhwB/Mirrors.jpg" alt="mirrors item1" /> 
+</div>
