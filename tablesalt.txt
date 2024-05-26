@@ -3,5 +3,5 @@
 </style> 
 
 <div class="tablesaltslidediv" >
-<img src="https://i.ibb.co/chNDmzY/tablesalt.jpg" alt="tablesalt item1" /> 
+<img src="https://i.ibb.co/WBXMM9z/tablesalt.jpg" alt="tablesalt item1" /> 
 </div>
