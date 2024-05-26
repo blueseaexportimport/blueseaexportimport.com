@@ -962,6 +962,41 @@ $(document).ready(function () {
    });
   // Grab milkanddairyproducts on click end	
 
+  // Grab mirrors on click start
+  $("#mirrorsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#mirrors").hasClass("clickedmirrors")) {
+        // already been clicked once, hide it
+        $("#mirrors").html("");
+        $( "#mirrors" ).removeClass( "clickedmirrors" )
+    }else {
+        // first time this is clicked, mark it
+        $("#mirrors").addClass("clickedmirrors");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/mirrors.txt?" + rand, success: function(result){
+         $("#mirrors").html(result);
+        }});
+    }
+   });
+  // Grab mirrors on click end	
+
+
+  // Grab smartdeviceshardware on click start
+  $("#smartdeviceshardwarebtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#smartdeviceshardware").hasClass("clickedsmartdeviceshardware")) {
+        // already been clicked once, hide it
+        $("#smartdeviceshardware").html("");
+        $( "#smartdeviceshardware" ).removeClass( "clickedsmartdeviceshardware" )
+    }else {
+        // first time this is clicked, mark it
+        $("#smartdeviceshardware").addClass("clickedsmartdeviceshardware");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/smartdeviceshardware.txt?" + rand, success: function(result){
+         $("#smartdeviceshardware").html(result);
+        }});
+    }
+   });
+  // Grab smartdeviceshardware on click end	
+
 	
 	
 });
@@ -1145,7 +1180,7 @@ $(document).ready(function () {
    </div>		   
    </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (0)</b></span><span id="ro"><b>G. ȘCOALĂ, HIGH-TECH, AEROSPAȚIAL ȘI CERCETARE (0)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (2)</b></span><span id="ro"><b>G. ȘCOALĂ, HIGH-TECH, AEROSPAȚIAL ȘI CERCETARE (2)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="didacticmaterialsbtn" ><span id="en">Didactic Materials</span><span id="ro">Materiale Didactice</span></h5>    
    <div class="rowbin" >-</div>     
   <h5 class="categoryaccordion" id="medicinepackagingequipmentbtn" ><span id="en">Medicine packaging equipment</span><span id="ro">Echipamente ambalat medicamente</span></h5> 
@@ -1158,8 +1193,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>     
   <h5 class="categoryaccordion" id="magnetsbtn" ><span id="en">Magnets</span><span id="ro">Magneți</span></h5>    
    <div class="rowbin" >-</div>     
-  <h5 class="categoryaccordion" id="smartdeviceshardwarebtn" ><span id="en">Smart devices hardware</span><span id="ro">Hardware dispozitive smart</span></h5>    
-   <div class="rowbin" >-</div>     
+  <h5 class="categoryaccordion" id="smartdeviceshardwarebtn" ><span id="en">Smart devices hardware (2)</span><span id="ro">Hardware dispozitive smart (2)</span></h5>    
+   <div id="smartdeviceshardware" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	   
   <h5 class="categoryaccordion" id="quantumcomputersbtn" ><span id="en">Quantum computers</span><span id="ro">Calculatoare cuantice</span></h5>    	  
    <div class="rowbin" >-</div>     	
   <h5 class="categoryaccordion" id="dronesandrobotspartsbtn" ><span id="en">Drones and robots parts</span><span id="ro">Componente roboti și drone</span></h5>    
@@ -1347,7 +1385,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>L. CERAMICS, GLASS AND MIRRORS (1)</b></span><span id="ro"><b>L. CERAMICĂ, STICLĂ ȘI OGLINZI (1)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>L. CERAMICS, GLASS AND MIRRORS (2)</b></span><span id="ro"><b>L. CERAMICĂ, STICLĂ ȘI OGLINZI (2)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="ceramicsandglassmaterialsbtn" ><span id="en">Ceramics, glass and mirrors materials</span><span id="ro">Materiale ceramică, sticlă și oglinzi</span></h5>    	
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Glassmaking equipment and tools</span><span id="ro">Echipamente și unelte pentru fabricarea sticlei</span></h5>    	
@@ -1369,8 +1407,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Ornamental glassware</span><span id="ro">Sticlărie ornamentală</span></h5>    	
    <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" ><span id="en">Mirrors</span><span id="ro">Oglinzi</span></h5>    	
-   <div class="rowbin" >-</div>
+   <h5 class="categoryaccordion" id="mirrorsbtn" ><span id="en">Mirrors (1)</span><span id="ro">Oglinzi (1)</span></h5>    	
+   <div id="mirrors" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" ><span id="en">Industrial ceramics</span><span id="ro">Ceramică industrială</span></h5> 
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Ornamental ceramics</span><span id="ro">Ceramică ornamentală</span></h5>    	
