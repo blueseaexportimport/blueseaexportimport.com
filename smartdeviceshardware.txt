@@ -1,33 +1,69 @@
-       <tr><td>Smart Phone - Display - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart Phone - Battery - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart Phone - System-on-a-chip ( SoC ) - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart Phone - Front Facing Camera - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart Phone - Front Facing Camera - Model Xyz </td><td>-</td><td>-</td></tr>	   
-       <tr><td>Smart Phone - Headphone jack - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart Phone - Open Eject Pin - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart Phone - SIM Card Tray - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - Bezel - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - Crystal black panel - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - Frame Middle Mold - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - Optical Sheet - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - LGP (Light Guide Plate) - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - LED - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - Bottom Chassis - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - Middle Cover - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - Rear Cover - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - Main Circuit Board - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - Smart Real Engine - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - Speed Backlight Engine - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - Tuner - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - HDMI terminal - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - USB terminal - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - Power Board - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - Ambient Light Sensor - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - Bluetooth Module - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - WiFi Module - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - Speakers - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - Stand - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - Operation Touch Button - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - Wall Mount - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - QWERTY Remote Control - Model Xyz </td><td>-</td><td>-</td></tr>
-       <tr><td>Smart TV - 3D Glasses - Model Xyz </td><td>-</td><td>-</td></tr>
+<style>
+
+.smartdeviceshardwareslider{
+ width:100%;
+}
+.smartdeviceshardwareslidernav{
+ text-align:center;
+ width:100%; 
+}
+.smartdeviceshardwareslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
+
+.smartdeviceshardwareslides img {
+  max-width: 100%;
+  height: auto;
+}
+
+.smartdeviceshardwareslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.smartdeviceshardwareslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.smartdeviceshardwareslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.smartdeviceshardwareslidernav a:hover {background-color: gold;}
+.smartdeviceshardwareslidernav a:active {background-color: gold;}
+.smartdeviceshardwareslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="smartdeviceshardwareslider">
+
+<div class="smartdeviceshardwareslidernav" >
+  <a href="#smartdeviceshardwareslide-1">1</a>
+  <a href="#smartdeviceshardwareslide-2">2</a>
+</div>
+
+  <div class="smartdeviceshardwareslides">
+    <div class="fade" id="smartdeviceshardwareslide-1">
+      <img src="https://i.ibb.co/7pYq1rV/smartdeviceshardware.jpg" alt="smartdeviceshardwareitem1" /> 
+    </div>
+    <div class="fade" id="smartdeviceshardwareslide-2">
+      <img src="https://i.ibb.co/QYVZ7GZ/smartdeviceshardwareb.jpg" alt="smartdeviceshardwareitem2" /> 
+    </div>
+  </div><!-- smartdeviceshardwareSlides -->
+
+</div><!-- smartdeviceshardwareSlider -->
