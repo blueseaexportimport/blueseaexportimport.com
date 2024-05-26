@@ -979,7 +979,6 @@ $(document).ready(function () {
    });
   // Grab mirrors on click end	
 
-
   // Grab smartdeviceshardware on click start
   $("#smartdeviceshardwarebtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -996,6 +995,25 @@ $(document).ready(function () {
     }
    });
   // Grab smartdeviceshardware on click end	
+
+  // Grab tablesalt on click start
+  $("#tablesaltbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#tablesalt").hasClass("clickedtablesalt")) {
+        // already been clicked once, hide it
+        $("#tablesalt").html("");
+        $( "#tablesalt" ).removeClass( "clickedtablesalt" )
+    }else {
+        // first time this is clicked, mark it
+        $("#tablesalt").addClass("clickedtablesalt");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/tablesalt.txt?" + rand, success: function(result){
+         $("#tablesalt").html(result);
+        }});
+    }
+   });
+  // Grab smartdeviceshardware on click end	
+
+
 
 	
 	
@@ -1894,7 +1912,7 @@ $(document).ready(function () {
    </div>	 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (6)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (6)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (7)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (7)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Echipamente morărit</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Echipamente ambalat alimente</span></h5> 
@@ -1919,8 +1937,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Vegetable Cooking Oils</span><span id="ro">Uleiuri Vegetale pentru Gătit</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Table Salt</span><span id="ro">Sare de Masă</span></h5>
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="tablesaltbtn" ><span id="en">Table Salt (1)</span><span id="ro">Sare de Masă (1)</span></h5>
+   <div id="tablesalt" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="foodgradevinegarbtn" ><span id="en">Food Grade Vinegar</span><span id="ro">Oțet Alimentar</span></h5>
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Plant Based Milk</span><span id="ro">Lapte Vegetal</span></h5>
