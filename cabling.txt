@@ -1,71 +1,5 @@
 <tbody>
 
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">TV</span><span id="ro">TV</span></td><td></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >TV coaxial cable - RCB Electro 97</span><span id="ro">Cablu coaxial TV - RCB Electro 97</span></td></tr>
-<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-<tr><td>Formula 1</td><td>1.2 RON / m RG6/U Standard EN 50117-2-1</td></tr>
-<tr><td>Formula 2</td><td>1.6 RON / m TCC2YY-I Standard STAS 7757/1–86</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0002</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >TV Coaxial cable connectors and adaptors - Emos</span><span id="ro">Mufe si adaptoare cablu coaxial TV - Emos</span></td></tr>
-<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Czech Republic</span><span id="ro">Cehia</span></td></tr>
-<tr><td>Formula 1</td><td>3.2 RON / 2 x <span id="en" >TV Coaxial cable connector L father, screw</span><span id="ro" >Mufa cablu coaxial TV L tata, surub</span></td></tr>
-<tr><td>Formula 2</td><td>3.6 RON / 2 x <span id="en" >TV Coaxial cable connector M father</span><span id="ro" >Mufa cablu coaxial TV M tata</span></td></tr>
-<tr><td>Formula 3</td><td>3.9 RON / 2 x <span id="en" >TV Coaxial cable connector L mother, screw</span><span id="ro" >Mufa cablu coaxial TV L mama, surub</span></td></tr>
-<tr><td>Formula 4</td><td>3 RON / 2 x 6.8mm <span id="en" >TV Type F Connector</span><span id="ro" >Conectori F TV</span></td></tr>
-<tr><td>Formula 5</td><td>3.1 RON / 2 x 7mm <span id="en" >TV Type F Connector</span><span id="ro" >Conectori F TV</span></td></tr>
-<tr><td>Formula 6</td><td>3.2 RON / 2 x 5mm <span id="en" >TV Type F Connector</span><span id="ro" >Conectori F TV</span></td></tr>
-<tr><td>Formula 7</td><td>3.2 RON / 2 x <span id="en" >TV Type F Coupler IEC mother-mother</span><span id="ro" >Cupla IEC F TV mama-mama</span></td></tr>
-<tr><td>Formula 8</td><td>3.4 RON / 2 x <span id="en" >Type F Adapter mother-IEC M father</span><span id="ro" >Adaptor F mama-IEC M tata</span></td></tr>
-<tr><td>Formula 9</td><td>3.5 RON / 2 x <span id="en" >TV Type F-F Adapter mother-mother</span><span id="ro" >Adaptor F-F TV mama-mama</span></td></tr>
-<tr><td>Formula 10</td><td>3.8 RON / 2 x <span id="en" >Type F Adapter mother-IEC mother</span><span id="ro" >Adaptor F mama-IEC mama</span></td></tr>
-<tr><td>Formula 11</td><td>4 RON / 2 x <span id="en" >TV L shape Type F-F Adapter father-mother</span><span id="ro" >Adaptor forma L TV F-F T tata-mama</span></td></tr>
-<tr><td>Formula 12</td><td>4.2 RON / 2 x <span id="en" >TV Type F-F Adapter father-father</span><span id="ro" >Adaptor F-F TV tata-tata</span></td></tr>
-<tr><td>Formula 13</td><td>11.1 RON / <span id="en" >TV Coax Signal Splitter 1in - 2out</span><span id="ro" >Distribuitor semnal TV 1in - 2out</span></td></tr>
-<tr><td>Formula 14</td><td>13.5 RON / <span id="en" >TV Coax Signal Splitter 1in - 4out</span><span id="ro" >Distribuitor semnal TV 1in - 4out</span></td></tr>
-<tr><td>Formula 15</td><td>14.7 RON / <span id="en" >TV Coax Signal Splitter 1in - 3out</span><span id="ro" >Distribuitor semnal TV 1in - 3out</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://emos.cz" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Internet</span><span id="ro">Internet</span></td><td></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0003</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Networking cable RJ45 S/FTP CAT7 - Schrack</span><span id="ro">Cablu de retea RJ45 S/FTP CAT7 - Schrack</span></td></tr>
-<tr><td>Standard:</td><td style="color:#39ff14;" >EN 50173-1</td></tr>
-<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
-<tr><td>Formula 1</td><td>463,30 RON / 100m <span id="en" >roll</span><span id="ro" > rola</span> </td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.schrack.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0004</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Networking cable UTP - ICME Ecab</span><span id="ro">Cablu de retea UTP - ICME Ecab</span></td></tr>
-<tr><td>Standard:</td><td style="color:#39ff14;" >EN 50173-1</td></tr>
-<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-<tr><td>Formula 1</td><td>787 RON / 305m <span id="en" >roll</span><span id="ro" > rola</span> CAT5e</td></tr>
-<tr><td>Formula 1</td><td>980 RON / 305m <span id="en" >roll</span><span id="ro" > rola</span> CAT6</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.hellenic-cables.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr><tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CAB0005</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >TV Coaxial cable connectors and adaptors - Emos</span><span id="ro">Mufe si adaptoare cablu coaxial TV - Emos</span></td></tr>
-<tr><td><span id="en" >Warranty</span><span id="ro">Garanție</span></td><td style="color:#39ff14;" ><span id="en" >none</span><span id="ro">nu are</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Czech Republic</span><span id="ro">Cehia</span></td></tr>
-<tr><td>Formula 3</td><td>7 RON / 20x <span id="en" >RJ45 sleeve gray</span><span id="ro" >Manson RJ45 gri</span></td></tr>
-<tr><td>Formula 3</td><td>7 RON / 20x <span id="en" >RJ45 sleeve negru</span><span id="ro" >Manson RJ45 negru</span></td></tr>
-<tr><td>Formula 4</td><td>6.7 RON / 20x <span id="en" >RJ45 jack CAT5e transparent UTP unshielded</span><span id="ro" >Mufa RJ45 CAT5e transparent UTP neecranata</span></td></tr>
-<tr><td>Formula 4</td><td>14 RON / 20x <span id="en" >RJ45 jack CAT5e gray FTP unshielded</span><span id="ro" >Mufa RJ45 CAT5e gri FTP neecranata</span></td></tr>
-<tr><td>Formula 4</td><td>15.4 RON / 20x <span id="en" >RJ45 jack CAT6 transparent UTP unshielded</span><span id="ro" >Mufa RJ45 CAT6 transparent UTP neecranata</span></td></tr>
-<tr><td>Formula 4</td><td>18.8 RON / 20x <span id="en" >RJ45 jack CAT6 gray FTP shielded</span><span id="ro" >Mufa RJ45 CAT6 gri FTP ecranata</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://emos.cz" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
 
 
 <tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Phone</span><span id="ro">Telefonie</span></td><td></td></tr>
@@ -330,24 +264,6 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="www.rcbelectro.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
 
-
-
-</tbody>
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
-}
-});
-</script>
 
 
 
