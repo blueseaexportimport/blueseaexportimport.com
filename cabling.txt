@@ -7,13 +7,10 @@
        <tr><td>MCCB Cable Lug</td><td>Model A  / Roll</td><td>-</td></tr> 
        <tr><td>90 Degree Cable Lug</td><td>Model A  / Roll</td><td>-</td></tr> 
        <tr><td>Outdoor Long Barrel Cable Lug </td><td>Model A  / Roll</td><td>-</td></tr> 
-        <tr><td>Terminal block T85</td><td>Clemă șir / Morsete T85</td><td>-</td></tr>
 
-        <tr><td>Cable ties</td><td>Fasete</td><td>-</td></tr>
        <tr><td>Model A  / Roll</td><td>Cleme fixat tuburi - cabluri</td><td>-</td></tr>
        <tr><td>Sleeve connector with screw</td><td>Model A  / Roll</td><td>-</td></tr>- Cleme de legatura fara surub / Cleme U
        <tr><td>Sleeve connector without screw</td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>Cable clamp with nail</td><td>Cleme cu cui</td><td>-</td></tr>
        <tr><td>Two-hole screw mount clamp</td><td>Cleme cu surub</td><td>-</td></tr>  
        <tr><td>LV Cable Link </td><td>Model A  / Roll</td><td>-</td></tr> 
 
