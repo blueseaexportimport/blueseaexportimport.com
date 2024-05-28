@@ -3,5 +3,5 @@
 </style> 
 
 <div class="naturalpigmentsslidediv" >
-<img src="https://i.ibb.co/jJRmn6r/naturalpigments.jpg" alt="naturalpigments item1" /> 
+<img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/440853908_369969929381395_3702092176850646419_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1DyhBltdDfkQ7kNvgGPUB9m&_nc_ht=scontent.fotp3-4.fna&oh=00_AYBCUV5kaefzFULbhOb0XR8IFuXyIifb2yeDiHY-3rC55A&oe=665BF4C3" alt="naturalpigments item1" /> 
 </div>
