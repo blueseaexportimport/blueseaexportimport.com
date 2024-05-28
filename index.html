@@ -1011,9 +1011,24 @@ $(document).ready(function () {
         }});
     }
    });
-  // Grab smartdeviceshardware on click end	
+  // Grab tablesalt on click end	
 
-
+  // Grab cabling on click start
+  $("#cablingbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#cabling").hasClass("clickedcabling")) {
+        // already been clicked once, hide it
+        $("#cabling").html("");
+        $( "#cabling" ).removeClass( "clickedcabling" )
+    }else {
+        // first time this is clicked, mark it
+        $("#cabling").addClass("clickedcabling");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/cabling.txt?" + rand, success: function(result){
+         $("#cabling").html(result);
+        }});
+    }
+   });
+  // Grab cabling on click end	
 
 	
 	
@@ -1062,7 +1077,7 @@ $(document).ready(function () {
     <br><br>
 </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>A. ELECTRICITY  (6)</b></span> <span id="ro"><b>A. ENERGIE ELECTRICĂ  (6)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>A. ELECTRICITY  (9)</b></span> <span id="ro"><b>A. ENERGIE ELECTRICĂ  (9)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="dysonspheresbtn" ><span id="en">Dyson spheres and black holes energy harvesting</span><span id="ro">Sfere Dyson și soluții recoltare energie găuri negre</span></h5>    	
    <div class="rowbin" >-</div> 
    <h5 class="categoryaccordion" id="fusionreactorsbtn" ><span id="en">Fusion reactors</span><span id="ro">Reactoare fuziune</span></h5>    	
@@ -1092,8 +1107,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>  	
    <h5 class="categoryaccordion" id="publiclightingsystemsbtn" ><span id="en">Public lighting systems</span><span id="ro">Sisteme iluminat public</span></h5>    	
    <div class="rowbin" >-</div>  		
-   <h5 class="categoryaccordion" id="cablingbtn" ><span id="en">Cables, cabling and home lighting</span><span id="ro">Cabluri, cablaje și iluminat case</span></h5>    	
-   <div class="rowbin" >-</div> 
+   <h5 class="categoryaccordion" id="cablingbtn" ><span id="en">Cables, cabling and home lighting (3)</span><span id="ro">Cabluri, cablaje și iluminat case (3)</span></h5>    	
+   <div id="cabling" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" id="electronicactivecomponentsbtn" ><span id="en">Electronic active components (2)</span><span id="ro">Componente electronice active (2)</span></h5>    	
    <div id="electronicactivecomponents" class="categorypanel" >
    <!-- Load info start --> 
