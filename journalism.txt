@@ -3,5 +3,5 @@
 </style> 
 
 <div class="journalismslidediv" >
-<img src="https://i.ibb.co/JnvNKFS/journalism.jpg" alt="journalism item1" /> 
+<img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/437159383_355103927534662_6034767748123559362_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3FMon0P2SkkQ7kNvgHsNwtG&_nc_ht=scontent.fotp3-1.fna&oh=00_AYA7BHwFl2C90X2HJ1y_RVZYEulbBKY8WGVZP5WZ3pGcWg&oe=665C0B57" alt="journalism item1" /> 
 </div>
