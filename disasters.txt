@@ -3,5 +3,5 @@
 </style> 
 
 <div class="disastersslidediv" >
-<img src="https://i.ibb.co/GHgXvvb/disasters.jpg" alt="disasters item1" /> 
+<img src="https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-6/438088460_364281683283553_5437450872861360645_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dtbLxx4no1oQ7kNvgELMQxV&_nc_ht=scontent.fotp3-2.fna&oh=00_AYDm9LZMFs-Gry95KS8Vh6FhoI8DjoZ_ot4zE3djzKJyBg&oe=665C2BF7" alt="disasters item1" /> 
 </div>
