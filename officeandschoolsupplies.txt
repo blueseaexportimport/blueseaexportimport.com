@@ -60,13 +60,13 @@
 
   <div class="officeandschoolsuppliesslides">
     <div class="fade" id="officeandschoolsuppliesslide-1">
-      <img src="https://i.ibb.co/0rVJSmw/office.jpg" alt="officeandschoolsuppliesitem1" /> 
+      <img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/445557467_376487248729663_2381999390506704043_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tDSTBK178ocQ7kNvgHVeJdq&_nc_ht=scontent.fotp3-1.fna&oh=00_AYBCsogWr4XLxni8_-_9znw9K9lhxLtSAS9wRhOgDwjjKA&oe=665BFFAC" alt="officeandschoolsuppliesitem1" /> 
     </div>
     <div class="fade" id="officeandschoolsuppliesslide-2">
-      <img src="https://i.ibb.co/B68zQ9W/officeb.jpg" alt="officeandschoolsuppliesitem2" /> 
+      <img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/446779235_376487452062976_2695256776093589872_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=nD6XxRKXEHkQ7kNvgE2Tmzl&_nc_ht=scontent.fotp3-1.fna&oh=00_AYBdKur7ogUsSJaHCYTSFrE4FeC_CfmEy-oIEnvumhyIAA&oe=665C1A0C" alt="officeandschoolsuppliesitem2" /> 
     </div>
     <div class="fade" id="officeandschoolsuppliesslide-3">
-      <img src="https://i.ibb.co/0cYvw7z/officec.jpg" alt="officeandschoolsuppliesitem3" /> 
+      <img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/445551098_376487675396287_9051729464232149520_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RHZ-5Z1KEgcQ7kNvgGcql5P&_nc_ht=scontent.fotp3-1.fna&oh=00_AYD2OZZjO480tLDoFLTftoe7Fs1bz-VO4qVSflAQoNgCcw&oe=665C0631" alt="officeandschoolsuppliesitem3" /> 
     </div>
   </div><!-- officeandschoolsuppliesSlides -->
 
