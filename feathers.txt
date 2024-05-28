@@ -3,5 +3,5 @@
 </style> 
 
 <div class="feathersslidediv" >
-<img src="https://i.ibb.co/cXkRH67/feathers.jpg" alt="feathers item1" /> 
+<img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/441545707_370205266024528_2137611154561500679_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=D_pzEwmwNVcQ7kNvgHVEKmJ&_nc_ht=scontent.fotp3-1.fna&oh=00_AYCEU3zwE9zaPYqKz_vKL5xQZVaQzIkz01Sw3fDaBXoMdQ&oe=665C1715" alt="feathers item1" /> 
 </div>
