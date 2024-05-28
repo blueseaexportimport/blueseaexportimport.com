@@ -61,16 +61,16 @@
 
   <div class="seafoodslides">
     <div class="fade" id="seafoodslide-1">
-      <img src="https://i.ibb.co/0Y9VNzk/seafooda.jpg" alt="seafooditem1" /> 
+      <img src="https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/439879506_356581524053569_7791363207121408613_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=IvBGS0dvPEoQ7kNvgEyW-8R&_nc_ht=scontent.fotp3-3.fna&oh=00_AYBrxX-6dbJtjk66IdHQooR55HTv-b0led1d4dhUDgSrSA&oe=665C0ED2" alt="seafooditem1" /> 
     </div>
     <div class="fade" id="seafoodslide-2">
-      <img src="https://i.ibb.co/grVZwG4/seafoodb.jpg" alt="seafooditem2" /> 
+      <img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/439866654_356907137354341_7538574518525375578_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qMrmWswFdOgQ7kNvgHZV92s&_nc_ht=scontent.fotp3-4.fna&oh=00_AYBqKpq5ixBhGQb7n6uwRDl4Krfv_kn8limfKIsoNpmGdA&oe=665C2789" alt="seafooditem2" /> 
     </div>
     <div class="fade" id="seafoodslide-3">
-      <img src="https://i.ibb.co/VMgMZ32/seafoodc.jpg" alt="seafooditem3" /> 
+      <img src="https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/439865226_357330033978718_4305671693711762331_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=SrUAR3wy_XQQ7kNvgFfZCz9&_nc_ht=scontent.fotp3-3.fna&oh=00_AYBcHwMILuLTPW3ZY88u7XvOgg1Z4GcQtvGC4sowa9onKg&oe=665C1690" alt="seafooditem3" /> 
     </div>
     <div class="fade" id="seafoodslide-4">
-      <img src="https://i.ibb.co/bm180pK/seafoodd.jpg" alt="seafooditem4" /> 
+      <img src="https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/438094238_357358010642587_5873562517801002513_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=alrLyhw3e3MQ7kNvgHLWe7U&_nc_ht=scontent.fotp3-3.fna&oh=00_AYBYqKbYt38fTaP9ZI1uoiS76x9MlQeoisl4zl2x7xgFKg&oe=665C1F22" alt="seafooditem4" /> 
     </div>
   </div><!-- seafoodSlides -->
 
