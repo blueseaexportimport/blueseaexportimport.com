@@ -59,10 +59,10 @@
 
   <div class="naturalrubberslides">
     <div class="fade" id="naturalrubberslide-1">
-      <img src="https://i.ibb.co/bLkq5MG/naturalrubber.jpg" alt="naturalrubberitem1" /> 
+      <img src="https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/441192400_368280416217013_5062532608229778145_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=xt0nnsJ0fcwQ7kNvgFazAn7&_nc_ht=scontent.fotp3-3.fna&oh=00_AYAB2fH2nfHBHfFPsbJ8ZG8-QwvAZnbWTxj9QB1T9TASlQ&oe=665C2AA4" alt="naturalrubberitem1" /> 
     </div>
     <div class="fade" id="naturalrubberslide-2">
-      <img src="https://i.ibb.co/T4f2Mdb/naturalrubberb.jpg" alt="naturalrubberitem2" /> 
+      <img src="https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/441069955_368280759550312_3663176228250463770_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=bCrYke1y0hEQ7kNvgF0KMvZ&_nc_ht=scontent.fotp3-3.fna&oh=00_AYD5BZSOqv9EzSh11g1q1qowp-4JAcNCY7YCcJ-FQhRhFQ&oe=665C06B8" alt="naturalrubberitem2" /> 
     </div>
   </div><!-- naturalrubberSlides -->
 
