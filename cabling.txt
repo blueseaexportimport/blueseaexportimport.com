@@ -1,57 +1,73 @@
+<style>
 
- 
+.cablingslider{
+ width:100%;
+}
+.cablingslidernav{
+ text-align:center;
+ width:100%; 
+}
+.cablingslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
-       <tr><td>LV Cable Lug </td><td>Papuc cablu Tensiune Joasa</td><td>-</td></tr> 
-      <tr><td>Outdoor Cable Lug </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Two-hole Cable Lug</td><td>Model A  / Roll</td><td>-</td></tr>  
-       <tr><td>MCCB Cable Lug</td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>90 Degree Cable Lug</td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Outdoor Long Barrel Cable Lug </td><td>Model A  / Roll</td><td>-</td></tr> 
+.cablingslides img {
+  max-width: 100%;
+  height: auto;
+}
 
-       <tr><td>Model A  / Roll</td><td>Cleme fixat tuburi - cabluri</td><td>-</td></tr>
-       <tr><td>Sleeve connector with screw</td><td>Model A  / Roll</td><td>-</td></tr>- Cleme de legatura fara surub / Cleme U
-       <tr><td>Sleeve connector without screw</td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>Two-hole screw mount clamp</td><td>Cleme cu surub</td><td>-</td></tr>  
-       <tr><td>LV Cable Link </td><td>Model A  / Roll</td><td>-</td></tr> 
+.cablingslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
 
-        <tr><td>S hooks set</td><td>Carlige S</td><td>-</td></tr>
-        <tr><td>Carabiner</td><td>Carabine</td><td>-</td></tr>
-       <tr><td>Cable tensioners</td><td>Intinzatoare</td><td>-</td></tr> 
+.cablingslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.cablingslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.cablingslidernav a:hover {background-color: gold;}
+.cablingslidernav a:active {background-color: gold;}
+.cablingslidernav a:focus {background-color: gold;}
 
-       <tr><td>Electric meter security seal</td><td>Sigiliu contor</td><td>-</td></tr>  
-       <tr><td>Cable labels set</td><td>Etichete cabluri</td><td>-</td></tr> 
+</style>
 
+<div class="maturedcheeseslider">
 
-       <tr><td>Rubber tube</td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Rubber channel cable protectir </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Heat shrink tubes set</td><td>Tuburi termocontractabile</td><td>-</td></tr> 
-       <tr><td>Snap on cable markers set  </td><td>Marcaje cabluri</td><td>-</td></tr>
-       <tr><td>Copper Trunking Earth Link</td><td>Electrod cupru de impamantare</td><td>-</td></tr> 
+<div class="maturedcheeseslidernav" >
+  <a href="#maturedcheeseslide-1">1</a>
+  <a href="#maturedcheeseslide-2">2</a>
+  <a href="#maturedcheeseslide-3">3</a>
+</div>
 
+  <div class="maturedcheeseslides">
+    <div class="fade" id="cablingslide-1">
+      <img src="https://i.ibb.co/kcYh1C0/cabling.jpg" alt="cablingitem1" /> 
+    </div>
+    <div class="fade" id="cablingslide-2">
+      <img src="https://i.ibb.co/jfkg56M/cablingb.jpg" alt="cablingitem2" /> 
+    </div>
+    <div class="fade" id="cablingslide-3">
+      <img src="https://i.ibb.co/CwtxvT5/cablingc.jpg" alt="cablingitem3" /> 
+    </div>
+  </div><!-- cablingSlides -->
 
-       <tr><td>Type C Connector</td><td>Model A  / Roll</td><td>-</td></tr>  
-       <tr><td>E2508 terminal pin </td><td>Model A  / Roll</td><td>-</td></tr> 
-       <tr><td>Double clip cable </td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>Single clip cable </td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>Cable grommets   </td><td>Model A  / Roll</td><td>-</td></tr> 
-
-- Papuci inelari / tip furca  / tip pin
-- Fise cilindrice /cu fixare prin surub
-- Fise glisante tip tata / mama
-- Masoane termocontractabile
-- Tuburi de capat
-- Clema simpla / dubla fixat cablu
-- Inele trecere cabluru 
-- Tuburi flexibile / rigide PVC / Canale pvc cablu adezive
-
-
-
-
-
-
-
-
-
-
- 
--->
+</div><!-- cablingSlider -->
