@@ -3,5 +3,5 @@
 </style> 
 
 <div class="riceslidediv" >
-<img src="https://i.ibb.co/P5KwCx0/rice.jpg" alt="rice item1" /> 
+<img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/441418226_360935440284844_6494308020371350874_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=lUL299c0Bj8Q7kNvgEVFR53&_nc_ht=scontent.fotp3-4.fna&oh=00_AYBqUBdPCoF9vqTbBgfs9ggeP266IX7zttiObkDV5tZwTg&oe=665BFC9E" alt="rice item1" /> 
 </div>
