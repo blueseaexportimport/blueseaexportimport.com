@@ -59,10 +59,10 @@
 
   <div class="chilipeppersslides">
     <div class="fade" id="chilipeppersslide-1">
-      <img src="https://i.ibb.co/pjFgBTC/chilipeppers.jpg" alt="chilipeppersitem1" /> 
+      <img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/439952986_363095890068799_7609714575855133662_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=vkokxk77zvQQ7kNvgFgETYD&_nc_ht=scontent.fotp3-4.fna&oh=00_AYD-pbuXv4hfRRx4MSsQbavV7125xn5KgY0G6YPYDxiziA&oe=665C1552" alt="chilipeppersitem1" /> 
     </div>
     <div class="fade" id="chilipeppersslide-2">
-      <img src="https://i.ibb.co/VDC0tF2/chilipeppersb.jpg" alt="chilipeppersitem2" /> 
+      <img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/438117973_363096110068777_9123867732337277887_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=9bldzws0y1EQ7kNvgHPr5F8&_nc_ht=scontent.fotp3-4.fna&oh=00_AYA8_zvRf-P05x8HAJJFsABiq5cv0mECn21DA0XOyyij2w&oe=665C0547" alt="chilipeppersitem2" /> 
     </div>
   </div><!-- chilipeppersSlides -->
 
