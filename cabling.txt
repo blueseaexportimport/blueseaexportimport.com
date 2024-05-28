@@ -50,15 +50,15 @@
 
 </style>
 
-<div class="maturedcheeseslider">
+<div class="cablingslider">
 
-<div class="maturedcheeseslidernav" >
-  <a href="#maturedcheeseslide-1">1</a>
-  <a href="#maturedcheeseslide-2">2</a>
-  <a href="#maturedcheeseslide-3">3</a>
+<div class="cablingslidernav" >
+  <a href="cablingslide-1">1</a>
+  <a href="#cablingslide-2">2</a>
+  <a href="#cablingslide-3">3</a>
 </div>
 
-  <div class="maturedcheeseslides">
+  <div class="cablingslides">
     <div class="fade" id="cablingslide-1">
       <img src="https://i.ibb.co/kcYh1C0/cabling.jpg" alt="cablingitem1" /> 
     </div>
