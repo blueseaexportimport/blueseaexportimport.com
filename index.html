@@ -1030,7 +1030,26 @@ $(document).ready(function () {
    });
   // Grab cabling on click end	
 
-	
+  // Grab officeandschoolsupplies on click start
+  $("#officeandschoolsuppliesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#officeandschoolsupplies").hasClass("clickedofficeandschoolsupplies")) {
+        // already been clicked once, hide it
+        $("#officeandschoolsupplies").html("");
+        $( "#officeandschoolsupplies" ).removeClass( "clickedofficeandschoolsupplies" )
+    }else {
+        // first time this is clicked, mark it
+        $("#officeandschoolsupplies").addClass("clickedofficeandschoolsupplies");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/officeandschoolsupplies.txt?" + rand, success: function(result){
+         $("#officeandschoolsupplies").html(result);
+        }});
+    }
+   });
+  // Grab officeandschoolsupplies on click end	
+
+
+
+
 	
 });
 </script>
@@ -1216,11 +1235,14 @@ $(document).ready(function () {
    </div>		   
    </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (2)</b></span><span id="ro"><b>G. ȘCOALĂ, HIGH-TECH, AEROSPAȚIAL ȘI CERCETARE (2)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (5)</b></span><span id="ro"><b>G. ȘCOALĂ, HIGH-TECH, AEROSPAȚIAL ȘI CERCETARE (5)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="didacticmaterialsbtn" ><span id="en">Didactic Materials</span><span id="ro">Materiale Didactice</span></h5>    
    <div class="rowbin" >-</div>     
-  <h5 class="categoryaccordion" id="officeandschoolsuppliesbtn" ><span id="en">Office and school supplies</span><span id="ro">Birotică și Papetărie</span></h5>    
-   <div class="rowbin" >-</div>       
+  <h5 class="categoryaccordion" id="officeandschoolsuppliesbtn" ><span id="en">Office and school supplies (3)</span><span id="ro">Birotică și Papetărie (3)</span></h5>    
+   <div id="officeandschoolsupplies" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	     
   <h5 class="categoryaccordion" id="envelopsandformsbtn" ><span id="en">Envelopes and forms</span><span id="ro">Plicuri și formulare</span></h5>    
    <div class="rowbin" >-</div>   
   <h5 class="categoryaccordion" id="medicinepackagingequipmentbtn" ><span id="en">Medicine packaging equipment</span><span id="ro">Echipamente ambalat medicamente</span></h5> 
