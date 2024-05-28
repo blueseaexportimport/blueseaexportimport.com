@@ -60,13 +60,13 @@
 
   <div class="fruitsslides">
     <div class="fade" id="fruitsslide-1">
-      <img src="https://i.ibb.co/BGrcfc5/fruits.jpg" alt="fruitsitem1" /> 
+      <img src="https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/441460452_362341433477578_2136536886273459941_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kSrlwFLHsuAQ7kNvgHTWe0H&_nc_ht=scontent.fotp3-3.fna&oh=00_AYDI1ycNZFT6TZgC1YVR6kVhTum0pdgAaxCBOz4g7Bae5g&oe=665C19EC" alt="fruitsitem1" /> 
     </div>
     <div class="fade" id="fruitsslide-2">
-      <img src="https://i.ibb.co/BqZbcd6/fruitsb.jpg" alt="fruitsitem2" /> 
+      <img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/438118329_362378990140489_7308547921024733755_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=H_95pYQieCMQ7kNvgG_nXxK&_nc_ht=scontent.fotp3-4.fna&oh=00_AYDktHLk8P6H3o9vYyB6MGRv2uFekBVw2N5YU8WZ1nrvDQ&oe=665C2189" alt="fruitsitem2" /> 
     </div>
     <div class="fade" id="fruitsslide-3">
-      <img src="https://i.ibb.co/2dHVn3L/fruitsc.jpg" alt="fruitsitem3" /> 
+      <img src="https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/438101625_362406780137710_9049283860570494709_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ugsiqcPKR9gQ7kNvgEo0hHc&_nc_ht=scontent.fotp3-3.fna&oh=00_AYA6iwtUwiBBb0ftx4H7W2GPFYm4aNgZMJnhzoKfdb7Kkg&oe=665C2739" alt="fruitsitem3" /> 
     </div>
   </div><!-- fruitsSlides -->
 
