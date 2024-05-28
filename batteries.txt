@@ -3,5 +3,5 @@
 </style> 
 
 <div class="batteriesslidediv" >
-<img src="https://i.ibb.co/GTdjxTN/batteries.jpg" alt="batteries item1" /> 
+<img src="https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/445423588_373229629055425_8662370045174879471_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=hCereRivuvgQ7kNvgEZTZye&_nc_ht=scontent.fotp3-3.fna&oh=00_AYDdiME9Tz9762sd4yBQxLTdY7kaKIguRTa4ZFViqtysLA&oe=665C11D4" alt="batteries item1" /> 
 </div>
