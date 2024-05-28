@@ -59,10 +59,10 @@
 
   <div class="electronicactivecomponentsslides">
     <div class="fade" id="electronicactivecomponentsslide-1">
-      <img src="https://i.ibb.co/k9rVFhJ/Electronicactivecomponents.jpg" alt="electronicactivecomponentsitem1" /> 
+      <img src="https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/438099900_367031119675276_2311486899032273347_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=EQLiazif4Q8Q7kNvgEiDEZE&_nc_ht=scontent.fotp3-3.fna&oh=00_AYClSYvmVs9Zdm_X0yiEtz1FgGGKStIE-rO9cZVXkgC8Hw&oe=665C181D" alt="electronicactivecomponentsitem1" /> 
     </div>
     <div class="fade" id="electronicactivecomponentsslide-2">
-      <img src="https://i.ibb.co/51rqy0j/Electronicactivecomponentsb.jpg" alt="electronicactivecomponentsitem2" /> 
+      <img src="https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/441139253_367051589673229_1101451944350530312_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=cCmyBiupxRMQ7kNvgEhhXkJ&_nc_ht=scontent.fotp3-3.fna&oh=00_AYCFoeixCJSlzZNeAW1fcAzI4yfOrhrgKjiD1qANsQKoDg&oe=665C10D1" alt="electronicactivecomponentsitem2" /> 
     </div>
   </div><!-- electronicactivecomponentsSlides -->
 
