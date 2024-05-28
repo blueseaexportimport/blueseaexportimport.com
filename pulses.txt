@@ -59,10 +59,10 @@
 
   <div class="pulsesslides">
     <div class="fade" id="pulsesslide-1">
-      <img src="https://i.ibb.co/WcrfRsM/pulses.jpg" alt="pulsesitem1" /> 
+      <img src="https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-6/438145844_361167536928301_1640893119594245653_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=oU2XJ6JwJ3oQ7kNvgF6lAYW&_nc_ht=scontent.fotp3-2.fna&oh=00_AYA-_Do1-7lxh-4MGXKiwpzQioRg47s--zQexKPvf6TRLA&oe=665C2649" alt="pulsesitem1" /> 
     </div>
     <div class="fade" id="pulsesslide-2">
-      <img src="https://i.ibb.co/XW82CHj/pulsesb.jpg" alt="pulsesitem2" /> 
+      <img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/440408490_361167773594944_3980818000830459518_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=v17s9p4kRbEQ7kNvgFUd2jo&_nc_ht=scontent.fotp3-1.fna&oh=00_AYDrbfhIQStCpItM2r55uxF272aGz_IP_z8KKjQLso65cw&oe=665C129E" alt="pulsesitem2" /> 
     </div>
   </div><!-- pulsesSlides -->
 
