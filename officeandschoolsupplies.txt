@@ -1,498 +1,73 @@
-
-<tbody>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Magnetic whiteboard - Eurodidactica</span><span id="ro">Tablă whiteboard magnetică - Eurodidactica</span></td></tr>
-<tr><td>Standard</td><td style="color:#39ff14;" >EN 14434:2010</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>678 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herlitz.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0002</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Copy paper Nexo Everyday A4 80 g/m2 - FSC Certified</span><span id="ro">Hârtie copiator Nexo Everyday A4 80 g/m2 - Certificată FSC</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>12.70 RON / <span id="en">top ( minimum order one pallet )</span><span id="ro">top ( comandă minimă 1 palet )</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.europapier.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0003</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Notepads - Herlitz</span><span id="ro">Caiete - Herlitz</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>9.4 RON / 5<span id="en">pcs A4 maths notepad 70g/mp 80sheets</span><span id="ro">buc caiet A4 matematică 70g/mp 80foi</span></td></tr>
-<tr><td>Formula 2</td><td>2.8 RON / 1<span id="en">pcs A4 biology notepad 60g/mp 24sheets 23x16.7cm</span><span id="ro">buc caiet biologie 60g/mp 24foi 23x16.7cm</span></td></tr>
-<tr><td>Formula 3</td><td>2.8 RON / 1<span id="en">pcs A4 music notepad 60g/mp 24sheets 23x16.7cm</span><span id="ro">buc caiet muzică 60g/mp 24foi 23x16.7cm</span></td></tr>
-<tr><td>Formula 4</td><td>2.8 RON / 1<span id="en">pcs A4 geography notepad 60g/mp 24sheets 23x16.7cm</span><span id="ro">buc caiet geografie 60g/mp 24foi 23x16.7cm</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herlitz.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0004</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Geometry set - Koh-I-Noor</span><span id="ro">Set geometrie - Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>17.1 RON / set - <span id="en">small</span><span id="ro">mic</span></td></tr>
-<tr><td>Formula 2</td><td>18 RON / set - <span id="en">medium</span><span id="ro">mediu</span></td></tr>
-<tr><td>Formula 3</td><td>19 RON / set - <span id="en">large</span><span id="ro">mare</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0005</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Plastic ruler - Herlitz</span><span id="ro">Riglă plastic - Herlitz</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>2.4 RON / <span id="en">pcs - 15cm</span><span id="ro">buc - 15cm</span></td></tr>
-<tr><td>Formula 2</td><td>2.5 RON / <span id="en">pcs - 17cm</span><span id="ro">buc - 17cm</span></td></tr>
-<tr><td>Formula 3</td><td>3.2 RON / <span id="en">pcs - 20cm</span><span id="ro">buc - 20cm</span></td></tr>
-<tr><td>Formula 4</td><td>3.3 RON / <span id="en">pcs - 30cm</span><span id="ro">buc - 30cm</span></td></tr>
-<tr><td>Formula 5</td><td>5.7 RON / <span id="en">pcs - 40cm</span><span id="ro">buc - 40cm</span></td></tr>
-<tr><td>Formula 6</td><td>8.6 RON / <span id="en">pcs - 50cm</span><span id="ro">buc - 50cm</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herlitz.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0006</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Compass - Herlitz</span><span id="ro">Compas - Herlitz</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>10.95 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herlitz.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0007</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Drawing block A4 180 g Girafa - Koh-I-Noor</span><span id="ro">Bloc de desen A4 180 g Girafa - Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>18.6 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0008</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Colored paper set Pelikan A4 120g/m2 - Rainbow 20sheets</span><span id="ro">Hârtie colorată set Pelikan 120g/m2 - Rainbow  20foi</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>16.9 RON / <span id="en">top</span><span id="ro">top</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herlitz.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0009</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Cube notes - Multicolor 700sheets - Herlitz</span><span id="ro">Bloc cub notițe - Multicolor 700foi - Herlitz</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>27.49 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herlitz.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0010</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Disposable needlepoint pen Croma - 100pcs - Koh-I-Noor</span><span id="ro">Pix unică folosință Croma - Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>0.8 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0011</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Fountain pen Octopus - 36pcs - Koh-I-Noor</span><span id="ro">Stilou Octopus - 36pcs - Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>7 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0012</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Bottled pen ink 50g Koh-I-Noor</span><span id="ro">Călimară cerneală 50g Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>7.6 RON / <span id="en">pcs - red</span><span id="ro">buc - rosu</span></td></tr>
-<tr><td>Formula 2</td><td>7.6 RON / <span id="en">pcs - red</span><span id="ro">buc - rosu</span></td></tr>
-<tr><td>Formula 3</td><td>8.7 RON / <span id="en">pcs - green</span><span id="ro">buc - verde</span></td></tr>
-<tr><td>Formula 4</td><td>8.7 RON / <span id="en">pcs - black</span><span id="ro">buc - negru</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0013</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Rollerball gel pen - metalic 0.7mm Koh-I-Noor</span><span id="ro">Pix cu gel - metalic 0.7mm Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>2.25 RON / <span id="en">pcs - blue</span><span id="ro">buc - albastru</span></td></tr>
-<tr><td>Formula 1</td><td>2.25 RON / <span id="en">pcs - golden</span><span id="ro">buc - auriu</span></td></tr>
-<tr><td>Formula 1</td><td>2.25 RON / <span id="en">pcs - black</span><span id="ro">buc - negru</span></td></tr>
-<tr><td>Formula 1</td><td>2.25 RON / <span id="en">pcs - red</span><span id="ro">buc - rosu</span></td></tr>
-<tr><td>Formula 1</td><td>2.25 RON / <span id="en">pcs - green</span><span id="ro">buc - verde</span></td></tr>
-<tr><td>Formula 1</td><td>2.25 RON / <span id="en">pcs - brown</span><span id="ro">buc - maro</span></td></tr>
-<tr><td>Formula 1</td><td>2.25 RON / <span id="en">pcs - silver</span><span id="ro">buc - argintiu</span></td></tr>
-<tr><td>Formula 1</td><td>2.25 RON / <span id="en">pcs - magent</span><span id="ro">buc - magenta</span></td></tr>
-<tr><td>Formula 1</td><td>2.25 RON / <span id="en">pcs - purple</span><span id="ro">buc - violet</span></td></tr>
-<tr><td>Formula 1</td><td>2.25 RON / <span id="en">pcs - light blue</span><span id="ro">buc - albastru deschis</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0014</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Writing pencil 7x175mm graphite thickness 2mm Koh-I-Noor</span><span id="ro">Creion scris 7x175mm grosime grafit 2mm Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>0.5 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0015</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Mines for mechanical pencils Koh-I-Noor</span><span id="ro">Rezerve creion mecanic Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>3.2 RON / <span id="en">pcs</span><span id="ro">buc</span> 0.5mm</td></tr>
-<tr><td>Formula 1</td><td>5 RON / <span id="en">pcs</span><span id="ro">buc</span> 0.7mm</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0016</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Mechanical pencil Swell School</span><span id="ro">Creion mecanic Swell School</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>11 RON / <span id="en">pcs</span><span id="ro">buc</span> 0.5mm</td></tr>
-<tr><td>Formula 2</td><td>11 RON / <span id="en">pcs</span><span id="ro">buc</span> 0.7mm</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0017</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Rubber eraser Elefant 80pcs set</span><span id="ro">Radieră Elefant set 80buc</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>80 RON / 80  <span id="en">pcs</span><span id="ro">buc</span> 26x18,5x8 mm</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0018</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Sharpener Dubla - metalic</span><span id="ro">Ascuțitoare Dubla - metalică</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>4.2 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0019</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Modelling clay 10 colors 200g Koh-I-Noor</span><span id="ro">Plastilină 10 culori 200g Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>9.81 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0020</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Colored pencils set Koh-I-Noor</span><span id="ro">Plastilină 10 culori 200g Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>5.5 RON / <span id="en">pcs - 6 colors</span><span id="ro">buc - 6 culori</span></td></tr>
-<tr><td>Formula 2</td><td>19.5 RON / <span id="en">pcs - 24 colors</span><span id="ro">buc - 24 culori</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0021</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Coloring markers pens ( Fiber pens ) BEES</span><span id="ro">Carioci BEES<</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>5.2 RON / <span id="en">pcs - 6 colors</span><span id="ro">buc - 6 culori</span></td></tr>
-<tr><td>Formula 2</td><td>8.7 RON / <span id="en">pcs - 10 colors</span><span id="ro">buc - 10 culori</span></td></tr>
-<tr><td>Formula 3</td><td>11.2 RON / <span id="en">pcs - 12 colors</span><span id="ro">buc - 12 culori</span></td></tr>
-<tr><td>Formula 4</td><td>17.5 RON / <span id="en">pcs - 18 colors</span><span id="ro">buc - 18 culori</span></td></tr>
-<tr><td>Formula 5</td><td>24.5 RON / <span id="en">pcs - 24 colors</span><span id="ro">buc - 24 culori</span></td></tr>
-<tr><td>Formula 6</td><td>29 RON / <span id="en">pcs - 30 colors</span><span id="ro">buc - 30 culori</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0022</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Watercolors set 12 colors Girafa</span><span id="ro">Acuarele 12 culori Girafa<</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>12.9 RON / <span id="en">pcs - 12 colors</span><span id="ro">buc - 12 culori</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0023</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Tempera colors Girafa 16ml</span><span id="ro">Culori Tempera Girafa 16ml</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>22.9 RON / <span id="en">pcs - 6 colors</span><span id="ro">buc - 6 culori</span></td></tr>
-<tr><td>Formula 2</td><td>36.9 RON / <span id="en">pcs - 10 colors</span><span id="ro">buc - 10 culori</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0024</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Wax pencil - round shape tips Koh-I-Noor</span><span id="ro">Creioane cerate - varfuri forma rotundă Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>24.8 RON / <span id="en">pcs - 48 colors</span><span id="ro">buc - 48 culori</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0025</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Paint brushes 5pcs set Pelikan</span><span id="ro">Set pensule pictat Pelikan set 5buc</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>13.69 RON / set</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herlitz.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0026</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Whiteboard market 741 Pelikan</span><span id="ro">Marker whiteboard 741 Pelikan</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>4.38 RON / <span id="en">pcs - blue</span><span id="ro">buc - albastru</span></td></tr>
-<tr><td>Formula 2</td><td>4.38 RON / <span id="en">pcs - black</span><span id="ro">buc - negru</span></td></tr>
-<tr><td>Formula 3</td><td>4.38 RON / <span id="en">pcs - rosu</span><span id="ro">buc - rosu</span></td></tr>
-<tr><td>Formula 4</td><td>4.38 RON / <span id="en">pcs - green</span><span id="ro">buc - verde</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herlitz.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0027</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Whiteboard magnetic sponge Spree</span><span id="ro">Burete magnetic pentru whiteboard Spree</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>5.5 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0028</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">White chalk set 12pcs Koh-I-Noor</span><span id="ro">Cretă albă tablă 12pcs Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>9.9 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0029</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">School backpack Evolution</span><span id="ro">Ghiozdan școlar Evolution</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>65 RON / <span id="en">pcs - blue</span><span id="ro">buc - albastru</span></td></tr>
-<tr><td>Formula 2</td><td>65 RON / <span id="en">pcs - pink</span><span id="ro">buc - roz</span></td></tr>
-<tr><td>Formula 3</td><td>65 RON / <span id="en">pcs - green</span><span id="ro">buc - verde</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0030</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Office fluid corrector 20ml Spree</span><span id="ro">Corector fluid birotică 20ml Spree</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>3.9 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0031</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Recycled Cardboard folder with rail Herlitz</span><span id="ro">Dosar carton reciclat cu șină Herlitz</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>2.36 RON / <span id="en">pcs - yellow</span><span id="ro">buc - galben</span></td></tr>
-<tr><td>Formula 2</td><td>2.36 RON / <span id="en">pcs - orange</span><span id="ro">buc - portocaliu</span></td></tr>
-<tr><td>Formula 3</td><td>2.36 RON / <span id="en">pcs - red</span><span id="ro">buc - rosu</span></td></tr>
-<tr><td>Formula 4</td><td>2.36 RON / <span id="en">pcs - green</span><span id="ro">buc - verde</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herlitz.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0032</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Plastic punched pockets A4 Spree 100pcs</span><span id="ro">Folie documente Spree A4 100pcs</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>20 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0033</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Folder binder A4 material PP Herlitz</span><span id="ro">Biblioraft A4 material PP Herlitz</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>11.52 RON / <span id="en">pcs</span><span id="ro">buc</span> 7.5cm</td></tr>
-<tr><td>Formula 2</td><td>11.52 RON / <span id="en">pcs</span><span id="ro">buc</span> 5cm</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herlitz.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0034</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Plastic PP folder with rail Herlitz</span><span id="ro">Dosar plastic PP cu șină Herlitz</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>1.59 RON / <span id="en">pcs - yellow</span><span id="ro">buc - galben</span></td></tr>
-<tr><td>Formula 2</td><td>1.59 RON / <span id="en">pcs - orange</span><span id="ro">buc - portocaliu</span></td></tr>
-<tr><td>Formula 3</td><td>1.59 RON / <span id="en">pcs - red</span><span id="ro">buc - rosu</span></td></tr>
-<tr><td>Formula 4</td><td>1.59 RON / <span id="en">pcs - green</span><span id="ro">buc - verde</span></td></tr>
-<tr><td>Formula 5</td><td>1.59 RON / <span id="en">pcs - light blue</span><span id="ro">buc - bleumarin</span></td></tr>
-<tr><td>Formula 6</td><td>1.59 RON / <span id="en">pcs - white</span><span id="ro">buc - alb</span></td></tr>
-<tr><td>Formula 6</td><td>1.59 RON / <span id="en">pcs - black</span><span id="ro">buc - negru</span></td></tr>
-<tr><td>Formula 6</td><td>1.59 RON / <span id="en">pcs - blue</span><span id="ro">buc - albastru</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herlitz.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0035</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Filing strip Spree 150x34mm</span><span id="ro">Alonje dosare PP Spree 150x34mm</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>0.5 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0036</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Indigo paper Concorde A4 25sheets</span><span id="ro">Hârtie indigo Concorde 25foi</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>17.1 RON / <span id="en">top - blue</span><span id="ro">top - albastru</span></td></tr>
-<tr><td>Formula 2</td><td>17.1 RON / <span id="en">top - black</span><span id="ro">top - negru</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0037</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Staple remover with blocking mechanism Spree</span><span id="ro">Decapsator cu blocator Spree</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>3.5 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0038</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Office hole punch Spree 10sheets</span><span id="ro">Perforator Birou Spree 10coli</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>16.2 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0039</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Stapler Spree 12sheets - No. 10 staples Koh-I-Noor</span><span id="ro">Capsator Spree 12coli - Capse nr. 10 Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>8.5 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0040</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Staples set - No. 10 Spree 1000pcs Koh-I-Noor</span><span id="ro">Rezerve capse nr. 10 capsator 1000pcs Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>2.3 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0041</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Permanent marker - 2 tips Koh-I-Noor</span><span id="ro">Marker permanent - 2 varfuri Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>2.3 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0042</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Paper clips 100pcs Koh-I-Noor</span><span id="ro">Agrafe birou 100pcs Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>2.7 RON / <span id="en">pcs</span><span id="ro">buc</span> 26mm</td></tr>
-<tr><td>Formula 2</td><td>3.3 RON / <span id="en">pcs</span><span id="ro">buc</span> 30mm</td></tr>
-<tr><td>Formula 3</td><td>3.5 RON / <span id="en">pcs</span><span id="ro">buc</span> 50mm</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0043</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Push pins 20pcs different colors Koh-I-Noor</span><span id="ro">Pioneze pentru tabla pluta 20pcs culori diferite Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>2.4 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0044</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Thumbtacks 40pcs metalic Koh-I-Noor</span><span id="ro">Pioneze metalice 40pcs metalic Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>2.4 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0045</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Pearl pins - different colors 32mm Koh-I-Noor</span><span id="ro">Ace gamalie - culori diferite 32mm Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>2.4 RON / 25<span id="en">pcs box</span><span id="ro">buc cutie</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0046</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Office pins 28mm Koh-I-Noor</span><span id="ro">Ace gamalie 28mm Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>2.4 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0047</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Rubber bands 50g 1.4x1.2x55mm  Koh-I-Noor</span><span id="ro">Elastic 50g 1.4x1.2x55mm  Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>2.4 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0048</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Elastic for money 100g  Lecom</span><span id="ro">Elastic bani 100g  Lecom</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>5.41 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.lecombirotica.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0049</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Non-slip sponge with glycerine Koh-I-Noor</span><span id="ro">Buretieră cu glicerină Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>12 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0050</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Binder clips 12x12pcs Koh-I-Noor</span><span id="ro">Clipsuri metalice 12x12pcs Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>0.4 RON / <span id="en">pcs</span><span id="ro">buc</span> 15mm</td></tr>
-<tr><td>Formula 2</td><td>0.8 RON / <span id="en">pcs</span><span id="ro">buc</span> 25mm</td></tr>
-<tr><td>Formula 3</td><td>1 RON / <span id="en">pcs</span><span id="ro">buc</span> 32mm</td></tr>
-<tr><td>Formula 4</td><td>1.6 RON / <span id="en">pcs</span><span id="ro">buc</span> 41mm</td></tr>
-<tr><td>Formula 5</td><td>1.9 RON / <span id="en">pcs</span><span id="ro">buc</span> 51mm</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0051</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Stamp pad ink 50g Koh-I-Noor</span><span id="ro">Tuș stampilă 50g Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>10 RON / <span id="en">pcs - blue</span><span id="ro">buc - albastru</span></td></tr>
-<tr><td>Formula 2</td><td>10 RON / <span id="en">pcs - red</span><span id="ro">buc - roșu</span></td></tr>
-<tr><td>Formula 3</td><td>10 RON / <span id="en">pcs - black</span><span id="ro">buc - negru</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0052</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Stamp pad Koh-I-Noor</span><span id="ro">Tușieră stampilă Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>14.4 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0053</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Photo paper A4 Koh-I-Noor</span><span id="ro">Hârtie foto A4 Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>45.9 RON / 20<span id="en">pcs - glossy</span><span id="ro">buc - lucioasă</span> 150g</td></tr>
-<tr><td>Formula 2</td><td>52.9 RON / 20<span id="en">pcs - glossy</span><span id="ro">buc - lucioasă</span> 200g</td></tr>
-<tr><td>Formula 3</td><td>37.8 RON / 50<span id="en">pcs - matte</span><span id="ro">buc - mată</span> 120g</td></tr>
-<tr><td>Formula 4</td><td>50.8  RON / 50<span id="en">pcs - matte</span><span id="ro">buc - mată</span> 190g</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0054</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Clipboard - material PP plastic A4 Koh-I-Noor</span><span id="ro">Clipboard - material plastic PP A4 Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>9.31 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0055</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Hârtie milimetrică A4 80g Herlitz</span><span id="ro">Hârtie milimetrică A4 80g Herlitz</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>12.32 RON / <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herlitz.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0056</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Thermal paper rolls Lecom</span><span id="ro">Hârtie case marcat role Lecom</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>1.4 RON / <span id="en">pcs</span><span id="ro">buc</span> 28mm 30m</td></tr>
-<tr><td>Formula 2</td><td>2.59 RON / <span id="en">pcs</span><span id="ro">buc</span> 35+20mm 30m</td></tr>
-<tr><td>Formula 3</td><td>0.8 RON / <span id="en">pcs</span><span id="ro">buc</span> 37mm 1Ex 25m</td></tr>
-<tr><td>Formula 4</td><td>1.08 RON / <span id="en">pcs</span><span id="ro">buc</span> 37mm 12m</td></tr>
-<tr><td>Formula 5</td><td>1.67 RON / <span id="en">pcs</span><span id="ro">buc</span> 57mm 12m</td></tr>
-<tr><td>Formula 6</td><td>1.83 RON / <span id="en">pcs</span><span id="ro">buc</span> 57mm 1Ex 25m</td></tr>
-<tr><td>Formula 7</td><td>2.17 RON / <span id="en">pcs</span><span id="ro">buc</span> 57mm 18m</td></tr>
-<tr><td>Formula 8</td><td>2.93 RON / <span id="en">pcs</span><span id="ro">buc</span> 57mm 25m</td></tr>
-<tr><td>Formula 9</td><td>2.93 RON / <span id="en">pcs</span><span id="ro">buc</span> 57mm 30m</td></tr>
-<tr><td>Formula 10</td><td>2.83 RON / <span id="en">pcs</span><span id="ro">buc</span> 76mm 1Ex 25m</td></tr>
-<tr><td>Formula 11</td><td>4.17 RON / <span id="en">pcs</span><span id="ro">buc</span> 76mm 25m</td></tr>
-<tr><td>Formula 12</td><td>5 RON / <span id="en">pcs</span><span id="ro">buc</span> 80mm 30m</td></tr>
-<tr><td>Formula 13</td><td>6.58 RON / <span id="en">pcs</span><span id="ro">buc</span> 80mm 40m</td></tr>
-<tr><td>Formula 14</td><td>9.66 RON / <span id="en">pcs</span><span id="ro">buc</span> 80mm 60m</td></tr>
-<tr><td>Formula 15</td><td>12 RON / <span id="en">pcs</span><span id="ro">buc</span> 80mm 75m</td></tr>
-<tr><td>Formula 16</td><td>5.74 RON / <span id="en">pcs</span><span id="ro">buc</span> 110mm 25m</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.lecombirotica.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">OFF0057</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Drawing / architect plans storage tube Koh-I-Noor</span><span id="ro">Tub plastic pentru proiecte Koh-I-Noor</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>47.01 RON / <span id="en">pcs</span><span id="ro">buc</span> 60/110cm Φ 8,50cm</td></tr>
-<tr><td>Formula 2</td><td>54.5 RON / <span id="en">pcs</span><span id="ro">buc</span> 50/85cm Φ 10cm</td></tr>
-<tr><td>Formula 3</td><td>73.7 RON / <span id="en">pcs</span><span id="ro">buc</span> 75/135cm Φ 13,50cm</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.koh-i-noor.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-
-
-</tbody>
-
-
-<!--
-       <tr><td><span id="en">A4 Spiral Notepad</span><span id="ro">Caiet A4 matematică cu spirală</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Sticker paper</span><span id="ro">Hârtie abțibild / autocolantă</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Self-adhesive labels</span><span id="ro">Etichete autoadezive</span></td><td>-</td><td>-</td></tr>        
-       <tr><td><span id="en">Wood ruler</span><span id="ro">Riglă lemn</span></td><td>-</td><td>-</td></tr>
--->
+<style>
+
+.officeandschoolsuppliesslider{
+ width:100%;
+}
+.officeandschoolsuppliesslidernav{
+ text-align:center;
+ width:100%; 
+}
+.officeandschoolsuppliesslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
+
+.officeandschoolsuppliesslides img {
+  max-width: 100%;
+  height: auto;
+}
+
+.officeandschoolsuppliesslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.officeandschoolsuppliesslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.officeandschoolsuppliesslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.officeandschoolsuppliesslidernav a:hover {background-color: gold;}
+.officeandschoolsuppliesslidernav a:active {background-color: gold;}
+.officeandschoolsuppliesslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="officeandschoolsuppliesslider">
+
+<div class="officeandschoolsuppliesslidernav" >
+  <a href="#officeandschoolsuppliesslide-1">1</a>
+  <a href="#officeandschoolsuppliesslide-2">2</a>
+  <a href="#officeandschoolsuppliesslide-3">3</a>
+</div>
+
+  <div class="officeandschoolsuppliesslides">
+    <div class="fade" id="officeandschoolsuppliesslide-1">
+      <img src="https://i.ibb.co/0rVJSmw/office.jpg" alt="officeandschoolsuppliesitem1" /> 
+    </div>
+    <div class="fade" id="officeandschoolsuppliesslide-2">
+      <img src="https://i.ibb.co/B68zQ9W/officeb.jpg" alt="officeandschoolsuppliesitem2" /> 
+    </div>
+    <div class="fade" id="officeandschoolsuppliesslide-3">
+      <img src="https://i.ibb.co/0cYvw7z/officec.jpg" alt="officeandschoolsuppliesitem3" /> 
+    </div>
+  </div><!-- officeandschoolsuppliesSlides -->
+
+</div><!-- officeandschoolsuppliesSlider -->
