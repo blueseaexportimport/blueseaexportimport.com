@@ -1048,6 +1048,22 @@ $(document).ready(function () {
   // Grab officeandschoolsupplies on click end	
 
 
+  // Grab flowersandornamentalplants on click start
+  $("#flowersandornamentalplantsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#flowersandornamentalplants").hasClass("clickedflowersandornamentalplants")) {
+        // already been clicked once, hide it
+        $("#flowersandornamentalplants").html("");
+        $( "#flowersandornamentalplants" ).removeClass( "clickedflowersandornamentalplants" )
+    }else {
+        // first time this is clicked, mark it
+        $("#flowersandornamentalplants").addClass("clickedflowersandornamentalplants");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/flowersandornamentalplants.txt?" + rand, success: function(result){
+         $("#flowersandornamentalplants").html(result);
+        }});
+    }
+   });
+  // Grab flowersandornamentalplants on click end	
 
 
 	
@@ -1746,7 +1762,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->  
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (5)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (5)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (8)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (8)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="concreteandsteelsilosbtn" ><span id="en">Concrete and steel silos</span><span id="ro">Silozuri beton și oțel</span></h5> 
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="agriculturalmachinerybtn" ><span id="en">Agricultural machinery</span><span id="ro">Utilaje agricultură</span></h5> 
@@ -1783,8 +1799,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="babyfruitstreesbtn" ><span id="en">Baby fruits trees</span><span id="ro">Puieți arbuști fructiferi</span></h5>    	
    <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" id="flowersandornamentalplantsbtn" ><span id="en">Flowers and ornamental plants seeds</span><span id="ro">Semințe flori și plante ornamentale</span></h5>  
-   <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="flowersandornamentalplantsbtn" ><span id="en">Flowers and ornamental plants seeds (3)</span><span id="ro">Semințe flori și plante ornamentale (3)</span></h5>  
+   <div id="flowersandornamentalplants" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="plantsseedsbtn" ><span id="en">Plants seeds - Non-GMO</span><span id="ro">Semințe plante - Non-GMO</span></h5>          
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="droughttolerantseedsbtn" ><span id="en">Drought-tolerant seeds - Non-GMO</span><span id="ro">Semințe rezistente la secetă - Non-GMO</span></h5>   
