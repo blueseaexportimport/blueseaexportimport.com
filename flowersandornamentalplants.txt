@@ -1,150 +1,73 @@
+<style>
 
-
-<tbody>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FLO0001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Flowers and ornamental plants - Agrosel</span><span id="ro">Flori și plante ornamentale - Agrosel</span></td></tr>
-<td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en" >They are seeds, bulbs and baby plants, so they can be transported easy long distance</span><span id="ro">Sunt semințe, bulbi și puieți plante, pentru a fi transportate ușor pe distanțe lungi</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-
-<tr><td>Formula 1</td><td>2.37 RON / 0,35g<span id="en"> Passion flower ( Passiflora caerulea ) - blue</span><span id="ro"> Floarea pasiunii ( Passiflora caerulea ) - albastru</span></td></tr>
-<tr><td>Formula 2</td><td>2.37 RON / 0.3g<span id="en"> Daisy ( Bellis perennis L. ) - white</span><span id="ro"> Bănuț ( Bellis perennis L. ) - alb</span></td></tr>
-<tr><td>Formula 3</td><td>2.37 RON / 0.3g<span id="en"> Columbine ( Aquilegia vulgaris )</span><span id="ro"> Căldăruşă ( Aquilegia vulgaris )</span></td></tr>
-<tr><td>Formula 4</td><td>2.37 RON / 2g<span id="en">Morning glory ( Ipomea tricolor Cav )</span><span id="ro">Zorea ( Ipomea tricolor Cav )</span> melanj</td></tr>
-<tr><td>Formula 5</td><td>2.37 RON / 2g<span id="en">Morning glory ( Ipomea tricolor Cav ) - blue</span><span id="ro">Zorea ( Ipomea tricolor Cav ) - albastru</span></td></tr>
-<tr><td>Formula 6</td><td>2.37 RON / 2g<span id="en">Dwarf Morning glory ( Ipomea tricolor Cav ) - blue</span><span id="ro">Zorea pitica ( Ipomea tricolor Cav ) - albastru</span></td></tr>
-<tr><td>Formula 7</td><td>2.37 RON / 2g<span id="en"> Oxeye ( Chrysanthemum leucanthemum )</span><span id="ro"> Margarete ( Chrysanthemum leucanthemum )</span> - melanj</td></tr>
-<tr><td>Formula 8</td><td>2.37 RON / 1.5g<span id="en"> Aztec marigold ( Tagetes erecta L. )</span><span id="ro"> Crăiță uriaşă ( Tagetes erecta L. )</span> - melanj</td></tr>
-<tr><td>Formula 9</td><td>2.37 RON / 0,08g<span id="en"> Geranium ( Pelargonium x zonale )</span><span id="ro"> Muscate melanj ( Pelargonium x zonale )</span></td></tr>
-
-<tr><td>Formula 10</td><td>6.42 RON / <span id="en">5 bulbs Esta Bonita Tulip ( Tulipa × gesneriana )</span><span id="ro">5 bulbi Lalele Esta Bonita ( Tulipa × gesneriana )</span></td></tr>
-<tr><td>Formula 11</td><td>6.42 RON / <span id="en">5 bulbs Red Mark Tulip ( Tulipa × gesneriana )</span><span id="ro">5 bulbi Lalele Red Mark ( Tulipa × gesneriana )</span></td></tr>
-<tr><td>Formula 12</td><td>6.42 RON / <span id="en">5 bulbs Havran Tulip ( Tulipa × gesneriana )</span><span id="ro">5 bulbi Lalele Havran ( Tulipa × gesneriana )</span></td></tr>
-<tr><td>Formula 13</td><td>6.42 RON / <span id="en">5 bulbs Libretto Parrot Tulip ( Tulipa × gesneriana )</span><span id="ro">5 bulbi Lalele Libretto Parrot ( Tulipa × gesneriana )</span></td></tr>
-<tr><td>Formula 14</td><td>6.42 RON / <span id="en">5 bulbs Orange van Eijk Tulip ( Tulipa × gesneriana )</span><span id="ro">5 bulbi Lalele Orange van Eijk ( Tulipa × gesneriana )</span></td></tr>
-<tr><td>Formula 15</td><td>6.42 RON / <span id="en">5 bulbs Triumph mix Tulip ( Tulipa × gesneriana )</span><span id="ro">5 bulbi Lalele Triumph mix ( Tulipa × gesneriana )</span></td></tr>
-<tr><td>Formula 16</td><td>6.42 RON / <span id="en">5 bulbs Tangerine Beauty Tulip ( Tulipa × gesneriana )</span><span id="ro">5 bulbi Lalele Tangerine Beauty ( Tulipa × gesneriana )</span></td></tr>
-<tr><td>Formula 17</td><td>6.42 RON / <span id="en">5 bulbs Praestans Unicum Tulip ( Tulipa × gesneriana )</span><span id="ro">5 bulbi Lalele Praestans Unicum ( Tulipa × gesneriana )</span></td></tr>
-<tr><td>Formula 18</td><td>6.42 RON / <span id="en">5 bulbs Ile de France ( Tulipa × gesneriana )</span><span id="ro">5 bulbi Lalele Ile de France ( Tulipa × gesneriana )</span></td></tr>
-<tr><td>Formula 19</td><td>7.5 RON / <span id="en">5 bulbs Flaming Flag ( Tulipa × gesneriana )</span><span id="ro">5 bulbi Lalele Flaming Flag ( Tulipa × gesneriana )</span></td></tr>
-<tr><td>Formula 20</td><td>7.5 RON / <span id="en">5 bulbs Barbados Tulip ( Tulipa × gesneriana )</span><span id="ro">5 bulbi Lalele Barbados ( Tulipa × gesneriana )</span></td></tr>
-<tr><td>Formula 21</td><td>7.5 RON / <span id="en">5 bulbs Flaming Parrot Tulip ( Tulipa × gesneriana )</span><span id="ro">5 bulbi Lalele Flaming Parrot ( Tulipa × gesneriana )</span></td></tr>
-<tr><td>Formula 22</td><td>7.5 RON / <span id="en">5 bulbs Carnaval de Rio Tulip ( Tulipa × gesneriana )</span><span id="ro">5 bulbi Lalele Carnaval de Rio ( Tulipa × gesneriana )</span></td></tr>
-<tr><td>Formula 23</td><td>7.5 RON / <span id="en">5 bulbs Giant Parrot Tulip ( Tulipa × gesneriana )</span><span id="ro">5 bulbi Lalele Giant Parrot ( Tulipa × gesneriana )</span></td></tr>
-<tr><td>Formula 24</td><td>7.5 RON / <span id="en">5 bulbs Parrot mix Tulip ( Tulipa × gesneriana )</span><span id="ro">5 bulbi Lalele Parrot mix ( Tulipa × gesneriana )</span></td></tr>
-<tr><td>Formula 25</td><td>7.5 RON / <span id="en">5 bulbs Gerband Kieft Tulip ( Tulipa × gesneriana )</span><span id="ro">5 bulbi Lalele Gerband Kieft ( Tulipa × gesneriana )</span></td></tr>
-<tr><td>Formula 26</td><td>7.5 RON / <span id="en">5 bulbs Rem's Favourite Tulip ( Tulipa × gesneriana )</span><span id="ro">5 bulbi Lalele Rem's Favourite ( Tulipa × gesneriana )</span></td></tr>
-<tr><td>Formula 27</td><td>7.5 RON / <span id="en">3 bulbs Double Shirley Tulip ( Tulipa × gesneriana )</span><span id="ro">3 bulbi Lalele Double Shirley ( Tulipa × gesneriana )</span></td></tr>
-<tr><td>Formula 28</td><td>7.5 RON / <span id="en">3 bulbs Club mix Tulip ( Tulipa × gesneriana )</span><span id="ro">3 bulbi Lalele Club mix ( Tulipa × gesneriana )</span></td></tr>
-
-<tr><td>Formula 29</td><td>5.31 RON / <span id="en">2 bulbs Madonna lily ( Lilium candidum )</span><span id="ro">2 bulbi Crin alb ( Lilium candidum )</span></td></tr>
-<tr><td>Formula 30</td><td>6.42 RON / <span id="en">2 bulbs Madonna lily bicolor ( Lilium candidum )</span><span id="ro">2 bulbi Crin bicolor ( Lilium candidum )</span></td></tr>
-<tr><td>Formula 31</td><td>6.42 RON / <span id="en">2 bulbs Orange Madonna lily ( Lilium candidum )</span><span id="ro">2 bulbi Crin portocaliu ( Lilium candidum )</span></td></tr>
-<tr><td>Formula 32</td><td>6.42 RON / <span id="en">2 bulbs Yellow Madonna lily ( Lilium candidum )</span><span id="ro">2 bulbi Crin galben ( Lilium candidum )</span></td></tr>
-<tr><td>Formula 33</td><td>6.42 RON / <span id="en">2 bulbs Red Madonna lily ( Lilium candidum )</span><span id="ro">2 bulbi Crin roşu ( Lilium candidum )</span></td></tr>
-<tr><td>Formula 34</td><td>7.5 RON / <span id="en">2 bulbs Oriental Playtime Madonna lily ( Lilium candidum )</span><span id="ro">2 bulbi Crin Oriental Playtime ( Lilium candidum )</span></td></tr>
-<tr><td>Formula 35</td><td>7.5 RON / <span id="en">3 bulbs Madonna lily mix ( Lilium candidum )</span><span id="ro">3 bulbi Crin mix ( Lilium candidum )</span></td></tr>
-
-<tr><td>Formula 36</td><td>6.42 RON / <span id="en">3 bulbs Garden hyacinth mix ( Hyacinthus orientalis )</span><span id="ro">3 bulbi Zambilă mix ( Hyacinthus orientalis )</span></td></tr>
-<tr><td>Formula 37</td><td>6.42 RON / <span id="en">2 bulbs Garden hyacinth Peter Stuyvesant ( Hyacinthus orientalis )</span><span id="ro">2 bulbi Zambilă Peter Stuyvesant ( Hyacinthus orientalis )</span></td></tr>
-<tr><td>Formula 38</td><td>6.42 RON / <span id="en">2 bulbs Garden hyacinth Chesnut Flower ( Hyacinthus orientalis )</span><span id="ro">2 bulbi Zambilă Chesnut Flower ( Hyacinthus orientalis )</span></td></tr>
-<tr><td>Formula 39</td><td>6.42 RON / <span id="en">3 bulbs Garden hyacinth Yellow Queen ( Hyacinthus orientalis )</span><span id="ro">3 bulbi Zambilă Yellow Queen ( Hyacinthus orientalis )</span></td></tr>
-
-<tr><td>Formula 40</td><td>6.42 RON / <span id="en">10 bulbs Snowdrop ( Galanthus nivalis )</span><span id="ro">10 bulbi Ghiocel ( Galanthus nivalis )</span></td></tr>
-
-<tr><td>Formula 41</td><td>34.41 RON / 1kg <span id="en">Red clover ( Trifolium pratense )</span><span id="ro">Trifoi roşu ( Trifolium pratense )</span></td></tr>
-
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://agrosel.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FLO0002</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Flowers and ornamental - Kertimag</span><span id="ro">Flori și plante ornamentale - Kertimag</span></td></tr>
-<td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en" >They are seeds, bulbs and baby plants, so they can be transported easy long distance</span><span id="ro">Sunt semințe, bulbi și puieți plante, pentru a fi transportate ușor pe distanțe lungi</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
-
-
-<tr><td>Formula 1</td><td>2.6 RON / <span id="en">envelope Castor oil plant ( Ricinus communis )</span><span id="ro">plic Ricin ( Ricinus communis )</span></td></tr>
-<tr><td>Formula 2</td><td>2.6 RON / <span id="en">envelope Cosmos ( Cosmos bipinnatus ) - mix</span><span id="ro">plic Cosmos ( Cosmos bipinnatus ) - mix</span></td></tr>
-<tr><td>Formula 3</td><td>2.6 RON / <span id="en">envelope Wild pansy ( Dianthus caryophyllus ) - Chabaud</span><span id="ro">plic Garoafă ( Dianthus caryophyllus ) - Chabaud</span></td></tr>
-<tr><td>Formula 4</td><td>3.4 RON / <span id="en">envelope Wild pansy ( Dianthus caryophyllus ) - Grenadin</span><span id="ro">plic Garoafă ( Dianthus caryophyllus ) - Grenadin</span></td></tr>
-
-<tr><td>Formula 5</td><td>2.6 RON / <span id="en">envelope Common zinnia ( Zinnia elegans ) - mix</span><span id="ro">plic Cârciumăreasă ( Zinnia elegans ) - mix</span></td></tr>
-<tr><td>Formula 6</td><td>2.6 RON / <span id="en">envelope Common zinnia ( Zinnia elegans ) - red</span><span id="ro">plic Cârciumăreasă ( Zinnia elegans ) - rosu</span></td></tr>
-<tr><td>Formula 7</td><td>2.6 RON / <span id="en">envelope Common zinnia ( Zinnia elegans ) - purple</span><span id="ro">plic Cârciumăreasă ( Zinnia elegans ) - mov</span></td></tr>
-<tr><td>Formula 8</td><td>2.6 RON / <span id="en">envelope Common zinnia ( Zinnia elegans ) - white</span><span id="ro">plic Cârciumăreasă ( Zinnia elegans ) - alb</span></td></tr>
-<tr><td>Formula 9</td><td>2.6 RON / <span id="en">envelope Common zinnia ( Zinnia elegans ) - liliput</span><span id="ro">plic Cârciumăreasă ( Zinnia elegans ) - liliput</span></td></tr>
-<tr><td>Formula 10</td><td>2.6 RON / <span id="en">envelope Common zinnia ( Zinnia elegans ) - yellow</span><span id="ro">plic Cârciumăreasă ( Zinnia elegans ) - galben</span></td></tr>
-<tr><td>Formula 11</td><td>2.6 RON / <span id="en">envelope Common zinnia ( Zinnia elegans ) - cactus</span><span id="ro">plic Cârciumăreasă ( Zinnia elegans ) - cactus</span></td></tr>
-<tr><td>Formula 12</td><td>2.6 RON / <span id="en">envelope Common zinnia ( Zinnia elegans ) - orange</span><span id="ro">plic Cârciumăreasă ( Zinnia elegans ) - portocaliu</span></td></tr>
-<tr><td>Formula 13</td><td>3.96 RON / <span id="en">envelope Common zinnia ( Zinnia elegans ) - dalii</span><span id="ro">plic Cârciumăreasă ( Zinnia elegans ) - dalii</span></td></tr>
-
-<tr><td>Formula 14</td><td>13.2 RON / 5<span id="en"> bulbs Lily of the valley ( Convallaria majalis )</span><span id="ro"> bulbi Lăcrămioară ( Convallaria majalis )</span></td></tr>
-<tr><td>Formula 15</td><td>13.2 RON / 2<span id="en"> bulbs German bearded iris ( Iris × germanica ) - pink </span><span id="ro"> bulbi Stânjenel ( Iris × germanica ) - roz</span></td></tr>
-<tr><td>Formula 16</td><td>13.2 RON / 2<span id="en"> bulbs German bearded iris ( Iris × germanica ) - bronze </span><span id="ro"> bulbi Stânjenel ( Iris × germanica ) - bronz</span></td></tr>
-<tr><td>Formula 17</td><td>13.2 RON / 2<span id="en"> bulbs German bearded iris ( Iris × germanica ) - black </span><span id="ro"> bulbi Stânjenel ( Iris × germanica ) - negru</span></td></tr>
-
-<tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://kertimag.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FLO0003</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Turf seeds - Agrosel</span><span id="ro">Semințe gazon - Agrosel</span></td></tr>
-<td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en" >If you live in the desert or in very cold regions please order sample and test product before you buy, unknown if it handles extreme climate, it was designed for Romania</span><span id="ro">Dacă locuiți în deșert sau în regiuni foarte reci, vă rugăm să comandați monstră și să testați produsul înainte de a cumpăra, nu știm dacă suportă clime cu temperaturi extreme, a fost conceput pentru România</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-
-
-<tr><td>Formula 1</td><td>217.02 RON / 10kg <span id="en">Soare grass seeds - for sunny and dry areas</span><span id="ro">Semințe de gazon Soare - pentru zone uscate și cu mult soare</span></td></tr>
-<tr><td>Formula 2</td><td>217.02 RON / 10kg <span id="en">Umbra grass seeds - for shaded and moist areas</span><span id="ro">Semințe de gazon Umbra - pentru zone cu umezeală și puțin soare</span></td></tr>
-<tr><td>Formula 3</td><td>217.02 RON / 10kg <span id="en">Regenerare grass seeds - for areas where youwant to regenerate grass</span><span id="ro">Semințe de gazon Regenerare - pentru zone unde doriți să regenerați iarba</span></td></tr>
-<tr><td>Formula 4</td><td>218.02 RON / 10kg <span id="en">Ornamental grass seeds - for landscaping and sunny places</span><span id="ro">Semințe de gazon Ornamental - pentru peisagistică și locuri cu mult soare</span></td></tr>
-<tr><td>Formula 5</td><td>224.21 RON / 10kg <span id="en">Sport grass seeds - for sports field</span><span id="ro">Semințe de gazon Sport - pentru terenuri sportive</span></td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://agrosel.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-
-
-
-
-</tbody>
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
+.flowersandornamentalplantsslider{
+ width:100%;
 }
-});
-</script>
+.flowersandornamentalplantsslidernav{
+ text-align:center;
+ width:100%; 
+}
+.flowersandornamentalplantsslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
+.flowersandornamentalplantsslides img {
+  max-width: 100%;
+  height: auto;
+}
 
-<!--
-    <tr><td><span id="en">Gallic rose ( Rosa gallica )</span><span id="ro">Trandafir galic ( Rosa gallica )</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Damask rose ( Rosa × damascena )</span><span id="ro">Trandafir de Damasc ( Rosa × damascena )</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">China rose ( Rosa chinensis )</span><span id="ro">Trandafir chinezesc ( Rosa chinensis )</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">White rose of York ( Rosa × alba )</span><span id="ro">Trandafir alb de York ( Rosa × alba )</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Dog Rose ( Rosa caninae )</span><span id="ro">Măceș ( Rosa caninae )</span></td><td>-</td><td>-</td></tr>   
+.flowersandornamentalplantsslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
 
-    <tr><td>Formula 1</td><td>28 RON / 0-60cm <span id="en">pcs Jasmine ( Jasminum officinale )</span><span id="ro">buc Iasomnie albă ( Jasminum officinale )</span></td></tr>
-    <tr><td><span id="en">Lilac ( Syringa vulgaris )</span><span id="ro">Lilac ( Syringa vulgaris )</span></td><td>-</td><td>-</td></tr>
+.flowersandornamentalplantsslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.flowersandornamentalplantsslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.flowersandornamentalplantsslidernav a:hover {background-color: gold;}
+.flowersandornamentalplantsslidernav a:active {background-color: gold;}
+.flowersandornamentalplantsslidernav a:focus {background-color: gold;}
 
-    <tr><td><span id="en">Dwarf periwinkle ( Vinca Minor )</span><span id="ro">Saschiu ( Vinca Minor )</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Fescue ( Festuca - genus )</span><span id="ro">Păiuș ( Festuca - genus )</span></td><td>-</td><td>-</td></tr>     
+</style>
 
-    <tr><td><span id="en">Common meadow-grass ( Poa pratensis )</span><span id="ro">Iarbă de luncă ( Poa pratensis )</span></td><td>-</td><td>-</td></tr> 
+<div class="flowersandornamentalplantsslider">
 
-    <tr><td><span id="en">Poet's daffodil ( Narcissus poeticus )</span><span id="ro">Narcisa albă  ( Narcissus poeticus )</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Wild pansy ( Viola tricolor )</span><span id="ro">Panseluță ( Viola tricolor )</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Wax begonia  ( Begonia Semperflorens )</span><span id="ro">Begonie cerată  ( Begonia Semperflorens )</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Common violet ( Viola odorata )</span><span id="ro">Toporaș ( Viola odorata )</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Clematis 'Jackmanii' ( Clematis × jackmanii )</span><span id="ro">Curpen de grădină ( Clematis × jackmanii )</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Alpine columbine ( Aquilegia alpina )</span><span id="ro">Columbina alpină ( Aquilegia alpina )</span></td><td>-</td><td>-</td></tr>  
--->
+<div class="flowersandornamentalplantsslidernav" >
+  <a href="#flowersandornamentalplantsslide-1">1</a>
+  <a href="#flowersandornamentalplantsslide-2">2</a>
+  <a href="#flowersandornamentalplantsslide-3">3</a>
+</div>
+
+  <div class="flowersandornamentalplantsslides">
+    <div class="fade" id="flowersandornamentalplantsslide-1">
+      <img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/445066221_372381412473580_7849428176988802625_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=wF_LFVC8II0Q7kNvgGatxsb&_nc_ht=scontent.fotp3-1.fna&oh=00_AYAgoadWgM_fntnB6WFvyMJay11Vmbfj56Aff0zAYRUjhA&oe=665BF491" alt="maturedcheeseitem1" /> 
+    </div>
+    <div class="fade" id="flowersandornamentalplantsslide-2">
+      <img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/441963606_372381559140232_9139362397842183422_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ZqKxVUI5LvAQ7kNvgHuOum6&_nc_ht=scontent.fotp3-1.fna&oh=00_AYCqdRrpql9Y7tfRpA71YyYq5cBMHk-GKDBruoqd4qy03g&oe=665C117B" alt="maturedcheeseitem2" /> 
+    </div>
+    <div class="fade" id="flowersandornamentalplantsslide-3">
+      <img src="https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-6/441953279_372381789140209_3473735297755495827_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=wqX19juxPJAQ7kNvgHuhuKe&_nc_ht=scontent.fotp3-2.fna&oh=00_AYAbPLAMs3mpLFapjvgHtO8XqQiKDwDKHiGs5heclhGQZg&oe=665BFF8C" alt="maturedcheeseitem3" /> 
+    </div>
+  </div><!-- flowersandornamentalplantsSlides -->
+
+</div><!-- flowersandornamentalplantsSlider -->
