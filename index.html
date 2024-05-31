@@ -1082,7 +1082,22 @@ $(document).ready(function () {
    });
   // Grab vegetablecookingoils on click end	
 
-
+  // Grab mineralores on click start
+  $("#mineraloresbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#mineralores").hasClass("clickedmineralores")) {
+        // already been clicked once, hide it
+        $("#mineralores").html("");
+        $( "#mineralores" ).removeClass( "clickedmineralores" )
+    }else {
+        // first time this is clicked, mark it
+        $("#mineralores").addClass("clickedmineralores");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/mineralores.txt?" + rand, success: function(result){
+         $("#mineralores").html(result);
+        }});
+    }
+   });
+  // Grab mineralores on click end	
 
 	
 	
@@ -1343,11 +1358,14 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	  
   </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (0)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (0)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (1)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (1)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="cranesbtn" ><span id="en">Overhead cranes</span><span id="ro">Poduri rulante</span></h5>    	
    <div class="rowbin" >-</div>       
-   <h5 class="categoryaccordion" id="mineraloresbtn" ><span id="en">Space mining minerals ( ores )</span><span id="ro">Minereuri provenit din minerit spațial</span></h5>    	
-   <div class="rowbin" >-</div>        
+   <h5 class="categoryaccordion" id="mineraloresbtn" ><span id="en">Minerals - ores (1)</span><span id="ro">Minereuri (1)</span></h5>    	
+   <div id="mineralores" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	       
    <h5 class="categoryaccordion" ><span id="en">Non-ferrous foundry</span><span id="ro">Turnătorie de aliaje neferoase</span></h5>    	
    <div class="rowbin" >-</div> 
    <h5 class="categoryaccordion" ><span id="en">Cast iron foundry</span><span id="ro">Turnătorie de fontă</span></h5>    	
