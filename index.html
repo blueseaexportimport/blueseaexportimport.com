@@ -1099,6 +1099,27 @@ $(document).ready(function () {
    });
   // Grab mineralores on click end	
 
+  // Grab ferroalloys on click start
+  $("#ferroalloysbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#ferroalloys").hasClass("clickedferroalloys")) {
+        // already been clicked once, hide it
+        $("#ferroalloys").html("");
+        $( "#ferroalloys" ).removeClass( "clickedferroalloys" )
+    }else {
+        // first time this is clicked, mark it
+        $("#ferroalloys").addClass("clickedferroalloys");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/ferroalloys.txt?" + rand, success: function(result){
+         $("#ferroalloys").html(result);
+        }});
+    }
+   });
+  // Grab ferroalloys on click end	
+
+
+
+
+
 	
 	
 });
@@ -1358,14 +1379,17 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	  
   </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (1)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (1)</b></span></button><div class="catalogpanel">    
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (2)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (2)</b></span></button><div class="catalogpanel">    
    <h5 class="categoryaccordion" id="mineraloresbtn" ><span id="en">Minerals - ores (1)</span><span id="ro">Minereuri (1)</span></h5>    	
    <div id="mineralores" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	       
-   <h5 class="categoryaccordion" id="castironbtn" ><span id="en">Ferroalloys</span><span id="ro">Feroaliaje</span></h5>    	
-   <div class="rowbin" >-</div> 
+   <h5 class="categoryaccordion" id="ferroalloysbtn" ><span id="en">Ferroalloys (1)</span><span id="ro">Feroaliaje (1)</span></h5>    	
+   <div id="ferroalloys" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" id="castironbtn" ><span id="en">Cast iron</span><span id="ro">Fonte</span></h5>    	
    <div class="rowbin" >-</div> 
    <h5 class="categoryaccordion" id="alloysfundamentalformsbtn" ><span id="en">Alloys - fundamental forms</span><span id="ro">Aliaje - forme fundamentale</span></h5>    	
