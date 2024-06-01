@@ -1,109 +1,11 @@
 
-<tbody>
+<style>
+    .personalcarebabycareslidediv img{ width:100%; height:auto;}
+</style> 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBC01</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Solid soap Baby Dove</span><span id="ro">Săpun solid Baby Dove</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="ro">UE</span></td></tr>
-<tr><td>Formula 1</td><td>6.45 RON / 75g <span id="en">Crema Rich</span><span id="ro">Crema Rich</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.dove.com/ro/home.html" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBC02</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Baby lotion Johnsons</span><span id="ro">Loțiune pentru copii Johnsons</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">USA</span><span id="ro">SUA</span></td></tr>
-<tr><td>Formula 1</td><td>30 RON / 300ml <span id="en">Cottontouch</span><span id="ro">Cottontouch</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.johnsonsbaby.com/baby-products/johnsons-cottontouch-newborn-face-body-moisturizer" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBC03</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Baby natural bath sponge</span><span id="ro">Burete de baie copii natural</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="ro">UE</span></td></tr>
-<tr><td>Formula 1</td><td>60 RON / <span id="en">pcs with fine pores</span><span id="ro">buc cu pori fini</span></td></tr>
-<tr><td>Formula 2</td><td>58 RON / <span id="en">pcs honeycomb nr 12</span><span id="ro">buc fagure de miere nr 12</span></td></tr>
-<tr><td>Formula 3</td><td>93 RON / <span id="en">pcs honeycomb nr 14</span><span id="ro">buc fagure de miere nr 14</span></td></tr>
-<tr><td>Formula 4</td><td>78 RON / <span id="en">pcs honeycomb nr 16</span><span id="ro">buc fagure de miere nr 16</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://okbaby.com/us/natural-sea-sponge.html" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBC04</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Baby shampoo Johnsons</span><span id="ro">Șampon pentru copii Johnsons</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">USA</span><span id="ro">SUA</span></td></tr>
-<tr><td>Formula 1</td><td>18 RON / 500ml</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.johnsonsbaby.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBC05</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Baby bath gel Johnsons</span><span id="ro">Gel de duș pentru copii Johnsons</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">USA</span><span id="ro">SUA</span></td></tr>
-<tr><td>Formula 1</td><td>18 RON / 395ml</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.johnsonsbaby.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBC06</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Baby care oil Johnsons</span><span id="ro">Ulei de corp pentru bebeluși Johnsons</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">USA</span><span id="ro">SUA</span></td></tr>
-<tr><td>Formula 1</td><td>18 RON / 300ml baby oil <span id="en">red</span><span id="ro">rosu</span></td></tr>
-<tr><td>Formula 2</td><td>18 RON / 300ml aloe vera <span id="en">green</span><span id="ro">verde</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.johnsonsbaby.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBC07</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Baby powder Borotalco</span><span id="ro">Pudră bebeluşi Borotalco</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="ro">UE</span></td></tr>
-<tr><td>Formula 1</td><td>13 RON / 100g</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.borotalco.com" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBC08</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Baby bottle Philips</span><span id="ro">Biberon Philips</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="ro">UE</span></td></tr>
-<tr><td>Formula 1</td><td>55 RON / 120ml Natural Response</td></tr>
-<tr><td>Formula 2</td><td>44.5 RON / 125ml Natural Response</td></tr>
-<tr><td>Formula 3</td><td>48.3 RON / 260ml Natural Response</td></tr>
-<tr><td>Formula 4</td><td>51 RON / 330ml Natural Response</td></tr>
-<tr><td>Formula 5</td><td>36.9 RON / 2x Natural Response Teat 0m <span id="en">0 months debit 1</span><span id="ro">0 luni debit 1</span></td></tr>
-<tr><td>Formula 6</td><td>36.9 RON / 2x Natural Response Teat 0m+ <span id="en">over 0 months debit 2</span><span id="ro">mai mare de 0 luni debit 2</span></td></tr>
-<tr><td>Formula 7</td><td>36.9 RON / 2x Natural Response Teat 1m+ <span id="en">over 1 months debit 3</span><span id="ro">mai mare de 1 luni debit 3</span></td></tr>
-<tr><td>Formula 8</td><td>41.5 RON / 2x Natural Response Teat 3m+ <span id="en">over 3 months debit 4</span><span id="ro">mai mare de 3 luni debit 4</span></td></tr>
-<tr><td>Formula 9</td><td>35.1 RON / 2x Natural Response Teat 6m <span id="en">over 6 months debit 5</span><span id="ro">mai mare de 6 luni debit 5</span></td></tr>
-<tr><td>Formula 10</td><td>37.3 RON / 2x Natural Response Teat 6m+ <span id="en">over 6 months debit 6</span><span id="ro">mai mare de 6 luni debit 6</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.philips.ro/c-e/shop/1000-de-zile.html" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBC09</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Baby pacifier Philips</span><span id="ro">Suzetă Philips</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">EU</span><span id="ro">UE</span></td></tr>
-<tr><td>Formula 1</td><td>43.9 RON / 2x Ultra air 0-6 <span id="en">months - different colors - without Bisphenol A</span><span id="ro">luni - fără Bisfenol A (BPA)</span></td></tr>
-<tr><td>Formula 2</td><td>38.4 RON / 2x Ultra air 6-18 <span id="en">months - different colors - without Bisphenol A</span><span id="ro">luni - fără Bisfenol A (BPA)</span></td></tr>
-<tr><td>Formula 3</td><td>48 RON / 2x Ultra air 18+ <span id="en">months - different colors - without Bisphenol A</span><span id="ro">luni - fără Bisfenol A (BPA)</span></td></tr>
-<tr><td>Formula 4</td><td>43.9 RON / 2x Ultra air 0-6+ <span id="en">months - different colors - without Bisphenol A - for night</span><span id="ro">luni - fără Bisfenol A (BPA) - pentru noapte</span></td></tr>
-<tr><td>Formula 5</td><td>47.4 RON / 2x Ultra air 6-18 <span id="en">months - different colors - without Bisphenol A - for night</span><span id="ro">luni - fără Bisfenol A (BPA) - pentru noapte</span></td></tr>
-<tr><td>Formula 6</td><td>43.9 RON / 2x Ultra soft 0-6 <span id="en">months - different colors - without Bisphenol A</span><span id="ro">luni - fără Bisfenol A (BPA)</span></td></tr>
-<tr><td>Formula 7</td><td>42 RON / 2x Ultra soft 6-18 <span id="en">months - different colors - without Bisphenol A</span><span id="ro">luni - fără Bisfenol A (BPA)</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.philips.ro/c-e/shop/1000-de-zile.html" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-</tbody>
-
-
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
-}
-});
-</script>
-
+<div class="personalcarebabycareslidediv" >
+<img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/444488162_378701218508266_5487227033463307240_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=mBfd8apm1N4Q7kNvgG-gHDg&_nc_ht=scontent.fotp3-4.fna&oh=00_AYBoRfWFFdBZzPwIfW2vRa8szxLMx7oSKbSgNW_4Unhvsg&oe=66611A70" alt="personal care baby care item1" /> 
+</div>
 
 
 
