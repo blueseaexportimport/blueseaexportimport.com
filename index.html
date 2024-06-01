@@ -1115,7 +1115,23 @@ $(document).ready(function () {
     }
    });
   // Grab ferroalloys on click end	
-
+	
+  // Grab personalcarebabycare on click start
+  $("#personalcarebabycarebtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#personalcarebabycare").hasClass("clickedpersonalcarebabycare")) {
+        // already been clicked once, hide it
+        $("#personalcarebabycare").html("");
+        $( "#personalcarebabycare" ).removeClass( "clickedpersonalcarebabycare" )
+    }else {
+        // first time this is clicked, mark it
+        $("#personalcarebabycare").addClass("clickedpersonalcarebabycare");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/personalcarebabycare.txt?" + rand, success: function(result){
+         $("#personalcarebabycare").html(result);
+        }});
+    }
+   });
+  // Grab personalcarebabycare on click end
 
 
 
@@ -1759,7 +1775,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>R. PERSONAL CARE AND HYGIENE (4)</b></span> <span id="ro"><b>R. IGIENĂ ȘI ÎNGRIJIRE PERSONALĂ (4)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>R. PERSONAL CARE AND HYGIENE (5)</b></span> <span id="ro"><b>R. IGIENĂ ȘI ÎNGRIJIRE PERSONALĂ (5)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="householditemsbtn" ><span id="en">Household Items</span><span id="ro">Articole Uz Caznic</span></h5>    
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Laundry cleaning Items</span><span id="ro">Articole curățat rufe</span></h5>  
@@ -1786,8 +1802,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>	
    <h5 class="categoryaccordion" id="personalcareteethhygienebtn" ><span id="en">Personal care - teeth hygiene</span><span id="ro">Îngrijire și igienă dinți</span></h5>    
    <div class="rowbin" >-</div> 	
-   <h5 class="categoryaccordion" id="personalcarebabycarebtn" ><span id="en">Personal care - baby care</span><span id="ro">Îngrijire copii</span></h5>    
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="personalcarebabycarebtn" ><span id="en">Personal care - baby care (1)</span><span id="ro">Îngrijire copii (1)</span></h5>    
+   <div id="personalcarebabycare" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 	
    <h5 class="categoryaccordion" id="adultandbabypersonalhygienebtn" ><span id="en">Adult and Baby Personal Hygiene</span><span id="ro">Produse De igienă copii și adulți</span></h5>       
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="cosmeticsmakeupitemsbtn" ><span id="en">Cosmetics - make up items</span><span id="ro">Produse cosmetice și make up</span></h5>        
