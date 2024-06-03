@@ -1,186 +1,85 @@
-<tbody>
+<style>
 
-   <tr><td>Romanian Tăiețeii </td><td>-</td><td>-</td></tr> 
-   <tr><td>Romanian Fidea with eggs </td><td>-</td><td>-</td></tr>
-   <tr><td>Noodles chinese style </td><td>-</td><td>-</td></tr> 
-   <tr><td>Barbine Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Bavette Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Bigoli Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Bucatini Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Busiate Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Capellini Pasta </td><td>-</td><td>-</td></tr>   
-   <tr><td>Ferrazzuoli Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Fettuccine Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Fileja Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Linguine Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Lagane Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Lasagna Pasta </td><td>-</td><td>-</td></tr>  
-   <tr><td>Lasagnette Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Lasagnotte Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Maccheroni / alla molinara Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Maccheroncini di Campofilone Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Mafalde Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Matriciani Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Pappardelle Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Perciatelli Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Picagge Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Pici Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Pillus Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Rustiche Pasta </td><td>-</td><td>-</td></tr>  
-   <tr><td>Sagne 'ncannulate Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Scialatelli Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Spaghetti Pasta with eggs </td><td>-</td><td>-</td></tr> 
-   <tr><td>Spaghetti alla chitarra Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Spaghettini Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Spaghettoni Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Stringozzi Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Su Filindeu Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Tagliatelle Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Tagliolini Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Trenette Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Tripoline Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Vermicelli Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Ziti Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Anelli Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Boccoli Pasta</td><td>-</td><td>-</td></tr>
-   <tr><td>Calamarata Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Campanelle / torchio Pasta</td><td>-</td><td>-</td></tr>  
-   <tr><td>Cappelli da chef Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Casarecce Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Cascatelli Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Castellane Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Cavatappi Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Cavatelli Pasta</td><td>-</td><td>-</td></tr>
-   <tr><td>Chifferi Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Cicioneddos Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Conchiglie Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Creste di galli Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Fagioloni Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Farfalle Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Fazzoletti Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Festoni Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Fiorentine Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Fiori Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Fusilli Pasta </td><td>>-</td><td>-</td></tr>
-   <tr><td>Fusilli bucati Pasta </td><td>-</td><td>-/ tone</td></tr>  
-   <tr><td>Garganelli Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Gemelli Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Gnocchi Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Gomiti Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Lanterne Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Lorighittas Pasta</td><td>-</td><td>-</td></tr>
-   <tr><td>Macaroni Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Maccheroncelli Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Mafaldine Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Maltagliati Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Malloreddus Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Mandala Pasta</td><td>-</td><td>-</td></tr>
-   <tr><td>Marille Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Mezzani Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Mezze maniche Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Mezze penne Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Mezzi bombardoni Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Nuvole Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Paccheri Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Passatelli Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Pasta al ceppo Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Penne Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Penne ricce Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Picchiarelli Pasta </td><td>-</td><td>-</td></tr>  
-   <tr><td>Pipe rigate Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Pizzoccheri Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Quadrefiore Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Radiatori Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Riccioli Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Ricciolini Pasta</td><td>-</td><td>-</td></tr>  
-   <tr><td>Ricciutelle Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Rigatoncini Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Rigatoni Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Rombi Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Rotelle Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Sagnette Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Sagnarelli Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Sedani Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Spirali Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Spiralini Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Strapponi Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Strozzapreti Pasta </td><td>-</td><td>-</td></tr>  
-   <tr><td>Testaroli Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Tortiglioni Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Treccioni Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Trenne Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Trofie Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Trottole Pasta</td><td>-</td><td>-</td></tr>       
-   <tr><td>Tuffoli Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Vesuvio Pasta</td><td>-</td><td>-</td></tr>        
-   <tr><td>Cencioni Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Corzetti Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Fainelle Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Foglie d'ulivo Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Orecchiette Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Acini di pepe Pasta</td><td>-</td><td>-</td></tr>       
-   <tr><td>Alphabet Pasta with eggs</td><td>-</td><td>-</td></tr>
-   <tr><td>Anchellini Pasta</td><td>-</td><td>-</td></tr>        
-   <tr><td>Anelli Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Anellini Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Armonie Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Conchigliette Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Coquillettes Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Coralli Pasta</td><td>-</td><td>-</td></tr>       
-   <tr><td>Corallini Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Cuscussu Pasta</td><td>-</td><td>-</td></tr>  
-   <tr><td>Ditali Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Egg barley Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Farfalline Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Fideos Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Filini Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Fregula Pasta</td><td>-</td><td>-</td></tr>       
-   <tr><td>Funghini Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Gianduietta Pasta</td><td>-</td><td>-</td></tr> 
-   <tr><td>Grano Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Gramigna Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Grattini Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Grattoni Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Margheritine Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Merletti Pasta</td><td>-</td><td>-</td></tr>       
-   <tr><td>Midolline Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Occhi di passero Pasta</td><td>-</td><td>-</td></tr> 
-   <tr><td>Occhi di pernice Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Orzo Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Pastina Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Piombi Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Ptitim Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Puntine Pasta</td><td>-</td><td>-</td></tr>       
-   <tr><td>Quadrettini Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Sorprese Pasta</td><td>-</td><td>-</td></tr> 
-   <tr><td>Stelle Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Stortini Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Tripolini Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Agnolini Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Agnolotti Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Caccavelle Pasta</td><td>-</td><td>-</td></tr>       
-   <tr><td>Cannelloni Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Cappelletti Pasta</td><td>-</td><td>-</td></tr>        
-   <tr><td>Caramelle Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Casoncelli Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Casunziei Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Conchiglioni Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Culurgiones Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Fagottini Pasta</td><td>-</td><td>-</td></tr>       
-   <tr><td>Lumache Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Mezzelune Pasta</td><td>-</td><td>-</td></tr>      
-   <tr><td>Occhi di lupo Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Pansotti Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Ravioli Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Rotolo ripieno Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Sacchettoni Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Tortelli Pasta</td><td>-</td><td>-</td></tr>       
-   <tr><td>Tortellini Pasta </td><td>-</td><td>-</td></tr>
-   <tr><td>Tortelloni Pasta</td><td>-</td><td>-</td></tr>     
-   <tr><td>Tufoli Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Canederli Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Donderet Pasta </td><td>-</td><td>-</td></tr> 
-   <tr><td>Gnocchi Pasta </td><td>-</td><td>-</td></tr>  
+.pastaandnoodlesslider{
+ width:100%;
+}
+.pastaandnoodlesslidernav{
+ text-align:center;
+ width:100%; 
+}
+.pastaandnoodlesslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
+
+.pastaandnoodlesslides img {
+  max-width: 100%;
+  height: auto;
+}
+
+.pastaandnoodlesslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.pastaandnoodlesslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.pastaandnoodlesslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+
+.pastaandnoodlesslidernav a:hover {background-color: gold;}
+.pastaandnoodlesslidernav a:active {background-color: gold;}
+.pastaandnoodlesslidernav a:focus {background-color: gold;}
 
 
-</tbody>
+</style>
+
+<div class="pastaandnoodlesslider">
+
+<div class="pastaandnoodlesslidernav" >
+  <a href="#pastaandnoodlesslide-1">1</a>
+  <a href="#pastaandnoodlesslide-2">2</a>
+  <a href="#pastaandnoodlesslide-3">3</a>
+  <a href="#pastaandnoodlesslide-4">4</a>
+  <a href="#pastaandnoodlesslide-5">5</a>
+</div>
+
+  <div class="fishslides">
+    <div class="fade" id="pastaandnoodlesslide-1">
+      <img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/438097445_355656007479454_998833048312552661_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=yGJfdWkQ3wkQ7kNvgGdvIrY&_nc_ht=scontent.fotp3-4.fna&oh=00_AYCNGXdKDq5nu0CAXqLLQqm7hrv-I7H8kaciprqo_N1irw&oe=665C2411" alt="fishitem1" /> 
+    </div>
+    <div class="fade" id="pastaandnoodlesslide-2">
+      <img src="https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-6/438848370_355937820784606_4021804820783894084_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=GRigpnu2b70Q7kNvgHffCfr&_nc_ht=scontent.fotp3-2.fna&oh=00_AYCD-XG_96ylzqb25yhRcUuJENHAsVDZMp0lECklSSg17g&oe=665C0917" alt="fishitem2" /> 
+    </div>
+    <div class="fade" id="pastaandnoodlesslide-3">
+      <img src="https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/437152244_356076837437371_6345282417112207596_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=s6pZRmjyfYkQ7kNvgFK4byz&_nc_ht=scontent.fotp3-3.fna&oh=00_AYBFKhkuurAzRHICynPRnyYxQBv9cUH7JNGhex4tALOsqw&oe=665C1111" alt="fishitem3" /> 
+    </div>
+    <div class="fade" id="pastaandnoodlesslide-4">
+      <img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/439881613_364393456605709_817455757089745312_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ozymZPbLBQMQ7kNvgE0OTKR&_nc_ht=scontent.fotp3-1.fna&oh=00_AYCYIQb8cwHfZkzOZNS45WEFzQqI-EETpg1Ej-pF-ZdfLA&oe=665C1CD4" alt="fishitem4" /> 
+    </div>
+    <div class="fade" id="pastaandnoodlesslide-5">
+      <img src="https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/438081796_364392826605772_1971689633635256839_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=0H1acNohbOQQ7kNvgGV5iQG&_nc_ht=scontent.fotp3-3.fna&oh=00_AYAuel8yq933SKIIs1wnDdNBbnIqXqKq_MWijDNEPqGDXQ&oe=665C1A95" alt="fishitem5" /> 
+    </div>
+
+
+  </div><!-- pastaandnoodlesSlides -->
+
+</div><!-- pastaandnoodlesSlider -->
