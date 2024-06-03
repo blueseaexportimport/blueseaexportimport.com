@@ -1,32 +1,7 @@
+<style>
+    .decorativerocksslidediv img{ width:100%; height:auto;}
+</style> 
 
-<tbody>
-
-
-
-</tbody>
-
-
-<!--
-       <tr><td>Marble Carrara</td><td>-</td><td>-</td></tr>
-       <tr><td>Marble</td><td>-</td><td>-</td></tr>
-       <tr><td>Travertine</td><td>-</td><td>-</td></tr>
-       <tr><td>Granite</td><td>-</td><td>-</td></tr>
-       <tr><td>Basalt</td><td>-</td><td>-</td></tr>
-       <tr><td>Tuff</td><td>-</td><td>-</td></tr>
-       <tr><td>Andesite</td><td>-</td><td>-</td></tr>
-       <tr><td>Slate</td><td>-</td><td>-</td></tr>
-       <tr><td>Sandstone</td><td>-</td><td>-</td></tr>
-       <tr><td>Limestone</td><td>-</td><td>-</td></tr>
-       <tr><td>Flagstone</td><td>-</td><td>-</td></tr>
-       <tr><td>Quartzite</td><td>-</td><td>-</td></tr>
-       <tr><td>Cobble stones</td><td>-</td><td>-</td></tr> 
-       <tr><td>Decorative River stones</td><td>10mm - 30mm </td><td>-</td></tr>
-       <tr><td>Decorative polished pebble - white </td><td>30mm - 50mm </td><td>-</td></tr>
-       <tr><td>Decorative polished pebble - red </td><td>20mm - 40mm </td><td>-</td></tr> 
-       <tr><td>Decorative polished pebble - white </td><td>20mm - 30mm </td><td>-</td></tr>
-       <tr><td>Decorative polished pebble - white </td><td>8mm - 12mm </td><td>-</td></tr>
-       <tr><td>Decorative pea gravel </td><td>30mm - 50mm </td><td>-</td></tr>
-       <tr><td>Decorative cracked pea gravel </td><td>20mm - 30mm </td><td>-</td></tr> 
-       <tr><td>Decorative marble stones </td><td>30mm - 50mm </td><td>-</td></tr>
-       <tr><td>Decorative basalt stones </td><td>20mm - 30mm </td><td>-</td></tr> 
--->
+<div class="decorativerocksslidediv" >
+<img src="https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-6/445003027_380153588363029_2787980359790142598_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ThsK0cppxqoQ7kNvgG1N-Pu&_nc_ht=scontent.fotp3-2.fna&oh=00_AYC9gxg1SGGKtJvc7ka4tz4yLGHtTjSY6KHxPu4PzvUUUQ&oe=666424B1" alt="decorativerocks item1" /> 
+</div>
