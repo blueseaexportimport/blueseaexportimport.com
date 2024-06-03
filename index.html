@@ -1133,7 +1133,22 @@ $(document).ready(function () {
    });
   // Grab personalcarebabycare on click end
 
-
+  // Grab pastaandnoodles on click start
+  $("#pastaandnoodlesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#pastaandnoodles").hasClass("clickedpastaandnoodles")) {
+        // already been clicked once, hide it
+        $("#pastaandnoodles").html("");
+        $( "#pastaandnoodles" ).removeClass( "clickedpastaandnoodles" )
+    }else {
+        // first time this is clicked, mark it
+        $("#pastaandnoodles").addClass("clickedpastaandnoodles");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/pastaandnoodles.txt?" + rand, success: function(result){
+         $("#pastaandnoodles").html(result);
+        }});
+    }
+   });
+  // Grab pastaandnoodles on click end
 
 
 	
@@ -2028,7 +2043,7 @@ $(document).ready(function () {
    </div>	 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (8)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (8)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (13)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (13)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Echipamente morărit</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Echipamente ambalat alimente</span></h5> 
@@ -2077,8 +2092,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion"><span id="en">Roasted Coffee, Instant Cacao, Hot Chocolate and Tea</span><span id="ro">Cafea prăjită, Cacao Instant, Ciocolată Caldă și Ceai</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Pasta and Noodles</span><span id="ro">Paste și Tăieței</span> </h5>   
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="pastaandnoodlesbtn" ><span id="en">Pasta and Noodles (5)</span><span id="ro">Paste și Tăieței (5)</span> </h5>   
+   <div id="pastaandnoodles" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion"><span id="en">Cereals</span><span id="ro">Cereale</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" id="cannedplantbasedfoodbtn" ><span id="en">Canned Plant Based Food and Pickles</span><span id="ro">Conserve Alimente de Origine Vegetală și Murături</span></h5>
