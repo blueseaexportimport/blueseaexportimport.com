@@ -1167,6 +1167,22 @@ $(document).ready(function () {
    });
   // Grab decorativerocks on click end
 
+  // Grab cryogenicequipment on click start
+  $("#cryogenicequipmentbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#cryogenicequipment").hasClass("clickedcryogenicequipment")) {
+        // already been clicked once, hide it
+        $("#cryogenicequipment").html("");
+        $( "#cryogenicequipment" ).removeClass( "clickedcryogenicequipment" )
+    }else {
+        // first time this is clicked, mark it
+        $("#cryogenicequipment").addClass("clickedcryogenicequipment");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/cryogenicequipment.txt?" + rand, success: function(result){
+         $("#cryogenicequipment").html(result);
+        }});
+    }
+   });
+  // Grab cryogenicequipment on click end
 	
 	
 	
@@ -1354,7 +1370,7 @@ $(document).ready(function () {
    </div>		   
    </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (5)</b></span><span id="ro"><b>G. ȘCOALĂ, HIGH-TECH, AEROSPAȚIAL ȘI CERCETARE (5)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (6)</b></span><span id="ro"><b>G. ȘCOALĂ, HIGH-TECH, AEROSPAȚIAL ȘI CERCETARE (6)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="didacticmaterialsbtn" ><span id="en">Didactic Materials</span><span id="ro">Materiale Didactice</span></h5>    
    <div class="rowbin" >-</div>     
   <h5 class="categoryaccordion" id="officeandschoolsuppliesbtn" ><span id="en">Office and school supplies (3)</span><span id="ro">Birotică și Papetărie (3)</span></h5>    
@@ -1366,8 +1382,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>   
   <h5 class="categoryaccordion" id="medicinepackagingequipmentbtn" ><span id="en">Medicine packaging equipment</span><span id="ro">Echipamente ambalat medicamente</span></h5> 
    <div class="rowbin" >-</div>     
-  <h5 class="categoryaccordion" id="cryogenicequipmentbtn" ><span id="en">Cryogenic equipment and cryogenic agents</span><span id="ro">Echipamente criogenice și agenți criogenici</span></h5>
-   <div class="rowbin" >-</div>     
+  <h5 class="categoryaccordion" id="cryogenicequipmentbtn" ><span id="en">Cryogenic equipment and cryogenic agents (1)</span><span id="ro">Echipamente criogenice și agenți criogenici (1)</span></h5>
+   <div id="cryogenicequipment" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 
   <h5 class="categoryaccordion" id="nanomaterialsbtn" ><span id="en">Nano Materials</span><span id="ro">Materiale nano</span></h5>    	
    <div class="rowbin" >-</div>     
   <h5 class="categoryaccordion" id="superconductorsfactorybtn" ><span id="en">Superconductors factory</span><span id="ro">Fabrică de superconductori</span></h5> 
