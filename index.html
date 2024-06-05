@@ -1201,6 +1201,24 @@ $(document).ready(function () {
    });
   // Grab fishing on click end
 
+  // Grab flour on click start
+  $("#flourbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#flour").hasClass("clickedflour")) {
+        // already been clicked once, hide it
+        $("#flour").html("");
+        $( "#flour" ).removeClass( "clickedflour" )
+    }else {
+        // first time this is clicked, mark it
+        $("#flour").addClass("clickedflour");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/flour.txt?" + rand, success: function(result){
+         $("#flour").html(result);
+        }});
+    }
+   });
+  // Grab flour on click end
+			    
+
 
 	
 	
@@ -2104,7 +2122,7 @@ $(document).ready(function () {
    </div>	 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (13)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (13)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (14)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (14)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Echipamente morărit</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Echipamente ambalat alimente</span></h5> 
@@ -2117,8 +2135,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion"><span id="en">Flavour Powder</span><span id="ro">Aromă Alimentară Pudră </span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" id="flourbtn" ><span id="en">Flour and Plant Based Powders</span><span id="ro">Făină, Mălai și Pudre din Plante</span></h5>  
-   <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="flourbtn" ><span id="en">Flour and Plant Based Powders (1)</span><span id="ro">Făină, Mălai și Pudre din Plante (1)</span></h5>  
+   <div id="flour" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion"><span id="en">Refined sugar</span><span id="ro">Zahăr rafinat</span></h5>    
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="cookingingrediantsbtn" ><span id="en">Cooking Ingrediants</span><span id="ro">Ingrediente pentru Gătit</span></h5>  
