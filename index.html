@@ -1183,6 +1183,25 @@ $(document).ready(function () {
     }
    });
   // Grab cryogenicequipment on click end
+
+  // Grab fishing on click start
+  $("#fishingbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#fishing").hasClass("clickedfishing")) {
+        // already been clicked once, hide it
+        $("#fishing").html("");
+        $( "#fishing" ).removeClass( "clickedfishing" )
+    }else {
+        // first time this is clicked, mark it
+        $("#fishing").addClass("clickedfishing");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/fishing.txt?" + rand, success: function(result){
+         $("#fishing").html(result);
+        }});
+    }
+   });
+  // Grab fishing on click end
+
+
 	
 	
 	
@@ -1873,7 +1892,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->  
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (8)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (8)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (9)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (9)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="concreteandsteelsilosbtn" ><span id="en">Concrete and steel silos</span><span id="ro">Silozuri beton și oțel</span></h5> 
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="agriculturalmachinerybtn" ><span id="en">Agricultural machinery</span><span id="ro">Utilaje agricultură</span></h5> 
@@ -1921,8 +1940,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>  	
   <h5 class="categoryaccordion" id="pestcontrolsolutionsbtn" ><span id="en">Pest control solutions </span><span id="ro">Soluții de combatere a dăunătorilor</span></h5>    
    <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" id="fishingbtn" ><span id="en">Fishing and aquaculture</span><span id="ro">Pescuit si acvacultură</span></h5>    
-   <div class="rowbin" >-</div>	
+  <h5 class="categoryaccordion" id="fishingbtn" ><span id="en">Fishing and aquaculture (1)</span><span id="ro">Pescuit si acvacultură (1)</span></h5>    
+   <div id="fishing" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   </div></li><!--END SECTION-->
 	   
   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>T. DOMESTIC ANIMALS FEED (2)</b></span><span id="ro"><b>T. HRANĂ ANIMALE DOMESTICE (2)</b></span></button><div class="catalogpanel">
