@@ -1,48 +1,7 @@
-<tbody>
+<style>
+    .juiceslidediv img{ width:100%; height:auto;}
+</style> 
 
-    <tr><td><span id="en">Carbonated Soft Drink Cola No Sugar</span><span id="ro">Băutură carbogazoasă Cola fără zahăr</span></td><td>-</td><td>-</td></tr>     
-    <tr><td><span id="en">Carbonated Soft Drink Cherry Cola No Sugar</span><span id="ro">Băutură carbogazoasă Cireșe - Cola fără zahăr</span></td><td>-</td><td>-</td></tr>     
-    <tr><td><span id="en">Carbonated Soft Drink Lemonade No Sugar</span><span id="ro">Băutură carbogazoasă Limonadă fără zahăr</span></td><td>-</td><td>-</td></tr>     
-    <tr><td><span id="en">Carbonated Soft Drink Tonic Water No Sugar</span><span id="ro">Băutură carbogazoasă Apă Tonică fără zahăr</span></td><td>-</td><td>-</td></tr>     
-    <tr><td><span id="en">Green Apple Juice</span><span id="ro">Suc Mere Verzi</span> </td><td>-</td><td>-</td></tr>     
-    <tr><td><span id="en">Peach Juice</span><span id="ro">Suc Piersici</span> </td><td>-</td><td>-</td></tr>     
-    <tr><td><span id="en">Tomatoes Juice</span><span id="ro">Suc Roșii</span> </td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Orange Juice</span><span id="ro">Suc Portocale</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Multi fruit Juice</span><span id="ro">Suc Mix Fructe</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Apple - Wild Cherries Combo</span><span id="ro">Suc Vișine Combo</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Apple - Raspberries Combo</span><span id="ro">Suc Zmeură Combo</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Sugar Cane Juice</span><span id="ro">Suc Trestie de zahăr</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Pear Juice</span><span id="ro">Suc Pere</span> </td><td>-</td><td>-</td></tr>     
-    <tr><td><span id="en">Carrot Juice</span><span id="ro">Suc Morcovi</span> </td><td>-</td><td>-</td></tr>     
-    <tr><td><span id="en">Cherry Juice</span><span id="ro">Suc Cireșe</span> </td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Apricot Juice</span><span id="ro">Suc Caise</span> </td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Plum Juice</span><span id="ro">Suc Prune</span> </td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Wild Cherry Juice</span><span id="ro">Suc Vișine</span> </td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Raspberry Juice</span><span id="ro">Suc Zmeură</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Blueberry Juice</span><span id="ro">Suc Afine</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Sea-buckthorn Juice</span><span id="ro">Suc Catină albă</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Aronia Juice</span><span id="ro">Suc Aronia</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Cranberry Juice</span><span id="ro">Suc Merișoare</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Blueberry Syrup</span><span id="ro">Sirop Afine</span> </td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Gooseberry Syrup</span><span id="ro">Sirop  Agrișe</span> </td><td>-</td><td>-</td></tr>        
-    <tr><td><span id="en">Raspberry Syrup</span><span id="ro">Sirop  Zmeură</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Plum Syrup</span><span id="ro">Sirop Prune</span> </td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Sea-buckthorn Syrup</span><span id="ro">Sirop Catină albă</span> </td><td>-</td><td>-</td></tr>        
-    <tr><td><span id="en">Rosehip Syrup</span><span id="ro">Sirop Măceșe</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Blackberry Syrup</span><span id="ro">Sirop Mure</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Birch syrup</span><span id="ro">Sirop Mesteacăn</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Cranberry Syrup</span><span id="ro">Sirop Merișoare</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Strawberry Syrup</span><span id="ro">Sirop Căpșuni</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Blackthorn Syrup</span><span id="ro">Sirop Porumbele</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Pine Buds Syrup</span><span id="ro">Sirop Muguri Pin</span> </td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Hawthorn Syrup</span><span id="ro">Sirop Păducele</span> </td><td>-</td><td>-</td></tr>        
-    <tr><td><span id="en">Rowan berry Syrup</span><span id="ro">Sirop Scoruș de Munte</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Aronia Syrup</span><span id="ro">Sirop Aronia</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Mint Syrup</span><span id="ro">Sirop Mentă</span> </td><td>-</td><td>-</td></tr>          
-    <tr><td><span id="en">Blackcurrant Syrup</span><span id="ro">Sirop Coacăze Negre</span> </td><td>-</td><td>-</td></tr>         
-    <tr><td><span id="en">Redcurrant Syrup</span><span id="ro">Sirop Coacăze Roșii</span> </td><td>-</td><td>-</td></tr>          
-    <tr><td><span id="en">Whitecurrant Syrup</span><span id="ro">Sirop Coacăze Albe</span> </td><td>-</td><td>-</td></tr>            
-    <tr><td><span id="en">Maple Syrup</span><span id="ro">Sirop de Arțar</span></td><td>-</td><td>-</td></tr>  
-
-
-</tbody>
+<div class="juiceslidediv" >
+<img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/448020495_382553044789750_2572657874574466536_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=0rLu7HQVQOgQ7kNvgEARNCr&_nc_ht=scontent.fotp3-4.fna&oh=00_AYARpA3yC04aUH4Gerelw4MDK7LBvUN6OkNDeHNPEU7w5A&oe=66693447" alt="juice item1" /> 
+</div>
