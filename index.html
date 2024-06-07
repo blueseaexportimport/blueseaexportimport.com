@@ -1218,7 +1218,22 @@ $(document).ready(function () {
    });
   // Grab flour on click end
 			    
-
+  // Grab juice on click start
+  $("#juicebtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#juice").hasClass("clickedjuice")) {
+        // already been clicked once, hide it
+        $("#juice").html("");
+        $( "#juice" ).removeClass( "clickedjuice" )
+    }else {
+        // first time this is clicked, mark it
+        $("#juice").addClass("clickedjuice");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/juice.txt?" + rand, success: function(result){
+         $("#juice").html(result);
+        }});
+    }
+   });
+  // Grab juice on click end
 
 	
 	
@@ -2122,7 +2137,7 @@ $(document).ready(function () {
    </div>	 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (14)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (14)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (15)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (15)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Echipamente morărit</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Echipamente ambalat alimente</span></h5> 
@@ -2164,8 +2179,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Bottled Water</span><span id="ro">Apă Îmbuteliată</span></h5>   
   <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" ><span id="en">Syrups / Juice</span><span id="ro">Siropuri și Sucuri</span></h5>    
-  <div class="rowbin" >-</div> 
+  <h5 class="categoryaccordion" id="juicebtn" ><span id="en">Syrups / Juice (1)</span><span id="ro">Siropuri și Sucuri (1)</span></h5>    
+   <div id="juice" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" ><span id="en">Compote and Jams</span><span id="ro">Gemuri și Compoturi</span></h5>
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Sauces</span><span id="ro">Sosuri</span></h5>
