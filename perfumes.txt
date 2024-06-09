@@ -1,30 +1,4 @@
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PEF004</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Lubin Paris</span><span id="ro">Lubin Paris</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en">France</span><span id="ro">Franța</span></td></tr>
-
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(EdP) Eau de Parfum - For Women and Men</span><span id="ro">(EdP) Eau de Parfum - Pentru Femei și Bărbați</span></td><td></td></tr>
-
-<tr><td>Formula 5</td><td>198 EUR / 100ml - Idole De Lubin - <a style="color:gold;" href="https://www.lubin.eu/en/produits-parfums/idole-de-lubin/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 6</td><td>198 EUR / 100ml - Akkad - <a style="color:gold;" href="https://www.lubin.eu/en/produits-parfums/akkad/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 7</td><td>198 EUR / 100ml - Korrigan - <a style="color:gold;" href="https://www.lubin.eu/en/produits-parfums/korrigan/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-
-
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(EdP) Eau de Parfum - Women</span><span id="ro">(EdP) Eau de Parfum - Femei</span></td><td></td></tr>
-<tr><td>Formula 1</td><td>95 EUR / 75ml - Inédite - <a style="color:gold;" href="https://www.lubin.eu/en/produits-parfums/inedite/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 2</td><td>135 EUR / 75ml - Jardin Rouge - <a style="color:gold;" href="https://www.lubin.eu/en/produits-parfums/jardin-rouge/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-
-<tr><td>Formula 3</td><td>170 EUR / 100ml - Black Jade - <a style="color:gold;" href="https://www.lubin.eu/en/produits-parfums/black-jade/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 4</td><td>170 EUR / 100ml - Grisette - <a style="color:gold;" href="https://www.lubin.eu/en/produits-parfums/grisette/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 5</td><td>170 EUR / 100ml - Upper Ten For Her - <a style="color:gold;" href="https://www.lubin.eu/en/produits-parfums/upper-ten-for-her/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 6</td><td>170 EUR / 100ml - Kismet - <a style="color:gold;" href="https://www.lubin.eu/en/produits-parfums/kismet/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 7</td><td>170 EUR / 100ml - Epidor - <a style="color:gold;" href="https://www.lubin.eu/en/produits-parfums/epidor/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 8</td><td>170 EUR / 100ml - Princesses De Malabar - <a style="color:gold;" href="https://www.lubin.eu/en/produits-parfums/princesses-de-malabar/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 9</td><td>170 EUR / 100ml - Nuit Longchamp - <a style="color:gold;" href="https://www.lubin.eu/en/produits-parfums/nuit-de-longchamp/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 10</td><td>190 EUR / 100ml - Eva - <a style="color:gold;" href="https://www.lubin.eu/en/produits-parfums/eva/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 11</td><td>190 EUR / 100ml - Anna - <a style="color:gold;" href="https://www.lubin.eu/en/produits-parfums/anna/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 12</td><td>190 EUR / 100ml - Magda - <a style="color:gold;" href="https://www.lubin.eu/en/produits-parfums/magda/" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-
 
 
 
