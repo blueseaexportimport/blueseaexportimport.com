@@ -1,106 +1,91 @@
- 
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(EdP) Eau de Parfum - Women</span><span id="ro">(EdP) Eau de Parfum - Femei</span></td><td></td></tr>
+<style>
+
+.perfumesslider{
+ width:100%;
+}
+.perfumesslidernav{
+ text-align:center;
+ width:100%; 
+}
+.perfumesslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
+
+.perfumesslides img {
+  max-width: 100%;
+  height: auto;
+}
+
+.perfumesslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.perfumesslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.perfumesslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+
+.perfumesslidernav a:hover {background-color: gold;}
+.perfumesslidernav a:active {background-color: gold;}
+.perfumesslidernav a:focus {background-color: gold;}
 
 
-<tr><td>Formula 7</td><td>140 EUR / 30ml - Tabac Blanc - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/tabac-blanc-2" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 8</td><td>140 EUR / 30ml - Lady Caron - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/lady-caron" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 9</td><td>140 EUR / 30ml - Infini - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/infini" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 10</td><td>140 EUR / 30ml - Rose Ivoire De Caron - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/rose-ivoire" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 11</td><td>140 EUR / 30ml - Tabac Noir - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/tabac-noir" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 12</td><td>140 EUR / 30ml - Rose Ébène De Caron - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/rose-ebene" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 13</td><td>140 EUR / 30ml - Narcisse Blanc - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/narcisse-blanc" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 14</td><td>140 EUR / 30ml - Poivre Impérial - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/poivre-imperial" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 15</td><td>140 EUR / 30ml - Santal Précieux - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/santal-precieux" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 16</td><td>140 EUR / 30ml - Vétiver Infini - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/vetiver-infini" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 17</td><td>140 EUR / 30ml - Tubéreuse Merveilleuse - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/tubereuse-merveilleuse" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 18</td><td>265 EUR / 100ml - Nocturnes - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/nocturnes" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 19</td><td>370 EUR / 2 x 50ml - Coffret Duo Poivres - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/coffret-duo-poivres" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 20</td><td>370 EUR / 2 x 50ml - Coffret Duo Tabacs - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/coffret-tabacs" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
+</style>
+
+<div class="perfumesslider">
+
+<div class="perfumesslidernav" >
+  <a href="#perfumesslide-1">1</a>
+  <a href="#perfumesslide-2">2</a>
+  <a href="#perfumesslide-3">3</a>
+  <a href="#perfumesslide-4">4</a>
+  <a href="#perfumesslide-5">5</a>
+  <a href="#perfumesslide-6">6</a>
+</div>
+
+  <div class="perfumesslides">
+    <div class="fade" id="perfumesslide-1">
+      <img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/438097445_355656007479454_998833048312552661_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=yGJfdWkQ3wkQ7kNvgGdvIrY&_nc_ht=scontent.fotp3-4.fna&oh=00_AYCNGXdKDq5nu0CAXqLLQqm7hrv-I7H8kaciprqo_N1irw&oe=665C2411" alt="perfumesitem1" /> 
+    </div>
+    <div class="fade" id="perfumesslide-2">
+      <img src="https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-6/438848370_355937820784606_4021804820783894084_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=GRigpnu2b70Q7kNvgHffCfr&_nc_ht=scontent.fotp3-2.fna&oh=00_AYCD-XG_96ylzqb25yhRcUuJENHAsVDZMp0lECklSSg17g&oe=665C0917" alt="perfumesitem2" /> 
+    </div>
+    <div class="fade" id="perfumesslide-3">
+      <img src="https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/437152244_356076837437371_6345282417112207596_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=s6pZRmjyfYkQ7kNvgFK4byz&_nc_ht=scontent.fotp3-3.fna&oh=00_AYBFKhkuurAzRHICynPRnyYxQBv9cUH7JNGhex4tALOsqw&oe=665C1111" alt="perfumesitem3" /> 
+    </div>
+    <div class="fade" id="perfumesslide-4">
+      <img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/439881613_364393456605709_817455757089745312_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ozymZPbLBQMQ7kNvgE0OTKR&_nc_ht=scontent.fotp3-1.fna&oh=00_AYCYIQb8cwHfZkzOZNS45WEFzQqI-EETpg1Ej-pF-ZdfLA&oe=665C1CD4" alt="perfumesitem4" /> 
+    </div>
+    <div class="fade" id="perfumesslide-5">
+      <img src="https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/438081796_364392826605772_1971689633635256839_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=0H1acNohbOQQ7kNvgGV5iQG&_nc_ht=scontent.fotp3-3.fna&oh=00_AYAuel8yq933SKIIs1wnDdNBbnIqXqKq_MWijDNEPqGDXQ&oe=665C1A95" alt="perfumesitem5" /> 
+    </div>
+    <div class="fade" id="perfumesslide-6">
+      <img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/438096928_364391833272538_8588220347415575149_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=t2Luo_8P8FEQ7kNvgHQjWxp&_nc_ht=scontent.fotp3-4.fna&oh=00_AYAGYb04gAjTqrpDT9k_TYulvy4FUrLymY7mmGptv0p1pw&oe=665C0D06" alt="perfumesitem6" /> 
+    </div>
 
 
 
 
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(EdT) Eau de Toilette - Women</span><span id="ro">(EdT) Eau de Toilette - Femei</span></td><td></td></tr>
+  </div><!-- perfumesSlides -->
 
-<tr><td>Formula 1</td><td>67 EUR / 125ml - Royal Bain de CARON - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/royal-bain" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 2</td><td>115 EUR / 30ml - Musc Oli - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/musc-oli" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 3</td><td>115 EUR / 30ml - Muguet du Bonheur - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/muguet-du-bonheur" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 4</td><td>115 EUR / 30ml - Rose Croquante - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/rose-croquante-1" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 5</td><td>115 EUR / 30ml - Eau de Rocaille - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/eau-de-rocaille" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(EdC) Eau de Cologne - Women</span><span id="ro">(EdC) Eau de Cologne - Femei</span></td><td></td></tr>
-
-<tr><td>Formula 1</td><td>85 EUR / 12ml - Musc Oli - Vaporisateur Voyage - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/musc-oli-vaporisateur-voyage" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 2</td><td>85 EUR / 12ml - Rose Croquante - Vaporisateur Voyage - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/rose-croquante-vaporisateur-voyage" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 3</td><td>95 EUR / 30ml - Ivre de Liberté - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/ivre-de-liberte-1" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 4</td><td>95 EUR / 30ml - L'Heure Vagabonde - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/lheure-vagabonde-1" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 5</td><td>95 EUR / 30ml - L'Invisible qui Luit - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/linvisible-qui-luit-1-2" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 6</td><td>95 EUR / 30ml - Champ Bleu du Ciel - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/champ-bleu-du-ciel-1" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 7</td><td>95 EUR / 30ml - L'Invitation au Voyage - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-femme/products/linvitation-au-voyage" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(P) Perfume - Men</span><span id="ro">(P) Parfum - Bărbați</span></td><td></td></tr>
-
-<tr><td>Formula 1</td><td>120 EUR / 75ml - Pour Un Homme de CARON Parfum - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/pour-un-homme-de-caron-parfum" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-
-
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(EdP) Eau de Parfum - Men</span><span id="ro">(EdP) Eau de Parfum - Bărbați</span></td><td></td></tr>
-
-<tr><td>Formula 1</td><td>39 EUR / 12ml - Pour Un Homme de CARON Le Soir - Vaporisateur Voyage - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/vaporisateur-12-ml-pour-un-homme-le-soir" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 2</td><td>97 EUR / 75ml - Pour Un Homme de CARON Le Soir - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/pour-un-homme-de-caron-le-soir" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 3</td><td>140 EUR / 30ml - Vétiver Infini - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/vetiver-infini" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 4</td><td>140 EUR / 30ml - Poivre Sacré - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/poivre-sacre" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 5</td><td>140 EUR / 30ml - Santal Précieux - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/santal-precieux" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 6</td><td>140 EUR / 30ml - Tabac Exquis - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/tabac-exquis" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 7</td><td>140 EUR / 30ml - Tabac Blanc - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/tabac-blanc-2" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-
-
-<tr><td>Formula 8</td><td>140 EUR / 30ml - Tabac Noir - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/tabac-noir" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 9</td><td>140 EUR / 30ml - Rose Ébène De Caron - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/rose-ebene" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 10</td><td>140 EUR / 30ml - Narcisse Blanc - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/narcisse-blanc" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 11</td><td>370 EUR / 2 x 50ml - Coffret Duo Tabacs - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/coffret-tabacs" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(EdT) Eau de Toilette - Men</span><span id="ro">(EdT) Eau de Toilette - Bărbați</span></td><td></td></tr>
-
-<tr><td>Formula 1</td><td>37 EUR / 12ml - Pour Un Homme de CARON - Vaporisateur Voyage - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/vaporisateur-de-voyage-pour-un-homme" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 2</td><td>37 EUR / 12ml - Aimez-Moi Comme Je Suis - Vaporisateur Voyage - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/vaporisateur-de-voyage-aimez-moi-comme-je-suis" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 3</td><td>85 EUR / 12ml - Musc Oli - Vaporisateur Voyage - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/musc-oli-vaporisateur-voyage" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 4</td><td>55 EUR / 3 x 15ml - Pour Un Homme de CARON - Vaporisateur De Voyage - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/vaporisateur-de-voyage-rechargeable-pour-un-homme" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 5</td><td>62 EUR / 50ml - Pour Un Homme de CARON - Edition Saint -Valentin - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/pour-un-homme-de-caron-edition-saint-valentin" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 6</td><td>67 EUR / 125ml - Royal Bain de CARON - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/royal-bain" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 7</td><td>87 EUR / 75ml - Pour Un Homme de CARON - Vaporisateur Voyage - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/pour-un-homme-vaporisateur" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 8</td><td>89 EUR / 75ml - Aimez-Moi Comme Je Suis - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/aimez-moi-comme-je-suis" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 9</td><td>115 EUR / 30ml - Musc Oli - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/musc-oli" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 10</td><td>115 EUR / 125ml - Yatagan - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/yatagan" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 11</td><td>115 EUR / 125ml - Le 3ème Homme de CARON - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/le-3eme-homme" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 12</td><td>115 EUR / 125ml - Yuzu Man - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/yuzu" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 13</td><td>118 EUR / 125ml - Pour Un Homme de CARON Le Matin - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/pour-un-homme-de-caron-le-matin" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 14</td><td>118 EUR / 125ml vaporisateur Pour Un Homme de CARON + gel douche 75 ml Pour un Homme de Caron + vaporisateur 5ml Pour Un Homme de CARON Le Matin +  vaporisateur 5ml Pour Un Homme de CARON Le Soir - Coffret Rituel - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/pour-un-homme-de-caron-coffret-rituel" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 15</td><td>120 EUR / 125ml - Aimez-Moi Comme Je Suis - Coffret Cadeau - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/aimez-moi-comme-je-suis-coffret-cadeau-edt-125-ml" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">(EdC) Eau de Cologne - Men</span><span id="ro">(EdC) Eau de Cologne - Bărbați</span></td><td></td></tr>
-
-<tr><td>Formula 1</td><td>95 EUR / 30ml - Champ Bleu du Ciel - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/champ-bleu-du-ciel-1" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 2</td><td>95 EUR / 30ml - L'Invisible qui Luit - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/linvisible-qui-luit-1-2" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 3</td><td>95 EUR / 30ml - L'Invisible qui Luit - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/linvitation-au-voyage" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-<tr><td>Formula 4</td><td>95 EUR / 30ml - Ivre de Liberté - <a style="color:gold;" href="https://www.parfumscaron.com/collections/parfums-homme/products/ivre-de-liberte-1" target="_blank" ><span id="en">Supplier</span><span id="ro">Furnizor</span></a></td></tr>
-
-
+</div><!-- perfumesSlider -->
