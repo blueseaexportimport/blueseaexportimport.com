@@ -1269,6 +1269,24 @@ $(document).ready(function () {
    });
   // Grab publicgarbagecollection on click end
 	
+  // Grab weavingproducts on click start
+  $("#weavingproductsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#weavingproducts").hasClass("clickedweavingproducts")) {
+        // already been clicked once, hide it
+        $("#weavingproducts").html("");
+        $( "#weavingproducts" ).removeClass( "clickedweavingproducts" )
+    }else {
+        // first time this is clicked, mark it
+        $("#weavingproducts").addClass("clickedweavingproducts");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/weavingproducts.txt?" + rand, success: function(result){
+         $("#weavingproducts").html(result);
+        }});
+    }
+   });
+  // Grab weavingproducts on click end
+
+
 	
 	
 });
@@ -1962,7 +1980,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->  
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS  (9)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (9)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS (10)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (10)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="concreteandsteelsilosbtn" ><span id="en">Concrete and steel silos</span><span id="ro">Silozuri beton și oțel</span></h5> 
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="agriculturalmachinerybtn" ><span id="en">Agricultural machinery</span><span id="ro">Utilaje agricultură</span></h5> 
@@ -1991,8 +2009,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" id="weavingproductsbtn" ><span id="en">Weaving and basketry products</span><span id="ro">Produse pentru împletit și coșuri</span></h5>   
-   <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="weavingproductsbtn" ><span id="en">Weaving and basketry products (1)</span><span id="ro">Produse pentru împletit și coșuri (1)</span></h5>   
+   <div id="weavingproducts" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="soilerosionpreventionplantsconifersbtn" ><span id="en">Soil erosion prevention plants - conifers</span><span id="ro">Puieți plante prevenție eroziune - conifere</span></h5>
    <div class="rowbin" >-</div> 	   
   <h5 class="categoryaccordion" id="soilerosionpreventionplantsdeciduousbtn" ><span id="en">Soil erosion prevention plants - deciduous</span><span id="ro">Puieți plante prevenție eroziune - foioase</span></h5> 
