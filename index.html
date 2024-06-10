@@ -1251,7 +1251,23 @@ $(document).ready(function () {
     }
    });
   // Grab perfumes on click end
-
+	
+  // Grab publicgarbagecollection on click start
+  $("#publicgarbagecollectionbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#publicgarbagecollection").hasClass("clickedpublicgarbagecollection")) {
+        // already been clicked once, hide it
+        $("#publicgarbagecollection").html("");
+        $( "#publicgarbagecollection" ).removeClass( "clickedpublicgarbagecollection" )
+    }else {
+        // first time this is clicked, mark it
+        $("#publicgarbagecollection").addClass("clickedpublicgarbagecollection");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/publicgarbagecollection.txt?" + rand, success: function(result){
+         $("#publicgarbagecollection").html(result);
+        }});
+    }
+   });
+  // Grab publicgarbagecollection on click end
 	
 	
 	
@@ -1392,9 +1408,12 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>     
    </div></li><!--END SECTION-->	    
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>D. GARBAGE AND RECYCLING (0)</b></span><span id="ro"><b>D. RECICLARE ȘI GUNOI (0)</b></span></button><div class="catalogpanel">
-  <h5 class="categoryaccordion" id="publicgarbagecollectionbtn" ><span id="en">Public garbage collection (8)</span><span id="ro">Salubritate (8)</span></h5>    
-   <div class="rowbin" >-</div>     	
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>D. GARBAGE AND RECYCLING (1)</b></span><span id="ro"><b>D. RECICLARE ȘI GUNOI (1)</b></span></button><div class="catalogpanel">
+  <h5 class="categoryaccordion" id="publicgarbagecollectionbtn" ><span id="en">Public garbage collection (1)</span><span id="ro">Salubritate (1)</span></h5>    
+   <div id="publicgarbagecollection" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>    	
   <h5 class="categoryaccordion" id="parksandgardensbtn" ><span id="en">Parks and gardens</span><span id="ro">Îngrijire parcuri și gradini publice</span></h5> 
    <div class="rowbin" >-</div>     
   <h5 class="categoryaccordion" id="recyclingcenterbtn" ><span id="en">Recycling center</span><span id="ro">Centru colectare și sortare deșeuri reciclabile</span></h5> 
