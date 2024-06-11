@@ -59,10 +59,10 @@
 
   <div class="fodderslides">
     <div class="fade" id="fodderslide-1">
-      <img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/438171284_373399985705056_8796533741233174144_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gkvFEKqVREQQ7kNvgE1RG84&_nc_ht=scontent.fotp3-1.fna&oh=00_AYCrEk5wnHVixiBruLR9XNz9U7-Ef023zBoDYNBXYophvQ&oe=665BFC50" alt="fodderitem1" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/fodder.jpg" alt="fodderitem1" /> 
     </div>
     <div class="fade" id="fodderslide-2">
-      <img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/444479558_373400209038367_5644224853478998461_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=BIuphpghFaQQ7kNvgHFec4G&_nc_ht=scontent.fotp3-1.fna&oh=00_AYBz9OFb_b9hBzRJT3huqU3axXr5K0mtLoi8Vd2QvFLOfw&oe=665C25EE" alt="fodderitem2" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/fodderb.jpg" alt="fodderitem2" /> 
     </div>
   </div><!-- fodderSlides -->
 
