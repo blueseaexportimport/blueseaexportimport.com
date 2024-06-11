@@ -3,5 +3,5 @@
 </style> 
 
 <div class="ferroalloysslidediv" >
-<img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/445799682_378416551870066_7426414957433419725_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=odE8dPbdwjoQ7kNvgFXXq2h&_nc_ht=scontent.fotp3-4.fna&oh=00_AYBc3NhB9JQHzbF7dY5iz42AB2A4-rXlVggfE5dkxZp-QA&oe=66604F4D" alt="ferro alloys item1" /> 
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/Ferroalloys.jpg" alt="ferro alloys item1" /> 
 </div>
