@@ -59,10 +59,10 @@
 
   <div class="medicinalplantsslides">
     <div class="fade" id="medicinalplantsslide-1">
-      <img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/438164588_362526290125759_5814278175710408535_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=D6ZfFTco_SoQ7kNvgFvlqpW&_nc_ht=scontent.fotp3-4.fna&oh=00_AYDRWCHIEufKCOtb5znTL6ZEeiHjqa4i-Y77JchJgosuaA&oe=665C04B7" alt="medicinalplantsitem1" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/medicinalplants.jpg" alt="medicinalplantsitem1" /> 
     </div>
     <div class="fade" id="medicinalplantsslide-2">
-      <img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/439887537_362602226784832_5491967517883189532_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RXiLNIUZLyQQ7kNvgEZnbPH&_nc_ht=scontent.fotp3-1.fna&oh=00_AYCpdymtqTAxcS4iyKKoYwDsvg73gs17ADbea-P9Iu5gKA&oe=665C13DF" alt="medicinalplantsitem2" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/medicinalplantsb.jpg" alt="medicinalplantsitem2" /> 
     </div>
   </div><!-- medicinalplantsSlides -->
 
