@@ -3,5 +3,5 @@
 </style> 
 
 <div class="fishingslidediv" >
-<img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/447728849_380803428298045_2187539482796110826_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=vNMVr2_BRXcQ7kNvgGnQBaw&_nc_ht=scontent.fotp3-4.fna&oh=00_AYAYazPk_BnsynCJwbrApNr_YRZUH6gciKC82bG39va3uQ&oe=6665924D" alt="fishing item1" /> 
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/fishing.jpg" alt="fishing item1" /> 
 </div>
