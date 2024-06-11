@@ -3,5 +3,5 @@
 </style> 
 
 <div class="juiceslidediv" >
-<img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/448020495_382553044789750_2572657874574466536_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=0rLu7HQVQOgQ7kNvgEARNCr&_nc_ht=scontent.fotp3-4.fna&oh=00_AYARpA3yC04aUH4Gerelw4MDK7LBvUN6OkNDeHNPEU7w5A&oe=66693447" alt="juice item1" /> 
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/juice.jpg" alt="juice item1" /> 
 </div>
