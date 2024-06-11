@@ -3,5 +3,5 @@
 </style> 
 
 <div class="flourslidediv" >
-<img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/447488549_381348478243540_6908753054210759292_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=2q71_ATWMbkQ7kNvgHuSgIi&_nc_ht=scontent.fotp3-1.fna&oh=00_AYDc5AcC-sJcpRA1y_L_o23_yZXnI3r04WYSG38Iy7O8Dw&oe=6666AC21" alt="flour item1" /> 
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/flour.jpg" alt="flour item1" /> 
 </div>
