@@ -3,5 +3,5 @@
 </style> 
 
 <div class="tablesaltslidediv" >
-<img src="https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-6/441499272_375242265520828_4897873049551854998_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=nUbFrrpscooQ7kNvgHQRatv&_nc_ht=scontent.fotp3-2.fna&oh=00_AYDqBTROhfs5MJlTrUjghe5C4YbNyG4bnoyxs0bg_xcP4A&oe=665C0200" alt="tablesalt item1" /> 
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/tablesalt.jpg" alt="tablesalt item1" /> 
 </div>
