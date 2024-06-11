@@ -3,5 +3,5 @@
 </style> 
 
 <div class="liquidfuelsslidediv" >
-<img src="https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/441528852_363815819996806_3218822487455490460_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=_fuvkwIjGd4Q7kNvgHaGPUK&_nc_ht=scontent.fotp3-3.fna&oh=00_AYCfhsRrmFB4mjc1VL5m9_EuGzpyRFGFkvnlcFYJi6yraQ&oe=665C067F" alt="liquidfuels item1" /> 
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/liquidfuels.jpg" alt="liquidfuels item1" /> 
 </div>
