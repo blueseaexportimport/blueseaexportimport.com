@@ -3,5 +3,5 @@
 </style> 
 
 <div class="cryogenicequipmentslidediv" >
-<img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/447220435_380603184984736_3660971923731450980_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=P2H_dzKiohAQ7kNvgEmsQxz&_nc_ht=scontent.fotp3-4.fna&oh=00_AYCw7eHn2TLLd_sfEvHlXGg3tF5apS0XZ-W7ZBe10fVmJw&oe=6664FC4E" alt="cryogenicequipment item1" /> 
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/cryogenicequipment.jpg" alt="cryogenicequipment item1" /> 
 </div>
