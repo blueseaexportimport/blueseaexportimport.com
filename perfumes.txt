@@ -65,22 +65,22 @@
 
   <div class="perfumesslides">
     <div class="fade" id="perfumesslide-1">
-      <img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/448088455_383148751396846_4834031339369806968_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dSVovrF5gMMQ7kNvgGRLr36&_nc_ht=scontent.fotp3-1.fna&oh=00_AYDxF-vMu0j5vlsn1K9KuRwpoWw0G4JsqwiLZJnTr4fNGA&oe=666BD824" alt="perfumesitem1" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/perfumes.jpg" alt="perfumesitem1" /> 
     </div>
     <div class="fade" id="perfumesslide-2">
-      <img src="https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-6/447296326_383148994730155_6415272642871615552_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=MXlnB9Vo8pIQ7kNvgGgvlBl&_nc_ht=scontent.fotp3-2.fna&oh=00_AYATKbN4EmQh1yFZCA9SOar8xtYZnlbPWJMZRDzw3bLfKw&oe=666BE2B0" alt="perfumesitem2" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/perfumesb.jpg" alt="perfumesitem2" /> 
     </div>
     <div class="fade" id="perfumesslide-3">
-      <img src="https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-6/447693634_383149211396800_712873910945997402_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XykaXxONuKAQ7kNvgFhPuzc&_nc_ht=scontent.fotp3-2.fna&oh=00_AYCGl5hJbkWxXh19bndhkcrXjuQFPHgHOVzx46sN5Pp8fw&oe=666BED79" alt="perfumesitem3" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/perfumesc.jpg" alt="perfumesitem3" /> 
     </div>
     <div class="fade" id="perfumesslide-4">
-      <img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/448161527_383485631363158_2690766623513161669_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=zINDQxX1TIMQ7kNvgEsslZh&_nc_ht=scontent.fotp3-4.fna&oh=00_AYDSY2v7KkReQlhAd-5O6sn81h7dnZ16eb6CxasQ_E7DLA&oe=666BF338" alt="perfumesitem4" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/perfumesd.jpg" alt="perfumesitem4" /> 
     </div>
     <div class="fade" id="perfumesslide-5">
-      <img src="https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/448137489_383742824670772_3137693959604416790_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=j1_PblELuUkQ7kNvgGLRrux&_nc_ht=scontent.fotp3-3.fna&oh=00_AYA0LdquzltIexDR3AX2UvF4FephNR2W2qqvs5xl_OcAtQ&oe=666BE71B" alt="perfumesitem5" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/perfumese.jpg" alt="perfumesitem5" /> 
     </div>
     <div class="fade" id="perfumesslide-6">
-      <img src="https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-6/448097158_383763924668662_5766159687743897110_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=_ag747yE6DEQ7kNvgGyhgGC&_nc_ht=scontent.fotp3-2.fna&oh=00_AYAp5c4GOfrkP-EPrKhaDz49M1TuBZqOjmR1cool5oT4pg&oe=666BE89C" alt="perfumesitem6" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/perfumesf.jpg" alt="perfumesitem6" /> 
     </div>
 
 
