@@ -3,5 +3,5 @@
 </style> 
 
 <div class="compressedgasfuelsslidediv" >
-<img src="https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-6/444469577_376559848722403_7089493463771450043_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=HIA9speDQNoQ7kNvgFH8hEY&_nc_ht=scontent.fotp3-2.fna&oh=00_AYDK_P1tKwEGU5T0vdeCXXL1TXt-wxu7BvR8moDj4WhiEw&oe=665C2D4A" alt="compressedgasfuels item1" /> 
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/gasfuels.jpg" alt="compressedgasfuels item1" /> 
 </div>
