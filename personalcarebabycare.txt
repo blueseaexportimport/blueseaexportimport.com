@@ -4,7 +4,7 @@
 </style> 
 
 <div class="personalcarebabycareslidediv" >
-<img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/444488162_378701218508266_5487227033463307240_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=mBfd8apm1N4Q7kNvgG-gHDg&_nc_ht=scontent.fotp3-4.fna&oh=00_AYBoRfWFFdBZzPwIfW2vRa8szxLMx7oSKbSgNW_4Unhvsg&oe=66611A70" alt="personal care baby care item1" /> 
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcarebabycare.jpg" alt="personal care baby care item1" /> 
 </div>
 
 
