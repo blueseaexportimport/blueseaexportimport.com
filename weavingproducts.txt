@@ -3,5 +3,5 @@
 </style> 
 
 <div class="weavingproductsslidediv" >
-<img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/448120266_384079597970428_4770945838481841981_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tNQWoclubXIQ7kNvgGbDHsn&_nc_ht=scontent.fotp3-4.fna&oh=00_AYDRDkLgjUR8p_nAq-joT5Iz4Bx5vUOfS87DZPQNPjmmCA&oe=666CB662" alt="weavingproducts item1" /> 
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/weavingproducts.jpg" alt="weavingproducts item1" /> 
 </div>
