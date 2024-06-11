@@ -3,5 +3,5 @@
 </style> 
 
 <div class="mirrorsslidediv" >
-<img src="https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/444952231_374790175566037_4686186195483098204_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XNSGfIp2fTsQ7kNvgGCRDtl&_nc_ht=scontent.fotp3-4.fna&oh=00_AYCWcJRc9AaZ3w5ZFRKgd_jBY4Afhny9UNO5D3ayBVqyIA&oe=665BFE1A" alt="mirrors item1" /> 
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/Mirrors.jpg" alt="mirrors item1" /> 
 </div>
