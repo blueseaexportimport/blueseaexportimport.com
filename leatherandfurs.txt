@@ -3,5 +3,5 @@
 </style> 
 
 <div class="leatherandfursslidediv" >
-<img src="https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-6/444935300_370363919341996_2192951481466697828_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tfDc8zEb3aoQ7kNvgGyLAEp&_nc_ht=scontent.fotp3-2.fna&oh=00_AYDo2qvd7_8Gw6U5YeuplutJ8TzK7kwEt9LXNtreW4yIoA&oe=665BF756" alt="leatherandfurs item1" /> 
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/lardandtallow.jpg" alt="leatherandfurs item1" /> 
 </div>
