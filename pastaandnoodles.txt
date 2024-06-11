@@ -64,19 +64,19 @@
 
   <div class="pastaandnoodlesslides">
     <div class="fade" id="pastaandnoodlesslide-1">
-      <img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/447302330_378931171818604_2097627687183308403_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=uCRkLogTVJYQ7kNvgGuUKfg&_nc_ht=scontent.fotp3-1.fna&oh=00_AYDzvBahTUbzkw2gToTPxivFBCqH1ENU3uuGVJYLD8Lisg&oe=6663D1D1" alt="fishitem1" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/pastaandnoodles.jpg" alt="fishitem1" /> 
     </div>
     <div class="fade" id="pastaandnoodlesslide-2">
-      <img src="https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-6/447282264_379354491776272_7240603115834067377_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=slikjMkkZC4Q7kNvgEVLYoD&_nc_ht=scontent.fotp3-2.fna&oh=00_AYBJjBkcl8muB3mGf-Wh1nU_qyXBVeY2UkvrpOZ9j7kGRg&oe=6663BDA2" alt="fishitem2" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/pastaandnoodlesb.jpg" alt="fishitem2" /> 
     </div>
     <div class="fade" id="pastaandnoodlesslide-3">
-      <img src="https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-6/447376696_379999941711727_226032138956573522_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QJoiubUN6PoQ7kNvgET0RRr&_nc_ht=scontent.fotp3-2.fna&oh=00_AYDCUdBhe246NWnAKBHcUVUNmTwbOOLDPCNGm4w5oWWWwg&oe=6663CCDD" alt="fishitem3" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/pastaandnoodlesc.jpg" alt="fishitem3" /> 
     </div>
     <div class="fade" id="pastaandnoodlesslide-4">
-      <img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/447475000_380000221711699_395842574544856500_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=xRSNBDBkBecQ7kNvgGIpfVb&_nc_ht=scontent.fotp3-1.fna&oh=00_AYDvuqXReXbtsclDYC3EeFjl13vX1QVkfJ6cUuei1CZpuw&oe=66639F6A" alt="fishitem4" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/pastaandnoodlesd.jpg" alt="fishitem4" /> 
     </div>
     <div class="fade" id="pastaandnoodlesslide-5">
-      <img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/447732192_380000461711675_5167414536843742763_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=xr7RjIBjMj4Q7kNvgFt6UXd&_nc_ht=scontent.fotp3-1.fna&oh=00_AYDuicQ3lhItnIcds7LoT94NuSt-EI-r0lCsxHyLnOl73g&oe=6663B916" alt="fishitem5" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/pastaandnoodlese.jpg" alt="fishitem5" /> 
     </div>
 
 
