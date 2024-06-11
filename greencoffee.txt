@@ -3,5 +3,5 @@
 </style> 
 
 <div class="greencoffeeslidediv" >
-<img src="https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-6/438118552_363736270004761_8660041620504679944_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=X9qWufpgGpsQ7kNvgEpE8D7&_nc_ht=scontent.fotp3-2.fna&oh=00_AYAS89GrwvkzhdUFNxl7ftggKWqVZVrhy3SlUHEiiPpZhg&oe=665C2BAB" alt="greencoffee item1" /> 
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/greencoffee.jpg" alt="greencoffee item1" /> 
 </div>
