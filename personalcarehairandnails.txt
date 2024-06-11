@@ -60,13 +60,13 @@
 
   <div class="personalcarehairandnailsslides">
     <div class="fade" id="personalcarehairandnailsslide-1">
-      <img src="https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/438078311_371062232605498_3883691158099553249_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=bx4bWM_jYDoQ7kNvgGGsIGf&_nc_ht=scontent.fotp3-3.fna&oh=00_AYBfXnLjjUWo-I-H89TwsFPjylxZi5MlurCYt0JaG5dnlQ&oe=665C0611" alt="personalcarehairandnailsitem1" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcarehairandnails.jpg" alt="personalcarehairandnailsitem1" /> 
     </div>
     <div class="fade" id="personalcarehairandnailsslide-2">
-      <img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/441547320_371656545879400_3593572942331075113_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ucR8M8wtkDkQ7kNvgHB4gHK&_nc_ht=scontent.fotp3-1.fna&oh=00_AYBaKF427foMJEMbGsWsY_ok_VMZmUJ0UPVTI32JeWrC4g&oe=665BFA46" alt="personalcarehairandnailsitem2" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcarehairandnailsb.jpg" alt="personalcarehairandnailsitem2" /> 
     </div>
     <div class="fade" id="personalcarehairandnailsslide-3">
-      <img src="https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-6/445029327_371714389206949_5021125820681230345_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=egllsmNjbTQQ7kNvgEYWoLE&_nc_ht=scontent.fotp3-2.fna&oh=00_AYB6irPFMC_5MLk1VgWPKVenJb_YXVTENEmHG9TzdM4LCA&oe=665C00F2" alt="personalcarehairandnailsitem3" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcarehairandnailsc.jpg" alt="personalcarehairandnailsitem3" /> 
     </div>
   </div><!-- personalcarehairandnailsSlides -->
 
