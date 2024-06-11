@@ -60,13 +60,13 @@
 
   <div class="cablingslides">
     <div class="fade" id="cablingslide-1">
-      <img src="https://scontent.fotp3-3.fna.fbcdn.net/v/t39.30808-6/443821045_375424398835948_413870862322895621_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=e1YtNxccp5EQ7kNvgEQE2CR&_nc_ht=scontent.fotp3-3.fna&oh=00_AYDcBPVpKJCHqDOBOo7lTGXK6TholxUjco2IgM4LssQdbg&oe=665C0F17" alt="cablingitem1" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/cabling.jpg" alt="cablingitem1" /> 
     </div>
     <div class="fade" id="cablingslide-2">
-      <img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/445192124_376055202106201_8027982387916426318_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3T0y0QYGHkcQ7kNvgELw6ZE&_nc_ht=scontent.fotp3-1.fna&oh=00_AYApc-nhl3AUntxhw5balTCwH7EAtCraL8APccI3VntPHg&oe=665C09B5" alt="cablingitem2" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/cablingb.jpg" alt="cablingitem2" /> 
     </div>
     <div class="fade" id="cablingslide-3">
-      <img src="https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-6/444165437_376055362106185_3765161985163647645_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=79rNpLXUTtMQ7kNvgFadX7N&_nc_ht=scontent.fotp3-2.fna&oh=00_AYC8Xik7AfsWHxq14jDOMv5M1V6Gg8duudafxgiosYwM7w&oe=665C076C" alt="cablingitem3" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/cablingc.jpg" alt="cablingitem3" /> 
     </div>
   </div><!-- cablingSlides -->
 
