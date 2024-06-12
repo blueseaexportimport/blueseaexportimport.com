@@ -1286,7 +1286,22 @@ $(document).ready(function () {
    });
   // Grab weavingproducts on click end
 
-
+  // Grab alloysfundamentalforms on click start
+  $("#alloysfundamentalformsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#alloysfundamentalforms").hasClass("clickedalloysfundamentalforms")) {
+        // already been clicked once, hide it
+        $("#alloysfundamentalforms").html("");
+        $( "#alloysfundamentalforms" ).removeClass( "clickedalloysfundamentalforms" )
+    }else {
+        // first time this is clicked, mark it
+        $("#alloysfundamentalforms").addClass("clickedalloysfundamentalforms");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/alloysfundamentalforms.txt?" + rand, success: function(result){
+         $("#alloysfundamentalforms").html(result);
+        }});
+    }
+   });
+  // Grab alloysfundamentalforms on click end
 	
 	
 });
@@ -1552,7 +1567,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	  
   </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (2)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (2)</b></span></button><div class="catalogpanel">    
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (3)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (3)</b></span></button><div class="catalogpanel">    
    <h5 class="categoryaccordion" id="mineraloresbtn" ><span id="en">Minerals - ores (1)</span><span id="ro">Minereuri (1)</span></h5>    	
    <div id="mineralores" class="categorypanel" >
    <!-- Load info start --> 
@@ -1565,8 +1580,11 @@ $(document).ready(function () {
    </div>	
    <h5 class="categoryaccordion" id="castironbtn" ><span id="en">Cast iron</span><span id="ro">Fonte</span></h5>    	
    <div class="rowbin" >-</div> 
-   <h5 class="categoryaccordion" id="alloysfundamentalformsbtn" ><span id="en">Alloys - fundamental forms</span><span id="ro">Aliaje - forme fundamentale</span></h5>    	
-   <div class="rowbin" >-</div> 
+   <h5 class="categoryaccordion" id="alloysfundamentalformsbtn" ><span id="en">Alloys - fundamental forms (1)</span><span id="ro">Aliaje - forme fundamentale (1)</span></h5>    	
+   <div id="alloysfundamentalforms" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 
    <h5 class="categoryaccordion" id="alloysprofilesbtn" ><span id="en">Alloys - profiles</span><span id="ro">Aliaje - profile</span></h5>    	
    <div class="rowbin" >-</div> 
    <h5 class="categoryaccordion" id="alloysbentprofilesbtn" ><span id="en">Alloys - bent profiles</span><span id="ro">Aliaje - profile îndoite</span></h5>    	
