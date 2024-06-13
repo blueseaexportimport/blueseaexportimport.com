@@ -1,87 +1,74 @@
-<tbody>
+<style>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TOH001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Toothpaste Sensodyne</span><span id="ro">Pastă de Dinți Sensodyne</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>16.5 RON / Sensodyne Sensitivity & Gum 75 ml </td></tr>
-<tr><td>Formula 2</td><td>18.3 RON / Sensodyne Fluoride 100 ml </td></tr>
-<tr><td>Formula 3</td><td>20.3 RON / Sensodyne Multi Care 75 ml </td></tr>
-<tr><td>Formula 4</td><td>21.5 RON / Sensodyne Extra Whitening 100 ml </td></tr>
-<tr><td>Formula 5</td><td>21.7 RON / Sensodyne Anti Carie 75 ml </td></tr>
-<tr><td>Formula 6</td><td>23.4 RON / Sensodyne Natural White 75 ml </td></tr>
-<tr><td>Formula 7</td><td>25.8 RON / Sensodyne Sensitivity & Gum Whitening 75ml</td></tr>
-<tr><td>Formula 8</td><td>41.1 RON / Sensodyne Advanced Clean 75 ml </td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.sensodyne.ro/produse.html" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+.personalcareteethhygieneslider{
+ width:100%;
+}
+.personalcareteethhygieneslidernav{
+ text-align:center;
+ width:100%; 
+}
+.personalcareteethhygieneslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TOH002</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Tooth brush Colgate</span><span id="ro">Periuță Dinți Colgate</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>4 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Basic Clean</td></tr>
-<tr><td>Formula 2</td><td>5 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Premier Clean Medium</td></tr>
-<tr><td>Formula 3</td><td>7 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Extra Clean Medium</td></tr>
-<tr><td>Formula 4</td><td>9.9 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Batman Kids 6+</td></tr>
-<tr><td>Formula 5</td><td>9.9 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Wonderwoman Kids 6+</td></tr>
-<tr><td>Formula 6</td><td>10.1 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Classic Deep Clean</td></tr>
-<tr><td>Formula 7</td><td>10.4 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Zig Zag Medium</td></tr>
-<tr><td>Formula 8</td><td>13.2 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate 360 Charcoal</td></tr>
-<tr><td>Formula 9</td><td>17 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Max White Soft</td></tr>
-<tr><td>Formula 10</td><td>19.6 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate 360 Medium </td></tr>
-<tr><td>Formula 11</td><td>24 RON / 2 x <span id="en" >pcs</span><span id="ro">buc</span> Colgate Max White Medium</td></tr>
-<tr><td>Formula 12</td><td>26.6 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Slim Soft Advanced Soft</td></tr>
-<tr><td>Formula 13</td><td>28.8 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate 360 Advanced White Soft</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.colgate.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+.personalcareteethhygieneslides img {
+  max-width: 100%;
+  height: auto;
+}
 
+.personalcareteethhygieneslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TOH003</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Mouthwash Colgate</span><span id="ro">Apă de gură Colgate</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>22.9 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Plax Cool Mint 500 ml</td></tr>
-<tr><td>Formula 2</td><td>22.9 RON / <span id="en" >pcs</span><span id="ro">buc</span> Colgate Max White Expert 500 ml</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.colgate.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+.personalcareteethhygieneslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.personalcareteethhygieneslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.personalcareteethhygieneslidernav a:hover {background-color: gold;}
+.personalcareteethhygieneslidernav a:active {background-color: gold;}
+.personalcareteethhygieneslidernav a:focus {background-color: gold;}
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TOH004</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Dental floss Oral-B</span><span id="ro">Ață Dentară Oral-B</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >UK</td></tr>
-<tr><td>Formula 1</td><td>11.1 RON / <span id="en" >pcs</span><span id="ro">buc</span> Oral-B Essential Floss 50 m</td></tr>
-<tr><td>Formula 2</td><td>12.7 RON / <span id="en" >pcs</span><span id="ro">buc</span> Oral-B Satin 25 m</td></tr>
-<tr><td>Formula 3</td><td>13.6 RON / <span id="en" >pcs</span><span id="ro">buc</span> Oral-B Super Floss 50 m</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.oralb.co.uk/en-gb" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+</style>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TOH005</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Glue for dental prosthesis Corega</span><span id="ro">Adeziv pentru prodeză dentară Corega</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>27.6 RON / Corega Ultra Fixare Neutro 40g </td></tr>
-<tr><td>Formula 2</td><td>27.6 RON / Corega Ultra Fixare Original 40g </td></tr>
-<tr><td>Formula 3</td><td>29 RON / Corega Max Fixare + Mentol 40g </td></tr>
-<tr><td>Formula 4</td><td>30.2 RON / Corega Max Fixare + Confort 40g </td></tr>
-<tr><td>Formula 5</td><td>32 RON / Corega Max Fixare + Sigilare 40g </td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://corega.com/ro-ro/produsele-noastre/crema-adeziva-proteza-dentara/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+<div class="personalcareteethhygieneslider">
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TOH006</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Effervescent tablets for removable dentures Corega</span><span id="ro">Tablete efervescente curatare proteze Corega</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>16.6 RON / 30 <span id="en" >tablets</span><span id="ro">tablete</span> Corega Bio Formula</td></tr>
-<tr><td>Formula 2</td><td>30.4 RON / 30 <span id="en" >tablets</span><span id="ro">tablete</span> Corega Max Clean  </td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://corega.com/ro-ro/produsele-noastre/crema-adeziva-proteza-dentara/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+<div class="personalcareteethhygieneslidernav" >
+  <a href="#personalcareteethhygieneslide-1">1</a>
+  <a href="#personalcareteethhygieneslide-2">2</a>
+  <a href="#personalcareteethhygieneslide-3">3</a>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TOH007</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Bamboo toothpicks Alabala Clasic</span><span id="ro">Scobitori bambus Alabala Clasic</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >China</td></tr>
-<tr><td>Formula 1</td><td>2.7 RON / 500 <span id="en" >pcs</span><span id="ro">buc</span> Alabala Clasic</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://gospodar.shop/scobitori-alabala-clasic-in-tub-plastic-500-bucati-set.html" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+</div>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TOH008</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Teeth whitening pencil Colgate</span><span id="ro">Creion albit dinți Colgate</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >EU</td></tr>
-<tr><td>Formula 1</td><td>72 RON / <span id="en" >pcs</span><span id="ro">buc</span> Max White Ultimate</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.colgate.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+  <div class="personalcareteethhygieneslides">
+    <div class="fade" id="personalcareteethhygieneslide-1">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/fodder.jpg" alt="personal care teeth hygiene item1" /> 
+    </div>
+    <div class="fade" id="personalcareteethhygieneslide-2">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/fodderb.jpg" alt="personal care teeth hygiene item2" /> 
+    </div>
+    <div class="fade" id="personalcareteethhygieneslide-3">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/fodderb.jpg" alt="personal care teeth hygiene item2" /> 
+    </div>
+  </div><!-- personalcareteethhygieneSlides -->
 
-</tbody>
+</div><!-- personalcareteethhygieneSlider -->
