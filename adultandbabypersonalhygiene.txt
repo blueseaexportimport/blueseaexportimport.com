@@ -1,161 +1,70 @@
-<tbody>
+<style>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Toilet paper Jumbo</span><span id="ro" >Hârtie igienică Jumbo</span></td></tr>
-<tr><td>Info:</td><td style="color:#39ff14;" ><span id="en">2 layers - 100m per roll - 12rolls</span><span id="ro">2 straturi - 100m per rola - 12role</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1:</td><td>37.8 RON / 12<span id="en" >rolls - natur color</span><span id="ro">role - culoare natur</span></td></tr>
-<tr><td>Formula 2:</td><td>46.2 RON / 12<span id="en" >rolls - deink color</span><span id="ro">role - culoare deink</span></td></tr>
-<tr><td>Formula 3:</td><td>51 RON / 12<span id="en" >rolls - white color</span><span id="ro">role - culoare alb</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://www.donis-romania.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0002</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Paper kitchen towel</span><span id="ro" >Prosop hârtie de bucătărie</span> Donis</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1:</td><td>4.3 RON / 1<span id="en" >rolls - 220sheets - 2 layers</span><span id="ro">role - 200foi - 2 straturi</span> Monorola Alint</td></tr>
-<tr><td>Formula 2:</td><td>8.1 RON / 1<span id="en" >rolls - 100m - 2 layers</span><span id="ro">role - 100m - 2 straturi</span> Monorola Donis</td></tr>
-<tr><td>Formula 3:</td><td>14.5 RON / 1<span id="en" >rolls - 180m - 2 layers</span><span id="ro">role - 180m - 2 straturi</span> Monorola Giga ( green )</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://www.donis-romania.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0003</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Paper sheet roll</span><span id="ro" >Rolă cearceaf de hârtie</span> Donis</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1:</td><td>12 RON / 6<span id="en" >pcs - 48cm - 50x50</span><span id="ro">buc - 48cm - 50x50</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://www.donis-romania.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0004</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Nasal tissue</span><span id="ro" >Batiste nazale</span> Puff</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1:</td><td>3.1 RON / <span id="en" >pcs - 10sheets - 3 layers</span><span id="ro">buc - 10foi - 3 straturi</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.montebianco.ro/s09c/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0005</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Paper table napkins</span><span id="ro" >Șervetele de masă</span> Fiore</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1:</td><td>0.8 RON / 1<span id="en" >pcs - 50sheets - 1 layer - 25cm</span><span id="ro">buc - 50foi - 1 strat - 25cm</span></td></tr>
-<tr><td>Formula 2:</td><td>1.6 RON / 1<span id="en" >pcs - 100sheets - 1 layer - 25cm</span><span id="ro">buc - 100foi - 1 strat - 25cm</span></td></tr>
-<tr><td>Formula 3:</td><td>2.1 RON / 1<span id="en" >pcs - 100sheets - 1 layer - 30cm</span><span id="ro">buc - 100foi - 1 strat - 30cm</span></td></tr>
-<tr><td>Formula 4:</td><td>2.6 RON / 1<span id="en" >pcs - 100sheets - 1 layer - 33cm</span><span id="ro">buc - 100foi - 1 strat - 33cm</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.montebianco.ro/h03c/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0006</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Absorbent baby blanket</span><span id="ro" >Păturele absorbante bebeluși</span> Synek</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1:</td><td>8.5 RON / 10<span id="en" >pcs 60 x 60cm</span><span id="ro">buc 60 x 60cm</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://synekmedical.com/products/absorbent-pads-adults-and-kids/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0007</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Baby moist napkins</span><span id="ro" >Șervetele umede copii</span> Klintensiv</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1:</td><td>6.6 RON / <span id="en" >pcs - 40sheets</span><span id="ro">buc - 40foi</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://klintensiv.ro/produs/klintensiv-servetele-umede-baby-cu-apa-micelara-argan-si-aloe-100-biodegradabile-40-buc/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0008</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Baby diapers</span><span id="ro" >Scutece copii</span> Huggies</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="ro" >EU</span><span id="ro" >UE</span></td></tr>
-
-<tr><td>Formula 1:</td><td>24 RON / 25<span id="en" >pcs</span><span id="ro">buc</span> Huggies Extra Care 0, Convi, 3,5 kg</td></tr>
-<tr><td>Formula 2:</td><td>57 RON / 50<span id="en" >pcs</span><span id="ro">buc</span> Huggies Extra Care 1 Jumbo, 2-5 kg</td></tr>
-<tr><td>Formula 3:</td><td>68 RON / 58<span id="en" >pcs</span><span id="ro">buc</span> Huggies Extra Care 2, Jumbo, 3-6 kg</td></tr>
-<tr><td>Formula 4:</td><td>55 RON / 40<span id="en" >pcs</span><span id="ro">buc</span> Huggies Extra Care 3 Jumbo, 6-10 kg</td></tr>
-<tr><td>Formula 5:</td><td>55 RON / 33<span id="en" >pcs</span><span id="ro">buc</span> Huggies Extra Care 4 Jumbo, 8-16 kg</td></tr>
-<tr><td>Formula 6:</td><td>55 RON / 28<span id="en" >pcs</span><span id="ro">buc</span> Huggies Extra Care Jumbo nr 5, 11-25 kg</td></tr>
-
-<tr><td>Formula 7:</td><td>140 RON / 132<span id="en" >pcs</span><span id="ro">buc</span> Huggies Ultra Comfort Mega UNISEX 4, 7-18 kg</td></tr>
-<tr><td>Formula 8:</td><td>140 RON / 116<span id="en" >pcs</span><span id="ro">buc</span> Huggies Ultra Comfort Mega UNISEX 5, 11-25 kg</td></tr>
-
-<tr><td>Formula 9:</td><td>90 RON / 58<span id="en" >pcs</span><span id="ro">buc</span> Huggies Natural Pants 3, 6-10 kg</td></tr>
-<tr><td>Formula 10:</td><td>90 RON / 44<span id="en" >pcs</span><span id="ro">buc</span> Huggies Natural Pants 4, 9-14 kg</td></tr>
-<tr><td>Formula 11:</td><td>90 RON / 38<span id="en" >pcs</span><span id="ro">buc</span> Huggies Natural Pants 5, 12-17 kg</td></tr>
-<tr><td>Formula 12:</td><td>90 RON / 26<span id="en" >pcs</span><span id="ro">buc</span> Huggies Natural Pants 6, 15+ kg</td></tr>
-
-<tr><td>Formula 13:</td><td>135 RON / 92<span id="en" >pcs</span><span id="ro">buc</span> Huggies Elite Soft Pants Overnight 3, 6-11 kg</td></tr>
-<tr><td>Formula 14:</td><td>135 RON / 76<span id="en" >pcs</span><span id="ro">buc</span> Huggies Elite Soft Pants Overnight 4, 9-14 kg</td></tr>
-<tr><td>Formula 15:</td><td>135 RON / 68<span id="en" >pcs</span><span id="ro">buc</span> Huggies Elite Soft Pants Overnight 5, 12-17 kg</td></tr>
-<tr><td>Formula 16:</td><td>135 RON / 64<span id="en" >pcs</span><span id="ro">buc</span> Huggies Elite Soft Pants Overnight 6, 15-25 kg</td></tr>
-
-<tr><td>Formula 17:</td><td>107 RON / 116<span id="en" >pcs</span><span id="ro">buc</span> Huggies Pants Boy 3, 6-11 kg</td></tr>
-<tr><td>Formula 18:</td><td>177 RON / 116<span id="en" >pcs</span><span id="ro">buc</span> Huggies Pants Boy 4, 9-14 kg</td></tr>
-<tr><td>Formula 19:</td><td>177 RON / 104<span id="en" >pcs</span><span id="ro">buc</span> Huggies Pants Boy 5, 12-17 kg</td></tr>
-<tr><td>Formula 20:</td><td>188 RON / 96<span id="en" >pcs</span><span id="ro">buc</span> Huggies Pants Boy 6, 15-25 kg</td></tr>
-
-<tr><td>Formula 21:</td><td>107 RON / 116<span id="en" >pcs</span><span id="ro">buc</span> Huggies Pants Girl 3, 6-11 kg</td></tr>
-<tr><td>Formula 22:</td><td>188 RON / 104<span id="en" >pcs</span><span id="ro">buc</span> Huggies Pants Girl 4, 9-14 kg</td></tr>
-<tr><td>Formula 23:</td><td>188 RON / 104<span id="en" >pcs</span><span id="ro">buc</span> Huggies Pants Girl 5, 12-17 kg</td></tr>
-<tr><td>Formula 24:</td><td>188 RON / 96<span id="en" >pcs</span><span id="ro">buc</span> Huggies Pants Girl nr 6, 15-25 kg</td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.huggies.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0009</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Moist toilet tissue</span><span id="ro" >Șervetele umede</span> Klintensiv</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1:</td><td>6.9 RON / <span id="en" >pcs - 40sheets</span><span id="ro">buc - 40foi</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://klintensiv.ro/produs/klintensiv-hartie-igienica-umeda-40-buc/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0010</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Women menstrual daily liners pads</span><span id="ro" >Tampoane absorbante menstruale femei</span> Bella Tampo</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro" >UE</span></td></tr>
-<tr><td>Formula 1:</td><td>8.4 RON / <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://bella.ro/ro_RO/productsType/tampoane" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0011</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Women menstrual pads</span><span id="ro" >Absorbante menstruale femei</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro" >UE</span></td></tr>
-<tr><td>Formula 1:</td><td>6 RON / 20<span id="en" >pcs</span><span id="ro">buc</span> Bella Panty Ideale Large</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://bella.ro/ro_RO/product/bella-ideale-panty-large" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0012</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Intimate tissue for women</span><span id="ro" >Şervete intime pentru femei </span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1:</td><td>8.9 RON / <span id="en" >pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://klintensiv.ro/produs/klintensiv-servetele-umede-pentru-incontinenta-65-buc/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product No.</span><span id="ro">Nr. produs</span></td><td style="color:black;">TP0013</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Adult diapers</span><span id="ro" >Scutece pentru adulți</span> Elan</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Turkey</span><span id="ro" >Turcia</span></td></tr>
-<tr><td>Formula 1:</td><td>61 RON / 30<span id="en" >pcs waist size 85-115cm M</span><span id="ro">buc mărime talie 85-110cm M</span></td></tr>
-<tr><td>Formula 2:</td><td>70 RON / 30<span id="en" >pcs waist size 110-150cm L</span><span id="ro">buc mărime talie 110-150cm L</span></td></tr>
-<tr><td>Formula 3:</td><td>83 RON / 30<span id="en" >pcs waist size 120-170cm XL</span><span id="ro">buc mărime talie 120-170cm XL</span></td></tr>
-<tr><td>Formula 4:</td><td>119 RON / 60<span id="en" >pcs waist size 85-115cm M</span><span id="ro">buc mărime talie 85-110cm M</span></td></tr>
-<tr><td>Formula 5:</td><td>139 RON / 60<span id="en" >pcs waist size 110-150cm L</span><span id="ro">buc mărime talie 110-150cm L</span></td></tr>
-<tr><td>Formula 6:</td><td>163 RON / 60<span id="en" >pcs waist size 120-170cm XL</span><span id="ro">buc mărime talie 120-170cm XL</span></td></tr>
-<tr><td>Formula 7:</td><td>180 RON / 90<span id="en" >pcs waist size 85-115cm M</span><span id="ro">buc mărime talie 85-110cm M</span></td></tr>
-<tr><td>Formula 8:</td><td>207 RON / 90<span id="en" >pcs waist size 110-150cm L</span><span id="ro">buc mărime talie 110-150cm L</span></td></tr>
-<tr><td>Formula 9:</td><td>242 RON / 90<span id="en" >pcs waist size 120-170cm XL</span><span id="ro">buc mărime talie 120-170cm XL</span></td></tr>
-<tr><td>Formula 10:</td><td>239 RON / 120<span id="en" >pcs waist size 85-115cm M</span><span id="ro">buc mărime talie 85-110cm M</span></td></tr>
-<tr><td>Formula 11:</td><td>279 RON / 120<span id="en" >pcs waist size 110-150cm L</span><span id="ro">buc mărime talie 110-150cm L</span></td></tr>
-<tr><td>Formula 12:</td><td>326 RON / 120<span id="en" >pcs waist size 120-170cm XL</span><span id="ro">buc mărime talie 120-170cm XL</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.aleze.ro/scutece-normale" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-
-
-</tbody>
-
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
+.adultandbabypersonalhygieneslider{
+ width:100%;
 }
-});
-</script>
+.adultandbabypersonalhygieneslidernav{
+ text-align:center;
+ width:100%; 
+}
+.adultandbabypersonalhygieneslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
+
+.adultandbabypersonalhygieneslides img {
+  max-width: 100%;
+  height: auto;
+}
+
+.adultandbabypersonalhygieneslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.adultandbabypersonalhygieneslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.adultandbabypersonalhygieneslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.adultandbabypersonalhygieneslidernav a:hover {background-color: gold;}
+.adultandbabypersonalhygieneslidernav a:active {background-color: gold;}
+.adultandbabypersonalhygieneslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="adultandbabypersonalhygieneslider">
+
+<div class="adultandbabypersonalhygieneslidernav" >
+  <a href="#adultandbabypersonalhygieneslide-1">1</a>
+  <a href="#adultandbabypersonalhygieneslide-2">2</a>
+
+</div>
+
+  <div class="adultandbabypersonalhygieneslides">
+    <div class="fade" id="adultandbabypersonalhygieneslide-1">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcareteethhygiene.jpg" alt="adult and baby personal hygiene item1" /> 
+    </div>
+    <div class="fade" id="adultandbabypersonalhygieneslide-2">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcareteethhygieneb.jpg" alt="adult and baby personal hygiene item2" /> 
+    </div>
+  </div><!-- adultandbabypersonalhygieneSlides -->
+
+</div><!-- adultandbabypersonalhygieneSlider -->
