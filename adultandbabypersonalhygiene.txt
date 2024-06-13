@@ -60,10 +60,10 @@
 
   <div class="adultandbabypersonalhygieneslides">
     <div class="fade" id="adultandbabypersonalhygieneslide-1">
-      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcareteethhygiene.jpg" alt="adult and baby personal hygiene item1" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/adultandbabypersonalhygiene.jpg" alt="adult and baby personal hygiene item1" /> 
     </div>
     <div class="fade" id="adultandbabypersonalhygieneslide-2">
-      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcareteethhygieneb.jpg" alt="adult and baby personal hygiene item2" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/adultandbabypersonalhygieneb.jpg" alt="adult and baby personal hygiene item2" /> 
     </div>
   </div><!-- adultandbabypersonalhygieneSlides -->
 
