@@ -61,13 +61,13 @@
 
   <div class="personalcareteethhygieneslides">
     <div class="fade" id="personalcareteethhygieneslide-1">
-      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/fodder.jpg" alt="personal care teeth hygiene item1" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcareteethhygiene.jpg" alt="personal care teeth hygiene item1" /> 
     </div>
     <div class="fade" id="personalcareteethhygieneslide-2">
-      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/fodderb.jpg" alt="personal care teeth hygiene item2" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcareteethhygieneb.jpg" alt="personal care teeth hygiene item2" /> 
     </div>
     <div class="fade" id="personalcareteethhygieneslide-3">
-      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/fodderb.jpg" alt="personal care teeth hygiene item2" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcareteethhygienec.jpg" alt="personal care teeth hygiene item2" /> 
     </div>
   </div><!-- personalcareteethhygieneSlides -->
 
