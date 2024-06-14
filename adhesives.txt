@@ -1,39 +1,7 @@
+<style>
+    .adhesivesslidediv img{ width:100%; height:auto;}
+</style> 
 
- <tr><td><span id="en">Wood glue 0.35L</span><span id="ro">Adeziv tip aracet pentru lemn 0.35L</span></td>
- <tr><td><span id="en">Construction adhesive 0.7L</span><span id="ro">Adeziv tip aracet pentru construcții 0.7L</span></td>
- <tr><td><span id="en">Putty for wood and construction 0.8L</span><span id="ro">Chit de cuțit pentru lemn și zidărie 0.8L</span></td>
-       <tr><td><span id="en">Bone glue</span><span id="ro">Clei de oase</span></td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">Solvent-free liquid adhesive</span><span id="ro">Adeziv lichid fară solvent</span></td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">Industrial adhesive</span><span id="ro">Adeziv industrial non-alimentar</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Industrial adhesive</span><span id="ro">Adeziv industrial uz industria alimentară</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Adhesive for plastic</span><span id="ro">Adeziv pentru plastic</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Solvent-free glue for beads</span><span id="ro">Adeziv fară solvent pentru mărgele</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Waterproof glue for stone</span><span id="ro">Adeziv impermeabil apă pentru piatră</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Waterproof glue for ceramics</span><span id="ro">Adeziv impermeabil apă pentru ceramică</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Anti-acid tile adhesive</span><span id="ro">Adeziv antiacid pentru plăci ceramice</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Waterproof glue for glass</span><span id="ro">Adeziv impermeabil apă pentru sticlă</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Adhesive Primer</span><span id="ro">Primer adeziv</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Textile adhesive</span><span id="ro">Adeziv textile</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Carpet adhesive</span><span id="ro">Adeziv mochete</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Linoleum glue</span><span id="ro">Adeziv linoleum</span></td><td>-</td><td>-</td></tr>	   
-       <tr><td><span id="en">Shoe glue</span><span id="ro">Adeziv încălțăminte</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Leather glue</span><span id="ro">Adeziv piele</span></td><td>-</td><td>-</td></tr>      
-       <tr><td><span id="en">Epoxy adhesive</span><span id="ro">Adeziv epoxidic</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Bicomponent glue</span><span id="ro">Adeziv 2 componente</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Superglue</span><span id="ro">Adeziv superglue</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Starch glue</span><span id="ro">Lipici</span></td><td>-</td><td>-</td></tr>      
-       <tr><td><span id="en">Blocking sealant glue</span><span id="ro">Adeziv blocare/etanșare țevi</span> </td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Steel repair putty</span><span id="ro">Adetiv umplere oțel ( repară oțel )</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Aluminium repair putty</span><span id="ro">Chit umplere aluminiu</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Weldable sealing mastic</span><span id="ro">Mastic etanșant sudabil</span></td><td>-</td><td>-</td></tr>      
-       <tr><td><span id="en">Butyl sealant</span><span id="ro">Mastic etanșant pe bază de cauciuc butilic</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Windshield adhesive</span><span id="ro">Adeziv parbriz</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Windshield adhesive primer</span><span id="ro">Primer adeziv parbriz</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Ceramic fiberboard glue</span><span id="ro">Adeziv lipire fibre ceramice</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Silicone / hotmelt bars</span><span id="ro">Batoane silicon</span></td><td>-</td><td>-</td></tr>      
-       <tr><td><span id="en">Polyurethane / polystyrene adhesive</span><span id="ro">Adeziv poliuretanic pentru polistiren </span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Rubber Roof Adhesive</span><span id="ro">Adeziv etanșant cauciuc acoperiș</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Parquet adhesive</span><span id="ro">Adeziv pentru parchet</span></td><td>-</td><td>-</td></tr>        
-       <tr><td><span id="en">Wallpaper Paste</span><span id="ro">Pastă lipit tapet</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Mineral wool adhesive</span><span id="ro">Adeziv vată minerală</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Acrylic sealant adhesive</span><span id="ro">Adeziv etanșant acrilic</span></td><td>-</td><td>-</td></tr>
+<div class="adhesivesslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/adhesives.jpg" alt="adhesives item1" /> 
+</div>
