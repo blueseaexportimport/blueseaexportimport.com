@@ -1337,6 +1337,25 @@ $(document).ready(function () {
    });
   // Grab adultandbabypersonalhygiene on click end
 	    
+  // Grab adhesives on click start
+  $("#adhesivesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#adhesives").hasClass("clickedadhesives")) {
+        // already been clicked once, hide it
+        $("#adhesives").html("");
+        $( "#adhesives" ).removeClass( "clickedadhesives" )
+    }else {
+        // first time this is clicked, mark it
+        $("#adhesives").addClass("clickedadhesives");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/adhesives.txt?" + rand, success: function(result){
+         $("#adhesives").html(result);
+        }});
+    }
+   });
+  // Grab adhesives on click end
+
+
+
 	
 });
 </script>
@@ -1654,7 +1673,7 @@ $(document).ready(function () {
       	   
    </div></li><!--END SECTION-->
 	   
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>J. CHEMICALS (0)</b></span> <span id="ro"><b>J. CHIMICALE (0)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>J. CHEMICALS (1)</b></span> <span id="ro"><b>J. CHIMICALE (1)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="chemicalplantbtn" ><span id="en">Chemicals plant</span><span id="ro">Uzină chimică</span></h5>    	
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="inorganiccompundselementsbtn"  ><span id="en">Inorganic compounds - Chemical elements</span><span id="ro">Compuși anorganici - Elemente chimice</span></h5>    	
@@ -1673,7 +1692,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Lubricants</span><span id="ro">Uleiuri și unsori</span></h5>    
    <div class="rowbin" >-</div> 	
-   <h5 class="categoryaccordion" ><span id="en">Adhesives</span><span id="ro">Adezivi</span></h5>    
+   <h5 class="categoryaccordion" ><span id="en">Adhesives (1)</span><span id="ro">Adezivi (1)</span></h5>    
    <div class="rowbin" >-</div> 	   
    </div></li><!--END SECTION-->
 	   
