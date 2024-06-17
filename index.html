@@ -1371,7 +1371,25 @@ $(document).ready(function () {
    });
   // Grab alloyscnc on click end
 
+  // Grab alloysarmatures on click start
+  $("#alloysarmaturesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#alloysarmatures").hasClass("clickedalloysarmatures")) {
+        // already been clicked once, hide it
+        $("#alloysarmatures").html("");
+        $( "#alloysarmatures" ).removeClass( "clickedalloysarmatures" )
+    }else {
+        // first time this is clicked, mark it
+        $("#alloysarmatures").addClass("clickedalloysarmatures");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/alloysarmatures.txt?" + rand, success: function(result){
+         $("#alloysarmatures").html(result);
+        }});
+    }
+   });
+  // Grab alloysarmatures on click end
 
+
+	
 	
 });
 </script>
@@ -1636,7 +1654,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	  
   </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (4)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (4)</b></span></button><div class="catalogpanel">    
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (5)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (5)</b></span></button><div class="catalogpanel">    
    <h5 class="categoryaccordion" id="mineraloresbtn" ><span id="en">Minerals - ores (1)</span><span id="ro">Minereuri (1)</span></h5>    	
    <div id="mineralores" class="categorypanel" >
    <!-- Load info start --> 
@@ -1674,8 +1692,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="alloystractioncablesbtn" ><span id="en">Alloys - traction cables</span><span id="ro">Aliaje - cabluri de tracțiune</span></h5>    	
    <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" id="alloysarmaturesbtn" ><span id="en">Alloys - armatures</span><span id="ro">Aliaje - armături</span></h5>    	
-   <div class="rowbin" >-</div>
+   <h5 class="categoryaccordion" id="alloysarmaturesbtn" ><span id="en">Alloys - armatures (1)</span><span id="ro">Aliaje - armături (1)</span></h5>    	
+   <div id="alloysarmatures" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 
    <h5 class="categoryaccordion" id="alloyscncbtn" ><span id="en">Alloys - CNC milling & machining products (1)</span><span id="ro">Aliaje - produse strunjire, frezare și prelucrare CNC (1)</span></h5>    	
    <div id="alloyscnc" class="categorypanel" >
    <!-- Load info start --> 
