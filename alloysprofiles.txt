@@ -1,10 +1,7 @@
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">U (UPE) profile</span><span id="ro">Profil U (UPE)</span></td><td></td></tr>
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">U (UNP) profile</span><span id="ro">Profil U (UNP)</span></td><td></td></tr>
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">I (IPE) profile</span><span id="ro">Profil I (IPE)</span></td><td></td></tr>
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">I (INP) profile</span><span id="ro">Profil I (INP)</span></td><td></td></tr>
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">H (HEA) profile</span><span id="ro">Profil H (HEA)</span></td><td></td></tr>
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">H (HEB) profile</span><span id="ro">Profil H (HEB)</span></td><td></td></tr>
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">H (HEM) profile</span><span id="ro">Profil H (HEM)</span></td><td></td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Flat bar</span><span id="ro">Platbandă</span></td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Equal angle bar</span><span id="ro">Cornier laturi egale</span></td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Unequal angle bar</span><span id="ro">Cornier laturi inegale</span></td></tr>
+<style>
+    .alloysprofilesslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="alloysprofilesslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/Alloysprofiles.jpg" alt="alloysprofiles item1" /> 
+</div>
