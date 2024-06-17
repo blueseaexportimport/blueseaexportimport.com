@@ -1354,6 +1354,22 @@ $(document).ready(function () {
    });
   // Grab adhesives on click end
 
+  // Grab alloyscnc on click start
+  $("#alloyscncbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#alloyscnc").hasClass("clickedalloyscnc")) {
+        // already been clicked once, hide it
+        $("#alloyscnc").html("");
+        $( "#alloyscnc" ).removeClass( "clickedalloyscnc" )
+    }else {
+        // first time this is clicked, mark it
+        $("#alloyscnc").addClass("clickedalloyscnc");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/alloyscnc.txt?" + rand, success: function(result){
+         $("#alloyscnc").html(result);
+        }});
+    }
+   });
+  // Grab alloyscnc on click end
 
 
 	
@@ -1620,7 +1636,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	  
   </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (3)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (3)</b></span></button><div class="catalogpanel">    
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (4)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (4)</b></span></button><div class="catalogpanel">    
    <h5 class="categoryaccordion" id="mineraloresbtn" ><span id="en">Minerals - ores (1)</span><span id="ro">Minereuri (1)</span></h5>    	
    <div id="mineralores" class="categorypanel" >
    <!-- Load info start --> 
@@ -1660,8 +1676,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="alloysarmaturesbtn" ><span id="en">Alloys - armatures</span><span id="ro">Aliaje - armături</span></h5>    	
    <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" id="alloyscncbtn" ><span id="en">Alloys - CNC milling & machining products</span><span id="ro">Aliaje - produse strunjire, frezare și prelucrare CNC</span></h5>    	
-   <div class="rowbin" >-</div>
+   <h5 class="categoryaccordion" id="alloyscncbtn" ><span id="en">Alloys - CNC milling & machining products (1)</span><span id="ro">Aliaje - produse strunjire, frezare și prelucrare CNC (1)</span></h5>    	
+   <div id="alloyscnc" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" id="weldingalloysbtn" ><span id="en">Alloys - Welding and soldering</span><span id="ro">Aliaje - sudură și lipire</span></h5>    
    <div class="rowbin" >-</div>     
    <h5 class="categoryaccordion" id="foundryconsumablesbtn" ><span id="en">Metallurgy consumables</span><span id="ro">Consumabile metalurgie</span></h5>    	
