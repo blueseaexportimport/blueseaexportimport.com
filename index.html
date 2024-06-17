@@ -1388,6 +1388,24 @@ $(document).ready(function () {
    });
   // Grab alloysarmatures on click end
 
+  // Grab alloysprofiles on click start
+  $("#alloysprofilesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#alloysprofiles").hasClass("clickedalloysprofiles")) {
+        // already been clicked once, hide it
+        $("#alloysprofiles").html("");
+        $( "#alloysprofiles" ).removeClass( "clickedalloysprofiles" )
+    }else {
+        // first time this is clicked, mark it
+        $("#alloysprofiles").addClass("clickedalloysprofiles");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/alloysprofiles.txt?" + rand, success: function(result){
+         $("#alloysprofiles").html(result);
+        }});
+    }
+   });
+  // Grab alloysprofiles on click end
+
+		
 
 	
 	
@@ -1654,7 +1672,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	  
   </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (5)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (5)</b></span></button><div class="catalogpanel">    
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (6)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (6)</b></span></button><div class="catalogpanel">    
    <h5 class="categoryaccordion" id="mineraloresbtn" ><span id="en">Minerals - ores (1)</span><span id="ro">Minereuri (1)</span></h5>    	
    <div id="mineralores" class="categorypanel" >
    <!-- Load info start --> 
@@ -1672,8 +1690,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	 
-   <h5 class="categoryaccordion" id="alloysprofilesbtn" ><span id="en">Alloys - profiles</span><span id="ro">Aliaje - profile</span></h5>    	
-   <div class="rowbin" >-</div> 
+   <h5 class="categoryaccordion" id="alloysprofilesbtn" ><span id="en">Alloys - profiles (1)</span><span id="ro">Aliaje - profile (1)</span></h5>    	
+   <div id="alloysprofiles" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 
    <h5 class="categoryaccordion" id="alloysbentprofilesbtn" ><span id="en">Alloys - bent profiles</span><span id="ro">Aliaje - profile îndoite</span></h5>    	
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="alloysrailwaytracksbtn" ><span id="en">Alloys - railway tracks</span><span id="ro">Aliaje - șine cale ferată</span></h5>    	
