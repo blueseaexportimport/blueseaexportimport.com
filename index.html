@@ -1422,7 +1422,41 @@ $(document).ready(function () {
    });
   // Grab vinegar on click end	
 		
+  // Grab soilerosionpreventionplantsconifers on click start
+  $("#soilerosionpreventionplantsconifersbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#soilerosionpreventionplantsconifers").hasClass("clickedsoilerosionpreventionplantsconifers")) {
+        // already been clicked once, hide it
+        $("#soilerosionpreventionplantsconifers").html("");
+        $( "#soilerosionpreventionplantsconifers" ).removeClass( "clickedsoilerosionpreventionplantsconifers" )
+    }else {
+        // first time this is clicked, mark it
+        $("#soilerosionpreventionplantsconifers").addClass("clickedsoilerosionpreventionplantsconifers");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/soilerosionpreventionplantsconifers.txt?" + rand, success: function(result){
+         $("#soilerosionpreventionplantsconifers").html(result);
+        }});
+    }
+   });
+  // Grab soilerosionpreventionplantsconifers on click end	
 
+  // Grab soilerosionpreventionplantsdeciduous on click start
+  $("#soilerosionpreventionplantsdeciduousbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#soilerosionpreventionplantsdeciduous").hasClass("clickedsoilerosionpreventionplantsdeciduous")) {
+        // already been clicked once, hide it
+        $("#soilerosionpreventionplantsdeciduous").html("");
+        $( "#soilerosionpreventionplantsdeciduous" ).removeClass( "clickedsoilerosionpreventionplantsdeciduous" )
+    }else {
+        // first time this is clicked, mark it
+        $("#soilerosionpreventionplantsdeciduous").addClass("clickedsoilerosionpreventionplantsdeciduous");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/soilerosionpreventionplantsdeciduous.txt?" + rand, success: function(result){
+         $("#soilerosionpreventionplantsdeciduous").html(result);
+        }});
+    }
+   });
+  // Grab soilerosionpreventionplantsdeciduous on click end	
+
+	
 	
 	
 });
@@ -2141,7 +2175,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->  
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS (10)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (10)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS (12)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (12)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="concreteandsteelsilosbtn" ><span id="en">Concrete and steel silos</span><span id="ro">Silozuri beton și oțel</span></h5> 
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="agriculturalmachinerybtn" ><span id="en">Agricultural machinery</span><span id="ro">Utilaje agricultură</span></h5> 
@@ -2175,10 +2209,16 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" id="soilerosionpreventionplantsconifersbtn" ><span id="en">Soil erosion prevention plants - conifers</span><span id="ro">Puieți plante prevenție eroziune - conifere</span></h5>
-   <div class="rowbin" >-</div> 	   
-  <h5 class="categoryaccordion" id="soilerosionpreventionplantsdeciduousbtn" ><span id="en">Soil erosion prevention plants - deciduous</span><span id="ro">Puieți plante prevenție eroziune - foioase</span></h5> 
-   <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="soilerosionpreventionplantsconifersbtn" ><span id="en">Soil erosion prevention plants - conifers (1)</span><span id="ro">Puieți plante prevenție eroziune - conifere (1)</span></h5>
+   <div id="soilerosionpreventionplantsconifers" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	   
+  <h5 class="categoryaccordion" id="soilerosionpreventionplantsdeciduousbtn" ><span id="en">Soil erosion prevention plants - deciduous (1)</span><span id="ro">Puieți plante prevenție eroziune - foioase (1)</span></h5> 
+   <div id="soilerosionpreventionplantsdeciduous" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="babyfruitstreesbtn" ><span id="en">Baby fruits trees</span><span id="ro">Puieți arbuști fructiferi</span></h5>    	
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="flowersandornamentalplantsbtn" ><span id="en">Flowers and ornamental plants seeds (3)</span><span id="ro">Semințe flori și plante ornamentale (3)</span></h5>  
