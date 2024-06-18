@@ -1,42 +1,7 @@
-<tbody>
+<style>
+    .foodgradevinegarslidediv img{ width:100%; height:auto;}
+</style> 
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">VIG001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Foodgrade vinegar - Iacomi</span><span id="ro">Oţet alimentar - Iacomi</span></td></tr>
-<tr><td>Standard</td><td style="color:#39ff14;" >STAS 157-86</td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>5.5 RON / L <span id="en">Wine vinegar</span><span id="ro">Oțet vin</span> 9°</td></tr>
-<tr><td>Formula 2</td><td>5.5 RON / L <span id="en">Alcohol vinegar</span><span id="ro">Oțet alcool</span> 9°</td></tr>
-<tr><td>Formula 3</td><td>4 RON / 0.5L <span id="en">Apple vinegar</span><span id="ro">Oțet de mere</span> 9°</td></tr>
-<tr><td>Formula 4</td><td>3.3 RON / 0.5L <span id="en">Honey and apples vinegar</span><span id="ro">Oțet de mere și miere</span> 9°</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://otet-iacomi.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-
-</tbody>
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
-}
-});
-</script>
-
-<!--
-    <tr><td><span id="en">Red wine vinegar</span><span id="ro">Oțet vin roșu</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">White wine vinegar</span><span id="ro">Oțet vin alb</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Apple vinegar</span><span id="ro">Oțet de mere</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Honey vinegar</span><span id="ro">Oțet de miere</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Honey and apples vinegar</span><span id="ro">Oțet de mere și miere</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Red oranges vinegar</span><span id="ro">Oțet de portocale roșii</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Pomegranate vinegar</span><span id="ro">Oțet de rodii</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Balsamic vinegar</span><span id="ro">Oțet balsamic</span> </td><td>-</td><td>-</td></tr> 
--->
+<div class="foodgradevinegarslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/vinegar.jpg" alt="food grade vinegar item1" /> 
+</div>
