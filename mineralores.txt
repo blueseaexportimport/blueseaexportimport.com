@@ -4,5 +4,5 @@
 </style> 
 
 <div class="mineraloresslidediv" >
-<img src="https://scontent.fotp3-2.fna.fbcdn.net/v/t39.30808-6/446997277_377849361926785_2344547314729973191_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=xh2lzcdPmmsQ7kNvgEH06nW&_nc_ht=scontent.fotp3-2.fna&oh=00_AYCIoAEfgpvhbkM2J3NAoJjGrd5siKzP_pZ5I4jReAnS7g&oe=665EF98C" alt="minerals ores item1" /> 
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/minerals.jpg" alt="minerals ores item1" /> 
 </div>
