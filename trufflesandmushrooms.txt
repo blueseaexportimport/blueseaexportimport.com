@@ -3,5 +3,5 @@
 </style> 
 
 <div class="mushroomsslidediv" >
-<img src="https://scontent.fotp3-1.fna.fbcdn.net/v/t39.30808-6/441372773_360968820281506_7981790525965843873_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=fhmdYkF9VRMQ7kNvgE04ieM&_nc_ht=scontent.fotp3-1.fna&oh=00_AYD73sVZ-cs_cTRufPxlwDWxgZEUM6uN7w3ApSBfHdlUVw&oe=665C05EE" alt="mushrooms item1" /> 
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/mushrooms.jpg" alt="mushrooms item1" /> 
 </div>
