@@ -141,7 +141,23 @@ $(document).ready(function() {
 <script>
 $(document).ready(function () { 
 
-
+  // Grab buyprocedure on click start
+  $("#buyprocedurebtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#buyprocedure").hasClass("clickedbuyprocedure")) {
+        // already been clicked once, hide it
+        $("#buyprocedure").html("");
+        $( "#buyprocedure" ).removeClass( "clickedbuyprocedure" )
+    }else {
+        // first time this is clicked, mark it
+        $("#buyprocedure").addClass("clickedbuyprocedure");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/buyprocedure.txt?" + rand, success: function(result){
+         $("#buyprocedure").html(result);
+        }});
+    }
+   });
+  // Grab buyprocedure on click end
+	
   // Grab journalism on click start
   $("#journalismbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -1493,15 +1509,12 @@ $(document).ready(function () {
   
 
 
-<li style="font-weight:bold !important;" ><button style="background:#151fba;color:#FFF;text-transform:uppercase;font-weight:bold;" class="catalogaccordion" ><span id="en">+ Procedure for client companies CEO's</span><span id="ro">+ Procedura pentru administratori companii clienți</span></button><div class="catalogpanel">
+<li style="font-weight:bold !important;" ><button style="background:#151fba;color:#FFF;text-transform:uppercase;font-weight:bold;" class="catalogaccordion" id="buyprocedurebtn" ><span id="en">+ Guide - How to buy products from our catalog </span><span id="ro">+ Ghid - Cum să cumpărați produse din catalog</span></button><div class="catalogpanel">
 <div>	   
-    <h4><span id="en">Procedure for client companies CEO's</span><span id="ro">Procedura pentru administratori companii clienți</span></h4>
-    <br><br>
-    <h4><span id="en" style="font-size:21px;" >A. To buy - Use our catalog to make a <b>grocery list</b> in excel or word, in the list include the location where you want the products delivered, after print the list, sign it and stamp it and scan it, send the pdf list to our email address or via whatsapp or to our postal address. ( Reason: We got to show proof to some suppliers that demand is real, else we can not obtain a price quote in real time from them, they will not take serious the price quote if we don't have document proof )</span><span id="ro" style="font-size:21px;" >A. Pentru a cumpăra - Folosiți catalogul pentru a face o <b>listă de cumpărături</b> în excel sau word, includeți locația unde doriți produsele sa fie livrate, după ce faceți o copie la xerox, semnați și stampilați lista, apoi scanați-o și trimiteți lista de produse în format pdf  la adresa noastră de email sau whatsapp sau prin poștă. ( Motiv: trebuie să dovedim unor furnizori că cererea este reală , altfel nu putem obține cotații de preț în timp real de la aceștia, nu i-au în serios solicitările de preț dacă nu avem documente dovadă )</span></h4><br>
-    <h4><span id="en" style="font-size:21px;" >B. We verify your company public legal documents, if documents ok we request price quote from suppliers, after they send the info we generate a contract and a proforma invoice that includes all estimated cost  and our 10% commission fee.</span><span id="ro" style="font-size:21px;" >B. După ce verificăm documentele publice legale ale companiei dumneavoastră, dacă documentele sunt bune, solicităm cotații de preț în timp real de la furnizori, apoi generăm un contract și o factură proforma care include toate costurile estimate inclusiv comisionul nostru de 10%.</span></h4><br>
-    <h4><span id="en" style="font-size:21px;" >C. If you agree with the contract terms and costs , we sign the contract , you send the payment in advance via TT / Money Orders ( bank transfer ), after payment is confirmed we start delivery process and we send you copies of contract, legal invoice - payment receipt.</span><span id="ro" style="font-size:21px;" >C. Dacă sunteți de acord cu costurile și clauzele contractului, semnăm contractul , dumneavoastră trimiteți plata în avans 100% prin transfer bancar / ordin de plată, după ce plata este confirmată începem procedura de livrare și vă trimitem copii după contract, factură - chitanță că ați făcut plata.</span></h4><br>
-    <h4><span id="en" style="font-size:21px;" >D. When products arrive at your location, you inspect the package or products, if all ok, you the sign delivery receipt, we transfer you ownership documents and handover complete.</span><span id="ro" style="font-size:21px;" >D. Când produsele ajung la locația dumneavoastră, inspectați coletul sau produsele, dacă totul este bine, semnați procesul verbal de predare primire, apoi noi vă vom transfera toate actele de proprietate asupra bunurilor și tranzacția s-a încheiat.</span></h4>
-    <br><br>
+   <div id="buyprocedure" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
 </div></li><!--END SECTION-->
 
    <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>A. ELECTRICITY  (9)</b></span> <span id="ro"><b>A. ENERGIE ELECTRICĂ  (9)</b></span></button><div class="catalogpanel">
