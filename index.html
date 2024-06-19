@@ -158,6 +158,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 	
+  // Grab droughttolerantseeds on click start
+  $("#droughttolerantseedsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#droughttolerantseeds").hasClass("clickeddroughttolerantseeds")) {
+        // already been clicked once, hide it
+        $("#droughttolerantseeds").html("");
+        $( "#droughttolerantseeds" ).removeClass( "clickeddroughttolerantseeds" )
+    }else {
+        // first time this is clicked, mark it
+        $("#droughttolerantseeds").addClass("clickeddroughttolerantseeds");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/droughttolerantseeds.txt?" + rand, success: function(result){
+         $("#droughttolerantseeds").html(result);
+        }});
+    }
+   });
+  // Grab droughttolerantseeds on click end
+
   // Grab journalism on click start
   $("#journalismbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2188,7 +2205,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->  
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS (12)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (12)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS (13)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (13)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="concreteandsteelsilosbtn" ><span id="en">Concrete and steel silos</span><span id="ro">Silozuri beton și oțel</span></h5> 
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="agriculturalmachinerybtn" ><span id="en">Agricultural machinery</span><span id="ro">Utilaje agricultură</span></h5> 
@@ -2241,8 +2258,11 @@ $(document).ready(function () {
    </div>	
   <h5 class="categoryaccordion" id="plantsseedsbtn" ><span id="en">Plants seeds - Non-GMO</span><span id="ro">Semințe plante - Non-GMO</span></h5>          
    <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" id="droughttolerantseedsbtn" ><span id="en">Drought-tolerant seeds - Non-GMO</span><span id="ro">Semințe rezistente la secetă - Non-GMO</span></h5>   
-   <div class="rowbin" >-</div>  	
+  <h5 class="categoryaccordion" id="droughttolerantseedsbtn" ><span id="en">Drought-tolerant seeds - Non-GMO (1)</span><span id="ro">Semințe rezistente la secetă - Non-GMO (1)</span></h5>   
+   <div id="droughttolerantseeds" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 	
   <h5 class="categoryaccordion" id="pestcontrolsolutionsbtn" ><span id="en">Pest control solutions </span><span id="ro">Soluții de combatere a dăunătorilor</span></h5>    
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="fishingbtn" ><span id="en">Fishing and aquaculture (1)</span><span id="ro">Pescuit si acvacultură (1)</span></h5>    
