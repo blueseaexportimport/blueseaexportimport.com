@@ -1,0 +1,84 @@
+<style>
+
+.personalcaredeodorantslider{
+ width:100%;
+}
+.personalcaredeodorantslidernav{
+ text-align:center;
+ width:100%; 
+}
+.personalcaredeodorantslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
+
+.personalcaredeodorantslides img {
+  max-width: 100%;
+  height: auto;
+}
+
+.personalcaredeodorantslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.personalcaredeodorantslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.personalcaredeodorantslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 3px;
+}
+
+.personalcaredeodorantslidernav a:hover {background-color: gold;}
+.personalcaredeodorantslidernav a:active {background-color: gold;}
+.personalcaredeodorantslidernav a:focus {background-color: gold;}
+
+
+</style>
+
+<div class="personalcaredeodorantslider">
+
+<div class="personalcaredeodorantslidernav" >
+  <a href="#personalcaredeodorantslide-1">1</a>
+  <a href="#personalcaredeodorantslide-2">2</a>
+  <a href="#personalcaredeodorantslide-3">3</a>
+  <a href="#personalcaredeodorantslide-4">4</a>
+  <a href="#personalcaredeodorantslide-5">5</a>
+</div>
+
+  <div class="personalcaredeodorantslides">
+    <div class="fade" id="personalcaredeodorantslide-1">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcaredeodorant.jpg" alt="personalcaredeodorantitem1" /> 
+    </div>
+    <div class="fade" id="personalcaredeodorantslide-2">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcaredeodorantb.jpg" alt="personalcaredeodorantitem2" /> 
+    </div>
+    <div class="fade" id="personalcaredeodorantslide-3">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcaredeodorantc.jpg" alt="personalcaredeodorantitem3" /> 
+    </div>
+    <div class="fade" id="personalcaredeodoranthslide-4">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcaredeodorantd.jpg" alt="personalcaredeodorantitem4" /> 
+    </div>
+    <div class="fade" id="personalcaredeodorantslide-5">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcaredeodorante.jpg" alt="personalcaredeodorantitem5" /> 
+    </div>
+
+  </div><!-- personalcaredeodorantSlides -->
+
+</div><!-- personalcaredeodorantSlider -->
