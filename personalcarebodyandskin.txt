@@ -1,13 +1,13 @@
 <style>
 
-.fishslider{
+.personalcarebodyandskinslider{
  width:100%;
 }
-.fishslidernav{
+.personalcarebodyandskinslidernav{
  text-align:center;
  width:100%; 
 }
-.fishslides{
+.personalcarebodyandskinslides{
   width:100%;
   display: flex;
   overflow: hidden;
@@ -15,12 +15,12 @@
   border: 1px solid black;
 }
 
-.fishslides img {
+.personalcarebodyandskinslides img {
   max-width: 100%;
   height: auto;
 }
 
-.fishslides > div {
+.personalcarebodyandskinslides > div {
   width: 100%;  
   flex-shrink: 0;               /*  added, so it won't shrink  */
   border: 0px solid red;        /*  added, for demo purpose  */
@@ -30,12 +30,12 @@
   justify-content: center;      /*  added  */
 }
 
-.fishslidernav{
+.personalcarebodyandskinslidernav{
   text-align:center;
   padding:15px 0;
   margin:0;
 }
-.fishslidernav > a{
+.personalcarebodyandskinslidernav > a{
   display:inline-block; 
   color: black;
   padding: 8px 16px;
@@ -45,9 +45,9 @@
   margin: 0 4px;
 }
 
-.fishslidernav a:hover {background-color: gold;}
-.fishslidernav a:active {background-color: gold;}
-.fishslidernav a:focus {background-color: gold;}
+.personalcarebodyandskinslidernav a:hover {background-color: gold;}
+.personalcarebodyandskinslidernav a:active {background-color: gold;}
+.personalcarebodyandskinslidernav a:focus {background-color: gold;}
 
 
 </style>
@@ -65,7 +65,7 @@
   <a href="#personalcarebodyandskinslide-8">8</a>
 </div>
 
-  <div class="fishslides">
+  <div class="personalcarebodyandskinslides">
     <div class="fade" id="personalcarebodyandskinslide-1">
       <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcarebodyandskin.jpg" alt="personalcarebodyandskinitem1" /> 
     </div>
