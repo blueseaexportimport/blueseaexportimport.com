@@ -42,7 +42,7 @@
   text-decoration: none;
   transition: background-color .3s;
   border: 1px solid #000;
-  margin: 0 4px;
+  margin: 0 3px;
 }
 
 .personalcarebodyandskinslidernav a:hover {background-color: gold;}
