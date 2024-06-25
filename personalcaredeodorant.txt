@@ -72,7 +72,7 @@
     <div class="fade" id="personalcaredeodorantslide-3">
       <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcaredeodorantc.jpg" alt="personalcaredeodorantitem3" /> 
     </div>
-    <div class="fade" id="personalcaredeodoranthslide-4">
+    <div class="fade" id="personalcaredeodorantslide-4">
       <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcaredeodorantd.jpg" alt="personalcaredeodorantitem4" /> 
     </div>
     <div class="fade" id="personalcaredeodorantslide-5">
