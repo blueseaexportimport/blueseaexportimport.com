@@ -1,232 +1,97 @@
-<tbody>
+<style>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Liquid Soap - Herbagen</span><span id="ro">Săpun lichid - Herbagen</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>35 RON / 1000ml <span id="en">with glycerin and linden extract</span><span id="ro">cu glicerină și extract de tei</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS002</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Facial liquid soap - Herbagen</span><span id="ro">Săpun lichid facial - Herbagen</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>48 RON / 1000ml <span id="en">with cornflower extract</span><span id="ro">cu extract de albăstrele</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS003</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Intimate liquid soap Herbagen</span><span id="ro">Săpun lichid intim Herbagen</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>60 RON / 1000ml <span id="en">with lavender & echinacea extract</span><span id="ro">cu extracte de lavanda si echinacea</span></td></tr>
-<tr><td>Formula 2</td><td>60 RON / 1000ml <span id="en">with centella asiatica extract</span><span id="ro">cu extract de centella asiatica</span></td></tr>
-<tr><td>Formula 3</td><td>60 RON / 1000ml <span id="en">with echinacea extract</span><span id="ro">cu extracte de echinacea</span></td></tr>
-<tr><td>Formula 4</td><td>60 RON / 1000ml <span id="en">with viola tricolor extract</span><span id="ro">cu extract de viola tricolor</span></td></tr>
-<tr><td>Formula 5</td><td>60 RON / 1000ml <span id="en">with achillea and chamomile extract</span><span id="ro">cu extracte de achillea milefolium si musetel</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS004</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Shower gel Herbagen</span><span id="ro">Gel de duș Herbagen</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>42 RON / 1000ml <span id="en">coconut and vanilla</span><span id="ro">vanilie și cocos</span></td></tr>
-<tr><td>Formula 2</td><td>42 RON / 1000ml <span id="en">chocolate dream</span><span id="ro">chocolate dream</span></td></tr>
-<tr><td>Formula 3</td><td>42 RON / 1000ml <span id="en">spirulina</span><span id="ro">spirulina</span></td></tr>
-<tr><td>Formula 4</td><td>42 RON / 1000ml <span id="en">lilac</span><span id="ro">liliac</span></td></tr>
-<tr><td>Formula 5</td><td>42 RON / 1000ml <span id="en">ocean</span><span id="ro">ocean</span></td></tr>
-<tr><td>Formula 6</td><td>42 RON / 1000ml <span id="en">grapefruit</span><span id="ro">grepfruit</span></td></tr>
-<tr><td>Formula 7</td><td>42 RON / 1000ml <span id="en">chinese fruit</span><span id="ro">chinese fruit</span></td></tr>
-<tr><td>Formula 8</td><td>42 RON / 1000ml <span id="en">rose</span><span id="ro">rose</span></td></tr>
-<tr><td>Formula 9</td><td>42 RON / 1000ml <span id="en">white musk</span><span id="ro">mosc alb</span></td></tr>
-<tr><td>Formula 10</td><td>42 RON / 1000ml <span id="en">lavender</span><span id="ro">lavandă</span></td></tr>
-<tr><td>Formula 11</td><td>42 RON / 1000ml <span id="en">candy</span><span id="ro">candy</span></td></tr>
-<tr><td>Formula 12</td><td>42 RON / 1000ml <span id="en">verveine essential oil</span><span id="ro">ulei esențial de verveina</span></td></tr>
-<tr><td>Formula 13</td><td>42 RON / 1000ml <span id="en">grape elixir</span><span id="ro">elixir din struguri</span></td></tr>
-<tr><td>Formula 14</td><td>42 RON / 1000ml <span id="en">banana</span><span id="ro">banana</span></td></tr>
-<tr><td>Formula 15</td><td>42 RON / 1000ml <span id="en">eco honey</span><span id="ro">miere de albine bio</span></td></tr>
-<tr><td>Formula 16</td><td>42 RON / 1000ml <span id="en">jasmine</span><span id="ro">jasmine</span></td></tr>
-<tr><td>Formula 17</td><td>42 RON / 1000ml <span id="en">oranges and verveine</span><span id="ro">portocală și verveina</span></td></tr>
-<tr><td>Formula 18</td><td>42 RON / 1000ml <span id="en">coffee</span><span id="ro">cafea</span></td></tr>
-<tr><td>Formula 19</td><td>42 RON / 1000ml <span id="en">cinnamon and apple</span><span id="ro">măr și scorțișoară</span></td></tr>
-<tr><td>Formula 20</td><td>42 RON / 1000ml <span id="en">green tea</span><span id="ro">ceai verde</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS005</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Hand cream Herbagen</span><span id="ro">Cremă pentru mâini Herbagen</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>71 RON / 1000g <span id="en">with aloe vera gel and collagen</span><span id="ro">cu gel aloe vera și colagen</span></td></tr>
-<tr><td>Formula 2</td><td>71 RON / 1000g <span id="en">with citrus essential oil, glycerin and olive oil</span><span id="ro">cu ulei esențial de citrice, glicerină și ulei de măsline</span></td></tr>
-<tr><td>Formula 3</td><td>71 RON / 1000g <span id="en">with olive oil and vitamins A, E</span><span id="ro">cu ulei de masline și vitaminele A, E</span></td></tr>
-<tr><td>Formula 4</td><td>71 RON / 1000g <span id="en">with macadamia oil and jojoba</span><span id="ro">cu ulei de macadamia și jojoba</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS006</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Body cream Herbagen</span><span id="ro">Cremă de corp Herbagen</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>83 RON / 1000g <span id="en">with mint leaves</span><span id="ro">cu extract de frunze de mentă</span></td></tr>
-<tr><td>Formula 2</td><td>83 RON / 1000g <span id="en">with red grape microzest</span><span id="ro">cu micronizat de strugure roșu</span></td></tr>
-<tr><td>Formula 3</td><td>83 RON / 1000g <span id="en">with bergamot and basil</span><span id="ro">cu bergamotă și busuioc</span></td></tr>
-<tr><td>Formula 4</td><td>95 RON / 1000g <span id="en">with lavender water and shea butter</span><span id="ro">cu apă de lavandă și unt de shea</span></td></tr>
-<tr><td>Formula 5</td><td>95 RON / 1000g <span id="en">with jojoba oil and vitamins A & E</span><span id="ro">cu ulei de jojoba și vitaminele A și E</span></td></tr>
-<tr><td>Formula 6</td><td>119 RON / 1000g <span id="en">with jojoba oil, olive oil and A & E vitamins</span><span id="ro">cu ulei de jojoba, ulei măsline și vitaminele A și E</span></td></tr>
-<tr><td>Formula 7</td><td>143 RON / 1000g <span id="en">with banana extract</span><span id="ro">cu extract de banană</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS007</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Foot care cream Herbagen</span><span id="ro">Cremă îngrijire picioare Herbagen</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>95 RON / 1000g <span id="en">KERITOGEN urea 10%</span><span id="ro">KERITOGEN urea 10%</span></td></tr>
-<tr><td>Formula 2</td><td>95 RON / 1000g <span id="en">KERITOGEN urea 20%</span><span id="ro">KERITOGEN urea 10%</span></td></tr>
-<tr><td>Formula 3</td><td>107 RON / 1000g <span id="en">KERITOGEN urea 30%</span><span id="ro">KERITOGEN urea 10%</span></td></tr>
-<tr><td>Formula 4</td><td>145 RON / 1000g <span id="en">KERITOGEN forte</span><span id="ro">KERITOGEN forte</span></td></tr>
-<tr><td>Formula 5</td><td>202 RON / 1000g <span id="en">KERITOGEN total</span><span id="ro">KERITOGEN total</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS008</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Face cream Herbagen</span><span id="ro">Cremă de față Herbagen</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>71 RON / 1000g <span id="en">for men - with organic jojoba oil and vitamin A+E</span><span id="ro">pentru bărbați - cu ulei de jojoba bio si vitamina A+E</span></td></tr>
-<tr><td>Formula 2</td><td>107 RON / 1000g <span id="en">with micronized red grapes</span><span id="ro">micronizat de strugure rosu</span></td></tr>
-<tr><td>Formula 3</td><td>107 RON / 1000g <span id="en">with argan oil and phytoceramides</span><span id="ro">cu fitoceramide și ulei de argan</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS009</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Body butter Herbagen</span><span id="ro">Unt de corp Herbagen</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>107 RON / 1000g <span id="en">vanilla & coconut</span><span id="ro">vanilie & cocos</span></td></tr>
-<tr><td>Formula 2</td><td>107 RON / 1000g <span id="en">chocolate dream</span><span id="ro">chocolate dream</span></td></tr>
-<tr><td>Formula 3</td><td>250 RON / 1000g <span id="en">organic coconut</span><span id="ro">cocos organic</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0010</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Coffee scrub Herbagen</span><span id="ro">Scrub cu cafea Herbagen</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>242 RON / 1000g</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0011</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Marigold ointment Herbagen</span><span id="ro">Unguent gălbenele Herbagen</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>107 RON / 1000g</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0012</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Body milk Herbagen</span><span id="ro">Lapte de corp Herbagen</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>49 RON / 1000ml <span id="en">hydrating with macadamia oil Rose</span><span id="ro">cu ulei de macadamia hidratant Rose</span></td></tr>
-<tr><td>Formula 2</td><td>49 RON / 1000ml <span id="en">hydrating with macadamia oil Sensual</span><span id="ro">cu ulei de macadamia hidratant Sensual</span></td></tr>
-<tr><td>Formula 3</td><td>49 RON / 1000ml <span id="en">hydrating with macadamia oil Herbal</span><span id="ro">cu ulei de macadamia hidratant Herbal</span></td></tr>
-<tr><td>Formula 4</td><td>49 RON / 1000ml <span id="en">hydrating with macadamia oil White flower</span><span id="ro">cu ulei de macadamia hidratant White flower</span></td></tr>
-<tr><td>Formula 5</td><td>49 RON / 1000ml <span id="en">perfumed with olive oil Donna Verde</span><span id="ro">cu ulei de măsline parfumat Donna Verde</span></td></tr>
-<tr><td>Formula 6</td><td>49 RON / 1000ml <span id="en">perfumed with olive oil Petali & Fiori</span><span id="ro">cu ulei de măsline parfumat Petali & Fiori</span></td></tr>
-<tr><td>Formula 7</td><td>49 RON / 1000ml <span id="en">perfumed with olive oil Fiori di Campo</span><span id="ro">cu ulei de măsline parfumat Fiori di Campo</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0013</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Body oil with essential oils Herbagen</span><span id="ro">Ulei de corp cu uleiuri esențiale Herbagen</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>83 RON / 1000ml <span id="en">bergamot and grapefruit</span><span id="ro">bergamota și grapefruit</span></td></tr>
-<tr><td>Formula 2</td><td>83 RON / 1000ml <span id="en">lavender</span><span id="ro">lavandă</span></td></tr>
-<tr><td>Formula 3</td><td>83 RON / 1000ml <span id="en">orange</span><span id="ro">portocală</span></td></tr>
-<tr><td>Formula 4</td><td>83 RON / 1000ml <span id="en">rose</span><span id="ro">trandafir</span></td></tr>
-<tr><td>Formula 5</td><td>83 RON / 1000ml <span id="en">relaxing</span><span id="ro">relaxant</span></td></tr>
-<tr><td>Formula 6</td><td>83 RON / 1000ml <span id="en">revitalizing</span><span id="ro">revitalizant</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">PCBS0014</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en">Massage oil Herbagen</span><span id="ro">Ulei de masaj Herbagen</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>214 RON / 1000ml <span id="en">with macadamia oil and coffee</span><span id="ro">cu ulei de macadamia și cafea</span></td></tr>
-<tr><td>Formula 2</td><td>214 RON / 1000ml <span id="en">with macadamia oil and candy</span><span id="ro">cu ulei de macadamia și candy</span></td></tr>
-<tr><td>Formula 3</td><td>214 RON / 1000ml <span id="en">with macadamia oil and lavender</span><span id="ro">cu ulei de macadamia și lavandă</span></td></tr>
-<tr><td>Formula 4</td><td>214 RON / 1000ml <span id="en">with macadamia oil and white musk</span><span id="ro">cu ulei de macadamia și mosc alb</span></td></tr>
-<tr><td>Formula 5</td><td>214 RON / 1000ml <span id="en">with macadamia,apple oil and cinnamon </span><span id="ro">cu ulei de macadamia,măr și scorțișoară</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.herbagen.ro/oferta-vrac/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-<!--
-	<span id="ro">Start Produs:<br> Săpun solid </span>
-	<span id="en">Start Product:<br> Liquid soap reserve</span>
-	<span id="ro">Start Produs:<br> Rezervă săpun lichid </span>
-	<span id="en">Start Product:<br> General Use Cream</span>
-	<span id="ro">Start Produs:<br> Cremă De Uz General </span>
-	<span id="en">Start Product:<br> Hand Cream</span>
-	<span id="ro">Start Produs:<br> Cremă De Mâini </span>
-	<span id="en">Start Product:<br> Deodorant Roll-on / Stick</span>
-	<span id="ro">Start Produs:<br> Deodorant Roll-on / Stick</span>
-<tr><td><span id="en">Bath salt </span><span id="ro">Sare de baie</span></td>
-<tr><td><span id="en">Bubblebath shampoo  ( Renew / Glow ) 400ml</span><span id="ro">Spumă de baie ( Renew / Glow ) 400ml</span></td>
-<tr><td><span id="en">Shower Foam ( Renew / Glow ) 200ml</span><span id="ro">Spumă de duș ( Renew / Glow ) 200ml</span></td>
- <tr><td><span id="en">Self-Tan Light/Medium 200ml</span><span id="ro">Loțiune Autobronzantă  Light/Medium 200ml</span></td>
- <tr><td><span id="en">Self-Tan Foam ( Medium/Dark | Light/Medium ) 150ml	</span><span id="ro">Spumă Autobronzantă ( Medium/Dark | Light/Medium ) 150ml	</span></td>
-       <tr><td><span id="en">After-sun lotion</span><span id="ro">Loțiune după plaja</span></td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Sun protection lotion</span><span id="ro">Loțiune protecție solară</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Hand lotion</span><span id="ro">Loțiune de mâini</span></td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Perfumed lotion</span><span id="ro">Loțiune parfumată</span></td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Baby oil</span><span id="ro">Ulei bebe</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Children's foam soap</span><span id="ro">Săpun spuma copii</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Hand gel</span><span id="ro">Gel pentru mâini</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Eye contour moisturizing gel</span><span id="ro">Gel hidratant contur</span></td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Moisturizing mask</span><span id="ro">Mască hidratantă</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Anti-wrinkle mask</span><span id="ro">Mască antirid</span></td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Body butter</span><span id="ro">Unt de corp</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Hand cleaning spray</span><span id="ro">Spray curățare mâini</span></td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Foot odor spray</span><span id="ro">Spray pentru miros picioare</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Refreshing body spray</span><span id="ro">Spray de corp revigorant</span></td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Sun protection spray</span><span id="ro">Spray protecție solară</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Universal cleaning spray</span><span id="ro">Spray de curățare universal</span></td><td>-</td><td>-</td></tr>    
-       <tr><td><span id="en">Bath pearls</span><span id="ro">Perle de baie</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Anti wrinkle cream</span><span id="ro">Cremă antirid</span></td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Cleansing face make-up cream</span><span id="ro">Cremă curățare față machiaj</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Night cream</span><span id="ro">Cremă de noapte</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Face cream</span><span id="ro">Cremă de față</span></td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Hand cream</span><span id="ro">Cremă de mâini</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Purifying face cleansing cream</span><span id="ro">Cremă purificatoare curățare față</span></td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Body balm</span><span id="ro">Balsam de corp</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Hand balm</span><span id="ro">Balsam pentru mâini</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Bath sponge</span><span id="ro">Burete de baie</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Exfoliating gel</span><span id="ro">Gel exfoliant</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Shower oil</span><span id="ro">Ulei de duș</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Hydrating serum</span><span id="ro">Ser pentru hidratare</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Hand cleaning paste</span><span id="ro">Pastă curățat mâini</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Heel brush</span><span id="ro">Perie călcâie</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Foot rasp</span><span id="ro">Pilă călcâie</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Ponce stone</span><span id="ro">Piară ponce</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Plasters</span><span id="ro">Plasturi</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Sanitary alcohol</span><span id="ro">Alcool sanitar</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Homecare medical cotton wool </span><span id="ro">Vată medicinală </span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Homecare medical cotton wool balls</span><span id="ro">Bile vată medicinală </span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Biodegradable  cotton swabs</span><span id="ro">Bețișoare vată biodegradabile</span></td><td>-</td><td>-</td></tr> 
--->
-
-
-
-
-</tbody>
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
+.fishslider{
+ width:100%;
 }
-});
-</script>
+.fishslidernav{
+ text-align:center;
+ width:100%; 
+}
+.fishslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
+.fishslides img {
+  max-width: 100%;
+  height: auto;
+}
+
+.fishslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.fishslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.fishslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+
+.fishslidernav a:hover {background-color: gold;}
+.fishslidernav a:active {background-color: gold;}
+.fishslidernav a:focus {background-color: gold;}
+
+
+</style>
+
+<div class="personalcarebodyandskinslider">
+
+<div class="personalcarebodyandskinslidernav" >
+  <a href="#personalcarebodyandskinslide-1">1</a>
+  <a href="#personalcarebodyandskinslide-2">2</a>
+  <a href="#personalcarebodyandskinslide-3">3</a>
+  <a href="#personalcarebodyandskinslide-4">4</a>
+  <a href="#personalcarebodyandskinslide-5">5</a>
+  <a href="#personalcarebodyandskinslide-6">6</a>
+  <a href="#personalcarebodyandskinslide-7">7</a>
+  <a href="#personalcarebodyandskinslide-8">8</a>
+</div>
+
+  <div class="fishslides">
+    <div class="fade" id="personalcarebodyandskinslide-1">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcarebodyandskin.jpg" alt="personalcarebodyandskinitem1" /> 
+    </div>
+    <div class="fade" id="personalcarebodyandskinslide-2">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcarebodyandskinb.jpg" alt="personalcarebodyandskinitem2" /> 
+    </div>
+    <div class="fade" id="personalcarebodyandskinslide-3">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcarebodyandskinc.jpg" alt="personalcarebodyandskinitem3" /> 
+    </div>
+    <div class="fade" id="personalcarebodyandskinhslide-4">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcarebodyandskind.jpg" alt="personalcarebodyandskinitem4" /> 
+    </div>
+    <div class="fade" id="personalcarebodyandskinslide-5">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcarebodyandskine.jpg" alt="personalcarebodyandskinitem5" /> 
+    </div>
+    <div class="fade" id="personalcarebodyandskinslide-6">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcarebodyandskinf.jpg" alt="personalcarebodyandskinitem6" /> 
+    </div>
+    <div class="fade" id="personalcarebodyandskinslide-7">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcarebodyandsking.jpg" alt="personalcarebodyandskinitem7" /> 
+    </div>
+    <div class="fade" id="personalcarebodyandskinslide-8">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/personalcarebodyandskinh.jpg" alt="personalcarebodyandskinitem8" /> 
+    </div>
+
+
+  </div><!-- personalcarebodyandskinSlides -->
+
+</div><!-- personalcarebodyandskinSlider -->
