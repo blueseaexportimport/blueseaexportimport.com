@@ -157,7 +157,24 @@ $(document).ready(function () {
     }
    });
   // Grab buyprocedure on click end
-	
+
+  // Grab personalcarebodyandskin on click start
+  $("#personalcarebodyandskinbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#personalcarebodyandskin").hasClass("clickedpersonalcarebodyandskin")) {
+        // already been clicked once, hide it
+        $("#personalcarebodyandskin").html("");
+        $( "#personalcarebodyandskin" ).removeClass( "clickedpersonalcarebodyandskin" )
+    }else {
+        // first time this is clicked, mark it
+        $("#personalcarebodyandskin").addClass("clickedpersonalcarebodyandskin");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/personalcarebodyandskin.txt?" + rand, success: function(result){
+         $("#personalcarebodyandskin").html(result);
+        }});
+    }
+   });
+  // Grab personalcarebodyandskin on click end
+
   // Grab droughttolerantseeds on click start
   $("#droughttolerantseedsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2178,7 +2195,12 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-   <h5 class="categoryaccordion" id="personalcarebodyandskinbtn" ><span id="en">Personal care - body and skin</span><span id="ro">Îngrijire piele și corp</span></h5>    
+   <h5 class="categoryaccordion" id="personalcarebodyandskinbtn" ><span id="en">Personal care - body and skin (8)</span><span id="ro">Îngrijire piele și corp (8)</span></h5>    
+   <div id="personalcarebodyandskin" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
+   <h5 class="categoryaccordion" id="personalcarebodyandskinbtn" ><span id="en">Personal care - deodorants and antiperspirants</span><span id="ro">Deodorante și antiperspirante</span></h5>    
    <div class="rowbin" >-</div>	
    <h5 class="categoryaccordion" id="personalcareteethhygienebtn" ><span id="en">Personal care - teeth hygiene (3)</span><span id="ro">Îngrijire și igienă dinți (3)</span></h5>    
    <div id="personalcareteethhygiene" class="categorypanel" >
