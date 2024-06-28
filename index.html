@@ -175,7 +175,22 @@ $(document).ready(function () {
    });
   // Grab alloysbentprofilesandsheets on click end
 
-
+  // Grab dishwashingcleaningitems on click start
+  $("#dishwashingcleaningitemsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#dishwashingcleaningitems").hasClass("clickeddishwashingcleaningitems")) {
+        // already been clicked once, hide it
+        $("#dishwashingcleaningitems").html("");
+        $( "#dishwashingcleaningitems" ).removeClass( "clickeddishwashingcleaningitems" )
+    }else {
+        // first time this is clicked, mark it
+        $("#dishwashingcleaningitems").addClass("clickeddishwashingcleaningitems");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/dishwashingcleaningitems.txt?" + rand, success: function(result){
+         $("#dishwashingcleaningitems").html(result);
+        }});
+    }
+   });
+  // Grab dishwashingcleaningitems on click end
 	
   // Grab personalcarebodyandskin on click start
   $("#personalcarebodyandskinbtn").click(function() {
@@ -2216,13 +2231,16 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>R. PERSONAL CARE AND HYGIENE (29)</b></span> <span id="ro"><b>R. IGIENĂ ȘI ÎNGRIJIRE PERSONALĂ (29)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>R. PERSONAL CARE AND HYGIENE (31)</b></span> <span id="ro"><b>R. IGIENĂ ȘI ÎNGRIJIRE PERSONALĂ (31)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="householditemsbtn" ><span id="en">Household Items</span><span id="ro">Articole Uz Caznic</span></h5>    
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Laundry cleaning Items</span><span id="ro">Articole curățat rufe</span></h5>  
    <div class="rowbin" >-</div> 	
-   <h5 class="categoryaccordion" ><span id="en">Dishwashing cleaning Items</span><span id="ro">Articole curățat vase</span></h5>    
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="dishwashingcleaningitemsbtn" ><span id="en">Dishwashing cleaning Items (2)</span><span id="ro">Articole curățat vase (2)</span></h5>    
+   <div id="dishwashingcleaningitems" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" ><span id="en">Bathroom and toilet cleaning</span><span id="ro">Articole curățat baie și wc</span></h5>    
    <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" ><span id="en">Refrigerator and stove cleaning</span><span id="ro">Articole curățat frigidere și aragaze</span></h5>   
