@@ -1,28 +1,70 @@
-<tbody>
+<style>
 
-	<span id="en">Start Product:<br> Dish detergent</span>
-	<span id="ro">Start Produs:<br> Detergent vase </span>
+.dishwashingcleaningitemsslider{
+ width:100%;
+}
+.dishwashingcleaningitemsslidernav{
+ text-align:center;
+ width:100%; 
+}
+.dishwashingcleaningitemsslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
-	<span id="en">Start Product:<br> Dishwasher tablets</span>
-	<span id="ro">Start Produs:<br> Tablete mașină spălat vase </span>
+.dishwashingcleaningitemsslides img {
+  max-width: 100%;
+  height: auto;
+}
 
-	<span id="en">Start Product:<br> Universal Cleaner</span>
-	<span id="ro">Start Produs:<br> Cremă curățat universală </span>
+.dishwashingcleaningitemsslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
 
-       <tr><td><span id="en">Dishes cleaning powder</span><span id="ro">Praf de curățat vase</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Dishwashing paste</span><span id="ro">Pastă curățat vase</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Dishwashing abrasive cream</span><span id="ro">Cremă abrazivă</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Dishwasher pods</span><span id="ro">Detergent capsule mașină spălat vase</span> </td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Oval dish sponge</span><span id="ro">Burete de vase oval</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Dish sponge</span><span id="ro">Burete de vase</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Dish sponge copper microparticles</span><span id="ro">Burete vase microparticule cupru</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Wire Dish Scrubber</span><span id="ro">Burete sârmă</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Sponge for difficult surfaces</span><span id="ro">Burete suprafețe dificile</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Perforated dishcloth</span><span id="ro">Lavete de vase cu perforare</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Abrasive dishcloth</span><span id="ro">Lavete abrazive</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Double sided dishcloth soft and abrasive</span><span id="ro">Lavetă de vase cu două fețe abrazivă și soft</span></td><td>-</td><td>-</td></tr>        
-       <tr><td><span id="en">Dishwasher salt</span><span id="ro">Sare mașină spălat vase</span></td><td>-</td><td>-</td></tr>   
+.dishwashingcleaningitemsslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.dishwashingcleaningitemsslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.dishwashingcleaningitemsslidernav a:hover {background-color: gold;}
+.dishwashingcleaningitemsslidernav a:active {background-color: gold;}
+.dishwashingcleaningitemsslidernav a:focus {background-color: gold;}
 
+</style>
 
+<div class="dishwashingcleaningitemsslider">
 
-</tbody>
+<div class="dishwashingcleaningitemsslidernav" >
+  <a href="#dishwashingcleaningitemsslide-1">1</a>
+  <a href="#dishwashingcleaningitemsslide-2">2</a>
+
+</div>
+
+  <div class="dishwashingcleaningitemsslides">
+    <div class="fade" id="dishwashingcleaningitemsslide-1">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/dishwashingcleaningitems.jpg" alt="dish washing cleaning items item1" /> 
+    </div>
+    <div class="fade" id="dishwashingcleaningitemsslide-2">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/dishwashingcleaningitemsb.jpg" alt="dish washing cleaning items item2" /> 
+    </div>
+  </div><!-- dishwashingcleaningitemsSlides -->
+
+</div><!-- dishwashingcleaningitemsSlider -->
