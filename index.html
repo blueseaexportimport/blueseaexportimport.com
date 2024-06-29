@@ -158,6 +158,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab bottledwater on click start
+  $("#bottledwaterbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#bottledwater").hasClass("clickedbottledwater")) {
+        // already been clicked once, hide it
+        $("#bottledwater").html("");
+        $( "#bottledwater" ).removeClass( "clickedbottledwater" )
+    }else {
+        // first time this is clicked, mark it
+        $("#bottledwater").addClass("clickedbottledwater");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/bottledwater.txt?" + rand, success: function(result){
+         $("#bottledwater").html(result);
+        }});
+    }
+   });
+  // Grab bottledwater on click end
+
   // Grab alloysbentprofilesandsheets on click start
   $("#alloysbentprofilesandsheetsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2519,7 +2536,7 @@ $(document).ready(function () {
    </div>	 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (16)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (16)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (18)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (18)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Echipamente morărit</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Echipamente ambalat alimente</span></h5> 
@@ -2562,8 +2579,11 @@ $(document).ready(function () {
    </div>	
   <h5 class="categoryaccordion" ><span id="en">Plant Based Milk</span><span id="ro">Lapte Vegetal</span></h5>
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Bottled Water</span><span id="ro">Apă Îmbuteliată</span></h5>   
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="bottledwaterbtn" ><span id="en">Bottled Water (2)</span><span id="ro">Apă Îmbuteliată (2)</span></h5>   
+   <div id="bottledwater" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="juicebtn" ><span id="en">Syrups / Juice (1)</span><span id="ro">Siropuri și Sucuri (1)</span></h5>    
    <div id="juice" class="categorypanel" >
    <!-- Load info start --> 
