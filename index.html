@@ -175,6 +175,23 @@ $(document).ready(function () {
    });
   // Grab bottledwater on click end
 
+  // Grab plantbasedmilk on click start
+  $("#plantbasedmilkbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#plantbasedmilk").hasClass("clickedplantbasedmilk")) {
+        // already been clicked once, hide it
+        $("#plantbasedmilk").html("");
+        $( "#plantbasedmilk" ).removeClass( "clickedplantbasedmilk" )
+    }else {
+        // first time this is clicked, mark it
+        $("#plantbasedmilk").addClass("clickedplantbasedmilk");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/plantbasedmilk.txt?" + rand, success: function(result){
+         $("#plantbasedmilk").html(result);
+        }});
+    }
+   });
+  // Grab plantbasedmilk on click end
+	
   // Grab alloysbentprofilesandsheets on click start
   $("#alloysbentprofilesandsheetsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2536,7 +2553,7 @@ $(document).ready(function () {
    </div>	 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (18)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (18)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (19)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (19)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Echipamente morărit</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Echipamente ambalat alimente</span></h5> 
@@ -2577,8 +2594,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" ><span id="en">Plant Based Milk</span><span id="ro">Lapte Vegetal</span></h5>
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="plantbasedmilkbtn" ><span id="en">Plant Based Milk (1)</span><span id="ro">Lapte Vegetal (1)</span></h5>
+   <div id="plantbasedmilk" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="bottledwaterbtn" ><span id="en">Bottled Water (2)</span><span id="ro">Apă Îmbuteliată (2)</span></h5>   
    <div id="bottledwater" class="categorypanel" >
    <!-- Load info start --> 
