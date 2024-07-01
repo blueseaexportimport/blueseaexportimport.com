@@ -59,7 +59,7 @@
 
   <div class="bottledwaterslides">
     <div class="fade" id="bottledwaterslide-1">
-      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/bottledwater.jpg" alt="bottled water productsitem1" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/bottledwaterc.jpg" alt="bottled water productsitem1" /> 
     </div>
     <div class="fade" id="bottledwaterslide-2">
       <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/bottledwaterb.jpg" alt="bottled water productsitem2" /> 
