@@ -57,7 +57,6 @@
        <tr><td>Smartphones display</td><td>Model xyz</td><td>-</td></tr>   
        <tr><td>Smartwatches display</td><td>Model xyz</td><td>-</td></tr>   
        <tr><td>Laptops display</td><td>Model xyz</td><td>-</td></tr>   
-       <tr><td>Laptos display</td><td>Model xyz</td><td>-</td></tr>   
        <tr><td>Cables display</td><td>Model xyz</td><td>-</td></tr>   
        <tr><td>Batteries display</td><td>Model xyz</td><td>-</td></tr>   
        <tr><td>Games display</td><td>Model xyz</td><td>-</td></tr>   
