@@ -191,6 +191,23 @@ $(document).ready(function () {
     }
    });
   // Grab logisticsmaterials on click end
+
+  // Grab packaging on click start
+  $("#packagingbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#packaging").hasClass("clickedpackaging")) {
+        // already been clicked once, hide it
+        $("#packaging").html("");
+        $( "#packaging" ).removeClass( "clickedpackaging" )
+    }else {
+        // first time this is clicked, mark it
+        $("#packaging").addClass("clickedpackaging");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/packaging.txt?" + rand, success: function(result){
+         $("#packaging").html(result);
+        }});
+    }
+   });
+  // Grab packaging on click end
 	
   // Grab plantbasedmilk on click start
   $("#plantbasedmilkbtn").click(function() {
@@ -2099,7 +2116,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div>
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>N. TECHNICAL, CONSUMABLES AND TOOLS  (3)</b></span> <span id="ro"><b>N. CONSUMABILE, TEHNICE ȘI SCULE (3)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>N. TECHNICAL, CONSUMABLES AND TOOLS  (4)</b></span> <span id="ro"><b>N. CONSUMABILE, TEHNICE ȘI SCULE (4)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Tools And Measuring Instruments</span><span id="ro">Scule și Instrumente de Măsurat</span></h5>   
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Power Tools Consumables</span><span id="ro">Accesorii și consumabile scule electrice</span></h5>    
@@ -2113,8 +2130,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Palletization Items</span><span id="ro">Paletizare</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Packaging, Labeling and Bottling</span><span id="ro">Ambalare , Etichetare și Îmbuteliere</span></h5>    
-  <div class="rowbin" >-</div>    
+  <h5 class="categoryaccordion" id="packagingbtn" ><span id="en">Packaging, Labeling and Bottling (1)</span><span id="ro">Ambalare , Etichetare și Îmbuteliere (1)</span></h5>    
+   <div id="packaging" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	    
   <h5 class="categoryaccordion" id="logisticsmaterialsbtn" ><span id="en">Logistics Materials (1)</span><span id="ro">Materiale Logistică (1)</span></h5>    
    <div id="logisticsmaterials" class="categorypanel" >
    <!-- Load info start --> 
