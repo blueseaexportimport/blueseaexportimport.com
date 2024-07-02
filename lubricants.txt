@@ -1,18 +1,7 @@
-       <tr><td><span id="en">Engine oil</span><span id="ro">Ulei de motor</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Gear Box oil</span><span id="ro">Ulei cutie de viteze </span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Racing oil</span><span id="ro">Ulei racing</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Transmission / chain oil</span><span id="ro">Ulei transmisii / de lanț</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Hydraulic oil</span><span id="ro">Ulei hidraulic</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Locomotive oil</span><span id="ro">Ulei locomotivă</span> </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Turbine oil</span><span id="ro">Ulei turbine</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Transformer oil</span><span id="ro">Ulei transformatoare</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Compressor oil</span><span id="ro">Ulei compresor</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Fine mechanisms oil</span><span id="ro">Ulei mecanisme fine</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Motorcycle oil</span><span id="ro">Ulei motociclete</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Tractor oil</span><span id="ro">Ulei tractor</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Clinker oil</span><span id="ro">Ulei clincher</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Bearing grease</span><span id="ro">Vaselină rulumenți</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Drilling grease</span><span id="ro">Vaselină pentru foraj </span> </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Silicone grease</span><span id="ro">Vaselină siliconică</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Lithium based grease</span><span id="ro">Vaselină pe bază de litiu</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Graphite grease</span><span id="ro">Vaselină grafitată</span></td><td>-</td><td>-</td></tr> 
+<style>
+    .lubricantsslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="lubricantsslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/lubricants.jpg" alt="lubricants item1" /> 
+</div>
