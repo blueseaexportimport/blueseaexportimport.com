@@ -158,6 +158,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab conductivematerials on click start
+  $("#conductivematerialsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#conductivematerials").hasClass("clickedconductivematerials")) {
+        // already been clicked once, hide it
+        $("#conductivematerials").html("");
+        $( "#conductivematerials" ).removeClass( "clickedconductivematerials" )
+    }else {
+        // first time this is clicked, mark it
+        $("#conductivematerials").addClass("clickedconductivematerials");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/conductivematerials.txt?" + rand, success: function(result){
+         $("#conductivematerials").html(result);
+        }});
+    }
+   });
+  // Grab conductivematerials on click end
+
   // Grab bottledwater on click start
   $("#bottledwaterbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2013,9 +2030,12 @@ $(document).ready(function () {
    </div>	   
    </div></li><!--END SECTION-->
 	   
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>K. COMPOSITE MATERIALS (0)</b></span> <span id="ro"><b>K. MATERIALE COMPOZITE (0)</b></span></button><div class="catalogpanel">
-   <h5 class="categoryaccordion" ><span id="en">Conductive materials</span><span id="ro">Materiale conductive</span></h5>    	
-   <div class="rowbin" >-</div>
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>K. COMPOSITE MATERIALS (1)</b></span> <span id="ro"><b>K. MATERIALE COMPOZITE (1)</b></span></button><div class="catalogpanel">
+   <h5 class="categoryaccordion" id="conductivematerialsbtn" ><span id="en">Conductive materials (1)</span><span id="ro">Materiale conductive (1)</span></h5>    	
+   <div id="conductivematerials" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" ><span id="en">Insulating materials</span><span id="ro">Materiale izolante</span></h5>    	
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Corrosion resistant materials</span><span id="ro">Materiale rezistente la coroziune</span></h5>    	
