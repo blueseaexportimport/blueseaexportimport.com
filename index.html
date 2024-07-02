@@ -175,6 +175,23 @@ $(document).ready(function () {
    });
   // Grab bottledwater on click end
 
+  // Grab lubricants on click start
+  $("#lubricantsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#lubricants").hasClass("clickedlubricants")) {
+        // already been clicked once, hide it
+        $("#lubricants").html("");
+        $( "#lubricants" ).removeClass( "clickedlubricants" )
+    }else {
+        // first time this is clicked, mark it
+        $("#lubricants").addClass("clickedlubricants");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/lubricants.txt?" + rand, success: function(result){
+         $("#lubricants").html(result);
+        }});
+    }
+   });
+  // Grab lubricants on click end
+
   // Grab logisticsmaterials on click start
   $("#logisticsmaterialsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -1967,7 +1984,7 @@ $(document).ready(function () {
       	   
    </div></li><!--END SECTION-->
 	   
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>J. CHEMICALS (1)</b></span> <span id="ro"><b>J. CHIMICALE (1)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>J. CHEMICALS (2)</b></span> <span id="ro"><b>J. CHIMICALE (2)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="chemicalplantbtn" ><span id="en">Chemicals plant</span><span id="ro">Uzină chimică</span></h5>    	
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="inorganiccompundselementsbtn"  ><span id="en">Inorganic compounds - Chemical elements</span><span id="ro">Compuși anorganici - Elemente chimice</span></h5>    	
@@ -1984,8 +2001,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="simpleorganiccompundsbtn" ><span id="en">Simple organic compounds</span><span id="ro">Compuși organici simpli</span></h5>    	
    <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" ><span id="en">Lubricants</span><span id="ro">Uleiuri și unsori</span></h5>    
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="lubricantsbtn" ><span id="en">Lubricants (1)</span><span id="ro">Uleiuri și unsori (1)</span></h5>    
+   <div id="lubricants" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" id="adhesivesbtn" ><span id="en">Adhesives (1)</span><span id="ro">Adezivi (1)</span></h5>    
    <div id="adhesives" class="categorypanel" >
    <!-- Load info start --> 
