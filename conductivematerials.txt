@@ -1,1 +1,8 @@
 
+<style>
+    .conductivematerialsslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="conductivematerialsslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/conductivematerials.jpg" alt="conductive materials item1" /> 
+</div>
