@@ -79,13 +79,16 @@
      ul{list-style-type:none;display:block;margin:0;padding:0;}
      li{text-align:left;}
      #ro{display:none;}
+
+/* Tooltip */
      .tooltiptext{
-      visibility: hidden;
-     }
-     /* Show the tooltip text when you mouse over the tooltip container */
-     .fa-viber:hover .tooltiptext {
-       visibility: visible;
-       opacity: 1;
+      display: none;
+      background:#151fba;
+      color:#FFF;
+      padding:5px;margin:5px;font-size:30px;font-family: 'Alumni Sans Bold', Arial, sans-serif;
+      position:absolute; 
+      z-index: 1;
+      border-radius: 4px;
      }
 
 /* Accordion */
@@ -3570,15 +3573,21 @@ for (i = 0; i < acc.length; i++) {
         <a href="https://www.instagram.com/blueseaexportimport" target=”_blank” class="fa fa-instagram">.</a>
         <a href="https://www.linkedin.com/company/blueseaexportimport" target=”_blank” class="fa fa-linkedin">.</a>
 	<a href="https://www.tiktok.com/@blueseaexportimport" target=”_blank” class="fa fa-tiktok">.</a>
-        <a href="#" target=”_blank” class="fa fa-viber">.<span class="tooltiptext">blueseaexportimport (at) outlook (dot) com </span></a>
+        <a href="#" target=”_blank” class="fa fa-viber" onclick="showEmail()" >.<span class="tooltiptext">blueseaexportimport (at) outlook (dot) com </span></a>
 </div>
+<script>
+function myFunction() {
+  document.getElementById("tooltiptext").style.display = "block";
+}
+</script>
+	    
 <div class="contact" >
  <span><b>Contact</b></span><br>
  <span><b>Tel / Whatsapp +40 743 307 383</span> </b><br>
  <span><b>Backup Whatsapp +40 774 936 814</span> </b><br>
  <span><b>Telegram @blueseaexportimportsrl</span> </b><br>
 
- <br><br><span><b>Postal</b></span> 
+ <br><span><b>Postal</b></span> 
  <span class="srlinfo">BD. UNIRII NR. 9, BL. 9, ET. 7, AP. 27, FOCSANI, ROMANIA, POSTAL CODE 620095</span><br>
 
 <span><b>OTP Info</b></span><br> 
