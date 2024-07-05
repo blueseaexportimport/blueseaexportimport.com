@@ -176,6 +176,74 @@ $(document).ready(function () {
    });
   // Grab conductivematerials on click end
 
+  // Grab insulatingmaterials on click start
+  $("#insulatingmaterialsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#insulatingmaterials").hasClass("clickedinsulatingmaterials")) {
+        // already been clicked once, hide it
+        $("#insulatingmaterials").html("");
+        $( "#insulatingmaterials" ).removeClass( "clickedinsulatingmaterials" )
+    }else {
+        // first time this is clicked, mark it
+        $("#insulatingmaterials").addClass("clickedinsulatingmaterials");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/insulatingmaterials.txt?" + rand, success: function(result){
+         $("#insulatingmaterials").html(result);
+        }});
+    }
+   });
+  // Grab insulatingmaterials on click end
+
+  // Grab corrosionresistantmaterials on click start
+  $("#corrosionresistantmaterialsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#corrosionresistantmaterials").hasClass("clickedcorrosionresistantmaterials")) {
+        // already been clicked once, hide it
+        $("#corrosionresistantmaterials").html("");
+        $( "#corrosionresistantmaterials" ).removeClass( "clickedcorrosionresistantmaterials" )
+    }else {
+        // first time this is clicked, mark it
+        $("#corrosionresistantmaterials").addClass("clickedcorrosionresistantmaterials");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/corrosionresistantmaterials.txt?" + rand, success: function(result){
+         $("#corrosionresistantmaterials").html(result);
+        }});
+    }
+   });
+  // Grab corrosionresistantmaterials on click end
+
+  // Grab acidresistantmaterials on click start
+  $("#acidresistantmaterialsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#acidresistantmaterials").hasClass("clickedacidresistantmaterials")) {
+        // already been clicked once, hide it
+        $("#acidresistantmaterials").html("");
+        $( "#acidresistantmaterials" ).removeClass( "clickedacidresistantmaterials" )
+    }else {
+        // first time this is clicked, mark it
+        $("#acidresistantmaterials").addClass("clickedacidresistantmaterials");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/acidresistantmaterials.txt?" + rand, success: function(result){
+         $("#acidresistantmaterials").html(result);
+        }});
+    }
+   });
+  // Grab acidresistantmaterials on click end
+
+  // Grab densematerials on click start
+  $("#densematerialsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#densematerials").hasClass("clickeddensematerials")) {
+        // already been clicked once, hide it
+        $("#densematerials").html("");
+        $( "#densematerials" ).removeClass( "clickeddensematerials" )
+    }else {
+        // first time this is clicked, mark it
+        $("#densematerials").addClass("clickeddensematerials");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/densematerials.txt?" + rand, success: function(result){
+         $("#densematerials").html(result);
+        }});
+    }
+   });
+  // Grab acidresistantmaterials on click end
+	
   // Grab bottledwater on click start
   $("#bottledwaterbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2031,20 +2099,32 @@ $(document).ready(function () {
    </div>	   
    </div></li><!--END SECTION-->
 	   
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>K. COMPOSITE MATERIALS (1)</b></span> <span id="ro"><b>K. MATERIALE COMPOZITE (1)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>K. COMPOSITE MATERIALS (5)</b></span> <span id="ro"><b>K. MATERIALE COMPOZITE (5)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="conductivematerialsbtn" ><span id="en">Conductive materials (1)</span><span id="ro">Materiale conductive (1)</span></h5>    	
    <div id="conductivematerials" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-   <h5 class="categoryaccordion" ><span id="en">Insulating materials</span><span id="ro">Materiale izolante</span></h5>    	
-   <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" ><span id="en">Corrosion resistant materials</span><span id="ro">Materiale rezistente la coroziune</span></h5>    	
-   <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" ><span id="en">Materials resistant to chemicals</span><span id="ro">Materiale rezistente la chimicale</span></h5>    	
-   <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" ><span id="en">Dense materials</span><span id="ro">Materiale dense</span></h5>    	
-   <div class="rowbin" >-</div>
+   <h5 class="categoryaccordion" id="insulatingmaterialsbtn" ><span id="en">Insulating materials (1)</span><span id="ro">Materiale izolante (1)</span></h5>    	
+   <div id="insulatingmaterials" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
+   <h5 class="categoryaccordion" id="corrosionresistantmaterialsbtn" ><span id="en">Corrosion resistant materials (1)</span><span id="ro">Materiale rezistente la coroziune (1)</span></h5>    	
+   <div id="corrosionresistantmaterials" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
+   <h5 class="categoryaccordion" id="acidresistantmaterialsbtn" ><span id="en">Materials resistant to chemicals (1)</span><span id="ro">Materiale rezistente la chimicale (1)</span></h5>    	
+   <div id="acidresistantmaterials" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
+   <h5 class="categoryaccordion" id="densematerialsbtn" ><span id="en">Dense materials (1)</span><span id="ro">Materiale dense (1)</span></h5>    	
+   <div id="densematerials" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" ><span id="en">Light materials</span><span id="ro">Materiale ușoare</span></h5>    	
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Ductile / malleable materials</span><span id="ro">Materiale ductibile / maleabile</span></h5>    	
