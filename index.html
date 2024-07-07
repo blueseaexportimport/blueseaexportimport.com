@@ -159,6 +159,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab fractureresistantmaterials on click start
+  $("#fractureresistantmaterialsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#fractureresistantmaterials").hasClass("clickedfractureresistantmaterials")) {
+        // already been clicked once, hide it
+        $("#fractureresistantmaterials").html("");
+        $( "#fractureresistantmaterials" ).removeClass( "clickedfractureresistantmaterials" )
+    }else {
+        // first time this is clicked, mark it
+        $("#fractureresistantmaterials").addClass("clickedfractureresistantmaterials");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/fractureresistantmaterials.txt?" + rand, success: function(result){
+         $("#fractureresistantmaterials").html(result);
+        }});
+    }
+   });
+  // Grab fractureresistantmaterials on click end
+	
   // Grab conductivematerials on click start
   $("#conductivematerialsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2116,7 +2133,7 @@ $(document).ready(function () {
    </div>	   
    </div></li><!--END SECTION-->
 	   
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>K. COMPOSITE MATERIALS (6)</b></span> <span id="ro"><b>K. MATERIALE COMPOZITE (6)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>K. COMPOSITE MATERIALS (7)</b></span> <span id="ro"><b>K. MATERIALE COMPOZITE (7)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="conductivematerialsbtn" ><span id="en">Conductive materials (1)</span><span id="ro">Materiale conductive (1)</span></h5>    	
    <div id="conductivematerials" class="categorypanel" >
    <!-- Load info start --> 
@@ -2147,8 +2164,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-   <h5 class="categoryaccordion" ><span id="en">Fracture resistant materials</span><span id="ro">Materiale rezistente la fractură</span></h5>    	
-   <div class="rowbin" >-</div>
+   <h5 class="categoryaccordion" id="fractureresistantmaterialsbtn" ><span id="en">Fracture resistant materials (1)</span><span id="ro">Materiale rezistente la fractură (1)</span></h5>    	
+   <div id="fractureresistantmaterials" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" ><span id="en">Hard materials</span><span id="ro">Materiale dure</span></h5>    	
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Plastic materials</span><span id="ro">Materiale plastice</span></h5>    	
