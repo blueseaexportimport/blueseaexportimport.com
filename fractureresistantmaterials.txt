@@ -1,1 +1,7 @@
+<style>
+    .fractureresistantmaterialsslidediv img{ width:100%; height:auto;}
+</style> 
 
+<div class="fractureresistantmaterialsslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/fractureresistantmaterials.jpg" alt="fractureresistantmaterials item1" /> 
+</div>
