@@ -159,6 +159,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab impactresistantmaterials on click start
+  $("#impactresistantmaterialsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#impactresistantmaterials").hasClass("clickedimpactresistantmaterials")) {
+        // already been clicked once, hide it
+        $("#impactresistantmaterials").html("");
+        $( "#impactresistantmaterials" ).removeClass( "clickedimpactresistantmaterials" )
+    }else {
+        // first time this is clicked, mark it
+        $("#impactresistantmaterials").addClass("clickedimpactresistantmaterials");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/Impactresistantmaterials.txt?" + rand, success: function(result){
+         $("#impactresistantmaterials").html(result);
+        }});
+    }
+   });
+  // Grab Impactresistantmaterials on click end
+
   // Grab fractureresistantmaterials on click start
   $("#fractureresistantmaterialsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2133,7 +2150,7 @@ $(document).ready(function () {
    </div>	   
    </div></li><!--END SECTION-->
 	   
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>K. COMPOSITE MATERIALS (7)</b></span> <span id="ro"><b>K. MATERIALE COMPOZITE (7)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>K. COMPOSITE MATERIALS (8)</b></span> <span id="ro"><b>K. MATERIALE COMPOZITE (8)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="conductivematerialsbtn" ><span id="en">Conductive materials (1)</span><span id="ro">Materiale conductive (1)</span></h5>    	
    <div id="conductivematerials" class="categorypanel" >
    <!-- Load info start --> 
@@ -2166,6 +2183,11 @@ $(document).ready(function () {
    </div>	
    <h5 class="categoryaccordion" id="fractureresistantmaterialsbtn" ><span id="en">Fracture resistant materials (1)</span><span id="ro">Materiale rezistente la fractură (1)</span></h5>    	
    <div id="fractureresistantmaterials" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
+   <h5 class="categoryaccordion" id="impactresistantmaterialsbtn" ><span id="en">Impact resistant materials (1)</span><span id="ro">Materiale rezistente la impact (1)</span></h5>    	
+   <div id="impactresistantmaterials" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
