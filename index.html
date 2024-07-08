@@ -169,7 +169,7 @@ $(document).ready(function () {
     }else {
         // first time this is clicked, mark it
         $("#impactresistantmaterials").addClass("clickedimpactresistantmaterials");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/Impactresistantmaterials.txt?" + rand, success: function(result){
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/impactresistantmaterials.txt?" + rand, success: function(result){
          $("#impactresistantmaterials").html(result);
         }});
     }
