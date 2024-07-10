@@ -159,6 +159,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab filtermaterials on click start
+  $("#filtermaterialsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#filtermaterials").hasClass("clickedfiltermaterials")) {
+        // already been clicked once, hide it
+        $("#filtermaterials").html("");
+        $( "#filtermaterials" ).removeClass( "clickedfiltermaterials" )
+    }else {
+        // first time this is clicked, mark it
+        $("#filtermaterials").addClass("clickedfiltermaterials");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/filtermaterials.txt?" + rand, success: function(result){
+         $("#filtermaterials").html(result);
+        }});
+    }
+   });
+  // Grab buyprocedure on click end
+	
   // Grab impactresistantmaterials on click start
   $("#impactresistantmaterialsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2218,7 +2235,7 @@ $(document).ready(function () {
    </div>	   
    </div></li><!--END SECTION-->
 	   
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>K. COMPOSITE MATERIALS (12)</b></span> <span id="ro"><b>K. MATERIALE COMPOZITE (12)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>K. COMPOSITE MATERIALS (14)</b></span> <span id="ro"><b>K. MATERIALE COMPOZITE (14)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="conductivematerialsbtn" ><span id="en">Conductive materials (1)</span><span id="ro">Materiale conductive (1)</span></h5>    	
    <div id="conductivematerials" class="categorypanel" >
    <!-- Load info start --> 
@@ -2279,10 +2296,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-   <h5 class="categoryaccordion" ><span id="en">Absorbent materials</span><span id="ro">Materiale absorbante</span></h5>    	
-   <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" ><span id="en">Filter materials</span><span id="ro">Materiale filtrante</span></h5>    	
-   <div class="rowbin" >-</div>
+   <h5 class="categoryaccordion" id="filtermaterialsbtn" ><span id="en">Filter materials (1)</span><span id="ro">Materiale filtrante (1)</span></h5>    	
+   <div id="filtermaterials" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" ><span id="en">Self-healing materials</span><span id="ro">Materiale autoreparante</span></h5>    	
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->
