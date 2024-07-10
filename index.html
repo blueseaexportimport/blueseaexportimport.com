@@ -203,7 +203,7 @@ $(document).ready(function () {
     }else {
         // first time this is clicked, mark it
         $("#materialsresistenttohightemperatures").addClass("clickedmaterialsresistenttohightemperatures");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/materialsresistenttohightemperatures.txt?" + rand, success: function(result){
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/materialsresistanttohightemperatures.txt?" + rand, success: function(result){
          $("#materialsresistenttohightemperatures").html(result);
         }});
     }
