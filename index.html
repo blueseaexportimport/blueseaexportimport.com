@@ -178,7 +178,41 @@ $(document).ready(function () {
     }
    });
   // Grab buyprocedure on click end
-	
+
+  // Grab compostsoil on click start
+  $("#compostsoilbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#compostsoil").hasClass("clickedcompostsoil")) {
+        // already been clicked once, hide it
+        $("#compostsoil").html("");
+        $( "#compostsoil" ).removeClass( "clickedcompostsoil" )
+    }else {
+        // first time this is clicked, mark it
+        $("#compostsoil").addClass("clickedcompostsoil");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/compostsoil.txt?" + rand, success: function(result){
+         $("#compostsoil").html(result);
+        }});
+    }
+   });
+  // Grab compostsoil on click end
+
+  // Grab babyfruitstrees on click start
+  $("#babyfruitstreesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#babyfruitstrees").hasClass("clickedbabyfruitstrees")) {
+        // already been clicked once, hide it
+        $("#babyfruitstrees").html("");
+        $( "#babyfruitstrees" ).removeClass( "clickedbabyfruitstrees" )
+    }else {
+        // first time this is clicked, mark it
+        $("#babyfruitstrees").addClass("clickedbabyfruitstrees");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/babyfruitstrees.txt?" + rand, success: function(result){
+         $("#babyfruitstrees").html(result);
+        }});
+    }
+   });
+  // Grab babyfruitstrees on click end
+
   // Grab impactresistantmaterials on click start
   $("#impactresistantmaterialsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2633,13 +2667,18 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->  
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS (13)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (13)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS (15)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (15)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="concreteandsteelsilosbtn" ><span id="en">Concrete and steel silos</span><span id="ro">Silozuri beton și oțel</span></h5> 
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="agriculturalmachinerybtn" ><span id="en">Agricultural machinery</span><span id="ro">Utilaje agricultură</span></h5> 
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="agriculturalmachinerybtn" ><span id="en">Acid Rain Prevention Systems</span><span id="ro">Sisteme de prevenire ploi acide</span></h5> 
    <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="compostsoilbtn" ><span id="en">Compost - Soil (1)</span><span id="ro">Compost - Sol (1)</span></h5> 
+   <div id="compostsoil" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="fertilizersbtn" ><span id="en">Fertilizers (1)</span><span id="ro">Îngrășăminte (1)</span></h5>    
    <div id="fertilizers" class="categorypanel" >
    <!-- Load info start --> 
@@ -2677,8 +2716,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" id="babyfruitstreesbtn" ><span id="en">Baby fruits trees</span><span id="ro">Puieți arbuști fructiferi</span></h5>    	
-   <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="babyfruitstreesbtn" ><span id="en">Baby fruits trees (1)</span><span id="ro">Puieți arbuști fructiferi (1)</span></h5>    	
+   <div id="babyfruitstrees" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="flowersandornamentalplantsbtn" ><span id="en">Flowers and ornamental plants seeds (3)</span><span id="ro">Semințe flori și plante ornamentale (3)</span></h5>  
    <div id="flowersandornamentalplants" class="categorypanel" >
    <!-- Load info start --> 
