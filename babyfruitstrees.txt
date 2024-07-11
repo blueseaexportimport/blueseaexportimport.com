@@ -1,37 +1,7 @@
+<style>
+    .babyfruitstreesslidediv img{ width:100%; height:auto;}
+</style> 
 
-<tbody>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">COF0001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Baby fruits trees - Romsilva</span><span id="ro">Puieți arbuști fructiferi - Romsilva</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-
-<tr><td>Formula 1</td><td>21,80 RON / 0,4-0,8m <span id="en">Siberian Dogwood Tree ( Cornus alba )</span><span id="ro">Puiet Corn alb ( Cornus alba )</span></td></tr>
-<tr><td>Formula 2</td><td>32,70 RON / 1,5-2,5m <span id="en">Baby Russian Olive Tree ( Eleagnus angustifolia )</span><span id="ro">Puiet Sălcioară ( Eleagnus angustifolia ) </span></td></tr>
-<tr><td>Formula 3</td><td>32,70 RON / 0,5-1,0m <span id="en">Baby Black Chokeberry Tree - Aronia ( Aronia melanocarpa )</span><span id="ro">Puiet Scoruș negru - Aronia ( Aronia melanocarpa )</span></td></tr>
-<tr><td>Formula 4</td><td>54,50 RON / 1-2m <span id="en">Baby Japanese flowering crabapple ( Malus floribunda )</span><span id="ro">Puiet Măr pădureț japonez ( Malus floribunda )</span></td></tr>
-<tr><td>Formula 5</td><td>50,00 RON / 1-2m <span id="en">Baby Common Hazel Tree ( Corylus avellana )</span><span id="ro">Puiet Alun ( Corylus avellana )</span></td></tr>
-<tr><td>Formula 6</td><td>40,00 RON / 0.5-1m <span id="en">Baby Sweet Chestnut Tree ( Castanea sativa )</span><span id="ro">Castan comestibil ( Castanea sativa )</span></td></tr>
-<tr><td>Formula 7</td><td>65.40 RON / 1.0-1.5m <span id="en">Baby Decorative Purple Leaf Plum 'Pissardii'  Tree ( Prunus cerasifera Pissardii )</span><span id="ro">Puiet Corcoduș roșu decorativ( Prunus cerasifera Pissardii )</span></td></tr>
-<tr><td>Formula 8</td><td>87.20 RON / 1.6-2.0m <span id="en">Baby Decorative Purple Leaf Plum 'Pissardii'  Tree ( Prunus cerasifera Pissardii )</span><span id="ro">Puiet Corcoduș roșu decorativ( Prunus cerasifera Pissardii )</span></td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.rosilva.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-
-
-</tbody>
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
-}
-});
-</script>
+<div class="babyfruitstreesslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/babyfruitstrees.jpg" alt="babyfruitstrees item1" /> 
+</div>
