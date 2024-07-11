@@ -1,0 +1,7 @@
+<style>
+    .compostsoilslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="compostsoilslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/compostsoil.jpg" alt="compostsoil item1" /> 
+</div>
