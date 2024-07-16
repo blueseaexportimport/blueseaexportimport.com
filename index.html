@@ -162,6 +162,43 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+
+  // Grab vehiclebody on click start
+  $("#bodybtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#body").hasClass("clickedbody")) {
+        // already been clicked once, hide it
+        $("#body").html("");
+        $( "#body" ).removeClass( "clickedbody" )
+    }else {
+        // first time this is clicked, mark it
+        $("#body").addClass("clickedbody");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/body.txt?" + rand, success: function(result){
+         $("#body").html(result);
+        }});
+    }
+   });
+  // Grab vehiclebody on click end
+
+  // Grab electricalsystem on click start
+  $("#electricalsystembtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#electricalsystem").hasClass("clickedelectricalsystem")) {
+        // already been clicked once, hide it
+        $("#electricalsystem").html("");
+        $( "#electricalsystem" ).removeClass( "clickedelectricalsystem" )
+    }else {
+        // first time this is clicked, mark it
+        $("#electricalsystem").addClass("clickedelectricalsystem");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/electricalsystem.txt?" + rand, success: function(result){
+         $("#electricalsystem").html(result);
+        }});
+    }
+   });
+  // Grab electricalsystem on click end
+	
+	
+
   // Grab filtermaterials on click start
   $("#filtermaterialsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -177,7 +214,7 @@ $(document).ready(function () {
         }});
     }
    });
-  // Grab buyprocedure on click end
+  // Grab filtermaterials on click end
 
   // Grab compostsoil on click start
   $("#compostsoilbtn").click(function() {
@@ -2461,9 +2498,12 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->	 
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>O. VEHICLES SEMIFABRICATED PARTS (0)</b></span> <span id="ro"><b>O. PIESE SEMIFABRICATE VEHICULE (0)</b></span></button><div class="catalogpanel">
-  <h5 class="categoryaccordion" ><span id="en">Body  </span><span id="ro">Caroserie</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>O. VEHICLES SEMIFABRICATED PARTS (2)</b></span> <span id="ro"><b>O. PIESE SEMIFABRICATE VEHICULE (2)</b></span></button><div class="catalogpanel">
+  <h5 class="categoryaccordion" id="bodybtn" ><span id="en">Body (1)</span><span id="ro">Caroserie (1)</span></h5>    
+   <div id="body" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>		
   <h5 class="categoryaccordion" ><span id="en">Closure Components </span><span id="ro">Componente Închidere</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Exterior Fittings </span><span id="ro">Elemente Exterioare</span></h5>    
@@ -2476,8 +2516,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Battery System</span><span id="ro">Sistem baterie</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Electrical System</span><span id="ro">Sistem electric</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="electricalsystembtn" ><span id="en">Electrical System (1)</span><span id="ro">Sistem electric (1)</span></h5>    
+   <div id="electricalsystem" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" ><span id="en">Thermal Management ( HVAC )</span><span id="ro">Control temperatură ( HVAC )</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Labels</span><span id="ro">Etichete</span></h5>    
