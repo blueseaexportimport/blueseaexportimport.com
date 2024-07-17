@@ -173,7 +173,7 @@ $(document).ready(function () {
     }else {
         // first time this is clicked, mark it
         $("#body").addClass("clickedbody");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/body.txt?" + rand, success: function(result){
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/vehiclebody.txt?" + rand, success: function(result){
          $("#body").html(result);
         }});
     }
@@ -190,7 +190,7 @@ $(document).ready(function () {
     }else {
         // first time this is clicked, mark it
         $("#electricalsystem").addClass("clickedelectricalsystem");
-         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/electricalsystem.txt?" + rand, success: function(result){
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/vehicleelectricalsystem.txt?" + rand, success: function(result){
          $("#electricalsystem").html(result);
         }});
     }
