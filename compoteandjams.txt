@@ -1,35 +1,7 @@
-<tbody>
+<style>
+    .compoteandjamsslidediv img{ width:100%; height:auto;}
+</style> 
 
-    <tr><td><span id="en">Apricot jam</span><span id="ro">Gem de caise</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Plum jam</span><span id="ro">Gem de prune</span>  </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Bitter cherries jam</span><span id="ro">Gem cireșe amare</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Cornelian cherry jam</span><span id="ro">Gem de coarne</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Quince jam</span><span id="ro">Gem de gutui</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Rosehip marmalade</span><span id="ro">Marmeladă de măceșe</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Cranberries jam</span><span id="ro">Gem de merișoare</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Sour cherries jam</span><span id="ro">Gem de vișine</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Raspberries jam</span><span id="ro">Gem de zmeură</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Chilli pepper jam</span><span id="ro">Gem de ardei iute</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Onions jam</span><span id="ro">Gem de ceapă</span> </td><td>-</td><td>-</td></tr>     
-    <tr><td><span id="en">Strawberries jam</span><span id="ro">Gem de capșuni</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Blueberries jam</span><span id="ro">Gem de afine</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Apples jam</span><span id="ro">Gem de mere</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Damask rose jam</span><span id="ro">Gem de trandafir Damasc</span> </td><td>-</td><td>-</td></tr>    
-    <tr><td><span id="en">Blackberries jam</span><span id="ro">Gem de mure</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Green walnuts jam</span><span id="ro">Gem de nuci verzi</span> </td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Black currant jam</span><span id="ro">Gem de coacăze negre</span> </td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Mirabelle plum jam</span><span id="ro">Gem de corcodușe</span> </td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Elderflower jam</span><span id="ro">Gem de soc</span> </td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Figs jam</span><span id="ro">Gem de smochine</span> </td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Oranges jam</span><span id="ro">Gem de portocale</span> </td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Apricot compote</span><span id="ro">Compot de caise</span> </td><td>-</td><td>-</td></tr>        
-    <tr><td><span id="en">Plum compote</span><span id="ro">Compot de prune</span> </td><td>-</td><td>-</td></tr>             
-    <tr><td><span id="en">Sour cherries compote</span><span id="ro">Compot de vișine</span> </td><td>-</td><td>-</td></tr>                  
-    <tr><td><span id="en">Cherries compote</span><span id="ro">Compot de cireșe</span> </td><td>-</td><td>-</td></tr>        
-    <tr><td><span id="en">Raspberries compote</span><span id="ro">Compot de zmeură</span> </td><td>-</td><td>-</td></tr>              
-    <tr><td><span id="en">Peach compote</span><span id="ro">Compot de persici</span> </td><td>-</td><td>-</td></tr>           
-    <tr><td><span id="en">Pinapple compote</span><span id="ro">Compot de ananas</span> </td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Mirabelle plum compote</span><span id="ro">Compot de corcodușe</span> </td><td>-</td><td>-</td></tr>
-
-
-</tbody>
+<div class="compoteandjamsslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/compoteandjams.jpg" alt="compote and jams item1" /> 
+</div>
