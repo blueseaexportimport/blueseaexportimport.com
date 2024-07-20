@@ -3,5 +3,5 @@
 </style> 
 
 <div class="compoteandjamsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/compoteandjams.jpg" alt="compote and jams item1" /> 
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/compoteandjamsa.jpg" alt="compote and jams item1" /> 
 </div>
