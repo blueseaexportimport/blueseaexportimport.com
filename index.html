@@ -162,6 +162,39 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab compoteandjams on click start
+  $("#compoteandjamsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#compoteandjams").hasClass("clickedcompoteandjams")) {
+        // already been clicked once, hide it
+        $("#compoteandjams").html("");
+        $( "#compoteandjams" ).removeClass( "clickedcompoteandjams" )
+    }else {
+        // first time this is clicked, mark it
+        $("#compoteandjams").addClass("clickedcompoteandjams");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/compoteandjams.txt?" + rand, success: function(result){
+         $("#compoteandjams").html(result);
+        }});
+    }
+   });
+  // Grab compoteandjams on click end
+
+  // Grab cookingingrediants on click start
+  $("#cookingingrediantsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#cookingingrediants").hasClass("clickedcookingingrediants")) {
+        // already been clicked once, hide it
+        $("#cookingingrediants").html("");
+        $( "#cookingingrediants" ).removeClass( "clickedcookingingrediants" )
+    }else {
+        // first time this is clicked, mark it
+        $("#cookingingrediants").addClass("clickedcookingingrediants");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/cookingingrediants.txt?" + rand, success: function(result){
+         $("#cookingingrediants").html(result);
+        }});
+    }
+   });
+  // Grab cookingingrediants on click end
 
   // Grab vehiclebody on click start
   $("#bodybtn").click(function() {
@@ -2942,7 +2975,7 @@ $(document).ready(function () {
    </div>	 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (19)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (19)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (24)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (24)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Echipamente morărit</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Echipamente ambalat alimente</span></h5> 
@@ -2960,10 +2993,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion"><span id="en">Refined sugar</span><span id="ro">Zahăr rafinat</span></h5>    
-  <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" id="cookingingrediantsbtn" ><span id="en">Cooking Ingrediants</span><span id="ro">Ingrediente pentru Gătit</span></h5>  
-   <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="cookingingrediantsbtn" ><span id="en">Cooking Ingrediants (4)</span><span id="ro">Ingrediente pentru Gătit (4)</span></h5>  
+   <div id="cookingingrediants" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion"><span id="en">Food Grade Starch</span><span id="ro">Amidon alimentar</span></h5>     
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="cookingessencebtn" ><span id="en">Cooking Essence</span><span id="ro">Esențe Alimentare</span></h5>    
@@ -2998,8 +3032,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" ><span id="en">Compote and Jams</span><span id="ro">Gemuri și Compoturi</span></h5>
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="compoteandjamsbtn" ><span id="en">Compote and Jams (1)</span><span id="ro">Gemuri și Compoturi (1)</span></h5>
+   <div id="compoteandjams" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" ><span id="en">Sauces</span><span id="ro">Sosuri</span></h5>
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Spices Mixes - Blends </span><span id="ro">Mixuri de Ierburi și Condimente</span></h5>
