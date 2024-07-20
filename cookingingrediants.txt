@@ -1,257 +1,77 @@
-<tbody>
+<style>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Cooking ingredients - Dr. Oetker</span><span id="ro">Ingrediente pentru gătit -  Dr. Oetker</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
+.cookingingrediantsslider{
+ width:100%;
+}
+.cookingingrediantsslidernav{
+ text-align:center;
+ width:100%; 
+}
+.cookingingrediantsslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
-<tr><td>Formula 1</td><td>0.6 RON / 10g <span id="en">Baking powder</span><span id="ro">Praf de copt</span></td></tr>
-<tr><td>Formula 2</td><td>0.8 RON / 8g <span id="en">Vanilla sugar</span><span id="ro">Zahăr vanilat</span></td></tr>
-<tr><td>Formula 3</td><td>0.5 RON / 7g <span id="en">Food grade ammonium bicarbonate for baking</span><span id="ro">Bicarbonat de amoniu alimentar</span></td></tr>
-<tr><td>Formula 4</td><td>1.1 RON / 8g <span id="en">Whipped cream thickener</span><span id="ro">Întăritor de frișcă</span></td></tr>
-<tr><td>Formula 5</td><td>1.2 RON / 50g <span id="en">Food grade sodium bicarbonate salt</span><span id="ro">Bicarbonat de sodiu alimentar</span></td></tr>
-<tr><td>Formula 6</td><td>1.5 RON / 10g <span id="en">Cooking gelatin powder</span><span id="ro">Gelatină pudră alimentară</span></td></tr>
-<tr><td>Formula 7</td><td>1.5 RON / 10g <span id="en">Food grade citric acid</span><span id="ro">Acid citric alimentar ( Sare de lămâie )</span></td></tr>
-<tr><td>Formula 8</td><td>1.7 RON / 7g <span id="en">Baking dry yeast</span><span id="ro">Drojdie uscată pudră alimentară</span></td></tr>
+.cookingingrediantsslides img {
+  max-width: 100%;
+  height: auto;
+}
 
-<tr><td>Formula 9</td><td>1.4 RON / 40g <span id="en">Pudding powder with caramel taste</span><span id="ro">Praf de budincă cu gust de caramel</span></td></tr>
-<tr><td>Formula 10</td><td>1.4 RON / 40g <span id="en">Pudding powder with whipped cream taste</span><span id="ro">Praf de budincă cu gust de frişcă</span></td></tr>
-<tr><td>Formula 11</td><td>1.5 RON / 40g <span id="en">Pudding powder with vanilla taste</span><span id="ro">Praf de budincă cu gust de vanilie</span></td></tr>
-<tr><td>Formula 12</td><td>1.7 RON / 50g <span id="en">Pudding powder with chocolate and rom taste</span><span id="ro">Praf de budincă cu gust de ciocolată și rom</span></td></tr>
-<tr><td>Formula 13</td><td>1.8 RON / 40g <span id="en">Pudding powder with strawberry taste</span><span id="ro">Praf de budincă cu gust de căpşuni</span></td></tr>
-<tr><td>Formula 14</td><td>1.8 RON / 40g <span id="en">Pudding powder with lemon taste</span><span id="ro">Praf de budincă cu gust de lămâie</span></td></tr>
-<tr><td>Formula 15</td><td>1.9 RON / 50g <span id="en">Pudding powder with chocolate taste</span><span id="ro">Praf de budincă cu gust de ciocolată</span></td></tr>
-<tr><td>Formula 16</td><td>1.9 RON / 40g <span id="en">Pudding powder with Crème Brûlée taste</span><span id="ro">Praf de budincă cu gust de Crème Brûlée</span></td></tr>
-<tr><td>Formula 17</td><td>2 RON / 50g <span id="en">Pudding powder with dark chocolate taste</span><span id="ro">Praf de budincă u gust de ciocolată neagră</span></td></tr>
-<tr><td>Formula 18</td><td>2.7 RON / 40g <span id="en">Pudding powder with white chocolate and peanuts taste</span><span id="ro">Praf de budincă cu gust de ciocolată albă și alune</span></td></tr>
+.cookingingrediantsslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
 
-<tr><td>Formula 19</td><td>2.5 RON / 38g <span id="en">Pudding powder premium pudding caramel</span><span id="ro">Praf de budincă premium pudding caramel</span></td></tr>
-<tr><td>Formula 20</td><td>2.5 RON / 51g <span id="en">Pudding powder premium pudding belgian chocolate</span><span id="ro">Praf de budincă premium pudding ciocolată belgiană</span></td></tr>
-<tr><td>Formula 21</td><td>3.5 RON / 35g <span id="en">Pudding powder premium pudding with vanilla and strawberry</span><span id="ro">Praf de budincă premium pudding cu vanilie şi căpşuni</span></td></tr>
-<tr><td>Formula 22</td><td>3.6 RON / 47g <span id="en">Pudding powder premium pudding with chocolate and coconut</span><span id="ro">Praf de budincă premium pudding ciocolată şi cocos</span></td></tr>
-<tr><td>Formula 23</td><td>3.9 RON / 36g <span id="en">Pudding powder premium pudding pistachio</span><span id="ro">Praf de budincă premium pudding fistic</span></td></tr>
-<tr><td>Formula 24</td><td>4.7 RON / 37g <span id="en">Pudding powder premium pudding coffee</span><span id="ro">Praf de budincă premium pudding cafea</span></td></tr>
-<tr><td>Formula 25</td><td>5.5 RON / 34g <span id="en">Pudding powder premium pudding vanilie Bourbon</span><span id="ro">Praf de budincă premium pudding vanilie Bourbon</span></td></tr>
+.cookingingrediantsslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.cookingingrediantsslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.cookingingrediantsslidernav a:hover {background-color: gold;}
+.cookingingrediantsslidernav a:active {background-color: gold;}
+.cookingingrediantsslidernav a:focus {background-color: gold;}
 
-<tr><td>Formula 26</td><td>0.9 RON / 5g <span id="en">Yellow liquid paint for eggs</span><span id="ro">Vopsea lichida galbena, 10 oua</span> Carmin</td></tr>
-<tr><td>Formula 27</td><td>0.9 RON / 5g <span id="en">Purple liquid paint for eggs</span><span id="ro">Vopsea lichida violet, 10 oua</span> Carmin</td></tr>
-<tr><td>Formula 28</td><td>0.9 RON / 5g <span id="en">Red liquid paint for eggs</span><span id="ro">Vopsea lichida rosie, 10 oua</span> Carmin</td></tr>
-<tr><td>Formula 29</td><td>0.9 RON / 5g <span id="en">Green liquid paint for eggs</span><span id="ro">Vopsea lichida verde, 10 oua</span> Carmin</td></tr>
-<tr><td>Formula 30</td><td>0.9 RON / 5g <span id="en">Blue liquid paint for eggs</span><span id="ro">Vopsea lichida albastra, 10 oua</span> Carmin</td></tr>
+</style>
 
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.oetker.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
+<div class="maturedcheeseslider">
 
+<div class="cookingingrediantsslidernav" >
+  <a href="#cookingingrediantsslide-1">1</a>
+  <a href="#cookingingrediantsslide-2">2</a>
+  <a href="#cookingingrediantsslide-3">3</a>
+  <a href="#cookingingrediantsslide-4">4</a>
+</div>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING002</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Cooking ingredients - Solaris</span><span id="ro">Ingrediente pentru gătit -  Solaris</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
+  <div class="cookingingrediantsslides">
+    <div class="fade" id="maturedcheeseslide-1">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/cookingingredients.jpg" alt="cookingingrediants item1" /> 
+    </div>
+    <div class="fade" id="maturedcheeseslide-2">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/cookingingredientsb.jpg" alt="cookingingrediants item2" /> 
+    </div>
+    <div class="fade" id="maturedcheeseslide-3">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/cookingingredientsc.jpg" alt="cookingingrediants item3" /> 
+    </div>
+    <div class="fade" id="maturedcheeseslide-4">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/cookingingredientsd.jpg" alt="cookingingrediants item4" /> 
+    </div>
+  </div><!-- cookingingrediantsSlides -->
 
-<tr><td>Formula 1</td><td>7.7 RON / 100g <span id="en">Dissected grated coconut</span><span id="ro">Nucă de cocos rasă uscată</span></td></tr>
-<tr><td>Formula 2</td><td>9.1 RON / 100g <span id="en">Coconut flakes</span><span id="ro">Fulgi nucă de cocos</span></td></tr>
-<tr><td>Formula 3</td><td>10.7 RON / 500g <span id="en">Muscovado brown sugar</span><span id="ro">Zahăr brun Muscovado</span></td></tr>
-<tr><td>Formula 4</td><td>10.8 RON / 170ml <span id="en">Molasses</span><span id="ro">Melasă</span></td></tr>
-<tr><td>Formula 5</td><td>15.1 RON / 250g <span id="en">Coconut sugar </span><span id="ro">Zahăr din cocos</span></td></tr>
-<tr><td>Formula 6</td><td>16.5 RON / kg <span id="en">Unrefined brown sugar from sugar cane</span><span id="ro">Zahăr nerafinat brun din trestie</span></td></tr>
-<tr><td>Formula 7</td><td>19.3 RON / kg <span id="en">Brown sugar from molasses</span><span id="ro">Zahăr brun din melasă</span></td></tr>
-<tr><td>Formula 8</td><td>42.8 RON / kg <span id="en">Raw sugar cane sugar eco</span><span id="ro">Zahăr brut din trestie eco</span></td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://solarisplant.ro/cocos-ras-solaris" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING003</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Cooking ingredients - Feleacul</span><span id="ro">Ingrediente pentru gătit -  Feleacul</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-
-<tr><td>Formula 1</td><td>11 RON / 500g <span id="en">Turkish delight with cacao flavor</span><span id="ro">Rahat turcesc cu aromă cacao</span></td></tr>
-<tr><td>Formula 2</td><td>11 RON / 500g <span id="en">Turkish delight with fruits flavor</span><span id="ro">Rahat turcesc cu aromă de fructe</span></td></tr>
-<tr><td>Formula 3</td><td>4.5 RON / 100g <span id="en">Food grade glucose tablets with vanilla flavor</span><span id="ro">Glucoză alimentară cu aromă de vanilie</span></td></tr>
-<tr><td>Formula 4</td><td>4.5 RON / 100g <span id="en">Food grade glucose tabletsr</span><span id="ro">Glucoză alimentară</span></td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.boromirmarket.ro/rahat" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING004</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Raw sugar cane sugar - Solaris</span><span id="ro">Zahăr brut din trestie -  Solaris</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Non-EU</span><span id="ro">Non-UE</span></td></tr>
-
-<tr><td>Formula 1</td><td>9.37 RON / kg  <span id="en">Raw sugar cane sugar 25kg bag</span><span id="ro">Zahăr brut din trestie sac 25kg</span></td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://sanovita.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING005</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Yeast - Pakmaya</span><span id="ro">Drojdie -  Pakmaya</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
-
-<tr><td>Formula 1</td><td>0.9 RON / 10g <span id="en">Baking dry yeast</span><span id="ro">Drojdie uscată pudră alimentară</span></td></tr>
-<tr><td>Formula 2</td><td>1.2 RON / 25g <span id="en">Baking fresh cube yeast</span><span id="ro">Drojdie cuburi alimentară</span></td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://pakmaya.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING006</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Lemon juice - Limmi</span><span id="ro">Suc de lămâie -  Limmi</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Italia</span><span id="ro">Italia</span></td></tr>
-
-<tr><td>Formula 1</td><td>5.2 RON / 200ml <span id="en">Lemon juice</span><span id="ro">Suc de lămâie</span></td></tr>
-<tr><td>Formula 2</td><td>7.2 RON / 200ml <span id="en">Green lemon juice</span><span id="ro">Suc de lămâie verde</span></td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.limmi.it" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING007</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Candied fruits </span><span id="ro">Fructe confiate -  Eurocas</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
-
-<tr><td>Formula 1</td><td>46.2 RON / kg <span id="en">Candied cherries</span><span id="ro">Cireșe confiate</span> - <a style="color:gold;" href="https://eurocas.ro" target="_blank" >Eurocas</a></td></tr>
-<tr><td>Formula 2</td><td>44.5 RON / kg <span id="en">Candied Amarena cherries</span><span id="ro">Cireșe Amarena confiate</span> - <a style="color:gold;" href="https://eurocas.ro" target="_blank" >Eurocas</a></td></tr>
-<tr><td>Formula 3</td><td>34.6 RON / kg <span id="en">Candied orange cubes</span><span id="ro">Cuburi portocale confiate</span> - <a style="color:gold;" href="https://eurocas.ro" target="_blank" >Eurocas</a></td></tr>
-<tr><td>Formula 4</td><td>43.5 RON / kg <span id="en">Candied Amarena cherries in syrup</span><span id="ro">Cireșe Amarena confiate în sirop</span> - <a style="color:gold;" href="https://eurocas.ro" target="_blank" >Eurocas</a></td></tr>
-<tr><td>Formula 5</td><td>12.8 RON / 200g <span id="en">Candied ginger</span><span id="ro">Ghimbir confiat</span> - <a style="color:gold;" href="https://solarisplant.ro/ghimbir-confiat-200g-solaris" target="_blank" >Solaris plant</a></td></tr>
-<tr><td>Formula 6</td><td>10.3 RON / 100g <span id="en">Candied papaya</span><span id="ro">Papaya confiate</span> - <a style="color:gold;" href="https://sanovita.ro" target="_blank" >Sanovita</a></td></tr>
-<tr><td>Formula 7</td><td>12.3 RON / 100g <span id="en">Candied pineapple</span><span id="ro">Ananas confiate</span> - <a style="color:gold;" href="https://sanovita.ro" target="_blank" >Sanovita</a></td></tr>
-
-<tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various Romania suppliers</span><span id="ro">Furnizori din România</span></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING008</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Cheese making rennet - Ideal</span><span id="ro">Cheag pentru brânzeturi -  Ideal</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-
-<tr><td>Formula 1</td><td>1.1 RON / 4g <span id="en">envelope Powder cheese making rennet for 50L milk (10pcs set)</span><span id="ro">plic Cheag pentru brânzeturi pulbere 50L lapte (10buc set)</span></td></tr>
-<tr><td>Formula 2</td><td>1.1 RON / 4g <span id="en">envelope Powder cheese making rennet for 100L milk (10pcs set)</span><span id="ro">plic Cheag pentru brânzeturi pulbere pentru 100L lapte (10buc set)</span></td></tr>
-<tr><td>Formula 3</td><td>1.3 RON / 4g <span id="en">envelope Powder cheese making rennet for 100L fat milk (10pcs set)</span><span id="ro">plic Cheag pentru brânzeturi pulbere 100L lapte gras (10buc set)</span></td></tr>
-<tr><td>Formula 4</td><td>1.6 RON / 4g <span id="en">envelope Powder cheese making rennet for 200L milk (10pcs set)</span><span id="ro">plic Cheag pentru brânzeturi pulbere 200L lapte (10buc set)</span></td></tr>
-
-<tr><td>Formula 5</td><td>5 RON / 50ml <span id="en">Liquid cheese making rennet</span><span id="ro">Cheag pentru brânzeturi lichid</span> 150 IMCU/ml</td></tr>
-<tr><td>Formula 6</td><td>8 RON / 100ml <span id="en">Liquid cheese making rennet</span><span id="ro">Cheag pentru brânzeturi lichid</span> 150 IMCU/ml</td></tr>
-<tr><td>Formula 7</td><td>18.5 RON / 250ml <span id="en">Liquid cheese making rennet</span><span id="ro">Cheag pentru brânzeturi lichid</span> 190 IMCU/ml</td></tr>
-<tr><td>Formula 8</td><td>121 RON / 500ml <span id="en">Liquid cheese making rennet</span><span id="ro">Cheag pentru brânzeturi lichid</span> 1000 IMCU/ml</td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.cheag-ideal.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING009</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Vanillin - Limmi</span><span id="ro">Vanilină alimentară -  Limmi</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Italia</span><span id="ro">Italia</span></td></tr>
-
-<tr><td>Formula 1</td><td>5.5 RON / 3g x 6<span id="en">pcs envelope</span><span id="ro">buc plic</span></td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://paneangeli.it/prodotti/aromi/altri-aromi/vanillina" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ING010</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Seasoning powder for soups</span><span id="ro">Bază pentru mâncăruri</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >EU</span><span id="ro">UE</span></td></tr>
-
-<tr><td>Formula 1</td><td>2.5 RON / 75g <span id="en">Maggi "Secretul Gustului" Chicken</span><span id="ro">Maggi Secretul Gustului Gaina</span> - <a style="color:gold;" href="https://www.nestle.ro/" target="_blank" >Nestlé</a></td></tr>
-<tr><td>Formula 2</td><td>2.6 RON / 70g <span id="en">Maggi Vegetables Bors</span><span id="ro">Maggi Bors Legume</span> - <a style="color:gold;" href="https://www.nestle.ro/" target="_blank" >Nestlé</a></td></tr>
-<tr><td>Formula 3</td><td>6.9 RON / 200g <span id="en">Maggi "Secretul Gustului" Chicken</span><span id="ro">Maggi Secretul Gustului Gaina</span> - <a style="color:gold;" href="https://www.nestle.ro/" target="_blank" >Nestlé</a></td></tr>
-<tr><td>Formula 4</td><td>12.5 RON / 400g <span id="en">Maggi "Secretul Gustului" Chicken</span><span id="ro">Maggi Secretul Gustului Gaina</span> - <a style="color:gold;" href="https://www.nestle.ro/" target="_blank" >Nestlé</a></td></tr>
-<tr><td>Formula 5</td><td>29.2 RON / kg <span id="en">Maggi "Secretul Gustului" Chicken</span><span id="ro">Maggi Secretul Gustului Gaina</span> - <a style="color:gold;" href="https://www.nestle.ro/" target="_blank" >Nestlé</a></td></tr>
-<tr><td>Formula 6</td><td>2.2 RON / 75g <span id="en">Maggi "Secretul Gustului" Vegetables</span><span id="ro">Maggi Secretul Gustului Legume</span> - <a style="color:gold;" href="https://www.nestle.ro/" target="_blank" >Nestlé</a></td></tr>
-<tr><td>Formula 7</td><td>5.7 RON / 200g <span id="en">Maggi "Secretul Gustului" Vegetables</span><span id="ro">Maggi Secretul Gustului Legume</span> - <a style="color:gold;" href="https://www.nestle.ro/" target="_blank" >Nestlé</a></td></tr>
-<tr><td>Formula 8</td><td>11.2 RON / 400g <span id="en">Maggi "Secretul Gustului" Vegetables</span><span id="ro">Maggi Secretul Gustului Legume</span> - <a style="color:gold;" href="https://www.nestle.ro/" target="_blank" >Nestlé</a></td></tr>
-<tr><td>Formula 9</td><td>23.9 RON / kg <span id="en">Maggi "Secretul Gustului" Vegetables</span><span id="ro">Maggi Secretul Gustului Legume</span> - <a style="color:gold;" href="https://www.nestle.ro/" target="_blank" >Nestlé</a></td></tr>
-<tr><td>Formula 10</td><td>2.3 RON / 60g <span id="en">Maggi seasoning cubes for soups "Chicken"</span><span id="ro">Maggi bază pentru mâncăruri cuburi "Gaina"</span> - <a style="color:gold;" href="https://www.nestle.ro/" target="_blank" >Nestlé</a></td></tr>
-<tr><td>Formula 11</td><td>2.7 RON / 60g <span id="en">Maggi seasoning cubes for soups "Vegetables"</span><span id="ro">Maggi bază pentru mâncăruri cuburi "Legume"</span> - <a style="color:gold;" href="https://www.nestle.ro/" target="_blank" >Nestlé</a></td></tr>
-<tr><td>Formula 12</td><td>2.9 RON / 60g <span id="en">Maggi seasoning cubes for soups "Beef"</span><span id="ro">Maggi bază pentru mâncăruri cuburi "Vita"</span> - <a style="color:gold;" href="https://www.nestle.ro/" target="_blank" >Nestlé</a></td></tr>
-<tr><td>Formula 13</td><td>4.6 RON / 120g <span id="en">Maggi seasoning cubes for soups "Chicken"</span><span id="ro">Maggi bază pentru mâncăruri cuburi "Gaina"</span> - <a style="color:gold;" href="https://www.nestle.ro/" target="_blank" >Nestlé</a></td></tr>
-<tr><td>Formula 14</td><td>4 RON / 37g <span id="en">Maggi base for pasta Carbonara</span><span id="ro">Maggi bază pentru paste Carbonara</span> - <a style="color:gold;" href="https://www.nestle.ro/" target="_blank" >Nestlé</a></td></tr>
-<tr><td>Formula 15</td><td>4 RON / 37g <span id="en">Maggi base for pasta Milanese</span><span id="ro">Maggi bază pentru paste Milanese</span> - <a style="color:gold;" href="https://www.nestle.ro/" target="_blank" >Nestlé</a></td></tr>
-<tr><td>Formula 16</td><td>4 RON / 37g <span id="en">Maggi base for pasta Bolognese</span><span id="ro">Maggi bază pentru paste Bolognese</span> - <a style="color:gold;" href="https://www.nestle.ro/" target="_blank" >Nestlé</a></td></tr>
-
-<tr><td>Formula 17</td><td>3.6 RON / 75g <span id="en">Delikat seasoning powder for soups "Vegetables"</span><span id="ro">Delikat Bază pentru mâncăruri "Legume"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 18</td><td>9.1 RON / 200g <span id="en">Delikat seasoning powder for soups "Vegetables"</span><span id="ro">Delikat Bază pentru mâncăruri "Legume"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 19</td><td>16.4 RON / 400g <span id="en">Delikat seasoning powder for soups "Vegetables"</span><span id="ro">Delikat Bază pentru mâncăruri "Legume"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 20</td><td>30.5 RON / 750g <span id="en">Delikat seasoning powder for soups "Vegetables"</span><span id="ro">Delikat Bază pentru mâncăruri "Legume"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 21</td><td>35.7 RON / kg <span id="en">Delikat seasoning powder for soups "Vegetables"</span><span id="ro">Delikat Bază pentru mâncăruri "Legume"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 22</td><td>4.1 RON / 75g <span id="en">Delikat seasoning powder for soups "Chicken"</span><span id="ro">Delikat Bază pentru mâncăruri "Găină"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 23</td><td>10.5 RON / 200g <span id="en">Delikat seasoning powder for soups "Chicken"</span><span id="ro">Delikat Bază pentru mâncăruri "Găină"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 24</td><td>17.9 RON / 400g <span id="en">Delikat seasoning powder for soups "Chicken"</span><span id="ro">Delikat Bază pentru mâncăruri "Găină"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 25</td><td>34.3 RON / 750g <span id="en">Delikat seasoning powder for soups "Chicken"</span><span id="ro">Delikat Bază pentru mâncăruri "Găină"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 26</td><td>8.8 RON / 175g <span id="en">Delikat seasoning powder for soups "Vegetables" without Msg</span><span id="ro">Delikat Bază pentru mâncăruri "Legume" fără glutamat de sodiu</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 27</td><td>10.5 RON / 175g <span id="en">Delikat seasoning powder for soups "Chicken" without Msg</span><span id="ro">Delikat Bază pentru mâncăruri "Chicken" fără glutamat de sodiu</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 28</td><td>3.9 RON / 75g <span id="en">Delikat seasoning powder for soups "Bulgarasi De Savoare" - Vegetables</span><span id="ro">Delikat Bază pentru mâncăruri "Bulgarasi De Savoare" - Legume</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 29</td><td>10 RON / 200g <span id="en">Delikat seasoning powder for soups "Bulgarasi De Savoare" - Vegetables</span><span id="ro">Delikat Bază pentru mâncăruri "Bulgarasi De Savoare" - Legume</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 30</td><td>18 RON / 400g <span id="en">Delikat seasoning powder for soups "Bulgarasi De Savoare" - Vegetables</span><span id="ro">Delikat Bază pentru mâncăruri "Bulgarasi De Savoare" - Legume</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 31</td><td>4.5 RON / 75g <span id="en">Delikat seasoning powder for soups "Bulgarasi De Savoare" - Chicken</span><span id="ro">Delikat Bază pentru mâncăruri "Bulgarasi De Savoare" - Găină</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 32</td><td>11.1 RON / 200g <span id="en">Delikat seasoning powder for soups "Bulgarasi De Savoare" - Chicken</span><span id="ro">Delikat Bază pentru mâncăruri "Bulgarasi De Savoare" - Găină</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 33</td><td>19.6 RON / 400g <span id="en">Delikat seasoning powder for soups "Bulgarasi De Savoare" - Chicken</span><span id="ro">Delikat Bază pentru mâncăruri "Bulgarasi De Savoare" - Găină</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 34</td><td>3.6 RON / 20g <span id="en">Delikat seasoning powder for soups "Bors Original"</span><span id="ro">Delikat Bază pentru mâncăruri "Bors Original"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 35</td><td>4 RON / 65g <span id="en">Delikat seasoning powder for soups "Bors Vegetables"</span><span id="ro">Delikat Bază pentru mâncăruri "Bors Legume"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 36</td><td>4 RON / 65g <span id="en">Delikat seasoning powder for soups "Bors Herbs"</span><span id="ro">Delikat Bază pentru mâncăruri "Bors Verdețuri"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 37</td><td>4.3 RON / 38g <span id="en">Delikat seasoning powder for soups "Bors Sour Cream"</span><span id="ro">Delikat Bază pentru mâncăruri "Bors Smântână"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 38</td><td>10 RON / 165g <span id="en">Delikat seasoning powder for soups "Bors Vegetables"</span><span id="ro">Delikat Bază pentru mâncăruri "Bors Legume"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 39</td><td>10 RON / 165g <span id="en">Delikat seasoning powder for soups "Bors Herbs"</span><span id="ro">Delikat Bază pentru mâncăruri "Bors Herbs"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-
-<tr><td>Formula 40</td><td>3.1 RON / 19g <span id="en">Knorr seasoning powder for soups "Knorr Cup a Soup Tomatoes with noodles"</span><span id="ro">Knorr Bază pentru supe "Knorr Cup a Soup Rosii cu taietei"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 41</td><td>3.1 RON / 17g <span id="en">Knorr seasoning powder for soups "Knorr Cup a Soup Cheese and croutons"</span><span id="ro">Knorr Bază pentru supe "Knorr Cup a Soup Brânză și Crutoane"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 42</td><td>3.1 RON / 15g <span id="en">Knorr seasoning powder for soups "Knorr Cup a Soup Mushrooms and croutons"</span><span id="ro">Knorr Bază pentru supe "Knorr Cup a Soup Ciuperci cu crutoane"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 43</td><td>3.1 RON / 12g <span id="en">Knorr seasoning powder for soups "Knorr Cup a Soup Chicken with noodles"</span><span id="ro">Knorr Bază pentru supe "Knorr Cup a Soup Pui cu taitei"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-
-<tr><td>Formula 44</td><td>3.5 RON / 23g <span id="en">Knorr seasoning powder "Minced meat"</span><span id="ro">Knorr condimente "Carne Tocată"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 45</td><td>3.5 RON / 23g <span id="en">Knorr seasoning powder "Potatoes"</span><span id="ro">Knorr condimente "Cartofi"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 46</td><td>3.5 RON / 23g <span id="en">Knorr seasoning powder "Pork"</span><span id="ro">Knorr condimente "Porc"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 47</td><td>3.5 RON / 23g <span id="en">Knorr seasoning powder "Chicken"</span><span id="ro">Knorr condimente "Pui"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>   
-<tr><td>Formula 48</td><td>3.5 RON / 23g <span id="en">Knorr seasoning powder "Barbeque"</span><span id="ro">Knorr condimente "Grătar"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-
-<tr><td>Formula 49</td><td>4.4 RON / 68g <span id="en">Knorr seasoning "Asia Noodles Beef Flavor"</span><span id="ro">Knorr bază pentru mâncăruri "Asia Noodles Gust de Vita"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 50</td><td>4.4 RON / 37g <span id="en">Knorr seasoning "Fix Chinise Style Sauce"</span><span id="ro">Knorr bază pentru mâncăruri "Fix sos in stil chinezesc"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 51</td><td>6.4 RON / 39g <span id="en">Knorr seasoning "Fix Cheese and Broccoli"</span><span id="ro">Knorr bază pentru mâncăruri "Fix Brânză și Broccoli"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 52</td><td>6.4 RON / 41g <span id="en">Knorr seasoning "Fix Bolognese"</span><span id="ro">Knorr bază pentru mâncăruri "Fix Bolognese"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 53</td><td>6.4 RON / 38g <span id="en">Knorr seasoning "Fix Carbonara"</span><span id="ro">Knorr bază pentru mâncăruri "Fix Carbonara"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 54</td><td>7 RON / 30g <span id="en">Knorr seasoning "Potatoes Garlic and Rosemary"</span><span id="ro">Knorr bază pentru mâncăruri "Cartofi Usturoi Si Rozmarin"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 55</td><td>7 RON / 55g <span id="en">Knorr seasoning "Pasta Pot Carbonara"</span><span id="ro">Knorr bază pentru mâncăruri "Pasta Pot Carbonara"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-
-<tr><td>Formula 56</td><td>7.5 RON / 101g <span id="en">Knorr seasoning for soups "Beef with Noodles"</span><span id="ro">Knorr bază pentru supe "Vită cu Tăiței"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 57</td><td>7.5 RON / 59g <span id="en">Knorr seasoning for soups "Chicken and noodles soup"</span><span id="ro">Knorr bază pentru supe "Supă De Pui Cu Tăiței"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 58</td><td>7.5 RON / 67g <span id="en">Knorr seasoning for soups "Tomatoes and noodles soup"</span><span id="ro">Knorr bază pentru supe "Supă De Roșii cu Tăiței"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-<tr><td>Formula 59</td><td>7.5 RON / 52g <span id="en">Knorr seasoning for soups "Mushrooms cream soup"</span><span id="ro">Knorr bază pentru supe "Supă Cremă Ciuperci"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-
- <tr><td>Formula 60</td><td>10 RON / 25g <span id="en">Knorr seasoning powder for steak "Chicken steak aromatic herbs"</span><span id="ro">Knorr condimente pentru fripturi "Pui Ierburi Aromate"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
- <tr><td>Formula 61</td><td>10 RON / 29g <span id="en">Knorr seasoning powder for steak "Spicy chicken"</span><span id="ro">Knorr condimente pentru fripturi "Pui Picant"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
- <tr><td>Formula 62</td><td>10 RON / 28g <span id="en">Knorr seasoning powder for steak "Chicken with garlic"</span><span id="ro">Knorr condimente pentru fripturi "Pui cu Usturoi"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
- <tr><td>Formula 63</td><td>10 RON / 29g <span id="en">Knorr seasoning powder for steak "Pork,Garlic and Smoke Flavor"</span><span id="ro">Knorr condimente pentru fripturi "Porc, Usturoi si Aroma fum"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-
- <tr><td>Formula 64</td><td>18.5 RON / 225g <span id="en">Knorr seasoning "Mashed potatoes"</span><span id="ro">Knorr bază pentru mâncăruri "Piure De Cartofi"</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-
- <tr><td>Formula 65</td><td>3.6 RON / 60g <span id="en">3L Knorr seasoning cubes for soups "Chicken" 6 cubes</span><span id="ro">3L Knorr bază cuburi pentru supe "Gaina" 6 cuburi</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
- <tr><td>Formula 66</td><td>4 RON / 60g <span id="en">3L Knorr seasoning cubes for soups "Vegetables" 6 cubes</span><span id="ro">3L Knorr bază cuburi pentru supe "Legume" 6 cuburi</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
- <tr><td>Formula 67</td><td>4.4 RON / 60g <span id="en">3L Knorr seasoning cubes for soups "Beef" 6 cubes</span><span id="ro">3L Knorr bază cuburi pentru supe "Vită" 6 cuburi</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-
-
- <tr><td>Formula 68</td><td>6.9 RON / 120g <span id="en">6L Knorr seasoning cubes for soups "Chicken" 12 cubes</span><span id="ro">3L Knorr bază cuburi pentru supe "Gaina" 12 cuburi</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
- <tr><td>Formula 69</td><td>7.7 RON / 120g <span id="en">6L Knorr seasoning cubes for soups "Vegetables" 12 cubes</span><span id="ro">3L Knorr bază cuburi pentru supe "Legume" 12 cuburi</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
- <tr><td>Formula 70</td><td>8.4 RON / 120g <span id="en">6L Knorr seasoning cubes for soups "Beef" 12 cubes</span><span id="ro">3L Knorr bază cuburi pentru supe "Vită" 12 cuburi</span> - <a style="color:gold;" href="https://www.unilever.ro" target="_blank" >Unilever</a></td></tr>
-
-
-
-<tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various Romania suppliers</span><span id="ro">Furnizori din România</span></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-  
-
-
-
-
-
-
-</tbody>
-
-
-<!--
-       <tr><td><span id="en">Unrefined sugar cane sugar</span><span id="ro">Zahăr nerafinat din trestie de zahăr</span> </td><td>- </td><td>- </td></tr>
-       <tr><td><span id="en">Unrefined beet sugar</span><span id="ro">Zahăr nerafinat din sfeclă de zahăr</span> </td><td>- </td><td>- </td></tr>
-       <tr><td><span id="en">Dates sugar</span><span id="ro">Zahăr nerafinat din curmale</span> </td><td>- </td><td>- </td></tr>
-       <tr><td><span id="en">Raw beet sugar</span><span id="ro">Zahăr brut din sfeclă de zahăr</span> </td><td>- </td><td>- </td></tr>
-       <tr><td><span id="en">Unrefined sugar small portion packets</span><span id="ro">Plicuri Zahăr nerafinat </span></td><td>-</td><td>-</td></tr>   
-        <tr><td>Formula 3</td><td>0.00 RON / 10g <span id="en">Baking liquid yeast</span><span id="ro">Drojdie lichidă alimentară</td></tr>
-       <tr><td><span id="en">Malt Extract</span><span id="ro">Extract de malț</span> </td><td>- </td><td>- </td></tr>
-       <tr><td><span id="en">Inverted sugar syrup</span><span id="ro">Sirop de zahăr invertit </span> </td><td>- </td><td>- </td></tr>
--->
+</div><!-- cookingingrediantsSlider -->
