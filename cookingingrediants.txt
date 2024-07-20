@@ -60,16 +60,16 @@
 </div>
 
   <div class="cookingingrediantsslides">
-    <div class="fade" id="maturedcheeseslide-1">
+    <div class="fade" id="cookingingrediantsslide-1">
       <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/cookingingredients.jpg" alt="cookingingrediants item1" /> 
     </div>
-    <div class="fade" id="maturedcheeseslide-2">
+    <div class="fade" id="cookingingrediantsslide-2">
       <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/cookingingredientsb.jpg" alt="cookingingrediants item2" /> 
     </div>
-    <div class="fade" id="maturedcheeseslide-3">
+    <div class="fade" id="cookingingrediantsslide-3">
       <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/cookingingredientsc.jpg" alt="cookingingrediants item3" /> 
     </div>
-    <div class="fade" id="maturedcheeseslide-4">
+    <div class="fade" id="cookingingrediantsslide-4">
       <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/cookingingredientsd.jpg" alt="cookingingrediants item4" /> 
     </div>
   </div><!-- cookingingrediantsSlides -->
