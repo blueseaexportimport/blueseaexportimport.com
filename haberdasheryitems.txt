@@ -36,7 +36,6 @@
        <tr><td>Key rings </td><td>-</td><td>-</td></tr> 
        <tr><td>Eyelets </td><td>-</td><td>-</td></tr> 
        <tr><td>Skirt clasp set</td><td>-</td><td>-</td></tr>             
-       <tr><td>Bra cups </td><td>-</td><td>-</td></tr>                     
        <tr><td>Keychain bases </td><td>-</td><td>-</td></tr>                      
        <tr><td>Key rings </td><td>-</td><td>-</td></tr> 
        <tr><td>Eyelets </td><td>-</td><td>-</td></tr>
