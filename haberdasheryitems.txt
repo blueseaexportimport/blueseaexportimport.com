@@ -1,46 +1,9 @@
+<style>
+    .haberdasheryitemsslidediv img{ width:100%; height:auto;}
+</style> 
 
-       <tr><td>Brass buckle</td><td>-</td><td>-</td></tr>        
-       <tr><td>Brass ring</td><td>-</td><td>-</td></tr>
-       <tr><td>Webbing </td><td>-</td><td>-</td></tr>        
-       <tr><td>2-hole flat button </td><td>-</td><td>-</td></tr>
-       <tr><td>4-hole flat button </td><td>-</td><td>-</td></tr>
-       <tr><td>Shank button </td><td>-</td><td>-</td></tr> 
-       <tr><td>Stud button </td><td>-</td><td>-</td></tr> 
-       <tr><td>Toggles button </td><td>-</td><td>-</td></tr>   
-       <tr><td>Universal needles set </td><td>-</td><td>-</td></tr> 
-       <tr><td>Sharps needles set</td><td>-</td><td>-</td></tr> 
-       <tr><td>Ball point needles set</td><td>-</td><td>-</td></tr>  
-       <tr><td>Stretch needles set</td><td>-</td><td>-</td></tr>   
-       <tr><td>Jeans needles set </td><td>-</td><td>-</td></tr> 
-       <tr><td>Leather needles set </td><td>-</td><td>-</td></tr>
-       <tr><td>Metafil needles set </td><td>-</td><td>-</td></tr>
-       <tr><td>Quilting needles set </td><td>-</td><td>-</td></tr>                
-       <tr><td>Embroidery needles set </td><td>-</td><td>-</td></tr>              
-       <tr><td>Knitting needles set </td><td>-</td><td>-</td></tr>       
-       <tr><td>Crochet hooks set </td><td>-</td><td>-</td></tr>   
-       <tr><td>Crochet hooks holder </td><td>-</td><td>-</td></tr>          
-       <tr><td>Twin needles set </td><td>-</td><td>-</td></tr>  
-       <tr><td>Pearlized Pins </td><td>-</td><td>-</td></tr>             
-       <tr><td>Velcro </td><td>-</td><td>-</td></tr>               
-       <tr><td>Button cover </td><td>-</td><td>-</td></tr>                 
-       <tr><td>Snap button </td><td>-</td><td>-</td></tr>          
-       <tr><td>Zipper </td><td>-</td><td>-</td></tr>             
-       <tr><td>Rhinestones set </td><td>-</td><td>-</td></tr>             
-       <tr><td>Lace </td><td>-</td><td>-</td></tr>                     
-       <tr><td>Shoelaces heads tips </td><td>-</td><td>-</td></tr>                      
-       <tr><td>Shoelaces set </td><td>-</td><td>-</td></tr> 
-       <tr><td>Bag magnets </td><td>-</td><td>-</td></tr>  
-       <tr><td>Screw button </td><td>-</td><td>-</td></tr>             
-       <tr><td>Bra cups </td><td>-</td><td>-</td></tr>                     
-       <tr><td>Keychain bases </td><td>-</td><td>-</td></tr>                      
-       <tr><td>Key rings </td><td>-</td><td>-</td></tr> 
-       <tr><td>Eyelets </td><td>-</td><td>-</td></tr> 
-       <tr><td>Skirt clasp set</td><td>-</td><td>-</td></tr>             
-       <tr><td>Keychain bases </td><td>-</td><td>-</td></tr>                      
-       <tr><td>Key rings </td><td>-</td><td>-</td></tr> 
-       <tr><td>Eyelets </td><td>-</td><td>-</td></tr>
-       <tr><td>Patches</td><td>-</td><td>-</td></tr>             
-       <tr><td>Pants braces set </td><td>-</td><td>-</td></tr>                     
-       <tr><td>Handkerchiefs set</td><td>-</td><td>-</td></tr>                      
-       <tr><td>Shoulder pads </td><td>-</td><td>-</td></tr> 
-       <tr><td>Ribbons set </td><td>-</td><td>-</td></tr>
+<div class="haberdasheryitemsslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/haberdasheryitems.jpg" alt="haberdashery items item1" /> 
+</div> 
+
+
