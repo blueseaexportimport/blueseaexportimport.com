@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab petbirdsfood on click start
+  $("#petbirdsfoodbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#petbirdsfood").hasClass("clickedpetbirdsfood")) {
+        // already been clicked once, hide it
+        $("#petbirdsfood").html("");
+        $( "#petbirdsfood" ).removeClass( "clickedpetbirdsfood" )
+    }else {
+        // first time this is clicked, mark it
+        $("#petbirdsfood").addClass("clickedpetbirdsfood");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/petbirdsfood.txt?" + rand, success: function(result){
+         $("#petbirdsfood").html(result);
+        }});
+    }
+   });
+  // Grab petbirdsfood on click end
+
   // Grab compoteandjams on click start
   $("#compoteandjamsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2840,7 +2857,7 @@ $(document).ready(function () {
    </div>	
   </div></li><!--END SECTION-->
 	   
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>T. DOMESTIC ANIMALS FEED (2)</b></span><span id="ro"><b>T. HRANĂ ANIMALE DOMESTICE (2)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>T. DOMESTIC ANIMALS FEED (3)</b></span><span id="ro"><b>T. HRANĂ ANIMALE DOMESTICE (3)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Combined and concentrated feed factory</span><span id="ro">Fabrică nutrețuri combinate și concentrate</span></h5>    	
   <div class="rowbin" >-</div> 
   <h5 class="categoryaccordion" ><span id="en">Pet food factory</span><span id="ro">Fabrică nutrețuri hrană animale de companie</span></h5>    	
@@ -2854,8 +2871,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Rodent pet food</span><span id="ro">Mâncare pentru rozătoare de companie</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Pet birds food</span><span id="ro">Mâncare păsări de companie</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="petbirdsfoodbtn" ><span id="en">Pet birds food (1)</span><span id="ro">Mâncare păsări de companie (1)</span></h5>    
+   <div id="petbirdsfood" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" ><span id="en">Ornamental fish food</span><span id="ro">Mâncare pești ornamentali</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Dog food</span><span id="ro">Mâncare pentru câini</span></h5>    
