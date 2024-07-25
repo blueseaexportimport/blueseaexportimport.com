@@ -1,30 +1,7 @@
+<style>
+    .palletizationitemsslidediv img{ width:100%; height:auto;}
+</style> 
 
-       <tr><td><span id="en">Wood Pallet 1.2 x 0.8 m</span><span id="ro">Palet din lemn 1.2 x 0.8 m</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Wood Pallet 1.219 x 1.016m</span><span id="ro">Palet din lemn 1.219 x 1.016m</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Wood Pallet 1.2 x 1 m</span><span id="ro">Palet din lemn 1.2 x 1 m</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Wood Pallet 1.165 x 1.165 m</span><span id="ro">Palet din lemn 1.165 x 1.165 m</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Wood Pallet 1.067 x 1.067 m</span><span id="ro">Palet din lemn 1.067 x 1.067 m</span></td><td>-</td><td>-</td></tr>          
-       <tr><td><span id="en">Aluminium Pallet 1.2 x 0.8 m</span><span id="ro">Palet aluminiu 1.2 x 0.8 m<</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Aluminium Pallet 1.219 x 1.016m</span><span id="ro">Palet aluminiu 1.219 x 1.016m</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Aluminium Pallet 1.2 x 1 m</span><span id="ro">Palet aluminiu 1.2 x 1 m</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Aluminium Pallet 1.165 x 1.165 m</span><span id="ro">Palet aluminiu 1.165 x 1.165 m</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Aluminium Pallet 1.067 x 1.067 m</span><span id="ro">Palet aluminiu 1.067 x 1.067 m</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Steel Pallet 1.2 x 0.8 m</span><span id="ro">Palet oțel 1.2 x 0.8 m</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Steel Pallet 1.219 x 1.016m</span><span id="ro">Palet oțel 1.219 x 1.016m</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Steel Pallet 1.2 x 1 m</span><span id="ro">Palet oțel 1.2 x 1 m</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Steel Pallet 1.165 x 1.165 m</span><span id="ro">Palet oțel 1.165 x 1.165 m</span></td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Steel Pallet 1.067 x 1.067 m</span><span id="ro">Palet oțel 1.067 x 1.067 m</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Box Pallet 1.067 x 1.067 m</span><span id="ro">Palet oțel 1.067 x 1.067 m</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Airplane Palletization net</span><span id="ro">Plasă pentru paletizare utilizată la avioane</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Cotton cord</span><span id="ro">Frânghie bumbac</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Jute cord</span><span id="ro">Frânghie iută</span></td><td>-</td><td>-</td></tr>        
-       <tr><td><span id="en">Hemp cord</span><span id="ro">Frânghie cânepă</span></td><td>-</td><td>-</td></tr>        
-       <tr><td><span id="en">Pallet rubber band</span><span id="ro">Bandă elastică paletizare</span></td><td>-</td><td>-</td></tr>          
-       <tr><td><span id="en">Pallet metal frame</span><span id="ro">Cadru metalic palet</span></td><td>-</td><td>-</td></tr>          
-       <tr><td><span id="en">Pallet reusable textile strap</span><span id="ro">Chingă reutilizabila textilă paletizare</span></td><td>-</td><td>-</td></tr>        
-       <tr><td><span id="en">Wood wool</span><span id="ro">Lâna de lemn</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Export graded wood box</span><span id="ro">Cutie export din lemn</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Wood cable reel</span><span id="ro">Bobină cabluri / fibre din lemn</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Protective corners set</span><span id="ro">Colțari protecție</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Cardboard Separators set</span><span id="ro">Set separatori din carton</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Foam flakes</span><span id="ro">Fulgi polistiren</span></td><td>-</td><td>-</td></tr> 
+<div class="palletizationitemsslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/palletizationitems.jpg" alt="palletization item1" /> 
+</div>
