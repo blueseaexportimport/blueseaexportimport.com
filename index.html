@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab musicalinstruments on click start
+  $("#musicalinstrumentsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#musicalinstruments").hasClass("clickedmusicalinstruments")) {
+        // already been clicked once, hide it
+        $("#musicalinstruments").html("");
+        $( "#musicalinstruments" ).removeClass( "clickedmusicalinstruments" )
+    }else {
+        // first time this is clicked, mark it
+        $("#musicalinstruments").addClass("clickedmusicalinstruments");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/musicalinstruments.txt?" + rand, success: function(result){
+         $("#musicalinstruments").html(result);
+        }});
+    }
+   });
+  // Grab musicalinstruments on click end
+
   // Grab alloyssheetsandstrips on click start
   $("#alloyssheetsandstripsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3152,9 +3169,12 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->     
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>W. FUN AND ENTERTAINMENT (0)</b></span><span id="ro"><b>W. DISTRACȚIE ȘI DIVERTISMENT (0)</b></span></button><div class="catalogpanel">
-  <h5 class="categoryaccordion" ><span id="en">Musical Instruments</span><span id="ro">Instrumente Muzicale</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>W. FUN AND ENTERTAINMENT (2)</b></span><span id="ro"><b>W. DISTRACȚIE ȘI DIVERTISMENT (2)</b></span></button><div class="catalogpanel">
+  <h5 class="categoryaccordion" id="musicalinstrumentsbtn" ><span id="en">Musical Instruments</span><span id="ro">Instrumente Muzicale</span></h5>    
+   <div id="musicalinstruments" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 	
   <h5 class="categoryaccordion" ><span id="en">Music Concert Stages and Accessories</span><span id="ro">Scene Concert și Spectacole inclusiv Accesorii</span></h5>   
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Amusement parks, Carnivals and Circus</span><span id="ro">Parcuri de distracție, Carnavale și Circ</span></h5>   
