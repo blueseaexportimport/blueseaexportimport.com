@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab palletizationitems on click start
+  $("#palletizationitemsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#palletizationitems").hasClass("clickedpalletizationitems")) {
+        // already been clicked once, hide it
+        $("#palletizationitems").html("");
+        $( "#palletizationitems" ).removeClass( "clickedpalletizationitems" )
+    }else {
+        // first time this is clicked, mark it
+        $("#palletizationitems").addClass("clickedpalletizationitems");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/palletizationitems.txt?" + rand, success: function(result){
+         $("#palletizationitems").html(result);
+        }});
+    }
+   });
+  // Grab palletizationitems on click end
+
   // Grab musicalinstruments on click start
   $("#musicalinstrumentsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2562,7 +2579,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div>
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>N. TECHNICAL, CONSUMABLES AND TOOLS  (4)</b></span> <span id="ro"><b>N. CONSUMABILE, TEHNICE ȘI SCULE (4)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>N. TECHNICAL, CONSUMABLES AND TOOLS  (5)</b></span> <span id="ro"><b>N. CONSUMABILE, TEHNICE ȘI SCULE (5)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Tools And Measuring Instruments</span><span id="ro">Scule și Instrumente de Măsurat</span></h5>   
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Power Tools Consumables</span><span id="ro">Accesorii și consumabile scule electrice</span></h5>    
@@ -2574,8 +2591,11 @@ $(document).ready(function () {
    </div>	 	
   <h5 class="categoryaccordion" ><span id="en">Tehnical Aerosols - Sprays</span><span id="ro">Spray-uri Tehnice</span></h5>   
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Palletization Items</span><span id="ro">Paletizare</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="palletizationitemsbtn" ><span id="en">Palletization Items (1)</span><span id="ro">Paletizare (1)</span></h5>    
+   <div id="palletizationitems" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 	
   <h5 class="categoryaccordion" id="packagingbtn" ><span id="en">Packaging, Labeling and Bottling (1)</span><span id="ro">Ambalare , Etichetare și Îmbuteliere (1)</span></h5>    
    <div id="packaging" class="categorypanel" >
    <!-- Load info start --> 
