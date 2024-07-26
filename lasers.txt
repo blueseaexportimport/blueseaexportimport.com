@@ -1,22 +1,7 @@
+<style>
+    .lasersslidediv img{ width:100%; height:auto;}
+</style> 
 
-       <tr><td>Fiber Ytterbium-glass</td><td>-</td><td>-</td></tr>    
-       <tr><td>Fiber Neodymium-glass</td><td>-</td><td>-</td></tr>    
-       <tr><td>Fiber Erbium-glass</td><td>-</td><td>-</td></tr>    
-       <tr><td>Gas CO2</td><td>-</td><td>-</td></tr>    
-       <tr><td>Gas Nitrogen</td><td>-</td><td>-</td></tr>    
-       <tr><td>Gas Argon fluoride</td><td>-</td><td>-</td></tr>    
-       <tr><td>Gas Argon-ion</td><td>-</td><td>-</td></tr>    
-       <tr><td>Gas Krypton fluoride</td><td>-</td><td>-</td></tr>    
-       <tr><td>Gas Xenon monochloride</td><td>-</td><td>-</td></tr>    
-       <tr><td>Gas Xenon fluoride</td><td>-</td><td>-</td></tr>    
-       <tr><td>Gas Helium–neon</td><td>-</td><td>-</td></tr>       
-       <tr><td>Liquid Dye</td><td>-</td><td>-</td></tr>    
-       <tr><td>Semiconductor Gallium nitride</td><td>-</td><td>-</td></tr>    
-       <tr><td>Semiconductor Aluminium gallium indium phosphide</td><td>-</td><td>-</td></tr>    
-       <tr><td>Semiconductor Aluminium gallium arsenide</td><td>-</td><td>-</td></tr>    
-       <tr><td>Solid-state Titanium–sapphire</td><td>-</td><td>-</td></tr>    
-       <tr><td>Solid-state Ytterbium YAG</td><td>-</td><td>-</td></tr>    
-       <tr><td>Solid-state Thulium YAG</td><td>-</td><td>-</td></tr>    
-       <tr><td>Solid-state Holmium YAG</td><td>-</td><td>-</td></tr>    
-       <tr><td>Solid-state Neodymium YAG</td><td>-</td><td>-</td></tr>    
-       <tr><td>Solid-state Chromium doped zinc selenide</td><td>-</td><td>-</td></tr>
+<div class="lasersslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/lasers.jpg" alt="lasers item1" /> 
+</div>
