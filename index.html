@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab processorsandgraphiccards on click start
+  $("#processorsandgraphiccardsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#processorsandgraphiccards").hasClass("clickedprocessorsandgraphiccards")) {
+        // already been clicked once, hide it
+        $("#processorsandgraphiccards").html("");
+        $( "#processorsandgraphiccards" ).removeClass( "clickedprocessorsandgraphiccards" )
+    }else {
+        // first time this is clicked, mark it
+        $("#processorsandgraphiccards").addClass("clickedprocessorsandgraphiccards");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/processorsandgraphiccards.txt?" + rand, success: function(result){
+         $("#processorsandgraphiccards").html(result);
+        }});
+    }
+   });
+  // Grab processorsandgraphiccards on click end
+	
   // Grab sportinggoods on click start
   $("#sportinggoodsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2269,8 +2286,7 @@ $(document).ready(function () {
    <!-- Load info end --> 
    </div>		   
    </div></li><!--END SECTION-->	
-
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (6)</b></span><span id="ro"><b>G. ȘCOALĂ, HIGH-TECH, AEROSPAȚIAL ȘI CERCETARE (6)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (7)</b></span><span id="ro"><b>G. ȘCOALĂ, HIGH-TECH, AEROSPAȚIAL ȘI CERCETARE (7)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="didacticmaterialsbtn" ><span id="en">Didactic Materials</span><span id="ro">Materiale Didactice</span></h5>    
    <div class="rowbin" >-</div>     
   <h5 class="categoryaccordion" id="officeandschoolsuppliesbtn" ><span id="en">Office and school supplies (3)</span><span id="ro">Birotică și Papetărie (3)</span></h5>    
@@ -2298,6 +2314,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	   
+   <h5 class="categoryaccordion" id="processorsandgraphiccardsbtn" ><span id="en">Processors and graphic cards (1)</span><span id="ro">Procesoare și plăci grafice (1)</span></h5>    
+   <div id="processorsandgraphiccards" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="quantumcomputersbtn" ><span id="en">Quantum computers</span><span id="ro">Calculatoare cuantice</span></h5>    	  
    <div class="rowbin" >-</div>     	
   <h5 class="categoryaccordion" id="dronesandrobotspartsbtn" ><span id="en">Drones and robots parts</span><span id="ro">Componente roboti și drone</span></h5>    
