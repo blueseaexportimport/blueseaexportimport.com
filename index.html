@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab lasers on click start
+  $("#lasersbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#lasers").hasClass("clickedlasers")) {
+        // already been clicked once, hide it
+        $("#lasers").html("");
+        $( "#lasers" ).removeClass( "clickedlasers" )
+    }else {
+        // first time this is clicked, mark it
+        $("#lasers").addClass("clickedlasers");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/lasers.txt?" + rand, success: function(result){
+         $("#lasers").html(result);
+        }});
+    }
+   });
+  // Grab lasers on click end
+
   // Grab processorsandgraphiccards on click start
   $("#processorsandgraphiccardsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2286,7 +2303,7 @@ $(document).ready(function () {
    <!-- Load info end --> 
    </div>		   
    </div></li><!--END SECTION-->	
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (7)</b></span><span id="ro"><b>G. ȘCOALĂ, HIGH-TECH, AEROSPAȚIAL ȘI CERCETARE (7)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (8)</b></span><span id="ro"><b>G. ȘCOALĂ, HIGH-TECH, AEROSPAȚIAL ȘI CERCETARE (8)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="didacticmaterialsbtn" ><span id="en">Didactic Materials</span><span id="ro">Materiale Didactice</span></h5>    
    <div class="rowbin" >-</div>     
   <h5 class="categoryaccordion" id="officeandschoolsuppliesbtn" ><span id="en">Office and school supplies (3)</span><span id="ro">Birotică și Papetărie (3)</span></h5>    
@@ -2329,8 +2346,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>     	
   <h5 class="categoryaccordion" id="lensandopticsbtn" ><span id="en">Lens and optics</span><span id="ro">Lentile și optică</span></h5>    
    <div class="rowbin" >-</div>     	
-  <h5 class="categoryaccordion" id="lasersbtn" ><span id="en">Lasers</span><span id="ro">Lasere</span></h5>    
-   <div class="rowbin" >-</div>     
+  <h5 class="categoryaccordion" id="lasersbtn" ><span id="en">Lasers (1)</span><span id="ro">Lasere (1)</span></h5>    
+   <div id="lasers" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	    
   <h5 class="categoryaccordion" id="holographicprojectionsystemsbtn" ><span id="en">Holographic projection systems</span><span id="ro">Sisteme proiecție holografică</span></h5>    	
    <div class="rowbin" >-</div>     
   <h5 class="categoryaccordion" id="3dprintersbtn" ><span id="en">3D Printers and scanners</span><span id="ro">Imprimante și scannere 3D</span></h5>    	
