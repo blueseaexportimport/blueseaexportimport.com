@@ -1,66 +1,69 @@
-<tbody>
+<style>
 
-      <tr><td><span id="en">Referee whistle</span><span id="ro">Fluier arbitru</span>  </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Referee cards</span><span id="ro">Cartonașe arbitru</span>  </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Referee watch timer</span><span id="ro">Ceas cronometru arbitru</span></td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Referee chair</span><span id="ro">Scaun arbitru</span></td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Scoreboard system</span><span id="ro">Sistem Tabelă / Panou de scor </span>  </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Outdoor stone chess tables</span><span id="ro">Masă din piatră pentru șah exterior</span> </td><td>- </td><td>-</td></tr>       
-      <tr><td><span id="en">Chess clock</span><span id="ro">Ceas șah</span> </td><td>- </td><td>-</td></tr>       
-      <tr><td><span id="en">Pool table set</span><span id="ro">Set masă de biliard</span> </td><td>- </td><td>-</td></tr>        
-      <tr><td><span id="en">Table tennis set</span><span id="ro">Set tenis de masă</span> </td><td>- </td><td>-</td></tr> 
-      <tr><td><span id="en">Tennis net</span><span id="ro">Plasă tenis</span> </td><td>- </td><td>-</td></tr> 
-      <tr><td><span id="en">Tennis racquet</span><span id="ro">Rachetă tenis</span> </td><td>- </td><td>-</td></tr> 
-      <tr><td><span id="en">Tennis ball</span><span id="ro">Minge tenis</span> </td><td>- </td><td>-</td></tr>   
-      <tr><td><span id="en">Soccer ball</span><span id="ro">Minge fotbal</span> </td><td>- </td><td>-</td></tr>      
-      <tr><td><span id="en">Basketball</span><span id="ro">Minge baschet</span> </td><td>- </td><td>-</td></tr> 
-      <tr><td><span id="en">Volley ball</span><span id="ro">Minge volei</span> </td><td>- </td><td>-</td></tr> 
-      <tr><td><span id="en">Hand ball</span><span id="ro">Minge handbal</span> </td><td>- </td><td>-</td></tr> 
-      <tr><td><span id="en">Badminton</span><span id="ro">Minge badminton</span> </td><td>- </td><td>-</td></tr> 
-      <tr><td><span id="en">Badminton racquet</span><span id="ro">Rachetă badminton</span> </td><td>- </td><td>-</td></tr> 
-      <tr><td><span id="en">Golf ball</span><span id="ro">Minge golf</span> </td><td>- </td><td>-</td></tr> 
-      <tr><td><span id="en">Rugby ball</span><span id="ro">Minge rugby</span> </td><td>- </td><td>-</td></tr> 
-      <tr><td><span id="en">Pool balls set</span><span id="ro">Set bile biliard</span> </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Snooker balls set</span><span id="ro">Set bile snooker</span> </td><td>- </td><td>-</td></tr>      
-      <tr><td><span id="en">Cricket ball</span><span id="ro">Bilă cricket</span> </td><td>- </td><td>-</td></tr>    
-      <tr><td><span id="en">Baseball ball</span><span id="ro">Minge baseball</span> </td><td>- </td><td>-</td></tr>    
-      <tr><td><span id="en">Oina ball</span><span id="ro">Minge oină</span> </td><td>- </td><td>-</td></tr>    
-      <tr><td><span id="en">Oina bat</span><span id="ro">Bâtă de oină</span> </td><td>- </td><td>-</td></tr>    
-      <tr><td><span id="en">Cricket bat</span><span id="ro">Bâtă de cricket</span> </td><td>- </td><td>-</td></tr>    
-      <tr><td><span id="en">Baseball bat</span><span id="ro">Bâtă de baseball</span> </td><td>- </td><td>-</td></tr>    
-      <tr><td><span id="en">Beach ball</span><span id="ro">Minge de plajâ</span> </td><td>- </td><td>-</td></tr>   
-      <tr><td><span id="en">Squash ball</span><span id="ro">Minge squash</span> </td><td>- </td><td>-</td></tr>    
-      <tr><td><span id="en">Wiffle ball</span><span id="ro">Minge wiffle</span> </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Soccer net</span><span id="ro">Plasâ poartâ fotbal</span> </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Volley net</span><span id="ro">Plasâ volei</span> </td><td>- </td><td>-</td></tr>
-      <tr><td><span id="en">Handball net</span><span id="ro">Plasâ handbal</span> </td><td>- </td><td>-</td></tr>
-      <tr><td><span id="en">Basketball hoop net</span><span id="ro">Plasâ coș baschet</span> </td><td>- </td><td>-</td></tr>
-      <tr><td><span id="en">Basketball hoop</span><span id="ro">Coș baschet</span> </td><td>- </td><td>-</td></tr>   
-      <tr><td><span id="en">Hula hoops</span><span id="ro">Hula hoops</span> </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Gymnastic ribbon</span><span id="ro">Panglică gimnastică</span> </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Gymnastic circle</span><span id="ro">Cerc gimnastică</span> </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Gymnastics Roman Ring Set</span><span id="ro">Set inele romane gimnastică</span> </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Gymnastics Vaulting Box</span><span id="ro">Capră sărituri gimnastică</span> </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Gymnastics Uneven Bars</span><span id="ro">Paralele inegale gimnastică</span> </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Gymnastics Spring Board</span><span id="ro">Trambulină cu arc gimnastică</span> </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Gymnastics Mat</span><span id="ro">Saltea gimnastică</span> </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Gymnastics Bench</span><span id="ro">Bancă gimnastică</span> </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Gymnastics Balance Beam</span><span id="ro">Bârnă gimnastică</span> </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Gymnastics Wooden Wall Bar</span><span id="ro">Spalier gimnastică</span> </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Gymnastics Vaulting Table</span><span id="ro">Masă sărituri gimnastică</span> </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Gymnastics Rings</span><span id="ro">Inele gimnastică</span> </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Gymnastics floor exercise system</span><span id="ro">Sistem podea exerciții la sol gimnastică</span> </td><td>- </td><td>-</td></tr>  
-      <tr><td><span id="en">Gym Ab coaster</span><span id="ro">Aparat sală abdomene Ab coaster</span> </td><td>- </td><td>-</td></tr>    
-      <tr><td><span id="en">Gym Ab crunch machine</span><span id="ro">Aparat sală abdomene Ab crunch</span> </td><td>- </td><td>-</td></tr>     
-      <tr><td><span id="en">Gym Ab roller wheel</span><span id="ro">Aparat sală abdomene Ab roller wheel</span> </td><td>- </td><td>-</td></tr>      
-      <tr><td><span id="en">Gym Ab bench</span><span id="ro">Aparat sală bancă abdomene</span> </td><td>- </td><td>-</td></tr>    
-      <tr><td><span id="en">Gym multifunctional equipment</span><span id="ro">Aparat sală multifuncțional</span> </td><td>- </td><td>-</td></tr>    
-      <tr><td><span id="en">Gym Stabylity ball</span><span id="ro">Minge de stabilitate</span> </td><td>- </td><td>-</td></tr>     
-      <tr><td><span id="en">Gym Climbing rope</span><span id="ro">Frânghie de cățărat</span> </td><td>- </td><td>-</td></tr>
-      <tr><td><span id="en">Gym Hand grip</span><span id="ro">Mănuși culturism</span> </td><td>- </td><td>-</td></tr>
-      <tr><td><span id="en">Gym Jump ropes</span><span id="ro">Coardă sărituri </span> </td><td>- </td><td>-</td></tr>
-      <tr><td><span id="en">Gym Yoga mat</span><span id="ro">Saltea yoga</span> </td><td>- </td><td>-</td></tr>    
-      <tr><td><span id="en">Gym Weights set</span><span id="ro">Set greutăți culturism</span></td><td>- </td><td>-</td></tr>  
+.sportinggoodsslider{
+ width:100%;
+}
+.sportinggoodsslidernav{
+ text-align:center;
+ width:100%; 
+}
+.sportinggoodsslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
+.sportinggoodsslides img {
+  max-width: 100%;
+  height: auto;
+}
 
-</tbody>
+.sportinggoodsslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.sportinggoodsslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.sportinggoodsslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.sportinggoodsslidernav a:hover {background-color: gold;}
+.sportinggoodsslidernav a:active {background-color: gold;}
+.sportinggoodsslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="sportinggoodsslider">
+
+<div class="sportinggoodsslidernav" >
+  <a href="#sportinggoodsslide-1">1</a>
+  <a href="#sportinggoodsslide-2">2</a>
+</div>
+
+  <div class="sportinggoodsslides">
+    <div class="fade" id="sportinggoodsslide-1">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/sportinggoods.jpg" alt="sporting goods item1" /> 
+    </div>
+    <div class="fade" id="sportinggoodsslide-2">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/sportinggoodsb.jpg" alt="sporting goods item2" /> 
+    </div>
+  </div><!-- sportinggoodsSlides -->
+
+</div><!-- sportinggoodsSlider -->
