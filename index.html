@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab sportinggoods on click start
+  $("#sportinggoodsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#sportinggoods").hasClass("clickedsportinggoods")) {
+        // already been clicked once, hide it
+        $("#sportinggoods").html("");
+        $( "#sportinggoods" ).removeClass( "clickedsportinggoods" )
+    }else {
+        // first time this is clicked, mark it
+        $("#sportinggoods").addClass("clickedsportinggoods");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/sportinggoods.txt?" + rand, success: function(result){
+         $("#sportinggoods").html(result);
+        }});
+    }
+   });
+  // Grab sportinggoods on click end
+
   // Grab palletizationitems on click start
   $("#palletizationitemsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3189,7 +3206,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->     
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>W. FUN AND ENTERTAINMENT (2)</b></span><span id="ro"><b>W. DISTRACȚIE ȘI DIVERTISMENT (2)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>W. FUN AND ENTERTAINMENT (4)</b></span><span id="ro"><b>W. DISTRACȚIE ȘI DIVERTISMENT (4)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="musicalinstrumentsbtn" ><span id="en">Musical Instruments (2)</span><span id="ro">Instrumente Muzicale (2)</span></h5>    
    <div id="musicalinstruments" class="categorypanel" >
    <!-- Load info start --> 
@@ -3207,8 +3224,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Electronic items and gadgets</span><span id="ro">Gadget-uri și electronice</span></h5>    
   <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" ><span id="en">Sporting Goods</span><span id="ro">Articole sportive</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="sportinggoodsbtn" ><span id="en">Sporting Goods (2)</span><span id="ro">Articole sportive (2)</span></h5>    
+   <div id="sportinggoods" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>		
   <h5 class="categoryaccordion" ><span id="en">Bicycles and Accesories</span><span id="ro">Biciclete și Accesorii</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" id="outdoorsportsbtn" ><span id="en">Outdoor Sports</span><span id="ro">Sporturi Outdoor</span></h5>    
