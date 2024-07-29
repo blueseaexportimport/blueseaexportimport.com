@@ -162,6 +162,24 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+
+  // Grab starch on click start
+  $("#starchbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#starch").hasClass("clickedstarch")) {
+        // already been clicked once, hide it
+        $("#starch").html("");
+        $( "#starch" ).removeClass( "clickedstarch" )
+    }else {
+        // first time this is clicked, mark it
+        $("#starch").addClass("clickedstarch");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/starch.txt?" + rand, success: function(result){
+         $("#starch").html(result);
+        }});
+    }
+   });
+  // Grab starch on click end
+
   // Grab lasers on click start
   $("#lasersbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3130,7 +3148,7 @@ $(document).ready(function () {
    </div>	 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (24)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (24)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (25)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (25)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Echipamente morărit</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Echipamente ambalat alimente</span></h5> 
@@ -3153,8 +3171,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion"><span id="en">Food Grade Starch</span><span id="ro">Amidon alimentar</span></h5>     
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="starchbtn" ><span id="en">Food Grade Starch (1)</span><span id="ro">Amidon alimentar (1)</span></h5>     
+   <div id="starch" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="cookingessencebtn" ><span id="en">Cooking Essence</span><span id="ro">Esențe Alimentare</span></h5>    
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="vegetablecookingoilsbtn" ><span id="en">Vegetable Cooking Oils (1)</span><span id="ro">Uleiuri Vegetale pentru Gătit (1)</span></h5>    
