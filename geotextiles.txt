@@ -1,4 +1,7 @@
+<style>
+    .geotextilesslidediv img{ width:100%; height:auto;}
+</style> 
 
-       <tr><td><span id="en">Woven Fabric Geotextile</span><span id="ro">Țesătură geotextilă</span> </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Non-Woven Fabric Geotextile</span><span id="ro">Țesătură nețesută geotextilă</span> </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Knitted Geotextile</span><span id="ro">Țesătură tricotată geotextilă</span> </td><td>-</td><td>-</td></tr> 
+<div class="geotextilesslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/olives.jpg" alt="olives item1" /> 
+</div>
