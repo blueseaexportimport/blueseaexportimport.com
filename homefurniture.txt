@@ -59,7 +59,7 @@
 
   <div class="homefurnitureslides">
     <div class="fade" id="homefurnitureslide-1">
-      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/homefurniture.jpg" alt="homefurniture productsitem1" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/homefurniturec.jpg" alt="homefurniture productsitem1" /> 
     </div>
     <div class="fade" id="homefurnitureslide-2">
       <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/homefurnitureb.jpg" alt="homefurniture productsitem2" /> 
