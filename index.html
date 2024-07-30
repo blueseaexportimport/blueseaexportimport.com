@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab geotextiles on click start
+  $("#geotextilesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#geotextiles").hasClass("clickedgeotextiles")) {
+        // already been clicked once, hide it
+        $("#geotextiles").html("");
+        $( "#geotextiles" ).removeClass( "clickedgeotextiles" )
+    }else {
+        // first time this is clicked, mark it
+        $("#geotextiles").addClass("clickedgeotextiles");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/geotextiles.txt?" + rand, success: function(result){
+         $("#geotextiles").html(result);
+        }});
+    }
+   });
+  // Grab geotextiles on click end
+
   // Grab aggregates on click start
   $("#aggregatesbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2767,7 +2784,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 	   	   
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>P. CONSTRUCTION MATERIALS (1)</b></span> <span id="ro"><b>P. MATERIALE DE CONSTRUCȚII (1)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>P. CONSTRUCTION MATERIALS (3)</b></span> <span id="ro"><b>P. MATERIALE DE CONSTRUCȚII (3)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" ><span id="en">Construction machinery</span><span id="ro">Utilaje construcții</span></h5> 
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="aggregatesbtn" ><span id="en">Construction Aggregates</span><span id="ro">Agregate construcții</span></h5> 
@@ -2783,8 +2800,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="screedsmaterialsbtn" ><span id="en">Screeds materials</span><span id="ro">Materiale pentru șape</span></h5>    
    <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" ><span id="en">Geotextiles</span><span id="ro">Geotextile</span></h5>    
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="geotextilesbtn" ><span id="en">Geosynthetics (1)</span><span id="ro">Geosintetice (1)</span></h5>    
+   <div id="geotextiles" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" ><span id="en">Concrete additives</span><span id="ro">Aditivi betoane</span></h5>    
    <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" ><span id="en">Wood for building and composite wood based materials</span><span id="ro">Lemn construcții și materiale compozite din lemn</span></h5>    
