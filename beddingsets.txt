@@ -148,7 +148,8 @@
 <tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://saltsib.ro/produse/saltele/cu-spuma-memory/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
 <tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
 
-
+       <tr><td><span id="en">Mattress</span><span id="ro">Saltea</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Mattress topper</span><span id="ro">Saltea topper</span> </td><td>- </td><td>-</td></tr>
 
 </tbody> 
 
