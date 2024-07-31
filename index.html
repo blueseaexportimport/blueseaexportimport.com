@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab solarpanels on click start
+  $("#solarpanelsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#solarpanels").hasClass("clickedsolarpanels")) {
+        // already been clicked once, hide it
+        $("#solarpanels").html("");
+        $( "#solarpanels" ).removeClass( "clickedsolarpanels" )
+    }else {
+        // first time this is clicked, mark it
+        $("#solarpanels").addClass("clickedsolarpanels");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/solarpanels.txt?" + rand, success: function(result){
+         $("#solarpanels").html(result);
+        }});
+    }
+   });
+  // Grab solarpanels on click end
+ 
   // Grab homefurniture on click start
   $("#homefurniturebtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2257,11 +2274,14 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>	   	   
    </div></li><!--END SECTION-->	
 	
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>A. ELECTRICITY  (9)</b></span> <span id="ro"><b>A. ENERGIE ELECTRICĂ (9)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>A. ELECTRICITY (10)</b></span> <span id="ro"><b>A. ENERGIE ELECTRICĂ (10)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="fusionreactorsbtn" ><span id="en">Fusion reactors</span><span id="ro">Reactoare fuziune</span></h5>    	
    <div class="rowbin" >-</div> 
-   <h5 class="categoryaccordion" id="solarpanelsbtn" ><span id="en">Solar panels</span><span id="ro">Panouri solare</span></h5>    	
-   <div class="rowbin" >-</div> 
+   <h5 class="categoryaccordion" id="solarpanelsbtn" ><span id="en">Solar panels (1)</span><span id="ro">Panouri solare (1)</span></h5>    	
+   <div id="solarpanels" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 
    <h5 class="categoryaccordion" id="windturbinesbtn" ><span id="en">Horizontal axis wind turbines (HAWT)</span><span id="ro">Turbine eoliene cu ax orizontal (HAWT)</span></h5>    	
    <div class="rowbin" >-</div> 
    <h5 class="categoryaccordion" id="electricgeneratorsbtn" ><span id="en">Synchronous electric generators</span><span id="ro">Generatoare electrice sincrone</span></h5>    	
