@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab firedepartment on click start
+  $("#firedepartmentbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#firedepartment").hasClass("clickedfiredepartment")) {
+        // already been clicked once, hide it
+        $("#firedepartment").html("");
+        $( "#firedepartment" ).removeClass( "clickedfiredepartment" )
+    }else {
+        // first time this is clicked, mark it
+        $("#firedepartment").addClass("clickedfiredepartment");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/firedepartment.txt?" + rand, success: function(result){
+         $("#firedepartment").html(result);
+        }});
+    }
+   });
+  // Grab firedepartment on click end
+
   // Grab solarpanels on click start
   $("#solarpanelsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2401,11 +2418,14 @@ $(document).ready(function () {
    </div></li><!--END SECTION-->	
 
 	
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>F. EMERGENCY SITUATIONS (2)</b></span> <span id="ro"><b>F. SITUAȚII DE URGENȚĂ (2)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>F. EMERGENCY SITUATIONS (3)</b></span> <span id="ro"><b>F. SITUAȚII DE URGENȚĂ (3)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="hospitalbtn" ><span id="en">Hospital equipment, accessories and materials</span><span id="ro">Echipamente, accesorii și materiale spitale</span></h5>    
    <div class="rowbin" >-</div>      	
-   <h5 class="categoryaccordion" id="firedepartmentbtn" ><span id="en">Fire department equipment, accessories and materials</span><span id="ro">Echipamemte, materiale și accesorii pompieri</span></h5>    
-   <div class="rowbin" >-</div>     	
+   <h5 class="categoryaccordion" id="firedepartmentbtn" ><span id="en">Fire department equipment, accessories and materials (1)</span><span id="ro">Echipamemte, materiale și accesorii pompieri (1)</span></h5>    
+   <div id="firedepartment" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>    	
    <h5 class="categoryaccordion" id="policebtn" ><span id="en">Police and public order department non-Lethal equipment</span><span id="ro">Echipamemte neletale poliție și ordine publică</span></h5>    
    <div class="rowbin" >-</div>     
    <h5 class="categoryaccordion" id="forensicequipmentbtn" ><span id="en">Forensic equipment and consumables</span><span id="ro">Echipamente și consumabile criminalistice</span></h5>    
