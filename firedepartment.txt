@@ -1,6 +1,7 @@
+ <style>
+    .firedepartmentslidediv img{ width:100%; height:auto;}
+</style> 
 
-       <tr><td>Fire Hose</td><td>- </td><td>-</td></tr>
-       <tr><td>Industrial Warning Siren</td><td>  </td><td>-</td></tr>
-       <tr><td>Electro-Mechanical Siren</td><td>  </td><td>-</td></tr> 
-       <tr><td>Warning Siren</td><td> </td><td>-</td></tr>  
-       <tr><td>Siren Controller</td><td>  </td><td>-</td></tr>
+<div class="firedepartmentslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/firedepartment.jpg" alt="fire department item1" /> 
+</div>
