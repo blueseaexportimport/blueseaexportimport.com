@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab sauces on click start
+  $("#saucesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#sauces").hasClass("clickedsauces")) {
+        // already been clicked once, hide it
+        $("#sauces").html("");
+        $( "#sauces" ).removeClass( "clickedsauces" )
+    }else {
+        // first time this is clicked, mark it
+        $("#sauces").addClass("clickedsauces");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/sauces.txt?" + rand, success: function(result){
+         $("#sauces").html(result);
+        }});
+    }
+   });
+  // Grab  on click end
+
   // Grab firedepartment on click start
   $("#firedepartmentbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3277,7 +3294,7 @@ $(document).ready(function () {
    </div>	 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (25)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (25)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (27)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (27)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Echipamente morărit</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Echipamente ambalat alimente</span></h5> 
@@ -3342,8 +3359,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" ><span id="en">Sauces</span><span id="ro">Sosuri</span></h5>
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="saucesbtn" ><span id="en">Sauces (2)</span><span id="ro">Sosuri (2)</span></h5>
+   <div id="sauces" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" ><span id="en">Spices Mixes - Blends </span><span id="ro">Mixuri de Ierburi și Condimente</span></h5>
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion"><span id="en">Roasted Coffee, Instant Cacao, Hot Chocolate and Tea</span><span id="ro">Cafea prăjită, Cacao Instant, Ciocolată Caldă și Ceai</span></h5>    
