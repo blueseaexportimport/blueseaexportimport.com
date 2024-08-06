@@ -1,38 +1,7 @@
+<style>
+    .olensandopticsslidediv img{ width:100%; height:auto;}
+</style> 
 
-     <tr><td>Plano-Convex Lense</td><td>-  </td><td>-</td></tr>
-     <tr><td>Double-Convex Lense</td><td>-  </td><td>-</td></tr>
-     <tr><td>Plano-Concave Lense</td><td>-  </td><td>-</td></tr>
-     <tr><td>Double-Concave Lense</td><td>-  </td><td>-</td></tr>
-     <tr><td>Cylinder Lense</td><td>-  </td><td>-</td></tr>
-     <tr><td>Laser Lense</td><td>-  </td><td>-</td></tr>
-     <tr><td>UV Lense</td><td>-  </td><td>-</td></tr>
-     <tr><td>Spherical Lense</td><td>-  </td><td>-</td></tr>
-     <tr><td>IR Lense</td><td>-  </td><td>-</td></tr>
-     <tr><td>Anti-Reflective Lense</td><td>-  </td><td>-</td></tr>
-
-     <tr><td>Ti:Sapphire Laser Mirror</td><td>-  </td><td>-</td></tr>
-     <tr><td>Nd:YAG Laser Mirror</td><td>-  </td><td>-</td></tr>
-     <tr><td>Broadband Mirror</td><td>-  </td><td>-</td></tr>
-     <tr><td>Laser Line Mirror</td><td>-  </td><td>-</td></tr>
-     <tr><td>Off-Axis Mirror</td><td>-  </td><td>-</td></tr>
-     <tr><td>Concave Mirror</td><td>-  </td><td>-</td></tr>
-     <tr><td>IR Mirror</td><td>-  </td><td>-</td></tr>
-
-     <tr><td>UV Polarizer</td><td>-  </td><td>-</td></tr>
-     <tr><td>Ultrafast Polarizer</td><td>-  </td><td>-</td></tr>
-     <tr><td>High Energy Polarizer</td><td>-  </td><td>-</td></tr>
-    
-     <tr><td>Plate Beam Splitter</td><td>-  </td><td>-</td></tr>
-     <tr><td>Cube Beam Splitter</td><td>-  </td><td>-</td></tr>
-     <tr><td>Polarizing Beam Splitter</td><td>-  </td><td>-</td></tr>
-     <tr><td>Laser Line Beam Splitter</td><td>-  </td><td>-</td></tr>
-    
-     <tr><td>Optical Bandpass Filter</td><td>-  </td><td>-</td></tr>
-     <tr><td>Optical Longpass Filter</td><td>-  </td><td>-</td></tr>
-     <tr><td>Optical Shortpass Filter</td><td>-  </td><td>-</td></tr>
-     <tr><td>Optical Notch Filter</td><td>-  </td><td>-</td></tr>
-     <tr><td>Optical Neutral Density (ND) Filter</td><td>-  </td><td>-</td></tr>
-     <tr><td>Optical Dichroic Filter</td><td>-  </td><td>-</td></tr>
-     <tr><td>Optical Telecom  Filter</td><td>-  </td><td>-</td></tr>
-     <tr><td>Optical DWDM Filter</td><td>-  </td><td>-</td></tr>
-     <tr><td>Optical Medical Filter</td><td>-  </td><td>-</td></tr>
+<div class="lensandopticsslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/lensandoptics.jpg" alt="lensandoptics item1" /> 
+</div>
