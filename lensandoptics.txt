@@ -1,5 +1,5 @@
 <style>
-    .olensandopticsslidediv img{ width:100%; height:auto;}
+    .lensandopticsslidediv img{ width:100%; height:auto;}
 </style> 
 
 <div class="lensandopticsslidediv" >
