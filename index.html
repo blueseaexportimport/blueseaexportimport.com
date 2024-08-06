@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab alloystracksandguides on click start
+  $("#alloystracksandguidesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#alloystracksandguides").hasClass("clickedalloystracksandguides")) {
+        // already been clicked once, hide it
+        $("#alloystracksandguides").html("");
+        $( "#alloystracksandguides" ).removeClass( "clickedalloystracksandguides" )
+    }else {
+        // first time this is clicked, mark it
+        $("#alloystracksandguides").addClass("clickedalloystracksandguides");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/alloystracksandguides.txt?" + rand, success: function(result){
+         $("#alloystracksandguides").html(result);
+        }});
+    }
+   });
+  // Grab alloystracksandguides on click end
+	
   // Grab lensandoptics on click start
   $("#lensandopticsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2562,7 +2579,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	  
   </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (8)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (8)</b></span></button><div class="catalogpanel">    
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (9)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (9)</b></span></button><div class="catalogpanel">    
    <h5 class="categoryaccordion" id="mineraloresbtn" ><span id="en">Minerals - ores (1)</span><span id="ro">Minereuri (1)</span></h5>    	
    <div id="mineralores" class="categorypanel" >
    <!-- Load info start --> 
@@ -2590,8 +2607,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-   <h5 class="categoryaccordion" id="alloysrailwaytracksbtn" ><span id="en">Alloys - railway tracks</span><span id="ro">Aliaje - șine cale ferată</span></h5>    	
-   <div class="rowbin" >-</div> 
+   <h5 class="categoryaccordion" id="alloystracksandguidesbtn" ><span id="en">Alloys - tracks and guides (1)</span><span id="ro">Aliaje - șine și ghidaje (1)</span></h5>    	
+   <div id="alloystracksandguides" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" id="alloyssheetsandstripsbtn" ><span id="en">Alloys - sheets and strips (1)</span><span id="ro">Aliaje - table și benzi (1)</span></h5>    	
    <div id="alloyssheetsandstrips" class="categorypanel" >
    <!-- Load info start --> 
