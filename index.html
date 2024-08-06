@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab lensandoptics on click start
+  $("#lensandopticsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#lensandoptics").hasClass("clickedlensandoptics")) {
+        // already been clicked once, hide it
+        $("#lensandoptics").html("");
+        $( "#lensandoptics" ).removeClass( "clickedlensandoptics" )
+    }else {
+        // first time this is clicked, mark it
+        $("#lensandoptics").addClass("clickedlensandoptics");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/lensandoptics.txt?" + rand, success: function(result){
+         $("#lensandoptics").html(result);
+        }});
+    }
+   });
+  // Grab lensandoptics on click end
+
   // Grab sauces on click start
   $("#saucesbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -177,7 +194,7 @@ $(document).ready(function () {
         }});
     }
    });
-  // Grab  on click end
+  // Grab sauces on click end
 
   // Grab firedepartment on click start
   $("#firedepartmentbtn").click(function() {
@@ -2458,7 +2475,7 @@ $(document).ready(function () {
    <!-- Load info end --> 
    </div>		   
    </div></li><!--END SECTION-->	
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (8)</b></span><span id="ro"><b>G. ȘCOALĂ, HIGH-TECH, AEROSPAȚIAL ȘI CERCETARE (8)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (9)</b></span><span id="ro"><b>G. ȘCOALĂ, HIGH-TECH, AEROSPAȚIAL ȘI CERCETARE (9)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="didacticmaterialsbtn" ><span id="en">Didactic Materials</span><span id="ro">Materiale Didactice</span></h5>    
    <div class="rowbin" >-</div>     
   <h5 class="categoryaccordion" id="officeandschoolsuppliesbtn" ><span id="en">Office and school supplies (3)</span><span id="ro">Birotică și Papetărie (3)</span></h5>    
@@ -2499,8 +2516,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>     
   <h5 class="categoryaccordion" id="telecomandsatellitespartsbtn" ><span id="en">Telecom and satellites parts</span><span id="ro">Sisteme telecom și componente sateliți</span></h5>    
    <div class="rowbin" >-</div>     	
-  <h5 class="categoryaccordion" id="lensandopticsbtn" ><span id="en">Lens and optics</span><span id="ro">Lentile și optică</span></h5>    
-   <div class="rowbin" >-</div>     	
+  <h5 class="categoryaccordion" id="lensandopticsbtn" ><span id="en">Lens and optics (1)</span><span id="ro">Lentile și optică (1)</span></h5>    
+   <div id="lensandoptic" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	   	
   <h5 class="categoryaccordion" id="lasersbtn" ><span id="en">Lasers (1)</span><span id="ro">Lasere (1)</span></h5>    
    <div id="lasers" class="categorypanel" >
    <!-- Load info start --> 
