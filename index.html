@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab alloyswiredrawingproducts on click start
+  $("#alloyswiredrawingproductsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#alloyswiredrawingproducts").hasClass("clickedalloyswiredrawingproducts")) {
+        // already been clicked once, hide it
+        $("#alloyswiredrawingproducts").html("");
+        $( "#alloyswiredrawingproducts" ).removeClass( "clickedalloyswiredrawingproducts" )
+    }else {
+        // first time this is clicked, mark it
+        $("#alloyswiredrawingproducts").addClass("clickedalloyswiredrawingproducts");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/alloyswiredrawingproducts.txt?" + rand, success: function(result){
+         $("#alloyswiredrawingproducts").html(result);
+        }});
+    }
+   });
+  // Grab alloyswiredrawingproducts on click end
+	
   // Grab alloystracksandguides on click start
   $("#alloystracksandguidesbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2579,7 +2596,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	  
   </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (9)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (9)</b></span></button><div class="catalogpanel">    
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (10)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (10)</b></span></button><div class="catalogpanel">    
    <h5 class="categoryaccordion" id="mineraloresbtn" ><span id="en">Minerals - ores (1)</span><span id="ro">Minereuri (1)</span></h5>    	
    <div id="mineralores" class="categorypanel" >
    <!-- Load info start --> 
@@ -2621,8 +2638,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div> 	   
    <h5 class="categoryaccordion" id="alloysforgedproductsbtn" ><span id="en">Alloys - forged products</span><span id="ro">Aliaje - produse forjate</span></h5>    	
    <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" id="alloyswiredrawingbtn" ><span id="en">Alloys - wire drawing products</span><span id="ro">Aliaje - produse trăgătorie / trefilare</span></h5>    	
-   <div class="rowbin" >-</div>
+   <h5 class="categoryaccordion" id="alloyswiredrawingproductsbtn" ><span id="en">Alloys - wire drawing products (1)</span><span id="ro">Aliaje - produse trăgătorie / trefilare (1)</span></h5>    	
+   <div id="alloyswiredrawingproducts" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" id="alloysextrusionproductsbtn" ><span id="en">Alloys - extrusion products</span><span id="ro">Aliaje - produse extrudare</span></h5>    	
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="alloysmetalpowdersbtn" ><span id="en">Alloys - metal powders</span><span id="ro">Aliaje - pulberi metalice</span></h5>    	
