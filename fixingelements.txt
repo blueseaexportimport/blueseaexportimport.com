@@ -1,4 +1,72 @@
+<style>
 
+.fixingelementsslider{
+ width:100%;
+}
+.fixingelementsslidernav{
+ text-align:center;
+ width:100%; 
+}
+.fixingelementsslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
+
+.fixingelementsslides img {
+  max-width: 100%;
+  height: auto;
+}
+
+.fixingelementsslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.fixingelementsslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.fixingelementsslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.fixingelementsslidernav a:hover {background-color: gold;}
+.fixingelementsslidernav a:active {background-color: gold;}
+.fixingelementsslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="bottledwaterslider">
+
+<div class="fixingelementsslidernav" >
+  <a href="#fixingelementsslide-1">1</a>
+  <a href="#fixingelementsslide-2">2</a>
+</div>
+
+  <div class="fixingelementsslides">
+    <div class="fade" id="fixingelementsslide-1">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/fixingelements.jpg" alt="fixing elements productsitem1" /> 
+    </div>
+    <div class="fade" id="fixingelementsslide-2">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/fixingelementsb.jpg" alt="fixing elements productsitem2" /> 
+    </div>
+  </div><!-- fixingelementsSlides -->
+
+</div><!-- fixingelementsSlider -->
 
 <!--
        <tr><td>G-4 Windlass Chain </td><td>-</td><td>-</td></tr>
