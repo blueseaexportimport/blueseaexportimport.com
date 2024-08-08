@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab fixingelements on click start
+  $("#fixingelementsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#fixingelements").hasClass("clickedafixingelements")) {
+        // already been clicked once, hide it
+        $("#fixingelements").html("");
+        $( "#fixingelements" ).removeClass( "clickedfixingelements" )
+    }else {
+        // first time this is clicked, mark it
+        $("#fixingelements").addClass("clickedfixingelements");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/fixingelements.txt?" + rand, success: function(result){
+         $("#fixingelements").html(result);
+        }});
+    }
+   });
+  // Grab fixingelements on click end
+	
   // Grab alloyswiredrawingproducts on click start
   $("#alloyswiredrawingproductsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2852,7 +2869,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div>
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>N. TECHNICAL, CONSUMABLES AND TOOLS  (5)</b></span> <span id="ro"><b>N. CONSUMABILE, TEHNICE ȘI SCULE (5)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>N. TECHNICAL, CONSUMABLES AND TOOLS  (7)</b></span> <span id="ro"><b>N. CONSUMABILE, TEHNICE ȘI SCULE (7)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Tools And Measuring Instruments</span><span id="ro">Scule și Instrumente de Măsurat</span></h5>   
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Power Tools Consumables</span><span id="ro">Accesorii și consumabile scule electrice</span></h5>    
@@ -2879,8 +2896,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>		 	
-  <h5 class="categoryaccordion" ><span id="en">Fixing Elements</span><span id="ro">Elemente de Fixare</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="fixingelementsbtn" ><span id="en">Fixing Elements (2)</span><span id="ro">Elemente de Fixare (2)</span></h5>    
+   <div id="fixingelements" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="furnitureaccessoriesbtn" ><span id="en">Furniture Accessories (1)</span><span id="ro">Accesorii pentru Mobilier și Feronerie (1)</span></h5>
    <div id="furnitureaccessories" class="categorypanel" >
    <!-- Load info start --> 
