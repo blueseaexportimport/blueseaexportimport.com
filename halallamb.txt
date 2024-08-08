@@ -1,15 +1,7 @@
+<style>
+    .halallambslidediv img{ width:100%; height:auto;}
+</style> 
 
-   <tr><td><span id="en">Lamb Carcass</span><span id="ro" >Carcasă miel</span> </td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Half Lamb Carcass + edible internal organs</span><span id="ro" >Jumătate carcasă cu măruntaie</span> </td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Half Lamb Carcass no edible internal organs</span><span id="ro" >Jumătate carcasă fară măruntaie</span> </td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Lamb Leg</span><span id="ro" >Jigou ( pulpă ) miel</span> </td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Lamb Shank</span><span id="ro" >Rasol de miel</span> </td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Lamb Short Loin</span><span id="ro" >Mușchiuleț de miel</span> </td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Lamb Chump</span><span id="ro" >Cotlet de miel</span> </td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Lamb Ribs</span><span id="ro" >Costițe de miel</span> </td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Lamb Forequarter</span><span id="ro" > Sfert anterior miel</span> </td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Lamb Neck</span><span id="ro" >Gât miel</span> </td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Lamb Head</span><span id="ro" >Cap miel</span> </td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Lamb Internal Organs</span><span id="ro" >Măruntaie pentru drob ( ficat , inimă , rinichi , plămâni și prapure )</span> </td><td>-</td><td>-</td></tr>  
-   <tr><td><span id="en">Lamb Intestines - Casings</span><span id="ro" >Prapure miel</span> </td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Lamb Minced Meat</span><span id="ro" >Carne tocată de miel</span> </td><td>-</td><td>-</td></tr>
+<div class="halallambslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/halallambfreshmeat.jpg" alt="halal lamb item1" /> 
+</div>
