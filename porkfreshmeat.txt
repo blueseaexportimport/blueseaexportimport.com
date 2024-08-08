@@ -1,28 +1,8 @@
-   <tr><td><span id="en">Pork Carcass</span><span id="ro" >Carcasă de porc</span></span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Half Pork Carcass + edible internal organs</span><span id="ro" >Jumătate carcasă de porc + organe comestibile</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Half Pork Carcass no edible internal organs</span><span id="ro" >Jumătate carcasă de porc + fără organe comestibile</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Feet</span><span id="ro" >Picioare de porc</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Ham</span><span id="ro" >Pulpă / Ciolan de porc spate</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Picnic Shoulder</span><span id="ro" >Pulpă / Spată / Ciolan de porc față</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Back Hock / Shank</span><span id="ro" >Rasol din spate</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Front Hock / Shank</span><span id="ro" >Rasol din faţă</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Loin without bone</span><span id="ro" > Cotlet fără os</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Loin with bone</span><span id="ro" > Cotlet cu os</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Rib eye steak</span><span id="ro" >Ceafă / antricot de porc</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Ribs</span><span id="ro" >Coastă / scarită de porc</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Breast</span><span id="ro" >Piept de porc</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork TenderLoin</span><span id="ro" >Filé - Mușchiuleț de porc</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Neck</span><span id="ro" >Gât de porc</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Belly</span><span id="ro" >Burtă de porc</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Head</span><span id="ro" >Cap de porc</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Snout</span><span id="ro" >Râț de porc</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Jowls</span><span id="ro" >Fălci de porc</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Brain</span><span id="ro" >Creier de porc</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Tongue</span><span id="ro" >Limbă de porc</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Ears</span><span id="ro" >Urechi de porc</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Heart</span><span id="ro" >Inimă de porc</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Kidney</span><span id="ro" >Rinichi de porc</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Liver</span><span id="ro" >Ficat de porc</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Intestines - Casings</span><span id="ro" >Intestine - mațe pentru cârnați</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork Minced Meat</span><span id="ro" >Carne de porc lucru ( pentru tocat )</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Pork skin</span><span id="ro" >Șorici</span></td><td>-</td><td>-</td></tr>
+<style>
+    .porkfreshmeatslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="porkfreshmeatslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/porkfreshmeat.jpg" alt="pork fresh meat item1" /> 
+</div>
+
