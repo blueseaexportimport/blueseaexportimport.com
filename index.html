@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab porkfreshmeat on click start
+  $("#porkfreshmeatbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#porkfreshmeat").hasClass("clickedporkfreshmeat")) {
+        // already been clicked once, hide it
+        $("#porkfreshmeat").html("");
+        $( "#porkfreshmeat" ).removeClass( "clickedporkfreshmeat" )
+    }else {
+        // first time this is clicked, mark it
+        $("#porkfreshmeat").addClass("clickedporkfreshmeat");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/porkfreshmeat.txt?" + rand, success: function(result){
+         $("#porkfreshmeat").html(result);
+        }});
+    }
+   });
+  // Grab porkfreshmeat on click end
+
   // Grab chickenfreshmeat on click start
   $("#chickenfreshmeatbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3351,8 +3368,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	 	
-  <h5 class="categoryaccordion" ><span id="en">Pork Fresh Meat</span><span id="ro">Carne Proaspătă de Porc</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="porkfreshmeatbtn" ><span id="en">Pork Fresh Meat (1)</span><span id="ro">Carne Proaspătă de Porc (1)</span></h5>    
+   <div id="porkfreshmeat" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 	
   <h5 class="categoryaccordion" ><span id="en">Halal Lamb / Mutton Meat Fresh Meat</span><span id="ro">Carne Proaspătă de Oaie / Miel Halal</span></h5>    	
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Beef Meat Fresh Meat</span><span id="ro">Carne Proaspătă de Vită</span></h5>    
