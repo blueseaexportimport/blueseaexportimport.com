@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab chickenfreshmeat on click start
+  $("#buyprocedurebtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#chickenfreshmeat").hasClass("clickedchickenfreshmeat")) {
+        // already been clicked once, hide it
+        $("#chickenfreshmeat").html("");
+        $( "#chickenfreshmeat" ).removeClass( "clickedchickenfreshmeat" )
+    }else {
+        // first time this is clicked, mark it
+        $("#chickenfreshmeat").addClass("clickedchickenfreshmeat");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/chickenfreshmeat.txt?" + rand, success: function(result){
+         $("#chickenfreshmeat").html(result);
+        }});
+    }
+   });
+  // Grab chickenfreshmeat on click end
+
   // Grab fixingelements on click start
   $("#fixingelementsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3243,7 +3260,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (41)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (41)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (42)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (42)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="humanfoodgrainsbtn" ><span id="en">Human Food Grains (1)</span><span id="ro">Cereale Consum Uman (1)</span></h5>    
    <div id="humanfoodgrains" class="categorypanel" >
    <!-- Load info start --> 
@@ -3329,8 +3346,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	 	
-  <h5 class="categoryaccordion" id="chickenfreshmeatbtn" ><span id="en">Chicken Fresh Meat</span><span id="ro">Carne Proaspătă de Pui</span></h5>    
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="chickenfreshmeatbtn" ><span id="en">Chicken Fresh Meat (1)</span><span id="ro">Carne Proaspătă de Pui (1)</span></h5>    
+   <div id="chickenfreshmeat" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 	
   <h5 class="categoryaccordion" ><span id="en">Pork Fresh Meat</span><span id="ro">Carne Proaspătă de Porc</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Halal Lamb / Mutton Meat Fresh Meat</span><span id="ro">Carne Proaspătă de Oaie / Miel Halal</span></h5>    	
