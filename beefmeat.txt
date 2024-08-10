@@ -1,21 +1,7 @@
-   <tr><td><span id="en">Beef Carcass</span><span id="ro" >Carcasă vită</span> </td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Beef Carcass + edible internal organs</span><span id="ro" >Carcasă vită cu măruntaie</span> </td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Beef Carcass no edible internal organs</span><span id="ro" >Carcasă vită fară măruntaie</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Beef Back Hock / Shank</span><span id="ro" >Rasol din spate</span></td><td>-</td><td>-</td></tr>   
-   <tr><td><span id="en">Beef Front Hock / Shank</span><span id="ro" >Rasol din faţă</span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Beef Striploin</span><span id="ro" >Vrăbioara</span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Beef German Eye of Round</span><span id="ro" >Rasol nemţesc</span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Beef Ribeye steak with bone</span><span id="ro" >Antricot / cotlet cu os</span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Beef Ribeye steak without bone</span><span id="ro" >Antricot / cotlet fără os</span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Beef Chuck</span><span id="ro" >Gât cu junghetură şi salbă</span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Beef Brisket</span><span id="ro" >Piept de vită</span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Beef Ribs</span><span id="ro" >Coaste de vită</span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Beef Oxtail</span><span id="ro" >Coadă de vită </span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Beef Flank Steak</span><span id="ro" >Fleică de vită </span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Beef Round Steak</span><span id="ro" >Pulpă de vită </span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Beef Tenderloin</span><span id="ro" >Muşchiul de vită </span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Beef Chuck roast</span><span id="ro" >Greabăn / garf de vită </span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Beef Knee Caps</span><span id="ro" >Cheie din spate și faţă </span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Beef Shoulder</span><span id="ro" >Spată de vită</span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Beef Edible Internal Organs</span><span id="ro" >Măruntaie de vită</span></td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Beef Tripe</span><span id="ro" >Burtă de vită</span></td><td>-</td><td>-</td></tr> 
+<style>
+    .beefmeatslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="beefmeatslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/beeffreshmeat.jpg" alt="beef fresh meat item1" /> 
+</div>
