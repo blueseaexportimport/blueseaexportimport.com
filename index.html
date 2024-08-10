@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab beefmeat on click start
+  $("#beefmeatbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#beefmeat").hasClass("clickedbeefmeat")) {
+        // already been clicked once, hide it
+        $("#beefmeat").html("");
+        $( "#beefmeat" ).removeClass( "clickedbeefmeat" )
+    }else {
+        // first time this is clicked, mark it
+        $("#beefmeat").addClass("clickedbeefmeat");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/beefmeat.txt?" + rand, success: function(result){
+         $("#beefmeat").html(result);
+        }});
+    }
+   });
+  // Grab beefmeat on click end
+
   // Grab halallamb on click start
   $("#halallambbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3294,7 +3311,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (44)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (44)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (45)</b></span><span id="ro"><b>U. ALIMENTE NEPROCESATE (45)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="humanfoodgrainsbtn" ><span id="en">Human Food Grains (1)</span><span id="ro">Cereale Consum Uman (1)</span></h5>    
    <div id="humanfoodgrains" class="categorypanel" >
    <!-- Load info start --> 
@@ -3395,8 +3412,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" ><span id="en">Beef Meat Fresh Meat</span><span id="ro">Carne Proaspătă de Vită</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="beefmeatbtn" ><span id="en">Beef Meat Fresh Meat (1)</span><span id="ro">Carne Proaspătă de Vită (1)</span></h5>    
+   <div id="beefmeat" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="lardandtallowbtn" ><span id="en">Lard and Tallow (1)</span><span id="ro">Untură și Seu (1)</span></h5>    
    <div id="lardandtallow" class="categorypanel" >
    <!-- Load info start --> 
