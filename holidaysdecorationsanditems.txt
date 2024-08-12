@@ -62,7 +62,7 @@
       <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/holidaysdecorationsanditems.jpg" alt="holidays decorations and items products item1" /> 
     </div>
     <div class="fade" id="holidaysdecorationsanditemsslide-2">
-      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/holidaysdecorationsanditems.jpg" alt="holidays decorations and items products item2" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/holidaysdecorationsanditemsb.jpg" alt="holidays decorations and items products item2" /> 
     </div>
   </div><!-- holidaysdecorationsanditemsSlides -->
 
