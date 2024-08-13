@@ -1,26 +1,7 @@
-<tbody>
+<style>
+    .laundrycleaningitemsslidediv img{ width:100%; height:auto;}
+</style> 
 
-	<span id="en">Start Product:<br> Detergent powder</span>
-	<span id="ro">Start Produs:<br> Detergent pudră</span>
-	<span id="en">Start Product:<br> Detergent pods</span>
-	<span id="ro">Start Produs:<br> Detergent capsule</span>
-	<span id="en">Start Product:<br> Detergent liquid</span>
-	<span id="ro">Start Produs:<br> Detergent lichid</span>
-	<span id="en">Start Product:<br> Fabric softener</span>
-	<span id="ro">Start Produs:<br> Balsam de rufe</span>
-	<span id="en">Start Product:<br> Detergent powder</span>
-	<span id="ro">Start Produs:<br> Detergent pudră</span>
-	<span id="en">Start Product:<br> Laundry scent booster</span>
-	<span id="ro">Start Produs:<br> Perle parfumate rufe</span>
-       <tr><td><span id="en">Laundry soap</span><span id="ro">Săpun rufe</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Laundry starch</span><span id="ro">Amidon rufe</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Bleach</span><span id="ro">Înălbitor rufe</span></td><td>-</td><td>-</td></tr>        
-       <tr><td><span id="en">Stain removal detergent</span><span id="ro">Detergent îndepărtare pete</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Anti-calc tablets</span><span id="ro">Tablete anti-calcar</span> </td><td>-</td><td>-</td></tr>         
-       <tr><td><span id="en">Washing machine cleaning tablets</span><span id="ro">Tablete curățat mașina de spălat</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Stain removal solution</span><span id="ro">Soluție îndepărtat pete</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Protective cover for clothes</span><span id="ro">Husă de protecție pentru haine</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Wood clothes hanger</span><span id="ro">Umeraș din lemn haine</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Color absorber</span><span id="ro">Absorbant culoare</span></td><td>-</td><td>-</td></tr>
-
-</tbody>
+<div class="laundrycleaningitemsslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/laundrycleaningitems.jpg" alt="laundry cleaning items item1" /> 
+</div>
