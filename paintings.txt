@@ -1,2 +1,7 @@
-<tbody>
-</tbody>
+<style>
+    .paintingsslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="paintingsslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/paintings.jpg" alt="paintings item1" /> 
+</div>
