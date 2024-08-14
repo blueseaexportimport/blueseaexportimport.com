@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab paintings on click start
+  $("#paintingsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#paintings").hasClass("clickedpaintings")) {
+        // already been clicked once, hide it
+        $("#paintings").html("");
+        $( "#paintings" ).removeClass( "clickedpaintings" )
+    }else {
+        // first time this is clicked, mark it
+        $("#paintings").addClass("clickedpaintings");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/paintings.txt?" + rand, success: function(result){
+         $("#paintings").html(result);
+        }});
+    }
+   });
+  // Grab paintings on click end
+
   // Grab driedflowers on click start
   $("#driedflowersbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3719,9 +3736,12 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
   </div></li><!--END SECTION-->
  
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>Y. ART AND COLLECTIBLES (0)</b></span> <span id="ro"><b>Y. ARTĂ ȘI OBIECTE DE COLECȚIE (0)</b></span></button><div class="catalogpanel">
-  <h5 class="categoryaccordion"><span id="en">Paintings</span><span id="ro">Tablori</span></h5>     
-  <div class="rowbin" >-</div> 	
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>Y. ART AND COLLECTIBLES (1)</b></span> <span id="ro"><b>Y. ARTĂ ȘI OBIECTE DE COLECȚIE (1)</b></span></button><div class="catalogpanel">
+  <h5 class="categoryaccordion" id="paintingsbtn" ><span id="en">Paintings (1)</span><span id="ro">Tablori (1)</span></h5>     
+   <div id="paintings" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion"><span id="en">Sculptures</span><span id="ro">Sculpturi</span></h5>     
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Coins</span><span id="ro">Monezi</span></h5>        
