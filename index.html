@@ -161,7 +161,24 @@ $(document).ready(function () {
     }
    });
   // Grab buyprocedure on click end
-
+	 
+  // Grab fictionbooks on click start
+  $("#fictionbooksbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#fictionbooks").hasClass("clickedfictionbooks")) {
+        // already been clicked once, hide it
+        $("#fictionbooks").html("");
+        $( "#fictionbooks" ).removeClass( "clickedfictionbooks" )
+    }else {
+        // first time this is clicked, mark it
+        $("#fictionbooks").addClass("clickedfictionbooks");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/fictionbooks.txt?" + rand, success: function(result){
+         $("#fictionbooks").html(result);
+        }});
+    }
+   });
+  // Grab buyprocedure on click end
+ 
   // Grab paintings on click start
   $("#paintingsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3707,13 +3724,16 @@ $(document).ready(function () {
    <div class="rowbin" >-</div> 
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>X. TICKETS, NEWSPAPERS, BOOKS AND MAGAZINES (0)</b></span> <span id="ro"><b>X. BILETE, ZIARE, CĂRȚI ȘI REVISTE (0)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>X. TICKETS, NEWSPAPERS, BOOKS AND MAGAZINES (3)</b></span> <span id="ro"><b>X. BILETE, ZIARE, CĂRȚI ȘI REVISTE (3)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="eventsticketsbtn" ><span id="en">Events tickets</span><span id="ro">Bilete evenimente</span></h5>    
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="newspapersbtn" ><span id="en">Newspapers</span><span id="ro">Ziare</span></h5>    
    <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" id="fictionbooksbtn" ><span id="en">Fiction books</span><span id="ro">Cărți ficțiune</span></h5>    
-   <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="fictionbooksbtn" ><span id="en">Fiction books (3)</span><span id="ro">Cărți ficțiune (3)</span></h5>    
+   <div id="fictionbooks" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" ><span id="en">Nonfiction books</span><span id="ro">Cărți nonficțiune</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Religion and spirituality books</span><span id="ro">Cărți religie si spiritualitate</span></h5>    
