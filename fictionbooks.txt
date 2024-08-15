@@ -1,117 +1,77 @@
-<tbody>
+<style>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">FBK001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Romanian authors books in romanian language</span><span id="ro">Cărți autori români în limba română</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>68.7 RON / Toate pânzele sus! Ediție ilustrată / <a style="color:gold;" href="https://www.editura-arthur.ro/info/carte/toate-panzele-sus" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Radu Tudoran</td></tr>
-<tr><td>Formula 2</td><td>48 RON / Maria și marea / <a style="color:gold;" href="https://www.editura-art.ro/info/carte/maria-si-marea" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Radu Tudoran</td></tr>
-<tr><td>Formula 3</td><td>48 RON / Un port la răsărit / <a style="color:gold;" href="https://www.editura-art.ro/info/carte/un-port-la-rasarit" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Radu Tudoran</td></tr>
-<tr><td>Formula 4</td><td>44 RON / Fiul risipitor / <a style="color:gold;" href="https://www.editura-art.ro/info/carte/fiul-risipitor" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Radu Tudoran</td></tr>
-<tr><td>Formula 5</td><td>20 RON / Mara / <a style="color:gold;" href="https://www.edituracartex.ro/produs/mara-ioan-slavici/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Ioan Slavici</td></tr>
-<tr><td>Formula 6</td><td>20 RON / Intre zi si noapte / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/intre-zi-si-noapte-henriette-yvonne-stahl-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Henriette Yvonne Stahl</td></tr>
-<tr><td>Formula 7</td><td>20 RON / Steaua robilor / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/steaua-robilor-henriette-yvonne-stahl-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Henriette Yvonne Stahl</td></tr>
-<tr><td>Formula 8</td><td>20 RON / Drum de foc / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/henriette-yvonne-stahl-drum-de-foc-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Henriette Yvonne Stahl</td></tr>
-<tr><td>Formula 9</td><td>20 RON / Marea bucurie / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/marea-bucurie-henriette-yvonne-stahl-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Henriette Yvonne Stahl</td></tr>
-<tr><td>Formula 10</td><td>40 RON / Pânza de păianjen / <a style="color:gold;" href="https://www.litera.ro/panza-de-paianjen-afrn04" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cella Serghi</td></tr>
-<tr><td>Formula 11</td><td>40 RON / Cartea Mironei / <a style="color:gold;" href="https://www.litera.ro/cartea-mironei-afrn10" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cella Serghi</td></tr>
-<tr><td>Formula 12</td><td>40 RON / Gentiane / <a style="color:gold;" href="https://www.litera.ro/gentiane-afrn14" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cella Serghi</td></tr>
-<tr><td>Formula 13</td><td>21.9 RON / Răscoala / <a style="color:gold;" href="https://edituracorint.ro/rascoala.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Liviu Rebreanu</td></tr>
-<tr><td>Formula 14</td><td>11 RON / Pădurea spânzuraţilor / <a style="color:gold;" href="https://edituraeduard.ro/shop/acasa/151-padurea-spanzuratilor.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Liviu Rebreanu</td></tr>
-<tr><td>Formula 15</td><td>15 RON / Ion / <a style="color:gold;" href="https://edituraeduard.ro/shop/acasa/147-ion-liviu-rebreanu.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Liviu Rebreanu</td></tr>
-<tr><td>Formula 16</td><td>20 RON / Brațul Andromedei / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/bratul-andromedei-gib-i-mihaescu-editia-2021.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Gib I. Mihăescu</td></tr>
-<tr><td>Formula 17</td><td>20 RON / Rusoaica / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/rusoaica-gib-i-mihaescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Gib I. Mihăescu</td></tr>
-<tr><td>Formula 18</td><td>20 RON / Femeia de ciocolată / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/femeia-de-ciocolata-gib-i-mihaescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Gib I. Mihăescu</td></tr>
-<tr><td>Formula 19</td><td>20 RON / Zilele și nopțile unui student întârziat / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/zilele-si-noptile-unui-student-intarziat-gib-i-mihaescu-2.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Gib I. Mihăescu</td></tr>
-<tr><td>Formula 20</td><td>20 RON / Donna Alba / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/donna-alba-gib-i-mihaescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Gib I. Mihăescu</td></tr>
-<tr><td>Formula 21</td><td>62.5 RON / Ultima noapte de dragoste, întâia noapte de război  / <a style="color:gold;" href="https://carturesti.ro/carte/ultima-noapte-de-dragoste-intaia-noapte-de-razboi-set-2-volume-1222157284?p=2" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Camil Petrescu</td></tr>
-<tr><td>Formula 22</td><td>34 RON / Patul lui Procust / <a style="color:gold;" href="https://carturesti.ro/carte/patul-lui-procust-1233745861" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Camil Petrescu</td></tr>
-<tr><td>Formula 23</td><td>20 RON / Parada dascălilor, Romanul lui Mirel / <a style="color:gold;" href="https://carturesti.ro/carte/patul-lui-procust-1233745861" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Anton Holban</td></tr>
-<tr><td>Formula 24</td><td>20 RON / O moarte care nu dovedește nimic / <a style="color:gold;" href="https://carturesti.ro/carte/patul-lui-procust-1233745861" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Anton Holban</td></tr>
-<tr><td>Formula 25</td><td>20 RON / Ioana / <a style="color:gold;" href="https://carturesti.ro/carte/patul-lui-procust-1233745861" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Anton Holban</td></tr>
-<tr><td>Formula 26</td><td>20 RON / Jocurile Daniei / <a style="color:gold;" href="https://carturesti.ro/carte/patul-lui-procust-1233745861" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Anton Holban</td></tr>
-<tr><td>Formula 26</td><td>14.4 RON / Adela / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/adela-garabet-ibraileanu-editia-2021.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Garabet Ibraileanu</td></tr>
-<tr><td>Formula 27</td><td>15.2 RON / Intamplari in irealitatea imediata / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/intamplari-in-irealitatea-imediata-max-blecher-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Max Blecher</td></tr>
-<tr><td>Formula 28</td><td>15.2 RON / Vizuina luminata / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/vizuina-luminata-max-blecher-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Max Blecher</td></tr>
-<tr><td>Formula 29</td><td>14.4 RON / Inimi cicatrizate / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/inimi-cicatrizate-max-blecher.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Max Blecher</td></tr>
-<tr><td>Formula 30</td><td>32 RON / Romanul adolescentului miop / <a style="color:gold;" href="https://www.edituracartex.ro/produs/romanul-adolescentului-miop/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Mircea Eliade</td></tr>
-<tr><td>Formula 31</td><td>12 RON / Isabel și apele diavolului / <a style="color:gold;" href="https://www.litera.ro/isabel-i-apele-diavolului-afbpt75" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Mircea Eliade</td></tr>
-<tr><td>Formula 32</td><td>17.5 RON / Lumina ce se stinge / <a style="color:gold;" href="https://www.libhumanitas.ro/lumina-ce-se-stinge-mircea-eliade-h03020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Mircea Eliade</td></tr>
-<tr><td>Formula 33</td><td>19.2 RON / Maitreyi / <a style="color:gold;" href="https://www.edituracartex.ro/produs/maitreyi-mircea-eliade/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Mircea Eliade</td></tr>
-<tr><td>Formula 34</td><td>20.3 RON / Întoarcerea din rai / <a style="color:gold;" href="https://www.elefant.ro/intoarcerea-din-rai_ea56ee41-f49d-4c15-a2b8-b90137697142" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Mircea Eliade</td></tr>
-<tr><td>Formula 35</td><td>81 RON / Huliganii / <a style="color:gold;" href="https://carturesti.ro/carte/huliganii-2150060742" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Mircea Eliade</td></tr>
-<tr><td>Formula 36</td><td>23.2 RON / Diplomatul, tăbăcarii și actrița / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/diplomatul-tabacarul-si-actrita-carol-ardeleanu.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Carol Ardeleanu</td></tr>
-<tr><td>Formula 37</td><td>23.2 RON / Casa cu fete / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/casa-cu-fete-carol-ardeleanu.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Carol Ardeleanu</td></tr>
-<tr><td>Formula 38</td><td>23.2 RON / Am ucis pe Dumnezeu / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/am-ucis-pe-dumnezeu-carol-ardeleanu.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Carol Ardeleanu</td></tr>
-<tr><td>Formula 39</td><td>16.8 RON / Enigma Otiliei / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/enigma-otiliei-george-calinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> George Călinescu</td></tr>
-<tr><td>Formula 40</td><td>17.6 RON / Cartea nunții / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/cartea-nuntii-george-calinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> George Călinescu</td></tr>
-<tr><td>Formula 41</td><td>25.6 RON / Bietul Ioanide, vol 1 / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/bietul-ioanide-vol-1-george-calinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> George Călinescu</td></tr>
-<tr><td>Formula 42</td><td>25.6 RON / Scrinul negru, vol 1 / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/scrinul-negru-vol-1-george-calinescu-2.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> George Călinescu</td></tr>
-<tr><td>Formula 43</td><td>25.6 RON / Scrinul negru, vol 2 / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/scrinul-negru-vol-2-george-calinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> George Călinescu</td></tr>
-<tr><td>Formula 44</td><td>14.4 RON / Bizu / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/bizu-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
-<tr><td>Formula 45</td><td>14.4 RON / Firu-n patru / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/firu-n-patru-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
-<tr><td>Formula 46</td><td>14.4 RON / Diana / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/diana-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
-<tr><td>Formula 47</td><td>14.4 RON / Acord final / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/acord-final-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
-<tr><td>Formula 48</td><td>14.4 RON / Bălăuca  / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/balauca-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
-<tr><td>Formula 49</td><td>14.4 RON / Mili  / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/mili-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
-<tr><td>Formula 50</td><td>14.4 RON / Mite  / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/mite-eugen-lovinescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Eugen Lovinescu</td></tr>
-<tr><td>Formula 51</td><td>25.6 RON / Capitala care ucide - Calea Victoriei / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/calea-victoriei-cezar-petrescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cezar Petrescu</td></tr>
-<tr><td>Formula 52</td><td>25.6 RON / Capitala care ucide - Greta Garbo / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/greta-garbo-cezar-petrescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cezar Petrescu</td></tr>
-<tr><td>Formula 53</td><td>25.6 RON / Capitala care ucide - Duminica orbului / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/cezar-petrescu-dumineca-orbului-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cezar Petrescu</td></tr>
-<tr><td>Formula 54</td><td>25.6 RON / Capitala care ucide - Carlton / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/carlton-cezar-petrescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cezar Petrescu</td></tr>
-<tr><td>Formula 55</td><td>25.6 RON / Capitala care ucide - Oraș patriarhal / <a style="color:gold;" href="https://www.editurahoffman.ro/produse-1/oras-patriarhal-cezar-petrescu-editia-2020.html" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Cezar Petrescu</td></tr>
-<tr><td>Formula 56</td><td>53 RON / Lunatecii vol. 1 / <a style="color:gold;" href="https://ecredu.ro/product/lunatecii-vol-1/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Ion Vinea</td></tr>
-<tr><td>Formula 57</td><td>39 RON / Lunatecii vol. 2 / <a style="color:gold;" href="https://ecredu.ro/product/lunatecii-vol-2/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Ion Vinea</td></tr>
-<tr><td>Formula 58</td><td>9 RON / Craii de Curtea-Veche / <a style="color:gold;" href="https://ecredu.ro/product/lunatecii-vol-1/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Mateiu Caragiale</td></tr>
-<tr><td>Formula 59</td><td>91 RON / La Medeleni vol I-III / <a style="color:gold;" href="https://carturesti.ro/carte/la-medeleni-3-volume-1196188735?lang=ro-RO" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Ionel Teodoreanu</td></tr>
-<tr><td>Formula 60</td><td>27 RON / Turnul Milenei / <a style="color:gold;" href="https://ecredu.ro/product/turnul-milenei/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Ionel Teodoreanu</td></tr>
-<tr><td>Formula 61</td><td>43 RON / Bal mascat / <a style="color:gold;" href="https://ecredu.ro/product/bal-mascat/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Ionel Teodoreanu</td></tr>
-<tr><td>Formula 62</td><td>50 RON / Lorelei / <a style="color:gold;" href="https://ecredu.ro/product/lorelei/" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Ionel Teodoreanu</td></tr>
-<tr><td>Formula 63</td><td>27 RON / Moartea semnează indescifrabil / <a style="color:gold;" href="https://nemira.ro/moartea-semneaza-indescifrabil-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 64</td><td>27 RON / Enigmă la mansardă / <a style="color:gold;" href="https://nemira.ro/enigma-la-mansarda-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 65</td><td>27 RON / Cocoșatul are alibi / <a style="color:gold;" href="https://nemira.ro/cocosatul-are-alibi-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 66</td><td>27 RON / Ancheta în infern / <a style="color:gold;" href="https://nemira.ro/ancheta-in-infern-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 67</td><td>27 RON / Întâlnire la Elysee / <a style="color:gold;" href="https://nemira.ro/intalnire-la-elysee-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 68</td><td>27 RON / Apel din necunoscut / <a style="color:gold;" href="https://nemira.ro/apel-din-necunoscut-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 69</td><td>24 RON / Crimă prin mica publicitate / <a style="color:gold;" href="https://nemira.ro/crima-prin-mica-publicitate-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 70</td><td>27 RON / Coșmar / <a style="color:gold;" href="https://nemira.ro/cosmar-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 71</td><td>27 RON / Cutia cu nasturi / <a style="color:gold;" href="https://nemira.ro/cutia-cu-nasturi-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 72</td><td>45 RON / Poveste imorală / <a style="color:gold;" href="https://nemira.ro/poveste-imorala-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 73</td><td>45 RON / Un blestem cu domiciliul stabil / <a style="color:gold;" href="https://nemira.ro/un-blestem-cu-domiciliu-stabil-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 74</td><td>45 RON / Răzbunarea sluților / <a style="color:gold;" href="https://nemira.ro/razbunarea-slutilor-ed-2018" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 75</td><td>45 RON / Necunoscuta din congelator / <a style="color:gold;" href="https://nemira.ro/necunoscuta-din-congelator-ed-2018" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 76</td><td>26.9 RON / Nopți albe pentru Minerva / <a style="color:gold;" href="https://nemira.ro/nopti-albe-pentru-minerva-paperback-2015" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 77</td><td>28.8 RON / Letopisețul de argint / <a style="color:gold;" href="https://nemira.ro/letopisetul-de-argint-hardcover" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 78</td><td>45 RON / Spionaj la mânăstire / <a style="color:gold;" href="https://nemira.ro/letopisetul-de-argint-hardcover" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 79</td><td>27 RON / Omul de la capătul firului / <a style="color:gold;" href="https://nemira.ro/omul-de-la-capatul-firului-rodica-ojog-brasoveanu-2020" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 80</td><td>27 RON / Violeta din safe / <a style="color:gold;" href="https://nemira.ro/violeta-din-safe-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 80</td><td>45 RON / Plan diabolic / <a style="color:gold;" href="https://nemira.ro/violeta-din-safe-rodica-ojog-brasoveanu" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 81</td><td>45 RON / Melania Lupu - Cianură pentru un surâs / <a style="color:gold;" href="https://nemira.ro/cianura-pentru-un-suras-ed-2019" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 82</td><td>45 RON / Melania Lupu - 320 de pisici negre / <a style="color:gold;" href="https://nemira.ro/320-de-pisici-negre-ed-2019" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 83</td><td>27 RON / Melania Lupu - Anonima de miercuri / <a style="color:gold;" href="https://nemira.ro/anonima-de-miercuri-ed-2019" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 84</td><td>27 RON / Melania Lupu - Dispariția statuii din parc / <a style="color:gold;" href="https://nemira.ro/disparitia-statuii-din-parc" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-<tr><td>Formula 85</td><td>27 RON / Melania Lupu - O toaletă a la Liz Taylor / <a style="color:gold;" href="https://nemira.ro/o-toaleta-a-la-liz-taylor-2019" target="_blank" ><span id="en">Publishing house</span><span id="ro">Editură</span></a> / <span id="en" >Author</span><span id="ro">Autor:</span> Rodica Ojog Brașoveanu</td></tr>
-
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-</tbody>
-
-
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
+.fictionbooksslider{
+ width:100%;
 }
-});
-</script>
+.fictionbooksslidernav{
+ text-align:center;
+ width:100%; 
+}
+.fictionbooksslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
+
+.fictionbooksslides img {
+  max-width: 100%;
+  height: auto;
+}
+
+.fictionbooksslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.fictionbooksslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.fictionbooksslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.fictionbooksslidernav a:hover {background-color: gold;}
+.fictionbooksslidernav a:active {background-color: gold;}
+.fictionbooksslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="fictionbooksslider">
+
+<div class="fictionbooksslidernav" >
+  <a href="#fictionbooksslide-1">1</a>
+  <a href="#fictionbooksslide-2">2</a>
+  <a href="#fictionbooksslide-3">3</a>
+</div>
+
+  <div class="fictionbooksslides">
+    <div class="fade" id="fictionbooksslide-1">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/fictionbooks.jpg" alt="fiction books item1" /> 
+    </div>
+    <div class="fade" id="fictionbooksslide-2">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/fictionbooksb.jpg" alt="fiction books  item2" /> 
+    </div>
+    <div class="fade" id="fictionbooksslide-3">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/fictionbooksc.jpg" alt="fiction books item3" /> 
+    </div>
+  </div><!-- fictionbooksSlides -->
+
+</div><!-- fictionbooksSlider -->
+
 
 
 
