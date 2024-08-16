@@ -1,31 +1,7 @@
-<tbody>
+<style>
+    .magnetsslidediv img{ width:100%; height:auto;}
+</style> 
 
-<tbody>
-
-
-<!--
-       <tr><td>Permanent Ferrite / Ceramic Magnet</td><td>-</td><td>-</td></tr>    
-       <tr><td>Permanent Alnico Magnet</td><td>-</td><td>-</td></tr>    
-       <tr><td>Permanent Samarium Cobalt Magnet</td><td>-</td><td>-</td></tr>     
-       <tr><td>Permanent Neodymium Iron Boron Magnet</td><td>-</td><td>-</td></tr>     
-       <tr><td>Permanent Injection Molded Magnet</td><td>-</td><td>-</td></tr>     
-       <tr><td>Permanent Flexible Molded Magnet</td><td>-</td><td>-</td></tr>     
-       <tr><td>Electromagnet Resistive </td><td>-</td><td>-</td></tr>     
-       <tr><td>Electromagnet Superconducting </td><td>-</td><td>-</td></tr>     
-       <tr><td>Electromagnet Hybrid </td><td>-</td><td>-</td></tr>
--->
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
-}
-});
-</script>
+<div class="magnetsslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/magnets.jpg" alt="magnets item1" /> 
+</div>
