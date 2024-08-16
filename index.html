@@ -161,6 +161,23 @@ $(document).ready(function () {
     }
    });
   // Grab buyprocedure on click end
+
+  // Grab magnets on click start
+  $("#magnetsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#magnets").hasClass("clickedmagnets")) {
+        // already been clicked once, hide it
+        $("#magnets").html("");
+        $( "#magnets" ).removeClass( "clickedmagnets" )
+    }else {
+        // first time this is clicked, mark it
+        $("#magnets").addClass("clickedmagnets");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/magnets.txt?" + rand, success: function(result){
+         $("#magnets").html(result);
+        }});
+    }
+   });
+  // Grab magnets on click end
 	 
   // Grab fictionbooks on click start
   $("#fictionbooksbtn").click(function() {
@@ -2696,7 +2713,7 @@ $(document).ready(function () {
    <!-- Load info end --> 
    </div>		   
    </div></li><!--END SECTION-->	
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (9)</b></span><span id="ro"><b>G. ȘCOALĂ, HIGH-TECH, AEROSPAȚIAL ȘI CERCETARE (9)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (10)</b></span><span id="ro"><b>G. ȘCOALĂ, HIGH-TECH, AEROSPAȚIAL ȘI CERCETARE (10)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="didacticmaterialsbtn" ><span id="en">Didactic Materials</span><span id="ro">Materiale Didactice</span></h5>    
    <div class="rowbin" >-</div>     
   <h5 class="categoryaccordion" id="officeandschoolsuppliesbtn" ><span id="en">Office and school supplies (3)</span><span id="ro">Birotică și Papetărie (3)</span></h5>    
@@ -2717,8 +2734,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>     
   <h5 class="categoryaccordion" id="superconductorsfactorybtn" ><span id="en">Superconductors factory</span><span id="ro">Fabrică de superconductori</span></h5> 
    <div class="rowbin" >-</div>     
-  <h5 class="categoryaccordion" id="magnetsbtn" ><span id="en">Magnets</span><span id="ro">Magneți</span></h5>    
-   <div class="rowbin" >-</div>     
+  <h5 class="categoryaccordion" id="magnetsbtn" ><span id="en">Magnets (1)</span><span id="ro">Magneți (1)</span></h5>    
+   <div id="magnets" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	  
   <h5 class="categoryaccordion" id="smartdeviceshardwarebtn" ><span id="en">Smart devices hardware (2)</span><span id="ro">Hardware dispozitive smart (2)</span></h5>    
    <div id="smartdeviceshardware" class="categorypanel" >
    <!-- Load info start --> 
