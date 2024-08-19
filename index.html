@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab smokedandcuredmeat on click start
+  $("#smokedandcuredmeatbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#smokedandcuredmeat").hasClass("clickedsmokedandcuredmeat")) {
+        // already been clicked once, hide it
+        $("#smokedandcuredmeat").html("");
+        $( "#smokedandcuredmeat" ).removeClass( "clickedsmokedandcuredmeat" )
+    }else {
+        // first time this is clicked, mark it
+        $("#smokedandcuredmeat").addClass("clickedsmokedandcuredmeat");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/smokedandcuredmeat.txt?" + rand, success: function(result){
+         $("#smokedandcuredmeat").html(result);
+        }});
+    }
+   });
+  // Grab smokedandcuredmeat on click end
+	
   // Grab magnets on click start
   $("#magnetsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3590,7 +3607,7 @@ $(document).ready(function () {
    </div>	 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (27)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (27)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (29)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (29)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Echipamente morărit</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Echipamente ambalat alimente</span></h5> 
@@ -3687,8 +3704,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Romanian Orthodox Church Fasting Food</span><span id="ro">Mâncare de post Biserica Ortodoxă Română</span></h5>
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" id="smokedandcuredmeatbtn" ><span id="en">Smoked and Cured Meat</span><span id="ro">Mezeluri, Cârnați și Afumături</span></h5>    
-   <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="smokedandcuredmeatbtn" ><span id="en">Smoked and Cured Meat (2)</span><span id="ro">Mezeluri, Cârnați și Afumături (2)</span></h5>    
+   <div id="smokedandcuredmeat" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="cannedanimaloriginfoodbtn" ><span id="en">Canned Animal Origin Food</span><span id="ro">Conserve Alimente de Origine Animală</span></h5>
    <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" id="cannedfishoriginfoodbtn" ><span id="en">Canned Fish Origin Food</span><span id="ro">Conserve Alimente de Origine Pește</span></h5>
