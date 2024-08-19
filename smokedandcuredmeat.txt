@@ -1,249 +1,69 @@
+<style>
 
-<tbody>
- 
- 
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">SCM0001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Meat for cooking - Aurora</span><span id="ro">Carne care  pentru gătit - Aurora</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-<tr><td><span id="en" >Kosher</span><span id="ro">Kosher</span></td><td style="color:#39ff14;" >No</td></tr>
-<tr><td><span id="en" >Halal</span><span id="ro">Halal</span></td><td style="color:#39ff14;" >No</td></tr>
-<tr><td>Formula 1</td><td>16.75 RON / 500g <span id="en">Fresh sausages from sheep meat</span><span id="ro">Cârnați proaspeți de oaie</span> Aurora</td></tr>
-<tr><td>Formula 2</td><td>16.75 RON / 500g <span id="en">Fresh thin sausages from pork and beef meat</span><span id="ro">Cârnați proaspeți subțiri din carne de porc și vită</span> Aurora </td></tr>
-<tr><td>Formula 3</td><td>20.09 RON / 700g <span id="en">Fresh thick sausages from pork and beef meat</span><span id="ro">Cârnați proaspeți groși din carne de porc și vită</span> Aurora </td></tr>
-<tr><td>Formula 4</td><td>22.70 RON / kg <span id="en">Mici from pork and beef</span><span id="ro">Mici carne de porc și vită</span> Bunuț </td></tr>
-<tr><td>Formula 5</td><td>38.30 RON / 500g <span id="en">Marinated pastrami from sheep meat</span><span id="ro">Pastramă de oaie la baiț</span> Aurora</td></tr>
-<tr><td>Formula 6</td><td>41.80 RON / kg <span id="en">Mici from sheep and beef</span><span id="ro">Mici carne de oaie și vită</span> Aurora </td></tr>
-<tr><td>Formula 7</td><td>43 RON / kg <span id="en">Mici from pork and beef</span><span id="ro">Mici carne de porc și vită</span> Aurora </td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.aurora-odobesti.ro/shop" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">SCM0002</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Mixed smoked and cured meat - Aurora</span><span id="ro">Carne mixată afumată și cârnați - Aurora</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-<tr><td><span id="en" >Kosher</span><span id="ro">Kosher</span></td><td style="color:#39ff14;" >No</td></tr>
-<tr><td><span id="en" >Halal</span><span id="ro">Halal</span></td><td style="color:#39ff14;" >No</td></tr>
-
-<tr><td>Formula 1</td><td>19.78 RON / 100g <span id="en">Babic from beef and sheep</span><span id="ro">Babic din vită și oaie</span> Aurora</td></tr>
-<tr><td>Formula 2</td><td>23.90 RON / 500g <span id="en">Spicy sausages from pork, beef and sheep</span><span id="ro">Cârnați picanți din vită, porc și oaie</span> Aurora</td></tr>
-<tr><td>Formula 3</td><td>28.70 RON / 500g <span id="en">Heroic outlaws sausages from pork and beef</span><span id="ro">Cârnați haiducești din vită și porc</span> Aurora</td></tr>
-<tr><td>Formula 4</td><td>29.90 RON / 500g <span id="en">Thik peasant sausages from pork and beef</span><span id="ro">Cârnați țărănești groși din vită și porc</span> Aurora</td></tr>
-<tr><td>Formula 5</td><td>31.70 RON / 500g <span id="en">Thin peasant sausages from pork and beef</span><span id="ro">Cârnați țărănești subțiri din vită și porc</span> Aurora</td></tr>
-<tr><td>Formula 6</td><td>32.30 RON / 500g <span id="en">Cabanos from pork and beef</span><span id="ro">Cabanos din vită și porc</span> Aurora</td></tr>
-<tr><td>Formula 7</td><td>35.90 RON / 500g <span id="en">Peasant sausages from pork, beef and sheep</span><span id="ro">Cârnați țărănești din vită, porc și oaie</span> Aurora</td></tr>
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.aurora-odobesti.ro/shop" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">SCM0003</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Pork smoked and cured meat - Aurora</span><span id="ro">Carne afumată și cârnați de porc - Aurora</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-<tr><td><span id="en" >Kosher</span><span id="ro">Kosher</span></td><td style="color:#39ff14;" >No</td></tr>
-<tr><td><span id="en" >Halal</span><span id="ro">Halal</span></td><td style="color:#39ff14;" >No</td></tr>
-<tr><td>Formula 1</td><td>4.8 RON / 200g <span id="en">Spicy smoked fat from pork</span><span id="ro">Slănină condimentată din porc</span> Bunuț</td></tr>
-<tr><td>Formula 2</td><td>6.3 RON / 200g <span id="en">Vienna style sausage from pork</span><span id="ro">Crenvuști din pulpă porc</span> Aurora</td></tr>
-<tr><td>Formula 3</td><td>7.2 RON / 300g <span id="en">Smoked fat from pork</span><span id="ro">Slănină afumată din porc</span> Bunuț</td></tr>
-<tr><td>Formula 4</td><td>9 RON / 500g <span id="en">Smoked pork meat from belly</span><span id="ro">Gușă de porc afumată</span> Bunuț</td></tr>
-<tr><td>Formula 5</td><td>10.1 RON / 300g <span id="en">Peasant smoked fat from pork</span><span id="ro">Slăninuță afumată țărănească din porc</span> Aurora</td></tr>
-<tr><td>Formula 6</td><td>10.2 RON / 500g <span id="en">Tobă from pork meat</span><span id="ro">Tobă din carne porc</span> Bunuț</td></tr>
-<tr><td>Formula 7</td><td>11 RON / 500g <span id="en">Rose sausages from pork</span><span id="ro">Cârnați trandafir din porc</span> Bunuț</td></tr>
-<tr><td>Formula 8</td><td>12 RON / 400g <span id="en">Leber from pork</span><span id="ro">Leber din porc</span> Aurora</td></tr>
-<tr><td>Formula 9</td><td>13.2 RON / 500g <span id="en">Smoked meat from pork ham</span><span id="ro">Ciolan presat din porc</span> Bunuț</td></tr>
-<tr><td>Formula 10</td><td>13.4 RON / 400g <span id="en">Smoked pork belly</span><span id="ro">Gușă de porc afumată</span> Aurora</td></tr>
-<tr><td>Formula 11</td><td>13.4 RON / 400g <span id="en">Smoked meat from pork rib</span><span id="ro">Costiță de porc afumată</span> Bunuț</td></tr>
-<tr><td>Formula 12</td><td>13.4 RON / 400g <span id="en">Smoked fat from pork</span><span id="ro">Slănină afumată din porc</span> Aurora</td></tr>
-<tr><td>Formula 13</td><td>14.1 RON / 500g <span id="en">Pork pressed șuncă meat</span><span id="ro">Șuncă presată din carne de porc</span> Bunuț</td></tr>
-<tr><td>Formula 14</td><td>14.4 RON / 500g <span id="en">Oltenian sausages from pork</span><span id="ro">Cârnați oltenești din porc</span> Bunuț</td></tr>
-<tr><td>Formula 15</td><td>15 RON / 500g <span id="en">Cabanos from pork</span><span id="ro">Cabanos din porc</span> Bunuț</td></tr>
-<tr><td>Formula 16</td><td>16.3 RON / 400g <span id="en">Smoked ribs from pork</span><span id="ro">Coastă scăriță afumată de porc</span> Bunuț</td></tr>
-<tr><td>Formula 17</td><td>18.5 RON / 500g <span id="en">Smoked fillet from pork meat</span><span id="ro">File din carne de porc afumat</span> Bunuț</td></tr>
-<tr><td>Formula 18</td><td>20.9 RON / 600g <span id="en">Smoked pastrami from pork meat</span><span id="ro">Păstramă din carne de porc afumată</span> Bunuț</td></tr>
-<tr><td>Formula 19</td><td>21.3 RON / 600g <span id="en">Pork meat șunculiță</span><span id="ro">Șunculiță din carne de porc</span> Bunuț</td></tr>
-<tr><td>Formula 20</td><td>22.7 RON / 500g <span id="en">Smoked pork rib eye</span><span id="ro">Ceafă de porc afumată</span> Bunuț</td></tr>
-<tr><td>Formula 21</td><td>23 RON / 500g <span id="en">Pork rib eye</span><span id="ro">Ceafă de porc afumată</span> Bunuț</td></tr>
-<tr><td>Formula 22</td><td>23.4 RON / 600g <span id="en">Caltaboș from pork</span><span id="ro">Caltaboș din porc</span> Aurora</td></tr>
-<tr><td>Formula 23</td><td>23.9 RON / 500g <span id="en">Pork kaiser</span><span id="ro">Kaiser din porc</span> Bunuț</td></tr>
-<tr><td>Formula 24</td><td>25.2 RON / 500g <span id="en">Peasant tobă from pork organs</span><span id="ro">Tobă țărănească din organe porc</span> Aurora</td></tr>
-<tr><td>Formula 25</td><td>25.7 RON / 500g <span id="en">Pork bacon</span><span id="ro">Bacon din porc</span> Bunuț</td></tr>
-<tr><td>Formula 26</td><td>29.9 RON / 300g <span id="en">Smoked pork tenderloin</span><span id="ro">Păstramă de porc afumată</span> Aurora</td></tr>
-<tr><td>Formula 27</td><td>34 RON / 400g <span id="en">Smoked meat from pork brisket</span><span id="ro">Costiță afumată din piept porc</span> Aurora</td></tr>
-<tr><td>Formula 28</td><td>30.6 RON / 300g <span id="en">Smoked tenderloin</span><span id="ro">Mușchiuleț afumat</span> Aurora</td></tr>
-<tr><td>Formula 29</td><td>31 RON / 400g <span id="en">Smoked gypsie style tenderloin</span><span id="ro">Mușchi țigănesc afumat</span> Aurora</td></tr>
-<tr><td>Formula 30</td><td>35.9 RON / 500g <span id="en">Heroic outlaws style loin with bone from pork</span><span id="ro">Cotlet haiducesc cu os din porc</span> Aurora</td></tr>
-<tr><td>Formula 31</td><td>36.9 RON / 1.1kg <span id="en">Drob from pork</span><span id="ro">Drob de porc</span> Aurora</td></tr>
-<tr><td>Formula 32</td><td>40 RON / 1.5kg <span id="en">Smoked pork ham</span><span id="ro">Ciolan afumat din porc</span> Bunuț</td></tr>
-<tr><td>Formula 33</td><td>41.9 RON / 500g <span id="en">Heroic outlaws pork brisket</span><span id="ro">Piept haiducesc din porc</span> Aurora</td></tr>
-<tr><td>Formula 34</td><td>45 RON / 300g <span id="en">Pork fatty scraps</span><span id="ro">Jumări</span> Aurora</td></tr>
-<tr><td>Formula 35</td><td>47.4 RON / 900g <span id="en">Smoked pecia from pork</span><span id="ro">Pecie afumată from pork</span> Aurora</td></tr>
-<tr><td>Formula 36</td><td>49.9 / 500g <span id="en">Pork ears appetizer</span><span id="ro">Urechi de porc aperitiv</span> Aurora</td></tr>
-<tr><td>Formula 36</td><td>61.9 RON / 800g <span id="en">Smoked pork fillet from loin</span><span id="ro">File din cotlet de porc afumat</span> Aurora</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.aurora-odobesti.ro/shop" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">SCM0004</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Chicken smoked and cured meat - Aurora</span><span id="ro">Carne afumată și cârnați de pui - Aurora</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-<tr><td><span id="en" >Kosher</span><span id="ro">Kosher</span></td><td style="color:#39ff14;" >No</td></tr>
-<tr><td><span id="en" >Halal</span><span id="ro">Halal</span></td><td style="color:#39ff14;" >No</td></tr>
-<tr><td>Formula 1</td><td>6.3 RON / 200g <span id="en">Vienna style sausage from chicken breast</span><span id="ro">Crenvuști din piept de pui</span> Aurora </td></tr>
-<tr><td>Formula 2</td><td>14.4 RON / 500g <span id="en">Pressed ham from chicken breast</span><span id="ro">Șuncă presată din piept de pui</span> Bunuț</td></tr>
-<tr><td>Formula 3</td><td>14.4 RON / 500g <span id="en">Parizer salami from chicken breast</span><span id="ro">Parizer din piept de pui</span> Aurora </td></tr>
-<tr><td>Formula 4</td><td>21.5 RON / 500g <span id="en">Chicken breast pastrami with bone</span><span id="ro">Pastramă piept pui cu os</span> Aurora </td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.aurora-odobesti.ro/shop" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">SCM0005</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Sheep smoked and cured meat - Aurora</span><span id="ro">Carne afumată și cârnați de oaie - Aurora</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-<tr><td><span id="en" >Kosher</span><span id="ro">Kosher</span></td><td style="color:#39ff14;" >No</td></tr>
-<tr><td><span id="en" >Halal</span><span id="ro">Halal</span></td><td style="color:#39ff14;" >No</td></tr>
-<tr><td>Formula 2</td><td>17.4 RON / 100g <span id="en">Smoked sheep tenderloin</span><span id="ro">Mușchiuleț de oaie afumat</span> Aurora </td></tr>
-<tr><td>Formula 1</td><td>45 RON / 500g <span id="en">Sheep smoked pastrami</span><span id="ro">Pastramă de oaie afumată</span> Aurora </td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.aurora-odobesti.ro/shop" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">SCM0006</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Salami - Aurora</span><span id="ro">Mezeluri - Aurora</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-<tr><td><span id="en" >Kosher</span><span id="ro">Kosher</span></td><td style="color:#39ff14;" >No</td></tr>
-<tr><td><span id="en" >Halal</span><span id="ro">Halal</span></td><td style="color:#39ff14;" >No</td></tr>
-<tr><td>Formula 1</td><td>10.1 RON / 600g <span id="en">Italian salami</span><span id="ro">Salam Italian</span> Bunuț</td></tr>
-<tr><td>Formula 2</td><td>10.8 RON / 500g <span id="en">Pork salami</span><span id="ro">Salam de Porc</span> Bunuț</td></tr>
-<tr><td>Formula 3</td><td>12.5 RON / 400g <span id="en">Summer salami</span><span id="ro">Salam de Vară</span> Bunuț</td></tr>
-<tr><td>Formula 4</td><td>14.4 RON / 500g <span id="en">Salami with pork fat</span><span id="ro">Salam cu Șuncă</span> Bunuț</td></tr>
-<tr><td>Formula 5</td><td>14.4 RON / 500g <span id="en">Parizer salami from pork picnic Shoulder</span><span id="ro">Parizer din pulpă de porc</span> Aurora</td></tr>
-<tr><td>Formula 6</td><td>17.6 RON / 300g <span id="en">Gostat salami</span><span id="ro">Salam Gostat</span> Aurora</td></tr>
-<tr><td>Formula 7</td><td>20.30 RON / 500g <span id="en">Victoria salami</span><span id="ro">Salam Victoria</span> Aurora</td></tr>
-<tr><td>Formula 8</td><td>23 RON / 400g <span id="en">Summer salami</span><span id="ro">Salam de Vară</span> Aurora</td></tr>
-<tr><td>Formula 9</td><td>23.3 RON / 500g <span id="en">Pork salami</span><span id="ro">Salam de Porc</span> Aurora</td></tr>
-<tr><td>Formula 10</td><td>27 RON / 500g <span id="en">Gostat Gastro salami</span><span id="ro">Salam Gostat Gastro</span> Aurora</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="https://www.aurora-odobesti.ro/shop" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-
-
-
-
-
-</tbody>
-
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
+.smokedandcuredmeatslider{
+ width:100%;
 }
-});
-</script>
+.smokedandcuredmeatslidernav{
+ text-align:center;
+ width:100%; 
+}
+.smokedandcuredmeatslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
+.smokedandcuredmeatslides img {
+  max-width: 100%;
+  height: auto;
+}
 
+.smokedandcuredmeatslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
 
+.smokedandcuredmeatslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.smokedandcuredmeatslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.smokedandcuredmeatslidernav a:hover {background-color: gold;}
+.smokedandcuredmeatslidernav a:active {background-color: gold;}
+.smokedandcuredmeatslidernav a:focus {background-color: gold;}
 
+</style>
 
-<!--
+<div class="smokedandcuredmeatslider">
 
-    <tr><td>Lebăr Mozaic<br>( Romania )</td><td>-</td><td>-</td></tr>     
-    <tr><td>Lebervurști<br>( Romania )</td><td>-</td><td>-</td></tr>  
-    <tr><td>Caș de carne cu ficat<br>( Romania )</td><td>-</td><td>-</td></tr>  
-    <tr><td>Tobă albă <br>( Romania )</td><td>-</td><td>-</td></tr>   
-    <tr><td>Tobă presată <br>( Romania )</td><td>-</td><td>-</td></tr>   
-    <tr><td>Tobă Drobeta <br>( Romania )</td><td>-</td><td>-</td></tr>   
-    <tr><td>Tobă Ardelenească <br>( Romania )</td><td>-</td><td>-</td></tr>   
-    <tr><td>Tobă Mozaic <br>( Romania )</td><td>-</td><td>-</td></tr>   
-    <tr><td>Sângerete <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Cârnați proaspeți de porc neafumați <br>( Romania )</td><td>-</td><td>-</td></tr>   
-    <tr><td>Cârnați de porc afumați <br>( Romania )</td><td>-</td><td>-</td></tr> 
-    <tr><td>Cârnați Harghita <br>( Romania )</td><td>-</td><td>-</td></tr> 
-    <tr><td>Cârnați Rustic <br>( Romania )</td><td>-</td><td>-</td></tr> 
-    <tr><td>Cârnați Muntenia <br>( Romania )</td><td>-</td><td>-</td></tr> 
-    <tr><td>Cârnați Bicaz <br>( Romania )</td><td>-</td><td>-</td></tr> 
-    <tr><td>Cârnați Ignis <br>( Romania )</td><td>-</td><td>-</td></tr> 
-    <tr><td>Cârnați Țibleș <br>( Romania )</td><td>-</td><td>-</td></tr> 
-    <tr><td>Cârnați Dobrogeni <br>( Romania )</td><td>-</td><td>-</td></tr> 
-    <tr><td>Cârnați Mehedinți dietetici <br>( Romania )</td><td>-</td><td>-</td></tr> 
-    <tr><td>Cârnați spirală <br>( Romania )</td><td>-</td><td>-</td></tr> 
-    <tr><td>Cârnați de Plescoi <br>( Romania )</td><td>- </td><td>-</td></tr>    
-    <tr><td>Cârnați de bere <br>( Romania )</td><td>- </td><td>-</td></tr>    
-    <tr><td>Salam de Sibiu <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Salam Poiana <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Salam Krakauer <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Salam Torpedo <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Salam Vânătoresc <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Salam Rusesc <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Salam Caraiman <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Salam Danez <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Salam Dacia <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Salam Bacău <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Salam Tivoli <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Crenvuști dietetici<br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Șuncă Băniei <br>( Romania )</td><td>- </td><td>-</td></tr>   
-    <tr><td>Șuncă Timiș <br>( Romania )</td><td>- </td><td>-</td></tr>   
-    <tr><td>Șuncă Mozaic <br>( Romania )</td><td>- </td><td>-</td></tr>   
-    <tr><td>Șuncă Turist <br>( Romania )</td><td>- </td><td>-</td></tr>   
-    <tr><td>Șuncă de vită <br>( Romania )</td><td>- </td><td>-</td></tr>   
-    <tr><td>Șuncă dietetică din carne de mânzat <br>( Romania )</td><td>- </td><td>-</td></tr>   
-    <tr><td>Ghiudem <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Ruladă Cibin <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Ruladă cu limbă <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Ruladă carne de vită <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Ruladă București <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Mușchiuleț Montana <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Mușchiuleț picant Azuga <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Piept de porc afumat <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Piept de porc fiert afumat <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Pui afumat picorom  <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Pastramă de oaie uscată <br>( Romania )</td><td>-</td><td>-</td></tr>
-    <tr><td>Oase garf afumate <br>( Romania )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Picioare de porc afumate  <br>( Romania )</td><td>-</td><td>-</td></tr>   
-    <tr><td>Jambon afumat <br>( Romania )</td><td>-</td><td>-</td></tr>    
+<div class="smokedandcuredmeatslidernav" >
+  <a href="#smokedandcuredmeatslide-1">1</a>
+  <a href="#smokedandcuredmeatslide-2">2</a>
+</div>
 
-    <tr><td>Kasekrainer<br>( Austria )</td><td>- </td><td>-</td></tr>    
-    <tr><td>Hangikjöt <br>( Island )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Kulen croat <br>( Croatia )</td><td>-</td><td>-</td></tr>       
-    <tr><td>Češnjovka<br>( Croatia )</td><td>- </td><td>-</td></tr>    
-    <tr><td>Kranjska klobasa <br>( Croatia )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Jambon d'Ardenne <br>( Belgium )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Ventricina <br>( Italy )</td><td>-</td><td>-</td></tr>   
-    <tr><td>Bresaola <br>( Italy )</td><td>-</td><td>-</td></tr>  
-    <tr><td>Mortadella<br>( Italy )</td><td>- </td><td>-</td></tr>    
-    <tr><td>Prosciutto<br>( Italy )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Guanciale <br>( Italy )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Pancetta <br>( Italy )</td><td>-</td><td>-</td></tr>       
-    <tr><td>Nduja<br>( Italy )</td><td>- </td><td>-</td></tr>    
-    <tr><td>Chorizo <br>( Spain )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Sobrasada de Mallorca <br>( Spain )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Praga Ham / Pressed Ham <br>( Czech Republic )</td><td>-</td><td>-</td></tr>   
-    <tr><td>Jitrnice  <br>( Czech Republic )</td><td>-</td><td>-</td></tr>
-    <tr><td>File Elena <br>( Bulgaria )</td><td>-</td><td>-</td></tr>
-    <tr><td>Lukanka <br>( Bulgaria )</td><td>-</td><td>-</td></tr>
-    <tr><td>Petrovački kulen <br>( Serbia )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Teewurst <br>( Germany )</td><td>-</td><td>-</td></tr>   
-    <tr><td>Smoked Black Forest Ham <br>( Germany )</td><td>-</td><td>-</td></tr>  
-    <tr><td>Gottinger Stracke<br>( Germany )</td><td>- </td><td>-</td></tr>    
-    <tr><td>Mettwurst<br>( Germany )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Landjager <br>( Germany )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Nürnberger Bratwürste <br>( Germany )</td><td>-</td><td>-</td></tr>       
-    <tr><td>Bahur<br>( Bulgaria )</td><td>- </td><td>-</td></tr>    
-    <tr><td>Chouriço <br>( Portugal )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Prinskorv <br>( Sweden )</td><td>-</td><td>-</td></tr>    
-    <tr><td>Isterband <br>( Sweden )</td><td>-</td><td>-</td></tr>   
-    <tr><td>Medisterpølse  <br>( Denmark )</td><td>-</td><td>-</td></tr>
-    <tr><td>Rookworst <br>( Netherlands )</td><td>-</td><td>-</td></tr>
-    <tr><td>Lukanka <br>( Bulgaria )</td><td>-</td><td>-</td></tr>
-    <tr><td>Csabai kolbász  <br>( Hungary )</td><td>-</td><td>-</td></tr>
-    <tr><td>Gyulai kolbász <br>( Hungary )</td><td>-</td><td>-</td></tr>
-    <tr><td>Kielbasa polska <br>( Poland )</td><td>-</td><td>-</td></tr> 
-    <tr><td>Saveloy <br>( Uk )</td><td>-</td><td>-</td></tr>   
-    <tr><td>Haggis <br>( Uk - Scotland )</td><td>-</td><td>-</td></tr>   
-    <tr><td>Cervelat <br>( Switzerland )</td><td>-</td><td>-</td></tr> 
--->
+  <div class="smokedandcuredmeatslides">
+    <div class="fade" id="smokedandcuredmeatslide-1">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/smokedandcuredmeat.jpg" alt="smokedandcuredmeatitem1" /> 
+    </div>
+    <div class="fade" id="smokedandcuredmeatslide-2">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/smokedandcuredmeatb.jpg" alt="smokedandcuredmeatitem2" /> 
+    </div>
+  </div><!-- smokedandcuredmeatSlides -->
+
+</div><!-- smokedandcuredmeatSlider -->
