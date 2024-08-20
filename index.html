@@ -163,6 +163,23 @@ $(document).ready(function () {
   // Grab buyprocedure on click end
 
   // Grab smokedandcuredmeat on click start
+  $("#alloysforgingbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#alloysforging").hasClass("clickedalloysforging")) {
+        // already been clicked once, hide it
+        $("#alloysforging").html("");
+        $( "#alloysforging" ).removeClass( "clickedalloysforging" )
+    }else {
+        // first time this is clicked, mark it
+        $("#alloysforging").addClass("clickedalloysforging");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/alloysforging.txt?" + rand, success: function(result){
+         $("#alloysforging").html(result);
+        }});
+    }
+   });
+  // Grab smokedandcuredmeat on click end
+
+  // Grab smokedandcuredmeat on click start
   $("#smokedandcuredmeatbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
     if ($("#smokedandcuredmeat").hasClass("clickedsmokedandcuredmeat")) {
@@ -2820,7 +2837,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	  
   </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (10)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (10)</b></span></button><div class="catalogpanel">    
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (11)</b></span> <span id="ro"><b>I. MINERALE ȘI METALURGIE (11)</b></span></button><div class="catalogpanel">    
    <h5 class="categoryaccordion" id="mineraloresbtn" ><span id="en">Minerals - ores (1)</span><span id="ro">Minereuri (1)</span></h5>    	
    <div id="mineralores" class="categorypanel" >
    <!-- Load info start --> 
@@ -2860,8 +2877,11 @@ $(document).ready(function () {
    </div>	
    <h5 class="categoryaccordion" id="alloyspipesbtn" ><span id="en">Alloys - pipes</span><span id="ro">Aliaje - țevi</span></h5>    	
    <div class="rowbin" >-</div> 	   
-   <h5 class="categoryaccordion" id="alloysforgedproductsbtn" ><span id="en">Alloys - forged products</span><span id="ro">Aliaje - produse forjate</span></h5>    	
-   <div class="rowbin" >-</div>
+   <h5 class="categoryaccordion" id="alloysforgingbtn" ><span id="en">Alloys - forged products (1)</span><span id="ro">Aliaje - produse forjate (1)</span></h5>    	
+   <div id="alloysforging" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" id="alloyswiredrawingproductsbtn" ><span id="en">Alloys - wire drawing products (1)</span><span id="ro">Aliaje - produse trăgătorie / trefilare (1)</span></h5>    	
    <div id="alloyswiredrawingproducts" class="categorypanel" >
    <!-- Load info start --> 
