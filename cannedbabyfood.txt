@@ -1,9 +1,0 @@
-    <tr><td><span id="en">Baby Puree - chicken meat and vegetables</span><span id="ro">Baby Piure din carne de găină cu legume</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Baby Puree - chicken meat and rice</span><span id="ro">Baby Piure din carne de găină cu orez</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Baby Puree - veal meat and rice</span><span id="ro">Baby Piure din carne de mânzat cu orez</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Baby Puree - veal meat and potatoes</span><span id="ro">Baby Piure din carne de mânzat cu cartofi</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Baby Puree - veal meat and apples</span><span id="ro">Baby Piure din carne de mânzat cu mere</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Baby Puree - veal meat and carrots</span><span id="ro">Baby Piure din carne de mânzat cu morcovi</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Junior Puree - chicken </span><span id="ro">Junior Piure din carne de pui</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en">Junior Puree - veal meat and pasta</span><span id="ro">Junior Piure din carne de mânzat cu paste</span></td><td>-</td><td>-</td></tr>  
-    <tr><td><span id="en">Junior Puree - chicken liver and pasta</span><span id="ro">Junior Piure Ficat de pui cu paste</span></td><td>-</td><td>-</td></tr> 
