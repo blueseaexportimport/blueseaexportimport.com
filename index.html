@@ -162,7 +162,24 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
-  // Grab smokedandcuredmeat on click start
+  // Grab nanomaterials on click start
+  $("#nanomaterialsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#nanomaterials").hasClass("clickednanomaterials")) {
+        // already been clicked once, hide it
+        $("#nanomaterials").html("");
+        $( "#nanomaterials" ).removeClass( "clickednanomaterials" )
+    }else {
+        // first time this is clicked, mark it
+        $("#nanomaterials").addClass("clickednanomaterials");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/nanomaterials.txt?" + rand, success: function(result){
+         $("#nanomaterials").html(result);
+        }});
+    }
+   });
+  // Grab nanomaterials on click end
+	
+  // Grab alloys forging on click start
   $("#alloysforgingbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
     if ($("#alloysforging").hasClass("clickedalloysforging")) {
@@ -177,7 +194,7 @@ $(document).ready(function () {
         }});
     }
    });
-  // Grab smokedandcuredmeat on click end
+  // Grab alloys forging on click end
 
   // Grab smokedandcuredmeat on click start
   $("#smokedandcuredmeatbtn").click(function() {
@@ -2747,7 +2764,7 @@ $(document).ready(function () {
    <!-- Load info end --> 
    </div>		   
    </div></li><!--END SECTION-->	
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (10)</b></span><span id="ro"><b>G. ȘCOALĂ, HIGH-TECH, AEROSPAȚIAL ȘI CERCETARE (10)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (11)</b></span><span id="ro"><b>G. ȘCOALĂ, HIGH-TECH, AEROSPAȚIAL ȘI CERCETARE (11)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="didacticmaterialsbtn" ><span id="en">Didactic Materials</span><span id="ro">Materiale Didactice</span></h5>    
    <div class="rowbin" >-</div>     
   <h5 class="categoryaccordion" id="officeandschoolsuppliesbtn" ><span id="en">Office and school supplies (3)</span><span id="ro">Birotică și Papetărie (3)</span></h5>    
@@ -2764,8 +2781,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	 
-  <h5 class="categoryaccordion" id="nanomaterialsbtn" ><span id="en">Nano Materials</span><span id="ro">Materiale nano</span></h5>    	
-   <div class="rowbin" >-</div>     
+  <h5 class="categoryaccordion" id="nanomaterialsbtn" ><span id="en">Nano Materials (1)</span><span id="ro">Materiale nano (1)</span></h5>    	
+   <div id="nanomaterials" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>   
   <h5 class="categoryaccordion" id="superconductorsfactorybtn" ><span id="en">Superconductors factory</span><span id="ro">Fabrică de superconductori</span></h5> 
    <div class="rowbin" >-</div>     
   <h5 class="categoryaccordion" id="magnetsbtn" ><span id="en">Magnets (1)</span><span id="ro">Magneți (1)</span></h5>    
