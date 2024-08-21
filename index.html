@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab cannedbabyandseniorfood on click start
+  $("#cannedbabyandseniorfoodbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#cannedbabyandseniorfood").hasClass("clickedcannedbabyandseniorfood")) {
+        // already been clicked once, hide it
+        $("#cannedbabyandseniorfood").html("");
+        $( "#cannedbabyandseniorfood" ).removeClass( "clickedcannedbabyandseniorfood" )
+    }else {
+        // first time this is clicked, mark it
+        $("#cannedbabyandseniorfood").addClass("clickedcannedbabyandseniorfood");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/cannedbabyandseniorfood.txt?" + rand, success: function(result){
+         $("#cannedbabyandseniorfood").html(result);
+        }});
+    }
+   });
+  // Grab cannedbabyandseniorfood on click end
+	
   // Grab nanomaterials on click start
   $("#nanomaterialsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3647,7 +3664,7 @@ $(document).ready(function () {
    </div>	 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (29)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (29)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (30)</b></span> <span id="ro"><b>V. ALIMENTE PROCESATE (30)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Echipamente morărit</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Echipamente ambalat alimente</span></h5> 
@@ -3738,10 +3755,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Holidays Baking Products</span><span id="ro">Produse Brutărie Ocazii Speciale</span></h5>   
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Canned Baby Food</span><span id="ro">Conserve Alimente Copii Mici</span></h5>
-  <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Canned Senior Food</span><span id="ro">Conserve Alimente Bătrânei</span></h5>
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="cannedbabyandseniorfoodbtn" ><span id="en">Canned Baby and Senior Food (1)</span><span id="ro">Conserve Alimente Copii Mici și Bătrânei (1)</span></h5>
+   <div id="cannedbabyandseniorfood" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>		
   <h5 class="categoryaccordion" ><span id="en">Romanian Orthodox Church Fasting Food</span><span id="ro">Mâncare de post Biserica Ortodoxă Română</span></h5>
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" id="smokedandcuredmeatbtn" ><span id="en">Smoked and Cured Meat (2)</span><span id="ro">Mezeluri, Cârnați și Afumături (2)</span></h5>    
