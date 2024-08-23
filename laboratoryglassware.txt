@@ -1,54 +1,69 @@
-       <tr><td>Graduated cylinders </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Wash bottle </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Side arm </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Erlenmeyer flask </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Beaker </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Funnel </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Test tube </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Watch glasse </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Cork ring </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Fractionating column </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>West condenser </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Separatory funnel </td><td>Model xyz  </td><td>-</td></tr>    
-       <tr><td>Stopper </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Round bottomed flask </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Three-way adapter </td><td>Model xyz  </td><td>-</td></tr>      
-       <tr><td>Claisen adapter </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Vacuum adapter </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Thermometer adapter </td><td>Model xyz  </td><td>-</td></tr> 
-       <tr><td>Keck clip </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Rubber fitting for thermometer adapter </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Crucible tongs </td><td>Model xyz  </td><td>-</td></tr>    
-       <tr><td>Test tube holder </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Striker </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Forceps </td><td>Model xyz  </td><td>-</td></tr> 
-       <tr><td>Spatula </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Scoopula </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Glass stirring rod </td><td>Model xyz  </td><td>-</td></tr>     
-       <tr><td>Pasteur pipette </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Dropper bulb </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Evaporating dish </td><td>Model xyz  </td><td>-</td></tr>       
-       <tr><td>TLC chamber </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Buchner funnel </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Hirsch funnel </td><td>Model xyz  </td><td>-</td></tr>      
-       <tr><td>Rubber sleeves for funnels </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Clay tile </td><td>Model xyz  </td><td>-</td></tr>
-       <tr><td>Vials for storage set </td><td>Model xyz  </td><td>-</td></tr>   
-       <tr><td>Stir bar </td><td>Model xyz  </td><td>-</td></tr>     
-       <tr><td>Spin vane </td><td>Model xyz  </td><td>-</td></tr>            
-       <tr><td>Drying tube </td><td>Model xyz  </td><td>-</td></tr>     
-       <tr><td>Extension clamp </td><td>Model xyz  </td><td>-</td></tr>          
-       <tr><td>Three-fingered clamp </td><td>Model xyz  </td><td>-</td></tr>      
-       <tr><td>Ring clamp </td><td>Model xyz  </td><td>-</td></tr>        
-       <tr><td>Wire mesh </td><td>Model xyz  </td><td>-</td></tr> 
-       <tr><td>Thick-walled vacuum tubing </td><td>Model xyz  </td><td>-</td></tr>      
-       <tr><td>Bunsen burner </td><td>Model xyz  </td><td>-</td></tr>        
-       <tr><td>Wood blocks </td><td>Model xyz  </td><td>-</td></tr>  
-       <tr><td>Rubber tubing </td><td>Model xyz  </td><td>-</td></tr>      
-       <tr><td>Drying tube </td><td>Model xyz  </td><td>-</td></tr>        
-       <tr><td>Hickman head </td><td>Model xyz  </td><td>-</td></tr>          
-       <tr><td>Water condenser </td><td>Model xyz  </td><td>-</td></tr>      
-       <tr><td>Air condenser </td><td>Model xyz  </td><td>-</td></tr>        
-       <tr><td>Conical vial </td><td>Model xyz  </td><td>-</td></tr>     
-       <tr><td>Claisen adapter </td><td>Model xyz  </td><td>-</td></tr>           
-       <tr><td>Spin vane </td><td>Model xyz  </td><td>-</td></tr> 
+<style>
+
+.laboratoryglasswareslider{
+ width:100%;
+}
+.laboratoryglasswareslidernav{
+ text-align:center;
+ width:100%; 
+}
+.laboratoryglasswareslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
+
+.laboratoryglasswareslides img {
+  max-width: 100%;
+  height: auto;
+}
+
+.laboratoryglasswareslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.laboratoryglasswareslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.laboratoryglasswareslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.laboratoryglasswareslidernav a:hover {background-color: gold;}
+.laboratoryglasswareslidernav a:active {background-color: gold;}
+.laboratoryglasswareslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="laboratoryglasswareslider">
+
+<div class="laboratoryglasswareslidernav" >
+  <a href="#laboratoryglasswareslide-1">1</a>
+  <a href="#laboratoryglasswareslide-2">2</a>
+</div>
+
+  <div class="laboratoryglasswareslides">
+    <div class="fade" id="laboratoryglasswareslide-1">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/laboratoryglassware.jpg" alt="laboratory glassware productsitem1" /> 
+    </div>
+    <div class="fade" id="laboratoryglasswareslide-2">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/laboratoryglasswareb.jpg" alt="laboratory glassware productsitem2" /> 
+    </div>
+  </div><!-- laboratoryglasswareSlides -->
+
+</div><!-- laboratoryglasswareSlider -->
