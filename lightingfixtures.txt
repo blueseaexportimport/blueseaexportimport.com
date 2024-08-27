@@ -1,7 +1,7 @@
-       <tr><td>LED lights chandelier</td><td>-</td><td>-</td></tr>
-       <tr><td>LED lights ceiling lamp</td><td>-</td><td>-</td></tr>
-       <tr><td>LED lights wall lamp</td><td>-</td><td>-</td></tr>
-       <tr><td>LED lights table lamp</td><td>-</td><td>-</td></tr>
-       <tr><td>LED lights floor lamp</td><td>-</td><td>-</td></tr>
-       <tr><td>LED lights office lamp</td><td>-</td><td>-</td></tr>
-       <tr><td>LED lights garland</td><td>-</td><td>-</td></tr> 
+<style>
+    .lightingfixturesslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="lightingfixturesslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/lightingfixtures.jpg" alt="lighting fixtures item1" /> 
+</div>
