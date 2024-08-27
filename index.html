@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab lightingfixtures on click start
+  $("#lightingfixturesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#lightingfixtures").hasClass("clickedlightingfixtures")) {
+        // already been clicked once, hide it
+        $("#lightingfixtures").html("");
+        $( "#lightingfixtures" ).removeClass( "clickedlightingfixtures" )
+    }else {
+        // first time this is clicked, mark it
+        $("#lightingfixtures").addClass("clickedlightingfixtures");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/lightingfixtures.txt?" + rand, success: function(result){
+         $("#lightingfixtures").html(result);
+        }});
+    }
+   });
+  // Grab lightingfixtures on click end
+
   // Grab laboratoryglassware on click start
   $("#laboratoryglasswarebtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3330,7 +3347,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>Q. DECORATIVE ITEMS, APPLIANCES AND GADGETS (4)</b></span><span id="ro"><b>Q. DECORAȚIUNI, ELECTROCASNICE ȘI GADGETURI (4)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>Q. DECORATIVE ITEMS, APPLIANCES AND GADGETS (5)</b></span><span id="ro"><b>Q. DECORAȚIUNI, ELECTROCASNICE ȘI GADGETURI (5)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="homefurniturebtn" ><span id="en">Home furniture (2)</span><span id="ro">Mobilă pentru casă (2)</span></h5>    
    <div id="homefurniture" class="categorypanel" >
    <!-- Load info start --> 
@@ -3353,8 +3370,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" id="beddingsetsbtn" ><span id="en">Bedding and bedding sets</span><span id="ro">Lenjerie de pat și seturi</span></h5>   
    <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" ><span id="en">Lighting fixtures</span><span id="ro">Corpuri de iluminat</span></h5>    
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="lightingfixturesbtn" ><span id="en">Lighting fixtures (1)</span><span id="ro">Corpuri de iluminat (1)</span></h5>    
+   <div id="lightingfixtures" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>		
    <h5 class="categoryaccordion" ><span id="en">Home Decor</span><span id="ro">Decorațiuni casă</span></h5>    
    <div class="rowbin" >-</div> 	
    <h5 class="categoryaccordion" ><span id="en">Kitchen electrical appliances</span><span id="ro">Electrocasnice bucătărie</span></h5>    
