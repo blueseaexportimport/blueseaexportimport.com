@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab decorativeclocks on click start
+  $("#decorativeclocksbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#decorativeclocks").hasClass("clickeddecorativeclocks")) {
+        // already been clicked once, hide it
+        $("#decorativeclocks").html("");
+        $( "#decorativeclocks" ).removeClass( "clickeddecorativeclocks" )
+    }else {
+        // first time this is clicked, mark it
+        $("#decorativeclocks").addClass("clickeddecorativeclocks");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/decorativeclocks.txt?" + rand, success: function(result){
+         $("#decorativeclocks").html(result);
+        }});
+    }
+   });
+  // Grab decorativeclocks on click end
+
   // Grab lightingfixtures on click start
   $("#lightingfixturesbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3347,14 +3364,17 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>Q. DECORATIVE ITEMS, APPLIANCES AND GADGETS (5)</b></span><span id="ro"><b>Q. DECORAȚIUNI, ELECTROCASNICE ȘI GADGETURI (5)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>Q. DECORATIVE ITEMS, APPLIANCES AND GADGETS (6)</b></span><span id="ro"><b>Q. DECORAȚIUNI, ELECTROCASNICE ȘI GADGETURI (6)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="homefurniturebtn" ><span id="en">Home furniture (2)</span><span id="ro">Mobilă pentru casă (2)</span></h5>    
    <div id="homefurniture" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-   <h5 class="categoryaccordion" ><span id="en">Brand new clocks</span><span id="ro">Ceasuri decorative noi</span></h5>    
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="decorativeclocksbtn" ><span id="en">Decorative clocks (1)</span><span id="ro">Ceasuri decorative (1)</span></h5>    
+   <div id="decorativeclocks" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" id="holidaysdecorationsanditemsbtn" ><span id="en">Holidays decorations and items (2)</span><span id="ro">Obiecte și decorațiuni sărbători (2)</span></h5>    
    <div id="holidaysdecorationsanditems" class="categorypanel" >
    <!-- Load info start --> 
