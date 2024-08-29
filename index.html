@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab waterrecycling on click start
+  $("#waterrecyclingbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#waterrecycling").hasClass("clickedwaterrecycling")) {
+        // already been clicked once, hide it
+        $("#waterrecycling").html("");
+        $( "#waterrecycling" ).removeClass( "clickedwaterrecycling" )
+    }else {
+        // first time this is clicked, mark it
+        $("#waterrecycling").addClass("clickedwaterrecycling");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/waterrecycling.txt?" + rand, success: function(result){
+         $("#waterrecycling").html(result);
+        }});
+    }
+   });
+  // Grab waterrecycling on click end
+	
   // Grab decorativeclocks on click start
   $("#decorativeclocksbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2752,7 +2769,7 @@ $(document).ready(function () {
    </div>	 
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>C. WATER AND SEWAGE SYSTEMS (0)</b></span> <span id="ro"><b>C. APĂ ȘI CANALIZARE (0)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>C. WATER AND SEWAGE SYSTEMS (1)</b></span> <span id="ro"><b>C. APĂ ȘI CANALIZARE (1)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="fountainsbtn" ><span id="en">Fountains, hand pumps and drinking-water systems</span><span id="ro">Fântâni, pompe manuale și sisteme apă potabilă omologate</span></h5>    
    <div class="rowbin" >-</div>     
    <h5 class="categoryaccordion" id="electricpumpsbtn" ><span id="en">Electric pumps</span><span id="ro">Pompe electrice</span></h5>    	
@@ -2773,8 +2790,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>     
    <h5 class="categoryaccordion" id="industrialwatersewagetreatmentplantbtn" ><span id="en">Industrial water sewage treatment plant</span><span id="ro">Stație epurare ape industriale</span></h5>    	
    <div class="rowbin" >-</div>     
-   <h5 class="categoryaccordion" id="waterrecyclingbtn" ><span id="en">Water recycling and conservation systems </span><span id="ro">Sisteme conservat și reciclat apa </span></h5>  
-   <div class="rowbin" >-</div>     
+   <h5 class="categoryaccordion" id="waterrecyclingbtn" ><span id="en">Water recycling and conservation systems (1)</span><span id="ro">Sisteme conservat și reciclat apa (1)</span></h5>  
+   <div id="waterrecycling" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	   
    </div></li><!--END SECTION-->		    
 
   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>D. GARBAGE AND RECYCLING (1)</b></span><span id="ro"><b>D. RECICLARE ȘI GUNOI (1)</b></span></button><div class="catalogpanel">
