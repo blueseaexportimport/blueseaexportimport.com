@@ -1,13 +1,7 @@
-    <tr><td><span id="en">PM1 air quality sensor</span><span id="ro">Senzor monitorizare calitate aer PM1</span> </td><td><span id="en">-</span><span id="ro">-</span></td><td><span id="en">-</span><span id="ro" >-</span></td></tr>    
-    <tr><td><span id="en">PM10 air quality sensor</span><span id="ro">Senzor monitorizare calitate aer PM10</span> </td><td><span id="en">-</span><span id="ro">-</span></td><td><span id="en">-</span><span id="ro" >-</span></td></tr>    
-    <tr><td><span id="en">PM2 5 air quality sensor</span><span id="ro">Senzor monitorizare calitate aer PM2.5</span> </td><td><span id="en">-</span><span id="ro">-</span></td><td><span id="en">-</span><span id="ro" >-</span></td></tr>    
-    <tr><td><span id="en">CO sensor</span><span id="ro">Senzor monoxid de carbon</span> </td><td><span id="en">-</span><span id="ro">-</span></td><td><span id="en">-</span><span id="ro" >-</span></td></tr>    
-    <tr><td><span id="en">CO2 sensor</span><span id="ro">Senzor dioxid de carbon</span> </td><td><span id="en">-</span><span id="ro">-</span></td><td><span id="en">-</span><span id="ro" >-</span></td></tr>    
-    <tr><td><span id="en">SO2 sensor</span><span id="ro">Senzor dioxid de sulf</span> </td><td><span id="en">-</span><span id="ro">-</span></td><td><span id="en">-</span><span id="ro" >-</span></td></tr>    
-    <tr><td><span id="en">NH3 sensor</span><span id="ro">Senzor amoniac</span> </td><td><span id="en">-</span><span id="ro">-</span></td><td><span id="en">-</span><span id="ro" >-</span></td></tr>    
-    <tr><td><span id="en">NOx sensor</span><span id="ro">Senzor oxizi de azot</span> </td><td><span id="en">-</span><span id="ro">-</span></td><td><span id="en">-</span><span id="ro" >-</span></td></tr>    
-    <tr><td><span id="en">TOCS (Total volatile organic compounds ) Sensor</span><span id="ro">Senzor dioxid de carbon</span> </td><td><span id="en">-</span><span id="ro">-</span></td><td><span id="en">-</span><span id="ro" >-</span></td></tr>    
-    <tr><td><span id="en">Air quality  monitor</span><span id="ro">Monitor calitare aer</span> </td><td><span id="en">-</span><span id="ro">-</span></td><td><span id="en">-</span><span id="ro" >-</span></td></tr>    
-    <tr><td><span id="en">Pollution awareness sticker</span><span id="ro">Autocolant de conștientizare a poluării</span> </td><td><span id="en">-</span><span id="ro">-</span></td><td><span id="en">-</span><span id="ro" >-</span></td></tr>    
-    <tr><td><span id="en">Pollution awareness badge</span><span id="ro">Insignă de conștientizare a poluării</span> </td><td><span id="en">-</span><span id="ro">-</span></td><td><span id="en">-</span><span id="ro" >-</span></td></tr>    
-    <tr><td><span id="en">Pollution awareness poster</span><span id="ro">Poster de conștientizare a poluării</span> </td><td><span id="en">-</span><span id="ro">-</span></td><td><span id="en">-</span><span id="ro" >-</span></td></tr> 
+<style>
+    .acidrainpreventionslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="acidrainpreventionslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/acidrainprevention.jpg" alt="acid rain prevention item1" /> 
+</div>
