@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab acidrainprevention on click start
+  $("#acidrainpreventionbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#acidrainprevention").hasClass("clickedacidrainprevention")) {
+        // already been clicked once, hide it
+        $("#acidrainprevention").html("");
+        $( "#acidrainprevention" ).removeClass( "clickedacidrainprevention" )
+    }else {
+        // first time this is clicked, mark it
+        $("#acidrainprevention").addClass("clickedacidrainprevention");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/acidrainprevention.txt?" + rand, success: function(result){
+         $("#acidrainprevention").html(result);
+        }});
+    }
+   });
+  // Grab acidrainprevention on click end
+
   // Grab waterrecycling on click start
   $("#waterrecyclingbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3494,13 +3511,16 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->  
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS (16)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (16)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS (17)</b></span> <span id="ro"><b>S. MATERIALE AGRICOLE (17)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="concreteandsteelsilosbtn" ><span id="en">Concrete and steel silos</span><span id="ro">Silozuri beton și oțel</span></h5> 
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="agriculturalmachinerybtn" ><span id="en">Agricultural machinery</span><span id="ro">Utilaje agricultură</span></h5> 
    <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" id="agriculturalmachinerybtn" ><span id="en">Acid Rain Prevention Systems</span><span id="ro">Sisteme de prevenire ploi acide</span></h5> 
-   <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="acidrainpreventionbtn" ><span id="en">Acid Rain Prevention Systems (1)</span><span id="ro">Sisteme de prevenire ploi acide (1)</span></h5> 
+   <div id="acidrainprevention" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="compostsoilbtn" ><span id="en">Compost - Soil (1)</span><span id="ro">Compost - Sol (1)</span></h5> 
    <div id="compostsoil" class="categorypanel" >
    <!-- Load info start --> 
