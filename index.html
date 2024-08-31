@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab alloyssteelsprings on click start
+  $("#alloyssteelspringsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#alloyssteelsprings").hasClass("clickedalloyssteelsprings")) {
+        // already been clicked once, hide it
+        $("#alloyssteelsprings").html("");
+        $( "#alloyssteelsprings" ).removeClass( "clickedalloyssteelsprings" )
+    }else {
+        // first time this is clicked, mark it
+        $("#alloyssteelsprings").addClass("clickedalloyssteelsprings");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/alloyssteelsprings.txt?" + rand, success: function(result){
+         $("#alloyssteelsprings").html(result);
+        }});
+    }
+   });
+  // Grab alloyssteelsprings on click end
+
   // Grab acidrainprevention on click start
   $("#acidrainpreventionbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2967,7 +2984,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	  
   </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (11)</b></span> <span id="ro"><b>I. MINERALES Y METALURGIA (11)</b></span></button><div class="catalogpanel">    
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (12)</b></span> <span id="ro"><b>I. MINERALES Y METALURGIA (12)</b></span></button><div class="catalogpanel">    
    <h5 class="categoryaccordion" id="mineraloresbtn" ><span id="en">Minerals - ores (1)</span><span id="ro">Minerales (1)</span></h5>    	
    <div id="mineralores" class="categorypanel" >
    <!-- Load info start --> 
@@ -3033,8 +3050,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-   <h5 class="categoryaccordion" id="alloyssteelspringsbtn" ><span id="en">Alloys - steel springs</span><span id="ro">Aleaciones - muelles de acero</span></h5>    
-   <div class="rowbin" >-</div>
+   <h5 class="categoryaccordion" id="alloyssteelspringsbtn" ><span id="en">Alloys - steel springs (1)</span><span id="ro">Aleaciones - muelles de acero (1)</span></h5>    
+   <div id="alloyssteelsprings" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" id="alloysmetalstampingbtn" ><span id="en">Alloys - metal stamping</span><span id="ro">Aleaciones - estampación metálica</span></h5>    
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="alloysmetalcastingbtn" ><span id="en">Alloys - metal casting</span><span id="ro">Aleaciones - fundición de metal</span></h5>    	
