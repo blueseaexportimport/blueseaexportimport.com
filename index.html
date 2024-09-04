@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab romanianorthdoxchurchfastingfood on click start
+  $("#romanianorthdoxchurchfastingfoodbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#romanianorthdoxchurchfastingfood").hasClass("clickedromanianorthdoxchurchfastingfood")) {
+        // already been clicked once, hide it
+        $("#romanianorthdoxchurchfastingfood").html("");
+        $( "#romanianorthdoxchurchfastingfood" ).removeClass( "clickedromanianorthdoxchurchfastingfood" )
+    }else {
+        // first time this is clicked, mark it
+        $("#romanianorthdoxchurchfastingfood").addClass("clickedromanianorthdoxchurchfastingfood");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/romanianorthdoxchurchfastingfood.txt?" + rand, success: function(result){
+         $("#romanianorthdoxchurchfastingfood").html(result);
+        }});
+    }
+   });
+  // Grab romanianorthdoxchurchfastingfood on click end
+	
   // Grab rugsandcarpets on click start
   $("#rugsandcarpetsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3938,8 +3955,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>		
-  <h5 class="categoryaccordion" ><span id="en">Romanian Orthodox Church Fasting Food</span><span id="ro">Comida de ayuno de la Iglesia Ortodoxa Rumana</span></h5>
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" ><span id="en">Vegan Food / Orthodox Christian Fasting Food (1)</span><span id="ro"> Comida vegana  / Comida cristiana ortodoxa para ayunar (1)</span></h5>
+   <div id="romanianorthdoxchurchfastingfood" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" id="smokedandcuredmeatbtn" ><span id="en">Smoked and Cured Meat (2)</span><span id="ro">Carne ahumada y curada (2)</span></h5>    
    <div id="smokedandcuredmeat" class="categorypanel" >
    <!-- Load info start --> 
