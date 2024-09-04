@@ -3,5 +3,5 @@
 </style> 
 
 <div class="romanianorthdoxchurchfastingfoodslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/romanianorthdoxchurchfastingfood.jpg" alt="olives item1" /> 
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/veganfoodorthdoxchurchfastingfood.jpg" alt="olives item1" /> 
 </div>
