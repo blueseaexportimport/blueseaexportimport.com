@@ -162,6 +162,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab buildingmaterials on click start
+  $("#buildingmaterialsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#buildingmaterials").hasClass("clickedbuildingmaterials")) {
+        // already been clicked once, hide it
+        $("#buildingmaterials").html("");
+        $( "#buildingmaterials" ).removeClass( "clickedbuildingmaterials" )
+    }else {
+        // first time this is clicked, mark it
+        $("#buildingmaterials").addClass("clickedbuildingmaterials");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/buildingmaterials.txt?" + rand, success: function(result){
+         $("#buildingmaterials").html(result);
+        }});
+    }
+   });
+  // Grab buildingmaterials on click end
+	
   // Grab romanianorthdoxchurchfastingfood on click start
   $("#romanianorthdoxchurchfastingfoodbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3414,7 +3431,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 	   	   
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>P. CONSTRUCTION MATERIALS (4)</b></span> <span id="ro"><b>P. MATERIALES DE CONSTRUCCIÓN (4)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>P. CONSTRUCTION MATERIALS (6)</b></span> <span id="ro"><b>P. MATERIALES DE CONSTRUCCIÓN (6)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" ><span id="en">Construction machinery</span><span id="ro">Utilaje construcții</span></h5> 
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="aggregatesbtn" ><span id="en">Construction Aggregates (1)</span><span id="ro">Áridos para la construcción (1)</span></h5> 
@@ -3426,8 +3443,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Cement factory</span><span id="ro">Fábrica de cemento</span></h5> 
    <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" id="buildingmaterialsbtn" ><span id="en">Building materials</span><span id="ro">Materiales de construcción</span></h5> 
-   <div class="rowbin" >-</div>
+   <h5 class="categoryaccordion" id="buildingmaterialsbtn" ><span id="en">Building materials (2)</span><span id="ro">Materiales de construcción (2)</span></h5> 
+   <div id="buildingmaterials" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>
    <h5 class="categoryaccordion" id="screedsmaterialsbtn" ><span id="en">Screeds materials</span><span id="ro">Materiales para soleras</span></h5>    
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="geotextilesbtn" ><span id="en">Geosynthetics (1)</span><span id="ro">Geosintéticos (1)</span></h5>    
