@@ -52,7 +52,7 @@
 
 <div class="buildingmaterialsslider">
 
-<div class="buildingmaterialslidernav" >
+<div class="buildingmaterialsslidernav" >
   <a href="#buildingmaterialsslide-1">1</a>
   <a href="#buildingmaterialsslide-2">2</a>
 </div>
