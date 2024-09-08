@@ -1,117 +1,70 @@
-<tbody>
+<style>
 
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">ENF001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;"><span id="en">Romanian Legislation Forms</span><span id="ro">Tipizate România </span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en">You must understand romanian language and legislation to buy this forms</span><span id="ro">Trebuie să cunoașteți limba română și legislația pentru a achiziționa aceste formulare </span></td></tr>
-
-<tr><td>Formula 1</td><td>0.2 RON / Fișă de magazie A5 - carton duplex 230 g/mp  ( 210 x 150 mm  ) </td></tr>
-<tr><td>Formula 2</td><td>2 RON / 16 file - Carnet de sănătate - hârtie offset A5 ( 110 x 170 mm ) </td></tr>
-<tr><td>Formula 3</td><td>2 RON / 8 + 1 file Dosar medical individual + Fișă aptitudini - hârtie offset + autocopiativă ( 105 x 150 mm ) </td></tr>
-<tr><td>Formula 4</td><td>3 RON / 100 file - Dispoziție casierie A6 - hârtie offset  ( 210 x 150 mm ) </td></tr>
-<tr><td>Formula 5</td><td>3.8 RON / 150 file - Bon de predare transfer, restituire A4 - hârtie offset  ( 1/2 din A4 ) </td></tr>
-<tr><td>Formula 6</td><td>4.5 RON / 100 file - Dispoziție de casierie A6 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 105 x 150 mm ) </td></tr>
-<tr><td>Formula 7</td><td>4.5 RON / 100 file - Monetar A6 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 105 x 150 mm ) </td></tr>
-<tr><td>Formula 8</td><td>4.6 RON / 100 file - Chitanțier A6 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 105 x 150 mm ) </td></tr>
-<tr><td>Formula 9</td><td>7 RON / 150 file - Chitanțier A6 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 105 x 150 mm ) </td></tr>
-<tr><td>Formula 10</td><td>6 RON / 100 file - Ordin de deplasare ( delegație ) A5 - hârtie offset  ( 210 x 150 mm  ) </td></tr>
-<tr><td>Formula 11</td><td>6 RON / 100 file - Borderou achiziții - hârtie offset A5 ( 210 x 150 mm ) </td></tr>
-<tr><td>Formula 12</td><td>6 RON / 100 file - Decont cheltuieli A5 - hârtie offset  ( 210 x 150 mm ) </td></tr>
-<tr><td>Formula 13</td><td>8 RON / 100 file - Bon consum orizontal A5 ( 50 set x 2 exemplare/set) - hârtie autocopiativa ( 100 x 297 mm ) </td></tr>
-<tr><td>Formula 14</td><td>8 RON / 100 file - Dispoziție livrare A5 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 210 x 150 mm ) </td></tr>
-<tr><td>Formula 15</td><td>11.7 RON / 100 file - Notă contabilă A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
-<tr><td>Formula 16</td><td>11.7 RON / 100 file - Notă contabilă A5 - hârtie offset  ( 210 x 150 mm  ) </td></tr>
-<tr><td>Formula 17</td><td>12 RON / 100 file - Notă intrare recepție A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
-<tr><td>Formula 18</td><td>12 RON / 100 file - Raport de gestiune zilnic A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
-<tr><td>Formula 19</td><td>12 RON / 100 file - Listă inventariere A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
-<tr><td>Formula 20</td><td>12 RON / 150 file - Foaie colectivă de prezență A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
-<tr><td>Formula 21</td><td>12 RON / 100 file - Registru intrare ieșire A4 - hârtie offset ( 105 x 150 mm ) </td></tr>
-<tr><td>Formula 22</td><td>12 RON / 150 file - Aviz insotire marfa A5 ( 50 set x 3 exemplare/set) - hârtie autocopiativa ( 210 x 150 mm ) </td></tr>
-<tr><td>Formula 23</td><td>24 RON / 150 file - Aviz insotire marfa A4 ( 50 set x 3 exemplare/set) - hârtie autocopiativa ( 210 x 297 mm ) </td></tr>
-<tr><td>Formula 24</td><td>12 RON / 100 file - Foaie de parcurs auto transport marfă A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
-<tr><td>Formula 25</td><td>12 RON / 100 file - Foaie de parcurs auto transport persoane A4 - hârtie offset  ( 210 x 297 mm  ) </td></tr>
-<tr><td>Formula 26</td><td>12 RON / 100 file - Registru inventar A4 - hârtie offset  ( 210 x 297 mm ) </td></tr>
-<tr><td>Formula 27</td><td>12 RON / 100 file - Registru jurnal încasări și plăți A4 - hârtie offset  ( 210 x 297 mm ) </td></tr>
-<tr><td>Formula 28</td><td>12 RON / 100 file - Registru de casă A4 ( 1 exemplar ) - hârtie offset  ( 210 x 297 mm ) </td></tr>
-<tr><td>Formula 29</td><td>15.7 RON / 150 file - Registru de casă A4 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 210 x 297 mm ) </td></tr>
-<tr><td>Formula 30</td><td>15.7 RON / 100 file - Notă intrare recepție A4 ( 50 set x 2 exemplare/set) - hârtie autocopiativă  ( 210 x 297 mm ) </td></tr>
-<tr><td>Formula 31</td><td>17 RON / 100 file - Registru intrare ieșire A4 copertat - hârtie offset  ( 210 x 297 mm ) </td></tr>
-<tr><td>Formula 32</td><td>12 RON / 150 file - Facturier fără TVA A5 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 210 x 150 mm ) </td></tr>
-<tr><td>Formula 33</td><td>12 RON / 150 file - Facturier A5 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 210 x 150 mm ) </td></tr>
-<tr><td>Formula 34</td><td>24 RON / 150 file - Facturier fără TVA A4 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 210 x 297 mm ) </td></tr>
-<tr><td>Formula 35</td><td>24 RON / 150 file - Facturier A4 ( 50 set x 3 exemplare/set) - hârtie autocopiativă  ( 210 x 297 mm ) </td></tr>
-<tr><td>Formula 36</td><td>35 RON / 100 file - Registru special de evidență operațiuni cu metale prețioase A4 - hârtie offset  ( 210 x 297 mm ) </td></tr>
-<tr><td>Formula 37</td><td>40 RON / 50 file - Registrul acționarilor A4 - hârtie offset  ( 210 x 297 mm ) </td></tr>
-<tr><td>Formula 38</td><td>40 RON / 50 file - Registru de acțiuni A4 - hârtie offset  ( 210 x 297 mm ) </td></tr>
-
-<tr><td><span id="en">Supplier:</span><span id="ro">Furnizor:</span></td><td><span id="en">Various Romania suppliers</span><span id="ro">Furnizori din România</span></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">not included</span><span id="ro">nu este inclus</span></td></tr>
-
-
-</tbody>
-
-
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
+.envelopesslider{
+ width:100%;
 }
-});
-</script>
+.envelopesslidernav{
+ text-align:center;
+ width:100%; 
+}
+.envelopesslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
-<!--
-<tr><td><span id="en">Paper Envelope C7 (90 x 140 mm) Color White</span><span id="ro">Plic din hârtie C7 (90 x 140 mm) Culoare Albă</span></td>
-<tr><td><span id="en">Paper Envelope C6 (114 x 162 mm) Color White</span><span id="ro">Plic din hârtie C6 (114 x 162 mm) Culoare Albă</span></td>
-<tr><td><span id="en">Paper Envelope DL (110 x 220 mm) Color White</span><span id="ro">Plic din hârtie DL (110 x 220 mm) Culoare Albă</span></td>
-<tr><td><span id="en">Paper Envelope C6/C5 (114 x 229 mm) Color White</span><span id="ro">Plic din hârtie C6/C5 (114 x 229 mm) Culoare Albă</span></td>
-<tr><td><span id="en">Paper Envelope C5 (162 x 229 mm) Color Kraft</span><span id="ro">Plic din hârtie C5 (162 x 229 mm) Culoare Kraft</span></td>
-<tr><td><span id="en">Paper Envelope C4 (229 x 324 mm) Color Kraft</span><span id="ro">Plic din hârtie C4 (229 x 324 mm) Culoare Kraft</span></td>
- <tr><td><span id="en">Paper Envelope B5 (250 x 176 mm ) </span><span id="ro">Plic din hârtie B5 (250 x 176 mm )</span></td><td>-</td><td>-</td></tr>        
-<tr><td><span id="en">Paper Envelope B4 (250 x 353 mm) Color Kraft</span><span id="ro">Plic din hârtie B4 (250 x 353 mm) Culoare Kraft</span></td>
-<tr><td><span id="en">Paper Envelope E4 (280 x 400 mm) Color White</span><span id="ro">Plic din hârtie E4 (280 x 400 mm) Culoare Albă</span></td>
-<tr><td><span id="en">Paper Envelope E4 (280 x 400 mm) Color Kraft</span><span id="ro">Plic din hârtie E4 (280 x 400 mm) Culoare Kraft</span></td>
-<tr><td><span id="en">Anti-shock with bubbles envelope A11 ( Int: 100 x 165 mm) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer A11 ( Int: 100 x 165 mm) Color Albă Kraft sau Maro Kraft</span></td>
-<tr><td><span id="en">Anti-shock with bubbles envelope B12 ( Int: 115 x 215 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer B12 ( Int: 115 x 215 mm ) Color Albă Kraft sau Maro Kraft</span></td>
-<tr><td><span id="en">Anti-shock with bubbles envelope C13 ( Int: 150 x 215 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer C13 ( Int: 150 x 215 mm ) Color Albă Kraft sau Maro Kraft</span></td>
-<tr><td><span id="en">Anti-shock with bubbles envelope CD ( Int: 175 x 165 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer CD ( Int: 175 x 165 mm ) Color Albă Kraft sau Maro Kraft</span></td>
-<tr><td><span id="en">Anti-shock with bubbles envelope D14 ( Int: 180 x 265 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer D14 ( Int: 180 x 265 mm ) Color Albă Kraft sau Maro Kraft</span></td>
-<tr><td><span id="en">Anti-shock with bubbles envelope E15 ( Int: 215 x 265 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer E15 ( Int: 215 x 265 mm ) Color Albă Kraft sau Maro Kraft</span></td>
-<tr><td><span id="en">Anti-shock with bubbles envelope F16 ( Int: 220 x 340 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer F16 ( Int: 220 x 340 mm ) Color Albă Kraft sau Maro Kraft</span></td>
-<tr><td><span id="en">Anti-shock with bubbles envelope G17 ( Int: 230 x 340 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer G17 ( Int: 230 x 340 mm ) Color Albă Kraft sau Maro Kraft</span></td>
-<tr><td><span id="en">Anti-shock with bubbles envelope H18 ( Int: 270 x 360 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer H18 ( Int: 270 x 360 mm ) Color Albă Kraft sau Maro Kraft</span></td>
-<tr><td><span id="en">Anti-shock with bubbles envelope I19 ( Int: 295 x 445 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer I19 ( Int: 295 x 445 mm ) Color Albă Kraft sau Maro Kraft</span></td>
-<tr><td><span id="en">Anti-shock with bubbles envelope K20 ( Int: 345 x 470 mm ) Color White Kraft or Brown Kraft</span><span id="ro">Plic anti șoc cu bule de aer K20 ( Int: 345 x 470 mm ) Color Albă Kraft sau Maro Kraft</span></td>
+.envelopesslides img {
+  max-width: 100%;
+  height: auto;
+}
 
- <tr><td><span id="en">Paper Envelope B5 (250 x 176 mm ) </span><span id="ro">Plic din hârtie B5 (250 x 176 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope B6 (125 x 176 mm ) </span><span id="ro">Plic din hârtie B6 (125 x 176 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope C3 (324 x 458 mm ) </span><span id="ro">Plic din hârtie C3 (324 x 458 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope C4M (318 x 229 mm ) </span><span id="ro">Plic din hârtie C4M (318 x 229 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope C3 (324 x 458 mm ) </span><span id="ro">Plic din hârtie C3 (324 x 458 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope C6 (114 x 162 mm ) </span><span id="ro">Plic din hârtie C6 (114 x 162 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope C64M (318 x 114 mm ) </span><span id="ro">Plic din hârtie C64M (318 x 114 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope C7/C6 (81 x 162 mm ) </span><span id="ro">Plic din hârtie C7/C6 (81 x 162 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope CE4 (229 x 310 mm ) </span><span id="ro">Plic din hârtie CE4 (229 x 310 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope CE64 (114 x 310 mm ) </span><span id="ro">Plic din hârtie CE64 (114 x 310 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope EC45 (220 x 229 mm ) </span><span id="ro">Plic din hârtie EC45 (220 x 229 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope EC5 (115 x 229 mm ) </span><span id="ro">Plic din hârtie EC5 (115 x 229 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope E5 (115 x 220 mm ) </span><span id="ro">Plic din hârtie E5 (115 x 220 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope E56 (155 x 155 mm ) </span><span id="ro">Plic din hârtie E56 (155 x 155 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope E6 (110 x 155 mm ) </span><span id="ro">Plic din hârtie E6 (110 x 155 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope E65 (110 x 220 mm ) </span><span id="ro">Plic din hârtie E65 (110 x 220 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope R7 (120 x 135 mm ) </span><span id="ro">Plic din hârtie R7 (120 x 135 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope S4 (250 x 330 mm ) </span><span id="ro">Plic din hârtie S4 (250 x 330 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope S5 (185 x 255 mm ) </span><span id="ro">Plic din hârtie S5 (185 x 255 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope S65 (110 x 255 mm ) </span><span id="ro">Plic din hârtie S65 (110 x 255 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope X5 (105 x 216 mm ) </span><span id="ro">Plic din hârtie X5 (105 x 216 mm )</span></td><td>-</td><td>-</td></tr>        
- <tr><td><span id="en">Paper Envelope EX5 (155 x 216 mm ) </span><span id="ro">Plic din hârtie EX5 (155 x 216 mm )</span></td><td>-</td><td>-</td></tr>
+.envelopesslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
 
--->
-	   
+.envelopesslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.envelopesslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.envelopesslidernav a:hover {background-color: gold;}
+.envelopesslidernav a:active {background-color: gold;}
+.envelopesslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="envelopesslider">
+
+<div class="envelopesslidernav" >
+  <a href="#envelopesslide-1">1</a>
+  <a href="#envelopesslide-2">2</a>
+</div>
+
+  <div class="envelopesslides">
+    <div class="fade" id="envelopesslide-1">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/envelopes.jpg" alt="envelopes productsitem1" /> 
+    </div>
+    <div class="fade" id="envelopesslide-2">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/envelopesb.jpg" alt="envelopes productsitem2" /> 
+    </div>
+  </div><!-- envelopesSlides -->
+
+</div><!-- envelopesSlider -->
+
