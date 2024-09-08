@@ -165,6 +165,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab envelopes on click start
+  $("#envelopesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#envelopes").hasClass("clickedenvelopes")) {
+        // already been clicked once, hide it
+        $("#envelopes").html("");
+        $( "#envelopes" ).removeClass( "clickedenvelopes" )
+    }else {
+        // first time this is clicked, mark it
+        $("#envelopes").addClass("clickedenvelopes");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/envelopes.txt?" + rand, success: function(result){
+         $("#envelopes").html(result);
+        }});
+    }
+   });
+  // Grab envelopes on click end
+
   // Grab buildingmaterials on click start
   $("#buildingmaterialsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -2975,7 +2992,7 @@ $(document).ready(function () {
    <!-- Load info end --> 
    </div>		   
    </div></li><!--END SECTION-->	
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (13)</b></span><span id="ro"><b>G. ESCUELA, INVESTIGACIÓN, AEROESPACIAL Y ALTA TECNOLOGÍA (13)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (15)</b></span><span id="ro"><b>G. ESCUELA, INVESTIGACIÓN, AEROESPACIAL Y ALTA TECNOLOGÍA (15)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="didacticmaterialsbtn" ><span id="en">Didactic Materials</span><span id="ro">Materiales didácticos</span></h5>    
    <div class="rowbin" >-</div>     
   <h5 class="categoryaccordion" id="officeandschoolsuppliesbtn" ><span id="en">Office and school supplies (3)</span><span id="ro">Material de oficina y escolar (3)</span></h5>    
@@ -2983,8 +3000,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	     
-  <h5 class="categoryaccordion" id="envelopsandformsbtn" ><span id="en">Envelopes</span><span id="ro">Sobres</span></h5>    
-   <div class="rowbin" >-</div>   
+  <h5 class="categoryaccordion" id="envelopesbtn" ><span id="en">Envelopes (2)</span><span id="ro">Sobres (2)</span></h5>    
+   <div id="envelopes" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 
    <h5 class="categoryaccordion" id="laboratoryglasswarebtn" ><span id="en">Laboratory glassware (2)</span><span id="ro">Cristalería de laboratorio (2)</span></h5>    	
    <div id="laboratoryglassware" class="categorypanel" >
    <!-- Load info start --> 
