@@ -1,56 +1,71 @@
-       <tr><td>Hospital Identification Bracelet </td><td>- </td><td>-</td></tr>
-       <tr><td>Band aid </td><td>- </td><td>-</td></tr>
-       <tr><td>Electric Intensive Care Hospital Bed </td><td>- </td><td>-</td></tr>
-       <tr><td>Electric Hospital Bed </td><td>- </td><td>-</td></tr>
-       <tr><td>Manual Hospital Bed </td><td>- </td><td>-</td></tr>
-       <tr><td>Home Care Bed </td><td>- </td><td>-</td></tr>
-       <tr><td>Hospital Crib  </td><td>- </td><td>-</td></tr>
-       <tr><td>Patient Transfer Stretcher  </td><td>- </td><td>-</td></tr>
-       <tr><td>Ambulance Stretcher  </td><td>- </td><td>-</td></tr>
-       <tr><td>Emergency Stretcher  </td><td>- </td><td>-</td></tr>
-       <tr><td>Stair Stretcher  </td><td>- </td><td>-</td></tr>
-       <tr><td>Spine Board  </td><td>- </td><td>-</td></tr>
-       <tr><td>Scoop Stretcher  </td><td>- </td><td>-</td></tr>
-       <tr><td>Gynecological Bed  </td><td>- </td><td>-</td></tr>
-       <tr><td>Electric Operating Table </td><td>- </td><td>-</td></tr>
-       <tr><td>Hydraulic Surgery Operating Table  </td><td>- </td><td>-</td></tr>
-       <tr><td>Exam Room Table  </td><td>- </td><td>-</td></tr>
-       <tr><td>Pediatric Exam Table </td><td>- </td><td>-</td></tr>
-       <tr><td>Electric Operating Table </td><td>- </td><td>-</td></tr>
-       <tr><td>Treatment Table  </td><td>- </td><td>-</td></tr>
-       <tr><td>Ultrasound Exam Table  </td><td>- </td><td>-</td></tr>
-       <tr><td>Blood Donor Chair  </td><td>- </td><td>-</td></tr>
-       <tr><td>Medical Recliner </td><td>- </td><td>-</td></tr>
-       <tr><td>Infusion Chair </td><td>- </td><td>-</td></tr>
-       <tr><td>Medical Stool  </td><td>- </td><td>-</td></tr>
-       <tr><td>Hospital Waiting Chair</td><td>- </td><td>-</td></tr>
-       <tr><td>Hospital Sleeper Chair</td><td>- </td><td>-</td></tr>
-       <tr><td>Medical Emergency Crash Cart</td><td>- </td><td>-</td></tr>
-       <tr><td>Medication Cart</td><td>- </td><td>-</td></tr>
-       <tr><td>Anesthesia Cart</td><td>- </td><td>-</td></tr>
-       <tr><td>Medical Patient Record Cart</td><td>- </td><td>-</td></tr>
-       <tr><td>Medical Computer Cart</td><td>- </td><td>-</td></tr>
-       <tr><td>Medical Instrument trolley</td><td>- </td><td>-</td></tr>
-       <tr><td>Mayo Table</td><td>- </td><td>-</td></tr>
-       <tr><td>Medical Linen Trolley</td><td>- </td><td>-</td></tr>
-       <tr><td>Medical Bedside Cabinet</td><td>- </td><td>-</td></tr>
-       <tr><td>Overbed Table</td><td>- </td><td>-</td></tr>
-       <tr><td>Hospital bed mattress</td><td>- </td><td>-</td></tr>
-       <tr><td>Hospital IV Stand</td><td>- </td><td>-</td></tr>
-       <tr><td>Ward Screen</td><td>- </td><td>-</td></tr>
-       <tr><td>Surgical Scrub Sink</td><td>- </td><td>-</td></tr>
-       <tr><td>Ward Screen</td><td>- </td><td>-</td></tr>
-       <tr><td>Pass Box For Cleaning Room</td><td>- </td><td>-</td></tr>
-       <tr><td>Aluminium Sterile Container</td><td>- </td><td>-</td></tr>
-       <tr><td>Stainless Steel Cupboard For Hospital Use</td><td>- </td><td>-</td></tr>
-       <tr><td>Hospital Stainless Steel Cabinet</td><td>- </td><td>-</td></tr>
-       <tr><td>Ceiling Shadowless Operation Light</td><td>- </td><td>-</td></tr>
-       <tr><td>Mobile Shadowless Operation Lamp</td><td>- </td><td>-</td></tr>
-       <tr><td>Patient Identification Bands</td><td>- </td><td>-</td></tr>
-       <tr><td>Small Vaccine Carrier, Short Range</td><td>- </td><td>-</td></tr>
-       <tr><td>Large Cold Box Long Range</td><td>- </td><td>-</td></tr>
-       <tr><td>Ice Pack</td><td>- </td><td>-</td></tr>
-       <tr><td>Medical Step Stool</td><td>- </td><td>-</td></tr>
-       <tr><td>Doctor Stool</td><td>- </td><td>-</td></tr>
-       <tr><td>Doctor Chair</td><td>- </td><td>-</td></tr>
-       <tr><td>Nurse Chair</td><td>- </td><td>-</td></tr>
+
+<style>
+
+.hospitalslider{
+ width:100%;
+}
+.hospitalslidernav{
+ text-align:center;
+ width:100%; 
+}
+.hospitalslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
+
+.hospitalslides img {
+  max-width: 100%;
+  height: auto;
+}
+
+.hospitalslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.hospitalslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.hospitalslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.hospitalslidernav a:hover {background-color: gold;}
+.hospitalslidernav a:active {background-color: gold;}
+.hospitalslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="hospitalslider">
+
+<div class="hospitalslidernav" >
+  <a href="#hospitalslide-1">1</a>
+  <a href="#hospitalslide-2">2</a>
+</div>
+
+  <div class="hospitalslides">
+    <div class="fade" id="hospitalslide-1">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/hospital.jpg" alt="hospital productsitem1" /> 
+    </div>
+    <div class="fade" id="hospitalslide-2">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/hospitalb.jpg" alt="hospital productsitem2" /> 
+    </div>
+  </div><!-- hospitalSlides -->
+
+</div><!-- hospitalSlider -->
+
