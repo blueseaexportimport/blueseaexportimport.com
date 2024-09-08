@@ -59,10 +59,10 @@
 
   <div class="envelopesslides">
     <div class="fade" id="envelopesslide-1">
-      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/envelopes.jpg" alt="envelopes productsitem1" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/envelops.jpg" alt="envelopes productsitem1" /> 
     </div>
     <div class="fade" id="envelopesslide-2">
-      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/envelopesb.jpg" alt="envelopes productsitem2" /> 
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/envelopsb.jpg" alt="envelopes productsitem2" /> 
     </div>
   </div><!-- envelopesSlides -->
 
