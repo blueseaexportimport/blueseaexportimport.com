@@ -1,0 +1,7 @@
+<style>
+    .garmentslabelsslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="garmentslabelsslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/garmentslabels.jpg" alt="garments labels item1" /> 
+</div>
