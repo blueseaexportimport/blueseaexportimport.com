@@ -1,21 +1,7 @@
+<style>
+    .concreteslidediv img{ width:100%; height:auto;}
+</style> 
 
-       <tr><td><span id="en">B50 - Concrete C2.8/3,5</span><span id="ro">B50 - Beton C2.8/3,5<</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">B75 - Concrete C4/5</span><span id="ro">B75 - Beton C4/5</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">B100 - Concrete C6/7,5</span><span id="ro">B100 - Beton C6/7,5</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">B150 - Concrete C8/10</span><span id="ro">B150 - Beton C8/10</span></td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">B200 - Concrete C12/15</span><span id="ro">B200 - Beton C12/15</span></td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">B250 - Concrete C16/20</span><span id="ro">B250 - Beton C16/20</span></td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">B300 - Concrete C18/22.5</span><span id="ro">B300 - Beton C18/22.5</span></td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">B350 - Concrete C20/25</span><span id="ro">B350 - Beton C20/25</span></td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">B400 - Concrete C25/30</span><span id="ro">B400 - Beton C25/30</span></td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">B450 - Concrete C30/37</span><span id="ro">B450 - Beton C30/37</span></td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">B500 - Concrete C32/40</span><span id="ro">B500 - Beton C32/40</span></td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">B550 - Concrete C35/45</span><span id="ro">B550 - Beton C35/45</span></td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">B600 - Concrete C40/50</span><span id="ro">B600 - Beton C40/50</span></td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">B700 - Concrete C50/60</span><span id="ro">B700 - Beton C50/60</span></td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">BCR 3,5 - Road Concrete</span><span id="ro">BCR 3,5 - Beton rutier</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">BCR 4 - Road Concrete</span><span id="ro">BCR 4 - Beton rutier</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">BCR 4.5 - Road Concrete</span><span id="ro">BCR 4.5 - Beton rutier</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Ballast + 4% cement - Road Concrete</span><span id="ro">Balast + 4% ciment - Beton rutier</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Ballast + 5% cement - Road Concrete</span><span id="ro">Balast + 5% ciment - Beton rutier</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Ballast + 6% cement - Road Concrete</span><span id="ro">Balast + 6% ciment - Beton rutier</span></td><td>-</td><td>-</td></tr>
+<div class="concreteslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/concrete.jpg" alt="concrete item1" /> 
+</div>
