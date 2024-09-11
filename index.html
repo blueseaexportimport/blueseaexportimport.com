@@ -165,6 +165,24 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab garmentslabels on click start
+  $("#garmentslabelsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#garmentslabels").hasClass("clickedgarmentslabels")) {
+        // already been clicked once, hide it
+        $("#garmentslabels").html("");
+        $( "#garmentslabels" ).removeClass( "clickedgarmentslabels" )
+    }else {
+        // first time this is clicked, mark it
+        $("#garmentslabels").addClass("clickedgarmentslabels");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/garmentslabels.txt?" + rand, success: function(result){
+         $("#garmentslabels").html(result);
+        }});
+    }
+   });
+  // Grab garmentslabels on click end
+
+	
   // Grab hospital on click start
   $("#hospitalbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3334,7 +3352,7 @@ $(document).ready(function () {
 
    </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>M. TEXTILES, LEATHER AND FURS (8)</b></span><span id="ro"><b>M. TEXTILES, CUEROS Y PIEL (8)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>M. TEXTILES, LEATHER AND FURS (9)</b></span><span id="ro"><b>M. TEXTILES, CUEROS Y PIEL (9)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Textile spinning mill</span><span id="ro">Hilandería textil</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Textile weaving and knitting mill</span><span id="ro">Fábrica de tejidos</span></h5> 
@@ -3362,8 +3380,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" ><span id="en">Textiles - garments labels</span><span id="ro">Etiquetas textiles</span></h5>    
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="garmentslabelsbtn" ><span id="en">Textiles - garments labels (1)</span><span id="ro">Etiquetas textiles (1)</span></h5>    
+   <div id="garmentslabels" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>
   <h5 class="categoryaccordion" id="leatherandfursbtn" ><span id="en">Leather and furs (1)</span><span id="ro">Cuero y pieles (1)</span></h5>    
    <div id="leatherandfurs" class="categorypanel" >
    <!-- Load info start --> 
