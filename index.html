@@ -165,6 +165,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab castiron on click start
+  $("#castironbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#castiron").hasClass("clickedcastiron")) {
+        // already been clicked once, hide it
+        $("#castiron").html("");
+        $( "#castiron" ).removeClass( "clickedcastiron" )
+    }else {
+        // first time this is clicked, mark it
+        $("#castiron").addClass("clickedcastiron");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/castiron.txt?" + rand, success: function(result){
+         $("#castiron").html(result);
+        }});
+    }
+   });
+  // Grab castiron on click end
+
   // Grab bathroomandtoiletcleaning on click start
   $("#bathroomandtoiletcleaningbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3182,7 +3199,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	  
   </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (14)</b></span> <span id="ro"><b>I. MINERALES Y METALURGIA (14)</b></span></button><div class="catalogpanel">    
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (15)</b></span> <span id="ro"><b>I. MINERALES Y METALURGIA (15)</b></span></button><div class="catalogpanel">    
    <h5 class="categoryaccordion" id="mineraloresbtn" ><span id="en">Minerals - ores (1)</span><span id="ro">Minerales (1)</span></h5>    	
    <div id="mineralores" class="categorypanel" >
    <!-- Load info start --> 
@@ -3193,8 +3210,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-   <h5 class="categoryaccordion" id="castironbtn" ><span id="en">Cast iron</span><span id="ro">Hierro fundido</span></h5>    	
-   <div class="rowbin" >-</div> 
+   <h5 class="categoryaccordion" id="castironbtn" ><span id="en">Cast iron (1)</span><span id="ro">Hierro fundido (1)</span></h5>    	
+   <div id="castiron" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" id="alloysfundamentalformsbtn" ><span id="en">Alloys - fundamental forms (1)</span><span id="ro">Aleaciones - formas fundamentales (1)</span></h5>    	
    <div id="alloysfundamentalforms" class="categorypanel" >
    <!-- Load info start --> 
