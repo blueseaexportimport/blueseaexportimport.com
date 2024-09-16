@@ -165,6 +165,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab vehiclerubbertires on click start
+  $("#vehiclerubbertiresbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#vehiclerubbertires").hasClass("clickedvehiclerubbertires")) {
+        // already been clicked once, hide it
+        $("#vehiclerubbertires").html("");
+        $( "#vehiclerubbertires" ).removeClass( "clickedvehiclerubbertires" )
+    }else {
+        // first time this is clicked, mark it
+        $("#vehiclerubbertires").addClass("clickedvehiclerubbertires");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/vehiclerubbertires.txt?" + rand, success: function(result){
+         $("#vehiclerubbertires").html(result);
+        }});
+    }
+   });
+  // Grab vehiclerubbertires on click end
+
   // Grab castiron on click start
   $("#castironbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3521,7 +3538,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->	 
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>O. VEHICLES SEMIFABRICATED PARTS (2)</b></span> <span id="ro"><b>O. PIEZAS SEMIFABRICADA PARA VEHICULOS (2)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>O. VEHICLES SEMIFABRICATED PARTS (3)</b></span> <span id="ro"><b>O. PIEZAS SEMIFABRICADA PARA VEHICULOS (3)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="bodybtn" ><span id="en">Body (1)</span><span id="ro">Carrocería (1)</span></h5>    
    <div id="body" class="categorypanel" >
    <!-- Load info start --> 
@@ -3560,8 +3577,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Brakes</span><span id="ro">Frenos</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" id="vehiclerubbertiresbtn" ><span id="en">Rubber Tires and Inner Tubes</span><span id="ro">Neumáticos y cámaras de caucho</span></h5>    
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="vehiclerubbertiresbtn" ><span id="en">Rubber Tires and Inner Tubes (1)</span><span id="ro">Neumáticos y cámaras de caucho (1)</span></h5>    
+   <div id="vehiclerubbertires" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" ><span id="en">Rims</span><span id="ro">Llantas</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Wheel covers</span><span id="ro">Tapacubos</span></h5>    
