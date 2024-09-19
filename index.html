@@ -165,6 +165,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab cannedplantbasedfood on click start
+  $("#cannedplantbasedfoodbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#cannedplantbasedfood").hasClass("clickedcannedplantbasedfood")) {
+        // already been clicked once, hide it
+        $("#cannedplantbasedfood").html("");
+        $( "#cannedplantbasedfood" ).removeClass( "clickedcannedplantbasedfood" )
+    }else {
+        // first time this is clicked, mark it
+        $("#cannedplantbasedfood").addClass("clickedcannedplantbasedfood");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/cannedplantbasedfood.txt?" + rand, success: function(result){
+         $("#cannedplantbasedfood").html(result);
+        }});
+    }
+   });
+  // Grab cannedplantbasedfood on click end
+
   // Grab vehiclerubbertires on click start
   $("#vehiclerubbertiresbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -4046,7 +4063,7 @@ $(document).ready(function () {
    </div>	 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (31)</b></span> <span id="ro"><b>V. ALIMENTOS PROCESADOS (31)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (33)</b></span> <span id="ro"><b>V. ALIMENTOS PROCESADOS (33)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Equipos de molienda de harina</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Máquinas de Envasado de Alimentos</span></h5> 
@@ -4127,8 +4144,11 @@ $(document).ready(function () {
    </div>	
   <h5 class="categoryaccordion"><span id="en">Cereals</span><span id="ro">Cereales</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" id="cannedplantbasedfoodbtn" ><span id="en">Canned Plant Based Food and Pickles</span><span id="ro">Conservas vegetales y encurtidos</span></h5>
-   <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="cannedplantbasedfoodbtn" ><span id="en">Canned Plant Based Food and Pickles (2)</span><span id="ro">Conservas vegetales y encurtidos (2)</span></h5>
+   <div id="cannedplantbasedfood" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>
   <h5 class="categoryaccordion" ><span id="en">Frozen Vegetables and Mushrooms Food</span><span id="ro">Verduras y setas congeladas</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Frozen Animal Origin Food</span><span id="ro">Alimentos congelados de origen animal</span></h5>    
