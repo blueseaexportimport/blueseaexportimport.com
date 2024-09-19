@@ -1,214 +1,69 @@
+<style>
 
-<tbody>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Romanian Zacuscă Olympia</span><span id="ro">Zacuscă Olympia</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>7.11 RON / 314ml 295g <span id="en">Zacuscă with mushrooms</span><span id="ro">Zacuscă cu ciuperci</span></td></tr>
-<tr><td>Formula 2</td><td>5.22 RON / 314ml 300g <span id="en">Zacuscă with beans</span><span id="ro">Zacuscă cu fasole</span></td></tr>
-<tr><td>Formula 3</td><td>5.15 RON / 314ml 300g <span id="en">Spicy zacuscă with eggplants</span><span id="ro">Zacuscă picantă cu vinete</span></td></tr>
-<tr><td>Formula 4</td><td>5.41 RON / 314ml 300g <span id="en">Zacuscă with eggplants</span><span id="ro">Zacuscă cu vinete</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP002</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Mashed beans Olympia</span><span id="ro">Fasole bătută Olympia</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>3.76 RON / 314ml 300g <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP003</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Vegetable stew Olympia</span><span id="ro">Tocană de legume Olympia</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>7.02 RON / 720ml 700g <span id="en">pcs - Vegetable stew in concentrated tomatoes sauce</span><span id="ro">buc - Ghiveci în bulion</span></td></tr>
-<tr><td>Formula 2</td><td>3.88 RON / 314ml 295g <span id="en">pcs - Vegetable stew</span><span id="ro">buc - Tocană de legume</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP004</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Baked beans Olympia</span><span id="ro">Mâncare de fasole Olympia</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>3.6 RON / 314ml 300g <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td>Formula 2</td><td>6.98 RON / 720ml 730g <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP005</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Romanian zarzavat for soups Olympia</span><span id="ro">Zarzavat pentru ciorbe Olympia</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>6.79 RON / 720ml 680g <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP006</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Gherkins pickles in vinegar calibre 3-6cm Olympia</span><span id="ro">Castraveți cornișon murați în oțet calibru 3-6cm Olympia</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>8.1 RON / 720ml 680g <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP007</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Sliced canned mushrooms Olympia</span><span id="ro">Ciuperci tăiate felii la cutie Olympia</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>5.85 RON / 400g <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP008</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Canned white beans in brine Olympia</span><span id="ro">Fasole albă în saramură Olympia</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>3.49 RON / 400 ml 400g <span id="en">pcs - large bean</span><span id="ro">buc - bob mare</span></td></tr>
-<tr><td>Formula 1</td><td>3.49 RON / 400 ml 400g <span id="en">pcs - small bean</span><span id="ro">buc - bob mic</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP009</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Borș juice Olympia</span><span id="ro">Borș Olympia</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>2.29 RON / 1L <span id="en">pcs - without lovage</span><span id="ro">buc - simplu fară leuștean</span></td></tr>
-<tr><td>Formula 2</td><td>2.51 RON / 400 ml 400g <span id="en">pcs - with lovage</span><span id="ro">buc - cu leuștean</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP010</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Vine leaf in brine Olympia</span><span id="ro">Foiță viță de vie în saramură la borcan Olympia</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>12.28 RON / 720ml 670g <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP011</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Kapia peppers in vinegar Olympia</span><span id="ro">Ardei capia copți în oțet Olympia</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>10.49 RON / 720ml 670g <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP012</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Gogosari peppers quarters slices in vinegar Olympia</span><span id="ro">Sferturi ardei gogoșari în oțet Olympia</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>7.09 RON / 720ml 600g <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP013</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Sliced yellow beans pods Olympia</span><span id="ro">Fasole galbenă la borcan Olympia</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>7.39 RON / 720ml 680g <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP014</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Sliced green beans pods Olympia</span><span id="ro">Fasole verde la borcan Olympia</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>7.39 RON / 720ml 680g <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP015</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Horseradish paste Olympia</span><span id="ro">Hrean de masă Olympia</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>4.86 RON / 190g <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP016</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Pickled hot peppers Olympia</span><span id="ro">Ardei iuți la borcan Olympia</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>9.54 RON / 330g <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP017</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Peas - glass jar Olympia</span><span id="ro">Mazăre la borcan Olympia</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>4.91 RON / 720ml 680g <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP018</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Canned peas Olympia</span><span id="ro">Mazăre la cutie Olympia</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>5.18 RON / 800ml 720g <span id="en">pcs</span><span id="ro">buc</span></td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP019</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Read beat - glass jar Olympia</span><span id="ro">Sfeclă roșie Olympia</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" >Romania</td></tr>
-<tr><td>Formula 1</td><td>6.92 RON / 720ml <span id="en">pcs - cubes</span><span id="ro">buc - cuburi</span></td></tr>
-<tr><td>Formula 2</td><td>6.92 RON / 720ml <span id="en">pcs - round slices</span><span id="ro">buc - rondele</td></tr>
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://contec.ro/" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">CANP020</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td>
-<td style="color:#39ff14;" ><span id="en">Sea cabbage ( kale algae ) - Baltijas zivis-97</span><span id="ro">Varză de mare ( Alge Kale ) - Baltijas zivis-97</span></td></tr>
-<tr><td><span id="en" >Place of origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Latvia</span><span id="ro">Letonia</span></td></tr>
-
-<tr><td>Formula 1</td><td>1.1 EUR / 0.25kg <span id="en">Sea cabbage in oil - Expiration 60days</span><span id="ro">Varză de mare în ulei  - Termen valabilitate 60zile</td></tr>
-<tr><td>Formula 2</td><td>1.1 EUR / 0.25kg <span id="en">Sea cabbage in mayonnaise - Expiration 60days</span><span id="ro">Varză de mare în maioneză  - Termen valabilitate 60zile</td></tr>
-<tr><td>Formula 3</td><td>1.1 EUR / 0.25kg <span id="en">Sea cabbage in mayonnaise with Korean carrots - Expiration 60days</span><span id="ro">Varză de mare în maioneză cu morcovi coreeni  - Termen valabilitate 60zile</td></tr>
-
-
-<tr><td><span id="en">Link to producer:</span><span id="ro">Link către producător:</span></td><td><a style="color:gold;" href="http://www.bz97.lv/en/products/all" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en">included</span><span id="ro">este inclus</span></td></tr>
-
-
-
-</tbody>
-
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
+.cannedplantbasedfoodslider{
+ width:100%;
 }
-});
-</script>
+.cannedplantbasedfoodslidernav{
+ text-align:center;
+ width:100%; 
+}
+.cannedplantbasedfoodslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
-<!--
-    <tr><td><span id="en">Cabbage leaves</span><span id="ro">Frunze varză pentru sarmale</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Gherkins pickles in salt brine</span><span id="ro">Castraveți cornișon murați în saramură</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Pickled slices of gherkins in salt brine</span><span id="ro">Felii Castraveți cornișon murați in saramura</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Pickled vegetables mix</span><span id="ro">Amestec legume murate</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Pickled watermelons</span><span id="ro">Pepeni roșii murați</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Sauerkraut</span><span id="ro">Varză murată</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Red cabbage sauerkraut</span><span id="ro">Varză roșie murată</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Grated horseradish in vinegar</span><span id="ro">Hrean ras în oțet</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Sauerkraut juice</span><span id="ro">Zeamă de varză murată</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Canned sweet corn</span><span id="ro">Porumb dulce în conservă</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Grated carrots</span><span id="ro">Morcovi rași</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Gogosari peppers in tomatoes sauce</span><span id="ro">Ardei gogoșari în sos tomate</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Pickled carrots</span><span id="ro">Morcovi murați</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Eggplant salad</span><span id="ro">Salată de vinete</span></td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Mushroom stew</span><span id="ro">Tocăniță de ciuperci</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Humus</span><span id="ro">Humus</span> </td><td>-</td><td>-</td></tr>
--->
+.cannedplantbasedfoodslides img {
+  max-width: 100%;
+  height: auto;
+}
+
+.cannedplantbasedfoodslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.cannedplantbasedfoodslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.cannedplantbasedfoodslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.cannedplantbasedfoodslidernav a:hover {background-color: gold;}
+.cannedplantbasedfoodslidernav a:active {background-color: gold;}
+.cannedplantbasedfoodslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="cannedplantbasedfoodslider">
+
+<div class="cannedplantbasedfoodslidernav" >
+  <a href="#cannedplantbasedfoodslide-1">1</a>
+  <a href="#cannedplantbasedfoodslide-2">2</a>
+</div>
+
+  <div class="bottledwaterslides">
+    <div class="fade" id="cannedplantbasedfoodsslide-1">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/cannedplantbasedfood.jpg" alt="canned plant based food products item1" /> 
+    </div>
+    <div class="fade" id="cannedplantbasedfoodsslide-2">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/cannedplantbasedfoodb.jpg" alt="canned plant based food products item2" /> 
+    </div>
+  </div><!-- cannedplantbasedfoodsSlides -->
+
+</div><!-- cannedplantbasedfoodsSlider -->
