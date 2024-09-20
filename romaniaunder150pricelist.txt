@@ -1,0 +1,7 @@
+<style>
+    .romaniaunder150pricelistslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="romaniaunder150pricelistslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/romanianpostprices.jpg" alt="romaniaunder150pricelist item1" /> 
+</div>
