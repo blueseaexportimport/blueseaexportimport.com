@@ -2896,8 +2896,57 @@ $(document).ready(function () {
    });
   // Grab soilerosionpreventionplantsdeciduous on click end	
 
+  // Grab shippinginforomanianpost on click start
+  $("#shippinginforomanianpostbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#shippinginforomanianpost").hasClass("clickedshippinginforomanianpost")) {
+        // already been clicked once, hide it
+        $("#shippinginforomanianpost").html("");
+        $( "#shippinginforomanianpost" ).removeClass( "clickedshippinginforomanianpost" )
+    }else {
+        // first time this is clicked, mark it
+        $("#shippinginforomanianpost").addClass("clickedshippinginforomanianpost");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/shippinginforomanianpost.txt?" + rand, success: function(result){
+         $("#shippinginforomanianpost").html(result);
+        }});
+    }
+   });
+  // Grab shippinginforomanianpost on click end
 	
-	
+  // Grab romaniaunder150pricelist on click start
+  $("#romaniaunder150pricelistbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#romaniaunder150pricelist").hasClass("clickedromaniaunder150pricelist")) {
+        // already been clicked once, hide it
+        $("#romaniaunder150pricelist").html("");
+        $( "#romaniaunder150pricelist" ).removeClass( "clickedromaniaunder150pricelist" )
+    }else {
+        // first time this is clicked, mark it
+        $("#romaniaunder150pricelist").addClass("clickedromaniaunder150pricelist");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/romaniaunder150pricelist.txt?" + rand, success: function(result){
+         $("#romaniaunder150pricelist").html(result);
+        }});
+    }
+   });
+  // Grab romaniaunder150pricelist on click end
+
+  // Grab over150info on click start
+  $("#over150infobtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#over150info").hasClass("clickedover150info")) {
+        // already been clicked once, hide it
+        $("#over150info").html("");
+        $( "#over150info" ).removeClass( "clickedover150info" )
+    }else {
+        // first time this is clicked, mark it
+        $("#over150info").addClass("clickedover150info");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/over150info.txt?" + rand, success: function(result){
+         $("#over150info").html(result);
+        }});
+    }
+   });
+  // Grab over150info on click end
+
 	
 });
 </script>
@@ -2936,16 +2985,34 @@ $(document).ready(function () {
 	
 <ul class="nav" >
   
-  
-
-
-<li style="font-weight:bold !important;" ><button style="background:#151fba;color:#FFF;text-transform:uppercase;font-weight:bold;" class="catalogaccordion" id="buyprocedurebtn" ><span id="en">+ Guide - How to buy products from our catalog </span><span id="ro">+ Guía - Cómo comprar productos de nuestro catálogo</span></button><div class="catalogpanel">
-<div>	   
+<li style="font-weight:bold !important;" ><button style="background:#151fba;color:#FFF;text-transform:uppercase;font-weight:bold;" class="catalogaccordion" id="buyprocedurebtn" ><span id="en">+ Guide - How to buy products from our catalog </span><span id="ro">+ Guía - Cómo comprar productos de nuestro catálogo</span></button>
+<div class="catalogpanel">	   
    <div id="buyprocedure" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
 </div></li><!--END SECTION-->
+
+<li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>+ NON PERISHABLE SAMPLES ( under $150 ) </b></span> <span id="ro"><b>+ MUESTRAS NO PERECEDEROS (menos de $150)</b></span></button><div class="catalogpanel">	
+   <h5 class="categoryaccordion" id="shippinginforomanianpostbtn" ><span id="en">Shipping Info ( Romanian Post )</span><span id="ro">Información de envío ( Correo de Rumania )</span></h5>  
+   <div id="shippinginforomanianpost" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>
+   <h5 class="categoryaccordion" id="romaniaunder150pricelistbtn" ><span id="en">Route: Romania - Worldwide ( Price List )</span><span id="ro">Ruta: Rumania - Todo el mundo( Lista de precios )</span></h5>  
+   <div id="romaniaunder150pricelist" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>
+</div></li><!--END SECTION-->
+<li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>+ PERISHABLE PRODUCTS AND PARCERS OVER $150</b></span> <span id="ro"><b>+ PRODUCTOS PERECEDEROS Y ENVASADORES SUPERIORES A $150</b></span></button><div class="catalogpanel">		   
+   <div id="over150info" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
+</div></li><!--END SECTION-->
+
+
 	
    <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>0. NET ZERO EMISSIONS / TERRAFORMING (0)</b></span> <span id="ro"><b>0. EMISIONES NETAS CERO / TERRAFORMACIÓN (0)</b></span></button><div class="catalogpanel">	
    <h5 class="categoryaccordion" id="gascapturebtn" ><span id="en">Gas capture</span><span id="ro">Captura de gas</span></h5>  
