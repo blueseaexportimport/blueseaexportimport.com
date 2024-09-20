@@ -1,0 +1,7 @@
+<style>
+    .shippinginforomanianpostslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="shippinginforomanianpostslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/lowvaluepackageshippingprocedure.jpg" alt="shipping info romania post item1" /> 
+</div>
