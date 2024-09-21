@@ -165,6 +165,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab woodforbuilding on click start
+  $("#woodforbuildingbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#woodforbuilding").hasClass("clickedwoodforbuilding")) {
+        // already been clicked once, hide it
+        $("#woodforbuilding").html("");
+        $( "#woodforbuilding" ).removeClass( "clickedwoodforbuilding" )
+    }else {
+        // first time this is clicked, mark it
+        $("#woodforbuilding").addClass("clickedwoodforbuilding");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/woodforbuilding.txt?" + rand, success: function(result){
+         $("#woodforbuilding").html(result);
+        }});
+    }
+   });
+  // Grab woodforbuilding on click end
+
   // Grab cannedplantbasedfood on click start
   $("#cannedplantbasedfoodbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3675,7 +3692,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 	   	   
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>P. CONSTRUCTION MATERIALS (7)</b></span> <span id="ro"><b>P. MATERIALES DE CONSTRUCCIÓN (7)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>P. CONSTRUCTION MATERIALS (8)</b></span> <span id="ro"><b>P. MATERIALES DE CONSTRUCCIÓN (8)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" ><span id="en">Construction machinery</span><span id="ro">Utilaje construcții</span></h5> 
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="aggregatesbtn" ><span id="en">Construction Aggregates (1)</span><span id="ro">Áridos para la construcción (1)</span></h5> 
@@ -3703,8 +3720,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en"> additives</span><span id="ro">Aditivos del hormigón</span></h5>    
    <div class="rowbin" >-</div> 	
-   <h5 class="categoryaccordion" ><span id="en">Wood for building and composite wood based materials</span><span id="ro">Madera para la construcción y materiales compuestos a base de madera</span></h5>    
-   <div class="rowbin" >-</div>
+   <h5 class="categoryaccordion" id="woodforbuildingbtn" ><span id="en">Wood for building and composite wood based materials (1)</span><span id="ro">Madera para la construcción y materiales compuestos a base de madera (1)</span></h5>    
+   <div id="woodforbuilding" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" ><span id="en"> formwork</span><span id="ro">Encofrado de hormigón</span></h5>    
    <div class="rowbin" >-</div> 
    <h5 class="categoryaccordion" id="concretebtn" ><span id="en">Concrete (1)</span><span id="ro">Hormigón (1)</span></h5> 
