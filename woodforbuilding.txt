@@ -1,14 +1,7 @@
+<style>
+    .woodforbuildingslidediv img{ width:100%; height:auto;}
+</style> 
 
-       <tr><td>Oak Dimensional Timber</td><td>Model A 4000 mm x 300mm x 10mm Kiln Dried Treaded</td><td>-</td></tr>
-       <tr><td>Oak Dimensional Treaded Beam</td><td>Model A 4000 mm x 300mm x 300mm Kiln Dried Treaded</td><td>-</td></tr>
-       <tr><td>Oak Dimensional Treaded Lath</td><td>Model A 4000 mm x 10mm x 30mm Kiln Dried Treaded</td><td>-</td></tr>
-       <tr><td>Sawdust</td><td>Model A 4000 mm x 10mm x 30mm Kiln Dried Treaded</td><td>-</td></tr>
-       <tr><td>Beech wood briquettes</td><td>20kg bag</td><td>-</td></tr>  
-       <tr><td>Beech wood pellets</td><td>20kg bag</td><td>-</td></tr>
-       <tr><td>OSB Board</td><td>4000 mm x 3000mm x 10mm</td><td>-</td></tr>
-       <tr><td>Tego Board</td><td>4000 mm x 3000mm x 10mm</td><td>-</td></tr>
-       <tr><td>PAL Board</td><td>4000 mm x 3000mm x 10mm</td><td>-</td></tr>   
-       <tr><td>MDF Board</td><td>4000 mm x 3000mm x 10mm</td><td>-</td></tr>
-       <tr><td>HDF Board</td><td>4000 mm x 3000mm x 10mm</td><td>-</td></tr>  
-       <tr><td>TFL Board</td><td>4000 mm x 3000mm x 10mm</td><td>-</td></tr>  
-       <tr><td>Laminate</td><td>4000 mm x 3000mm x 10mm</td><td>-</td></tr>
+<div class="woodforbuildingslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/woodforbuilding.jpg" alt="wood for building item1" /> 
+</div>
