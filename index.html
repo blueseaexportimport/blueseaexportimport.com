@@ -165,6 +165,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab cardboard on click start
+  $("#cardboardbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#cardboard").hasClass("clickedcardboard")) {
+        // already been clicked once, hide it
+        $("#cardboard").html("");
+        $( "#cardboard" ).removeClass( "clickedcardboard" )
+    }else {
+        // first time this is clicked, mark it
+        $("#cardboard").addClass("clickedcardboard");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/cardboard.txt?" + rand, success: function(result){
+         $("#cardboard").html(result);
+        }});
+    }
+   });
+  // Grab cardboard on click end
+	
   // Grab woodforbuilding on click start
   $("#woodforbuildingbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3308,14 +3325,17 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>      	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>H. PAPER AND CARDBOARD (1)</b></span><span id="ro"><b>H. PAPEL Y CARTÓN (1)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>H. PAPER AND CARDBOARD (2)</b></span><span id="ro"><b>H. PAPEL Y CARTÓN (2)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="cellulosebtn" ><span id="en">Cellulose and bulk paper (1)</span><span id="ro">Celulosa y papel a granel (1)</span></h5>    	
    <div id="cellulose" class="categorypanel" >
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>		
-  <h5 class="categoryaccordion" ><span id="en">Cardboard</span><span id="ro">Cartón</span></h5>    
-  <div class="rowbin" >-</div> 	  
+  <h5 class="categoryaccordion" id="cardboardbtn" ><span id="en">Cardboard (1)</span><span id="ro">Cartón (1)</span></h5>    
+   <div id="cardboard" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 
   </div></li><!--END SECTION-->
 
    <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (15)</b></span> <span id="ro"><b>I. MINERALES Y METALURGIA (15)</b></span></button><div class="catalogpanel">    
