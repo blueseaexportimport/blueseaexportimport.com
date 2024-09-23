@@ -1,22 +1,7 @@
-<tbody>
+<style>
+    .cardboardslidediv img{ width:100%; height:auto;}
+</style> 
 
-
-Corrugated board single face, flute A - color natural type II (CO2)
-Corrugated board single face, flute C - color natural type II (CO2)
-Corrugated board single face, flute B - color natural type II (CO2)
-Corrugated board single face, flute E - color natural type II (CO2)
-
-Corrugated board double wall, flute AA - color natural type III (CO3)
-Corrugated board double wall, flute CA - color natural type III (CO3)
-Corrugated board double wall, flute BA - color natural type III (CO3)
-Corrugated board double wall, flute BC - color natural type III (CO3)
-Corrugated board double wall, flute EA - color natural type III (CO3)
-Corrugated board double wall, flute EC - color natural type III (CO3)
-Corrugated board double wall, flute EB - color natural type III (CO3)
-
-Corrugated board triple wall, flute AAA - color natural type VII (CO7)
-Corrugated board triple wall, flute ACA - color natural type VII (CO7)
-Corrugated board triple wall, flute BCA - color natural type VII (CO7)
-
-
-
+<div class="cardboardslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/cardboard.jpg" alt="cardboard item1" /> 
+</div>
