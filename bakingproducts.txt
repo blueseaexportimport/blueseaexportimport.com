@@ -1,17 +1,7 @@
-   <tr><td><span id="en">Hamburger Bun</span><span id="ro">Chiflă Hamburger</span> </td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Hot Dog Bun</span><span id="ro">Chiflă Hot Dog</span> </td><td>-</td><td>-</td></tr>
-   <tr><td><span id="en">Kebab / Oriental Bread</span><span id="ro">Lipie Kebab / Shaormă</span> </td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Home Bread</span><span id="ro">Pâine de casă</span> </td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Peasent Bread</span><span id="ro">Pâine Țărănească</span> </td><td>-</td><td>-</td></tr>
-   <tr><td><span id="en">Bread with potatoes</span><span id="ro">Pâine cu cartofi</span> </td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Jariștea  Bread</span><span id="ro">Pâine Jariștea</span> </td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Sliced Toast Bread</span><span id="ro">Pâine feliată și toast</span> </td><td>-</td><td>-</td></tr>
-   <tr><td><span id="en">Transylvanian Bread</span><span id="ro">Pâine Ardelenească</span> </td><td>-</td><td>-</td></tr>
-   <tr><td><span id="en">Dark Bread</span><span id="ro">Pâine neagră</span> </td><td>-</td><td>-</td></tr>
-   <tr><td><span id="en">Loaf Bread / White Bread</span><span id="ro">Franzelă albă</span> </td><td>-</td><td>-</td></tr> 
-   <tr><td><span id="en">Graham Bread</span><span id="ro">Pâine Graham</span> </td><td>-</td><td>-</td></tr>
-   <tr><td><span id="en">Bread with seeds</span><span id="ro">Pâine cu semințe</span> </td><td>-</td><td>-</td></tr>
-   <tr><td><span id="en">Rye Bread</span><span id="ro">Pâine de secară</span> </td><td>-</td><td>-</td></tr>
-   <tr><td><span id="en">Round / Cob Bread</span><span id="ro">Pâine rotundă</span> </td><td>-</td><td>-</td></tr>
-   <tr><td><span id="en">Baguette</span><span id="ro">Baghetă franțuzească </span> </td><td>-</td><td>-</td></tr>
-   <tr><td><span id="en">Braided bread</span><span id="ro">Pâine împletită</span> </td><td>-</td><td>-</td></tr> 
+<style>
+    .bakingproductsslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="bakingproductsslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/bakingproducts.jpg" alt="baking products item1" /> 
+</div>
