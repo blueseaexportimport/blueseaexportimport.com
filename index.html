@@ -165,6 +165,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab bakingproducts on click start
+  $("#bakingproductsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#bakingproducts").hasClass("clickedbakingproducts")) {
+        // already been clicked once, hide it
+        $("#bakingproducts").html("");
+        $( "#bakingproducts" ).removeClass( "clickedbakingproducts" )
+    }else {
+        // first time this is clicked, mark it
+        $("#bakingproducts").addClass("clickedbakingproducts");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/bakingproducts.txt?" + rand, success: function(result){
+         $("#bakingproducts").html(result);
+        }});
+    }
+   });
+  // Grab bakingproducts on click end
+	
   // Grab cardboard on click start
   $("#cardboardbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -4171,7 +4188,7 @@ $(document).ready(function () {
    </div>	 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (33)</b></span> <span id="ro"><b>V. ALIMENTOS PROCESADOS (33)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (34)</b></span> <span id="ro"><b>V. ALIMENTOS PROCESADOS (34)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Equipos de molienda de harina</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Máquinas de Envasado de Alimentos</span></h5> 
@@ -4261,8 +4278,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Frozen Animal Origin Food</span><span id="ro">Alimentos congelados de origen animal</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Baking Products</span><span id="ro">Productos de panadería</span></h5>   
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="bakingproductsbtn" ><span id="en">Baking Products (1)</span><span id="ro">Productos de panadería (1)</span></h5>   
+   <div id="bakingproducts" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>
   <h5 class="categoryaccordion" ><span id="en">Holidays Baking Products</span><span id="ro">Productos de pastelería navideños</span></h5>   
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" id="cannedbabyandseniorfoodbtn" ><span id="en">Canned Baby and Senior Food (1)</span><span id="ro">Conservas para bebés y personas mayores (1)</span></h5>
