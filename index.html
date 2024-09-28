@@ -165,6 +165,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab alloysmetalcasting on click start
+  $("#alloysmetalcastingbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#alloysmetalcasting").hasClass("clickedalloysmetalcasting")) {
+        // already been clicked once, hide it
+        $("#alloysmetalcasting").html("");
+        $( "#alloysmetalcasting" ).removeClass( "clickedalloysmetalcasting" )
+    }else {
+        // first time this is clicked, mark it
+        $("#alloysmetalcasting").addClass("clickedalloysmetalcasting");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/alloysmetalcasting.txt?" + rand, success: function(result){
+         $("#alloysmetalcasting").html(result);
+        }});
+    }
+   });
+  // Grab alloysmetalcasting on click end
+
   // Grab mechanicaltransmissionproducts on click start
   $("#mechanicaltransmissionproductsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3374,7 +3391,7 @@ $(document).ready(function () {
    </div>	 
   </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (15)</b></span> <span id="ro"><b>I. MINERALES Y METALURGIA (15)</b></span></button><div class="catalogpanel">    
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (16)</b></span> <span id="ro"><b>I. MINERALES Y METALURGIA (16)</b></span></button><div class="catalogpanel">    
    <h5 class="categoryaccordion" id="mineraloresbtn" ><span id="en">Minerals - ores (1)</span><span id="ro">Minerales (1)</span></h5>    	
    <div id="mineralores" class="categorypanel" >
    <!-- Load info start --> 
@@ -3456,8 +3473,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-   <h5 class="categoryaccordion" id="alloysmetalcastingbtn" ><span id="en">Alloys - metal casting</span><span id="ro">Aleaciones - fundición de metal</span></h5>    	
-   <div class="rowbin" >-</div> 
+   <h5 class="categoryaccordion" id="alloysmetalcastingbtn" ><span id="en">Alloys - metal casting (1)</span><span id="ro">Aleaciones - fundición de metal (1)</span></h5>    	
+   <div id="alloysmetalcasting" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>
    <h5 class="categoryaccordion" id="weldingalloysbtn" ><span id="en">Alloys - welding and soldering</span><span id="ro">Aleaciones - soldadura</span></h5>    
    <div class="rowbin" >-</div>     
    <h5 class="categoryaccordion" id="foundryconsumablesbtn" ><span id="en">Metallurgy consumables</span><span id="ro">Consumibles metalúrgicos</span></h5>    	
