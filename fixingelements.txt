@@ -50,7 +50,7 @@
 
 </style>
 
-<div class="bottledwaterslider">
+<div class="fixingelementsslider">
 
 <div class="fixingelementsslidernav" >
   <a href="#fixingelementsslide-1">1</a>
