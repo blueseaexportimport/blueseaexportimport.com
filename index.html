@@ -165,6 +165,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab toolsandmeasuringinstruments on click start
+  $("#toolsandmeasuringinstrumentsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#toolsandmeasuringinstruments").hasClass("clickedtoolsandmeasuringinstruments")) {
+        // already been clicked once, hide it
+        $("#toolsandmeasuringinstruments").html("");
+        $( "#toolsandmeasuringinstruments" ).removeClass( "clickedtoolsandmeasuringinstruments" )
+    }else {
+        // first time this is clicked, mark it
+        $("#toolsandmeasuringinstruments").addClass("clickedtoolsandmeasuringinstruments");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/toolsandmeasuringinstruments.txt?" + rand, success: function(result){
+         $("#toolsandmeasuringinstruments").html(result);
+        }});
+    }
+   });
+  // Grab toolsandmeasuringinstruments on click end
+
   // Grab alloysmetalcasting on click start
   $("#alloysmetalcastingbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3667,9 +3684,12 @@ $(document).ready(function () {
   <div class="rowbin" >-</div>
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>N. TECHNICAL, CONSUMABLES AND TOOLS  (8)</b></span> <span id="ro"><b>N. TÉCNICOS, CONSUMIBLES Y HERRAMIENTAS (8)</b></span></button><div class="catalogpanel">
-  <h5 class="categoryaccordion" ><span id="en">Tools And Measuring Instruments</span><span id="ro">Herramientas e instrumentos de medición</span></h5>   
-  <div class="rowbin" >-</div> 	
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>N. TECHNICAL, CONSUMABLES AND TOOLS  (10)</b></span> <span id="ro"><b>N. TÉCNICOS, CONSUMIBLES Y HERRAMIENTAS (10)</b></span></button><div class="catalogpanel">
+  <h5 class="categoryaccordion" id="toolsandmeasuringinstrumentsbtn" ><span id="en">Tools And Measuring Instruments (2)</span><span id="ro">Herramientas e instrumentos de medición (2)</span></h5>   
+   <div id="toolsandmeasuringinstruments" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div> 	
   <h5 class="categoryaccordion" ><span id="en">Power Tools Consumables</span><span id="ro">Consumibles para herramientas eléctricas</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" id="tehnicaltapesbtn" ><span id="en">Tehnical Tapes (1)</span><span id="ro">Cintas técnicas (1)</span></h5>    
