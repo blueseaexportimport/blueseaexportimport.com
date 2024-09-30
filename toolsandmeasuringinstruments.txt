@@ -1,3 +1,74 @@
+<style>
+
+.toolsandmeasuringinstrumentsslider{
+ width:100%;
+}
+.toolsandmeasuringinstrumentsslidernav{
+ text-align:center;
+ width:100%; 
+}
+.toolsandmeasuringinstrumentsslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
+
+.toolsandmeasuringinstrumentsslides img {
+  max-width: 100%;
+  height: auto;
+}
+
+.toolsandmeasuringinstrumentsslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.toolsandmeasuringinstrumentsslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.toolsandmeasuringinstrumentsslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.toolsandmeasuringinstrumentsslidernav a:hover {background-color: gold;}
+.toolsandmeasuringinstrumentsslidernav a:active {background-color: gold;}
+.toolsandmeasuringinstrumentsslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="toolsandmeasuringinstrumentsslider">
+
+<div class="toolsandmeasuringinstrumentsslidernav" >
+  <a href="#toolsandmeasuringinstrumentsslide-1">1</a>
+  <a href="#toolsandmeasuringinstrumentsslide-2">2</a>
+</div>
+
+  <div class="toolsandmeasuringinstrumentsslides">
+    <div class="fade" id="toolsandmeasuringinstrumentsslide-1">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/tools.jpg" alt="tools and measuring instruments products item1" /> 
+    </div>
+    <div class="fade" id="toolsandmeasuringinstrumentsslide-2">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/toolsb.jpg" alt="tools and measuring instruments products item2" /> 
+    </div>
+  </div><!-- toolsandmeasuringinstrumentsSlides -->
+
+</div><!-- toolsandmeasuringinstrumentsSlider -->
+
+<!---
        <tr><td><span id="en">Construction carpenter tool xyz</span><span id="ro">Scule dulgher xyz </span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Painter tool xyz</span><span id="ro">Scule zugrav xyz </span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Tiler tool xyz</span><span id="ro">Scule mozaicar-faianțar xyz </span> </td><td>- </td><td>-</td></tr>
@@ -14,15 +85,15 @@
        <tr><td><span id="en">Machinist CNC tool xyz</span><span id="ro">Scule strungar-frezor CNC xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Plumbers tool xyz</span><span id="ro">Scule instalator instalații sanitare xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Gardening and farming tool xyz</span><span id="ro">Scule fermier-gradinar xyz</span> </td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">Jeweler tool xyz</span><span id="ro">Scule bijutier xyz</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Stone setter tool xyz</span><span id="ro">Scule bijutier xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Watchmaker tool xyz</span><span id="ro">Scule ceasornicar xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Lapidary tool xyz</span><span id="ro">Scule șlefuitor pietre prețioase xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Leatherworkers tool xyz</span><span id="ro">Scule pielar-cizmar xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Artistic Painting and sculpting tool xyz</span><span id="ro">Scule pictor-sculptor xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Haberdashery tool xyz</span><span id="ro">Scule mercerie xyz</span> </td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">Sewing and knitting tool xyz</span><span id="ro">Scule croitori și tricotaj xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Glassmaker tool xyz</span><span id="ro">Scule sticlar xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Cooper tool xyz</span><span id="ro">Scule dogar xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Pottery tool xyz</span><span id="ro">Scule olar xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Blacksmith tool xyz</span><span id="ro">Scule fierar-potcovar xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Foundry-smelter tool xyz</span><span id="ro">Scule turnător-topitor xyz</span> </td><td>- </td><td>-</td></tr>
+--->
