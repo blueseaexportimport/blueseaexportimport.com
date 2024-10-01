@@ -55,6 +55,7 @@
 <div class="toolsandmeasuringinstrumentsslidernav" >
   <a href="#toolsandmeasuringinstrumentsslide-1">1</a>
   <a href="#toolsandmeasuringinstrumentsslide-2">2</a>
+  <a href="#toolsandmeasuringinstrumentsslide-3">3</a>
 </div>
 
   <div class="toolsandmeasuringinstrumentsslides">
@@ -63,6 +64,9 @@
     </div>
     <div class="fade" id="toolsandmeasuringinstrumentsslide-2">
       <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/toolsb.jpg" alt="tools and measuring instruments products item2" /> 
+    </div>
+    <div class="fade" id="toolsandmeasuringinstrumentsslide-3">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/toolsc.jpg" alt="tools and measuring instruments products item3" /> 
     </div>
   </div><!-- toolsandmeasuringinstrumentsSlides -->
 
@@ -85,7 +89,6 @@
        <tr><td><span id="en">Machinist CNC tool xyz</span><span id="ro">Scule strungar-frezor CNC xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Plumbers tool xyz</span><span id="ro">Scule instalator instalații sanitare xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Gardening and farming tool xyz</span><span id="ro">Scule fermier-gradinar xyz</span> </td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">Stone setter tool xyz</span><span id="ro">Scule bijutier xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Watchmaker tool xyz</span><span id="ro">Scule ceasornicar xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Lapidary tool xyz</span><span id="ro">Scule șlefuitor pietre prețioase xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Leatherworkers tool xyz</span><span id="ro">Scule pielar-cizmar xyz</span> </td><td>- </td><td>-</td></tr>
