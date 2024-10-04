@@ -73,30 +73,36 @@
 </div><!-- toolsandmeasuringinstrumentsSlider -->
 
 <!---
+       <tr><td><span id="en">Watchmaker tool xyz</span><span id="ro">Scule ceasornicar xyz</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Leatherworkers tool xyz</span><span id="ro">Scule pielar-cizmar xyz</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Cooper tool xyz</span><span id="ro">Scule dogar xyz</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Pottery tool xyz</span><span id="ro">Scule olar xyz</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Artistic Painting and sculpting tool xyz</span><span id="ro">Scule pictor-sculptor xyz</span> </td><td>- </td><td>-</td></tr>
+
+       <tr><td><span id="en">Motor winder tool xyz</span><span id="ro">Scule bobinator xyz</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Mechanics tool xyz</span><span id="ro">Scule lăcătușerie xyz</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Garage workshop tool xyz</span><span id="ro">Scule mecanic-vulcanizare xyz</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Electricians tool xyz</span><span id="ro">Scule electrician xyz</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Electronics tool xyz</span><span id="ro">Scule electronist xyz</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">IT technicians xyz</span><span id="ro">Scule tehnician IT xyz</span> </td><td>- </td><td>-</td></tr>
+
        <tr><td><span id="en">Construction carpenter tool xyz</span><span id="ro">Scule dulgher xyz </span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Painter tool xyz</span><span id="ro">Scule zugrav xyz </span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Tiler tool xyz</span><span id="ro">Scule mozaicar-faianțar xyz </span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Masons tool xyz</span><span id="ro">Scule zidar xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Rebar ironworker tool xyz</span><span id="ro">Scule fierar-betonist xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Carpenters tool xyz</span><span id="ro">Scule tâmplar xyz</span> </td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">Electricians tool xyz</span><span id="ro">Scule electrician xyz</span> </td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">Electronics tool xyz</span><span id="ro">Scule electronist xyz</span> </td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">IT technicians xyz</span><span id="ro">Scule tehnician IT xyz</span> </td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">Motor winder tool xyz</span><span id="ro">Scule bobinator xyz</span> </td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">Garage workshop tool xyz</span><span id="ro">Scule mecanic-vulcanizare xyz</span> </td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">Mechanics tool xyz</span><span id="ro">Scule lăcătușerie xyz</span> </td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">Welding tool xyz</span><span id="ro">Scule sudură xyz</span> </td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">Machinist CNC tool xyz</span><span id="ro">Scule strungar-frezor CNC xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Plumbers tool xyz</span><span id="ro">Scule instalator instalații sanitare xyz</span> </td><td>- </td><td>-</td></tr>
+
        <tr><td><span id="en">Gardening and farming tool xyz</span><span id="ro">Scule fermier-gradinar xyz</span> </td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">Watchmaker tool xyz</span><span id="ro">Scule ceasornicar xyz</span> </td><td>- </td><td>-</td></tr>
+
+
        <tr><td><span id="en">Lapidary tool xyz</span><span id="ro">Scule șlefuitor pietre prețioase xyz</span> </td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">Leatherworkers tool xyz</span><span id="ro">Scule pielar-cizmar xyz</span> </td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">Artistic Painting and sculpting tool xyz</span><span id="ro">Scule pictor-sculptor xyz</span> </td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">Haberdashery tool xyz</span><span id="ro">Scule mercerie xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Glassmaker tool xyz</span><span id="ro">Scule sticlar xyz</span> </td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">Cooper tool xyz</span><span id="ro">Scule dogar xyz</span> </td><td>- </td><td>-</td></tr>
-       <tr><td><span id="en">Pottery tool xyz</span><span id="ro">Scule olar xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Blacksmith tool xyz</span><span id="ro">Scule fierar-potcovar xyz</span> </td><td>- </td><td>-</td></tr>
        <tr><td><span id="en">Foundry-smelter tool xyz</span><span id="ro">Scule turnător-topitor xyz</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Welding tool xyz</span><span id="ro">Scule sudură xyz</span> </td><td>- </td><td>-</td></tr>
+       <tr><td><span id="en">Machinist CNC tool xyz</span><span id="ro">Scule strungar-frezor CNC xyz</span> </td><td>- </td><td>-</td></tr>
+
+
 --->
