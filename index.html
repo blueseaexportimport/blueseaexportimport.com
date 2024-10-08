@@ -165,6 +165,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab catdogfood on click start
+  $("#catdogfoodbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#catdogfood").hasClass("clickedcatdogfood")) {
+        // already been clicked once, hide it
+        $("#catdogfood").html("");
+        $( "#catdogfood" ).removeClass( "clickedcatdogfood" )
+    }else {
+        // first time this is clicked, mark it
+        $("#catdogfood").addClass("clickedcatdogfood");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catdogfood.txt?" + rand, success: function(result){
+         $("#catdogfood").html(result);
+        }});
+    }
+   });
+  // Grab catdogfood on click end
+
   // Grab toolsandmeasuringinstruments on click start
   $("#toolsandmeasuringinstrumentsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -4080,7 +4097,7 @@ $(document).ready(function () {
    </div>	
   </div></li><!--END SECTION-->
 	   
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>T. DOMESTIC ANIMALS FEED (3)</b></span><span id="ro"><b>T. ALIMENTACIÓN PARA ANIMALES DOMÉSTICOS (3)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>T. DOMESTIC ANIMALS FEED (4)</b></span><span id="ro"><b>T. ALIMENTACIÓN PARA ANIMALES DOMÉSTICOS (4)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Combined and concentrated feed factory</span><span id="ro">Fábrica de piensos combinados y concentrados</span></h5>    	
   <div class="rowbin" >-</div> 
   <h5 class="categoryaccordion" ><span id="en">Pet food factory</span><span id="ro">Fábrica de alimentos para mascotas</span></h5>    	
@@ -4101,10 +4118,11 @@ $(document).ready(function () {
    </div>	
   <h5 class="categoryaccordion" ><span id="en">Ornamental fish food</span><span id="ro">Comida para peces ornamentales</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Dog food</span><span id="ro">Comida para perros</span></h5>    
-  <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Cat food</span><span id="ro">Comida para gatos</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="catdogfoodbtn" ><span id="en">Cat and dog food (1)</span><span id="ro">Comida para perros y gatos (1)</span></h5>    
+   <div id="catdogfood" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   </div></li><!--END SECTION-->
 
   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>U. NON PROCESSED FOOD (45)</b></span><span id="ro"><b>U. ALIMENTOS NO PROCESADOS (45)</b></span></button><div class="catalogpanel">
