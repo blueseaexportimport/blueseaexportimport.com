@@ -1,0 +1,7 @@
+<style>
+    .catdogfoodslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="catdogfoodslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/catdogfood.jpg" alt="cat dog food item1" /> 
+</div>
