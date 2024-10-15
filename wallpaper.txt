@@ -1,4 +1,7 @@
+<style>
+    .wallpaperslidediv img{ width:100%; height:auto;}
+</style> 
 
-    <tr><td><span id="en" >Wallpaper</span><span id="ro">Tapet</span></td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en" >Photo wallpaper</span><span id="ro">Tapet foto</span></td><td>-</td><td>-</td></tr>   
-    <tr><td><span id="en" >Nature wallpaper</span><span id="ro">Tapet natură</span></td><td>-</td><td>-</td></tr>
+<div class="wallpaperslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/wallpaper.jpg" alt="wallpaper item1" /> 
+</div>
