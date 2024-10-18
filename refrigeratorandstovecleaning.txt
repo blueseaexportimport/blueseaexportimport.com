@@ -1,11 +1,7 @@
-<tbody>
+<style>
+    .refrigeratorandstovecleaningslidediv img{ width:100%; height:auto;}
+</style> 
 
-<tr><td><span id="en">Spray Oven 435Ml</span><span id="ro">Soluție curățat cuptoare</span></td>
-<tr><td><span id="en">Spray "Kitchen surfaces" 500Ml</span><span id="ro">Spray Bucatarie 500Ml</span></td>
-<tr><td><span id="en">Spray Kitchen Degreaser 750Ml</span><span id="ro">Spray Degresant bucatarie 750Ml</span></td>
-      <tr><td><span id="en">Stove / grill cleaning solution</span><span id="ro">Soluție aragaz / grătare</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Cooling system cleaning solution</span><span id="ro">Soluție curățat sistem răcire</span></td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Refrigerator freshener</span><span id="ro">Odorizant frigider</span></td><td>-</td><td>-</td></tr>  
-       <tr><td><span id="en">Coffee maker anti-limescale solution</span><span id="ro">Soluție anticalcar cafetieră</span> </td><td>-</td><td>-</td></tr>
-
-</tbody>
+<div class="refrigeratorandstovecleaningslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/refrigeratorandstovecleaning.jpg" alt="refrigerator and stove cleaning item1" /> 
+</div>
