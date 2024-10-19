@@ -36,6 +36,6 @@
         <label for="message" class="col-4 col-form-label">Additional info</label><br>
         <textarea id="message" name="message" cols="40" rows="10" required="required" ></textarea>
         </div><br>
-        <input type="button" name="submit" value="Send" />
+        <input type="submit" name="submit" value="Send" />
 </form> 
 </div>
