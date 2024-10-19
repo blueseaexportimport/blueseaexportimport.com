@@ -6,6 +6,14 @@
   border:3px solid #151fba;
   font-size:19px;
 }
+
+input[type=submit]{
+  display:block;
+  padding:3%
+  background-color:#151fba;
+  color:#fff;
+  font-size:19px;
+}
     .contactslidediv { width:100%; padding:3%; height:auto;}
 
 </style>
@@ -16,23 +24,23 @@
     <span id="en">BLUE SEA EXPORT IMPORT S.R.L. is located in Romania.</span><span id="ro" >BLUE SEA EXPORT IMPORT S.R.L. tiene su sede en Rumanía.</span><br>
     <span id="en">If you don't have access to internet, use free public wifi hotspots.</span><span id="ro" >Si no tienes acceso a Internet, utiliza los puntos de acceso wifi públicos gratuitos.</span><br><br>
   
-       <div clsss="inputtxt" >
+       <div class="inputtxt" >
         <label for="name" ><span id="en">Full Name</span><span id="ro" >Nombre completo</span></label><br>
         <input id="name" name="name" type="text" required="required" >
         </div><br>
-        <div clsss="inputtxt" >
+        <div class="inputtxt" >
         <label for="name" ><span id="en">Your Whatsapp Number</span><span id="ro" >Tu número de Whatsapp</span></label><br>
         <input id="whatsapp" name="phone" type="text" required="required" >
         </div><br>
-        <div clsss="inputtxt" > 
+        <div class="inputtxt" > 
         <label for="name" ><span id="en">Company Name</span><span id="ro" >Nombre de la empresa</span></label><br>
         <input id="companyname" name="companyname" type="text" required="required" >
         </div><br>
-        <div clsss="inputtxt" >
+        <div class="inputtxt" >
         <label for="name" ><span id="en">Your Company E-Mail</span><span id="ro" >E-mail de su empresa</span> ( e.g. joe@companyname.com )</label><br>
         <input id="email" name="email" type="text" required="required" >
         </div><br>
-        <div clsss="inputtxt" >
+        <div class="inputtxt" >
         <label for="message" class="col-4 col-form-label"><span id="en">Additional info</span><span id="ro" >Información adicional</span></label><br>
         <textarea id="message" name="message" cols="40" rows="10" required="required" ></textarea>
         </div><br>
