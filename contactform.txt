@@ -10,7 +10,7 @@
 
 </style>
 <div class="contactslidediv" >
-<form method="post" action="https://forms.un-static.com/forms/4f94cb2ee632f56a2158b7c150c0cf9845329bda">
+<form method="post" action="https://forms.un-static.com/forms/dc94a7cd2e41e002c4160f2ea41c13a6ebce5f02" >
    *Please create a <a href="https://www.whatsapp.com/" target="_blank" alt="Whatsapp" >whatsapp</a> number !<br><br>
     International phone calls are very expensive we use only internet to contact you back.<br>
     BLUE SEA EXPORT IMPORT S.R.L. is located in Romania.<br>
