@@ -1,17 +1,24 @@
 <style>
 .inputtxt input{
   width:70%;
-  padding:3%
-  margin:1%;
+  padding:1%;
   border:3px solid #151fba;
   font-size:19px;
 }
 
 input[type=submit]{
   display:block;
-  padding:3%
-  background-color:#151fba;
+  padding:2%;
+  background:#151fba;
   color:#fff;
+  font-size:19px;
+  border:1px solid #151fba;
+}
+
+textarea{
+  width:70%;
+  padding:1%;
+  border:3px solid #151fba;
   font-size:19px;
 }
     .contactslidediv { width:100%; padding:3%; height:auto;}
@@ -41,7 +48,7 @@ input[type=submit]{
         <input id="email" name="email" type="text" required="required" >
         </div><br>
         <div class="inputtxt" >
-        <label for="message" class="col-4 col-form-label"><span id="en">Additional info</span><span id="ro" >Información adicional</span></label><br>
+        <label for="message" ><span id="en">Additional info</span><span id="ro" >Información adicional</span></label><br>
         <textarea id="message" name="message" cols="40" rows="10" required="required" ></textarea>
         </div><br>
         <input type="submit" name="submit" value="Send" />
