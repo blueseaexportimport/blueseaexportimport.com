@@ -11,7 +11,7 @@
 </style>
 <div class="contactslidediv" >
 <form method="post" action="https://forms.un-static.com/forms/4f94cb2ee632f56a2158b7c150c0cf9845329bda">
-   *Please create a <a href="https://www.whatsapp.com/" target="_blank" alt="Whatsapp" >whatsapp</a> or <a href="https://telegram.org" target="_blank" alt="Telegram" >telegram</a> number !<br>
+   *Please create a <a href="https://www.whatsapp.com/" target="_blank" alt="Whatsapp" >whatsapp</a> number !<br>
     International phone calls are very expensive we use only internet to contact you back.<br>
     BLUE SEA EXPORT IMPORT S.R.L. is located in Romania.<br>
     If you don't have access to internet use free public wifi hotspots.<br><br>
@@ -21,12 +21,12 @@
         <input id="name" name="name" placeholder="Please enter your name" type="text" required="required" >
         </div><br>
         <div clsss="inputtxt" >
-        <label for="name" >Your Whatsapp or Telegram Number</label><br>
-        <input id="whatsapp" name="phone" placeholder="Please enter your whatsapp / telegram number" type="text" required="required" >
+        <label for="name" >Your Whatsapp Number</label><br>
+        <input id="whatsapp" name="phone" placeholder="Please enter your whatsapp" type="text" required="required" >
         </div><br>
         <div clsss="inputtxt" > 
         <label for="name" >Company Name </label><br>
-        <input id="name" name="companyname" placeholder="Please enter your company name" type="text" required="required" >
+        <input id="companyname" name="companyname" placeholder="Please enter your company name" type="text" required="required" >
         </div><br>
         <div clsss="inputtxt" >
         <label for="name" >Your Company E-Mail ( e.g. joe@companyname.com )</label><br>
