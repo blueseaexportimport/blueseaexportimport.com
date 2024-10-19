@@ -1,3 +1,12 @@
+<style>
+.inputtxt input{
+  width:70%;
+  padding:3%
+  margin:1%;
+  border:3px solid #151fba;
+  font-size:19px;
+}
+</style>
 
 <form method="post" action="https://forms.un-static.com/forms/4f94cb2ee632f56a2158b7c150c0cf9845329bda">
    *Please create a <a href="https://www.whatsapp.com/" target="_blank" alt="Whatsapp" >whatsapp</a> or <a href="https://telegram.org" target="_blank" alt="Telegram" >telegram</a> number !<br>
