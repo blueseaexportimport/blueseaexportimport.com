@@ -1,0 +1,24 @@
+
+<form method="post" action="https://forms.un-static.com/forms/4f94cb2ee632f56a2158b7c150c0cf9845329bda">
+   *Please create a whatsapp or telegram number !<br>
+    International phone calls are very expensive we use only internet to contact you back.<br>
+    If you don't have access to internet use free public wifi hotspots or write us a letter. <br>
+  
+       <div clsss="inputtxt" >
+        <label for="name" >Full Name</label><br>
+        <input id="name" name="name" placeholder="Please enter your name" type="text" required="required" >
+        </div>
+        <div clsss="inputtxt" >
+        <label for="name" >Your Whatsapp or Telegram Number</label><br>
+        <input id="whatsapp" name="phone" placeholder="Please enter your whatsapp / telegram number" type="text" required="required" >
+        </div>
+        <div clsss="inputtxt" >
+        <label for="name" >Your Compant E-Mail ( e.g. joe@companyname.com )</label><br>
+        <input id="email" name="email" placeholder="Your e-mail address" type="text" required="required" >
+        </div>
+        <div clsss="inputtxt" >
+        <label for="message" class="col-4 col-form-label">Additional info</label><br>
+        <textarea id="message" name="message" cols="40" rows="10" required="required" ></textarea>
+        </div><br>
+        <button name="submit" type="submit">Contact me !</button>
+</form> 
