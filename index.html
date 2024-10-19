@@ -148,6 +148,12 @@ $(document).ready(function() {
 <script>
 $(document).ready(function () { 
 
+  // Grab form submit info on click start
+    if(window.location.href.indexOf("#formreturn") > -1) {
+       alert("Thank you ! We will contact you as soon as possible !");
+    }
+  // Grab form submit info on click end
+
   // Grab buyprocedure on click start
   $("#buyprocedurebtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
