@@ -12,13 +12,17 @@
         <label for="name" >Your Whatsapp or Telegram Number</label><br>
         <input id="whatsapp" name="phone" placeholder="Please enter your whatsapp / telegram number" type="text" required="required" >
         </div>
+        <div clsss="inputtxt" > 
+        <label for="name" >Company Name </label><br>
+        <input id="name" name="companyname" placeholder="Please enter your company name" type="text" required="required" >
+        </div>
         <div clsss="inputtxt" >
-        <label for="name" >Your Compant E-Mail ( e.g. joe@companyname.com )</label><br>
+        <label for="name" >Your Company E-Mail ( e.g. joe@companyname.com )</label><br>
         <input id="email" name="email" placeholder="Your e-mail address" type="text" required="required" >
         </div>
         <div clsss="inputtxt" >
         <label for="message" class="col-4 col-form-label">Additional info</label><br>
         <textarea id="message" name="message" cols="40" rows="10" required="required" ></textarea>
         </div><br>
-        <button name="submit" type="submit">Contact me !</button>
+        <input type="button" name="submit" value="Contact me !" />
 </form> 
