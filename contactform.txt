@@ -6,13 +6,15 @@
   border:3px solid #151fba;
   font-size:19px;
 }
-</style>
+    .contactslidediv img{ width:100%; padding:3%; height:auto;}
 
+</style>
+<div class="contactslidediv" >
 <form method="post" action="https://forms.un-static.com/forms/4f94cb2ee632f56a2158b7c150c0cf9845329bda">
    *Please create a <a href="https://www.whatsapp.com/" target="_blank" alt="Whatsapp" >whatsapp</a> or <a href="https://telegram.org" target="_blank" alt="Telegram" >telegram</a> number !<br>
     International phone calls are very expensive we use only internet to contact you back.<br>
     BLUE SEA EXPORT IMPORT S.R.L. is located in Romania.<br>
-    If you don't have access to internet use free public wifi hotspots or write us a letter. <br><br>
+    If you don't have access to internet use free public wifi hotspots.<br><br>
   
        <div clsss="inputtxt" >
         <label for="name" >Full Name</label><br>
@@ -34,6 +36,6 @@
         <label for="message" class="col-4 col-form-label">Additional info</label><br>
         <textarea id="message" name="message" cols="40" rows="10" required="required" ></textarea>
         </div><br>
-        <input type="button" name="submit" value="Contact me !" />
+        <input type="button" name="submit" value="Send" />
 </form> 
-<br>
+<</div>
