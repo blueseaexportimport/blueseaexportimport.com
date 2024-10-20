@@ -171,6 +171,24 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab roadinfrastructure on click start
+  $("#roadinfrastructurebtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#roadinfrastructure").hasClass("clickedroadinfrastructure")) {
+        // already been clicked once, hide it
+        $("#roadinfrastructure").html("");
+        $( "#roadinfrastructure" ).removeClass( "clickedroadinfrastructure" )
+    }else {
+        // first time this is clicked, mark it
+        $("#roadinfrastructure").addClass("clickedroadinfrastructure");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/roadinfrastructure.txt?" + rand, success: function(result){
+         $("#roadinfrastructure").html(result);
+        }});
+    }
+   });
+  // Grab roadinfrastructure on click end
+	
+
   // Grab contactform on click start
   $("#contactformbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3338,11 +3356,14 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>     
   </div></li><!--END SECTION-->	
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>E. TRANSPORT INFRASTRUCTURE (0)</b></span> <span id="ro"><b>E. INFRAESTRUCTURA DE TRANSPORTE (0)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>E. TRANSPORT INFRASTRUCTURE (1)</b></span> <span id="ro"><b>E. INFRAESTRUCTURA DE TRANSPORTE (1)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="railroadinfrastructurebtn" ><span id="en">Railroad Infrastructure</span><span id="ro">Infraestructuras ferroviarias</span></h5>    
-   <div class="rowbin" >-</div>     
-   <h5 class="categoryaccordion" id="roadinfrastructurebtn" ><span id="en">Road Infrastructure</span><span id="ro">Infraestructuras viarias</span></h5>   
-   <div class="rowbin" >-</div>     
+   <div class="rowbin" >-</div> 
+   <h5 class="categoryaccordion" id="roadinfrastructurebtn" ><span id="en">Road Infrastructure (1)</span><span id="ro">Infraestructuras viarias (1)</span></h5>   
+   <div id="roadinfrastructure" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>      
    <h5 class="categoryaccordion" id="rivertransportinfrastructurebtn" ><span id="en">River transport infrastructure</span><span id="ro">Infraestructuras de transporte fluvial</span></h5>   
    <div class="rowbin" >-</div>     
    <h5 class="categoryaccordion" id="maritimetransportinfrastructurebtn" ><span id="en">Maritime transport infrastructure</span><span id="ro">Infraestructuras de transporte marítimo</span></h5>   
