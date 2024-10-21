@@ -170,6 +170,25 @@ $(document).ready(function () {
     }
    });
   // Grab buyprocedure on click end
+ 
+
+  // Grab spicesmixes on click start
+  $("#spicesmixesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#spicesmixes").hasClass("clickedspicesmixes")) {
+        // already been clicked once, hide it
+        $("#spicesmixes").html("");
+        $( "#spicesmixes" ).removeClass( "clickedspicesmixes" )
+    }else {
+        // first time this is clicked, mark it
+        $("#spicesmixes").addClass("clickedspicesmixes");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/spicesmixes.txt?" + rand, success: function(result){
+         $("#spicesmixes").html(result);
+        }});
+    }
+   });
+  // Grab spicesmixes on click end
+	
 
   // Grab roadinfrastructure on click start
   $("#roadinfrastructurebtn").click(function() {
@@ -4379,7 +4398,7 @@ $(document).ready(function () {
    </div>	 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (34)</b></span> <span id="ro"><b>V. ALIMENTOS PROCESADOS (34)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (35)</b></span> <span id="ro"><b>V. ALIMENTOS PROCESADOS (35)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Equipos de molienda de harina</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Máquinas de Envasado de Alimentos</span></h5> 
@@ -4449,8 +4468,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" ><span id="en">Spices Mixes - Blends </span><span id="ro">Mezcla de especias</span></h5>
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="spicesmixesbtn" ><span id="en">Spices Mixes - Blends (1)</span><span id="ro">Mezcla de especias (1)</span></h5>
+   <div id="spicesmixes" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion"><span id="en">Roasted Coffee, Instant Cacao, Hot Chocolate and Tea</span><span id="ro">Café Tostado, Cacao Instantáneo, Chocolate Caliente y Té</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" id="pastaandnoodlesbtn" ><span id="en">Pasta and Noodles (5)</span><span id="ro">Pastas y Fideos (5)</span> </h5>   
