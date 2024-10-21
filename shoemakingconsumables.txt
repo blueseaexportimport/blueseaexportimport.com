@@ -1,12 +1,7 @@
-       <tr><td><span id="en">Shoe Laces Eyelets</span><span id="ro">Ocheţi șireturi pantofi</span></td><td>-</td><td>-</td></tr>        
-       <tr><td><span id="en">Shoe Laces Hooks</span><span id="ro">Cârlig șireturi pantof</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Shoe Velcro Buckle</span><span id="ro">Cataramă cu velcro pentru pantofi</span> </td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Shoe Decoration Buckle</span><span id="ro">Cataramă decorativă pantofi</span> </td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Shoe Studs</span><span id="ro">Șuruburi de pantofi</span> </td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Shoe Push Buttons</span><span id="ro">Butoane pentru încălțăminte</span> </td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Shoe Prefabricated Sole</span><span id="ro">Talpă prefabricată încălțăminte</span> </td><td>-</td><td>-</td></tr>          
-       <tr><td><span id="en">Shoe Laces</span><span id="ro">Șireturi</span> </td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Shoe Tree</span><span id="ro">Sanuri din lemn</span> </td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Shoe Zipper</span><span id="ro">Fermoar încălțăminte</span> </td><td>-</td><td>-</td></tr>
-<tr><td><span id="en">Shoe making nails tacks cardboard box 5kg ⌀ 1.12mm Length 16mm ÷ 25mm </span><span id="ro">Tecsuri pentru cizmărie cutie carton 5kg ⌀ 1.12mm Lungime 16mm ÷ 25mm</span></td>
-<tr><td><span id="en">Shoe making nails cardboard box 5kg ⌀ 1.18mm Length 10mm ÷ 15mm </span><span id="ro">Ținte pentru cizmărie cutie carton 5kg ⌀ 1.18mm Lungime 10mm ÷ 15mm</span></td>
+<style>
+    .shoemakingconsumablesslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="shoemakingconsumablesslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/shoemakingconsumables.jpg" alt="shoemaking consumables item1" /> 
+</div>
