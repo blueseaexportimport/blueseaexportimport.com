@@ -188,7 +188,23 @@ $(document).ready(function () {
    });
   // Grab roadinfrastructure on click end
 	
-
+  // Grab shoemakingconsumables on click start
+  $("#shoemakingconsumablesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#shoemakingconsumables").hasClass("clickedshoemakingconsumables")) {
+        // already been clicked once, hide it
+        $("#shoemakingconsumables").html("");
+        $( "#shoemakingconsumables" ).removeClass( "clickedshoemakingconsumables" )
+    }else {
+        // first time this is clicked, mark it
+        $("#shoemakingconsumables").addClass("clickedshoemakingconsumables");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/shoemakingconsumables.txt?" + rand, success: function(result){
+         $("#shoemakingconsumables").html(result);
+        }});
+    }
+   });
+  // Grab shoemakingconsumables on click end
+	
   // Grab contactform on click start
   $("#contactformbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3741,7 +3757,7 @@ $(document).ready(function () {
 
    </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>M. TEXTILES, LEATHER AND FURS (9)</b></span><span id="ro"><b>M. TEXTILES, CUEROS Y PIEL (9)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>M. TEXTILES, LEATHER AND FURS (10)</b></span><span id="ro"><b>M. TEXTILES, CUEROS Y PIEL (10)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Textile spinning mill</span><span id="ro">Hilandería textil</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Textile weaving and knitting mill</span><span id="ro">Fábrica de tejidos</span></h5> 
@@ -3779,8 +3795,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" ><span id="en">Shoemaking consumables</span><span id="ro">Consumibles de zapatería</span></h5>    
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="shoemakingconsumablesbtn" ><span id="en">Shoemaking consumables (1)</span><span id="ro">Consumibles de zapatería (1)</span></h5>    
+   <div id="shoemakingconsumables" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>
   <h5 class="categoryaccordion" ><span id="en">Leatherwork consumables</span><span id="ro">Consumibles para marroquinería</span></h5>    
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Shoes and leather cleaning items</span><span id="ro">Artículos de limpieza para calzado y cuero</span></h5>    
