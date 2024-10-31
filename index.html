@@ -171,6 +171,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab magazines on click start
+  $("#magazinesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#magazines").hasClass("clickedmagazines")) {
+        // already been clicked once, hide it
+        $("#magazines").html("");
+        $( "#magazines" ).removeClass( "clickedmagazines" )
+    }else {
+        // first time this is clicked, mark it
+        $("#magazines").addClass("clickedmagazines");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/magazines.txt?" + rand, success: function(result){
+         $("#magazines").html(result);
+        }});
+    }
+   });
+  // Grab magazines on click end
+
   // Grab concreteformwork on click start
   $("#concreteformworkbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -4585,7 +4602,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div> 
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>X. TICKETS, NEWSPAPERS, BOOKS AND MAGAZINES (4)</b></span> <span id="ro"><b>X. ENTRADAS, PERIÓDICOS, LIBROS Y REVISTAS (4)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>X. TICKETS, NEWSPAPERS, BOOKS AND MAGAZINES (6)</b></span> <span id="ro"><b>X. ENTRADAS, PERIÓDICOS, LIBROS Y REVISTAS (6)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="eventsticketsbtn" ><span id="en">Events tickets</span><span id="ro">Bilete evenimente</span></h5>    
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="newspapersbtn" ><span id="en">Newspapers</span><span id="ro">Periódicos</span></h5>    
@@ -4605,8 +4622,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 		  
   <h5 class="categoryaccordion" ><span id="en">Textbooks</span><span id="ro">Libros de texto</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" id="magazinesbtn" ><span id="en">Magazines</span><span id="ro">Revistas</span></h5>    
-   <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="magazinesbtn" ><span id="en">Magazines (2)</span><span id="ro">Revistas (2)</span></h5>    
+   <div id="magazines" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>
   <h5 class="categoryaccordion" ><span id="en">Guides </span><span id="ro">Guías</span></h5>    
   <div class="rowbin" >-</div> 
   <h5 class="categoryaccordion" ><span id="en">Dictionaries</span><span id="ro">Diccionarios</span></h5>    
