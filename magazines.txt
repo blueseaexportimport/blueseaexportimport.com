@@ -1,285 +1,69 @@
-<tbody>
+<style>
 
-
-
-<tr style="background:#ccc;" ><td style="color:black;" ><span id="en" >Product Nr.</span><span id="ro">Nr. produs</span></td><td style="color:black;">MAGZ001</td></tr>
-<tr><td><span id="en" >Name</span><span id="ro">Nume</span></td><td style="color:#39ff14;" ><span id="en" >Romanian Magazines</span><span id="ro">Reviste România</span></td></tr>
-<tr><td><span id="en" >Place of Origin</span><span id="ro">Origine</span></td><td style="color:#39ff14;" ><span id="en" >Romania</span><span id="ro">România</span></td></tr>
-<tr><td><span id="en" >Info</span><span id="ro">Info</span></td><td style="color:#39ff14;" ><span id="en" >Could take 30-40 days until they arrive in your country</span><span id="ro">Poate dura 30-40 zile până să ajungă în țara dumneavoastră</span></td></tr>
-
-
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Science, Engineering and History </span><span id="ro">Știință, Tehnică și Istorie</span></td><td></td></tr>
-
-
-<tr><td>Formula 1</td><td>4.3 RON / Valahia Dacia Nemuritoare <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 2</td><td>12.9 RON / Valahia Dacia Nemuritoare <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 3</td><td>25.8 RON / Valahia Dacia Nemuritoare <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 4</td><td>51.6 RON / Valahia Dacia Nemuritoare <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 5</td><td>19.6 RON / Historia Special <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 6</td><td>39.2 RON / Historia Special <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 7</td><td>35.9 RON / Historia <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 8</td><td>70.8 RON / Historia <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 9</td><td>129.6 RON / Historia <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 10</td><td>33.9 RON / Magazin Istoric <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 11</td><td>67.8 RON / Magazin Istoric <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 12</td><td>135.6 RON / Magazin Istoric <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 13</td><td>47.2 RON / Historia + Historia Special <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 14</td><td>88.4 RON / Historia + Historia Special <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 15</td><td>165.8 RON / Historia + Historia Special <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 16</td><td>47.9 RON / Auto Bild <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 17</td><td>91.8 RON / Auto Bild <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 18</td><td>173.6 RON / Auto Bild <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 19</td><td>78.8 RON / Cosmos <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 20</td><td>147.6 RON / Cosmos <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 21</td><td>113.3 RON / Ferma <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 22</td><td>226.6 RON / Ferma <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 23</td><td>176.8 RON / Știință și tehnică <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Spirituality and Religion</span><span id="ro">Spiritualitate și Religie</span></td><td></td></tr>
-
-<tr><td>Formula 24</td><td>10.3 RON / Viața Ortodoxă <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 25</td><td>30.9 RON / Viața Ortodoxă <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 26</td><td>61.8 RON / Viața Ortodoxă <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 27</td><td>123.6 RON / Viața Ortodoxă <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 28</td><td>12.3 RON / Familia Ortodoxă <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 29</td><td>36.9 RON / Familia Ortodoxă <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 30</td><td>73.8 RON / Familia Ortodoxă <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 31</td><td>135.6 RON / Familia Ortodoxă <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 32</td><td>13.28 RON / Lumina de Duminică <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 33</td><td>39.84 RON / Lumina de Duminică <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 34</td><td>79.68 RON / Lumina de Duminică <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 35</td><td>159.36 RON / Lumina de Duminică <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 36</td><td>15.9 RON / Costea News <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 37</td><td>31.8 RON / Costea News <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 38</td><td>63.6 RON / Costea News <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 39</td><td>21.9 RON / Lumea Misterelor <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 40</td><td>43.8 RON / Lumea Misterelor <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 41</td><td>87.6 RON / Lumea Misterelor <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 42</td><td>48.05 RON / Lumina <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 43</td><td>144.15 RON / Lumina <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 44</td><td>288.3 RON / Lumina <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 45</td><td>576.6 RON / Lumina <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Literature and culture</span><span id="ro">Literatură și cultură</span></td><td></td></tr>
-
-<tr><td>Formula 46</td><td>3.3 RON / Ramuri <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 47</td><td>9.9 RON / Ramuri <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 48</td><td>19.8 RON / Ramuri <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 49</td><td>39.6 RON / Ramuri <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 50</td><td>5.3 RON / Steaua <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 51</td><td>15.9 RON / Steaua <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 52</td><td>31.8 RON / Steaua <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 53</td><td>63.6 RON / Steaua <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 54</td><td>5.3 RON / Viața Românească <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 55</td><td>15.9 RON / Viața Românească <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 56</td><td>31.8 RON / Viața Românească <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 57</td><td>63.6 RON / Viața Românească <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 58</td><td>6.3 RON / Luceafărul de dimineaţă <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 59</td><td>18.9 RON / Luceafărul de dimineaţă <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 60</td><td>37.8 RON / Luceafărul de dimineaţă <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 61</td><td>73.6 RON / Luceafărul de dimineaţă <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 62</td><td>6.9 RON / Revista Orizont <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 63</td><td>13.8 RON / Revista Orizont <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 64</td><td>27.6 RON / Revista Orizont <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 65</td><td>10.6 RON / Certitudinea <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 66</td><td>31.8 RON / Certitudinea <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 67</td><td>63.6 RON / Certitudinea <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 68</td><td>127.2 RON / Certitudinea <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 69</td><td>15.9 RON / Apostrof <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 70</td><td>31.8 RON / Apostrof <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 71</td><td>63.6 RON / Apostrof <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 72</td><td>21.9 RON / Contemporanul <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 73</td><td>43.8 RON / Contemporanul <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 74</td><td>87.6 RON / Contemporanul <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 75</td><td>26.3 RON / Literatura şi Arta <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 76</td><td>78.9 RON / Literatura şi Arta <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 78</td><td>157.8 RON / Literatura şi Arta <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 79</td><td>315.6 RON / Literatura şi Arta <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 80</td><td>43.8 RON / Tribuna <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 81</td><td>87.6 RON / Tribuna <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 82</td><td>175.2 RON / Tribuna <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 83</td><td>54.9 RON / Magazinul săptămânal cultural-științific <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 84</td><td>109.8 RON / Magazinul săptămânal cultural-științific <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 85</td><td>219.6 RON / Magazinul săptămânal cultural-științific <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 86</td><td>53.75 RON / Flacăra lui Adrian Păunescu <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 87</td><td>107.5 RON / Flacăra lui Adrian Păunescu <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 88</td><td>165 RON / Flacăra lui Adrian Păunescu <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 89</td><td>78.84 RON / Dilema Veche <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 90</td><td>134.68 RON / Dilema Veche <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 6</td><td>216.36 RON / Dilema Veche <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 91</td><td>182.8 RON / România literară <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 92</td><td>365.6 RON / România literară <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 93</td><td>360 RON / Caţavencii <span id="en">pcs - Subscription 12 Months - Note: Romanian Post Office is not the supplier</span><span id="ro">buc - Abonament 12 Luni - Notă: Poșta Română nu este furnizorul</span></td></tr>
-
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Medicine</span><span id="ro">Medicină</span></td><td></td></tr>
-
-<tr><td>Formula 94</td><td>36.8 RON / Ars Medica <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></span></td></tr>
-
-<tr><td>Formula 95</td><td>9.3 RON / Asul Verde <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 96</td><td>27.9 RON / Asul Verde <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 97</td><td>55.8 RON / Asul Verde <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 98</td><td>111.6 RON / Asul Verde <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 99</td><td>21.4 RON / Viaţa medicală <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 100</td><td>64.2 RON / Viaţa medicală <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 101</td><td>128.4 RON / Viaţa medicală <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 102</td><td>256.8 RON / Viaţa medicală <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 103</td><td>23.48 RON / Taifasuri <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 104</td><td>70.45 RON / Taifasuri <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 105</td><td>140.9 RON / Taifasuri <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 106</td><td>281.8 RON / Taifasuri <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Tabloids, Fashion and Lifestyle</span><span id="ro">Tabloide, Modă și Lifestyle</span></td><td></td></tr>
-
-<tr><td>Formula 107</td><td>12.97 RON / Elle <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 108</td><td>38.9 RON / Elle <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 109</td><td>76.8 RON / Elle <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 110</td><td>156.6 RON / Elle <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 111</td><td>13.9 RON / Click! Poftă Bună <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 112</td><td>26.8 RON / Click! Poftă Bună <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 113</td><td>48.6 RON / Click! Poftă Bună <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 114</td><td>13.9 RON / Click! Sănătate <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 115</td><td>26.8 RON / Click! Sănătate <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 116</td><td>48.6 RON / Click! Sănătate <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 117</td><td>30.95 RON / Click! pentru femei <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 118</td><td>58.9 RON / Click! pentru femei <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 119</td><td>122.8 RON / Click! pentru femei <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 120</td><td>35.9 RON / Viva <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 121</td><td>66.8 RON / Viva <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 122</td><td>131.6 RON / Viva <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 123</td><td>35.95 RON / TV Satelit <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 124</td><td>69.9 RON / TV Satelit <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 125</td><td>138.8 RON / TV Satelit <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 126</td><td>37.3 RON / Formula AS <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 127</td><td>111.9 RON / Formula AS <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 128</td><td>223.8 RON / Formula AS <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 129</td><td>447.6 RON / Formula AS <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 130</td><td>41.8 RON / Revista 22 <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 131</td><td>78.6 RON / Revista 22 <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 132</td><td>157.2 RON / Revista 22 <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 133</td><td>42.9 RON / Avantaje <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 134</td><td>84.8 RON / Avantaje <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 135</td><td>166.6 RON / Avantaje <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 136</td><td>46.89 RON / OK! Magazine <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 137</td><td>83.78 RON / OK! Magazine <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 138</td><td>157.56 RON / OK! Magazine <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 139</td><td>54.69 RON / Click! pentru femei + Click! Sănătate + Click! Poftă Bună <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 140</td><td>107.38 RON / Click! pentru femei + Click! Sănătate + Click! Poftă Bună <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 141</td><td>214.76 RON / Click! pentru femei + Click! Sănătate + Click! Poftă Bună <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 142</td><td>65.9 RON / TV Mania <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 143</td><td>133.8 RON / TV Mania <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 143</td><td>268.6 RON / TV Mania <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 144</td><td>101.9 RON / Burda Style <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 145</td><td>205.8 RON / Burda Style <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 146</td><td>402.6 RON / Burda Style <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 147</td><td>111.2 RON / Longevity Magazine <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Business</span><span id="ro">Afaceri</span></td><td></td></tr>
-
-<tr><td>Formula 148</td><td>12.3 RON / Forbes Romania <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 149</td><td>35.9 RON / Forbes Romania <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 150</td><td>56.8 RON / Forbes Romania <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 151</td><td>93.6 RON / Forbes Romania <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 152</td><td>15.3 RON / Revista Finanțe Publice și Contabilitate <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 153</td><td>91.8 RON / Revista Finanțe Publice și Contabilitate <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 154</td><td>45.9 RON / Income Magazine <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 156</td><td>86.8 RON / Income Magazine <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 157</td><td>153.3 RON / Income Magazine <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 158</td><td>58.9 RON / Newsweek Romania <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 159</td><td>114.8 RON / Newsweek Romania <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 160</td><td>223.6 RON / Newsweek Romania <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 161</td><td>61.2 RON / Business Magazin <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 162</td><td>158.6 RON / Business Magazin <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 163</td><td>301.2 RON / Business Magazin <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 164</td><td>513.4 RON / Business Magazin <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 165</td><td>106.25 RON / Ziarul Financiar <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 166</td><td>298.75 RON / Ziarul Financiar <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 167</td><td>557.5 RON / Ziarul Financiar <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 168</td><td>1074 RON / Ziarul Financiar <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 169</td><td>152.45 RON / Ziarul Financiar + Business Magazin <span id="en">pcs - Subscription 1 Month</span><span id="ro">buc - Abonament 1 Lună</span></td></tr>
-<tr><td>Formula 170</td><td>425.35 RON / Ziarul Financiar + Business Magazin <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 171</td><td>771.7 RON / Ziarul Financiar + Business Magazin <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 172</td><td>1388.4 RON / Ziarul Financiar + Business Magazin <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 173</td><td>251.8 RON / Transilvania Business <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 174</td><td>503.6 RON / Transilvania Business <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td>Formula 175</td><td>363 RON / Economistul <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr style="background:#39ff14;" ><td style="color:black;" ><span id="en">Sport</span><span id="ro">Sport</span></td><td></td></tr>
-
-<tr><td>Formula 176</td><td>30.9 RON / Fanatik <span id="en">pcs - Subscription 3 Months</span><span id="ro">buc - Abonament 3 Luni</span></td></tr>
-<tr><td>Formula 177</td><td>56.8 RON / Fanatik <span id="en">pcs - Subscription 6 Months</span><span id="ro">buc - Abonament 6 Luni</span></td></tr>
-<tr><td>Formula 178</td><td>103.3 RON / Fanatik <span id="en">pcs - Subscription 12 Months</span><span id="ro">buc - Abonament 12 Luni</span></td></tr>
-
-<tr><td><span id="en">Link to supplier:</span><span id="ro">Link către furnizor:</span></td><td><a style="color:gold;" href="https://www.posta-romana.ro" target="_blank" ><span id="en">Press here</span><span id="ro">Apasă aici</span></a></td></tr>
-<tr><td><span id="en">VAT</span><span id="ro">TVA</span></td><td style="color:#39ff14;" ><span id="en"> included</span><span id="ro">este inclus</span></td></tr>
-
-
-
-
-<tbody>
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
+.magazinesslider{
+ width:100%;
 }
-});
-</script>
+.magazinesslidernav{
+ text-align:center;
+ width:100%; 
+}
+.magazinesslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
+.magazinesslides img {
+  max-width: 100%;
+  height: auto;
+}
+
+.magazinesslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.magazinesslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.magazinesslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.magazinesslidernav a:hover {background-color: gold;}
+.magazinesslidernav a:active {background-color: gold;}
+.magazinesslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="magazinesslider">
+
+<div class="magazinesslidernav" >
+  <a href="#magazinesslide-1">1</a>
+  <a href="#magazinesslide-2">2</a>
+</div>
+
+  <div class="magazinesslides">
+    <div class="fade" id="magazinesslide-1">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/magazines.jpg" alt="magazines item1" /> 
+    </div>
+    <div class="fade" id="magazinesslide-2">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/magazinesb.jpg" alt="magazines item2" /> 
+    </div>
+  </div><!-- magazinesSlides -->
+
+</div><!-- magazinesSlider -->
