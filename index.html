@@ -171,6 +171,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab electricengines on click start
+  $("#electricenginesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#electricengines").hasClass("clickedelectricengines")) {
+        // already been clicked once, hide it
+        $("#electricengines").html("");
+        $( "#electricengines" ).removeClass( "clickedelectricengines" )
+    }else {
+        // first time this is clicked, mark it
+        $("#electricengines").addClass("clickedelectricengines");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/electricengines.txt?" + rand, success: function(result){
+         $("#electricengines").html(result);
+        }});
+    }
+   });
+  // Grab electricengines on click end
+
   // Grab magazines on click start
   $("#magazinesbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3314,7 +3331,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>	   	   
    </div></li><!--END SECTION-->	
 	
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>A. ELECTRICITY (10)</b></span> <span id="ro"><b>A. ELECTRICIDAD (10)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>A. ELECTRICITY (11)</b></span> <span id="ro"><b>A. ELECTRICIDAD (11)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="fusionreactorsbtn" ><span id="en">Fusion reactors</span><span id="ro">Reactores de fusión</span></h5>    	
    <div class="rowbin" >-</div> 
    <h5 class="categoryaccordion" id="solarpanelsbtn" ><span id="en">Solar panels (1)</span><span id="ro">Paneles solares (1)</span></h5>    	
@@ -3362,8 +3379,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-   <h5 class="categoryaccordion" id="electricenginesbtn" ><span id="en">Electric engines  </span><span id="ro">Motores eléctricos</span></h5>    	
-   <div class="rowbin" >-</div> 
+   <h5 class="categoryaccordion" id="electricenginesbtn" ><span id="en">Electric engines (1)</span><span id="ro">Motores eléctricos (1)</span></h5>    	
+   <div id="electricengines" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	 
    </div></li><!--END SECTION-->
 
    <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>B. RENEWABLE ENERGY (3)</b></span> <span id="ro"><b>B. ENERGÍA RENOVABLE (3)</b></span></button><div class="catalogpanel">
