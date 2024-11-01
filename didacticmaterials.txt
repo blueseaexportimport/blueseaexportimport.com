@@ -1,1 +1,7 @@
+<style>
+    .didacticmaterialsslidediv img{ width:100%; height:auto;}
+</style> 
 
+<div class="didacticmaterialsslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/didacticmaterials.jpg" alt="didactic materials item1" /> 
+</div>
