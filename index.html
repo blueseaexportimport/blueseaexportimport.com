@@ -171,6 +171,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab didacticmaterials on click start
+  $("#didacticmaterialsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#didacticmaterials").hasClass("clickeddidacticmaterials")) {
+        // already been clicked once, hide it
+        $("#didacticmaterials").html("");
+        $( "#didacticmaterials" ).removeClass( "clickeddidacticmaterials" )
+    }else {
+        // first time this is clicked, mark it
+        $("#didacticmaterials").addClass("clickeddidacticmaterials");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/didacticmaterials.txt?" + rand, success: function(result){
+         $("#didacticmaterials").html(result);
+        }});
+    }
+   });
+  // Grab didacticmaterials on click end
+
   // Grab electricengines on click start
   $("#electricenginesbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3495,9 +3512,12 @@ $(document).ready(function () {
    <!-- Load info end --> 
    </div>		   
    </div></li><!--END SECTION-->	
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (15)</b></span><span id="ro"><b>G. ESCUELA, INVESTIGACIÓN, AEROESPACIAL Y ALTA TECNOLOGÍA (15)</b></span></button><div class="catalogpanel">
-  <h5 class="categoryaccordion" id="didacticmaterialsbtn" ><span id="en">Didactic Materials</span><span id="ro">Materiales didácticos</span></h5>    
-   <div class="rowbin" >-</div>     
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>G. SCHOOL, RESEARCH, AEROSPACE & HIGH-TECH (16)</b></span><span id="ro"><b>G. ESCUELA, INVESTIGACIÓN, AEROESPACIAL Y ALTA TECNOLOGÍA (16)</b></span></button><div class="catalogpanel">
+  <h5 class="categoryaccordion" id="didacticmaterialsbtn" ><span id="en">Didactic Materials (1)</span><span id="ro">Materiales didácticos (1)</span></h5>    
+   <div id="didacticmaterials" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>    
   <h5 class="categoryaccordion" id="officeandschoolsuppliesbtn" ><span id="en">Office and school supplies (3)</span><span id="ro">Material de oficina y escolar (3)</span></h5>    
    <div id="officeandschoolsupplies" class="categorypanel" >
    <!-- Load info start --> 
