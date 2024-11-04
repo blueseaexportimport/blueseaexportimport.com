@@ -170,7 +170,24 @@ $(document).ready(function () {
     }
    });
   // Grab buyprocedure on click end
-
+	
+  // Grab alloysmetalpowders on click start
+  $("#alloysmetalpowdersbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#alloysmetalpowders").hasClass("clickedalloysmetalpowders")) {
+        // already been clicked once, hide it
+        $("#alloysmetalpowders").html("");
+        $( "#alloysmetalpowders" ).removeClass( "clickedalloysmetalpowders" )
+    }else {
+        // first time this is clicked, mark it
+        $("#alloysmetalpowders").addClass("clickedalloysmetalpowders");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/alloysmetalpowders.txt?" + rand, success: function(result){
+         $("#alloysmetalpowders").html(result);
+        }});
+    }
+   });
+  // Grab alloysmetalpowders on click end
+	
   // Grab didacticmaterials on click start
   $("#didacticmaterialsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3618,7 +3635,7 @@ $(document).ready(function () {
    </div>	 
   </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (16)</b></span> <span id="ro"><b>I. MINERALES Y METALURGIA (16)</b></span></button><div class="catalogpanel">    
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (17)</b></span> <span id="ro"><b>I. MINERALES Y METALURGIA (17)</b></span></button><div class="catalogpanel">    
    <h5 class="categoryaccordion" id="mineraloresbtn" ><span id="en">Minerals - ores (1)</span><span id="ro">Minerales (1)</span></h5>    	
    <div id="mineralores" class="categorypanel" >
    <!-- Load info start --> 
@@ -3673,8 +3690,11 @@ $(document).ready(function () {
    </div>	
    <h5 class="categoryaccordion" id="alloysextrusionproductsbtn" ><span id="en">Alloys - extrusion products</span><span id="ro">Aleaciones - productos de extrusión</span></h5>    	
    <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" id="alloysmetalpowdersbtn" ><span id="en">Alloys - metal powders</span><span id="ro">Aleaciones - polvos metálicos</span></h5>    	
-   <div class="rowbin" >-</div>
+   <h5 class="categoryaccordion" id="alloysmetalpowdersbtn" ><span id="en">Alloys - metal powders (1)</span><span id="ro">Aleaciones - polvos metálicos (1)</span></h5>    	
+   <div id="alloysmetalpowders" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>
    <h5 class="categoryaccordion" id="alloystractioncablesbtn" ><span id="en">Alloys - traction cables & chains (1)</span><span id="ro">Aleaciones - cables de tracción y cadenas (1)</span></h5>    	
    <div id="alloystractioncables" class="categorypanel" >
    <!-- Load info start --> 
