@@ -14,23 +14,7 @@
        <tr><td>Drape </td><td>-</td><td>-</td></tr>
        <tr><td>Window blinds</td><td>-</td><td>-</td></tr>
        <tr><td>Window shades</td><td>-</td><td>-</td></tr>
-       <tr><td>Small Rug </td><td> 0.91 m x 1.22 m</td><td>-</td></tr>
-       <tr><td>Small Rug </td><td> 1.22 m x 1.83 m</td><td>-</td></tr>
-       <tr><td>Small Rug </td><td> 1.52 m x 2.13 m</td><td>-</td></tr>
-       <tr><td>Small Rug </td><td> 1.52 m x 2.44 m</td><td>-</td></tr>
-       <tr><td>Room Size Rug </td><td> 1.83 m x 2.74 m</td><td>-</td></tr>
-       <tr><td>Room Size Rug </td><td> 2.44 m x 3.05 m</td><td>-</td></tr>
-       <tr><td>Room Size Rug </td><td> 2.74 m x 3.66 m</td><td>-</td></tr>
-       <tr><td>Room Size Rug </td><td> 3.05 m x 4.27 m</td><td>-</td></tr>
-       <tr><td>Room Size Rug </td><td> 3.66 m x 4.57 m</td><td>-</td></tr>
-       <tr><td>Common Large Rug </td><td> 3.66 m x 5.49 m</td><td>-</td></tr>
-       <tr><td>Common Large Rug </td><td> 4.72 m x 6.1 m</td><td>-</td></tr>
-       <tr><td>Common Extra Large Rug </td><td> 4.57 m x 9.14 m</td><td>-</td></tr>
-       <tr><td>Common Extra Large Rug </td><td> 5.79 m x 9.14 m</td><td>-</td></tr>
-       <tr><td>Runner Rug </td><td> 0.61 m x 2.44 m</td><td>-</td></tr>
-       <tr><td>Runner Rug </td><td> 0.61 m x 3.05 m</td><td>-</td></tr>
-       <tr><td>Runner Rug </td><td> 0.91 m x 3.66 m</td><td>-</td></tr>
-       <tr><td>Carpet </td><td>-</td><td>-</td></tr>
+\\\\
        <tr><td>Curtain hooks</td><td>-</td><td>-</td></tr>
        <tr><td>Curtain pole</td><td>-</td><td>-</td></tr>
        <tr><td>Curtain wire</td><td>-</td><td>-</td></tr>
