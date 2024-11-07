@@ -171,6 +171,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab petcare on click start
+  $("#petcarebtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#petcare").hasClass("clickedpetcare")) {
+        // already been clicked once, hide it
+        $("#petcare").html("");
+        $( "#petcare" ).removeClass( "clickedpetcare" )
+    }else {
+        // first time this is clicked, mark it
+        $("#petcare").addClass("clickedpetcare");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/petcare.txt?" + rand, success: function(result){
+         $("#petcare").html(result);
+        }});
+    }
+   });
+  // Grab petcare on click end	
+
   // Grab tehnicalaerosols on click start
   $("#tehnicalaerosolsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -4652,7 +4669,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->     
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>W. FUN AND ENTERTAINMENT (4)</b></span><span id="ro"><b>W. DIVERSIÓN Y ENTRETENIMIENTO (4)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>W. FUN AND ENTERTAINMENT (6)</b></span><span id="ro"><b>W. DIVERSIÓN Y ENTRETENIMIENTO (6)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="musicalinstrumentsbtn" ><span id="en">Musical Instruments (2)</span><span id="ro">Instrumentos musicales (2)</span></h5>    
    <div id="musicalinstruments" class="categorypanel" >
    <!-- Load info start --> 
@@ -4666,8 +4683,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Non Plastic Toys</span><span id="ro">Juguetes no plásticos</span></h5>    
   <div class="rowbin" >-</div> 	
-  <h5 class="categoryaccordion" ><span id="en">Pet Care, Grooming and Toys Items </span><span id="ro">Artículos para el cuidado, aseo y juguetes de mascotas</span></h5>  
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="petcarebtn" ><span id="en">Pet Care, Grooming and Toys Items (2)</span><span id="ro">Artículos para el cuidado, aseo y juguetes de mascotas (2)</span></h5>  
+   <div id="petcare" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>
   <h5 class="categoryaccordion" ><span id="en">Electronic items and gadgets</span><span id="ro">Artículos y gadgets electrónicos</span></h5>    
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="sportinggoodsbtn" ><span id="en">Sporting Goods (2)</span><span id="ro">Articole sportive (2)</span></h5>    
