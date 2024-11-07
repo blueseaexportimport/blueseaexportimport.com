@@ -1,27 +1,69 @@
-<tbody>
-       <tr><td><span id="en">Pet Blanket</span><span id="ro">Pătură animal de companie</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Pet leash</span><span id="ro">Lesă animal de companie</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Pet LED leash</span><span id="ro">Lesă cu led-uri animal de companie</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Pet Retractable leash</span><span id="ro">Lesă retractabilă animal de companie</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Pet collar</span><span id="ro">Zgardă animal de companie</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Decorative Horseshoe</span><span id="ro">Potcoavă decorativă </span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Hourse Harness</span><span id="ro">Ham cai</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">ID Tag</span><span id="ro">Etichetă de identitate</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Dog muzzle</span><span id="ro">Botniță căței</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Pet fetch toy</span><span id="ro">Jucărie fetch animal de companie</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Pet squeaky toy</span><span id="ro">Jucărie scârțâitoare animal de companie</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Pet ball toy</span><span id="ro">Jucărie minge animal de companie</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Pet mouse toy</span><span id="ro">Jucărie șoarece animal de companie</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Pet brush</span><span id="ro">Perie animal de companie</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Pet shampoo</span><span id="ro">Șampon animal de companie</span></td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Pet conditioner</span><span id="ro">Balsam animal de companie</span> </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Pet coat management spray</span><span id="ro">Spray blană animal de companie</span> </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Pet fragrance spray</span><span id="ro">Spray cu parfum pentru animal de companie</span> </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Pet dematting comb</span><span id="ro">Perie îndepărtat păr animal de companie</span> </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Pet comb</span><span id="ro">Pieptăn animal de companie</span> </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Pet scissor sets</span><span id="ro">Set foarfece animal de companie</span> </td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Pet litter box</span><span id="ro">Cutie gunoi animal de companie</span> </td><td>-</td><td>-</td></tr>   
-       <tr><td><span id="en">Bird house</span><span id="ro">Căsuță păsări</span> </td><td>-</td><td>-</td></tr>
+<style>
 
+.petcareslider{
+ width:100%;
+}
+.petcareslidernav{
+ text-align:center;
+ width:100%; 
+}
+.petcareslides{
+  width:100%;
+  display: flex;
+  overflow: hidden;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid black;
+}
 
-</tbody>
+.petcareslides img {
+  max-width: 100%;
+  height: auto;
+}
+
+.petcareslides > div {
+  width: 100%;  
+  flex-shrink: 0;               /*  added, so it won't shrink  */
+  border: 0px solid red;        /*  added, for demo purpose  */
+  margin: 0px;                 /*  added, instead of padding on parent  */
+  display: flex;                /*  added  */
+  align-items: center;          /*  added  */
+  justify-content: center;      /*  added  */
+}
+
+.petcareslidernav{
+  text-align:center;
+  padding:15px 0;
+  margin:0;
+}
+.petcareslidernav > a{
+  display:inline-block; 
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #000;
+  margin: 0 4px;
+}
+.petcareslidernav a:hover {background-color: gold;}
+.petcareslidernav a:active {background-color: gold;}
+.petcareslidernav a:focus {background-color: gold;}
+
+</style>
+
+<div class="petcareslider">
+
+<div class="petcareslidernav" >
+  <a href="#petcareslide-1">1</a>
+  <a href="#petcareslide-2">2</a>
+</div>
+
+  <div class="petcareslides">
+    <div class="fade" id="petcareslide-1">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/petcare.jpg" alt="bottled water productsitem1" /> 
+    </div>
+    <div class="fade" id="petcareslide-2">
+      <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/petcareb.jpg" alt="bottled water productsitem2" /> 
+    </div>
+  </div><!-- petcareSlides -->
+
+</div><!-- petcareSlider -->
