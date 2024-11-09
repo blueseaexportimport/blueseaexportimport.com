@@ -1,8 +1,0 @@
-       <tr><td><span id="en" >Mozaic rock 0mm - 1mm</span><span id="ro">Piatră mozaic 0mm - 1mm</span> </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en" >Mozaic rock 1mm - 3.15mm</span><span id="ro">Piatră mozaic 1mm - 3.15mm</span> </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en" >Mozaic rock 3.15mm - 5mm</span><span id="ro">Piatră mozaic 3.15mm - 5mm</span> </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en" >Mozaic rock 5mm - 7.1mm</span><span id="ro">Piatră mozaic 5mm - 7.1mm</span> </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en" >Mozaic rock 7.1mm - 10mm</span><span id="ro">Piatră mozaic 7.1mm - 10mm</span> </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en" >Mozaic rock 10mm - 16mm</span><span id="ro">Piatră mozaic 10mm - 16mm</span> </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en" >Mozaic rock 16mm - 26mm</span><span id="ro">Piatră mozaic 16mm - 26mm</span> </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en" >Mozaic rock 25mm - 35.5mm</span><span id="ro">Piatră mozaic 25mm - 35.5mm</span> </td><td>-</td><td>-</td></tr>
