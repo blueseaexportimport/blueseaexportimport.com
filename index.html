@@ -171,6 +171,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab mosaic on click start
+  $("#mosaicbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#mosaic").hasClass("clickedmosaic")) {
+        // already been clicked once, hide it
+        $("#mosaic").html("");
+        $( "#mosaic" ).removeClass( "clickedmosaic" )
+    }else {
+        // first time this is clicked, mark it
+        $("#mosaic").addClass("clickedmosaic");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/mosaic.txt?" + rand, success: function(result){
+         $("#mosaic").html(result);
+        }});
+    }
+   });
+  // Grab mosaic on click end	
+
   // Grab petcare on click start
   $("#petcarebtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -4061,7 +4078,7 @@ $(document).ready(function () {
   <div class="rowbin" >-</div> 	
   </div></li><!--END SECTION-->
 	   	   
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>P. CONSTRUCTION MATERIALS (10)</b></span> <span id="ro"><b>P. MATERIALES DE CONSTRUCCIÓN (10)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>P. CONSTRUCTION MATERIALS (11)</b></span> <span id="ro"><b>P. MATERIALES DE CONSTRUCCIÓN (11)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" ><span id="en">Construction machinery</span><span id="ro">Utilaje construcții</span></h5> 
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="aggregatesbtn" ><span id="en">Construction Aggregates (1)</span><span id="ro">Áridos para la construcción (1)</span></h5> 
@@ -4140,8 +4157,11 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Interior Wall panelling and exterior cladding</span><span id="ro">Paneles interiores y exteriores</span></h5> 
    <div class="rowbin" >-</div>
-   <h5 class="categoryaccordion" ><span id="en">Mozaic</span><span id="ro">Mozaico</span></h5>    
-   <div class="rowbin" >-</div>
+   <h5 class="categoryaccordion" id="mosaicbtn" ><span id="en">Mozaic (1)</span><span id="ro">Mozaico (1)</span></h5>    
+   <div id="mosaic" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" id="decorativerocksbtn" ><span id="en">Decorative Rocks (1)</span><span id="ro">Rocas decorativas (1)</span></h5>   
    <div id="decorativerocks" class="categorypanel" >
    <!-- Load info start --> 
