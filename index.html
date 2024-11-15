@@ -171,6 +171,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab vintagegames on click start
+  $("#vintagegamesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#vintagegames").hasClass("clickedvintagegames")) {
+        // already been clicked once, hide it
+        $("#vintagegames").html("");
+        $( "#vintagegames" ).removeClass( "clickedvintagegames" )
+    }else {
+        // first time this is clicked, mark it
+        $("#vintagegames").addClass("clickedvintagegames");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/vintagegames.txt?" + rand, success: function(result){
+         $("#vintagegames").html(result);
+        }});
+    }
+   });
+  // Grab vintagegames on click end	
+	
   // Grab mosaic on click start
   $("#mosaicbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -4762,7 +4779,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
   </div></li><!--END SECTION-->
  
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>Y. ART AND COLLECTIBLES (1)</b></span> <span id="ro"><b>Y. ARTE Y COLECCIONABLES (1)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>Y. ART AND COLLECTIBLES (5)</b></span> <span id="ro"><b>Y. ARTE Y COLECCIONABLES (5)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="paintingsbtn" ><span id="en">Paintings (1)</span><span id="ro">Pinturas (1)</span></h5>     
    <div id="paintings" class="categorypanel" >
    <!-- Load info start --> 
@@ -4790,8 +4807,11 @@ $(document).ready(function () {
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Fridge Magnets</span><span id="ro">Imanes de nevera</span></h5>        
   <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" ><span id="en">Vintage Games</span><span id="ro">Juegos clásicos</span></h5>    
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="vintagegamesbtn" ><span id="en">Vintage Games (4)</span><span id="ro">Juegos clásicos (4)</span></h5>    
+   <div id="vintagegames" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>
   <h5 class="categoryaccordion" ><span id="en">Decorative advertising signs</span><span id="ro">Carteles publicitarios decorativos</span></h5>    
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Pinball and Arcade Machines</span><span id="ro">Máquinas arcade y pinball</span></h5>    
