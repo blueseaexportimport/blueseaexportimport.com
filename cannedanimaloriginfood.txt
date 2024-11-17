@@ -1,47 +1,7 @@
-<tbody>
+<style>
+    .cannedanimaloriginfoodslidediv img{ width:100%; height:auto;}
+</style> 
 
-</tbody>
-
-<!--
-
-    <tr><td><span id="en">Mediaș Pâté</span><span id="ro">Pate Mediaș</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">White Salco Pâté</span><span id="ro">Pate Salco alb</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">White Delta Pâté</span><span id="ro">Pate Delta alb</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Sinaia Pâté</span><span id="ro">Pate Sinaia</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Tomis Pâté</span><span id="ro">Pate Tomis</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Pork Liver Pâté</span><span id="ro">Pate de porc</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Chicken Liver Pâté</span><span id="ro">Pate de găină</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Goose Liver Pâté</span><span id="ro">Pate de gâscă</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Duck Liver Pâté</span><span id="ro">Pate de rață</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Beef Liver Pâté</span><span id="ro">Pate de ficat vită</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Lamb Liver Pâté</span><span id="ro">Pate de ficat miel</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Beans with sausage</span><span id="ro">Fasole cu cârnați</span> </td><td>-</td><td>-</td></tr>
-    <tr><td><span id="en">Peas with meat</span><span id="ro">Mazăre cu carne</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Beef Goulash</span><span id="ro">Gulaș de vită</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Pork Goulash</span><span id="ro">Gulaș de porc</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Viennese Goulash</span><span id="ro">Gulaș de vienez</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Sauerbraten</span><span id="ro">Sauerbraten - Friptura cu carne marinată</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Beef meat in it's own juice canned</span><span id="ro">Carne de vită în suc propriu</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Pork meat in it's own juice canned</span><span id="ro">Carne de porc în suc propriu</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Pork meat with rice</span><span id="ro">Carne de vită cu orez</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Pork meat with beans</span><span id="ro">Carne de vită cu fasole</span> </td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Beef Kalops ( Scandinavian beef stew )</span><span id="ro">Kalops de vită - tocăniță scandinavă de vită</span></td><td>-</td><td>-</td></tr> 
-    <tr><td><span id="en">Boeuf Stroganoff</span><span id="ro">Stroganoff de vită rusesc</span></td><td>-</td><td>-</td></tr> 
-
--->
-
-
-<script>
-$(document).ready(function() {
-var class_ro = $('#ro_button').attr('class').split(' ')[1];
-var class_en = $('#en_button').attr('class').split(' ')[1];
-
-if (class_ro === "new") {
-     $('span[id^="ro"]').show();
-     $('span[id^="en"]').hide();
-}else{
-     $('span[id^="ro"]').hide();
-     $('span[id^="en"]').show();
-}
-});
-</script>
+<div class="cannedanimaloriginfoodslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/cannedanimaloriginfood.jpg" alt="canned animal origin food item1" /> 
+</div>
