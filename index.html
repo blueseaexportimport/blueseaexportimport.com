@@ -171,6 +171,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab cannedanimaloriginfood on click start
+  $("#cannedanimaloriginfoodbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#cannedanimaloriginfood").hasClass("clickedcannedanimaloriginfood")) {
+        // already been clicked once, hide it
+        $("#cannedanimaloriginfood").html("");
+        $( "#cannedanimaloriginfood" ).removeClass( "clickedcannedanimaloriginfood" )
+    }else {
+        // first time this is clicked, mark it
+        $("#cannedanimaloriginfood").addClass("clickedcannedanimaloriginfood");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/cannedanimaloriginfood.txt?" + rand, success: function(result){
+         $("#cannedanimaloriginfood").html(result);
+        }});
+    }
+   });
+  // Grab cannedanimaloriginfood on click end	
+
   // Grab vintagegames on click start
   $("#vintagegamesbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -4569,7 +4586,7 @@ $(document).ready(function () {
    </div>	 	
   </div></li><!--END SECTION-->	
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (35)</b></span> <span id="ro"><b>V. ALIMENTOS PROCESADOS (35)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>V. PROCESSED FOOD (36)</b></span> <span id="ro"><b>V. ALIMENTOS PROCESADOS (36)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Flour milling equipment</span><span id="ro">Equipos de molienda de harina</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Food packaging equipment</span><span id="ro">Máquinas de Envasado de Alimentos</span></h5> 
@@ -4684,8 +4701,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" id="cannedanimaloriginfoodbtn" ><span id="en">Canned Animal Origin Food</span><span id="ro">Conservas de origen animal</span></h5>
-   <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="cannedanimaloriginfoodbtn" ><span id="en">Canned Animal Origin Food (1)</span><span id="ro">Conservas de origen animal (1)</span></h5>
+   <div id="cannedanimaloriginfood" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>		
   <h5 class="categoryaccordion" id="cannedfishoriginfoodbtn" ><span id="en">Canned Fish Origin Food</span><span id="ro">Conservas de Pescado</span></h5>
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Dietetic Hospital Food</span><span id="ro">Alimentación Hospitalaria</span></h5> 
