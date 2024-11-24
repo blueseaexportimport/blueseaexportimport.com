@@ -8,7 +8,7 @@
  text-align:center;
  width:100%; 
 }
-.bottledwaterslides{
+.batteriesslides{
   width:100%;
   display: flex;
   overflow: hidden;
@@ -58,7 +58,7 @@
   <a href="#batteriesslide-2">2</a>
 </div>
 
-  <div class="bottledwaterslides">
+  <div class="batteriesslides">
     <div class="fade" id="batteriesslide-1">
       <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/batteries.jpg" alt="batteries productsitem1" /> 
     </div>
