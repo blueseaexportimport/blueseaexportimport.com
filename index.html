@@ -172,6 +172,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab surfacesandwindowscleaning on click start
+  $("#surfacesandwindowscleaningbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#surfacesandwindowscleaning").hasClass("clickedsurfacesandwindowscleaning")) {
+        // already been clicked once, hide it
+        $("#surfacesandwindowscleaning").html("");
+        $( "#surfacesandwindowscleaning" ).removeClass( "clickedsurfacesandwindowscleaning" )
+    }else {
+        // first time this is clicked, mark it
+        $("#surfacesandwindowscleaning").addClass("clickedsurfacesandwindowscleaning");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/surfacesandwindowscleaning.txt?" + rand, success: function(result){
+         $("#surfacesandwindowscleaning").html(result);
+        }});
+    }
+   });
+  // Grab surfacesandwindowscleaning on click end
+
   // Grab insulationmaterials on click start
   $("#insulationmaterialsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -4311,7 +4328,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>R. PERSONAL CARE AND HYGIENE (34)</b></span> <span id="ro"><b>R. HIGIENE PERSONAL (34)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>R. PERSONAL CARE AND HYGIENE (35)</b></span> <span id="ro"><b>R. HIGIENE PERSONAL (35)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="householditemsbtn" ><span id="en">Household Items</span><span id="ro">Artículos domésticos</span></h5>    
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="laundrycleaningitemsbtn" ><span id="en">Laundry Cleaning Items (1)</span><span id="ro">Artículos de limpieza de lavandería (1)</span></h5>  
@@ -4334,8 +4351,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>		
-   <h5 class="categoryaccordion" ><span id="en">Surfaces and windows cleaning</span><span id="ro">Limpieza de cristales y superficies</span></h5>    
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="surfacesandwindowscleaningbtn" ><span id="en">Surfaces and windows cleaning (1)</span><span id="ro">Limpieza de cristales y superficies (1)</span></h5>    
+   <div id="surfacesandwindowscleaning" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>		
    <h5 class="categoryaccordion" id="freshenersbtn" ><span id="en">Fresheners (1)</span><span id="ro">Ambientadores (1)</span></h5>    
    <div id="fresheners" class="categorypanel" >
    <!-- Load info start --> 
