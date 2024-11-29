@@ -1,3 +1,7 @@
-       <tr><td><span id="en">Colored glass - blue</span><span id="ro">Sticlă colorată - albastru</span> </td><td>-</td><td>-</td></tr> 
-       <tr><td><span id="en">Stained glass Cathedral - blue</span><span id="ro">Sticlă catedral de vitralii - albastru</span> </td><td>-</td><td>-</td></tr>
-       <tr><td><span id="en">Stained glass Opalescent - blue</span><span id="ro">Sticlă opalescentă de vitralii - albastru</span> </td><td>-</td><td>-</td></tr>
+<style>
+    .stainedglassslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="stainedglassslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/stainedglass.jpg" alt="stained glass item1" /> 
+</div>
