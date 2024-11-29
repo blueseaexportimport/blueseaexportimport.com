@@ -178,6 +178,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab stainedglass on click start
+  $("#stainedglassbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#stainedglass").hasClass("clickedstainedglass")) {
+        // already been clicked once, hide it
+        $("#stainedglass").html("");
+        $( "#stainedglass" ).removeClass( "clickedstainedglass" )
+    }else {
+        // first time this is clicked, mark it
+        $("#stainedglass").addClass("clickedstainedglass");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/stainedglass.txt?" + rand, success: function(result){
+         $("#stainedglass").html(result);
+        }});
+    }
+   });
+  // Grab stainedglass on click end
+
   // Grab combinedfodder on click start
   $("#combinedfodderbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -4014,7 +4031,7 @@ $(document).ready(function () {
    </div>	
    </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>L. CERAMICS, GLASS AND MIRRORS (2)</b></span><span id="ro"><b>L. CERÁMICA, VIDRIO Y ESPEJOS (2)</b></span></button><div class="catalogpanel">
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>L. CERAMICS, GLASS AND MIRRORS (3)</b></span><span id="ro"><b>L. CERÁMICA, VIDRIO Y ESPEJOS (3)</b></span></button><div class="catalogpanel">
    <h5 class="categoryaccordion" id="ceramicsandglassmaterialsbtn" ><span id="en">Ceramics, glass and mirrors materials</span><span id="ro">Materiales de cerámica, vidrio y espejos</span></h5>    	
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" ><span id="en">Glassmaking equipment and tools</span><span id="ro">Equipos y herramientas para la fabricación de vidrio</span></h5>    	
@@ -4030,8 +4047,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	  
-   <h5 class="categoryaccordion" ><span id="en">Stained glass</span><span id="ro">Vidrieras</span></h5> 
-   <div class="rowbin" >-</div> 	
+   <h5 class="categoryaccordion" id="stainedglassbtn" ><span id="en">Stained glass (1)</span><span id="ro">Vidrieras (1)</span></h5> 
+   <div id="stainedglass" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
    <h5 class="categoryaccordion" ><span id="en">Ornamental glassware</span><span id="ro">Cristalería ornamental</span></h5>    	
    <div class="rowbin" >-</div>
    <h5 class="categoryaccordion" id="mirrorsbtn" ><span id="en">Mirrors (1)</span><span id="ro">Espejos (1)</span></h5>    	
