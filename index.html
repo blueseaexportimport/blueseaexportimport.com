@@ -178,6 +178,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab flowerpotsandplanters on click start
+  $("#flowerpotsandplantersbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#flowerpotsandplanters").hasClass("clickedflowerpotsandplanters")) {
+        // already been clicked once, hide it
+        $("#flowerpotsandplanters").html("");
+        $( "#flowerpotsandplanters" ).removeClass( "clickedflowerpotsandplanters" )
+    }else {
+        // first time this is clicked, mark it
+        $("#flowerpotsandplanters").addClass("clickedflowerpotsandplanters");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/flowerpotsandplanters.txt?" + rand, success: function(result){
+         $("#flowerpotsandplanters").html(result);
+        }});
+    }
+   });
+  // Grab flowerpotsandplanters on click end
+
   // Grab stainedglass on click start
   $("#stainedglassbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -4453,7 +4470,7 @@ $(document).ready(function () {
    <div class="rowbin" >-</div>
    </div></li><!--END SECTION-->  
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS (17)</b></span> <span id="ro"><b>S. MATERIALES AGRÍCOLAS (17)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>S. AGRICULTURAL MATERIALS (18)</b></span> <span id="ro"><b>S. MATERIALES AGRÍCOLAS (18)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="concreteandsteelsilosbtn" ><span id="en">Concrete and steel silos</span><span id="ro">Silos de hormigón y acero</span></h5> 
    <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" id="agriculturalmachinerybtn" ><span id="en">Agricultural machinery</span><span id="ro">Maquinaria agrícola</span></h5> 
@@ -4468,8 +4485,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>	
-  <h5 class="categoryaccordion" id="flowerpotsbtn" ><span id="en">Flower pots and planters</span><span id="ro">Macetas y jardineras</span></h5>    
-   <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="flowerpotsandplantersbtn" ><span id="en">Flower pots and planters (1)</span><span id="ro">Macetas y jardineras (1)</span></h5>    
+   <div id="flowerpotsandplanters" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>
   <h5 class="categoryaccordion" id="fertilizersbtn" ><span id="en">Fertilizers (1)</span><span id="ro">Fertilizantes (1)</span></h5>    
    <div id="fertilizers" class="categorypanel" >
    <!-- Load info start --> 
