@@ -131,64 +131,6 @@
 .scheduale{display:block;width:100%;margin: 0px auto;text-indent:10px;}
 .schbin{display:table;width:100%;overflow:hidden;border-bottom:1px #ccc solid;text-align:left;}
 .sch{display:table-cell;padding-top:1%;padding-bottom:1%;width:33%; font-weight:bold;}
-
-categoryaccordion{
-  transition: padding-right 0.3s ease;
-}
-.categoryaccordion.spinning {
-  padding-right: 40px;
-}
-.categoryaccordion.spinning:after {
-  content: "";
-  right: 6px;
-  top: 50%;
-  width: 0;
-  height: 0;
-  position: absolute;
-  border-radius: 50%;
-  -webkit-animation: rotate360 0.5s infinite linear, exist 0.1s forwards ease;
-          animation: rotate360 0.5s infinite linear, exist 0.1s forwards ease;
-}
-.categoryaccordion.spinning:before {
-  content: "";
-  width: 0px;
-  height: 0px;
-  border-radius: 50%;
-  right: 6px;
-  top: 50%;
-  position: absolute;
-  border: 2px solid #000000;
-  border-right: 3px solid #27ae60;
-  -webkit-animation: rotate360 0.5s infinite linear, exist 0.1s forwards ease;
-          animation: rotate360 0.5s infinite linear, exist 0.1s forwards ease;
-}
-@-webkit-keyframes rotate360 {
-  100% {
-    -webkit-transform: rotate(360deg);
-            transform: rotate(360deg);
-  }
-}
-@keyframes rotate360 {
-  100% {
-    -webkit-transform: rotate(360deg);
-            transform: rotate(360deg);
-  }
-}
-@-webkit-keyframes exist {
-  100% {
-    width: 15px;
-    height: 15px;
-    margin: -8px 5px 0 0;
-  }
-}
-@keyframes exist {
-  100% {
-    width: 15px;
-    height: 15px;
-    margin: -8px 5px 0 0;
-  }
-}
-
 	
 </style>
 
@@ -209,21 +151,6 @@ $(document).ready(function() {
 });
 </script>
 
-<script>
-$(document).ready(function() {
-    // Spinning effect start 
-    var buttonElem = document.querySelector('.categoryaccordion');
-    buttonElem.addEventListener("click", function() {
-      buttonElem.classList.add('spinning');
-      setTimeout( 
-            function  (){  
-                buttonElem.classList.remove('spinning');
-          
-            }, 6000);
-    }, false);
-    // Spinning effect end 
-});
-</script>	
 	
 <script>
 $(document).ready(function () { 
