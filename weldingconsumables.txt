@@ -1,5 +1,7 @@
-       <tr><td>Welding stick electrode</td><td>- </td><td>-</td></tr>
-       <tr><td>Welding solid wire</td><td>- </td><td>-</td></tr>
-       <tr><td>Welding flux-cored wire</td><td>- </td><td>-</td></tr>
-       <tr><td>Welding submerged arc welding ( SAW ) wire</td><td>- </td><td>-</td></tr>
-       <tr><td>Welding flux</td><td>- </td><td>-</td></tr>
+<style>
+    .weldingconsumablesslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="weldingconsumablesslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/alloysweldingandsoldering.jpg" alt="alloysweldingandsoldering item1" /> 
+</div>
