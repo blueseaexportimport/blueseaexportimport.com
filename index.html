@@ -178,6 +178,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab weldingconsumables on click start
+  $("#weldingconsumablesbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#weldingconsumables").hasClass("clickedweldingconsumables")) {
+        // already been clicked once, hide it
+        $("#weldingconsumables").html("");
+        $( "#weldingconsumables" ).removeClass( "clickedweldingconsumables" )
+    }else {
+        // first time this is clicked, mark it
+        $("#weldingconsumables").addClass("clickedweldingconsumables");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/weldingconsumables.txt?" + rand, success: function(result){
+         $("#weldingconsumables").html(result);
+        }});
+    }
+   });
+  // Grab weldingconsumables on click end
+
   // Grab flowerpotsandplanters on click start
   $("#flowerpotsandplantersbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -3851,7 +3868,7 @@ $(document).ready(function () {
    </div>	 
   </div></li><!--END SECTION-->
 
-   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (17)</b></span> <span id="ro"><b>I. MINERALES Y METALURGIA (17)</b></span></button><div class="catalogpanel">    
+   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>I. MINERALS AND METALLURGY (18)</b></span> <span id="ro"><b>I. MINERALES Y METALURGIA (18)</b></span></button><div class="catalogpanel">    
    <h5 class="categoryaccordion" id="mineraloresbtn" ><span id="en">Minerals - ores (1)</span><span id="ro">Minerales (1)</span></h5>    	
    <div id="mineralores" class="categorypanel" >
    <!-- Load info start --> 
@@ -3941,8 +3958,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>
-   <h5 class="categoryaccordion" id="weldingalloysbtn" ><span id="en">Alloys - welding and soldering</span><span id="ro">Aleaciones - soldadura</span></h5>    
-   <div class="rowbin" >-</div>     
+   <h5 class="categoryaccordion" id="weldingconsumablessbtn" ><span id="en">Alloys - welding and soldering (1)</span><span id="ro">Aleaciones - soldadura (1)</span></h5>    
+   <div id="weldingconsumables" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>    
    <h5 class="categoryaccordion" id="foundryconsumablesbtn" ><span id="en">Metallurgy consumables</span><span id="ro">Consumibles metalúrgicos</span></h5>    	
    <div class="rowbin" >-</div>    
    <h5 class="categoryaccordion" id="foundrytoolsbtn" ><span id="en">Metallurgy tools and safety equipment</span><span id="ro">Herramientas metalúrgicas y equipos de seguridad</span></h5>    	
