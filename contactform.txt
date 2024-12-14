@@ -43,7 +43,7 @@ textarea{
         <input id="companyname" name="companyname" type="text" required="required" >
         </div><br>
         <div class="inputtxt" >
-        <label for="name" ><span id="en">Your Company Public E-Mail</span><span id="ro" >E-mail público de su empresa</span> ( e.g. joe@companyname.com )</label><br>
+        <label for="name" ><span id="en">Your Company Public E-Mail</span><span id="ro" >E-mail público de su empresa</span> ( e.g. contact@companyname.com )</label><br>
         <input id="email" name="email" type="text" required="required" >
         </div><br>
         <div class="inputtxt" >
