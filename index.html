@@ -178,6 +178,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab shoesandleathercleaningitems on click start
+  $("#shoesandleathercleaningitemsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#shoesandleathercleaningitems").hasClass("shoesandleathercleaningitems")) {
+        // already been clicked once, hide it
+        $("#shoesandleathercleaningitems").html("");
+        $( "#shoesandleathercleaningitems" ).removeClass( "shoesandleathercleaningitems" )
+    }else {
+        // first time this is clicked, mark it
+        $("#shoesandleathercleaningitems").addClass("shoesandleathercleaningitems");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/shoesandleathercleaningitems.txt?" + rand, success: function(result){
+         $("#shoesandleathercleaningitems").html(result);
+        }});
+    }
+   });
+  // Grab shoesandleathercleaningitems on click end
+
   // Grab weldingconsumables on click start
   $("#weldingconsumablesbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -4107,7 +4124,7 @@ $(document).ready(function () {
 
    </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>M. TEXTILES, LEATHER AND FURS (10)</b></span><span id="ro"><b>M. TEXTILES, CUEROS Y PIEL (10)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>M. TEXTILES, LEATHER AND FURS (11)</b></span><span id="ro"><b>M. TEXTILES, CUEROS Y PIEL (11)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" ><span id="en">Textile spinning mill</span><span id="ro">Hilandería textil</span></h5> 
   <div class="rowbin" >-</div>
   <h5 class="categoryaccordion" ><span id="en">Textile weaving and knitting mill</span><span id="ro">Fábrica de tejidos</span></h5> 
@@ -4152,8 +4169,11 @@ $(document).ready(function () {
    </div>
   <h5 class="categoryaccordion" ><span id="en">Leatherwork consumables</span><span id="ro">Consumibles para marroquinería</span></h5>    
   <div class="rowbin" >-</div>
-  <h5 class="categoryaccordion" ><span id="en">Shoes and leather cleaning items</span><span id="ro">Artículos de limpieza para calzado y cuero</span></h5>    
-  <div class="rowbin" >-</div>
+  <h5 class="categoryaccordion" id="shoesandleathercleaningitemsbtn" ><span id="en">Shoes and leather cleaning items (1)</span><span id="ro">Artículos de limpieza para calzado y cuero (1)</span></h5>    
+   <div id="shoesandleathercleaningitems" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   </div></li><!--END SECTION-->
 
   <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>N. TECHNICAL, CONSUMABLES AND TOOLS  (14)</b></span> <span id="ro"><b>N. TÉCNICOS, CONSUMIBLES Y HERRAMIENTAS (14)</b></span></button><div class="catalogpanel">
