@@ -178,6 +178,23 @@ $(document).ready(function () {
    });
   // Grab buyprocedure on click end
 
+  // Grab casterwheels on click start
+  $("#casterwheelsbtn").click(function() {
+    let rand = Math.floor((Math.random() * 1000000) + 1);
+    if ($("#casterwheels").hasClass("clickedcasterwheels")) {
+        // already been clicked once, hide it
+        $("#casterwheels").html("");
+        $( "#casterwheels" ).removeClass( "clickedcasterwheels" )
+    }else {
+        // first time this is clicked, mark it
+        $("#casterwheels").addClass("clickedcasterwheels");
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/casterwheels.txt?" + rand, success: function(result){
+         $("#casterwheels").html(result);
+        }});
+    }
+   });
+  // Grab casterwheels on click end
+
   // Grab shoesandleathercleaningitems on click start
   $("#shoesandleathercleaningitemsbtn").click(function() {
     let rand = Math.floor((Math.random() * 1000000) + 1);
@@ -4176,7 +4193,7 @@ $(document).ready(function () {
    </div>	
   </div></li><!--END SECTION-->
 
-  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>N. TECHNICAL, CONSUMABLES AND TOOLS  (14)</b></span> <span id="ro"><b>N. TÉCNICOS, CONSUMIBLES Y HERRAMIENTAS (14)</b></span></button><div class="catalogpanel">
+  <li><button style="background:#151fba;color:#FFF;" class="catalogaccordion" ><span id="en"><b>N. TECHNICAL, CONSUMABLES AND TOOLS  (15)</b></span> <span id="ro"><b>N. TÉCNICOS, CONSUMIBLES Y HERRAMIENTAS (15)</b></span></button><div class="catalogpanel">
   <h5 class="categoryaccordion" id="toolsandmeasuringinstrumentsbtn" ><span id="en">Tools And Measuring Instruments (4)</span><span id="ro">Herramientas e instrumentos de medición (4)</span></h5>   
    <div id="toolsandmeasuringinstruments" class="categorypanel" >
    <!-- Load info start --> 
@@ -4219,8 +4236,11 @@ $(document).ready(function () {
    <!-- Load info start --> 
    <!-- Load info end --> 
    </div>		
-  <h5 class="categoryaccordion" ><span id="en">Castor wheels</span><span id="ro">Ruedas giratorias</span></h5>    
-  <div class="rowbin" >-</div> 	
+  <h5 class="categoryaccordion" id="casterwheelsbtn" ><span id="en">Castor wheels (1)</span><span id="ro">Ruedas giratorias (1)</span></h5>    
+   <div id="casterwheels" class="categorypanel" >
+   <!-- Load info start --> 
+   <!-- Load info end --> 
+   </div>	
   <h5 class="categoryaccordion" ><span id="en">Conveyor Belts Products</span><span id="ro">Accesorios y bandas transportadoras</span></h5>    
   <div class="rowbin" >-</div> 	
   <h5 class="categoryaccordion" ><span id="en">Filters, Wire Mesh, Sieve and Nets</span><span id="ro">Filtros, mallas metálicas, tamices y redes</span></h5>    
