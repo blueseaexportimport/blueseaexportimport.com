@@ -1,0 +1,7 @@
+<style>
+    .casterwheelsslidediv img{ width:100%; height:auto;}
+</style> 
+
+<div class="casterwheelsslidediv" >
+<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/Casterwheels.jpg" alt="casterwheels item1" /> 
+</div>
