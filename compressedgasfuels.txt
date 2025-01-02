@@ -1,7 +1,7 @@
-<style>
+<!--<style>
     .compressedgasfuelsslidediv img{ width:100%; height:auto;}
 </style> 
 
 <div class="compressedgasfuelsslidediv" >
 <img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/gasfuels.jpg" alt="compressedgasfuels item1" /> 
-</div>
+</div>-->
