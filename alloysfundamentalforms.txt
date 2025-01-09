@@ -1,7 +1,0 @@
-<style>
-    .alloysfundamentalformsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="alloysfundamentalformsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/alloysfundamentalforms.jpg" alt="alloysfundamentalforms item1" /> 
-</div>
