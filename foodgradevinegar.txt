@@ -1,7 +1,0 @@
-<style>
-    .foodgradevinegarslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="foodgradevinegarslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/vinegar.jpg" alt="food grade vinegar item1" /> 
-</div>
