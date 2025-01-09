@@ -1,7 +1,0 @@
-<style>
-    .weldingconsumablesslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="weldingconsumablesslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/alloysweldingandsoldering.jpg" alt="alloysweldingandsoldering item1" /> 
-</div>
