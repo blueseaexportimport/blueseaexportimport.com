@@ -1,7 +1,0 @@
-<style>
-    .mushroomsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="mushroomsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/mushrooms.jpg" alt="mushrooms item1" /> 
-</div>
