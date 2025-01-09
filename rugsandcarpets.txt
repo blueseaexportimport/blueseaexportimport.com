@@ -1,7 +1,0 @@
-<style>
-    .rugsandcarpetsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="rugsandcarpetsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/rugsandcarpets.jpg" alt="rugs and carpets item1" /> 
-</div>
