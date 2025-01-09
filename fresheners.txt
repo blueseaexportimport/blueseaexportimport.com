@@ -1,7 +1,0 @@
-<style>
-    .freshenersslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="freshenersslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/Fresheners.jpg" alt="fresheners item1" /> 
-</div>
