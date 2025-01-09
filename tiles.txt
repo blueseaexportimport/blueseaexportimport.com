@@ -1,9 +1,0 @@
-       <tr><td>Earthenware tiles set </td><td>30mm - 50mm Application: Roofing </td><td>-</td></tr>
-       <tr><td>Terracotta tiles set </td><td>30mm - 50mm Application: Wall tiles </td><td>-</td></tr>
-       <tr><td>Faience tiles set </td><td>30mm - 50mm Application: Wall tiles </td><td>-</td></tr> 
-       <tr><td>Hand-Painted Majolica tiles set </td><td>30mm - 50mm Application: Wall tiles </td><td>-</td></tr>
-       <tr><td>Fully vitrified tiles set </td><td>30mm - 50mm Application: Flooring</td><td>-</td></tr>
-       <tr><td>Glazed tiles set </td><td>30mm - 50mm Application: Wall tiles </td><td>-</td></tr>
-       <tr><td>Porcelain stoneware tiles set </td><td>30mm - 50mm Application: Partition tiles </td><td>-</td></tr>         
-       <tr><td>Tiles spacers </td><td>30mm - 50mm Application: Partition tiles </td><td>-</td></tr>         
-       <tr><td>Ceramic tile baseboard </td><td>30mm - 1000mm Application: baseboard </td><td>-</td></tr> 
