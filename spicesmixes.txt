@@ -1,7 +1,0 @@
-<style>
-    .spicesmixesslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="spicesmixesslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/spicesmixes.jpg" alt="spices mixes item1" /> 
-</div>
