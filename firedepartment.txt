@@ -1,7 +1,0 @@
- <style>
-    .firedepartmentslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="firedepartmentslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/firedepartment.jpg" alt="fire department item1" /> 
-</div>
