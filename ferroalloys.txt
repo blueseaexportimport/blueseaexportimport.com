@@ -1,7 +1,0 @@
-<style>
-    .ferroalloysslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="ferroalloysslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/Ferroalloys.jpg" alt="ferro alloys item1" /> 
-</div>
