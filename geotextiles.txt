@@ -1,7 +1,0 @@
-<style>
-    .geotextilesslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="geotextilesslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/geosynthetics.jpg" alt="geosynthetics item1" /> 
-</div>
