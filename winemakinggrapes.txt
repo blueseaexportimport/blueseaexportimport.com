@@ -1,7 +1,0 @@
-<style>
-    .winemakinggrapesslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="winemakinggrapesslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/winemakinggrapes.jpg" alt="winemakinggrapes item1" /> 
-</div>
