@@ -1,7 +1,0 @@
-<style>
-    .juiceslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="juiceslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/juice.jpg" alt="juice item1" /> 
-</div>
