@@ -1,9 +1,0 @@
-<style>
-    .plantresinsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="plantresinsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/plantresins.jpg" alt="plantresins item1" /> 
-</div>
-
-
