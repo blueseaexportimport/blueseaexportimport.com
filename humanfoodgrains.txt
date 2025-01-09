@@ -1,7 +1,0 @@
-<style>
-    .humanfoodgrainsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="humanfoodgrainsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/humanfoodgrains.jpg" alt="humanfoodgrains item1" /> 
-</div>
