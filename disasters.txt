@@ -1,7 +1,0 @@
-<style>
-    .disastersslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="disastersslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/disasters.jpg" alt="disasters item1" /> 
-</div>
