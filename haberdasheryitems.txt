@@ -1,9 +1,0 @@
-<style>
-    .haberdasheryitemsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="haberdasheryitemsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/haberdasheryitems.jpg" alt="haberdashery items item1" /> 
-</div> 
-
-
