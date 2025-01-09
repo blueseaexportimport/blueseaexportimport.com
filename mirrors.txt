@@ -1,7 +1,0 @@
-<style>
-    .mirrorsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="mirrorsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/Mirrors.jpg" alt="mirrors item1" /> 
-</div>
