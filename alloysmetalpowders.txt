@@ -1,7 +1,0 @@
-<style>
-    .alloysmetalpowdersslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="alloysmetalpowdersslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/alloysmetalpowders.jpg" alt="alloys metal powders item1" /> 
-</div>
