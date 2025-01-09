@@ -1,7 +1,0 @@
-<style>
-    .processorsandgraphiccardsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="processorsandgraphiccardsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/processorsandgraphiccards.jpg" alt="processors and graphic cards item1" /> 
-</div>
