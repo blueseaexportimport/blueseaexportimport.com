@@ -1,7 +1,0 @@
-<style>
-    .lightweightmaterialsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="lightweightmaterialsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/lightweightmaterials.jpg" alt="lightweight materials item1" /> 
-</div>
