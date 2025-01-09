@@ -1,7 +1,0 @@
-<style>
-    .cannedanimaloriginfoodslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="cannedanimaloriginfoodslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/cannedanimaloriginfood.jpg" alt="canned animal origin food item1" /> 
-</div>
