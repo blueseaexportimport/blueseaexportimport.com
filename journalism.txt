@@ -1,7 +1,0 @@
-<style>
-    .journalismslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="journalismslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/journalism.jpg" alt="journalism item1" /> 
-</div>
