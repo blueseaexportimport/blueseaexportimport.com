@@ -1,7 +1,0 @@
-<style>
-    .castironslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="castironslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/castiron.jpg" alt="cast iron item1" /> 
-</div>
