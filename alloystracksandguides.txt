@@ -1,7 +1,0 @@
-<style>
-    .alloystracksandguidesslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="alloystracksandguidesslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/Alloystracksandguides.jpg" alt="alloys tracks and guides item1" /> 
-</div>
