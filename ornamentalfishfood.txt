@@ -1,7 +1,0 @@
-   <tr><td><span id="en">Ornamental Fish Dry Food Flakes</span><span id="ro">Pești Ornamentali Hrană Uscată Fulgi</span></td><td>-</td><td>-</td></tr>
-   <tr><td><span id="en">Ornamental Fish Dry Food Pellets</span><span id="ro">Pești Ornamentali Hrană Uscată Peleți</span></td><td>-</td><td>-</td></tr>
-   <tr><td><span id="en">Ornamental Fish Dry Food Sticks</span><span id="ro">Pești Ornamentali Hrană Uscată Sticks-uri</span></td><td>-</td><td>-</td></tr>
-   <tr><td><span id="en">Ornamental Fish Dry Food Tablets</span><span id="ro">Pești Ornamentali Hrană Uscată Tablete</span></td><td>-</td><td>-</td></tr>
-   <tr><td><span id="en">Ornamental Fish Dry Food Granules</span><span id="ro">Pești Ornamentali Hrană Uscată Granule</span></td><td>-</td><td>-</td></tr>
-   <tr><td><span id="en">Ornamental Fish Dry Food Wafers</span><span id="ro">Pești Ornamentali Hrană Uscată Vafe</span></td><td>-</td><td>-</td></tr>
-   <tr><td><span id="en">Ornamental Fish Vacation Food Blocks</span><span id="ro">Pești Ornamentali Blocuri Hrană de Vacanță</span></td><td>-</td><td>-</td></tr>
