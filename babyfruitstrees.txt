@@ -1,7 +1,0 @@
-<style>
-    .babyfruitstreesslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="babyfruitstreesslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/babyfruitstrees.jpg" alt="babyfruitstrees item1" /> 
-</div>
