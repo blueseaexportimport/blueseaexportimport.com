@@ -1,7 +1,0 @@
-<style>
-    .packagingslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="packagingslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/packaging.jpg" alt="packaging item1" /> 
-</div>
