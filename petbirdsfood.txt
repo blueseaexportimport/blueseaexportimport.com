@@ -1,7 +1,0 @@
-<style>
-    .petbirdsfoodslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="petbirdsfoodslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/petbirdsfood.jpg" alt="pet birds food item1" /> 
-</div>
