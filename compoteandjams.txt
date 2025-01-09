@@ -1,7 +1,0 @@
-<style>
-    .compoteandjamsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="compoteandjamsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/compoteandjamsa.jpg" alt="compote and jams item1" /> 
-</div>
