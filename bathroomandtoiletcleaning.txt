@@ -1,7 +1,0 @@
-<style>
-    .bathroomandtoiletcleaningslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="bathroomandtoiletcleaningslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/Bathroomandtoiletcleaning.jpg" alt="Bathroom and toilet cleaning item1" /> 
-</div>
