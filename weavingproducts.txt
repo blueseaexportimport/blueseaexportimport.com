@@ -1,7 +1,0 @@
-<style>
-    .weavingproductsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="weavingproductsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/weavingproducts.jpg" alt="weavingproducts item1" /> 
-</div>
