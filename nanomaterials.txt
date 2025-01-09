@@ -1,7 +1,0 @@
-<style>
-    .nanomaterialsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="nanomaterialsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/nanomaterials.jpg" alt="nano materials item1" /> 
-</div>
