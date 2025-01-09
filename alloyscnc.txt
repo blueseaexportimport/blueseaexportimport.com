@@ -1,7 +1,0 @@
-<style>
-    .alloyscncslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="alloyscncslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/alloyscnc.jpg" alt="alloys cnc item1" /> 
-</div>
