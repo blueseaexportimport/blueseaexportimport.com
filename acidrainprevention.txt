@@ -1,7 +1,0 @@
-<style>
-    .acidrainpreventionslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="acidrainpreventionslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/acidrainprevention.jpg" alt="acid rain prevention item1" /> 
-</div>
