@@ -1,8 +1,0 @@
-<style>
-    .acidresistantmaterialsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="acidresistantmaterialsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/acidresistantmaterials.jpg" alt="acid resistant materials item1" /> 
-</div>
-
