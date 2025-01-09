@@ -1,7 +1,0 @@
-<style>
-    .cryogenicequipmentslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="cryogenicequipmentslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/cryogenicequipment.jpg" alt="cryogenicequipment item1" /> 
-</div>
