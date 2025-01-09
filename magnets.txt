@@ -1,7 +1,0 @@
-<style>
-    .magnetsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="magnetsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/magnets.jpg" alt="magnets item1" /> 
-</div>
