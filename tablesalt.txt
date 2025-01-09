@@ -1,7 +1,0 @@
-<style>
-    .tablesaltslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="tablesaltslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/tablesalt.jpg" alt="tablesalt item1" /> 
-</div>
