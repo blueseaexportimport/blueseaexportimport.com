@@ -1,7 +1,0 @@
-<style>
-    .lubricantsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="lubricantsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/lubricants.jpg" alt="lubricants item1" /> 
-</div>
