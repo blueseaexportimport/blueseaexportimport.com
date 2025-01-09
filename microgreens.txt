@@ -1,8 +1,0 @@
-<style>
-    .microgreensslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="microgreensslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/microgreens.jpg" alt="microgreens item1" /> 
-</div>
-
