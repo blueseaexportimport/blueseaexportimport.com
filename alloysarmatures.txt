@@ -1,7 +1,0 @@
-<style>
-    .alloysarmaturesslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="alloysarmaturesslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/alloysarmatures.jpg" alt="alloys armatures item1" /> 
-</div>
