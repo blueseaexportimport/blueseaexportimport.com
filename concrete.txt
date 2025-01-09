@@ -1,7 +1,0 @@
-<style>
-    .concreteslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="concreteslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/concrete.jpg" alt="concrete item1" /> 
-</div>
