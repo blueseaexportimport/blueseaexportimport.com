@@ -1,7 +1,0 @@
-<style>
-    .alloysmetalcastingslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="alloysmetalcastingslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/alloysmetalcasting.jpg" alt="alloys metal casting item1" /> 
-</div>
