@@ -1,7 +1,0 @@
-<style>
-    .furnitureaccessoriesslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="furnitureaccessoriesslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/furnitureaccesories.jpg" alt="furnitureaccessories item1" /> 
-</div>
