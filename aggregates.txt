@@ -1,7 +1,0 @@
-<style>
-    .aggregatesslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="aggregatesslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/aggregates.jpg" alt="aggregates item1" /> 
-</div>
