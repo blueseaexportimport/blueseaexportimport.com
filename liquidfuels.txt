@@ -1,7 +1,0 @@
-<style>
-    .liquidfuelsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="liquidfuelsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/liquidfuels.jpg" alt="liquidfuels item1" /> 
-</div>
