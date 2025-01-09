@@ -1,7 +1,0 @@
-<style>
-    .impactresistantmaterialsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="impactresistantmaterialsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/impactresistantmaterials.jpg" alt="impact resistant materials item1" /> 
-</div>
