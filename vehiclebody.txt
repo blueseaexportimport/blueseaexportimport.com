@@ -1,7 +1,0 @@
-<style>
-    .vehiclebodyslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="vehiclebodyslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/body.jpg" alt="body item1" /> 
-</div>
