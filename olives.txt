@@ -1,7 +1,0 @@
-<style>
-    .olivesslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="olivesslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/olives.jpg" alt="olives item1" /> 
-</div>
