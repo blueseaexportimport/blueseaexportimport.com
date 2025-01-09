@@ -1,7 +1,0 @@
-<style>
-    .lensandopticsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="lensandopticsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/lensandoptics.jpg" alt="lensandoptics item1" /> 
-</div>
