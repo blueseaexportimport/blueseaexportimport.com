@@ -1,8 +1,0 @@
-
-<style>
-    .logisticsmaterialsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="logisticsmaterialsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/logisticsmaterials.jpg" alt="logistics materials item1" /> 
-</div>
