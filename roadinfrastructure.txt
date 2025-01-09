@@ -1,7 +1,0 @@
-<style>
-    .roadinfrastructureslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="roadinfrastructureslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/roadinfrastructure.jpg" alt="road infrastructure item1" /> 
-</div>
