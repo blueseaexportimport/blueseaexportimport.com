@@ -1,6 +1,0 @@
-<tbody>
-
-<tr><td><span id="en">Acid resistant brick</span><span id="ro">Cărămidă rezistentă la acid</span>  </td><td>-</td><td>-</td></tr>               
-
-
-</tbody> 
