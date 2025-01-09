@@ -1,7 +1,0 @@
-<style>
-    .lightingfixturesslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="lightingfixturesslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/lightingfixtures.jpg" alt="lighting fixtures item1" /> 
-</div>
