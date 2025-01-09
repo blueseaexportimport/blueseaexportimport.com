@@ -1,7 +1,0 @@
-<style>
-    .decorativeclocksslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="decorativeclocksslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/Decorativeclocks.jpg" alt="Decorative clocks item1" /> 
-</div>
