@@ -1,7 +1,0 @@
-<style>
-    .nutsandseedsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="nutsandseedsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/nuts.jpg" alt="nutsandseeds item1" /> 
-</div>
