@@ -1,7 +1,0 @@
-<style>
-    .combinedfodderslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="combinedfodderslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/combinedfodder.jpg" alt="combined fodder item1" /> 
-</div>
