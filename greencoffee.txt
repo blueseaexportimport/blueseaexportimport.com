@@ -1,7 +1,0 @@
-<style>
-    .greencoffeeslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="greencoffeeslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/greencoffee.jpg" alt="greencoffee item1" /> 
-</div>
