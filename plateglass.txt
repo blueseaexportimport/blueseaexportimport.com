@@ -1,7 +1,0 @@
-<style>
-    .plateglassslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="plateglassslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/Plateglass.jpg" alt="plateglass item1" /> 
-</div>
