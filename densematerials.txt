@@ -1,7 +1,0 @@
-<style>
-    .densematerialsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="densematerialsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/densematerials.jpg" alt="dense materials item1" /> 
-</div>
