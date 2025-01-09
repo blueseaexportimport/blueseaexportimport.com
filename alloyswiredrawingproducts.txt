@@ -1,7 +1,0 @@
-<style>
-    .alloyswiredrawingproductsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="alloyswiredrawingproductsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/Alloyswiredrawingproducts.jpg" alt="Alloys wire drawing products item1" /> 
-</div>
