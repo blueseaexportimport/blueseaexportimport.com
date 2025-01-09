@@ -1,8 +1,0 @@
-
-<style>
-    .concreteformworkslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="concreteformworkslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/concreteformwork.jpg" alt="concrete formwork item1" /> 
-</div>
