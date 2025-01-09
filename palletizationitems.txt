@@ -1,7 +1,0 @@
-<style>
-    .palletizationitemsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="palletizationitemsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/palletizationitems.jpg" alt="palletization item1" /> 
-</div>
