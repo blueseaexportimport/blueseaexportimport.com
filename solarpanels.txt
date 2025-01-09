@@ -1,8 +1,0 @@
-<style>
-    .solarpanelsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="solarpanelsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/solarpanels.jpg" alt="solar panels item1" /> 
-</div>
- 
