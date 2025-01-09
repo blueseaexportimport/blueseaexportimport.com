@@ -1,7 +1,0 @@
-<style>
-    .stainedglassslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="stainedglassslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/stainedglass.jpg" alt="stained glass item1" /> 
-</div>
