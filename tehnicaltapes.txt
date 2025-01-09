@@ -1,7 +1,0 @@
-<style>
-    .tehnicaltapesslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="tehnicaltapesslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/tehnicaltapes.jpg" alt="tehnicaltapes item1" /> 
-</div>
