@@ -1,7 +1,0 @@
-<style>
-    .alloyssheetsandstripsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="alloyssheetsandstripsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/alloyssheetsandstrips.jpg" alt="alloys sheets and strips item1" /> 
-</div>
