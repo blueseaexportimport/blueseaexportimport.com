@@ -1,7 +1,0 @@
-<style>
-    .over150infoslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="over150infoslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/shippingprocedureordersover150.jpg" alt="shipping procedure orders over150 item1" /> 
-</div>
