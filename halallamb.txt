@@ -1,7 +1,0 @@
-<style>
-    .halallambslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="halallambslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/halallambfreshmeat.jpg" alt="halal lamb item1" /> 
-</div>
