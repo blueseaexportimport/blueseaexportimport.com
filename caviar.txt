@@ -1,7 +1,0 @@
-<style>
-    .caviarslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="caviarslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/roecaviar.jpg" alt="roecaviar item1" /> 
-</div>
