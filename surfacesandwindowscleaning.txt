@@ -1,7 +1,0 @@
-<style>
-    .surfacesandwindowscleaningslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="surfacesandwindowscleaningslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/surfacesandwindowscleaning.jpg" alt="surfacesandwindowscleaning item1" /> 
-</div>
