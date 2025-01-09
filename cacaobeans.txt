@@ -1,7 +1,0 @@
-<style>
-    .cacaobeansslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="cacaobeansslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/cacaobeans.jpg" alt="cacaobeans item1" /> 
-</div>
