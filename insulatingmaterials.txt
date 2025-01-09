@@ -1,7 +1,0 @@
-<style>
-    .insulatingmaterialsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="insulatingmaterialsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/Insulatingmaterials.jpg" alt="insulating materials item1" /> 
-</div>
