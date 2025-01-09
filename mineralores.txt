@@ -1,8 +1,0 @@
- 
-<style>
-    .mineraloresslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="mineraloresslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/minerals.jpg" alt="minerals ores item1" /> 
-</div>
