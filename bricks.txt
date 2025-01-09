@@ -1,7 +1,0 @@
-<style>
-    .bricksslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="bricksslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/bricks.jpg" alt="bricks item1" /> 
-</div>
