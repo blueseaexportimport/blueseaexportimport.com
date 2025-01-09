@@ -1,7 +1,0 @@
-<style>
-    .lasersslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="lasersslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/lasers.jpg" alt="lasers item1" /> 
-</div>
