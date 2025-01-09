@@ -1,7 +1,0 @@
-<style>
-    .shoesandleathercleaningitemsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="shoesandleathercleaningitemsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/Shoesandleathercleaningitems.jpg" alt="Shoes and leather cleaning items item1" /> 
-</div>
