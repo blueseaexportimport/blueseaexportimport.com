@@ -1,7 +1,0 @@
-<style>
-    .alloysprofilesslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="alloysprofilesslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/Alloysprofilesc.jpg" alt="alloysprofiles item1" /> 
-</div>
