@@ -1,7 +1,0 @@
-<style>
-    .alloysforgingslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="alloysforgingslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/alloysforging.jpg" alt="alloys forging item1" /> 
-</div>
