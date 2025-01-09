@@ -1,7 +1,0 @@
-<style>
-    .woodforbuildingslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="woodforbuildingslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/woodforbuilding.jpg" alt="wood for building item1" /> 
-</div>
