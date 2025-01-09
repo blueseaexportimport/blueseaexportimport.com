@@ -1,7 +1,0 @@
-<style>
-    .frozenmeatslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="frozenmeatslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/frozenmeat.jpg" alt="frozenmeat item1" /> 
-</div>
