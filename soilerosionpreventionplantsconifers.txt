@@ -1,7 +1,0 @@
-<style>
-    .soilerosionpreventionplantsconifersslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="soilerosionpreventionplantsconifersslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/soilerosionpreventionplantsconifers.jpg" alt="soilerosionpreventionplantsconifers item1" /> 
-</div>
