@@ -1,7 +1,0 @@
-<style>
-    .starchslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="starchslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/starch.jpg" alt="starch item1" /> 
-</div>
