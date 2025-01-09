@@ -1,7 +1,0 @@
-<style>
-    .decorativerocksslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="decorativerocksslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/decorativerocks.jpg" alt="decorativerocks item1" /> 
-</div>
