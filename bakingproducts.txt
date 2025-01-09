@@ -1,7 +1,0 @@
-<style>
-    .bakingproductsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="bakingproductsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/bakingproducts.jpg" alt="baking products item1" /> 
-</div>
