@@ -1,7 +1,0 @@
-<style>
-    .mechanicaltransmissionproductsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="mechanicaltransmissionproductsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/mechanicaltransmissionproducts.jpg" alt="mechanical transmission products item1" /> 
-</div>
