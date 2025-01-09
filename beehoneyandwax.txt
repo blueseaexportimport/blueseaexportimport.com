@@ -1,7 +1,0 @@
-<style>
-    .beehoneyandwaxslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="beehoneyandwaxslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/honey.jpg" alt="honey item1" /> 
-</div>
