@@ -1,4 +1,0 @@
-    <tr><td>Lint remover machine</td><td>Philips Model xyz  </td><td>-</td></tr>   
-    <tr><td>Vacuum cleaner</td><td>Philips Model xyz  </td><td>-</td></tr>   
-    <tr><td>Laundry iron</td><td>Philips Model xyz  </td><td>-</td></tr>  
-    <tr><td>Laundry washing machine</td><td>Philips Model xyz  </td><td>-</td></tr>  
