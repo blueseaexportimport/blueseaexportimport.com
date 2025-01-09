@@ -1,7 +1,0 @@
-<style>
-    .celluloseslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="celluloseslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/Cellulose.jpg" alt="cellulose item1" /> 
-</div>
