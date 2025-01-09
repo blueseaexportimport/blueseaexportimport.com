@@ -1,7 +1,0 @@
-<style>
-    .solidfuelsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="solidfuelsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/Solidfuels.jpg" alt="solidfuels item1" /> 
-</div>
