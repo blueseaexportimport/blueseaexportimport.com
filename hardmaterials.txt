@@ -1,7 +1,0 @@
-<style>
-    .hardmaterialsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="hardmaterialsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/hardmaterials.jpg" alt="hard materials item1" /> 
-</div>
