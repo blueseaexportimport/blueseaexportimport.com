@@ -1,7 +1,0 @@
-<style>
-    .beefmeatslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="beefmeatslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/beeffreshmeat.jpg" alt="beef fresh meat item1" /> 
-</div>
