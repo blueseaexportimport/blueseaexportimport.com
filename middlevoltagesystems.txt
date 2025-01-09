@@ -1,6 +1,0 @@
-<tbody>
-       <tr><td>MV Cable Lug </td><td>Papuc cablu Tensiunie Medie</td><td>-</td></tr> 
-       <tr><td>MV Cable Link </td><td>Model A  / Roll</td><td>-</td></tr>
-       <tr><td>Aerial visibility marker Balls</td><td>Ball market retele electrice</td><td>-</td></tr> 
-
-</tbody>
