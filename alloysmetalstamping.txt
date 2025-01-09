@@ -1,7 +1,0 @@
-<style>
-    .alloysmetalstampingslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="alloysmetalstampingslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/alloysmetalstamping.jpg" alt="alloys metal stamping item1" /> 
-</div>
