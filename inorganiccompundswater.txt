@@ -1,7 +1,0 @@
-<style>
-    .inorganiccompundswaterslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="inorganiccompundswaterslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/water.jpg" alt="inorganic compunds water item1" /> 
-</div>
