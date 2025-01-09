@@ -1,7 +1,0 @@
-<style>
-    .tablegrapesslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="tablegrapesslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/tablegrapes.jpg" alt="tablegrapes item1" /> 
-</div>
