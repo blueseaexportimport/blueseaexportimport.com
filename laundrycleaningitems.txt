@@ -1,7 +1,0 @@
-<style>
-    .laundrycleaningitemsslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="laundrycleaningitemsslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/laundrycleaningitems.jpg" alt="laundry cleaning items item1" /> 
-</div>
