@@ -1,7 +1,0 @@
-<style>
-    .refrigeratorandstovecleaningslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="refrigeratorandstovecleaningslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/refrigeratorandstovecleaning.jpg" alt="refrigerator and stove cleaning item1" /> 
-</div>
