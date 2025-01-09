@@ -1,8 +1,0 @@
-<style>
-    .porkfreshmeatslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="porkfreshmeatslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/porkfreshmeat.jpg" alt="pork fresh meat item1" /> 
-</div>
-
