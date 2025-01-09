@@ -1,8 +1,0 @@
-<style>
-    .alloystractioncablesslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="alloystractioncablesslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/alloystractioncables.jpg" alt="alloys traction cables item1" /> 
-</div>
-
