@@ -1,7 +1,0 @@
-<style>
-    .plantbasedmilkslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="plantbasedmilkslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/plantbasedmilk.jpg" alt="plant based milk item1" /> 
-</div>
