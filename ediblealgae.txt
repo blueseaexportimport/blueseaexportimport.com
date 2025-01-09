@@ -1,7 +1,0 @@
-<style>
-    .ediblealgaeslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="ediblealgaeslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/algae.jpg" alt="algae item1" /> 
-</div>
