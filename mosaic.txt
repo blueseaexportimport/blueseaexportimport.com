@@ -1,7 +1,0 @@
-<style>
-    .mosaicslidediv img{ width:100%; height:auto;}
-</style> 
-
-<div class="mosaicslidediv" >
-<img src="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/catalog/mosaic.jpg" alt="mosaic item1" /> 
-</div>
