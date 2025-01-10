@@ -211,7 +211,7 @@ var myarray = [];
 
 
 $('.copybutton').click(function(element) {
-  var newmyarray = myarray.toString().replace(/,/g, '<br>');
+  var newmyarray = myarray.toString().replace(/,/g, '\n');
   newmyarray.split(",").join("\n");
   navigator.clipboard.writeText(newmyarray);
   
