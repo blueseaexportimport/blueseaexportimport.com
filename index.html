@@ -79,8 +79,10 @@
      details{padding:0px 0;font-size:21px;font-family: 'Arial', sans-serif;font-weight:normal;}
      .fingerimg{max-width:30px;height:auto;vertical-align: middle;}
      #winter{font-size:15px;font-family: 'Arial', sans-serif;font-weight:normal;}
-
-     section summary{ font-family: 'Arial', sans-serif; font-weight:bold; color:#151fba;font-size:17px;padding:10px 0; }
+     .thedocbin{text-align:right;}
+     .thedoc{display:inline-block;background:darkred;color:white;text-decoration:underline;padding:5px;font-size:15px;}
+     
+     section summary{ font-family: 'Arial', sans-serif; font-weight:bold; color:#151fba;font-size:17px;padding:10px 0;font-family: 'Arial', sans-serif; }
      
      
     .social{text-align:center;border-top:1px solid #151fba;width:96%;padding:20px 0;margin:auto;}
@@ -148,43 +150,14 @@ textarea{
 </style>
 
 
-
-	
-</head>
-
-<body>
-<div class="logo" ><a style="color:#FFF;" href="https://www.blueseaexportimport.com" >BLUE SEA<br><span class="sublogo">EXPORT IMPORT </span></a></div>
-
-<div class="main" >
- 
-<!-- START BLUE CATALOG  -->
-
-
-<br>
-<h1>Contract in Queue</h1>
-<h4><b>Client Queue Number:</b> <span class="green" ><b>0000000</b></span></h4>
-<h4><b>Client Grocery List:</b> <a href="#" ><span class="red" >none</span></a></h4>
-<h4><b>Client Commission Contract:</b> <a href="#" ><span class="red" >none</span></a></h4>
-<h4><b>Invoice:</b> <a href="#" ><span class="red" >none</span></a></h4>
-<h4><b>Proof of Payment:</b> <a href="#" ><span class="red" >none</span></a></h4>
-<h4><b>Contract Total Value:</b> <span class="green" ><b>USD 0000.00</b></span></h4>
-<h4><b>Status:</b> <span class="red" >none</span></h4>
-
-<br>
-<div id="winter" >A. We do not sell or offer services to private persons.</div>
-<div id="winter" >B. We do not store products, we buy the products from suppliers only when you the clients want them.</div>
-<div id="winter" >C. This way you will get the products fresh and we reduce energy and storage costs.</div>
-<div id="winter" >D. If you are a supplier we recommend you to produce only what you need, we will buy from you only fresh products.</div>
-
-
-
+<script src="html2pdf.bundle.min.js"></script>
 
 <script type="text/javascript" >
 $(document).ready(function() {
 var myarray = [];
-      $(".product a").each(function (index, value) {
+$(".product a").each(function (index, value) {
             $(this).click( function() {
-            
+
                if (!myarray.includes(value.innerText)){
                  $('#list').append('<li>'+value.innerText+' <a href="#!" class="delete">[ Delete ]</a></li>');
                  myarray.push(value.innerText);
@@ -205,12 +178,11 @@ var myarray = [];
                             
             });
             
-            
-       
-      });
+});
 
 
-$('.copybutton').click(function(element) {
+$('.copybutton').click(function() {
+
   var newmyarray = myarray.toString().replace(/,/g, '\n');
   newmyarray.split(",").join("\n");
   navigator.clipboard.writeText(newmyarray);
@@ -233,17 +205,57 @@ $('.copybutton').click(function(element) {
 
 });
 
-
-
+      
+$(".thedoc").each(function (index, value) {
+   $(this).click(function() {
+        var thetitle = $(value).attr("title");
+        console.log(index);
+        var thedoc = document.getElementById("html-content"+index);
+         html2pdf(thedoc, {
+            margin: 1,
+            filename: thetitle + ".pdf",
+            image: { type: "jpeg", quality: 0.98 },
+            html2canvas:  { scale: 1, scrollY: 0 },
+            pagebreak: { mode: "css", before: ".break-page" },
+            jsPDF: { unit: "em", format: "a4", orientation: "portrait" },
+            pagebreak: { mode: 'avoid-all', after: '.breakPage' },
+         }); 
+   });
+});
 
 });
 </script>
 
+	
+</head>
+
+<body>
+<div class="logo" ><a style="color:#FFF;" href="https://www.blueseaexportimport.com" >BLUE SEA<br><span class="sublogo">EXPORT IMPORT </span></a></div>
+
+<div class="main" >
+ 
+<!-- START BLUE CATALOG  -->
+
 
 
 <br>
-<h1>Grocery List ( <a href="#!" class="copybutton" >Click Here To Copy</a> )</h1>
+<h1>Contract in Queue</h1>
+<h4><b>Client Queue Number:</b> <span class="green" ><b>0000000</b></span></h4>
+<h4><b>Client Grocery List:</b> <a href="#" ><span class="red" >none</span></a></h4>
+<h4><b>Client Commission Contract:</b> <a href="#" ><span class="red" >none</span></a></h4>
+<h4><b>Invoice:</b> <a href="#" ><span class="red" >none</span></a></h4>
+<h4><b>Proof of Payment:</b> <a href="#" ><span class="red" >none</span></a></h4>
+<h4><b>Contract Total Value:</b> <span class="green" ><b>USD 0000.00</b></span></h4>
+<h4><b>Status:</b> <span class="red" >none</span></h4>
 
+<br>
+<div id="winter" >A. We do not sell or offer services to private persons.</div>
+<div id="winter" >B. We do not store products, we buy the products from suppliers only when you the clients want them.</div>
+<div id="winter" >C. This way you will get the products fresh and we reduce energy and storage costs.</div>
+<div id="winter" >D. If you are a supplier we recommend you to produce only what you need, we will buy from you only fresh products.</div>
+
+<br>
+<h1>Grocery List ( <a href="#!" class="copybutton" >Click Here To Copy</a> )</h1>
 
 <ul id="list" ></ul><br>
 
@@ -310,15 +322,16 @@ $('.copybutton').click(function(element) {
 <br>
 
 <h1>Export Import B2B Catalog</h1>
-<h3>* Click the <span style="color:darkred;" >BSEI</span> Codes </h3> 
-<div id="winter" >Our classification of goods is just a guide.</div>
+<h3>Click the <span style="color:darkred;" >BSEI</span> Codes </h3> 
+<div id="winter" >Our classification of a goods is just a guide.</div>
 <div id="winter" >To classify in advance your goods, in the EU you can apply for a <a href="https://taxation-customs.ec.europa.eu/customs-4/calculation-customs-duties/customs-tariff/ebti-european-binding-tariff-information_en" target="_blank" rel="nofollow" style="text-decoration:underline;" >BTI</a></div><br>
-
 
 <section class="catalog" >
 
 
 <details><summary>61211 - Wholesale trade services on a fee or contract basis, of grains and oilseeds and oleaginous fruits, seeds and animal feed</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of grains and oilseeds and oleaginous fruits, seeds and animal feed" >Download as PDF</a></div>
+<div id="html-content0" >
 <h3>* goods of group 011 (Cereals)</h3>
 <h4>100119 - Cereals; wheat and meslin, durum wheat, other than seed</h4>
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100119-0001</b></a> <b>For Human Consumption:</b> EN 15587</a> Durum wheat ( Triticum durum Desf. )</p>
@@ -417,10 +430,13 @@ $('.copybutton').click(function(element) {
 <h3>* goods of group 233 (Preparations used in animal feeding; lucerne (alfalfa) meal and pellets)</h3>
 <h4>230910 - Dog or cat food; put up for retail sale, used in animal feeding</h4>
 <h4>230990 - Dog or cat food; (not put up for retail sale), used in animal feeding</h4>
+</div>
 </details>
 
 <details>
   <summary>61212 - Wholesale trade services on a fee or contract basis, of flowers and plants</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of flowers and plants" >Download as PDF</a></div> 
+<div id="html-content1" >
 <h3>* goods of class 0193 (Plants and parts of plants used primarily in perfumery, in pharmacy, or for insecticidal, fungicidal or similar purposes)</h3>
 <h4>121120 - Ginseng roots, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered</h4>
 <h4>121190 - Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered</h4>
@@ -439,10 +455,13 @@ $('.copybutton').click(function(element) {
 <h4>060319 - Flowers, cut; flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh, other than roses, carnations, orchids, chrysanthemums or lillies</h4>
 <h4>060390 - Flowers, cut; flowers and flower buds of a kind suitable for bouquets or ornamental purposes, dried, dyed, bleached, impregnated or otherwise prepared</h4>
 <h4>120930 - Seeds of herbaceous plants; cultivated principally for their flowers, of a kind used for sowing</h4>
+</div>
 </details>
 
 <details>
   <summary>61215 - Wholesale trade services on a fee or contract basis, of hides, skins and leather</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of hides, skins and leather" >Download as PDF</a></div>
+<div id="html-content2" >
 <h3>* goods of class 0295 (Hides, skins and furskins, raw)</h3>
 <h4>410120 - Raw hides and skins; whole, unsplit, of bovine animals, of a weight per skin not exceeding 8kg when simply dried, 10kg when dry-salted or 16kg when fresh, wet-salted or otherwise preserved</h4>
 <h4>410150 - Hides and skins; raw, whole, of bovine animals, of a weight per skin exceeding 16 kg</h4>
@@ -452,10 +471,13 @@ $('.copybutton').click(function(element) {
 <h4>410229 - Hides and skins; raw, of animals n.e.c. in this chapter, fresh, salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), whether or not dehaired or split</h4>
 <h4>410390 - Hides and skins; raw, of animals n.e.c. in this chapter, fresh, salted, dried, limed, pickled or otherwise preserved, (but not tanned, parchment-dressed or further prepared), whether or not</h4>
 <h4>430130 - Furskins; raw, of Astrakhan, Broadtail, Caracul, Persian and similar lamb, Indian, Chinese, Mongolian or Tibetan lamb, whole, with or without head, tail or paws</h4>
+</div>
 </details>
 
 <details>
   <summary>61219 - Wholesale trade services on a fee or contract basis, of agricultural raw materials n.e.c.</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of agricultural raw materials" >Download as PDF</a></div>
+<div id="html-content3" >
 <h3>* goods of class 0195 (Natural rubber in primary forms or in plates, sheets or strip)</h3>
 <h4>400110 - Rubber; natural rubber latex, whether or not pre-vulcanised, in primary forms or in plates, sheets or strip</h4>
 <h4>400121 - Rubber; natural (excluding latex), in smoked sheets</h4>
@@ -498,10 +520,13 @@ $('.copybutton').click(function(element) {
 <h4>140120 - Rattans used primarily for plaiting</h4>
 <h4>140190 - Vegetable materials of a kind used primarily for plaiting; n.e.c. in heading no. 1401</h4>
 <h4>140490 - Vegetable products; n.e.c. in chapter 14</h4>
+</div>
 </details>
 
 <details><summary>61221 - Wholesale trade services on a fee or contract basis, of fruits and vegetables</summary>
-<h3>* goods of group 012 (Vegetables)</h3>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of fruits and vegetables" >Download as PDF</a></div>
+<div id="html-content4" >
+<h3>* goods of group 012 (Vegetables) </h3>
 <h4>070920 - Vegetables; asparagus, fresh or chilled</h4>
 <h4>070420 - Vegetables, brassica; brussel sprouts, fresh or chilled</h4>
 <h4>070490 - Vegetables, brassica; edible, n.e.c. in heading no. 0704, fresh or chilled</h4>
@@ -669,9 +694,12 @@ $('.copybutton').click(function(element) {
 <h4>200893 - Fruit; cranberries (Vaccinium macrocarpon, Vaccinium oxycoccos, Vaccinium vitis-idaea), prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit</h4>
 <h4>200897 - Fruit, nuts and other edible parts of plants; mixtures (other than those of subheading no 2008.19); prepared or preserved in ways n.e.c. in headings 2007 and 2008, whether or not containing added sugar, or other sweetening matter or spirit, n.e.c.</h4>
 <h4>200899 - Fruit, nuts and other edible parts of plants; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit, n.e.c. in heading no. 2008</h4>
+</div>
 </details>
  
 <details><summary>61222 - Wholesale trade services on a fee or contract basis, of dairy products, eggs and edible oils and fats</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of dairy products, eggs and edible oils and fats" >Download as PDF</a></div>
+<div id="html-content5" >
 <h3>* goods of group 215 (Animal fats)</h3>
 <h4>020910 - Fat; pig fat, free of lean meat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked</h4>
 <h4>020990 - Fat; poultry fat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked</h4>
@@ -758,10 +786,13 @@ $('.copybutton').click(function(element) {
 <h4>210500 - Ice cream and other edible ice; whether or not containing cocoa</h4>
 <h3>* goods of group 223 (Eggs, preserved or cooked)</h3>
 <h4>040790 - Birds' eggs, in shell; preserved or cooked</h4>
+</div>
 </details>
 
 
 <details><summary>61223 - Wholesale trade services on a fee or contract basis, of meat, poultry and game</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of meat, poultry and game" >Download as PDF</a></div>
+<div id="html-content6" >
 <h3>* goods of group 211 (Meat and meat products)</h3>
 <h4>020110 - Meat; of bovine animals, carcasses and half-carcasses, fresh or chilled</h4>
 <h4>020120 - Meat; of bovine animals, cuts with bone in (excluding carcasses and half-carcasses), fresh or chilled</h4>
@@ -831,9 +862,12 @@ $('.copybutton').click(function(element) {
 <h4>160250 - Meat preparations; of bovine animals, meat or meat offal, prepared or preserved (excluding livers and homogenised preparations)</h4>
 <h4>160290 - Meat preparations; of meat, meat offal or the blood of any animal, n.e.c. in heading no. 1602</h4>
 <h4>230110 - Flours, meals and pellets; of meat or meat offal, greaves</h4>
+</div>
 </details>
  
 <details><summary>61224 - Wholesale trade services on a fee or contract basis, of fish and other seafood</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of fish and other seafood" >Download as PDF</a></div>
+<div id="html-content7" >
 <h3>* goods of group 042 (Fish live, fresh or chilled for human consumption)</h3>
 <h4>030192 - Fish; live, eels (Anguilla spp.)</h4>
 <h4>030193 - Fish; live, carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.)</h4>
@@ -1095,6 +1129,7 @@ $('.copybutton').click(function(element) {
 <h4>030829 - Aquatic invertebrates; sea urchins (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echinus esculentus), dried, salted or in brine, smoked, whether or not cooked before or during smoking process</h4>
 <h4>230120 - Flours, meals and pellets; of fish or of crustaceans, molluscs or other aquatic invertebrates</h4>
 <h4>051191 - Animal products; of fish or crustaceans, molluscs or other aquatic invertebrates; dead animals of chapter 03, unfit for human consumption</h4>
+</div>
 </details>
 
 
@@ -1102,6 +1137,8 @@ $('.copybutton').click(function(element) {
 
 
 <details><summary>61225 - Wholesale trade services on a fee or contract basis, of sugar confectionery and bakery products</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of sugar confectionery and bakery products" >Download as PDF</a></div>
+<div id="html-content8" >
 <h3>* goods of group 234 (Bakery products)</h3>
 <h4>190510 - Food preparations; crispbread, whether or not containing cocoa</h4>
 <h4>190540 - Food preparations; rusks, toasted bread and similar toasted products, whether or not containing cocoa</h4>
@@ -1131,19 +1168,25 @@ $('.copybutton').click(function(element) {
 <h4>170410 - Sugar confectionery; chewing gum, whether or not sugar-coated, not containing cocoa</h4>
 <h4>170490 - Sugar confectionery; (excluding chewing gum, including white chocolate), not containing cocoa</h4>
 <h4>200600 - Vegetables, fruit, nuts, fruit-peel and other parts of plants, preserved by sugar (drained, glace or crystallised)</h4>
+</div>
 </details>
  
 <details><summary>61226 - Wholesale trade services on a fee or contract basis, of beverages</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of beverages" >Download as PDF</a></div>
+<div id="html-content9" >
 <h3>* goods of group 244 (Soft drinks; bottled mineral waters)</h3>
 <h4>220110 - Waters; mineral and aerated, including natural or artificial, (not containing added sugar or other sweetening matter nor flavoured)</h4>
 <h4>220190 - Waters; other than mineral and aerated, (not containing added sugar or other sweetening matter nor flavoured), ice and snow</h4>
 <h4>220210 - Waters; including mineral and aerated, containing added sugar or other sweetening matter or flavoured</h4>
 <h4>220291 - Non-alcoholic beverages; non-alcoholic beer</h4>
 <h4>220299 - Non-alcoholic beverages; other than non-alcoholic beer, n.e.c. in item no. 2202.10, not including fruit or vegetable juices of heading no. 2009</h4>
+</div>
 </details>
 
  
 <details><summary>61227 - Wholesale trade services on a fee or contract basis, of coffee, tea and spices</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of coffee, tea and spices" >Download as PDF</a></div>
+<div id="html-content10" >
 <h3>* goods of class 2391 (Coffee and tea)</h3>
 <h4>090112 - Coffee; decaffeinated, not roasted</h4>
 <h4>090121 - Coffee; roasted, not decaffeinated</h4>
@@ -1168,9 +1211,12 @@ $('.copybutton').click(function(element) {
 <h4>090720 - Spices; cloves (whole fruit, cloves and stems), crushed or ground</h4>
 <h4>091012 - Spices; ginger, crushed or ground</h4>
 <h4>090520 - Spices; vanilla, crushed or ground</h4>
+</div>
 </details>
 
 <details><summary>61229 - Wholesale trade services on a fee or contract basis, of food products n.e.c.</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of food products nec" >Download as PDF</a></div>
+<div id="html-content11" >
 <h3>* goods of group 231 (Grain mill products)</h3>
 <h4>110100 - Wheat or meslin flour</h4>
 <h4>110220 - Cereal flour; of maize (corn)</h4>
@@ -1243,9 +1289,12 @@ $('.copybutton').click(function(element) {
 <h4>190190 - Food preparations; of flour, meal, starch, malt extract or milk products, for uses n.e.c. in heading no. 1901</h4>
 <h4>210610 - Protein; concentrates and textured protein substances</h4>
 <h4>210690 - Food preparations; n.e.c. in item no. 2106.10</h4>
+</div>
 </details>
 
 <details><summary>61292 - Wholesale trade services on a fee or contract basis, of metal ores and metal in primary forms</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of metal ores and metal in primary forms" >Download as PDF</a></div>
+<div id="html-content12" >
 <h3>* goods of group 141 (Iron ores and concentrates, other than roasted iron pyrites)</h3>
 <h4>260111 - Iron ores and concentrates; non-agglomerated</h4>
 <h4>260112 - Iron ores and concentrates; agglomerated (excluding roasted iron pyrites)</h4>
@@ -1579,10 +1628,13 @@ $('.copybutton').click(function(element) {
 <h4>811221 - Chromium and articles thereof; unwrought chromium, powders</h4>
 <h4>811229 - Chromium and articles thereof; wrought other than waste and scrap</h4>
 <h4>811300 - Cermets; articles thereof, including waste and scrap</h4>
+</div>
 </details>
 
 
 <details><summary>61271 - Wholesale trade services on a fee or contract basis, of basic industrial chemicals and synthetic resins</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of basic industrial chemicals and synthetic resins" >Download as PDF</a></div>
+<div id="html-content13" >
 <h3>* goods of group 345 (Miscellaneous basic chemical products)</h3>
 <h4>440210 - Wood; charcoal of bamboo (including shell or nut charcoal), whether or not agglomerated</h4>
 <h4>440290 - Wood; charcoal of wood other than bamboo (including shell or nut charcoal), whether or not agglomerated</h4>
@@ -1686,14 +1738,20 @@ $('.copybutton').click(function(element) {
 <h4>540332 - Yarn, artificial; filament, monofilament (less than 67 decitex), of viscose rayon (not high tenacity), single, twisted more than 120 turns per metre, not for retail sale, not sewing thread</h4>
 <h4>540333 - Yarn, artificial; filament, monofilament (less than 67 decitex), of cellulose acetate, single, not for retail sale, not sewing thread</h4>
 <h4>540339 - Yarn, artificial; filament, monofilament (less than 67 decitex), single, n.e.c. in heading no. 5403, not for retail sale, not sewing thread</h4>
+</div>
 </details>
 
 <details><summary>61272 - Wholesale trade services on a fee or contract basis, of fertilizers and agrochemical products</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of fertilizers and agrochemical products" >Download as PDF</a></div>
+<div id="html-content14" >
 <h3>* goods of group 346 (Fertilizers and pesticides)</h3>
 <h4>310100 - Fertilizers, animal or vegetable; whether or not mixed together or chemically treated; fertilizers, produced by the mixing or chemical treatment of animal or vegetable products</h4>
+</div>
 </details>
 
 <details><summary>61261 - Wholesale trade services on a fee or contract basis, of construction materials and flat glass</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of construction materials and flat glass" >Download as PDF</a></div>
+<div id="html-content15" >
 <h3>* goods of group 314 (Boards and panels)</h3>
 <h4>441239 - Plywood; consisting only of sheets of wood (not bamboo), each ply 6mm or thinner, with both outer plies of coniferous wood</h4>
 <h4>441231 - Plywood; consisting only of sheets of wood (not bamboo), each ply 6mm or thinner, with at least one outer ply of tropical wood</h4>
@@ -1842,9 +1900,12 @@ $('.copybutton').click(function(element) {
 <h4>680293 - Granite; articles thereof, (other than simply cut or sawn, with a flat or even surface)</h4>
 <h4>680299 - Stone; natural (excluding marble, travertine, alabaster, other calcareous stone or granite), monumental or building stone, (other than simply cut or sawn, with a flat or even surface)</h4>
 <h4>680300 - Slate, worked; and articles of slate or of agglomerated slate</h4>
+</div>
 </details>
 
 <details><summary>61262 - Wholesale trade services on a fee or contract basis, of fittings, fixtures and ceramic sanitary fixtures</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of fittings, fixtures and ceramic sanitary fixtures" >Download as PDF</a></div>
+<div id="html-content16" >
 <h3>* goods of class 3693 (Baths, wash-basins, lavatory pans and covers, flushing cisterns and similar sanitary ware, of plastics)</h3>
 <h4>392210 - Plastics; baths, shower-baths, sinks and wash-basins</h4>
 <h4>392220 - Plastics; lavatory seats and covers</h4>
@@ -1856,9 +1917,12 @@ $('.copybutton').click(function(element) {
 
 <h3>* goods of class 3736 (Non-refractory ceramic pipes, conduits, guttering and pipe fittings)</h3>
 <h4>690600 - Ceramic pipes, conduits, guttering and pipe fittings</h4>
+</div>
 </details>
 
 <details><summary>61263 - Wholesale trade services on a fee or contract basis, of wallpaper and floor coverings</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of wallpaper and floor coverings" >Download as PDF</a></div>
+<div id="html-content17" >
 <h3>* goods of group 272 (Carpets and other textile floor coverings)</h3>
 <h4>570110 - Carpets and other textile floor coverings; knotted, of wool or fine animal hair, whether or not made up</h4>
 <h4>570190 - Carpets and other textile floor coverings; knotted, of textile materials (other than wool or fine animal hair), whether or not made up</h4>
@@ -1889,8 +1953,11 @@ $('.copybutton').click(function(element) {
 
 <h3>* goods of class 3691 (Floor coverings of plastics, in rolls or in the form of tiles; wall or ceiling coverings of plastics)</h3>
 <h4>391890 - Floor, wall or ceiling coverings; of plastics (excluding polymers of vinyl chloride), whether or not self-adhesive, in rolls or in the form of tiles</h4>
+</div>
 </details>
 <details><summary>61264 - Wholesale trade services on a fee or contract basis, of paints, varnishes and lacquers</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of paints, varnishes and lacquers" >Download as PDF</a></div>
+<div id="html-content18" >
 <h3>* goods of group 351 (Paints and varnishes and related products; artists' colours; ink)</h3>
 <h4>320710 - Pigments; prepared pigments, opacifiers, colours and similar preparations</h4>
 <h4>320720 - Enamels and glazes; vitrifiable enamels and glazes, engobes (slips) and similar preparations</h4>
@@ -1913,8 +1980,11 @@ $('.copybutton').click(function(element) {
 <h4>321511 - Ink; for printing, black, whether or not concentrated or solid</h4>
 <h4>321519 - Ink; for printing, other than black, whether or not concentrated or solid</h4>
 <h4>321590 - Ink; writing, drawing and other inks, n.e.c. in heading no. 3215, whether or not concentrated or solid</h4>
+</div>
 </details>
 <details><summary>61283 - Wholesale trade services on a fee or contract basis, of office machinery and equipment including office furniture</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of office machinery and equipment including office furniture" >Download as PDF</a></div>
+<div id="html-content19" >
 <h3>* goods of subclass 38111 (Seats, primarily with metal frames)</h3>
 <h4>940120 - Seats; of a kind used for motor vehicles</h4>
 <h4>940130 - Seats; swivel with variable height adjustment, excluding medical, surgical, dental, veterinary or barber furniture</h4>
@@ -1939,9 +2009,12 @@ $('.copybutton').click(function(element) {
 <h4>847321 - Calculating machines; parts and accessories of the electronic calculating machines of item no. 8470.10, 8470.21 or 8470.29 (other than covers, carrying cases and the like)</h4>
 <h4>847340 - Machinery; parts and accessories (other than covers, carrying cases and the like) of the machines of heading no. 8472</h4>
 <h4>847329 - Machinery; parts and accessories of the machines of item no. 8470.30. 8470.50 or 8470.90 (other than covers, carrying cases and the like)</h4>
+</div>
 </details>
 
 <details><summary>61284 - Wholesale trade services on a fee or contract basis, of computers and packaged software</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of computers and packaged software" >Download as PDF</a></div>
+<div id="html-content20" >
 <h3>* goods of group 452 (Computing machinery and parts and accessories thereof)</h3>
 <h4>847130 - Automatic data processing machines; portable, weighing not more than 10kg, consisting of at least a central processing unit, a keyboard and a display</h4>
 <h4>847141 - Automatic data processing machines; comprising in the same housing at least a central processing unit and an input and output unit, whether or not combined, n.e.c. in item no. 8471.30</h4>
@@ -1961,9 +2034,11 @@ $('.copybutton').click(function(element) {
 <h3>* goods of group 478 (Packaged software)</h3>
 <h4>852329 - Magnetic media; other than cards incorporating a magnetic stripe, whether or not recorded, excluding products of Chapter 37</h4>
 <h4>852349 - Optical media; recorded, excluding products of Chapter 37</h4>
-
+</div>
 </details>
 <details><summary>61285 - Wholesale trade services on a fee or contract basis, of electronic and telecommunications equipment and parts</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of electronic and telecommunications equipment and parts" >Download as PDF</a></div>
+<div id="html-content21" >
 <h3>* goods of group 471 (Electronic valves and tubes; electronic components; parts thereof)</h3>
 <h4>853210 - Electrical capacitors; fixed, designed for use in 50/60 Hz circuits and having a reactive power handling capacity of not less than 0.5 kvar (power capacitors)</h4>
 <h4>853221 - Electrical capacitors; fixed, tantalum</h4>
@@ -2010,10 +2085,11 @@ $('.copybutton').click(function(element) {
 <h3>* goods of group 479 (Cards with magnetic strips or chip)</h3>
 <h4>852321 - Magnetic media; cards incorporating a magnetic stripe, whether or not recorded, excluding products of Chapter 37</h4>
 <h4>852352 - Semiconductor media; smart cards,  whether or not recorded, excluding products of Chapter 37</h4>
-
+</div>
 </details>
 <details><summary>61282 - Wholesale trade services on a fee or contract basis, of other transport equipment, except bicycles</summary>
-
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of other transport equipment, except bicycles" >Download as PDF</a></div>
+<div id="html-content22" >
 <h3>* goods of group 493 (Ships)</h3>
 <h4>890110 - Cruise ships, excursion boats and similar vessels, principally designed for the transport of persons, ferry boats of all kinds</h4>
 <h4>890130 - Vessels, refrigerated; other than tankers</h4>
@@ -2042,9 +2118,11 @@ $('.copybutton').click(function(element) {
 <h4>871495 - Cycles; parts thereof, saddles</h4>
 <h4>871496 - Cycles; parts, pedals and crank-gear, and parts thereof</h4>
 <h4>871499 - Cycles; parts thereof, n.e.c. in item no. 8714.9</h4> 
-
+</div>
 </details>
 <details><summary>61286 - Wholesale trade services on a fee or contract basis, of agricultural, lawn and garden machinery and equipment, including tractors</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of agricultural, lawn and garden machinery and equipment, including tractors" >Download as PDF</a></div>
+<div id="html-content23" >
 <h3>* goods of group 441 (Agricultural or forestry machinery and parts thereof)</h3>
 <h4>843210 - Ploughs; for soil preparation</h4>
 <h4>843221 - Harrows; disc harrows</h4>
@@ -2089,9 +2167,11 @@ $('.copybutton').click(function(element) {
 <h4>843590 - Presses, crushers and similar machinery; parts, used in the manufacture of wine, cider, fruit juices or similar beverages</h4>
 <h4>843691 - Machinery; parts of poultry-keeping machinery or poultry incubators and brooders</h4>
 <h4>843699 - Machinery; parts of that machinery for agricultural, horticultural or forestry use n.e.c. in heading no. 8436</h4>
-
+</div>
 </details>
 <details><summary>61287 - Wholesale trade services on a fee or contract basis, of mining, construction and civil engineering machinery and equipment</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of mining, construction and civil engineering machinery and equipment" >Download as PDF</a></div>
+<div id="html-content24" >
 <h3>* goods of group 444 (Machinery for mining, quarrying and construction, and parts thereof)</h3>
 <h4>842831 - Elevators and conveyors; continuous-action, for goods and materials, specially designed for underground use, n.e.c. in item no. 8428.20</h4>
 <h4>843031 - Coal or rock cutters and tunnelling machinery; self-propelled</h4>
@@ -2123,9 +2203,11 @@ $('.copybutton').click(function(element) {
 <h4>843143 - Boring or sinking machinery; parts of the machinery of item no. 8430.41 or 8430.41</h4>
 <h4>843149 - Machinery; parts of machines handling earth, minerals or ores and n.e.c. in heading no. 8431</h4>
 <h4>847490 - Machines, for sorting, screening, separating, washing, crushing etc mineral substances, for agglomerating, shaping or moulding solid fuels, ceramic pastes etc, for forming foundry moulds of sand; parts</h4>
-
+</div>
 </details>
 <details><summary>61288 - Wholesale trade services on a fee or contract basis, of other industry-specific machinery and equipment and related operating supplies</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of other industry-specific machinery and equipment and related operating supplies" >Download as PDF</a></div>
+<div id="html-content25" >
 <h3>* goods of group 328 (Composed type, prepared printing plates or cylinders, impressed lithographic stones or other impressed media for use in printing)</h3>
 <h4>844250 - Plates, cylinders and other printing components; lithographic stones prepared for printing purposes (for example, planed, grained or polished)</h4>
 
@@ -2271,9 +2353,11 @@ $('.copybutton').click(function(element) {
 <h4>847590 - Machines; parts, of those for assembling electric or electronic lamps, tubes, valves or flash-bulbs, in glass envelopes and manufacturing or hot working glass or glassware</h4>
 <h4>847790 - Machinery; parts of the machines of heading no. 8477, n.e.c. in item no. 8477.90</h4>
 <h4>847990 - Machines and mechanical appliances; parts, of those having individual functions</h4>
-
+</div>
 </details>
 <details><summary>61289 - Wholesale trade services on a fee or contract basis, of other machinery and equipment n.e.c.</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of other machinery and equipment nec" >Download as PDF</a></div>
+<div id="html-content26" >
 <h3>* goods of group 431 (Engines and turbines and parts thereof)</h3>
 <h4>840610 - Turbines; steam and other vapour turbines, for marine propulsion</h4>
 <h4>840681 - Turbines; steam and other vapour turbines, (for other than marine propulsion), of an output exceeding 40MW</h4>
@@ -2526,9 +2610,11 @@ $('.copybutton').click(function(element) {
 <h4>853190 - Signalling apparatus; parts of the electric, sound or visual apparatus of heading no. 8531</h4>
 <h4>854390 - Electrical machines and apparatus; parts of the electrical goods of heading no. 8543</h4>
 <h4>854890 - Electrical parts of machinery or apparatus; n.e.c. in chapter 85</h4>
-
+</div>
 </details>
 <details><summary>61241 - Wholesale trade services on a fee or contract basis, of household furniture</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of household furniture" >Download as PDF</a></div>
+<div id="html-content27" >
 <h3>* goods of group 381 (Furniture), except of subclass 38111 and class 3812</h3>
 <h4>940140 - Seats; convertible into beds, other than garden seats or camping equipment</h4>
 <h4>940152 - Seats; of bamboo</h4>
@@ -2551,9 +2637,11 @@ $('.copybutton').click(function(element) {
 <h4>940429 - Mattresses; of other materials, not cellular rubber or plastics</h4>
 <h4>940190 - Seat; parts</h4>
 <h4>940390 - Furniture; parts</h4>
-
+</div>
 </details>
 <details><summary>61242 - Wholesale trade services on a fee or contract basis, of radio and television equipment and recorded audio and video disks and tapes</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of radio and television equipment and recorded audio and video disks and tapes" >Download as PDF</a></div>
+<div id="html-content28" >
 <h3>* goods of class 4721 (Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders)</h3>
 <h4>852560 - Transmission apparatus for radio-broadcasting or television, whether or not incorporating sound recording or reproducing apparatus, incorporating reception apparatus</h4>
 <h4>852550 - Transmission apparatus for radio-broadcasting or television, whether or not incorporating sound recording or reproducing apparatus, not incorporating reception apparatus</h4>
@@ -2600,9 +2688,11 @@ $('.copybutton').click(function(element) {
 <h4>852910 - Reception and transmission apparatus; aerials and aerial reflectors of all kinds and parts suitable for use therewith</h4>
 <h4>852990 - Reception and transmission apparatus; for use with the apparatus of heading no. 8525 to 8528, excluding aerials and aerial reflectors</h4>
 <h4>962000 - Monopods, bipods, tripods and similar articles</h4>
-
+</div>
 </details>
 <details><summary>61265 - Wholesale trade services on a fee or contract basis, of hardware and hand tools</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of hardware and hand tools" >Download as PDF</a></div>
+<div id="html-content29" >
 <h3>* goods of class 4292 (Hand tools (including hand tools of a kind used in agriculture, horticulture or forestry, hand saws, files, pliers and metal cutting shears, hand-operated spanners, blow-lamps and clamps); interchangeable tools for hand tools or for machine tools, including dies for drawing or extruding metal, and rock drilling or earth boring tools; knives for machines; plates, sticks, tips and the like for tools, unmounted, of sintered metal carbides or cermets)</h3>
 <h4>820110 - Tools, hand; spades and shovels</h4>
 <h4>820130 - Tools, hand; mattocks, picks, hoes and rakes</h4>
@@ -2748,9 +2838,11 @@ $('.copybutton').click(function(element) {
 <h4>846799 - Tools; for working in the hand, parts thereof for other than chain saws and pneumatic tools</h4>
 <h4>851590 - Welding, brazing or soldering machines; parts of the machines of heading no. 8515</h4>
 <h4>846890 - Machinery and apparatus; parts, soldering, brazing or welding, whether or not capable of cutting, parts thereof</h4>
-
+</div>
 </details>
 <details><summary>61243 - Wholesale trade services on a fee or contract basis, of articles for lighting</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of articles for lighting" >Download as PDF</a></div>
+<div id="html-content30" >
 <h3>* goods of group 465 (Electric filament or discharge lamps; arc lamps; lighting equipment; parts thereof)</h3>
 <h4>853910 - Lamps; sealed beam units</h4>
 <h4>853931 - Lamps; discharge, (excluding ultra-violet), fluorescent, hot cathode</h4>
@@ -2768,9 +2860,11 @@ $('.copybutton').click(function(element) {
 <h4>853990 - Lamps; parts of the lamps of heading no. 8539</h4>
 <h4>851390 - Lamps; parts of portable, electric lamps of heading no. 8513, designed to function by their own source of energy</h4>
 <h4>940599 - Lamps and light fittings; parts thereof, of materials other than glass or plastics</h4>
-
+</div>
 </details>
 <details><summary>61244 - Wholesale trade services on a fee or contract basis, of household appliances</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of household appliances" >Download as PDF</a></div>
+<div id="html-content31" >
 <h3>* goods of group 448 (Domestic appliances and parts thereof)</h3>
 <h4>841810 - Refrigerators and freezers; combined refrigerator-freezers, fitted with separate external doors, electric or other</h4>
 <h4>841821 - Refrigerators; for household use, compression-type, electric or other</h4>
@@ -2822,9 +2916,11 @@ $('.copybutton').click(function(element) {
 <h4>851690 - Electro-thermic appliances; parts, of heating resistors, of water, space and soil heaters, hair-dressing apparatus, hand dryers, smoothing irons and other domestic appliances of heading no. 8516</h4>
 <h4>732190 - Domestic appliances; non-electric, parts thereof, of iron or steel</h4>
 <h4>840390 - Boilers; parts of central heating boilers (excluding those of heading no. 8402)</h4>
-
+</div>
 </details>
 <details><summary>61245 - Wholesale trade services on a fee or contract basis, of miscellaneous household utensils, cutlery, crockery, glassware, china and pottery</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of miscellaneous household utensils, cutlery, crockery, glassware, china and pottery" >Download as PDF</a></div>
+<div id="html-content32" >
 <h3>* goods of class 3694 (Tableware, kitchenware, other household articles and toilet articles, of plastics)</h3>
 <h4>392410 - Plastics; tableware and kitchenware</h4>
 <h4>392490 - Plastics; household articles and hygienic or toilet articles</h4>
@@ -2900,9 +2996,11 @@ $('.copybutton').click(function(element) {
 <h4>821520 - Cutlery; sets of assorted articles (e.g. spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter knives, sugar tongs and similar), not plated with precious metal</h4>
 <h4>821591 - Cutlery; (e.g. spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and similar), plated with precious metal, not in sets</h4>
 <h4>821599 - Cutlery; other than plated with precious metal</h4>
-
+</div>
 </details>
 <details><summary>61246 - Wholesale trade services on a fee or contract basis, of wickerwork, cork goods, cooper's ware and other wooden ware</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of wickerwork, cork goods, cooper's ware and other wooden ware" >Download as PDF</a></div>
+<div id="html-content33" >
 <h3>* goods of group 319 (Other products of wood; articles of cork, plaiting materials and straw)</h3>
 <h4>441700 - Wood; tools, tool bodies, tool handles, broom or brush bodies and handles, boot and shoe lasts and trees, of wood</h4>
 <h4>441911 - Tableware and kitchenware, of wood; of bamboo, bread boards, chopping boards and similar boards</h4>
@@ -2933,9 +3031,11 @@ $('.copybutton').click(function(element) {
 <h4>460219 - Basketwork, wickerwork and other articles; of vegetable materials (not bamboo or rattan), made directly to shape from plaiting materials or made up from goods of heading no. 4601; articles of loofah</h4>
 <h4>460290 - Basketwork, wickerwork and other articles; of non-vegetable materials, made directly to shape from plaiting materials or made up from goods of heading no. 4601</h4>
 <h4>962000 - Monopods, bipods, tripods and similar articles</h4>
-
+</div>
 </details>
 <details><summary>61231 - Wholesale trade services on a fee or contract basis, of yarn and fabrics</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of yarn and fabrics" >Download as PDF</a></div>
+<div id="html-content34" >
 <h3>* goods of group 261 (Natural textile fibres prepared for spinning)</h3>
 <h4>500200 - Silk; raw silk (not thrown)</h4>
 <h4>510121 - Wool; (not carded or combed), degreased, (not carbonised), shorn</h4>
@@ -3324,9 +3424,11 @@ $('.copybutton').click(function(element) {
 <h4>600642 - Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of artificial fibres, dyed</h4> 
 <h4>600644 - Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of artificial fibres, printed</h4>
 <h4>600690 - Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04,and other than those made of wool, fine animal hair, cotton, synthetic or artificial fibres</h4>
-
+</div>
 </details>
 <details><summary>61232 - Wholesale trade services on a fee or contract basis, of household linens, curtains, net curtains and diverse household articles</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of household linens, curtains, net curtains and diverse household articles" >Download as PDF</a></div>
+<div id="html-content35" >
 <h3>* goods of group 271 (Made-up textile articles)</h3>
 <h4>630120 - Blankets (other than electric blankets) and travelling rugs; of wool or fine animal hair</h4>
 <h4>630130 - Blankets (other than electric blankets) and travelling rugs; of cotton</h4>
@@ -3450,9 +3552,11 @@ $('.copybutton').click(function(element) {
 <h4>591140 - Textile products and articles for technical uses; straining cloth of a kind used in oil presses and the like, including that of human hair</h4>
 <h4>591190 - Textile products and articles for technical uses; n.e.c. in heading no. 5911</h4>
 <h4>581100 - Quilted textile products; in the piece, composed of one or more layers of textile materials assembled with padding by stitching or otherwise (excluding embroidery of heading no. 5810)</h4>
-
+</div>
 </details>
 <details><summary>61233 - Wholesale trade services on a fee or contract basis, of articles of clothing, articles of fur and clothing accessories</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of articles of clothing, articles of fur and clothing accessories" >Download as PDF</a></div>
+<div id="html-content36" >
 <h3>* goods of group 282 (Wearing apparel, except fur apparel)</h3>
 <h4>611510 - Graduated compression hosiery (for example, stockings for varicose veins), knitted or crocheted</h4>
 <h4>611521 - Hosiery; panty hose and tights (other than graduated compression hosiery), of synthetic fibres, measuring per single yarn less than 67 decitex, knitted or crocheted</h4>
@@ -3576,9 +3680,12 @@ $('.copybutton').click(function(element) {
 <h4>650500 - Hats and other headgear; knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed</h4>
 <h4>650699 - Headgear; (other than safety headgear), (of materials other than rubber or plastic), whether or not lined or trimmed</h4>
 <h4>650700 - Head-bands, linings, covers, hat foundations, hat frames, peaks and chinstraps; for headgear</h4>
+</div>
 </details>
 
 <details><summary>61234 - Wholesale trade services on a fee or contract basis, of footwear</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of footwear" >Download as PDF</a></div>
+<div id="html-content37" >
 <h3>* goods of group 293 (Footwear, with outer soles and uppers of rubber or plastics, or with uppers of leather or textile materials, other than sports footwear, footwear incorporating a protective metal toe- cap and miscellaneous special footwear)</h3>
 <h4>640192 - Footwear; waterproof, covering the ankle (but not the knee), rubber or plastic outer soles and uppers (not assembled by stitch, rivet, nail, screw, plug or similar)</h4>
 <h4>640199 - Footwear; waterproof, n.e.c. in heading no. 6401, rubber or plastic outer soles and uppers (not assembled by stitch, rivet, nail, screw, plug or similar)</h4>
@@ -3611,10 +3718,13 @@ $('.copybutton').click(function(element) {
 <h4>640610 - Footwear; parts, uppers and parts thereof, other than stiffeners</h4>
 <h4>640620 - Footwear; parts, outer soles and heels, of rubber or plastics</h4>
 <h4>640690 - Footwear; parts, n.e.c. in heading 6406</h4>
+</div>
 </details>
 
  
 <details><summary>61275 - Wholesale trade services on a fee or contract basis, of perfumery articles, cosmetic articles and toilet soaps</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of perfumery articles, cosmetic articles and toilet soaps" >Download as PDF</a></div>
+<div id="html-content38" >
 <h3>* goods of class 3532 (Soap and detergents, perfume and toilet preparations)</h3>
 <h4>340111 - Soap and organic surface-active products; in the form of bars, cakes, moulded shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent, for toilet use (including medicated products)</h4>
 <h4>340119 - Soap and organic surface-active products; in the form of bars, cakes, moulded shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent, not for toilet use</h4>
@@ -3639,9 +3749,12 @@ $('.copybutton').click(function(element) {
 <h4>330720 - Perfumery, cosmetic or toilet preparations; personal deodorants and antiperspirants</h4>
 <h4>330730 - Perfumery, cosmetic or toilet preparations; perfumed bath salts and other bath preparations</h4>
 <h4>330790 - Perfumes and deodorizers; perfuming or deodorizing preparations n.e.c. in heading no. 3307</h4>
+</div>
 </details>
  
 <details><summary>61276 - Wholesale trade services on a fee or contract basis, of cleaning materials</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of cleaning materials" >Download as PDF</a></div>
+<div id="html-content39" >
 <h3>* goods of class 3531 (Organic surface active agents, except soap)</h3>
 <h4>340211 - Organic surface-active agents; anionic (other than soap), whether or not put up for retail sale</h4>
 <h4>340212 - Organic surface-active agents; cationic (other than soap), whether or not put up for retail sale</h4>
@@ -3656,9 +3769,12 @@ $('.copybutton').click(function(element) {
 <h4>340530 - Polishes, creams and similar preparations; for coachwork, other than metal polishes, excluding waxes of heading no. 3404</h4>
 <h4>340590 - Polishes, creams and similar preparations; n.e.c. in heading no. 3405, excluding waxes of heading no. 3404</h4>
 <h4>340540 - Scouring pastes and powders and other scouring preparations; (whether or not in the form of paper, wadding, felt, nonwovens, cellular plastics, cellular rubber, impregnated, coated or covered)</h4>
+</div>
 </details>
  
 <details><summary>61251 - Wholesale trade services on a fee or contract basis, of books, newspapers, magazines and stationery</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of books, newspapers, magazines and stationery" >Download as PDF</a></div>
+<div id="html-content40" >
 <h3>* goods of group 322 (Books, in print)</h3>
 <h4>490110 - Printed matter; in single sheets, whether or not folded</h4>
 <h4>490199 - Printed matter; books, brochures, leaflets and similar printed matter n.e.c. in item no. 4901.10 or 4901.91</h4>
@@ -3680,10 +3796,13 @@ $('.copybutton').click(function(element) {
 <h4>482040 - Paper and paperboard; manifold business forms and interleaved carbon sets</h4>
 <h4>482050 - Paper and paperboard; albums for samples or for collections</h4>
 <h4>482090 - Paper or paperboard; stationery n.e.c. in heading no. 4820</h4>
+</div>
 </details>
 
  
 <details><summary>61252 - Wholesale trade services on a fee or contract basis, of photographic, optical and precision equipment</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of photographic, optical and precision equipment" >Download as PDF</a></div>
+<div id="html-content41" >
 <h3>* goods of group 482 (Instruments and appliances for measuring, checking, testing, navigating and other purposes, except optical instruments; industrial process control equipment; parts and accessories thereof)</h3>
 <h4>901410 - Navigational instruments and appliances; direction finding compasses</h4>
 <h4>901420 - Navigational instruments and appliances; for aeronautical or space navigation (excluding compasses)</h4> 
@@ -3825,9 +3944,12 @@ $('.copybutton').click(function(element) {
 <h4>901090 - Photographic laboratory apparatus and equipment (including cinematographic); parts and accessories</h4>
 <h4>901390 - Optical appliances and instruments; parts and accessories for articles of heading no. 9013</h4>
 <h4>962000 - Monopods, bipods, tripods and similar articles</h4>
+</div>
 </details>
  
 <details><summary>61253 - Wholesale trade services on a fee or contract basis, of games and toys</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of games and toys" >Download as PDF</a></div>
+<div id="html-content42" >
 <h3>* goods of group 385 (Games and toys)</h3>
 <h4>950300 - Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size (scale) models and similar recreational models, working or not; puzzles of all kinds</h4>
 <h4>950440 - Games; playing cards</h4>
@@ -3835,9 +3957,12 @@ $('.copybutton').click(function(element) {
 <h4>950420 - Billiard articles and accessories of all kinds</h4>
 <h4>950430 - Games; operated by coins, banknotes, bank cards, tokens or by other means of payment, other than billiard articles and accesssories, and automatic bowling alley equipment</h4>
 <h4>950490 - Games; articles for funfair, table or parlour games, including pintables, automatic bowling alley equipment, n.e.c. in heading 9504</h4>
+</div>
 </details>
  
 <details><summary>61254 - Wholesale trade services on a fee or contract basis, of watches, clocks and jewellery</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of watches, clocks and jewellery" >Download as PDF</a></div>
+<div id="html-content43" >
 <h3>* goods of group 484 (Watches and clocks, and parts thereof)</h3> 
 <h4>910111 - Wrist-watches; electrically operated, with or without a stop-watch, with case of precious metal or of metal clad with precious metal, with mechanical display only</h4>
 <h4>910119 - Wrist-watches; electrically operated, with or without a stop-watch, with case of precious metal or metal clad with precious metal, without mechanical display</h4>
@@ -3887,9 +4012,12 @@ $('.copybutton').click(function(element) {
 <h4>911430 - Clock or watch parts; dials</h4>
 <h4>911440 - Clock or watch parts; plates and bridges</h4>
 <h4>911490 - Clock or watch parts; other than springs (including hairsprings), dials, plates, and bridges</h4>
+</div>
 </details>
  
 <details><summary>61255 - Wholesale trade services on a fee or contract basis, of sports goods (incl. bicycles)</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of sports goods incl bicycles" >Download as PDF</a></div>
+<div id="html-content44" >
 <h3>* goods of group 384 (Sports goods)</h3> 
 <h4>950611 - Skis; for snow</h4>
 <h4>950612 - Ski-fastenings (ski-bindings); for snow-skis</h4>
@@ -3919,9 +4047,12 @@ $('.copybutton').click(function(element) {
 <h4>890310 - Yachts and other vessels; for pleasure or sports, rowing boats and canoes, inflatable</h4>
 <h4>890392 - Motorboats; (other than outboard motorboats), for pleasure or sports, other than inflatable</h4>
 <h4>890399 - Yachts and other vessels; for pleasure or sports, rowing boats and canoes, n.e.c. in heading no. 8903, other than inflatable</h4>
+</div>
 </details>
  
 <details><summary>61259 - Wholesale trade services on a fee or contract basis, of miscellaneous consumer goods n.e.c.</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of miscellaneous consumer goods nec" >Download as PDF</a></div>
+<div id="html-content45" >
 <h3>* goods of group 361 (Rubber tyres and tubes)</h3>
 <h4>401110 - Rubber; new pneumatic tyres, of a kind used on motor cars (including station wagons and racing cars)</h4>
 <h4>401140 - Rubber; new pneumatic tyres, of a kind used on motorcycles</h4>
@@ -3974,9 +4105,12 @@ $('.copybutton').click(function(element) {
 <h4>850780 - Electric accumulators; other than lead-acid, nickel-cadmium, nickel-iron, nickel-metal hydride and lithium-ion, including separators, whether or not rectangular (including square)</h4>
 <h4>850690 - Cells and batteries; primary, parts thereof</h4>
 <h4>850790 - Electric accumulators; parts n.e.c. in heading no. 8507</h4>
+</div>
 </details>
  
 <details><summary>61294 - Wholesale trade services on a fee or contract basis, of paper and paperboard</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of paper and paperboard" >Download as PDF</a></div>
+<div id="html-content46" >
 <h3>* goods of group 321 (Pulp, paper and paperboard), except of subclass 32194</h3>
 <h4>470200 - Wood pulp; chemical wood pulp, dissolving grades</h4>
 <h4>470311 - Wood pulp; chemical wood pulp, soda or sulphate, (other than dissolving grades), unbleached, of coniferous wood</h4>
@@ -4087,9 +4221,12 @@ $('.copybutton').click(function(element) {
 <h4>482369 - Paper and paperboard; trays, dishes, plates, cups and the like, of paper or paperboard other than of bamboo</h4>
 <h4>482370 - Paper pulp; moulded or pressed articles or paper pulp</h4>
 <h4>482390 - Paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres; articles n.e.c. in heading no. 4823</h4>
+</div>
 </details>
  
 <details><summary>61299 - Wholesale trade services on a fee or contract basis, of non-metallic minerals and other products n.e.c.</summary>
+<div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of non-metallic minerals and other products nec" >Download as PDF</a></div>
+<div id="html-content47" >
 <h3>* goods of group 151 (Monumental or building stone)</h3>
 <h4>251400 - Slate; whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape</h4>
 <h4>251511 - Marble and travertine; having a specific gravity of 2.5 or more, crude or roughly trimmed by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape</h4>
@@ -4506,6 +4643,7 @@ $('.copybutton').click(function(element) {
 <h4>854449 - Insulated electric conductors; for a voltage not exceeding 1000 volts, not fitted with connectors</h4>
 <h4>854460 - Insulated electric conductors; for a voltage exceeding 1000 volts</h4>
 <h4>854470 - Insulated electric conductors; optical fibre cables</h4>
+</div>
 </details>
 <br>
 <h3>The catalog is based on our <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0451" >NACE codes</a>, the UN <a href="https://unstats.un.org/unsd/classifications/Econ/Structure" >CPC - Version 2.1</a> and <a href="https://unstats.un.org/unsd/classifications/Econ/Structure" >HS 2017</a> Nomenclature</h3>
@@ -4531,34 +4669,34 @@ $('.copybutton').click(function(element) {
 <details>
   <summary>BLUE SEA EXPORT IMPORT S.R.L. Company Public Documents</summary>
 
-
+<h3>
     <span id="en" ><b>a) Business license / O.N.R.C. Registration certificate - BLUE SEA EXPORT IMPORT S.R.L.</b></span><br>
-    <a style="color:darkred;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/CERTIFICAT%20INREGISTRARE.pdf" target=”_blank” ><b>Click Here To Download</b></b></a>
+    <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/CERTIFICAT%20INREGISTRARE.pdf" target=”_blank” ><b>Click Here To Download</b></b></a>
 <br><br>
     <span id="en" >Verify Unique Identification</span><br>
-    <a style="color:darkred;" href="https://mfinante.gov.ro/apps/agenticod.html?pagina=domenii" target=”_blank” ><b>https://mfinante.gov.ro/apps/agenticod.html?pagina=domenii</b></a><br> 
+    <a style="color:darkred;word-break: break-all;" href="https://mfinante.gov.ro/apps/agenticod.html?pagina=domenii" target=”_blank” ><b>https://mfinante.gov.ro/apps/agenticod.html?pagina=domenii</b></a><br> 
     <span id="en" >Or call the Romanian embassy in your country</span>
 <br><br>
     <span id="en" ><b>b) Certificate of registration for VAT purposes ( VAT Number )</b></span>
-    <a style="color:darkred;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/Certificat%20Platitor%20TVA.pdf" target=”_blank” ><b>Click Here To Download</b></a>
+    <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/Certificat%20Platitor%20TVA.pdf" target=”_blank” ><b>Click Here To Download</b></a>
 <br><br>
     <span id="en" >Verify VAT registration certificate</span><br>
-    <a style="color:darkred;" href="https://www.anaf.ro/RegistruTVA/" target=”_blank” ><b>https://www.anaf.ro/RegistruTVA/</b></a><br> 
+    <a style="color:darkred;word-break: break-all;" href="https://www.anaf.ro/RegistruTVA/" target=”_blank” ><b>https://www.anaf.ro/RegistruTVA/</b></a><br> 
     <span id="en" >Or call the Romanian embassy in your country</span>
     <br><br>
     <span id="en" ><b>c) Verification certificate with the CAEN ( NACE / NAICS ) codes of the company and that the company conducts its activity with third parties</b></span><br>
-    <a style="color:darkred;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/CERTIFICAT%20CONSTATATOR%20-%20TERTI.pdf" target=”_blank” ><b>Click Here To Download</b></a><br>
+    <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/CERTIFICAT%20CONSTATATOR%20-%20TERTI.pdf" target=”_blank” ><b>Click Here To Download</b></a><br>
     <span id="en" >It can be obtained online via</span> <a style="color:darkred;" href="https://www.onrc.ro/index.php/ro/" target=”_blank” ><b>ONRC Portal</b></a>
     <br><br>
     <span id="en" ><b>d) Verification certificate with the declaration on own responsibility that the company does not carry out any activity at the registered office</b></span><br>
-    <a style="color:darkred;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/CERTIFICAT%20CONSTATATOR%20-%20SEDIU.pdf" target=”_blank” ><b><span id="en" >Click Here To Download</span></b></a><br>
+    <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/CERTIFICAT%20CONSTATATOR%20-%20SEDIU.pdf" target=”_blank” ><b><span id="en" >Click Here To Download</span></b></a><br>
    <span id="en" >It can be obtained online via</span> <a style="color:darkred;" href="https://www.onrc.ro/index.php/ro/" target=”_blank” ><b>ONRC Portal</b></a>
     <br><br>
     <span id="en" ><b>e) Certificate in the registry of professional operators at the National Phytosanitary Authority with  certificate No. RO / VN / 011 / IE for import-export activity at third parties</b><br> 
     (note: it is required to obtain the annual visa of the certificate at least 7 days before the expiration of the 1-year term from the date of it’s issuance)</span>
      <br>
 	   -  <span id="en" >For 2023-2024 season visa was stamped on 04.12.2024</span> <br>
-     <a style="color:darkred;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/Certificat%20de%20inregistrare%20registrul%20operatorilor%20profesionisti%20la%20oficiul%20fitosanitar%20Ministerul%20Agriculturii%20si%20Dezvoltarii%20Rurale%20nou.pdf" target=”_blank” ><b>Click Here To Download</b></a>
+     <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/Certificat%20de%20inregistrare%20registrul%20operatorilor%20profesionisti%20la%20oficiul%20fitosanitar%20Ministerul%20Agriculturii%20si%20Dezvoltarii%20Rurale%20nou.pdf" target=”_blank” ><b>Click Here To Download</b></a>
     <br><br>
     <b>f) Unique Id Number at Payments and Intervention Agency for Agriculture - Export Import Procedures with Agricultural Products:</b><br> <b>RO012678067</b> ( Contact https://apia.org.ro to verify ) 
     <br><br>
@@ -4567,36 +4705,36 @@ $('.copybutton').click(function(element) {
     At I.S.C.T.P.V.L.F. certificates of conformity for fruits and vegetables will be obtained. ( https://www.madr.ro/inspectia-legume-fructe.html )
     <br><br>
    <span id="en" ><b>h)  BLUE SEA EXPORT IMPORT S.R.L. DUNS number: 56-734-4553</b></span>  
-   <a style="color:darkred;" href="https://www.dnb.com/business-directory/company-profiles.blue_sea_export_import_srl.21ef48635f2f3347630ca25ee65c83c0.html" target=”_blank” ><b>DNB LINK</b></a>
+   <a style="color:darkred;word-break: break-all;" href="https://www.dnb.com/business-directory/company-profiles.blue_sea_export_import_srl.21ef48635f2f3347630ca25ee65c83c0.html" target=”_blank” ><b>DNB LINK</b></a>
     <br><br>
     <span id="en" ><b>i) NCAGE CODE: 1J7YL</b></span>  
     <br><br>
     <span id="en" ><b>j) Romanian ANAF e-Factura:  yes</b></span><br> 
-    <a style="color:darkred;" href="https://www.anaf.ro/anaf/internet/ANAF/servicii_online/registre/registrul_eFactura" target=”_blank” ><b>https://www.anaf.ro/anaf/internet/ANAF/servicii_online/registre/registrul_eFactura</b></a> 
+    <a style="color:darkred;word-break: break-all;" href="https://www.anaf.ro/anaf/internet/ANAF/servicii_online/registre/registrul_eFactura" target=”_blank” ><b>https://www.anaf.ro/anaf/internet/ANAF/servicii_online/registre/registrul_eFactura</b></a> 
    <br><br>
    <span id="en" ><b>k) BLUE SEA EXPORT IMPORT S.R.L.  is not a food operator and DOES NOT NEED a HACCP certificate, HACCP plan or ISO 22000, we only order the food from your companies and we find authorized transporters to transport the food if client companies can not transport it. ( In the European Union internal market we can order food from suppliers without the need of a supplier-client contract , they just have to emit the Invoice )</b></span>
    <br><br>
    DSVSA Vrancea 8676<br>
-   <a style="color:darkred;" href="https://www.docdroid.net/CT4XaxC/răspuns-solicitare-dsvsa-vrancea-pdf" target=”_blank” ><b>Click Here To Download</b></a>
+   <a style="color:darkred;word-break: break-all;" href="https://www.docdroid.net/CT4XaxC/răspuns-solicitare-dsvsa-vrancea-pdf" target=”_blank” ><b>Click Here To Download</b></a>
    <br><br>
    DSVSA Vrancea 177469<br>
-   <a style="color:darkred;" href="https://www.docdroid.net/vemRODI/rasp-solicitare-dsvsa-vrancea-pdf" target=”_blank” ><b>Click Here To Download</b></a>
+   <a style="color:darkred;word-break: break-all;" href="https://www.docdroid.net/vemRODI/rasp-solicitare-dsvsa-vrancea-pdf" target=”_blank” ><b>Click Here To Download</b></a>
    <br><br>	    
    ANSVSA 7457<br>
-   <a style="color:darkred;" href="https://www.docdroid.net/Wbw9s4Z/raspuns-ansvsa-blue-export-import-7457-pdf" target=”_blank” ><b>Click Here To Download</b></a>
+   <a style="color:darkred;word-break: break-all;" href="https://www.docdroid.net/Wbw9s4Z/raspuns-ansvsa-blue-export-import-7457-pdf" target=”_blank” ><b>Click Here To Download</b></a>
    <br><br>
    ANSVSA 13077<br>
-   <a style="color:darkred;" href="https://www.docdroid.net/4ANhAJF/blue-export-import-13077-pdf" target=”_blank” ><b>Click Here To Download</b></a>
+   <a style="color:darkred;word-break: break-all;" href="https://www.docdroid.net/4ANhAJF/blue-export-import-13077-pdf" target=”_blank” ><b>Click Here To Download</b></a>
    <br><br>
    <span id="en" >For BLUE SEA EXPORT IMPORT S.R.L. activities, we don't need authorisation from the Romanian Public Health District Authority - Order 1030 / 2009 - Romanian Minstry of Health</span> 
    <br>
-   <a style="color:darkred;" href="https://legislatie.just.ro/Public/DetaliiDocumentAfis/110951" target=”_blank” ><b>https://legislatie.just.ro/Public/DetaliiDocumentAfis/110951</b></a>
-   <br><br>
+   <a style="color:darkred;word-break: break-all;" href="https://legislatie.just.ro/Public/DetaliiDocumentAfis/110951" target=”_blank” ><b>https://legislatie.just.ro/Public/DetaliiDocumentAfis/110951</b></a>
+   </h3><br>
 
 </details> 
 <details>
   <summary>Restricted items list, cannot be sent via post and couriers</summary>
-
+<h3>
  <span id="en"><b>Note: The list is just a guide, products can be added or removed from this list - depends on the political and legal system in each country </b></span><br><br>
 
 <span id="en"><b>Chemicals, Dangerous and illegal items</b></span>:<br>
@@ -4654,43 +4792,43 @@ $('.copybutton').click(function(element) {
 - <span id="en">Liquids</span><br> <br> 
 
 
-
+</h3>
 
 </details>	
 <details>
   <summary>Accepted Transporters</summary>
- 	  <span id="en">Universal Postal Union Members</span><br><a href="https://www.upu.int/en/Universal-Postal-Union/About-UPU/Member-Countries" target="_blank" rel="nofollow" >https://www.upu.int/en/Universal-Postal-Union/About-UPU/Member-Countries</a> <br> <br> 
-	  <span id="en">International Federation of Freight Forwarders Associations Members (FIATA)</span><br><a href="" target="_blank" rel="nofollow"  >https://fiata.org/directory/</a> <br> <br> 
-	  <span id="en">International Air Transport Association Members (IATA)</span><br><a href="https://www.iata.org" target="_blank" rel="nofollow"  >https://www.iata.org</a><br> <br> 
-	  <span id="en">International Road Transport Union Members (IRU)</span><br><a href="https://www.iru.org/membership/members-directory" target="_blank" rel="nofollow" >https://www.iru.org/membership/members-directory</a><br> <br> 
-	  <span id="en">Container Owners Association Members</span><br><a href="https://www.containerownersassociation.com/coa-members-directory/" target="_blank" rel="nofollow" >https://www.iru.org/membership/members-directory</a><br> <br> 
+ 	  <h3>Universal Postal Union Members</span><br><a href="https://www.upu.int/en/Universal-Postal-Union/About-UPU/Member-Countries" target="_blank" rel="nofollow" >https://www.upu.int/en/Universal-Postal-Union/About-UPU/Member-Countries</a> </h3> <br> 
+	  <h3>International Federation of Freight Forwarders Associations Members (FIATA)</span><br><a href="" target="_blank" rel="nofollow"  >https://fiata.org/directory/</a> </h3> <br> 
+	  <h3>International Air Transport Association Members (IATA)</span><br><a href="https://www.iata.org" target="_blank" rel="nofollow"  >https://www.iata.org</a></h3> <br> 
+	  <h3>International Road Transport Union Members (IRU)</span><br><a href="https://www.iru.org/membership/members-directory" target="_blank" rel="nofollow" >https://www.iru.org/membership/members-directory</a></h3> <br> 
+	  <h3>Container Owners Association Members</span><br><a href="https://www.containerownersassociation.com/coa-members-directory/" target="_blank" rel="nofollow" >https://www.iru.org/membership/members-directory</a></h3> <br> 
 		
  
 </details>    
 <details>
   <summary>Warranty Info</summary>
-For products example electronics and electrical items that we have in catalog we can not give warranty.<br><br>
+<h3>For products example electronics and electrical items that we have in catalog we can not give warranty.<br><br>
 The warranty is valid only in the country were the product is bought.<br><br>
 For some products that we buy from merchants and producers, we can only open the packages, test them if they are functional before we send them to your company and we can also ask the suppliers to replace them before we send them to you.<br><br>
 We will add a clause in contract that this "products" will be sent to you without warranty<br><br>
-For some products we will try to find suppliers that offer international warranty.<br><br>
+For some products we will try to find suppliers that offer international warranty.</h3><br>
 </details>    
 <details>
   <summary>Banned Chemicals and Materials</summary>
-
-       <span id="en">*Note: We do not to transport, handle, store, sell, buy, export, import and subcontract any other company for the products bellow:</span><br><br>
-       <span id="en">All chemical based pesticides are banned, we refuse to work with them</span><br>
-       <span id="en">Pregnant and breastfeeding workers are allowed only to do simple office work, they are not allowed to go near chemicals or dangerous materials</span><br>
-       <br><br>
+<br>
+       <h3>*Note: We do not to transport, handle, store, sell, buy, export, import and subcontract any other company for the products bellow:</h3>
+       <h3>All chemical based pesticides are banned, we refuse to work with them</span><br>
+       <h3>Pregnant and breastfeeding workers are allowed only to do simple office work, they are not allowed to go near chemicals or dangerous materials</h3>
+       <br> 
         <span id="en"><b>Do to fact there are many chemicals and materials in the world we can't add them all here, but if they are carcinogens, voc, hazoardous for life and environment we will ban them also and we will refuse to work with them</b></span>
        <br><br>
-       <h3>Human Carcinogens and Mutagens</h3>
+       <h2>Human Carcinogens and Mutagens</h2><h3>
 	    <a href="https://echa.europa.eu/carcinogens-mutagens-oels?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0" target="_blank" rel="nofollow" >https://echa.europa.eu/carcinogens-mutagens-oels?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0</a><br>
 	    <a href="https://echa.europa.eu/eu-worker_carc_muta-anx_iiia?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0" target="_blank" rel="nofollow" >https://echa.europa.eu/eu-worker_carc_muta-anx_iiia?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0</a><br>
 	    <a href="https://echa.europa.eu/carcinogens-mutagens-dir-2004-37?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0" target="_blank" rel="nofollow" >https://echa.europa.eu/carcinogens-mutagens-dir-2004-37?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0</a><br>
 	    <a href="https://echa.europa.eu/eu-active_intelligent_fcm-art_5_2_c_i?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0" target="_blank" rel="nofollow" >https://echa.europa.eu/eu-active_intelligent_fcm-art_5_2_c_i?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0</a>
-       <br><br>
-       <h3>Hazardous Substances for Life and Environment</h3>
+       </h3><br>
+       <h2>Hazardous Substances for Life and Environment</h2><h3>
 	  <a href="https://echa.europa.eu/candidate-list-table" target="_blank" rel="nofollow" >https://echa.europa.eu/candidate-list-table</a><br>
           <a href="https://echa.europa.eu/EU-MARINE_ENVIRONMENTAL_POLICY-ART_3_8" target="_blank" rel="nofollow" >https://echa.europa.eu/EU-MARINE_ENVIRONMENTAL_POLICY-ART_3_8</a><br>
 	  <a href="https://echa.europa.eu/ann-x-priority-subs-water-dir-2000-60" target="_blank"rel="nofollow" >https://echa.europa.eu/ann-x-priority-subs-water-dir-2000-60</a><br>
@@ -4709,36 +4847,37 @@ For some products we will try to find suppliers that offer international warrant
 	  <a href="https://echa.europa.eu/eu-medical_devices-anx_i_7_8?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0" target="_blank" rel="nofollow" >https://echa.europa.eu/eu-medical_devices-anx_i_7_8?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0</a><br>
           <a href="https://echa.europa.eu/eu-medical_devices_regulation-anx_i_sec_10?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0" target="_blank" rel="nofollow" >https://echa.europa.eu/eu-medical_devices_regulation-anx_i_sec_10?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0</a><br>
           <a href="https://echa.europa.eu/dangerous-subs-eco-labels?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0" target="_blank" rel="nofollow" >https://echa.europa.eu/dangerous-subs-eco-labels?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0</a>
-       <br><br>
-       <h3>Construction materials that contain restricted and prohibited substances</h3>
-	 <a href="https://echa.europa.eu/EU-CONSTRUCTION_PROD-ART_6_5" target="_blank" rel="nofollow" >https://echa.europa.eu/EU-CONSTRUCTION_PROD-ART_6_5</a><br>
+       </h3><br>
+       <h2>Construction materials that contain restricted and prohibited substances</h2>
+	 <h3><a href="https://echa.europa.eu/EU-CONSTRUCTION_PROD-ART_6_5" target="_blank" rel="nofollow" >https://echa.europa.eu/EU-CONSTRUCTION_PROD-ART_6_5</a><br>
 	 <a href="https://echa.europa.eu/EU-CONSTRUCTION_PROD-ANX_I_3" target="_blank" rel="nofollow" >https://echa.europa.eu/EU-CONSTRUCTION_PROD-ANX_I_3</a><br>
-         <a href="https://echa.europa.eu/eu-construction_prod-anx_i_3?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0" target="_blank" rel="nofollow" >https://echa.europa.eu/eu-construction_prod-anx_i_3?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0</a>
-       <br><br>
-       <h3>Cosmetics that contain restricted and prohibited substances</h3>
-	<a href="https://echa.europa.eu/cosmetics-prohibited-substances?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0" target="_blank" rel="nofollow" >https://echa.europa.eu/cosmetics-prohibited-substances?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0</a><br>
-	<a href="https://echa.europa.eu/cosmetics-restricted-substances?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0" target="_blank" rel="nofollow" >https://echa.europa.eu/cosmetics-restricted-substances?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0</a>
-       <br><br>
-       <h3>Toys and plastics that contain restricted and prohibited substances</h3>
+         <a href="https://echa.europa.eu/eu-construction_prod-anx_i_3?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0" target="_blank" rel="nofollow" >https://echa.europa.eu/eu-construction_prod-anx_i_3?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0</a></h3>
+       <br> 
+       <h2>Cosmetics that contain restricted and prohibited substances</h2>
+	<h3><a href="https://echa.europa.eu/cosmetics-prohibited-substances?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0" target="_blank" rel="nofollow" >https://echa.europa.eu/cosmetics-prohibited-substances?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0</a><br>
+	<a href="https://echa.europa.eu/cosmetics-restricted-substances?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0" target="_blank" rel="nofollow" >https://echa.europa.eu/cosmetics-restricted-substances?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0</a></h3>
+       <br> 
+       <h2>Toys and plastics that contain restricted and prohibited substances</h2><h3>
 	<a href="https://echa.europa.eu/substances-restricted-toys" target="_blank" >https://echa.europa.eu/substances-restricted-toys</a><br>
 	<a href="https://echa.europa.eu/plastic-substances-restricted-annex-2?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0" target="_blank" rel="nofollow" >https://echa.europa.eu/plastic-substances-restricted-annex-2?p_p_id=eucleflegislationlist_WAR_euclefportlet&p_p_lifecycle=0</a>
-       <br><br>
-       <h3>A list of VOC's</h3>
-        <a href="https://aqt-vru.com/emissions/complete-list-of-voc" >https://aqt-vru.com/emissions/complete-list-of-voc</a>
-       <br><br>
-       <h3>Explosives Precursors</h3>
-       <a href="https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex:32019R1148" target="_blank" rel="nofollow" >https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex:32019R1148</a>
-       <br><br>
-       <h3>Poisons</h3>
-       <a href="https://www.gov.uk/government/publications/supplying-explosives-precursors/supplying-explosives-precursors-and-poison" target="_blank" rel="nofollow" >https://www.gov.uk/government/publications/supplying-explosives-precursors/supplying-explosives-precursors-and-poison</a>
-       <br><br>
-       <h3>Illegal drugs and precursors</h3>
-         <a href="https://eur-lex.europa.eu/legal-content/RO/ALL/?uri=CELEX%3A32004R0273" target="_blank" rel="nofollow" >https://eur-lex.europa.eu/legal-content/RO/ALL/?uri=CELEX%3A32004R0273</a><br>
-         <a href="https://www.emcdda.europa.eu/drugs-library/green-list-%E2%80%93-list-psychotropic-substances-under-international-control-international-narcotics-control-board-incb_en" target="_blank" rel="nofollow" >https://www.emcdda.europa.eu/drugs-library/green-list-%E2%80%93-list-psychotropic-substances-under-international-control-international-narcotics-control-board-incb_en</a>
-       <br><br>
- 	 <span id="en"><b>All illegal psychoactive plants, fungi, animals and chemicals that are not on the list, in nature there are billions of organic chemicals, many plants and animals, some not even discovered yet</b></span>
-       <br><br>
-       <h3>Radioactive , chemical and biological weapons</h3>
+       </h3><br>
+       <h2>A list of VOC's</h2>
+        <h3><a href="https://aqt-vru.com/emissions/complete-list-of-voc" >https://aqt-vru.com/emissions/complete-list-of-voc</a></h3>
+       <br>
+       <h2>Explosives Precursors</h2>
+       <h3><a href="https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex:32019R1148" target="_blank" rel="nofollow" >https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex:32019R1148</a></h3>
+       <br>
+       <h2>Poisons</h2>
+       <h3><a href="https://www.gov.uk/government/publications/supplying-explosives-precursors/supplying-explosives-precursors-and-poison" target="_blank" rel="nofollow" >https://www.gov.uk/government/publications/supplying-explosives-precursors/supplying-explosives-precursors-and-poison</a></h3>
+       <br>
+       <h2>Illegal drugs and precursors</h2>
+       <h3><a href="https://eur-lex.europa.eu/legal-content/RO/ALL/?uri=CELEX%3A32004R0273" target="_blank" rel="nofollow" >https://eur-lex.europa.eu/legal-content/RO/ALL/?uri=CELEX%3A32004R0273</a><br>
+         <a href="https://www.emcdda.europa.eu/drugs-library/green-list-%E2%80%93-list-psychotropic-substances-under-international-control-international-narcotics-control-board-incb_en" target="_blank" rel="nofollow" >https://www.emcdda.europa.eu/drugs-library/green-list-%E2%80%93-list-psychotropic-substances-under-international-control-international-narcotics-control-board-incb_en</a></h3>
+       <br>
+ 	 <h3><b>All illegal psychoactive plants, fungi, animals and chemicals that are not on the list, in nature there are billions of organic chemicals, many plants and animals, some not even discovered yet</b></h3>
+       <br>
+       <h2>Radioactive , chemical and biological weapons</h2>
+       <h3>
 	<a href="https://www.iaea.org/resources/databases/international-catalogue-of-sealed-radioactive-sources-and-devices" target="_blank" rel="nofollow" >https://www.iaea.org/resources/databases/international-catalogue-of-sealed-radioactive-sources-and-devices</a><br>
 	<a href="https://www.opcw.org/chemical-weapons-convention/annexes/annex-chemicals/schedule-1" target="_blank" rel="nofollow" >https://www.opcw.org/chemical-weapons-convention/annexes/annex-chemicals/schedule-1</a><br>
 	<a href="https://www.opcw.org/chemical-weapons-convention/annexes/annex-chemicals/schedule-2" target="_blank" rel="nofollow" >https://www.opcw.org/chemical-weapons-convention/annexes/annex-chemicals/schedule-2</a><br>
@@ -4746,26 +4885,29 @@ For some products we will try to find suppliers that offer international warrant
 	<a href="https://emergency.cdc.gov/agent/agentlist-category.asp" target="_blank" rel="nofollow" >https://emergency.cdc.gov/agent/agentlist-category.asp</a> 
         <br><br>
         <span id="en"><b>And others radioactive materials, pathogens, chemicals that are not even in public lists, you will find them in secret laboratories of goverments around the world</b></span>
-         <br><br>
+</h3><br>
+
 </details>  
 <details>
   <summary>Accepted Laboratories, Inspection and Fumigation Companies</summary>
 
-  <h2 style="border:0;" >Accepted accreditation bodies must be members of IAF or EA</h2><br>
+<br>
+  <h2><b>Accepted accreditation bodies must be members of IAF or EA</b></h2>
+  
+  <h3>
        <a style="color:darkred;" href="https://iaf.nu/en/recognised-abs/" target=”_blank” rel="nofollow" ><b>https://iaf.nu/en/recognised-abs/</b></a><br>
        <a style="color:darkred;" href="https://european-accreditation.org/ea-members/directory-of-ea-members-and-mla-signatories/" target=”_blank” rel="nofollow" ><b>https://european-accreditation.org/ea-members/directory-of-ea-members-and-mla-signatories/</b></a>
        <br><br>
-       <b><span id="en">Romanian's only national accreditation body RENAR</span><br>
-       <a style="color:darkred;" href="https://www.renar.ro" target=”_blank” rel="nofollow" ><b>https://www.renar.ro</b></a><br>
-       <b><span id="en"> All laboraties in Romania must be accredited by RENAR to issue valid documents</span><br>
-       <br>
-       <span id="en"><b>Laboratories and certification companies accredited by RENAR - Romania:</b></span><br>
-       <br>
+        Romanian's only national accreditation body RENAR:<br>
+       <a style="color:darkred;" href="https://www.renar.ro" target=”_blank” rel="nofollow" ><b>https://www.renar.ro</b></a><br><br>
+       All laboraties in Romania must be accredited by RENAR to issue valid documents<br>
+       </h3><br>
+       
+       <h3><b>Laboratories and certification companies accredited by RENAR - Romania:</b></h3><br>
 	    
+       <h2>Romanian public institutions</h2>
  
-       <h2 style="border:0;" >Romanian public institutions</h2><br>
- 
-	    AUTORITATEA NAȚIONALĂ PENTRU PROTECȚIA CONSUMATORILOR <br><a style="color:darkred;" href="https://anpc.ro" target=”_blank” rel="nofollow" >https://anpc.ro</a><br> 
+	    <h3>AUTORITATEA NAȚIONALĂ PENTRU PROTECȚIA CONSUMATORILOR <br><a style="color:darkred;" href="https://anpc.ro" target=”_blank” rel="nofollow" >https://anpc.ro</a><br> 
 	    AUTORITATEA NAŢIONALĂ FITOSANITARĂ <br><a style="color:darkred;" href="https://www.anfdf.ro" target=”_blank” rel="nofollow" >https://www.anfdf.ro</a><br> 
 	    AUTORITATEA FEROVIARĂ ROMÂNĂ - AFER <br> LABORATOARE (ONFR-L) <br><a style="color:darkred;" href="http://www.afer.ro/onfr/documents/onfr.html" target=”_blank” rel="nofollow" >http://www.afer.ro/onfr/documents/onfr.html</a><br> 
 	    DIRECȚII DE SĂNĂTATE PUBLICĂ A JUDEȚENE <br><a style="color:darkred;" href="https://www.ms.ro/ro/directiile-de-sanatate-publica/" target=”_blank” rel="nofollow" >https://www.ms.ro/ro/directiile-de-sanatate-publica/</a><br> 
@@ -4791,14 +4933,15 @@ For some products we will try to find suppliers that offer international warrant
 	    ICPA BUCUREŞTI <br><a style="color:darkred;" href="https://icpa.ro" target=”_blank” rel="nofollow" >https://icpa.ro</a><br>
 	    INCDTP BUCUREŞTI <br><a style="color:darkred;" href="https://www.certex.ro" target=”_blank” rel="nofollow" >https://www.certex.ro</a><br>
 	    ISIM Timişoara <br><a style="color:darkred;" href="https://www.isim.ro/" target=”_blank” rel="nofollow" >https://www.isim.ro/</a><br>
-	    COMOTI <br><a style="color:darkred;" href="https://comoti.ro" target=”_blank” rel="nofollow" >https://comoti.ro</a><br>
+	    COMOTI <br><a style="color:darkred;" href="https://comoti.ro" target=”_blank” rel="nofollow" >https://comoti.ro</a></h3>
      
  
-	    <br><br>
+	    <br> 
  
-	<h2 style="border:0;" >Private companies</h2><br>
+	<h2>Private companies</h2>
  
-	    GENMAR COSMETICS S.R.L. <br><a style="color:darkred;" href="https://genmar.ro/laborator-analize/" target=”_blank” rel="nofollow" >https://genmar.ro/laborator-analize/</a><br>
+
+	     <h3>GENMAR COSMETICS S.R.L. <br><a style="color:darkred;" href="https://genmar.ro/laborator-analize/" target=”_blank” rel="nofollow" >https://genmar.ro/laborator-analize/</a><br>
 	    SRAC CERT SRL <br><a style="color:darkred;" href="https://www.srac.ro" target=”_blank” rel="nofollow" >https://www.srac.ro</a><br> 
 	    ASOCIAŢIA ROMÂNĂ DE EXAMINĂRI NEDISTRUCTIVE - ARoENd <br><a style="color:darkred;" href="https://aroend.ro" target=”_blank” rel="nofollow" >https://aroend.ro</a><br> 
 	    TÜV AUSTRIA ROMÂNIA SRL <br><a style="color:darkred;" href="https://www.tuv-austria.ro/" target=”_blank” rel="nofollow" >https://www.tuv-austria.ro</a><br> 
@@ -4883,7 +5026,7 @@ For some products we will try to find suppliers that offer international warrant
 	    UNICERT SRL <br><a style="color:darkred;" href="https://unicert.ro/" target=”_blank” rel="nofollow" >https://unicert.ro</a> <br>
 	    UNILAB SRL <br><a style="color:darkred;" href="https://unilab.ro" target=”_blank” rel="nofollow" >https://unilab.ro</a> <br>
 	    VETWORK DIAGNOSTIX SRL <br><a style="color:darkred;" href="https://vetworkdiagnostix.ro" target=”_blank” rel="nofollow" >https://vetworkdiagnostix.ro</a> <br>
-	    RINA SIMTEX - ORGANISMUL DE CERTIFICARE SRL <br><a style="color:darkred;" href="https://www.rina.org/ro" target=”_blank” rel="nofollow" >https://www.rina.org/ro</a><br><br>
+	    RINA SIMTEX - ORGANISMUL DE CERTIFICARE SRL <br><a style="color:darkred;" href="https://www.rina.org/ro" target=”_blank” rel="nofollow" >https://www.rina.org/ro</a></h3><br>
  
 
 
@@ -4893,43 +5036,45 @@ For some products we will try to find suppliers that offer international warrant
 </details>  
 <details>
   <summary>Countries Black List</summary>
+  
+ <br>
   <span id="en" ><b>We do not work with companies from the following countries:</b></span><br> 
 <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >https://www.sanctionsmap.eu/#/main</a><br><br>
  
-- <span id="en">Russia </span> <br>	       
-- <span id="en">Belarus</span> <br>
-- <span id="en">Ukraine</span> <br>
+<h3>- Russia </h3>	       
+<h3>- Belarus</h3>
+<h3>- Ukraine</h3>
 <br>	    
-- <span id="en">North Korea</span> <br>
-- <span id="en">Myanmar ( Burma )</span> <br> 
+<h3>- North Korea</h3>
+<h3>- Myanmar</h3> 
 <br>	    
-- <span id="en">Iraq</span> <br> 
-- <span id="en">Syria</span> <br> 
-- <span id="en">Libya</span> <br> 
-- <span id="en">Lebanon</span> <br> 
-- <span id="en">Yemen</span> <br> 
-- <span id="en">Afghanistan</span> <br> 
-- <span id="en">Iran</span> <br>
+<h3>- Iraq</h3>
+<h3>- Syria</h3>
+<h3>- Libya</h3>
+<h3>- Lebanon</h3> 
+<h3>- Yemen</h3>
+<h3>- Afghanistan</h3> 
+<h3>- Iran</h3>
 <br>	    
-- <span id="en">Central African Republic</span> <br> 
-- <span id="en">Democratic Republic of Congo</span> <br> 	    
-- <span id="en">Sudan</span> <br>	       
-- <span id="en">South Sudan</span> <br>
-- <span id="en">Somalia</span> <br> 
+<h3>- Central African Republic</h3>
+<h3>- Democratic Republic of Congo</h3> 	    
+<h3>- Sudan</h3>      
+<h3>- South Sudan</h3>
+<h3>- Somalia</h3>
 <br>	    
-- <span id="en">Venezuela</span> <br> 
-- <span id="en">Haiti</span> <br> 
+<h3>- Venezuela</h3>
+<h3>- Haiti</h3>
 <br>		    
- <span id="en" ><b>Non-UN states</b></span> <br> 
-- <span id="en">Abkhazia</span> <br> 
-- <span id="en">Northern Cyprus</span> <br> 
-- <span id="en">Sahrawi Arab Democratic Republic</span> <br> 
-- <span id="en">South Ossetia</span> <br> 
-- <span id="en">Taiwan</span> <br> 
-- <span id="en">Transnistria</span> <br> 
-- <span id="en">Somaliland</span> <br> 
-- <span id="en">Nagorno-Karabah</span> <br><br> 
-
+<h2><b>Non-UN states</h2>
+<h3>- Abkhazia</h3>
+<h3>- Northern Cyprus</h3>
+<h3>- Sahrawi Arab Democratic Republic</h3>
+<h3>- South Ossetia</h3>
+<h3>- Taiwan</h3>
+<h3>- Transnistria</h3> 
+<h3>- Somaliland</h3>
+<h3>- Nagorno-Karabah</h3>
+<br>
 </details>  
 
 
@@ -4937,7 +5082,8 @@ For some products we will try to find suppliers that offer international warrant
   <summary>Countries for which EU banks want supporting documents</summary>
 
 
-     <span id="en" ><b>Banks want legal documents before they allow transactions with companies from countries in this list</b></span><br><br>
+     <h2>Banks want legal documents before they allow transactions with companies from countries in this list</h2>
+ <h3>
   - <span id="en" >The contract</span><br> 
   - <span id="en" >Invoice / invoices, to cover the value of the transaction</span><br> 
   - <span id="en" >Certificate of origin issued by the competent authority of the country (or an equivalent document that certifies both the country of the producer and his company name )</span><br>  
@@ -4945,12 +5091,12 @@ For some products we will try to find suppliers that offer international warrant
   - <span id="en" >Declaration / certificate of conformity with technical documentation proof</span> <br> 
   - <span id="en" >Laboratory analysis proof that shows the products are safe and according to EU standards</span> <br>   
   - <span id="en" >Transport documents</span> <br>  
-  - <span id="en" >The banks may request additional information/documents to clarify the purpose and nature of transactions</span> <br> 
+  - <span id="en" >The banks may request additional information/documents to clarify the purpose and nature of transactions</span> 
  
+</h3>
 <br>
-
-     <span id="en" ><b>Countries</b></span> 
-     <br><br>
+     <h2><b>Countries</b></h2> 
+ <h3>
 - <span id="en">Bermuda</span><br> 
 - <span id="en">Bahamas</span><br> 
 - <span id="en">Cuba</span><br> 
@@ -5046,26 +5192,26 @@ For some products we will try to find suppliers that offer international warrant
 - <span id="en">San Marino</span><br> 
 - <span id="en">Malta</span><br> 	
 - <span id="en">Cyprus Republic</span><br> 		
-- <span id="en">Bosnia And Herzegovina</span><br><br> 
+- <span id="en">Bosnia And Herzegovina</span></h3>
  
  
 
 </details>  
 <details>
   <summary>Recalls</summary>
-All Recalls we will be put here<br><br>
+<h3>All Recalls we will be put here</h3>
 </details>  
 <details>
   <summary>Proof Documents that we payed excise duties to producers in Romania</summary>
 
 <h2 style="border:0;" >All proofs that we payed excise duties to producers in Romania we will be put here. ( For clients who want to buy this type of products )</h2><br>
-Note: Excise duties products we will buy only from Romania and will not be exported outside European Union for now<br> 
+<h3>Note: Excise duties products we will buy only from Romania and will not be exported outside European Union for now<br> 
 In the case of excise duties products ( example bioethanol for fuel use ) in Romania the procedure in this moment in time is this:<br><br>
 1. The producer ( authorized warehouse ) issues a proforma invoice to the Buyer<br><br>
 2. The buyer pays the excise duties to the producer ( authorized warehouse ) via bank transfer or money order or via other types of bank payment methods and at details he writes "payment product and payment excise duties value x RON"<br><br>
 3. The producer ( authorized warehouse ) he will also issue proof that the buyer paid the product including the excise duties , if the producer refuses to issue the proof the authorities must be notified immediately<br><br>
 4. In case of BLUE SEA EXPORT IMPORT S.R.L. we will put all this proofs that excise duties have been payed to the producer ( authorized warehouse ) on our website, so anyone that wishes to see them will see them<br><br>
-5. If the product is outside Romania, Excise duties will be payed again in the country of destination ( it depends on the legislation of that country ) , after that we must request reimbursement of excise duties from Romania and the money will be returned to the client who payed it, the bank fees will be payed by the client also. <br><br>
+5. If the product is outside Romania, Excise duties will be payed again in the country of destination ( it depends on the legislation of that country ) , after that we must request reimbursement of excise duties from Romania and the money will be returned to the client who payed it, the bank fees will be payed by the client also.</h3> <br>
 </details>  
 <details>
   <summary>About us and what we do</summary>
@@ -5094,14 +5240,14 @@ In the case of excise duties products ( example bioethanol for fuel use ) in Rom
 <div class="contactslidediv" >
 <form method="post" action="https://forms.un-static.com/forms/dc94a7cd2e41e002c4160f2ea41c13a6ebce5f02" >
 
-<span id="en"><b>Regulation (EU) 2016/679 of the European Parliament ( GDPR ) - This Regulation does not cover the processing of personal data which concerns legal persons and in particular undertakings established as legal persons, including the name and the form of the legal person and the contact details of the legal person.</b></span>
+<h2><b>Regulation (EU) 2016/679 of the European Parliament ( GDPR ) - This Regulation does not cover the processing of personal data which concerns legal persons and in particular undertakings established as legal persons, including the name and the form of the legal person and the contact details of the legal person.</h2>
 
-<br><br>
+<br> 
 
-    <span id="en">Please create a number for </span> <a href="https://www.whatsapp.com/" target="_blank" alt="Whatsapp" >whatsapp</a><br><br>
-    <span id="en">International phone calls are very expensive we use the internet to contact you back.</span><br>
-    <span id="en">BLUE SEA EXPORT IMPORT S.R.L. is located in Romania.</span><br>
-    <span id="en">If you don't have access to internet, use free public wifi hotspots.</span><br><br>
+    <h3>Please create a number for </span> <a href="https://www.whatsapp.com/" target="_blank" alt="Whatsapp" style="text-decoration:underline;" >whatsapp</a></h3>
+    <h3>International phone calls are very expensive we use the internet to contact you back.</h3>
+    <h3>BLUE SEA EXPORT IMPORT S.R.L. is located in Romania.</h3>
+    <h3>If you don't have access to internet, use free public wifi hotspots.</h3><br>
        <div class="inputtxt" >
         <label for="name" ><span id="en">Authorized Company Representative ( e.g. Joe Doe )</span></label><br>
         <input id="name" name="name" type="text" required="required" >
