@@ -26,9 +26,7 @@
   gtag('config', 'G-GGVCDG222N');
 </script>	
 
-<!-- TrustBox script -->
-<script type="text/javascript" src="https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
-<!-- End Box script -->
+
 <style>
 
      @font-face {
@@ -164,21 +162,26 @@ $(".product a").each(function (index, value) {
                  $('#list').append('<li>'+value.innerText+' <a href="#!" class="delete">[ Delete ]</a></li>');
                  myarray.push(value.innerText);
                }
+               
+
+               $(this).css('color', 'green');
+
               
-                            $('.delete').click( function() {
-                                      partext = $(this).parent().text()
-                                      textpar = partext.slice(0,-11)
-                                      $(this).parent().remove();
-                                      var ind = myarray.indexOf(textpar); // get index if value found otherwise -1
-                                       if (ind > -1) { //if found
-                                              myarray.splice(ind, 1);
-                                       }
-                                      
-                                     
-                            });
+               $('.delete').click( function() {
+                     partext = $(this).parent().text()
+                     textpar = partext.slice(0,-11)
+                     $(this).parent().remove();
+                     var ind = myarray.indexOf(textpar); // get index if value found otherwise -1
+                         if (ind > -1) { //if found
+                             myarray.splice(ind, 1);
+                         }
+                     console.log(textpar);
+                     $("a:contains('"+textpar+"')").css('color', 'darkred');    
+               });
                                                         
                             
             });
+
             
 });
 
@@ -756,23 +759,163 @@ $(".thedoc").each(function (index, value) {
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-121190-0045</b></a> Witch hazel - only for use in  perfumery and teas ( Hamamelis virginiana ) </p>
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-121190-0046</b></a> Patchouli leaves - only for use in  perfumery ( Pogostemon patchouli ) </p>
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-121190-0047</b></a> Sandalwood chips - only for use in  perfumery ( Alpinia officinarum ) </p>
-<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-121190-0048</b></a> Cascarilla bark - only for use in  perfumery ( (Croton eluteria ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-121190-0048</b></a> Cascarilla bark - only for use in  perfumery ( Croton eluteria ) </p>
  
-<h4>060110 - Plants, live; bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant</h4>
-<h4>060120 - Plants, live; bulbs, tubers, tuberous roots, corms, crowns and rhizomes, in growth or in flower, chicory plants and roots other than of heading no. 1212</h4>
-<h4>060210 - Plants, live; unrooted cuttings and slips</h4>
+
 <h4>060220 - Plants, live; edible fruit or nut trees, shrubs and bushes, grafted or not</h4>
-<h4>060230 - Plants, live; rhododendrons and azaleas, grafted or not</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0001</b></a> Live plant in pot - Cornelian cherry ( Cornus mas ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0002</b></a> Live plant in pot - Baby Black Chokeberry ( Aronia melanocarpa ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0003</b></a> Live plant in pot - Sea-buckthorn ( Hippophae rhamnoides ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0004</b></a> Live plant in pot - Baby Sweet Chestnut ( Castanea sativa ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0005</b></a> Live plant in pot - Baby Cherry Plum ( Prunus cerasifera ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0006</b></a> Live plant in pot - Baby Raspberry ( Rubus idaeus ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0007</b></a> Live plant in pot - Baby Blackberry ( Rubus fruticosus L. ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0008</b></a> Live plant in pot - Baby Gooseberry ( Ribes uva-crispa ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0009</b></a> Live plant in pot - Baby Blackcurrant ( Ribes nigrum ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0010</b></a> Live plant in pot - Baby Redcurrant ( Ribes rubrum ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0011</b></a> Live plant in pot - Grape Vine ( Vitis vinifera ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0012</b></a> Live plant in pot - Baby Apricot ( Prunus armeniaca ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0013</b></a> Live plant in pot - Baby Peach ( Prunus persica ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0014</b></a> Live plant in pot - Baby Nectarine ( Prunus persica ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0015</b></a> Live plant in pot - Baby Cherry ( Prunus Avium ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0016</b></a> Live plant in pot - Baby Sour Cherry ( Prunus cerasus ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0017</b></a> Live plant in pot - Baby Quince ( Cydonia oblonga ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0018</b></a> Live plant in pot - Baby Pear ( Pyrus Communis ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0019</b></a> Live plant in pot - Baby Plum ( Prunus Domestica ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0020</b></a> Live plant in pot - Baby Apple ( Malus domestica ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0021</b></a> Live plant in pot - Baby Almond ( Prunus dulcis ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0022</b></a> Live plant in pot - Baby Walnut ( Juglans ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0023</b></a> Live plant in pot - Baby Hazelnut ( Corylus avellana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060220-0024</b></a> Live plant in pot - Baby Fig ( Ficus carica ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0025</b></a> Live plant in pot - Baby Japanese Quince Tree ( Chaenomeles japonica ) </p>
+
 <h4>060240 - Plants, live; roses, grafted or not</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060240-0001</b></a> Propagation cutting - Award Winning Roses - you must specify variaty name ( Rosa - genus ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060240-0001</b></a> Propagation cutting - Gallic rose ( Rosa gallica ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060240-0001</b></a> Propagation cutting - Damask rose ( Rosa × damascena ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060240-0001</b></a> Propagation cutting - China rose ( Rosa chinensis ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060240-0001</b></a> Propagation cutting - White rose of York ( Rosa × alba ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060240-0001</b></a> Propagation cutting - Dog Rose ( Rosa caninae ) </p>
+
 <h4>060290 - Plants, live; n.e.c. in heading no. 0602</h4>
-<h4>060311 - Flowers, cut; roses, flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh</h4>
-<h4>060312 - Flowers, cut; carnations, flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh</h4>
-<h4>060313 - Flowers, cut; orchids, flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh</h4>
-<h4>060314 - Flowers, cut; chrysanthemums, flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh</h4>
-<h4>060315 - Flowers, cut; lilies (Lilium spp.), flowers and flower buds of a kind suitable for bouquets or ornamental purposes, fresh</h4>
-<h4>060319 - Flowers, cut; flowers and buds of a kind suitable for bouquets or ornamental purposes, fresh, other than roses, carnations, orchids, chrysanthemums or lillies</h4>
-<h4>060390 - Flowers, cut; flowers and flower buds of a kind suitable for bouquets or ornamental purposes, dried, dyed, bleached, impregnated or otherwise prepared</h4>
-<h4>120930 - Seeds of herbaceous plants; cultivated principally for their flowers, of a kind used for sowing</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0001</b></a> Live plant in pot - deciduous - Baby Oak Tree ( Quercus robur L. ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0002</b></a> Live plant in pot - deciduous - Baby Northern Red Oak Tree ( Quercus rubra ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0003</b></a> Live plant in pot - deciduous - Baby Ginkgo Tree ( Ginkgo biloba ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0004</b></a> Live plant in pot - deciduous - Baby Silver Maple Tree ( Acer saccharinum ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0005</b></a> Live plant in pot - deciduous - Baby London Plane Tree ( Platanus acerifolia ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0006</b></a> Live plant in pot - deciduous - Baby Linden Tree ( genus Tilia ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0007</b></a> Live plant in pot - deciduous - Baby Willow Tree ( genus Salix L. ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0008</b></a> Live plant in pot - deciduous - Baby Weeping Willow Tree ( Salix babilonica ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0009</b></a> Live plant in pot - deciduous - Baby Corkscrew Willow Tree ( Salix matsudana v. tortuosa ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0010</b></a> Live plant in pot - deciduous - Baby Korean Privet Tree ( Ligustrum ovalifolium ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0011</b></a> Live plant in pot - deciduous - Baby Common Privet Tree ( Ligustrum vulgaris ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0012</b></a> Live plant in pot - deciduous - Baby Fragrant Honeysuckle ( Lonicera fragrantissima ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0013</b></a> Live plant in pot - deciduous - Baby Mahonia ( Mahonia aquifolium ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0014</b></a> Live plant in pot - deciduous - Baby Jasmin ( Philadelphus coronarius ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0015</b></a> Live plant in pot - deciduous - Baby Bridal Wreath ( Spiraea vanhouttei ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0016</b></a> Live plant in pot - deciduous - Baby Japanese Meadowsweet ( Spiraea bumalda ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0017</b></a> Live plant in pot - deciduous - Baby Black Locust ( Robinia pseudoacacia L. ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0018</b></a> Live plant in pot - deciduous - Baby Elm Tree ( Ulmus minor ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0019</b></a> Live plant in pot - deciduous - Baby Sycamore Maple Tree ( Acer pseudoplatanus ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0020</b></a> Live plant in pot - deciduous - Baby Boxelder Maple Tree ( Philadelphus coronarius ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0021</b></a> Live plant in pot - deciduous - Baby Judea Tree ( Cercis siliquastrum ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0022</b></a> Live plant in pot - deciduous - Baby Border Forsythia Tree ( Forsythia intermedia ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0023</b></a> Live plant in pot - deciduous - Baby Ash Tree ( Fraxinus excelsior ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0024</b></a> Live plant in pot - deciduous - Baby Common Ivy Tree ( Hedera helix ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0024</b></a> Live plant in pot - deciduous - Baby Syrian Ketmia Tree ( Hibiscus syriacus sp. var. ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0025</b></a> Live plant in pot - deciduous - Baby Lilac ( Syringa vulgaris ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0026</b></a> Live plant in pot - deciduous - Baby Guelder Rose ( Viburnum oppulus  ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0027</b></a> Live plant in pot - deciduous - Baby Weigela ( Weigela florida ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0028</b></a> Live plant in pot - deciduous - Baby Scarlet Firethorn Tree ( Pyracantha coccinea ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0029</b></a> Live plant in pot - deciduous - Baby Deutzia Tree ( Deutzia scabra ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0030</b></a> Live plant in pot - deciduous - Baby Birch Tree ( Betula sp ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0031</b></a> Live plant in pot - deciduous - Baby Large-Leaved Linden ( Tilia platyphylos ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0032</b></a> Live plant in pot - deciduous - Baby Horse Chestnut ( Aesculus hippocastanum ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0033</b></a> Live plant in pot - deciduous - Baby Kobus Magnolia ( Magnolia kobus ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0034</b></a> Live plant in pot - deciduous - Baby Saucer Magnolia ( Magnolia x soulangeana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0035</b></a> Live plant in pot - conifers - Baby Fir Tree ( Abies alba ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0036</b></a> Live plant in pot - conifers - Baby White Fir Tree ( Abies concolor ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0037</b></a> Live plant in pot - conifers - Baby Caucasian Fir Tree ( Abies nordmanniana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0038</b></a> Live plant in pot - conifers - Baby Douglas Fir Tree ( Pseudotsuga menziesii ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0039</b></a> Live plant in pot - conifers - Baby European Spruce Tree ( Picea abies ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0040</b></a> Live plant in pot - conifers - Baby Colorado Spruce Tree ( Picea pungens ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0041</b></a> Live plant in pot - conifers - Baby Black Pine Tree ( Pinus nigra ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0042</b></a> Live plant in pot - conifers - Baby European Yew Tree ( Taxus baccata ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0043</b></a> Live plant in pot - conifers - Baby Biota ( Thuja orientalis biota ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0044</b></a> Live plant in pot - conifers - Baby Dwarf Mountain Pine Tree ( Pinus mugo ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0045</b></a> Live plant in pot - conifers - Baby Thuja Smaragd ( Thuja occidentalis Smaragd ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0046</b></a> Live plant in pot - conifers - Baby Giant Thuja ( Thuja plicata ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0047</b></a> Live plant in pot - conifers - Baby Swamp Cypress Tree ( Taxodium distichum ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0048</b></a> Live plant in pot - conifers - Baby Sawara Cypress Tree ( Chamaecyparis pisifera Plumosa ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0049</b></a> Live plant in pot - conifers - Baby Creeping Juniper ( Juniperus horizontalis var. ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0050</b></a> Live plant in pot - conifers - Baby Virginian Juniper ( Juniperus virginiana var. ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0051</b></a> Live plant in pot - conifers - Baby Nepal Juniper ( Juniperus squamata var. ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0052</b></a> Live plant in pot - conifers - Baby Chinese Juniper ( Juniperus chinensis Hetzii ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0053</b></a> Live plant in pot - conifers - Baby Savina Juniper ( Juniperus Sabina Cupresifolia ) </p>
+
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0054</b></a> Live outdoor plant in pot - Baby Cosmos - mixed colors ( Cosmos bipinnatus ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0055</b></a> Live outdoor plant in pot - Baby Castor oil plant ( Ricinus communis ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0056</b></a> Live outdoor plant in pot - Baby Snowdrop ( Galanthus nivalis ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0057</b></a> Live outdoor plant in pot - Baby German bearded iris - pink ( Iris × germanica ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0058</b></a> Live outdoor plant in pot - Baby German bearded iris - bronze ( Iris × germanica ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0059</b></a> Live outdoor plant in pot - Baby German bearded iris - black ( Iris × germanica ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0060</b></a> Live outdoor plant in pot - Baby Common zinnia - mixed colors ( Zinnia elegans ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0061</b></a> Live outdoor plant in pot - Baby Common zinnia - red ( Zinnia elegans ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0062</b></a> Live outdoor plant in pot - Baby Common zinnia - purple ( Zinnia elegans ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0063</b></a> Live outdoor plant in pot - Baby Common zinnia - white ( Zinnia elegans ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0064</b></a> Live outdoor plant in pot - Baby Common zinnia - orange ( Zinnia elegans ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0065</b></a> Live outdoor plant in pot - Baby Common zinnia - yellow ( Zinnia elegans ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0066</b></a> Live outdoor plant in pot - Baby Common violet ( Viola odorata ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0067</b></a> Live outdoor plant in pot - Baby Clematis 'Jackmanii' ( Clematis × jackmanii ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0068</b></a> Live outdoor plant in pot - Baby Alpine columbine ( Aquilegia alpina ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0069</b></a> Live outdoor plant in pot - Baby Wild pansy ( Viola tricolor ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0070</b></a> Live outdoor plant in pot - Baby Italian woodbine ( Lonicera caprifolium ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0071</b></a> Live outdoor plant in pot - Baby Dwarf periwinkle ( Vinca Minor ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0072</b></a> Live outdoor plant in pot - Baby Poet's daffodils ( Narcissus poeticus  ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0073</b></a> Live outdoor plant in pot - Baby Garden hyacinth - mixed colors ( Hyacinthus orientalis ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0074</b></a> Live outdoor plant in pot - Baby Garden hyacinth - Peter Stuyvesant ( Hyacinthus orientalis ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0075</b></a> Live outdoor plant in pot - Baby Garden hyacinth - Chesnut Flower ( Hyacinthus orientalis ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0076</b></a> Live outdoor plant in pot - Baby Garden hyacinth - Yellow Queen ( Hyacinthus orientalis ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0077</b></a> Live outdoor plant in pot - Baby Columbine ( Aquilegia vulgaris ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0078</b></a> Live outdoor plant in pot - Baby Morning glory - mixed colors ( Ipomea tricolor Cav ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0079</b></a> Live outdoor plant in pot - Baby Morning glory - blue ( Ipomea tricolor Cav ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0080</b></a> Live outdoor plant in pot - Baby Dwarf Morning glory - blue ( Ipomea tricolor Cav ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0081</b></a> Live outdoor plant in pot - Baby Oxeye - mixed colors ( Chrysanthemum leucanthemum ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0082</b></a> Live outdoor plant in pot - Baby Aztec marigold - mixed colors ( Tagetes erecta L. ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0083</b></a> Live outdoor plant in pot - Baby Esta Bonita Tulip ( Tulipa × gesneriana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0084</b></a> Live outdoor plant in pot - Baby Red Mark Tulip ( Tulipa × gesneriana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0085</b></a> Live outdoor plant in pot - Baby Havran Tulip ( Tulipa × gesneriana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0086</b></a> Live outdoor plant in pot - Baby Libretto Parrot Tulip ( Tulipa × gesneriana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0087</b></a> Live outdoor plant in pot - Baby Orange van Eijk Tulip ( Tulipa × gesneriana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0088</b></a> Live outdoor plant in pot - Baby Triumph mix Tulip ( Tulipa × gesneriana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0089</b></a> Live outdoor plant in pot - Baby Tangerine Beauty Tulip ( Tulipa × gesneriana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0090</b></a> Live outdoor plant in pot - Baby Praestans Unicum Tulip ( Tulipa × gesneriana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0091</b></a> Live outdoor plant in pot - Baby Ile de France Tulip ( Tulipa × gesneriana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0092</b></a> Live outdoor plant in pot - Baby Flaming Flag Tulip ( Tulipa × gesneriana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0093</b></a> Live outdoor plant in pot - Baby Barbados Tulip ( Tulipa × gesneriana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0094</b></a> Live outdoor plant in pot - Baby Flaming Parrot Tulip ( Tulipa × gesneriana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0095</b></a> Live outdoor plant in pot - Baby Carnaval de Rio Tulip ( Tulipa × gesneriana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0096</b></a> Live outdoor plant in pot - Baby Club mix Tulip ( Tulipa × gesneriana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0097</b></a> Live outdoor plant in pot - Baby Giant Parrot Tulip ( Tulipa × gesneriana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0098</b></a> Live outdoor plant in pot - Baby Gerband Kieft Tulip ( Tulipa × gesneriana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0099</b></a> Live outdoor plant in pot - Baby Parrot mix Tulip ( Tulipa × gesneriana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0100</b></a> Live outdoor plant in pot - Baby Rem's Favourite Tulip ( Tulipa × gesneriana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0101</b></a> Live outdoor plant in pot - Baby Double Shirley Tulip ( Tulipa × gesneriana ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0102</b></a> Live outdoor plant in pot - Baby Passion flower ( Passiflora caerulea ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0103</b></a> Live outdoor plant in pot - Baby Daisy ( Bellis perennis L.  ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0104</b></a> Live outdoor plant in pot - Baby Geranium - mixed colors ( Pelargonium x zonale ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0105</b></a> Live outdoor plant in pot - Baby Madonna lily - white ( Lilium candidu ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0106</b></a> Live outdoor plant in pot - Baby Madonna lily - bicolor ( Lilium candidu ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0107</b></a> Live outdoor plant in pot - Baby Madonna lily - orange ( Lilium candidu ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0108</b></a> Live outdoor plant in pot - Baby Madonna lily - yellow ( Lilium candidu ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0109</b></a> Live outdoor plant in pot - Baby Madonna lily - red ( Lilium candidu ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0110</b></a> Live outdoor plant in pot - Baby Madonna lily - oriental playtime ( Lilium candidu ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0111</b></a> Live outdoor plant in pot - Baby Madonna lily - mixed colors ( Lilium candidu ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0112</b></a> Live outdoor plant in pot - Baby Carnation - Grenadin ( Dianthus caryophyllu ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0113</b></a> Live outdoor plant in pot - Baby Carnation - Chabaud ( Dianthus caryophyllu ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0114</b></a> Live outdoor plant in pot - Chinese hibiscus ( Hibiscus × rosa-sinensis ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0115</b></a> Propagation cutting - Jasmine ( Jasminum officinal ) </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-060290-0116</b></a> Propagation cutting - Lilac ( Syringa vulgaris ) </p>
 </div>
 </details>
 
@@ -5738,11 +5881,6 @@ In the case of excise duties products ( example bioethanol for fuel use ) in Rom
  <br><span><b>Postal</b></span> 
  <span class="srlinfo">BD. UNIRII NR. 9, BL. 9, ET. 7, AP. 27, FOCSANI, ROMANIA, POSTAL CODE 620095</span><br>
 
-<!-- TrustBox widget - Review Collector -->
-<div class="trustpilot-widget" data-locale="en-US" data-template-id="56278e9abfbbba0bdcd568bc" data-businessunit-id="66dbf5916557657d6b4556e9" data-style-height="52px" data-style-width="100%">
-  <a href="https://www.trustpilot.com/review/blueseaexportimport.com" target="_blank" rel="noopener">Trustpilot</a>
-</div>
-<!-- End TrustBox widget --><br>
 	
  <span id="en" ><a href="https://github.com/blueseaexportimport/blueseaexportimport.com" ><b>Our website source code repository on Github <br>( We use Github Pages for Hosting )</b></a></span>
 
