@@ -83,7 +83,7 @@
      .thedocbin{text-align:right;}
      .thedoc{display:inline-block;background:darkred;color:white;text-decoration:underline;padding:5px;font-size:15px;}
      .lastmod{text-align:center;font-size:15px;font-family: 'Alumni Sans', Arial, sans-serif;font-weight:bold;}
-
+ 
      
      section summary{ font-family: 'Arial', sans-serif; font-weight:bold; color:#151fba;font-size:17px;padding:10px 0;font-family: 'Arial', sans-serif; }
      
@@ -162,6 +162,9 @@ $(".product a").each(function (index, value) {
             $(this).click( function() {
 
                if (!myarray.includes(value.innerText)){
+                 fulltext = $(this).parent().text();
+                 fulltextslice = fulltext.slice(17)
+                 console.log(fulltextslice);
                  $('#list').append('<li>'+value.innerText+' <a href="#!" class="delete">[ Delete ]</a></li>');
                  myarray.push(value.innerText);
                }
@@ -745,13 +748,15 @@ document.getElementById("modifiedpage").innerHTML = text;
 <p class="subproduct" ><b>Note: Your company must be authorised to buy this products. ( We do not accept requests from speculators )</b> </p>
 <p class="subproduct" ><b>Note: Suppliers for products in this group must be authorized by food safety organisations and must have proof of HACCP plan or HACCP accredited certificate</b></p>
 <p class="subproduct" ><b>Note: Products in this category must be pasteurized or sterilized and packaged according to food safety standards in recyclable or biodegradable food grade packaging</b></p>
+<p class="subproduct" ><b>Note: Frozen* means between -20 and -18° C, Cold* means between 0 and 4° C, Cool* means between 8 and 15° C, Room temperature* means between 15 and 20° C</b></p>
+<p class="subproduct" ><b>Note: The relative humidity (RH) must be under or equal to maximum allowed by exporter-importer governments, the products must be transpored and stored according to manufacturer's instructions</b></p>
 <h4>230910 - Dog or cat food; put up for retail sale, used in animal feeding</h4>
-<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-230910-0001</b></a> Dry cat food - you must specify recipe ingredients and proportions for carnivorous animal </p>
-<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-230910-0002</b></a> Wet cat food - you must specify recipe ingredients and proportions for carnivorous animal</p>
-<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-230910-0003</b></a> Cat food reward - you must specify recipe ingredients and proportions for carnivorous animal</p>
-<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-230910-0004</b></a> Dry dog Food - you must specify recipe ingredients and proportions for omnivorous animal</p>
-<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-230910-0005</b></a> Wet dog food - you must specify recipe ingredients and proportions for omnivorous animal</p>
-<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-230910-0006</b></a> Dog food reward - you must specify recipe ingredients and proportions for omnivorous animal</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-230910-0001</b></a> Room temperature* - Dry cat food - you must specify recipe ingredients and proportions for carnivorous animal </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-230910-0002</b></a> Room temperature* - Wet cat food - you must specify recipe ingredients and proportions for carnivorous animal</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-230910-0003</b></a> Room temperature* - Cat food reward - you must specify recipe ingredients and proportions for carnivorous animal</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-230910-0004</b></a> Room temperature* - Dry dog Food - you must specify recipe ingredients and proportions for omnivorous animal</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-230910-0005</b></a> Room temperature* - Wet dog food - you must specify recipe ingredients and proportions for omnivorous animal</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-230910-0006</b></a> Room temperature* - Dog food reward - you must specify recipe ingredients and proportions for omnivorous animal</p>
 
 
 </div>
@@ -1066,10 +1071,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 <p class="subproduct" ><b>Note: For all products in this group, your company has to send the technical specs / quality parameters</b> </p>
 <p class="subproduct" ><b>Note: Your company must be authorised to buy this products. ( We do not accept requests from speculators )</b> </p>
 <p class="subproduct" ><b>Note: Suppliers for products in this group must be authorized by food safety organisations and must have proof of HACCP plan or HACCP accredited certificate</b></p>
-<p class="subproduct" ><b>Note: Frozen* temperature means between -20 and -18° C</b></p>
-<p class="subproduct" ><b>Note: Cold* temperature means between 0 and 4° C</b></p>
-<p class="subproduct" ><b>Note: Cool* temperature means between 8 and 15° C</b></p>
-<p class="subproduct" ><b>Note: Room temperature* means between 15 and 20° C</b></p>
+<p class="subproduct" ><b>Note: Frozen* means between -20 and -18° C, Cold* means between 0 and 4° C, Cool* means between 8 and 15° C, Room temperature* means between 15 and 20° C</b></p>
 <p class="subproduct" ><b>Note: The relative humidity (RH) must be under or equal to maximum allowed by exporter-importer governments, the products must be transpored and stored according to manufacturer's instructions</b></p>
 <h4>040120 - Dairy produce; milk and cream, not concentrated, not containing added sugar or other sweetening matter, of a fat content, by weight, exceeding 1% but not exceeding 6%</h4>
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-040120-0001</b></a> Cold* - Cow milk ( Bos taurus ) - Fat content between 1-6%</p>
@@ -1093,10 +1095,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 <p class="subproduct" ><b>Note: For all products in this group, your company has to send the technical specs / quality parameters</b> </p>
 <p class="subproduct" ><b>Note: Your company must be authorised to buy this products. ( We do not accept requests from speculators )</b> </p>
 <p class="subproduct" ><b>Note: Suppliers for products in this group must be authorized by food safety organisations and must have proof of HACCP plan or HACCP accredited certificate</b></p>
-<p class="subproduct" ><b>Note: Frozen* temperature means between -20 and -18° C</b></p>
-<p class="subproduct" ><b>Note: Cold* temperature means between 0 and 4° C</b></p>
-<p class="subproduct" ><b>Note: Cool* temperature means between 8 and 15° C</b></p>
-<p class="subproduct" ><b>Note: Room temperature* means between 15 and 20° C</b></p>
+<p class="subproduct" ><b>Note: Frozen* means between -20 and -18° C, Cold* means between 0 and 4° C, Cool* means between 8 and 15° C, Room temperature* means between 15 and 20° C</b></p>
 <p class="subproduct" ><b>Note: The relative humidity (RH) must be under or equal to maximum allowed by exporter-importer governments, the products must be transpored and stored according to manufacturer's instructions</b></p>
 <h4>040721 - Birds' eggs, in shell; fresh, not for incubation, of fowls of the species Gallus domesticus (domestic hens)</h4>
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-040721-0001</b></a> Cold* - Chicken Eggs ( Gallus domesticus )</p>
@@ -1112,10 +1111,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 <p class="subproduct" ><b>Note: For all products in this group, your company has to send the technical specs / quality parameters</b> </p>
 <p class="subproduct" ><b>Note: Your company must be authorised to buy this products. ( We do not accept requests from speculators )</b> </p>
 <p class="subproduct" ><b>Note: Suppliers for products in this group must be authorized by food safety organisations and must have proof of HACCP plan or HACCP accredited certificate</b></p>
-<p class="subproduct" ><b>Note: Frozen* temperature means between -20 and -18° C</b></p>
-<p class="subproduct" ><b>Note: Cold* temperature means between 0 and 4° C</b></p>
-<p class="subproduct" ><b>Note: Cool* temperature means between 8 and 15° C</b></p>
-<p class="subproduct" ><b>Note: Room temperature* means between 15 and 20° C</b></p>
+<p class="subproduct" ><b>Note: Frozen* means between -20 and -18° C, Cold* means between 0 and 4° C, Cool* means between 8 and 15° C, Room temperature* means between 15 and 20° C</b></p>
 <p class="subproduct" ><b>Note: The relative humidity (RH) must be under or equal to maximum allowed by exporter-importer governments, the products must be transpored and stored according to manufacturer's instructions</b></p>
 <h4>040900 - Honey; natural</h4>
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-040900-0001</b></a> Room temperature* - Acacia bee honey ( Apis mellifera )</p>
@@ -1610,10 +1606,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 <p class="subproduct" ><b>Note: For all products in this group, your company has to send the technical specs / quality parameters</b> </p>
 <p class="subproduct" ><b>Note: Your company must be authorised to buy this products. ( We do not accept requests from speculators )</b> </p>
 <p class="subproduct" ><b>Note: Suppliers for products in this group must be authorized by food safety organisations and must have proof of HACCP plan or HACCP accredited certificate</b></p>
-<p class="subproduct" ><b>Note: Frozen* temperature means between -20 and -18° C</b></p>
-<p class="subproduct" ><b>Note: Cold* temperature means between 0 and 4° C</b></p>
-<p class="subproduct" ><b>Note: Cool* temperature means between 8 and 15° C</b></p>
-<p class="subproduct" ><b>Note: Room temperature* means between 15 and 20° C</b></p>
+<p class="subproduct" ><b>Note: Frozen* means between -20 and -18° C, Cold* means between 0 and 4° C, Cool* means between 8 and 15° C, Room temperature* means between 15 and 20° C</b></p>
 <p class="subproduct" ><b>Note: The relative humidity (RH) must be under or equal to maximum allowed by exporter-importer governments, the products must be transpored and stored according to manufacturer's instructions</b></p>
 <p class="subproduct" ><b>Note: Products in this category must be pasteurized or sterilized and packaged according to food safety standards in recyclable or biodegradable food grade packaging</b></p>
 <h4>071022 - Vegetables, leguminous; beans (vigna spp., phaseolus spp.), shelled or unshelled, uncooked or cooked by steaming or boiling in water, frozen</h4>
@@ -1800,10 +1793,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 <p class="subproduct" ><b>Note: For all products in this group, your company has to send the technical specs / quality parameters</b> </p>
 <p class="subproduct" ><b>Note: Your company must be authorised to buy this products. ( We do not accept requests from speculators )</b> </p>
 <p class="subproduct" ><b>Note: Suppliers for products in this group must be authorized by food safety organisations and must have proof of HACCP plan or HACCP accredited certificate</b></p>
-<p class="subproduct" ><b>Note: Frozen* temperature means between -20 and -18° C</b></p>
-<p class="subproduct" ><b>Note: Cold* temperature means between 0 and 4° C</b></p>
-<p class="subproduct" ><b>Note: Cool* temperature means between 8 and 15° C</b></p>
-<p class="subproduct" ><b>Note: Room temperature* means between 15 and 20° C</b></p>
+<p class="subproduct" ><b>Note: Frozen* means between -20 and -18° C, Cold* means between 0 and 4° C, Cool* means between 8 and 15° C, Room temperature* means between 15 and 20° C</b></p>
 <p class="subproduct" ><b>Note: The relative humidity (RH) must be under or equal to maximum allowed by exporter-importer governments, the products must be transpored and stored according to manufacturer's instructions</b></p>
 <p class="subproduct" ><b>Note: Products in this category must be pasteurized or sterilized and packaged according to food safety standards in recyclable or biodegradable food grade packaging</b></p>
 <h4>080620 - Fruit, edible; grapes, dried</h4>
@@ -1956,10 +1946,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 <p class="subproduct" ><b>Note: For all products in this group, your company has to send the technical specs / quality parameters</b> </p>
 <p class="subproduct" ><b>Note: Your company must be authorised to buy this products. ( We do not accept requests from speculators )</b> </p>
 <p class="subproduct" ><b>Note: Suppliers for products in this group must be authorized by food safety organisations and must have proof of HACCP plan or HACCP accredited certificate</b></p>
-<p class="subproduct" ><b>Note: Frozen* temperature means between -20 and -18° C</b></p>
-<p class="subproduct" ><b>Note: Cold* temperature means between 0 and 4° C</b></p>
-<p class="subproduct" ><b>Note: Cool* temperature means between 8 and 15° C</b></p>
-<p class="subproduct" ><b>Note: Room temperature* means between 15 and 20° C</b></p>
+<p class="subproduct" ><b>Note: Frozen* means between -20 and -18° C, Cold* means between 0 and 4° C, Cool* means between 8 and 15° C, Room temperature* means between 15 and 20° C</b></p>
 <p class="subproduct" ><b>Note: The relative humidity (RH) must be under or equal to maximum allowed by exporter-importer governments, the products must be transpored and stored according to manufacturer's instructions</b></p>
 <p class="subproduct" ><b>Note: Exporting - importing meat and animal byproducts is very complex. e.g. Only a few countries are allowed to import meat and animal byproducts inside the EU</b></p>
 <h4>150120 - Pig fat; not lard, other than that of heading 0209 or 1503</h4>
@@ -1978,10 +1965,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 <p class="subproduct" ><b>Note: For all products in this group, your company has to send the technical specs / quality parameters</b> </p>
 <p class="subproduct" ><b>Note: Your company must be authorised to buy this products. ( We do not accept requests from speculators )</b> </p>
 <p class="subproduct" ><b>Note: Suppliers for products in this group must be authorized by food safety organisations and must have proof of HACCP plan or HACCP accredited certificate</b></p>
-<p class="subproduct" ><b>Note: Frozen* temperature means between -20 and -18° C</b></p>
-<p class="subproduct" ><b>Note: Cold* temperature means between 0 and 4° C</b></p>
-<p class="subproduct" ><b>Note: Cool* temperature means between 8 and 15° C</b></p>
-<p class="subproduct" ><b>Note: Room temperature* means between 15 and 20° C</b></p>
+<p class="subproduct" ><b>Note: Frozen* means between -20 and -18° C, Cold* means between 0 and 4° C, Cool* means between 8 and 15° C, Room temperature* means between 15 and 20° C</b></p>
 <p class="subproduct" ><b>Note: The relative humidity (RH) must be under or equal to maximum allowed by exporter-importer governments, the products must be transpored and stored according to manufacturer's instructions</b></p>
 <h4>150790 - Vegetable oils; soya-bean oil and its fractions, other than crude, whether or not refined, but not chemically modified</h4>
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-150790-0001</b></a> Room temperature* - Fresh high-oleic acid soya-bean vegetable oil - cold-pressed, filtered and refined with zero additives - C18:1 oleic acid 65.0–87.0% - for human consumption ( Glycine max  )</p>
@@ -2022,16 +2006,24 @@ document.getElementById("modifiedpage").innerHTML = text;
 <p class="subproductalert" ><b>Explanatory note for BSEI-151110, BSEI-151321, BSEI-151229:</b> The fresh vegetable oils will be made according to Standard CXS 210-1999. The supplier must not add ingredients and/or additives. This products are for industrial use only. </p>
 
 <h3>* goods of group 219 (Oil-cake and other residues resulting from the extraction of vegetable fats or oils; flours and meals of oil seeds or oleaginous fruits, except those of mustard; vegetable waxes, except triglycerides; degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes)</h3>
+<p class="subproduct" ><b>Note: For all products in this group, your company has to send the technical specs / quality parameters</b> </p>
+<p class="subproduct" ><b>Note: Your company must be authorised to buy this products. ( We do not accept requests from speculators )</b> </p>
+<p class="subproduct" ><b>Note: Suppliers for products in this group must be authorized by food safety organisations and must have proof of HACCP plan or HACCP accredited certificate</b></p>
+<p class="subproduct" ><b>Note: Frozen* means between -20 and -18° C, Cold* means between 0 and 4° C, Cool* means between 8 and 15° C, Room temperature* means between 15 and 20° C</b></p>
+<p class="subproduct" ><b>Note: The relative humidity (RH) must be under or equal to maximum allowed by exporter-importer governments, the products must be transpored and stored according to manufacturer's instructions</b></p>
 <h4>230400 - Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil</h4>
-<h4>230610 - Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of cotton seed oils</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-230400-0001</b></a> Room temperature* - Fresh soya-bean meal or pellets or oil-cakes with zero additives - for use as fodder ( Glycine max ) </p>    
+<h4>230630 - Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of sunflower seed oils</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-230630-0001</b></a> Room temperature* - Fresh sunflower seeds meal or pellets or oil-cakes with zero additives - for use as fodder ( Helianthus annuus L. ) </p> 
 <h4>230641 - Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of low erucic acid rape or colza seed oils</h4>
-<h4>230650 - Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of coconut or copra seed oils</h4>
-<h4>230660 - Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of palm nuts or kernels oils</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-230641-0001</b></a> Room temperature* - Fresh canola meal or pellets or oil-cakes with zero additives - for use as fodder ( Brassica napus L. ssp. oleifera ) </p> 
 <h4>230690 - Oil-cake and other solid residues; whether or not ground or in the form of pellets, resulting from the extraction of oils, n.e.c. in heading no. 2306</h4>
-<h4>120810 - Flours and meals; of soya beans</h4>
-<h4>120890 - Flours and meals of oil seeds or oleaginous fruits; excluding soya beans and mustard seeds</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-230690-0001</b></a> Room temperature* - Fresh corn meal or pellets or oil-cakes with zero additives - for use as fodder ( Zea mays L. ) </p> 
+ 
 <h4>152110 - Vegetable waxes (other than triglycerides); whether or not refined or coloured</h4>
-<h4>152200 - Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-152110-0001</b></a> Room temperature* - Fresh Carnauba wax with zero additives - CAS 8015-86-9 light yellow color grade T1 - not for human consumption ( Corypha cerifera or Copernicia cerifera ) </p> 
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-152110-0002</b></a> Room temperature* - Fresh Carnauba wax with zero additives - CAS 8015-86-9 yellow color grade T3 - not for human consumption ( Corypha cerifera or Copernicia cerifera ) </p> 
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-152110-0003</b></a> Room temperature* - Fresh Carnauba wax with zero additives - CAS 8015-86-9 dark color grade T4 - not for human consumption ( Corypha cerifera or Copernicia cerifera ) </p> 
 
 <h3>* goods of group 221 (Processed liquid milk, cream and whey)</h3>
 <h4>040110 - Dairy produce; milk and cream, not concentrated, not containing added sugar or other sweetening matter, of a fat content, by weight, not exceeding 1%</h4>
