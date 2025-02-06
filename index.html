@@ -83,8 +83,10 @@
      .thedocbin{text-align:right;}
      .thedoc{display:inline-block;background:darkred;color:white;text-decoration:underline;padding:5px;font-size:15px;}
      .lastmod{text-align:center;font-size:15px;font-family: 'Alumni Sans', Arial, sans-serif;font-weight:bold;}
- 
-     
+     .qnt{display:inline-block;}
+     .qnt input{display:inline-block;font-size:15px;width:150px;text-indent:5px;padding:3px 0;vertical-align:middle;border:1px dashed #151fba;}
+     .qnt input:focus::placeholder{color: transparent;}
+
      section summary{ font-family: 'Arial', sans-serif; font-weight:bold; color:#151fba;font-size:17px;padding:10px 0;font-family: 'Arial', sans-serif; }
      
      
@@ -107,6 +109,8 @@
      .anpc a{ display:inline-block;}
      @media (max-width: 580px) {
 	     .anpc a{ display:block;padding-bottom:7px;text-decoration:none;}
+             .qnt{display:block;padding:5px 0;}
+             .delete{text-align:left;display:block;font-size:15px;}
      }
 
 .radio{padding-bottom:30px;text-align:left;display:block;margin:auto;}
@@ -164,9 +168,8 @@ $(".product a").each(function (index, value) {
                if (!myarray.includes(value.innerText)){
                  fulltext = $(this).parent().text();
                  fulltextslice = fulltext.slice(17)
-                 console.log(fulltextslice);
-                 $('#list').append('<li>'+value.innerText+' <a href="#!" class="delete">[ Delete ]</a></li>');
-                 myarray.push(value.innerText);
+                 $('#list').append('<li>'+value.innerText+' <form class="qnt" method="post" action="#"><input id="qty'+index+'" type="text" name="qty" value="" placeholder="Quantity e.g. 100" /> <input id="unit'+index+'" type="text" name="unit" value="" placeholder="Unit e.g. tonne" /></form> <a href="#!" class="delete">[ Delete ]</a></li>');
+                 myarray.push(value.innerText,);
                }
                
 
@@ -175,13 +178,13 @@ $(".product a").each(function (index, value) {
               
                $('.delete').click( function() {
                      partext = $(this).parent().text()
-                     textpar = partext.slice(0,-11)
+                     textpar = partext.slice(0,-13)
                      $(this).parent().remove();
                      var ind = myarray.indexOf(textpar); // get index if value found otherwise -1
                          if (ind > -1) { //if found
                              myarray.splice(ind, 1);
                          }
-                     console.log(textpar);
+ 
                      $("a:contains('"+textpar+"')").css('color', 'darkred');    
                });
                                                         
@@ -193,9 +196,32 @@ $(".product a").each(function (index, value) {
 
 
 $('.copybutton').click(function() {
+var qtyarray = [];
+var unitarray = [];
+   $("input[id*='qty']").each(function (index, value) {
+       valqty = $(this).val();
+       qtyarray.push(valqty,);
+   });
+   $("input[id*='unit']").each(function (index, value) {
+       valunit = $(this).val();
+       unitarray.push(valunit,);
+   });
 
-  var newmyarray = myarray.toString().replace(/,/g, '\n');
-  newmyarray.split(",").join("\n");
+
+ 
+  
+  var arrunitqty = [];
+  for(var i=0,len=qtyarray.length;i<len;i++){
+     arrunitqty.push(myarray[i]+" x "+qtyarray[i]+" "+unitarray[i],);
+  }
+  
+ 
+  
+   
+   console.log(arrunitqty);
+ 
+  var newmyarray = arrunitqty.toString().replace(/,/g, '\n'); 
+  newmyarray.split(",").join("\n"); 
   navigator.clipboard.writeText(newmyarray);
   
   if( newmyarray.length != 0 ){
