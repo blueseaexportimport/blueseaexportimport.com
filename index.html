@@ -71,7 +71,7 @@
      .product{background-color:#f3fef3;}
      .product a{text-decoration:underline;}
      .subproduct{font-size:11px;background:#fff;}
-     .subproductalert{font-size:11px;background:#f3fef3;}
+     .subproductalert{font-size:11px;background:#f3fef3;}  
      ul{padding:0;margin:0;list-style-type:none;}
      ul li{padding:3px 0;font-size:23px;font-family: 'Arial', sans-serif;border-bottom:0px dashed #151fba; color:#151fba;font-weight:bold;}
      .delete{text-align:right;}
@@ -110,7 +110,8 @@
      @media (max-width: 580px) {
 	     .anpc a{ display:block;padding-bottom:7px;text-decoration:none;}
              .qnt{display:block;padding:5px 0;}
-             .delete{text-align:left;display:block;font-size:15px;}
+             .qnt input{width:47%;}
+             .delete{text-align:right;display:block;font-size:15px;}
      }
 
 .radio{padding-bottom:30px;text-align:left;display:block;margin:auto;}
@@ -168,7 +169,7 @@ $(".product a").each(function (index, value) {
                if (!myarray.includes(value.innerText)){
                  fulltext = $(this).parent().text();
                  fulltextslice = fulltext.slice(17)
-                 $('#list').append('<li>'+value.innerText+' <form class="qnt" method="post" action="#"><input id="qty'+index+'" type="text" name="qty" value="" placeholder="Quantity e.g. 100" /> <input id="unit'+index+'" type="text" name="unit" value="" placeholder="Unit e.g. tonne" /></form> <a href="#!" class="delete">[ Delete ]</a></li>');
+                 $('#list').append('<li>'+value.innerText+' <form autocomplete="off" class="qnt" method="post" action="#"><input id="qty'+index+'" type="text" name="qty" value="" placeholder="Quantity e.g. 100" /> <input id="unit'+index+'" type="text" name="unit" value="" placeholder="Unit e.g. tonne" /></form> <a href="#!" class="delete">[ Delete ]</a><p style="color:#000;" >'+fulltextslice+'</p></li>');
                  myarray.push(value.innerText,);
                }
                
@@ -178,7 +179,8 @@ $(".product a").each(function (index, value) {
               
                $('.delete').click( function() {
                      partext = $(this).parent().text()
-                     textpar = partext.slice(0,-13)
+                     textpar = partext.slice(0,16)
+                     console.log(textpar);
                      $(this).parent().remove();
                      var ind = myarray.indexOf(textpar); // get index if value found otherwise -1
                          if (ind > -1) { //if found
@@ -200,12 +202,36 @@ var qtyarray = [];
 var unitarray = [];
    $("input[id*='qty']").each(function (index, value) {
        valqty = $(this).val();
-       qtyarray.push(valqty,);
+       qtyinpindex = value.outerHTML;
+       qtyidhtml = $(qtyinpindex);
+       qtygetinpindex = qtyidhtml.attr("id");
+       console.log(qtygetinpindex);
+       if(valqty.length > 0){
+          qtyarray.push(valqty,);
+          $('#'+qtygetinpindex).css({'backgroundColor':'#b9ecc8'});
+       }else{
+          qtyarray.push(valqty,);
+          $('#'+qtygetinpindex).css({'backgroundColor':'#f7e0e0'});
+       }
    });
+   
+   
+   
    $("input[id*='unit']").each(function (index, value) {
        valunit = $(this).val();
-       unitarray.push(valunit,);
+       unitinpindex = value.outerHTML;
+       unitidhtml = $(unitinpindex);
+       unitgetinpindex = unitidhtml.attr("id");
+       console.log(unitgetinpindex);
+       if(valunit.length > 0){
+          unitarray.push(valunit,);
+          $('#'+unitgetinpindex).css({'backgroundColor':'#b9ecc8'});
+       }else{
+          unitarray.push(valunit,);
+          $('#'+unitgetinpindex).css({'backgroundColor':'#f7e0e0'});
+       }
    });
+
 
 
  
@@ -299,7 +325,6 @@ document.getElementById("modifiedpage").innerHTML = text;
 
 <br>
 <h1>Grocery List ( <a href="#!" class="copybutton" >Click Here To Copy</a> )</h1>
-
 <ul id="list" ></ul><br>
 
 <details>
