@@ -79,6 +79,13 @@
      .tproduct{background-color:#f3fef3;}
      .tproduct a{text-decoration:underline;}
 
+.switchbtn{
+  background:darkred;
+  color:white;
+  font-size:11px;
+  padding:3px 5px;
+  text-underline:none !important;
+}
 
 .blink { 
   background:darkred;
@@ -177,7 +184,7 @@ $(document).ready(function() {
 var myarray = [];
 $(".product a").each(function (index, value) {
             $(this).click( function() {
-
+            
                if (!myarray.includes(value.innerText)){
                  fulltext = $(this).parent().text();
                  fulltextslice = fulltext.slice(17)
@@ -204,9 +211,10 @@ $(".product a").each(function (index, value) {
                                                         
                             
             });
-
             
 });
+
+ 
 
 
 $('.copybutton').click(function() {
@@ -254,9 +262,6 @@ var unitarray = [];
   }
   
  
-  
-   
-   console.log(arrunitqty);
  
   var newmyarray = arrunitqty.toString().replace(/,/g, '\n'); 
   newmyarray.split(",").join("\n"); 
@@ -277,6 +282,8 @@ var unitarray = [];
         }
   }
   
+
+
 
 });
 
@@ -1049,7 +1056,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 <details>
   <summary>61219 - Wholesale trade services on a fee or contract basis, of agricultural raw materials n.e.c. <sup class="blink" >Open</sup></summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of agricultural raw materials" >Download as PDF</a></div>
-<div id="html-content3" >
+<div id="html-content2" >
 <h3>* goods of class 0195 (Natural rubber in primary forms or in plates, sheets or strip)</h3>
 <p class="subproduct" ><b>Note: For all products in this group, your company has to send the technical specs / quality parameters</b> </p>
 <p class="subproduct" ><b>Note: Your company must be authorised to buy this products. ( We do not accept requests from speculators )</b> </p>
@@ -1245,7 +1252,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 
 <details><summary>61221 - Wholesale trade services on a fee or contract basis, of fruits and vegetables <sup class="blink" >Open</sup></summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of fruits and vegetables" >Download as PDF</a></div>
-<div id="html-content4" >
+<div id="html-content3" >
 
 
 <h3>* goods of group 012 (Vegetables) </h3>
@@ -1966,7 +1973,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 <details><summary>61222 - Wholesale trade services on a fee or contract basis, of dairy products, eggs and edible oils and fats <sup class="blink" >Open</sup></summary>
 
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of dairy products, eggs and edible oils and fats" >Download as PDF</a></div>
-<div id="html-content5" >
+<div id="html-content4" >
 <h3>* goods of group 215 (Animal fats)</h3>
 <p class="subproduct" ><b>Note: For all products in this group, your company has to send the technical specs / quality parameters</b> </p>
 <p class="subproduct" ><b>Note: Your company must be authorised to buy this products. ( We do not accept requests from speculators )</b> </p>
@@ -2269,7 +2276,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 
 <details><summary>61223 - Wholesale trade services on a fee or contract basis, of meat, poultry and game <sup class="blink" >Open</sup></summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of meat, poultry and game" >Download as PDF</a></div>
-<div id="html-content6" >
+<div id="html-content5" >
 <h3>* goods of group 211 (Meat and meat products)</h3>
 <p class="subproduct" ><b>Note: For all products in this group, your company has to send the technical specs / quality parameters</b> </p>
 
@@ -2622,8 +2629,8 @@ document.getElementById("modifiedpage").innerHTML = text;
  
 <details><summary>61224 - Wholesale trade services on a fee or contract basis, of fish and other seafood <sup class="blink" >Open</sup></summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of fish and other seafood" >Download as PDF</a></div>
-<div id="html-content7" >
-<h3>* goods of group 042 (Fish live, fresh or chilled for human consumption)</h3>
+<div id="html-content6" >
+<h3>* goods of group 042 (Fish live, fresh or chilled for human consumption) or * goods of group 212 (Prepared and preserved fish, crustaceans, molluscs and other aquatic invertebrates)</h3>
 <p class="subproduct" ><b>Note: For all products in this group, your company has to send the technical specs / quality parameters</b> </p>
 <p class="subproduct" ><b>Note: Your company must be authorised to buy this products. ( We do not accept requests from speculators )</b> </p>
 <p class="subproduct" ><b>Note: Suppliers for products in this group must be authorized by food safety organisations and must have proof of HACCP plan or HACCP accredited certificate</b></p>
@@ -2658,8 +2665,9 @@ document.getElementById("modifiedpage").innerHTML = text;
 
 <h4>030211 - Fish; fresh or chilled, trout (Salmo trutta and Oncorhynchus mykiss), excluding fillets, fish meat of 0304, and edible fish offal of 0302.9</h4>
 
-<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-030211-0001</b></a> Cold* - Fresh fish on ice - Brown Trout - Source <a href="https://fish-commercial-names.ec.europa.eu/fish-names/species/salmo-trutta_en" target="_blank" rel="nofollow" >Aquaculture</a> - <a href="https://www.iucnredlist.org/species/19861/58301467" target="_blank" rel="nofollow" >Least Concern</a> - FAO code: TRS - ( Salmo trutta )</p>
-<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-030211-0002</b></a> Cold* - Fresh fish on ice - Rainbow Trout - Source <a href="https://fish-commercial-names.ec.europa.eu/fish-names/species/oncorhynchus-mykiss_en" target="_blank" rel="nofollow" >Aquaculture</a> - <a href="https://www.iucnredlist.org/species/166481/18229476" target="_blank" rel="nofollow" >Least Concern</a> - FAO code: TRR - ( Oncorhynchus mykiss )</p>
+<p class="product" >
+   <a id="addtogrocerylist" href="#!" ><b>BSEI-030211-0001</b></a> Cold* - Fresh fish on ice - Brown Trout - Source <a href="https://fish-commercial-names.ec.europa.eu/fish-names/species/salmo-trutta_en" target="_blank" rel="nofollow" >Aquaculture</a> - <a href="https://www.iucnredlist.org/species/19861/58301467" target="_blank" rel="nofollow" >Least Concern</a> - FAO code: TRS - ( Salmo trutta )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-030211-0002</b></a> Cold* - Fresh fish on ice - Rainbow trout  - Source <a href="https://fish-commercial-names.ec.europa.eu/fish-names/species/oncorhynchus-mykiss_en" target="_blank" rel="nofollow" >Aquaculture</a> - <a href="https://www.iucnredlist.org/species/166481/18229476" target="_blank" rel="nofollow" >Least Concern</a> - FAO code: TRR - ( Oncorhynchus mykiss )</p>
 
 <h4>030213 - Fish; fresh or chilled, Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou ), not fillets, meat of 0304, and edible fish offal of 0302.9</h4>
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-030213-0001</b></a> Cold* - Fresh fish on ice - Sockeye salmon - Source <a href="https://fish-commercial-names.ec.europa.eu/fish-names/species/oncorhynchus-nerka_en" target="_blank" rel="nofollow" >Aquaculture</a> - <a href="https://www.iucnredlist.org/species/135301/4071001" target="_blank" rel="nofollow" >Least Concern</a> - FAO code: SOC - ( Oncorhynchus nerka )</p>
@@ -3163,7 +3171,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 
 <details><summary>61225 - Wholesale trade services on a fee or contract basis, of sugar confectionery and bakery products</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of sugar confectionery and bakery products" >Download as PDF</a></div>
-<div id="html-content8" >
+<div id="html-content7" >
 <h3>* goods of group 234 (Bakery products)</h3>
 <h4>190510 - Food preparations; crispbread, whether or not containing cocoa</h4>
 <h4>190520 - Food preparations; gingerbread and the like, whether or not containing cocoa</h4>
@@ -3199,7 +3207,7 @@ document.getElementById("modifiedpage").innerHTML = text;
  
 <details><summary>61226 - Wholesale trade services on a fee or contract basis, of beverages</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of beverages" >Download as PDF</a></div>
-<div id="html-content9" >
+<div id="html-content8" >
 <h3>* goods of group 244 (Soft drinks; bottled mineral waters)</h3>
 <h4>220110 - Waters; mineral and aerated, including natural or artificial, (not containing added sugar or other sweetening matter nor flavoured)</h4>
 <h4>220190 - Waters; other than mineral and aerated, (not containing added sugar or other sweetening matter nor flavoured), ice and snow</h4>
@@ -3212,7 +3220,7 @@ document.getElementById("modifiedpage").innerHTML = text;
  
 <details><summary>61227 - Wholesale trade services on a fee or contract basis, of coffee, tea and spices</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of coffee, tea and spices" >Download as PDF</a></div>
-<div id="html-content10" >
+<div id="html-content9" >
 <h3>* goods of class 2391 (Coffee and tea)</h3>
 <h4>090112 - Coffee; decaffeinated, not roasted</h4>
 <h4>090121 - Coffee; roasted, not decaffeinated</h4>
@@ -3244,7 +3252,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 
 <details><summary>61229 - Wholesale trade services on a fee or contract basis, of food products n.e.c.</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of food products nec" >Download as PDF</a></div>
-<div id="html-content11" >
+<div id="html-content10" >
 
 <h3>* goods of group 231 (Grain mill products)</h3>
 <h4>100620 - Cereals; husked (brown) rice</h4>
@@ -3327,7 +3335,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 
 <details><summary>61292 - Wholesale trade services on a fee or contract basis, of metal ores and metal in primary forms</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of metal ores and metal in primary forms" >Download as PDF</a></div>
-<div id="html-content12" >
+<div id="html-content11" >
 <h3>* goods of group 141 (Iron ores and concentrates, other than roasted iron pyrites)</h3>
 <h4>260111 - Iron ores and concentrates; non-agglomerated</h4>
 <h4>260112 - Iron ores and concentrates; agglomerated (excluding roasted iron pyrites)</h4>
@@ -3669,7 +3677,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 
 <details><summary>61271 - Wholesale trade services on a fee or contract basis, of basic industrial chemicals and synthetic resins</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of basic industrial chemicals and synthetic resins" >Download as PDF</a></div>
-<div id="html-content13" >
+<div id="html-content12" >
 <h3>* goods of group 345 (Miscellaneous basic chemical products)</h3>
 <h4>440210 - Wood; charcoal of bamboo (including shell or nut charcoal), whether or not agglomerated</h4>
 <h4>440290 - Wood; charcoal of wood other than bamboo (including shell or nut charcoal), whether or not agglomerated</h4>
@@ -3778,7 +3786,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 
 <details><summary>61272 - Wholesale trade services on a fee or contract basis, of fertilizers and agrochemical products</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of fertilizers and agrochemical products" >Download as PDF</a></div>
-<div id="html-content14" >
+<div id="html-content13" >
 <h3>* goods of group 346 (Fertilizers and pesticides)</h3>
 <h4>310100 - Fertilizers, animal or vegetable; whether or not mixed together or chemically treated; fertilizers, produced by the mixing or chemical treatment of animal or vegetable products</h4>
 </div>
@@ -3786,7 +3794,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 
 <details><summary>61261 - Wholesale trade services on a fee or contract basis, of construction materials and flat glass</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of construction materials and flat glass" >Download as PDF</a></div>
-<div id="html-content15" >
+<div id="html-content14" >
 <h3>* goods of group 314 (Boards and panels)</h3>
 <h4>441239 - Plywood; consisting only of sheets of wood (not bamboo), each ply 6mm or thinner, with both outer plies of coniferous wood</h4>
 <h4>441231 - Plywood; consisting only of sheets of wood (not bamboo), each ply 6mm or thinner, with at least one outer ply of tropical wood</h4>
@@ -3940,7 +3948,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 
 <details><summary>61262 - Wholesale trade services on a fee or contract basis, of fittings, fixtures and ceramic sanitary fixtures</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of fittings, fixtures and ceramic sanitary fixtures" >Download as PDF</a></div>
-<div id="html-content16" >
+<div id="html-content15" >
 <h3>* goods of class 3693 (Baths, wash-basins, lavatory pans and covers, flushing cisterns and similar sanitary ware, of plastics)</h3>
 <h4>392210 - Plastics; baths, shower-baths, sinks and wash-basins</h4>
 <h4>392220 - Plastics; lavatory seats and covers</h4>
@@ -3957,7 +3965,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 
 <details><summary>61263 - Wholesale trade services on a fee or contract basis, of wallpaper and floor coverings</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of wallpaper and floor coverings" >Download as PDF</a></div>
-<div id="html-content17" >
+<div id="html-content16" >
 <h3>* goods of group 272 (Carpets and other textile floor coverings)</h3>
 <h4>570110 - Carpets and other textile floor coverings; knotted, of wool or fine animal hair, whether or not made up</h4>
 <h4>570190 - Carpets and other textile floor coverings; knotted, of textile materials (other than wool or fine animal hair), whether or not made up</h4>
@@ -3992,7 +4000,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 </details>
 <details><summary>61264 - Wholesale trade services on a fee or contract basis, of paints, varnishes and lacquers</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of paints, varnishes and lacquers" >Download as PDF</a></div>
-<div id="html-content18" >
+<div id="html-content17" >
 <h3>* goods of group 351 (Paints and varnishes and related products; artists' colours; ink)</h3>
 <h4>320710 - Pigments; prepared pigments, opacifiers, colours and similar preparations</h4>
 <h4>320720 - Enamels and glazes; vitrifiable enamels and glazes, engobes (slips) and similar preparations</h4>
@@ -4019,7 +4027,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 </details>
 <details><summary>61283 - Wholesale trade services on a fee or contract basis, of office machinery and equipment including office furniture</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of office machinery and equipment including office furniture" >Download as PDF</a></div>
-<div id="html-content19" >
+<div id="html-content18" >
 <h3>* goods of subclass 38111 (Seats, primarily with metal frames)</h3>
 <h4>940120 - Seats; of a kind used for motor vehicles</h4>
 <h4>940130 - Seats; swivel with variable height adjustment, excluding medical, surgical, dental, veterinary or barber furniture</h4>
@@ -4049,7 +4057,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 
 <details><summary>61284 - Wholesale trade services on a fee or contract basis, of computers and packaged software</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of computers and packaged software" >Download as PDF</a></div>
-<div id="html-content20" >
+<div id="html-content19" >
 <h3>* goods of group 452 (Computing machinery and parts and accessories thereof)</h3>
 <h4>847130 - Automatic data processing machines; portable, weighing not more than 10kg, consisting of at least a central processing unit, a keyboard and a display</h4>
 <h4>847141 - Automatic data processing machines; comprising in the same housing at least a central processing unit and an input and output unit, whether or not combined, n.e.c. in item no. 8471.30</h4>
@@ -4073,7 +4081,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 </details>
 <details><summary>61285 - Wholesale trade services on a fee or contract basis, of electronic and telecommunications equipment and parts</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of electronic and telecommunications equipment and parts" >Download as PDF</a></div>
-<div id="html-content21" >
+<div id="html-content20" >
 <h3>* goods of group 471 (Electronic valves and tubes; electronic components; parts thereof)</h3>
 <h4>853210 - Electrical capacitors; fixed, designed for use in 50/60 Hz circuits and having a reactive power handling capacity of not less than 0.5 kvar (power capacitors)</h4>
 <h4>853221 - Electrical capacitors; fixed, tantalum</h4>
@@ -4124,7 +4132,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 </details>
 <details><summary>61282 - Wholesale trade services on a fee or contract basis, of other transport equipment, except bicycles</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of other transport equipment, except bicycles" >Download as PDF</a></div>
-<div id="html-content22" >
+<div id="html-content21" >
 <h3>* goods of group 493 (Ships)</h3>
 <h4>890110 - Cruise ships, excursion boats and similar vessels, principally designed for the transport of persons, ferry boats of all kinds</h4>
 <h4>890130 - Vessels, refrigerated; other than tankers</h4>
@@ -4157,7 +4165,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 </details>
 <details><summary>61286 - Wholesale trade services on a fee or contract basis, of agricultural, lawn and garden machinery and equipment, including tractors</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of agricultural, lawn and garden machinery and equipment, including tractors" >Download as PDF</a></div>
-<div id="html-content23" >
+<div id="html-content22" >
 <h3>* goods of group 441 (Agricultural or forestry machinery and parts thereof)</h3>
 <h4>843210 - Ploughs; for soil preparation</h4>
 <h4>843221 - Harrows; disc harrows</h4>
@@ -4206,7 +4214,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 </details>
 <details><summary>61287 - Wholesale trade services on a fee or contract basis, of mining, construction and civil engineering machinery and equipment</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of mining, construction and civil engineering machinery and equipment" >Download as PDF</a></div>
-<div id="html-content24" >
+<div id="html-content23" >
 <h3>* goods of group 444 (Machinery for mining, quarrying and construction, and parts thereof)</h3>
 <h4>842831 - Elevators and conveyors; continuous-action, for goods and materials, specially designed for underground use, n.e.c. in item no. 8428.20</h4>
 <h4>843031 - Coal or rock cutters and tunnelling machinery; self-propelled</h4>
@@ -4242,7 +4250,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 </details>
 <details><summary>61288 - Wholesale trade services on a fee or contract basis, of other industry-specific machinery and equipment and related operating supplies</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of other industry-specific machinery and equipment and related operating supplies" >Download as PDF</a></div>
-<div id="html-content25" >
+<div id="html-content24" >
 <h3>* goods of group 328 (Composed type, prepared printing plates or cylinders, impressed lithographic stones or other impressed media for use in printing)</h3>
 <h4>844250 - Plates, cylinders and other printing components; lithographic stones prepared for printing purposes (for example, planed, grained or polished)</h4>
 
@@ -4392,7 +4400,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 </details>
 <details><summary>61289 - Wholesale trade services on a fee or contract basis, of other machinery and equipment n.e.c.</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of other machinery and equipment nec" >Download as PDF</a></div>
-<div id="html-content26" >
+<div id="html-content25" >
 <h3>* goods of group 431 (Engines and turbines and parts thereof)</h3>
 <h4>840610 - Turbines; steam and other vapour turbines, for marine propulsion</h4>
 <h4>840681 - Turbines; steam and other vapour turbines, (for other than marine propulsion), of an output exceeding 40MW</h4>
@@ -4649,7 +4657,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 </details>
 <details><summary>61241 - Wholesale trade services on a fee or contract basis, of household furniture</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of household furniture" >Download as PDF</a></div>
-<div id="html-content27" >
+<div id="html-content26" >
 <h3>* goods of group 381 (Furniture), except of subclass 38111 and class 3812</h3>
 <h4>940140 - Seats; convertible into beds, other than garden seats or camping equipment</h4>
 <h4>940152 - Seats; of bamboo</h4>
@@ -4676,7 +4684,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 </details>
 <details><summary>61242 - Wholesale trade services on a fee or contract basis, of radio and television equipment and recorded audio and video disks and tapes</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of radio and television equipment and recorded audio and video disks and tapes" >Download as PDF</a></div>
-<div id="html-content28" >
+<div id="html-content27" >
 <h3>* goods of class 4721 (Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders)</h3>
 <h4>852560 - Transmission apparatus for radio-broadcasting or television, whether or not incorporating sound recording or reproducing apparatus, incorporating reception apparatus</h4>
 <h4>852550 - Transmission apparatus for radio-broadcasting or television, whether or not incorporating sound recording or reproducing apparatus, not incorporating reception apparatus</h4>
@@ -4727,7 +4735,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 </details>
 <details><summary>61265 - Wholesale trade services on a fee or contract basis, of hardware and hand tools</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of hardware and hand tools" >Download as PDF</a></div>
-<div id="html-content29" >
+<div id="html-content28" >
 <h3>* goods of class 4292 (Hand tools (including hand tools of a kind used in agriculture, horticulture or forestry, hand saws, files, pliers and metal cutting shears, hand-operated spanners, blow-lamps and clamps); interchangeable tools for hand tools or for machine tools, including dies for drawing or extruding metal, and rock drilling or earth boring tools; knives for machines; plates, sticks, tips and the like for tools, unmounted, of sintered metal carbides or cermets)</h3>
 <h4>820110 - Tools, hand; spades and shovels</h4>
 <h4>820130 - Tools, hand; mattocks, picks, hoes and rakes</h4>
@@ -4877,7 +4885,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 </details>
 <details><summary>61243 - Wholesale trade services on a fee or contract basis, of articles for lighting</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of articles for lighting" >Download as PDF</a></div>
-<div id="html-content30" >
+<div id="html-content29" >
 <h3>* goods of group 465 (Electric filament or discharge lamps; arc lamps; lighting equipment; parts thereof)</h3>
 <h4>853910 - Lamps; sealed beam units</h4>
 <h4>853931 - Lamps; discharge, (excluding ultra-violet), fluorescent, hot cathode</h4>
@@ -4899,7 +4907,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 </details>
 <details><summary>61244 - Wholesale trade services on a fee or contract basis, of household appliances</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of household appliances" >Download as PDF</a></div>
-<div id="html-content31" >
+<div id="html-content30" >
 <h3>* goods of group 448 (Domestic appliances and parts thereof)</h3>
 <h4>841810 - Refrigerators and freezers; combined refrigerator-freezers, fitted with separate external doors, electric or other</h4>
 <h4>841821 - Refrigerators; for household use, compression-type, electric or other</h4>
@@ -4955,7 +4963,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 </details>
 <details><summary>61245 - Wholesale trade services on a fee or contract basis, of miscellaneous household utensils, cutlery, crockery, glassware, china and pottery</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of miscellaneous household utensils, cutlery, crockery, glassware, china and pottery" >Download as PDF</a></div>
-<div id="html-content32" >
+<div id="html-content31" >
 <h3>* goods of class 3694 (Tableware, kitchenware, other household articles and toilet articles, of plastics)</h3>
 <h4>392410 - Plastics; tableware and kitchenware</h4>
 <h4>392490 - Plastics; household articles and hygienic or toilet articles</h4>
@@ -5035,7 +5043,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 </details>
 <details><summary>61246 - Wholesale trade services on a fee or contract basis, of wickerwork, cork goods, cooper's ware and other wooden ware</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of wickerwork, cork goods, cooper's ware and other wooden ware" >Download as PDF</a></div>
-<div id="html-content33" >
+<div id="html-content32" >
 <h3>* goods of group 319 (Other products of wood; articles of cork, plaiting materials and straw)</h3>
 <h4>441700 - Wood; tools, tool bodies, tool handles, broom or brush bodies and handles, boot and shoe lasts and trees, of wood</h4>
 <h4>441911 - Tableware and kitchenware, of wood; of bamboo, bread boards, chopping boards and similar boards</h4>
@@ -5070,7 +5078,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 </details>
 <details><summary>61231 - Wholesale trade services on a fee or contract basis, of yarn and fabrics</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of yarn and fabrics" >Download as PDF</a></div>
-<div id="html-content34" >
+<div id="html-content33" >
 <h3>* goods of group 261 (Natural textile fibres prepared for spinning)</h3>
 <h4>500200 - Silk; raw silk (not thrown)</h4>
 <h4>510121 - Wool; (not carded or combed), degreased, (not carbonised), shorn</h4>
@@ -5463,7 +5471,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 </details>
 <details><summary>61232 - Wholesale trade services on a fee or contract basis, of household linens, curtains, net curtains and diverse household articles</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of household linens, curtains, net curtains and diverse household articles" >Download as PDF</a></div>
-<div id="html-content35" >
+<div id="html-content34" >
 <h3>* goods of group 271 (Made-up textile articles)</h3>
 <h4>630120 - Blankets (other than electric blankets) and travelling rugs; of wool or fine animal hair</h4>
 <h4>630130 - Blankets (other than electric blankets) and travelling rugs; of cotton</h4>
@@ -5591,7 +5599,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 </details>
 <details><summary>61233 - Wholesale trade services on a fee or contract basis, of articles of clothing, articles of fur and clothing accessories</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of articles of clothing, articles of fur and clothing accessories" >Download as PDF</a></div>
-<div id="html-content36" >
+<div id="html-content35" >
 <h3>* goods of group 282 (Wearing apparel, except fur apparel)</h3>
 <h4>611510 - Graduated compression hosiery (for example, stockings for varicose veins), knitted or crocheted</h4>
 <h4>611521 - Hosiery; panty hose and tights (other than graduated compression hosiery), of synthetic fibres, measuring per single yarn less than 67 decitex, knitted or crocheted</h4>
@@ -5720,7 +5728,7 @@ document.getElementById("modifiedpage").innerHTML = text;
 
 <details><summary>61234 - Wholesale trade services on a fee or contract basis, of footwear</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of footwear" >Download as PDF</a></div>
-<div id="html-content37" >
+<div id="html-content36" >
 <h3>* goods of group 293 (Footwear, with outer soles and uppers of rubber or plastics, or with uppers of leather or textile materials, other than sports footwear, footwear incorporating a protective metal toe- cap and miscellaneous special footwear)</h3>
 <h4>640192 - Footwear; waterproof, covering the ankle (but not the knee), rubber or plastic outer soles and uppers (not assembled by stitch, rivet, nail, screw, plug or similar)</h4>
 <h4>640199 - Footwear; waterproof, n.e.c. in heading no. 6401, rubber or plastic outer soles and uppers (not assembled by stitch, rivet, nail, screw, plug or similar)</h4>
@@ -5759,7 +5767,7 @@ document.getElementById("modifiedpage").innerHTML = text;
  
 <details><summary>61275 - Wholesale trade services on a fee or contract basis, of perfumery articles, cosmetic articles and toilet soaps</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of perfumery articles, cosmetic articles and toilet soaps" >Download as PDF</a></div>
-<div id="html-content38" >
+<div id="html-content37" >
 <h3>* goods of class 3532 (Soap and detergents, perfume and toilet preparations)</h3>
 <h4>340111 - Soap and organic surface-active products; in the form of bars, cakes, moulded shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent, for toilet use (including medicated products)</h4>
 <h4>340119 - Soap and organic surface-active products; in the form of bars, cakes, moulded shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent, not for toilet use</h4>
@@ -5789,7 +5797,7 @@ document.getElementById("modifiedpage").innerHTML = text;
  
 <details><summary>61276 - Wholesale trade services on a fee or contract basis, of cleaning materials</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of cleaning materials" >Download as PDF</a></div>
-<div id="html-content39" >
+<div id="html-content38" >
 <h3>* goods of class 3531 (Organic surface active agents, except soap)</h3>
 <h4>340211 - Organic surface-active agents; anionic (other than soap), whether or not put up for retail sale</h4>
 <h4>340212 - Organic surface-active agents; cationic (other than soap), whether or not put up for retail sale</h4>
@@ -5809,7 +5817,7 @@ document.getElementById("modifiedpage").innerHTML = text;
  
 <details><summary>61251 - Wholesale trade services on a fee or contract basis, of books, newspapers, magazines and stationery</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of books, newspapers, magazines and stationery" >Download as PDF</a></div>
-<div id="html-content40" >
+<div id="html-content39" >
 <h3>* goods of group 322 (Books, in print)</h3>
 <h4>490110 - Printed matter; in single sheets, whether or not folded</h4>
 <h4>490199 - Printed matter; books, brochures, leaflets and similar printed matter n.e.c. in item no. 4901.10 or 4901.91</h4>
@@ -5837,7 +5845,7 @@ document.getElementById("modifiedpage").innerHTML = text;
  
 <details><summary>61252 - Wholesale trade services on a fee or contract basis, of photographic, optical and precision equipment</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of photographic, optical and precision equipment" >Download as PDF</a></div>
-<div id="html-content41" >
+<div id="html-content40" >
 <h3>* goods of group 482 (Instruments and appliances for measuring, checking, testing, navigating and other purposes, except optical instruments; industrial process control equipment; parts and accessories thereof)</h3>
 <h4>901410 - Navigational instruments and appliances; direction finding compasses</h4>
 <h4>901420 - Navigational instruments and appliances; for aeronautical or space navigation (excluding compasses)</h4> 
@@ -5984,7 +5992,7 @@ document.getElementById("modifiedpage").innerHTML = text;
  
 <details><summary>61253 - Wholesale trade services on a fee or contract basis, of games and toys</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of games and toys" >Download as PDF</a></div>
-<div id="html-content42" >
+<div id="html-content41" >
 <h3>* goods of group 385 (Games and toys)</h3>
 <h4>950300 - Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size (scale) models and similar recreational models, working or not; puzzles of all kinds</h4>
 <h4>950440 - Games; playing cards</h4>
@@ -5997,7 +6005,7 @@ document.getElementById("modifiedpage").innerHTML = text;
  
 <details><summary>61254 - Wholesale trade services on a fee or contract basis, of watches, clocks and jewellery</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of watches, clocks and jewellery" >Download as PDF</a></div>
-<div id="html-content43" >
+<div id="html-content42" >
 <h3>* goods of group 484 (Watches and clocks, and parts thereof)</h3> 
 <h4>910111 - Wrist-watches; electrically operated, with or without a stop-watch, with case of precious metal or of metal clad with precious metal, with mechanical display only</h4>
 <h4>910119 - Wrist-watches; electrically operated, with or without a stop-watch, with case of precious metal or metal clad with precious metal, without mechanical display</h4>
@@ -6052,7 +6060,7 @@ document.getElementById("modifiedpage").innerHTML = text;
  
 <details><summary>61255 - Wholesale trade services on a fee or contract basis, of sports goods (incl. bicycles)</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of sports goods incl bicycles" >Download as PDF</a></div>
-<div id="html-content44" >
+<div id="html-content43" >
 <h3>* goods of group 384 (Sports goods)</h3> 
 <h4>950611 - Skis; for snow</h4>
 <h4>950612 - Ski-fastenings (ski-bindings); for snow-skis</h4>
@@ -6087,7 +6095,7 @@ document.getElementById("modifiedpage").innerHTML = text;
  
 <details><summary>61259 - Wholesale trade services on a fee or contract basis, of miscellaneous consumer goods n.e.c.</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of miscellaneous consumer goods nec" >Download as PDF</a></div>
-<div id="html-content45" >
+<div id="html-content44" >
 <h3>* goods of group 361 (Rubber tyres and tubes)</h3>
 <h4>401110 - Rubber; new pneumatic tyres, of a kind used on motor cars (including station wagons and racing cars)</h4>
 <h4>401140 - Rubber; new pneumatic tyres, of a kind used on motorcycles</h4>
@@ -6145,7 +6153,7 @@ document.getElementById("modifiedpage").innerHTML = text;
  
 <details><summary>61294 - Wholesale trade services on a fee or contract basis, of paper and paperboard</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of paper and paperboard" >Download as PDF</a></div>
-<div id="html-content46" >
+<div id="html-content45" >
 <h3>* goods of group 321 (Pulp, paper and paperboard), except of subclass 32194</h3>
 <h4>470200 - Wood pulp; chemical wood pulp, dissolving grades</h4>
 <h4>470311 - Wood pulp; chemical wood pulp, soda or sulphate, (other than dissolving grades), unbleached, of coniferous wood</h4>
@@ -6261,7 +6269,7 @@ document.getElementById("modifiedpage").innerHTML = text;
  
 <details><summary>61299 - Wholesale trade services on a fee or contract basis, of non-metallic minerals and other products n.e.c.</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of non-metallic minerals and other products nec" >Download as PDF</a></div>
-<div id="html-content47" >
+<div id="html-content46" >
 <h3>* goods of group 151 (Monumental or building stone)</h3>
 <h4>251400 - Slate; whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape</h4>
 <h4>251511 - Marble and travertine; having a specific gravity of 2.5 or more, crude or roughly trimmed by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape</h4>
