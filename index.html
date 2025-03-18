@@ -162,6 +162,41 @@ textarea{
 .schbin{display:table;width:100%;overflow:hidden;border-bottom:1px #ccc solid;text-align:left;}
 .sch{display:table-cell;padding-top:1%;padding-bottom:1%;width:33%; font-weight:bold;}
 	
+@media print {
+  body{
+     display:block;
+     page-break-after: always;
+  }
+  .logo{ display:none; }
+  #winter{ display:none; }
+  .bottom{ display:none; }
+  .catalog{ display:none; }
+  details{display:none; }
+  h1, h2, h3, h4{ display:none; }
+  #list{
+    position: absolute;
+    z-index:1;
+    display: block;
+    width:97%;
+    left: 10px;
+    top: 10px;
+  }
+  #list li{
+    color:#000;
+    font-size:15px;
+    break-inside: avoid;
+  }
+  .qnt input{border:1px solid #000;}
+  
+  .delete{
+     visibility: hidden;
+  }
+  p{border-bottom:1px #000 solid;text-indent:-5px;}
+  @page { size: auto;  margin: 0mm; }
+
+}	
+	
+	
 </style>
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
@@ -175,7 +210,7 @@ $(document).ready(function() {
 var myarray = [];
 $(".product a").each(function (index, value) {
             $(this).click( function() {
-            
+
                if (!myarray.includes(value.innerText)){
                  fulltext = $(this).parent().text();
                  fulltextslice = fulltext.slice(17)
@@ -205,7 +240,9 @@ $(".product a").each(function (index, value) {
             
 });
 
- 
+
+
+
 
 
 $('.copybutton').click(function() {
@@ -257,8 +294,9 @@ var unitarray = [];
   var newmyarray = arrunitqty.toString().replace(/,/g, '\n'); 
   newmyarray.split(",").join("\n"); 
   navigator.clipboard.writeText(newmyarray);
-  
+
   if( newmyarray.length != 0 ){
+
      $(".copybutton").text("Copied to clipboard")
   }else{
      $(".copybutton").text("Grocery List Is Empty")
@@ -273,8 +311,6 @@ var unitarray = [];
         }
   }
   
-
-
 
 });
 
@@ -318,7 +354,6 @@ $("a[href='#top']").click(function() {
 
 
 <div class="main" >
- 
 
  
 <!-- START BLUE CATALOG  -->
@@ -353,7 +388,13 @@ $("a[href='#top']").click(function() {
 
 <br>
 <h1>Grocery List ( <a href="#!" class="copybutton" >Click Here To Copy</a> )</h1>
-<ul id="list" ></ul><br>
+<h3><a style="background:#151fba; color:#FFF; padding:5px 10px;" href="#!" onclick="window.print();" class="printbtn" ><b>Print or Save as PDF</b></a><h3>
+<ul id="list" ></ul>
+
+<br>
+
+
+
 
 <details>
   <summary style="border-top:0px;" >How To Buy Guide</summary>
@@ -9013,7 +9054,7 @@ In the case of excise duties products ( example bioethanol for fuel use ) in Rom
 </div><!-- End Main-->
 
 
-
+<div class="bottom">
 <div class="social" >
         <a href="https://www.facebook.com/blueseaexportimport" target=”_blank” class="fa fa-facebook">.</a>
         <a href="https://x.com/blueseaexim" target=”_blank” class="fa fa-twitter">.</a>
@@ -9062,6 +9103,7 @@ In the case of excise duties products ( example bioethanol for fuel use ) in Rom
 <div class="footer"> Copyright &copy; <span id="year"></span> BLUE SEA EXPORT IMPORT S.R.L.
  <br>
  <span class="srlinfo">C.U.I. 47626664, REG. Com.: J2023000124390</span>
+</div>
 </div>
 
 <script>
