@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<meta http-equiv="Content-Language" content="en">
 <head>
 <title>Export, import, distribution and brokerage services - BLUE SEA EXPORT IMPORT S.R.L.</title>
 <link rel="canonical" href="https://blueseaexportimport.com/" />
@@ -170,6 +170,7 @@ textarea{
   }
   .logo{ display:none; }
   #winter{ display:none; }
+  #google_translate_element{display:none;}
   .bottom{ display:none; }
   .catalog{ display:none; }
   details{display:none; }
@@ -301,14 +302,14 @@ var unitarray = [];
 
      $(".copybutton").text("Copied to clipboard")
   }else{
-     $(".copybutton").text("Grocery List Is Empty")
+     $(".copybutton").text("Products List Is Empty")
   }
   const myTimeout = setTimeout(changeText, 1000);
 
   function changeText() {
         if($('.copybutton').text() === "Copied to clipboard" ){
             $(".copybutton").text("Click Here To Copy");
-        }else if($('.copybutton').text() === "Grocery List Is Empty"){
+        }else if($('.copybutton').text() === "Products List Is Empty"){
             $(".copybutton").text("Click Here To Copy");
         }
   }
@@ -347,29 +348,43 @@ $("a[href='#top']").click(function() {
 });
 </script>
 
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 	
 </head>
 
 <body>
-<div class="logo" ><a style="color:#FFF;" href="https://www.blueseaexportimport.com" >BLUE SEA<br><span class="sublogo">EXPORT IMPORT </span></a></div>
+<div class="logo notranslate" ><a style="color:#FFF;" href="https://www.blueseaexportimport.com" >BLUE SEA<br><span class="sublogo">EXPORT IMPORT </span></a></div>
 
 
 
 <div class="main" >
 
- 
+
 <!-- START BLUE CATALOG  -->
 <div id="winter" ><b>On PC / Laptop:</b> Press <span style="color:green;"><b>Ctrl</b></span> and <span style="color:green;"><b>plus key (+)</b></span> to increase font size or Press <span style="color:green;"><b>Ctrl</b></span> and <span style="color:green;"><b>minus key (-)</b></span> to decrease font size</div>
 <div id="winter" ><b>To save the catalog so you can see it offline on PC / Laptop:</b> Press <span style="color:green;"><b>Ctrl</b></span> and <span style="color:green;"><b> letter S</b></span> </div>
 <div id="winter" ><b>On Smartphone / Tablet:</b> <span style="color:green;"><b>Pinch to zoom.</b></span> Touch the screen with two fingers. Move your fingers away from one another, while touching the screen. </div>
 
 <br>
+<div id="winter" >
+If you don't understand the google translation, request help from someone that understands english<br>
+<div id="google_translate_element"></div>
+</div> 
+ 
+<br>
 
-<h1>Commission Contract in Queue</h1>
+<h1>Commission Contract In Progress ( none )</h1>
 <div id="winter" >People that have children up to 5 years, pregnant women and people with disabilities have priority to be served. For others the rule is "first come, first served".  </div> 
-<h4><b>Client Queue Number:</b> <span class="green" ><b>0000000</b></span></h4>
-<h4><b>Client Grocery List:</b> <a href="#" ><span class="red" >none</span></a></h4>
-<h4><b>Client Commission Contract:</b> <a href="#" ><span class="red" >none</span></a></h4>
+<h4><b>Client Waiting Number:</b> <span class="green" ><b>0000000</b></span></h4>
+<h4><b>Products List:</b> <a href="#" ><span class="red" >none</span></a></h4>
+<h4><b>Commission Contract:</b> <a href="#" ><span class="red" >none</span></a></h4>
 <h4><b>Invoice:</b> <a href="#" ><span class="red" >none</span></a></h4>
 <h4><b>Proof of Payment:</b> <a href="#" ><span class="red" >none</span></a></h4>
 <h4><b>Contract Total Value:</b> <span class="green" ><b>USD 0000.00</b></span></h4> 
@@ -381,7 +396,7 @@ $("a[href='#top']").click(function() {
 
 <br>
 <div id="winter" ><b>Important info for suppliers and clients:</b></div>
-<div id="winter" >Before we sign any contract, you must have a medical certificate that shows you have the <b>mental capacity / discernment / legal competence</b> to sign documents, and you must be over 21. <br>( e.g. Some people are underage or they are very old or sick. These people are not allowed to sign contracts )</div> 
+<div id="winter" >For old people, before we sign any contract, you must have a medical certificate that shows you have the <b>mental capacity / discernment / legal competence</b> to sign documents, and for young people, you must be over 21. <br>( e.g. Some people are underage or they are very old or sick. These people are not allowed to sign contracts )</div> 
 
 <br>
 <div id="winter" >A. We do not sell or offer services to private persons. ( We are a B2B company ) </div>
@@ -390,7 +405,7 @@ $("a[href='#top']").click(function() {
 <div id="winter" >D. We will buy from suppliers fresh products only. You should not manufacture products without a contract.</div>
 
 <br>
-<h1>Grocery List ( <a href="#!" class="copybutton" >Click Here To Copy</a> )</h1>
+<h1>Products List ( <a href="#!" class="copybutton" >Click Here To Copy</a> )</h1>
 <ul id="list" ></ul>
 <h3><a style="background:#151fba; color:#FFF; padding:5px 10px;" href="#!" onclick="window.print();" class="printbtn" ><b>Print or Save as PDF</b></a><h3>
 <br>
@@ -401,12 +416,12 @@ $("a[href='#top']").click(function() {
 <details>
   <summary style="border-top:0px;" >How To Buy Guide</summary>
  <br>
-<h3><b>Edit the grocery list</b></h3>
+<h3><b>Edit the products list</b></h3>
 <h3>You can use LibraOffice Calc, Excel, Word</h3>
 <h3>( e.g. BSEI-100119-0001 x 1000 tonnes )</h3>
 
 <br>
-<h3><b>1.</b> Send grocery list via <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%62%6C%75%65%73%65%61%65%78%70%6F%72%74%69%6D%70%6F%72%74%40%6F%75%74%6C%6F%6F%6B%2E%63%6F%6D" target=”_blank” style="color:#151fba;text-decoration: underline;" >E-mail</a> or <a style="color:green;text-decoration: underline;" href="https://api.whatsapp.com/send?phone=40743307383" target="_blank" >Whatsapp</a> </h3>
+<h3><b>1.</b> Send products list via <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%62%6C%75%65%73%65%61%65%78%70%6F%72%74%69%6D%70%6F%72%74%40%6F%75%74%6C%6F%6F%6B%2E%63%6F%6D" target=”_blank” style="color:#151fba;text-decoration: underline;" >E-mail</a> or <a style="color:green;text-decoration: underline;" href="https://api.whatsapp.com/send?phone=40743307383" target="_blank" >Whatsapp</a> </h3>
 <h3><b>2.</b> When you send the list include also your company public documents</h3>
 <h3><b>3.</b> We verify your company public documents</h3>
 <h3><b>3.</b> If documents ok, you can send technical specs for each product</h3>
@@ -472,7 +487,7 @@ $("a[href='#top']").click(function() {
 <section class="catalog" >
 
 
-<details><summary>61211 - Wholesale trade services on a fee or contract basis, of grains and oilseeds and oleaginous fruits, seeds and animal feed <sup class="blink" >Open</sup></summary>
+<details><summary>61211 - Wholesale trade services on a fee or contract basis, of grains and oilseeds and oleaginous fruits, seeds and animal feed <span class="blink" >Open</span></summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of grains and oilseeds and oleaginous fruits, seeds and animal feed" >Download as PDF</a></div>
 <div id="html-content0" >
 <h3>* goods of group 011 (Cereals)</h3>
@@ -931,7 +946,7 @@ $("a[href='#top']").click(function() {
 </details>
 
 <details>
-  <summary>61212 - Wholesale trade services on a fee or contract basis, of flowers and plants <sup class="blink" >Open</sup></summary>
+  <summary>61212 - Wholesale trade services on a fee or contract basis, of flowers and plants <span class="blink" >Open</span></summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of flowers and plants" >Download as PDF</a></div> 
 <div id="html-content1" >
 <h3>* goods of class 0193 (Plants and parts of plants used primarily in perfumery, in pharmacy, or for insecticidal, fungicidal or similar purposes)</h3>
@@ -1158,7 +1173,7 @@ $("a[href='#top']").click(function() {
 </details>
 
 <details>
-  <summary>61219 - Wholesale trade services on a fee or contract basis, of agricultural raw materials n.e.c. <sup class="blink" >Open</sup></summary>
+  <summary>61219 - Wholesale trade services on a fee or contract basis, of agricultural raw materials n.e.c. <span class="blink" >Open</span></summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of agricultural raw materials" >Download as PDF</a></div>
 <div id="html-content2" >
 <h3>* goods of class 0195 (Natural rubber in primary forms or in plates, sheets or strip)</h3>
@@ -1370,7 +1385,7 @@ $("a[href='#top']").click(function() {
 </div>
 </details>
 
-<details><summary>61221 - Wholesale trade services on a fee or contract basis, of fruits and vegetables <sup class="blink" >Open</sup></summary>
+<details><summary>61221 - Wholesale trade services on a fee or contract basis, of fruits and vegetables <span class="blink" >Open</span></summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of fruits and vegetables" >Download as PDF</a></div>
 <div id="html-content3" >
 
@@ -2104,7 +2119,7 @@ $("a[href='#top']").click(function() {
 </div>
 </details>
  
-<details><summary>61222 - Wholesale trade services on a fee or contract basis, of dairy products, eggs and edible oils and fats <sup class="blink" >Open</sup></summary>
+<details><summary>61222 - Wholesale trade services on a fee or contract basis, of dairy products, eggs and edible oils and fats <span class="blink" >Open</span></summary>
 
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of dairy products, eggs and edible oils and fats" >Download as PDF</a></div>
 <div id="html-content4" >
@@ -2408,7 +2423,7 @@ $("a[href='#top']").click(function() {
 </details>
 
 
-<details><summary>61223 - Wholesale trade services on a fee or contract basis, of meat, poultry and game <sup class="blink" >Open</sup></summary>
+<details><summary>61223 - Wholesale trade services on a fee or contract basis, of meat, poultry and game <span class="blink" >Open</span></summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of meat, poultry and game" >Download as PDF</a></div>
 <div id="html-content5" >
 <h3>* goods of group 211 (Meat and meat products)</h3>
@@ -2761,7 +2776,7 @@ $("a[href='#top']").click(function() {
 </div>
 </details>
  
-<details><summary>61224 - Wholesale trade services on a fee or contract basis, of fish and other seafood <sup class="blink" >Open</sup></summary>
+<details><summary>61224 - Wholesale trade services on a fee or contract basis, of fish and other seafood <span class="blink" >Open</span></summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of fish and other seafood" >Download as PDF</a></div>
 <div id="html-content6" >
 <h3>* goods of group 042 (Fish live, fresh or chilled for human consumption) or * goods of group 212 (Prepared and preserved fish, crustaceans, molluscs and other aquatic invertebrates)</h3>
@@ -3600,7 +3615,7 @@ $("a[href='#top']").click(function() {
 </div>
 </details>
 
-<details><summary>61225 - Wholesale trade services on a fee or contract basis, of sugar confectionery and bakery products <sup class="blink" >Open</sup></summary>
+<details><summary>61225 - Wholesale trade services on a fee or contract basis, of sugar confectionery and bakery products <span class="blink" >Open</span></summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of sugar confectionery and bakery products" >Download as PDF</a></div>
 <div id="html-content7" >
 <h3>* goods of group 235 (Sugar and molasses)</h3>
@@ -3720,7 +3735,7 @@ $("a[href='#top']").click(function() {
 </div>
 </details>
  
-<details><summary>61226 - Wholesale trade services on a fee or contract basis, of beverages <sup class="blink" >Open</sup></summary>
+<details><summary>61226 - Wholesale trade services on a fee or contract basis, of beverages <span class="blink" >Open</span></summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of beverages" >Download as PDF</a></div>
 <div id="html-content8" >
 <h3>* goods of group 244 (Soft drinks; bottled mineral waters)</h3>
@@ -3745,7 +3760,7 @@ $("a[href='#top']").click(function() {
 </details>
 
  
-<details><summary>61227 - Wholesale trade services on a fee or contract basis, of coffee, tea and spices <sup class="blink" >Open</sup></summary>
+<details><summary>61227 - Wholesale trade services on a fee or contract basis, of coffee, tea and spices <span class="blink" >Open</span></summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of coffee, tea and spices" >Download as PDF</a></div>
 <div id="html-content9" >
 <h3>* goods of class 2391 (Coffee and tea)</h3>
@@ -3798,7 +3813,7 @@ $("a[href='#top']").click(function() {
 </div>
 </details>
 
-<details><summary>61229 - Wholesale trade services on a fee or contract basis, of food products n.e.c. <sup class="blink" >Open</sup></summary>
+<details><summary>61229 - Wholesale trade services on a fee or contract basis, of food products n.e.c. <span class="blink" >Open</span></summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of food products nec" >Download as PDF</a></div>
 <div id="html-content10" >
 
@@ -4021,7 +4036,7 @@ $("a[href='#top']").click(function() {
 </div>
 </details>
 
-<details><summary>61292 - Wholesale trade services on a fee or contract basis, of metal ores and metal in primary forms <sup class="blink" >Open</sup></summary></summary>
+<details><summary>61292 - Wholesale trade services on a fee or contract basis, of metal ores and metal in primary forms <span class="blink" >Open</span></summary></summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of metal ores and metal in primary forms" >Download as PDF</a></div>
 <div id="html-content11" >
 
@@ -4859,7 +4874,7 @@ rouge), and non-pigmented coatings with a basis of oil, grease, wax, paraffin wa
 </div>
 </details>
 
-<details><summary>61272 - Wholesale trade services on a fee or contract basis, of fertilizers and agrochemical products <sup class="blink" >Open</sup></summary></summary>
+<details><summary>61272 - Wholesale trade services on a fee or contract basis, of fertilizers and agrochemical products <span class="blink" >Open</span></summary></summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of fertilizers and agrochemical products" >Download as PDF</a></div>
 <div id="html-content13" >
 <h3>* goods of group 346 (Fertilizers and pesticides)</h3>
@@ -5060,7 +5075,7 @@ rouge), and non-pigmented coatings with a basis of oil, grease, wax, paraffin wa
 </div>
 </details>
 
-<details><summary>61263 - Wholesale trade services on a fee or contract basis, of floor coverings <sup class="blink" >Open</sup></summary>
+<details><summary>61263 - Wholesale trade services on a fee or contract basis, of floor coverings <span class="blink" >Open</span></summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of wallpaper and floor coverings" >Download as PDF</a></div>
 <div id="html-content16" >
 <h3>* goods of group 272 (Carpets and other textile floor coverings)</h3>
@@ -5217,26 +5232,208 @@ rouge), and non-pigmented coatings with a basis of oil, grease, wax, paraffin wa
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of computers and packaged software" >Download as PDF</a></div>
 <div id="html-content19" >
 <h3>* goods of group 452 (Computing machinery and parts and accessories thereof)</h3>
+<p class="subproduct" ><b>Note: For all products in this group, your company has to send the technical specs / quality parameters</b> </p>
+<p class="subproduct" ><b>Note: Your company must be authorised to buy this products. ( We do not accept requests from speculators )</b> </p>
+<p class="subproduct" ><b>Note: This products will be sent to clients without any warranty, you will need to set up your own computer service to repair the products for clients</b> </p>
+<p class="subproduct" ><b>Note: Suppliers must send all documents, tehnical dossier, datasheets, inspection certificates, instruction manuals, declarations of conformity and so on</b> </p>
+<p class="subproduct" ><b>Note: Suppliers must send documents proof that the products are eco-friendly and energy efficient.</b> </p>
+<p class="subproduct" ><b>Note: The parts and modules must be upgradable, compatible, interchangeable and easy to repair.</b> </p>
+<p class="subproduct" ><b>Note: The parts and modules must be recyclable.</b></p>
+<p class="subproduct" ><b>Note: The parts and modules must be easy to add-remove from casing.</b></p>
+<p class="subproduct" ><b>Note: The parts, modules and casing must be easy to clean.</b></p>
+<p class="subproduct" ><b>Note: Where possible, the parts and modules must be made form self-healing materials.</b></p>
+<p class="subproduct" ><b>Note: The battery must be removable.</b></p>
+<p class="subproduct" ><b>Note: The products must work plugged, even without a battery.</b></p>
+<p class="subproduct" ><b>Note: The products must have protection against Overheating, Radio Frequency Interference, Radio Jamming, EMP pulses and/or electric - electrostatic discharge and so on.</b></p>
+<p class="subproduct" ><b>Note: The products must be designed so they can be used outdoor in different climate zones ( e.g. Sahara Desert, Jungle, Artic region and so on ).</b></p>
+<p class="subproduct" ><b>Note: Suppliers must disclose if the products has hidden radio jamming, spyware, malware or remote control hardware and/or software. ( We will reverse engineer your product to verify ) </b></p>
+<p class="subproduct" ><b>Note: Suppliers must disclose if the products has hidden harmful hardware and/or software ( e.g. screens harmful to the human eyes, screens and soundcards with hidden subliminal messages, exploding ssd drives, hidden components-parts that release toxic gases intentionally and so on ) </b></p>
+<p class="subproduct" ><b>Note: Suppliers must disclose if the products has radio transmitters ( e.g. in many countries people need a licence to broadcast via some types of radio transmitters, e.g. ham radio )</b></p>
+<p class="subproduct" ><b>Note: The product packaging must be sealed, light, recyclable, it must include instructions how to handle and warnings, it must be eco-friendly, easy to handle and transport, it must protect the product very well.</b></p>
+<p class="subproduct" ><b>Note: After removing the product from package, the package must still be functional so the client can handle and transport to product in the same package if needed.</b></p>
+<p class="subproduct" ><b>Note: The products must include a free operating system like Ubuntu Linux or other distros.</b></p>
+<p class="subproduct" ><b>Note: The products must allow the client to install any operating system.</b></p>
+<p class="subproduct" ><b>Note: The products must include hardware diagnostic tools easy to use. The diagnostic tools must specify exactly what parts and modules are broken and it must also offer solutions how to repair or replace the broken parts and modules.</b></p>
+<p class="subproduct" ><b>Note: The products must contain ports that allow the user to connect to other products and quantum computers.</b></p>
+<p class="subproduct" ><b>Note: If the products to not have CE Marking, conformity must be assessed by EU accredited notified bodies according to Regulation (EC) No 765/2008.</b></p>
+
 <h4>847130 - Automatic data processing machines; portable, weighing not more than 10kg, consisting of at least a central processing unit, a keyboard and a display</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0001</b></a> Laptop - IEC 62368-1 - Brand and Model Name - Screen-Size - GPU - CPU - RAM - SSD - Product code </p>
+<p class="subproductalert" ><b>Explanatory note BSEI-847130-0001:</b></p>
+<p class="subproductalert" ><b>( The standards bellow will change in time ) At present laptops must be according with the following standards and EU Legislation:</b></p>
+<p class="subproductalert" ><b>Safety and Health ( Directive 2014/35/EU ):</b></p>
+<p class="subproductalert" >- IEC 62368-1 - Audio/video, information and communication technology equipment - Part 1: Safety requirements</p>
+<p class="subproductalert" >- EN 50566 - Product standard to demonstrate the compliance of wireless communication devices with the basic restrictions and exposure limit values related to human exposure to electromagnetic fields in the frequency range from 30 MHz to 6 GHz: hand-held and body mounted devices in close proximity to the human body and/or IEC 62311</p>
+
+<p class="subproductalert" ><b>Electromagnetic compatibility ( Directive 2014/30/EU ):</b></p>
+<p class="subproductalert" >- EN 55032:2015/A11:2020 - Electromagnetic compatibility of multimedia equipment - Emission Requirements</p>
+<p class="subproductalert" >- EN 55035:2017+A11:2020 - Electromagnetic compatibility of multimedia equipment - Immunity requirements</p>
+<p class="subproductalert" >- EN 301 489-1 V2.2.3 - Electromagnetic Compatibility (EMC) standard for radio equipment and services; Part 1: Common technical requirements; Harmonised Standard for ElectroMagnetic Compatibility</p>
+<p class="subproductalert" >- EN 301 489-17 V3.2.4 - Electromagnetic Compatibility (EMC) standard for radio equipment and services; Part 17: Specific conditions for Broadband Data Transmission Systems; Harmonised Standard for ElectroMagnetic Compatibility </p>
+<p class="subproductalert" >- EN 61000-3-3:2013+A1:2019 - Electromagnetic compatibility (EMC) - Part 3-3: Limits - Limitation of voltage changes, voltage fluctuations and flicker in public low-voltage supply systems, for equipment with rated current <= 16 A per phase and not subject to conditional connection</p>
+<p class="subproductalert" >- EN IEC 61000-3-2:2019 - Electromagnetic compatibility (EMC) - Part 3-2: Limits - Limits for harmonic current emissions (equipment input current ≤16 A per phase)</p>
+
+<p class="subproductalert" ><b>Radio frequency spectrum usage (Directive 2014/53/EU):</b></p>
+<p class="subproductalert" >- EN 300 328 V2.2.2 - Wideband transmission systems; Data transmission equipment operating in the 2,4 GHz band; Harmonised Standard for access to radio spectrum</p>
+<p class="subproductalert" >- EN 300 440 V2.2.1 - Short Range Devices (SRD); Radio equipment to be used in the 1 GHz to 40 GHz frequency range; Harmonised Standard for access to radio spectrum</p>
+<p class="subproductalert" >- EN 301 893 V2.1.1 - 5 GHz RLAN; Harmonised Standard covering the essential requirements of article 3.2 of Directive 2014/53/EU</p>
+<p class="subproductalert" >- EN 303 687 V1.1.1 - 6 GHz WAS/RLAN; Harmonised Standard for access to radio spectrum</p>
+
+<p class="subproductalert" >Energy-related Products - ErP ( Directive 2009/125/EC and Regulation (EU) 2023/826  ):</p>
+<p class="subproductalert" >- EN 50563:2011 - External a.c. - d.c. and a.c. - a.c. power supplies - Determination of no-load power and average efficiency of active modes ( Regulation (EU) 2019/1782 )</p>
+<p class="subproductalert" >- EN 50564:2011 - Electrical and electronic household and office equipment - Measurement of low power consumption ( Regulation (EC) No 1275/2008 )</p>
+<p class="subproductalert" >- EN IEC 62301:2011 - Household electrical appliances - Measurement of standby power</p>
+
+<p class="subproductalert" ><b>RoHS (Directive 2011/65/EU as amended by 2015/863/EU - ecodesign requirements for energy-related products ):</b></p>
+<p class="subproductalert" >- EN IEC 63000:2018</p>
+
+<p class="subproductalert" ><b>Batteries ( Regulation (EU) 2023/1542 ):</b></p>
+<p class="subproductalert" >- EN IEC 63000:2018</p>
+ 
+<p class="subproductalert" ><b>Acceptability of electronic assemblies based on visual appearance and workmanship:</b></p>
+<p class="subproductalert" >- IPC-A-610 Standard</p>
+
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-847130-0002</b></a> PC Tablet - Brand and Model Name - Screen-Size - CPU - Memory - Storage Space - Product code</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-847130-0002:</b></p>
+<p class="subproductalert" ><b>( The standards bellow will change in time ) At present PC Tablets must be according with the following standards and EU Legislation:</b></p>
+<p class="subproductalert" ><b>Safety and Health (Directive 2014/35/EU):</b></p>
+<p class="subproductalert" >- IEC 62368-1 - Audio/video, information and communication technology equipment - Part 1: Safety requirements</p>
+<p class="subproductalert" >- EN 50566 - Product standard to demonstrate the compliance of wireless communication devices with the basic restrictions and exposure limit values related to human exposure to electromagnetic fields in the frequency range from 30 MHz to 6 GHz: hand-held and body mounted devices in close proximity to the human body and/or IEC 62311</p>
+<p class="subproductalert" >- EN 62311 - Assessment of electronic and electrical equipment related to human exposure restrictions for electromagnetic fields (0 Hz to 300 GHz)</p>
+<p class="subproductalert" >- IEC/IEEE 62209-1528:2020 - Measurement procedure for the assessment of specific absorption rate of human exposure to radio frequency fields from hand-held and body-worn wireless communication devices - Human models, instrumentation and procedures (Frequency range of 4 MHz to 10 GHz)</p>
+<p class="subproductalert" ><b>Electromagnetic compatibility ( EMC ):</b></p>
+<p class="subproductalert" >- EN 55032:2015/A11:2020 - Electromagnetic compatibility of multimedia equipment - Emission Requirements</p>
+<p class="subproductalert" >- EN 55035:2017+A11:2020 - Electromagnetic compatibility of multimedia equipment - Immunity requirements</p>
+<p class="subproductalert" >- EN 301 489-1 V2.2.3 - Electromagnetic Compatibility (EMC) standard for radio equipment and services; Part 1: Common technical requirements; Harmonised Standard for ElectroMagnetic Compatibility</p>
+<p class="subproductalert" >- EN 301 489-3 V2.3.2 - ElectroMagnetic Compatibility (EMC) standard for radio equipment and services; Part 3: Specific conditions for Short Range Devices (SRD) operating on frequencies between 9 kHz and 246 GHz; Harmonised Standard for ElectroMagnetic Compatibility </p>
+<p class="subproductalert" >- EN 301 489-17 V3.3.1 - ElectroMagnetic Compatibility (EMC) standard for radio equipment and services; Part 17: Specific conditions for Broadband and Wideband Data Transmission Systems; Harmonised Standard for ElectroMagnetic Compatibility </p>
+<p class="subproductalert" >- EN 301 489-19 V2.2.1 - ElectroMagnetic Compatibility (EMC) standard for radio equipment and services; Part 19: Specific conditions for Receive Only Mobile Earth Stations (ROMES) operating in the 1,5 GHz band providing data communications and GNSS receivers operating in the RNSS band providing positioning, navigation, and timing data; Harmonised Standard for ElectroMagnetic Compatibility</p>
+<p class="subproductalert" >- EN 301 489-52 V1.2.1 - ElectroMagnetic Compatibility (EMC) standard for radio equipment and services; Part 52: Specific conditions for Cellular Communication User Equipment (UE) radio and ancillary equipment; Harmonised Standard for ElectroMagnetic Compatibility </p>
+<p class="subproductalert" ><b>Radio frequency spectrum usage ( Directive 2014/53/EU ):</b></p>
+<p class="subproductalert" >- EN 300 328 V2.2.2 - Wideband transmission systems; Data transmission equipment operating in the 2,4 GHz band; Harmonised Standard for access to radio spectrum</p>
+<p class="subproductalert" >- EN 300 440 V2.2.1 - Short Range Devices (SRD); Radio equipment to be used in the 1 GHz to 40 GHz frequency range; Harmonised Standard for access to radio spectrum</p>
+<p class="subproductalert" >- EN 301 893 V2.1.1 - 5 GHz RLAN; Harmonised Standard covering the essential requirements of article 3.2 of Directive 2014/53/EU</p>
+<p class="subproductalert" >- EN 300 330 V2.1.1 - Short Range Devices (SRD); Radio equipment in the frequency range 9 kHz to 25 MHz and inductive loop systems in the frequency range 9 kHz to 30 MHz; Harmonised Standard covering the essential requirements of article 3.2 of Directive 2014/53/EU</p>
+<p class="subproductalert" >- EN 303 687 V1.1.1 - 6 GHz WAS/RLAN; Harmonised Standard for access to radio spectrum</p>
+<p class="subproductalert" >- EN 301 908-2 V13.1.1 - IMT cellular networks; Harmonised Standard for access to radio spectrum; Part 2: CDMA Direct Spread (UTRA FDD) User Equipment (UE)</p>
+<p class="subproductalert" >- EN 301 908-13 V13.2.1 and/or V13.3.1 - - IMT cellular networks; Harmonised Standard for access to radio spectrum; Part 13: Evolved Universal Terrestrial Radio Access (E-UTRA) User Equipment (UE)</p>
+<p class="subproductalert" >- EN 301 908-1 V15.2.1 - IMT cellular networks; Harmonised Standard for access to radio spectrum; Part 1: Introduction and common requirements; Release 15 </p>
+<p class="subproductalert" >- EN 301 908-25 V15.1.1 - IMT cellular networks; Harmonised Standard for access to radio spectrum; Part 25: New Radio (NR) User Equipment (UE) Release 15</p>
+<p class="subproductalert" >- EN 303 413 V1.2.1 Satellite Earth Stations and Systems (SES); Global Navigation Satellite System (GNSS) receivers; Radio equipment operating in the 1 164 MHz to 1 300 MHz and 1 559 MHz to 1 610 MHz frequency bands; Harmonised Standard for access to radio spectrum </p>
+<p class="subproductalert" ><b>RoHS (Directive 2011/65/EU as amended by 2015/863/EU - ecodesign requirements for energy-related products ):</b></p>
+<p class="subproductalert" >- EN IEC 63000:2018</p>
+<p class="subproductalert" ><b>Batteries ( Regulation (EU) 2023/1542 ):</b></p>
+<p class="subproductalert" >- EN IEC 63000:2018</p>
+<p class="subproductalert" >Energy-related Products - ErP ( Directive 2009/125/EC and Regulation (EU) 2023/826  ):</p>
+<p class="subproductalert" >- EN 50563:2011 - External a.c. - d.c. and a.c. - a.c. power supplies - Determination of no-load power and average efficiency of active modes ( Regulation (EU) 2019/1782 )</p>
+<p class="subproductalert" >- EN 50564:2011 - Electrical and electronic household and office equipment - Measurement of low power consumption ( Regulation (EC) No 1275/2008 )</p>
+<p class="subproductalert" >- EN IEC 62301:2011 - Household electrical appliances - Measurement of standby power</p>
+
+
 <h4>847141 - Automatic data processing machines; comprising in the same housing at least a central processing unit and an input and output unit, whether or not combined, n.e.c. in item no. 8471.30</h4>
+
 <h4>847149 - Automatic data processing machines; presented in the form of systems, n.e.c. in item no. 8471.30 or 8471.41</h4>
+
 <h4>847150 - Units of automatic data processing machines; processing units other than those of item no. 8471.41 or 8471.49, whether or not containing in the same housing one or two of the following types of unit: storage units, input units or output units</h4>
+
 <h4>847160 - Units of automatic data processing machines; input or output units, whether or not containing storage units in the same housing</h4>
+
 <h4>844332 - Printing, copying, and facsimile machines; single-function printing, copying or facsimile machines, capable of connecting to an automatic data processing machine or to a network</h4>
+
 <h4>844331 - Printing, copying, and facsimile machines; machines which perform two or more of the functions of printing, copying or facsimile transmission, capable of connecting to an automatic data</h4> 
+
 <h4>847190 - Magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included</h4>
+
 <h4>847170 - Units of automatic data processing machines; storage units</h4>
+
 <h4>847180 - Units of automatic data processing machines; n.e.c. in item no. 8471.50, 8471.60 or 8471.70</h4>
+
 <h4>851769 - Communication apparatus (excluding telephone sets or base stations); machines for the transmission or reception of voice, images or other data (including wired/wireless networks), n.e.c. in </h4>
+
 <h4>847330 - Machinery; parts and accessories (other than covers, carrying cases and the like) of the machines of heading no. 8471</h4>
+
 <h4>847350 - Machines; parts and accessories (other than covers, carrying cases and the like) equally suitable for use with machines of two or more of the headings 8470 to 8472</h4>
-<h4>962000 - Monopods, bipods, tripods and similar articles</h4>
+
+
 
 <h3>* goods of group 478 (Packaged software)</h3>
 <h4>852329 - Magnetic media; other than cards incorporating a magnetic stripe, whether or not recorded, excluding products of Chapter 37</h4>
+
 <h4>852349 - Optical media; recorded, excluding products of Chapter 37</h4>
 </div>
 </details>
+
 <details><summary>61285 - Wholesale trade services on a fee or contract basis, of electronic and telecommunications equipment and parts</summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of electronic and telecommunications equipment and parts" >Download as PDF</a></div>
 <div id="html-content20" >
@@ -7309,7 +7506,7 @@ rouge), and non-pigmented coatings with a basis of oil, grease, wax, paraffin wa
 </div>
 </details>
  
-<details><summary>61294 - Wholesale trade services on a fee or contract basis, of paper and paperboard <sup class="blink" >Open</sup></summary>
+<details><summary>61294 - Wholesale trade services on a fee or contract basis, of paper and paperboard <span class="blink" >Open</span></summary>
 <div class="thedocbin" ><a href="#!" class="thedoc" title="Wholesale trade services on a fee or contract basis, of paper and paperboard" >Download as PDF</a></div>
 <div id="html-content45" >
 <h3>* goods of group 321 (Pulp, paper and paperboard), except of subclass 32194</h3>
@@ -8139,65 +8336,65 @@ rouge), and non-pigmented coatings with a basis of oil, grease, wax, paraffin wa
     <span id="en" >- Our new Reg. Com no. is J2023000124390</span><br>
     <span id="en" >- C.U.I Number is the same: 47626664 ( this the unique company number )</span><br>
     <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/noulcertificatdeinregistrare.pdf" target=”_blank” ><b>Click Here To Download</b></a>
-<br><br>
+</h3><br><h3>
     <span id="en" >Verify Unique Identification</span><br>
     <a style="color:darkred;word-break: break-all;" href="https://mfinante.gov.ro/apps/agenticod.html?pagina=domenii" target=”_blank” ><b>https://mfinante.gov.ro/apps/agenticod.html?pagina=domenii</b></a><br> 
     <span id="en" >Or call the Romanian embassy in your country</span>
-<br><br>
+</h3><br><h3>
     <span id="en" ><b>b) Certificate of registration for VAT purposes ( VAT Number )</b></span><br>
     <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/Certificat%20Platitor%20TVA.pdf" target=”_blank” ><b>Click Here To Download</b></a>
-<br><br>
+</h3><br><h3>
     <span id="en" >Verify VAT registration certificate</span><br>
     <a style="color:darkred;word-break: break-all;" href="https://www.anaf.ro/RegistruTVA/" target=”_blank” ><b>https://www.anaf.ro/RegistruTVA/</b></a><br> 
     <span id="en" >Or call the Romanian embassy in your country</span>
-    <br><br>
+</h3><br><h3>
     <span id="en" ><b>c) Verification certificate with the CAEN ( NACE / NAICS ) codes of the company with proof of declaration on own responsibility that the company does not carry out any activity at the registered office and that the company conducts its activities at third parties</b></span><br>
     <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/noulcertificatdeconstatare.pdf" target=”_blank” ><b>Click Here To Download</b></a><br>
     <span id="en" >It can be obtained online via</span> <a style="color:darkred;" href="https://www.onrc.ro/index.php/ro/" target=”_blank” ><b>ONRC Portal</b></a>
-    <br><br>
+</h3><br><h3>
     <span id="en" ><b>d) Certificate in the registry of professional operators at the National Phytosanitary Authority with  certificate No. RO / VN / 011 / IE for import-export activity at third parties</b><br> 
     (note: it is required to obtain the annual visa of the certificate at least 7 days before the expiration of the 1-year term from the date of it’s issuance)</span>
      <br>
 	   -  <span id="en" >For 2023-2024 season visa was stamped on 04.12.2024</span> <br>
      <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/Certificat%20de%20inregistrare%20registrul%20operatorilor%20profesionisti%20la%20oficiul%20fitosanitar%20Ministerul%20Agriculturii%20si%20Dezvoltarii%20Rurale%20nou.pdf" target=”_blank” ><b>Click Here To Download</b></a>
-    <br><br>
+</h3><h3>
     <b>e) Unique Id Number at Payments and Intervention Agency for Agriculture - Export Import Procedures with Agricultural Products:</b><br> <b>RO012678067</b> ( Contact https://apia.org.ro to verify ) 
-    <br><br>
+</h3><br><h3>
     <span id="en" ><b>f) The commercial company BLUE SEA EXPORT IMPORT S.R.L. is registered in the database of I.S.C.T.P.V.L.F. (MADR fruit and vegetable inspection)</b></span><br> 
     It is not a public database, even I as a company administrator cannot see if it is registered or not, I only received a verbal and written confirmation that the company is registered.<br>
     At I.S.C.T.P.V.L.F. certificates of conformity for fruits and vegetables will be obtained. ( https://www.madr.ro/inspectia-legume-fructe.html )
-    <br><br>
+</h3><br><h3>
    <span id="en" ><b>g)  BLUE SEA EXPORT IMPORT S.R.L. DUNS number: 56-734-4553</b></span>  
    <a style="color:darkred;word-break: break-all;" href="https://www.dnb.com/business-directory/company-profiles.blue_sea_export_import_srl.21ef48635f2f3347630ca25ee65c83c0.html" target=”_blank” ><b>DNB LINK</b></a>
     <br><br>
     <span id="en" ><b>h) NCAGE CODE: 1J7YL</b></span>  
-    <br><br>
+</h3><br><h3>
     <span id="en" ><b>i) Romanian ANAF e-Factura:  yes</b></span><br> 
     <a style="color:darkred;word-break: break-all;" href="https://www.anaf.ro/anaf/internet/ANAF/servicii_online/registre/registrul_eFactura" target=”_blank” ><b>https://www.anaf.ro/anaf/internet/ANAF/servicii_online/registre/registrul_eFactura</b></a> 
-   <br><br>
+</h3><br><h3>
    <span id="en" ><b>j) BLUE SEA EXPORT IMPORT S.R.L.  is not a food operator and DOES NOT NEED a HACCP certificate, HACCP plan or ISO 22000, we only order the food from your companies and we find authorized transporters to transport the food if client companies can not transport it. ( In the European Union internal market we can order food from suppliers without the need of a supplier-client contract , they just have to emit the Invoice )</b></span>
-   <br><br>
+</h3><br><h3>
    DSVSA Vrancea 8676<br>
    <a style="color:darkred;word-break: break-all;" href="https://www.docdroid.net/CT4XaxC/răspuns-solicitare-dsvsa-vrancea-pdf" target=”_blank” ><b>Click Here To Download</b></a>
-   <br><br>
+</h3><br><h3>
    DSVSA Vrancea 177469<br>
    <a style="color:darkred;word-break: break-all;" href="https://www.docdroid.net/vemRODI/rasp-solicitare-dsvsa-vrancea-pdf" target=”_blank” ><b>Click Here To Download</b></a>
-   <br><br>	    
+</h3><br><h3>
    ANSVSA 7457<br>
    <a style="color:darkred;word-break: break-all;" href="https://www.docdroid.net/Wbw9s4Z/raspuns-ansvsa-blue-export-import-7457-pdf" target=”_blank” ><b>Click Here To Download</b></a>
-   <br><br>
+</h3><br><h3>
    ANSVSA 13077<br>
    <a style="color:darkred;word-break: break-all;" href="https://www.docdroid.net/4ANhAJF/blue-export-import-13077-pdf" target=”_blank” ><b>Click Here To Download</b></a>
-   <br><br>
+</h3><br><h3>
    <span id="en" >For BLUE SEA EXPORT IMPORT S.R.L. activities, we don't need authorization from the Romanian Public Health District Authority - Order 1030 / 2009 - Romanian Ministry of Health</span> 
    <br>
    <a style="color:darkred;word-break: break-all;" href="https://legislatie.just.ro/Public/DetaliiDocumentAfis/110951" target=”_blank” ><b>https://legislatie.just.ro/Public/DetaliiDocumentAfis/110951</b></a>
-   <br><br>
+</h3><br><h3>
    <span id="en" ><b>k) BLUE SEA EXPORT IMPORT S.R.L. does not need to register as courier at ANCOM do to fact we buy the goods and the transfer of property is made after you sign the handover document when they arrive at your location.  ( In transit the goods belong to us, that means also we don't need to contact you for legal formalities and waste your time ) - EMERGENCY ORDINANCE No. 13 of March 6, 2013 on postal services art. 3, a) and b)</b></span><br> 
    <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/refs/heads/main/documents/raspunsancomtransportbunuri.png" target=”_blank” ><b>Click Here To Download</b></a>
+</h3>
    
-   
-   </h3><br>
+   <br>
 
 </details> 
 
@@ -8245,19 +8442,19 @@ rouge), and non-pigmented coatings with a basis of oil, grease, wax, paraffin wa
  
  <h3><b>Oceania</b></h3> 
  <h2>Tuvalu</h2><br>
- <h3><a href="https://www.tuvalu.tv/" target="_blank" rel="nofollow" >Tuvalu The First Digital Nation <sup class="blinkgray" >No Radio</sup></a></h3>
+ <h3><a href="https://www.tuvalu.tv/" target="_blank" rel="nofollow" >Tuvalu The First Digital Nation <span class="blinkgray" >No Radio</span></a></h3>
  <h2>Kiribati</h2><br>
- <h3><a href="https://kiribati.gov.ki/information/broadcasting" target="_blank" rel="nofollow" >Radio Kiribati <sup class="blinkgray" >No Radio</sup></a></h3>
+ <h3><a href="https://kiribati.gov.ki/information/broadcasting" target="_blank" rel="nofollow" >Radio Kiribati <span class="blinkgray" >No Radio</span></a></h3>
  <h2>Papua New Guinea</h2><br>	
- <h3><a href="https://www.nbc.com.pg/" target="_blank" rel="nofollow" >National Broadcasting Corporation of Papua New Guinea  <sup class="blinkgray" >No Radio</sup></a></h3>	 
+ <h3><a href="https://www.nbc.com.pg/" target="_blank" rel="nofollow" >National Broadcasting Corporation of Papua New Guinea  <span class="blinkgray" >No Radio</span></a></h3>	 
  <h2>Marshall Islands</h2><br>
- <h3><a href="https://marshallislandsjournal.com/" target="_blank" rel="nofollow" >The Marshall Islands Journal <sup class="blinkgray" >No Radio</sup></a></h3>	  
+ <h3><a href="https://marshallislandsjournal.com/" target="_blank" rel="nofollow" >The Marshall Islands Journal <span class="blinkgray" >No Radio</span></a></h3>	  
  <h2>Solomon Islands</h2><br>
- <h3><a href="https://www.solomonstarnews.com/" target="_blank" rel="nofollow" >Solomon Star <sup class="blinkgray" >No Radio</sup></a></h3>	 
+ <h3><a href="https://www.solomonstarnews.com/" target="_blank" rel="nofollow" >Solomon Star <span class="blinkgray" >No Radio</span></a></h3>	 
  <h2>Tonga</h2><br>
- <h3><a href="https://matangitonga.to/" target="_blank" rel="nofollow" >Matangi Tonga Newspaper <sup class="blinkgray" >No Radio</sup></a></a></h3>	 
+ <h3><a href="https://matangitonga.to/" target="_blank" rel="nofollow" >Matangi Tonga Newspaper <span class="blinkgray" >No Radio</span></a></a></h3>	 
  <h2>Micronesia</h2><br>
- <h3><a href="http://www.fm/radio.htm" target="_blank" rel="nofollow" >FSM Radios <sup class="blinkgray" >No Radio</sup></a></h3>
+ <h3><a href="http://www.fm/radio.htm" target="_blank" rel="nofollow" >FSM Radios <span class="blinkgray" >No Radio</span></a></h3>
  <h2>New Zealand</h2><br>	
  <h3><a href="https://www.rnz.co.nz/" target="_blank" rel="nofollow" >Radio New Zealand</a></h3>	 
  <h2>Australia</h2><br>
@@ -8453,11 +8650,11 @@ rouge), and non-pigmented coatings with a basis of oil, grease, wax, paraffin wa
  <h2>Djibouti</h2><br>
  <h3><a href="https://rtd.dj/" target="_blank" rel="nofollow" >Radio Télévision Djibouti ( no online public radio )</a></h3> 	 
  <h2>Eritrea*</h2><br>
- <h3><a href="https://www.dendenmedia.com/" target="_blank" rel="nofollow" >Radio Dimtsi Hafash Eritrea <sup class="blinkgray" >No Radio</sup></a></h3> 	 
+ <h3><a href="https://www.dendenmedia.com/" target="_blank" rel="nofollow" >Radio Dimtsi Hafash Eritrea <span class="blinkgray" >No Radio</span></a></h3> 	 
  <h2>Kenya</h2><br>
  <h3><a href="https://www.citizen.digital/radio/radio-citizen-13" target="_blank" rel="nofollow" >Radio Citizen FM</a></h3> 	 
  <h2>Uganda*</h2><br>
- <h3><a href="https://ubc.go.ug/ubc-radios/" target="_blank" rel="nofollow" >UBS Radios <sup class="blinkgray" >No Radio</sup></a></h3> 	 
+ <h3><a href="https://ubc.go.ug/ubc-radios/" target="_blank" rel="nofollow" >UBS Radios <span class="blinkgray" >No Radio</span></a></h3> 	 
  <h2>Burundi</h2><br>
  <h3><a href="https://isanganiro.org" target="_blank" rel="nofollow" >Radio Isanganiro</a></h3> 	 
  <h2>Rwanda</h2><br>
@@ -8473,31 +8670,31 @@ rouge), and non-pigmented coatings with a basis of oil, grease, wax, paraffin wa
  <h2>Zimbabwe</h2><br>
  <h3><a href="https://www.zbc.co.zw/" target="_blank" rel="nofollow" >ZBC Radios</a></h3> 	 
  <h2>Eswatini* (fmr. "Swaziland")</h2><br>	
- <h3><a href="https://eswatinitv.co.sz/" target="_blank" rel="nofollow" >Eswatini TV <sup class="blinkgray" >No Radio</sup></a></h3> 	 	
+ <h3><a href="https://eswatinitv.co.sz/" target="_blank" rel="nofollow" >Eswatini TV <span class="blinkgray" >No Radio</span></a></h3> 	 	
  <h2>Lesotho</h2><br>	
  <h3><a href="https://www.moafrikafm.co.ls" target="_blank" rel="nofollow" >Moafrika Radio</a></h3> 	 
  <h2>Comoros*</h2><br>
- <h3><a href="http://www.alwatwan.net/" target="_blank" rel="nofollow" >Al Watwan Newspaper <sup class="blinkgray" >No Radio</sup></a></h3> 	 
+ <h3><a href="http://www.alwatwan.net/" target="_blank" rel="nofollow" >Al Watwan Newspaper <span class="blinkgray" >No Radio</span></a></h3> 	 
  <h2>Madagascar*</h2><br>
- <h3><a href="https://midi-madagasikara.mg" target="_blank" rel="nofollow" >Midi Madagasikara Newspaper <sup class="blinkgray" >No Radio</sup></a></h3> 	 
+ <h3><a href="https://midi-madagasikara.mg" target="_blank" rel="nofollow" >Midi Madagasikara Newspaper <span class="blinkgray" >No Radio</span></a></h3> 	 
  <h2>Namibia</h2><br>
  <h3><a href="https://www.desertradio.fm/" target="_blank" rel="nofollow" >Desert FM ( namibian.com.na )</a></h3> 	 
  <h2>Angola</h2><br>
  <h3><a href="https://rna.ao/rna.ao/" target="_blank" rel="nofollow" >Rádio Nacional de Angola ( RNA )</a></h3> 	 
  <h2>Congo* (Congo-Brazzaville)</h2><br>	
- <h3><a href="https://www.aci.cg/" target="_blank" rel="nofollow" >Agence Congolaise d'Information Newspaper <sup class="blinkgray" >No Radio</sup></a></h3> 	 
+ <h3><a href="https://www.aci.cg/" target="_blank" rel="nofollow" >Agence Congolaise d'Information Newspaper <span class="blinkgray" >No Radio</span></a></h3> 	 
  <h2>Gabon*</h2><br>
- <h3><a href="https://www.gabontelevisions.ga" target="_blank" rel="nofollow" >Gabon Télévision <sup class="blinkgray" >No Radio</sup></a></h3> 	 
+ <h3><a href="https://www.gabontelevisions.ga" target="_blank" rel="nofollow" >Gabon Télévision <span class="blinkgray" >No Radio</span></a></h3> 	 
  <h2>Equatorial Guinea</h2><br>
  <h3><a href="https://www.radiomalabo.com/" target="_blank" rel="nofollow" >Radio Malabo</a></h3> 	 
  <h2>Cameroon*</h2><br>
- <h3><a href="https://crtv.cm/" target="_blank" rel="nofollow" >CRTV - Cameroon Radio Television <sup class="blinkgray" >No Radio</sup></a></h3> 	 
+ <h3><a href="https://crtv.cm/" target="_blank" rel="nofollow" >CRTV - Cameroon Radio Television <span class="blinkgray" >No Radio</span></a></h3> 	 
  <h2>Nigeria</h2><br>
  <h3><a href="https://radionigeria.gov.ng/" target="_blank" rel="nofollow" >Radio Nigeria</a></h3> 	 
  <h2>Chad</h2><br>
  <h3><a href="https://manara.td/direct/" target="_blank" rel="nofollow" >Manara FM Radio</a></h3> 	 
  <h2>Burkina Faso*</h2><br>	
- <h3><a href="https://www.rtb.bf" target="_blank" rel="nofollow" >Radiodiffusion Télévision du Burkina <sup class="blinkgray" >No Radio</sup></a></h3> 	 
+ <h3><a href="https://www.rtb.bf" target="_blank" rel="nofollow" >Radiodiffusion Télévision du Burkina <span class="blinkgray" >No Radio</span></a></h3> 	 
  <h2>Benin</h2><br>
  <h3><a href="https://srtb.bj" target="_blank" rel="nofollow" >SRTB Radios</a></h3> 	 
  <h2>Togo</h2><br>
@@ -8507,21 +8704,21 @@ rouge), and non-pigmented coatings with a basis of oil, grease, wax, paraffin wa
  <h2>Côte d'Ivoire</h2><br>	
  <h3><a href="https://www.rti.ci/" target="_blank" rel="nofollow" >Radio CI</a></h3> 	 
  <h2>Liberia*</h2><br>
- <h3><a href="https://elbcradio.com" target="_blank" rel="nofollow" >ELBC Radio <sup class="blinkgray" >No Radio</sup></a></h3> 	 
+ <h3><a href="https://elbcradio.com" target="_blank" rel="nofollow" >ELBC Radio <span class="blinkgray" >No Radio</span></a></h3> 	 
  <h2>Sierra Leone</h2><br>	
  <h3><a href="https://www.capitalradio.sl" target="_blank" rel="nofollow" >Capital Radio 104.9 FM</a></h3> 	 
  <h2>Guinea</h2><br>
  <h3><a href="https://soleilfmguinee.net" target="_blank" rel="nofollow" >Soleil 93.5 FM</a></h3> 	 
  <h2>Guinea-Bissau*</h2><br>
- <h3><a href="https://rdngbissau.gw/" target="_blank" rel="nofollow" >RDN Guinea-Bissau <sup class="blinkgray" >No Radio</sup></a></h3> 	 
+ <h3><a href="https://rdngbissau.gw/" target="_blank" rel="nofollow" >RDN Guinea-Bissau <span class="blinkgray" >No Radio</span></a></h3> 	 
  <h2>Gambia*</h2><br>
- <h3><a href="https://www.grts.gm/" target="_blank" rel="nofollow" >GRTS <sup class="blinkgray" >No Radio</sup></a></h3> 	 
+ <h3><a href="https://www.grts.gm/" target="_blank" rel="nofollow" >GRTS <span class="blinkgray" >No Radio</span></a></h3> 	 
  <h2>Senegal</h2><br>
  <h3><a href="https://www.rts.sn/radios/live/chaine-nationale" target="_blank" rel="nofollow" >RTS Radios</a></h3> 	 
  <h2>Mauritania</h2><br>
  <h3><a href="https://www.radiomauritanie.mr" target="_blank" rel="nofollow" >Radio Mauritanie</a></h3> 	 
  <h2>Mali*</h2><br>
- <h3><a href="https://www.ortm.ml" target="_blank" rel="nofollow" >ORTM Mali <sup class="blinkgray" >No Radio</sup></a></h3> 	 
+ <h3><a href="https://www.ortm.ml" target="_blank" rel="nofollow" >ORTM Mali <span class="blinkgray" >No Radio</span></a></h3> 	 
  <h2>South Africa</h2><br>
  <h3><a href="https://www.ukhozifm.co.za/ukhozifm/" target="_blank" rel="nofollow" >Ukhozi FM</a></h3> 	 
  <h2>Cabo Verde</h2><br>	
@@ -8531,7 +8728,7 @@ rouge), and non-pigmented coatings with a basis of oil, grease, wax, paraffin wa
  <h2>Botswana</h2><br>
  <h3><a href="https://dumafm.co.bw" target="_blank" rel="nofollow" >Duma FM</a></h3> 	 
  <h2>Sao Tome and Principe*</h2><br>
- <h3><a href="https://www.telanon.info" target="_blank" rel="nofollow" >Téla Nón Newspaper <sup class="blinkgray" >No Radio</sup></a></h3> 	 
+ <h3><a href="https://www.telanon.info" target="_blank" rel="nofollow" >Téla Nón Newspaper <span class="blinkgray" >No Radio</span></a></h3> 	 
  <h2>Seychelles</h2><br>
  <h3><a href="https://www.sbc.sc/" target="_blank" rel="nofollow" >SBC Radios</a></h3><br> 	 
  
@@ -8567,7 +8764,7 @@ rouge), and non-pigmented coatings with a basis of oil, grease, wax, paraffin wa
  <h2>Chile</h2><br>	
  <h3><a href="https://www.adnradio.cl/" target="_blank" rel="nofollow" >ADN Radio Chile</a></h3>	 
  <h2>Colombia</h2><br>	
- <h3><a href="https://www.radionacional.co/" target="_blank" rel="nofollow" >Radio Nacional de Colombia <sup class="blinkgray" >No Radio</sup></a></h3>	 
+ <h3><a href="https://www.radionacional.co/" target="_blank" rel="nofollow" >Radio Nacional de Colombia <span class="blinkgray" >No Radio</span></a></h3>	 
  <h2>Costa Rica</h2><br>	
  <h3><a href="https://www.sinartdigital.com/envivo-lanacional" target="_blank" rel="nofollow" >La Nacional 101.5 FM</a></h3>	 
  <h2>Suriname</h2><br>	
@@ -8642,8 +8839,7 @@ rouge), and non-pigmented coatings with a basis of oil, grease, wax, paraffin wa
 <details>
   <summary>Restricted items list, cannot be sent via post and couriers</summary>
 <h3>
- <span id="en"><b>Note: The list is just a guide, products can be added or removed from this list - depends on the political and legal system in each country </b></span><br><br>
-
+ <span id="en"><b>Note: The list is just a guide, products can be added or removed from this list - depends on the political and legal system in each country </b></span></h3><br><h3>
 <span id="en"><b>Chemicals, Dangerous and illegal items</b></span>:<br>
        - <span id="en">Narcotic plants, mushrooms and substances</span><br>
        - <span id="en">Weapons, ammo, blunt instruments and sharp objects</span><br>
@@ -8667,7 +8863,7 @@ rouge), and non-pigmented coatings with a basis of oil, grease, wax, paraffin wa
        - <span id="en">Chemicals, thinners, varnishes, paints, lime and dyes</span><br>
        - <span id="en">Hazardous substances for the environment</span><br>
        - <span id="en">Mineral oils and bitumen</span><br>
-       - <span id="en">Biological substances (microbes, viruses, bacteria, parasites and other microorganisms)</span><br><br>
+       - <span id="en">Biological substances (microbes, viruses, bacteria, parasites and other microorganisms)</span></h3><br><h3>
 	       
 <span id="en"><b>High value and unusual items</b></span><br>
 - <span id="en">High value / unusual items</span><br>		
@@ -8683,7 +8879,7 @@ rouge), and non-pigmented coatings with a basis of oil, grease, wax, paraffin wa
 - <span id="en">Cement, mortars, slags and ash</span><br>
 - <span id="en">Items that may damage other packages during transit</span><br>
 - <span id="en">Fragile items</span><br>
-- <span id="en">Products made of pewter or tin</span><br><br>	       
+- <span id="en">Products made of pewter or tin</span></h3><br><h3>      
 
 	       
 <span id="en"><b>Products that need food safety and phytosanitary certificates</b></span><br>
@@ -8696,10 +8892,10 @@ rouge), and non-pigmented coatings with a basis of oil, grease, wax, paraffin wa
 - <span id="en">Food, salt and perishable goods</span><br>
 - <span id="en">Fur and fur-lined clothing</span><br> 
 - <span id="en">Vegetable oils, wax, greases, fats</span><br> 
-- <span id="en">Liquids</span><br> <br> 
+- <span id="en">Liquids</span></h3><br> 
 
 
-</h3>
+
 
 </details>	
 <details>
@@ -8814,33 +9010,33 @@ For some products we will try to find suppliers that offer international warrant
 	    
        <h2>Romanian public institutions</h2>
  
-	    <h3>AUTORITATEA NAȚIONALĂ PENTRU PROTECȚIA CONSUMATORILOR <br><a style="color:darkred;" href="https://anpc.ro" target=”_blank” rel="nofollow" >https://anpc.ro</a><br> 
-	    AUTORITATEA NAŢIONALĂ FITOSANITARĂ <br><a style="color:darkred;" href="https://www.anfdf.ro" target=”_blank” rel="nofollow" >https://www.anfdf.ro</a><br> 
-	    AUTORITATEA FEROVIARĂ ROMÂNĂ - AFER <br> LABORATOARE (ONFR-L) <br><a style="color:darkred;" href="http://www.afer.ro/onfr/documents/onfr.html" target=”_blank” rel="nofollow" >http://www.afer.ro/onfr/documents/onfr.html</a><br> 
-	    DIRECȚII DE SĂNĂTATE PUBLICĂ A JUDEȚENE <br><a style="color:darkred;" href="https://www.ms.ro/ro/directiile-de-sanatate-publica/" target=”_blank” rel="nofollow" >https://www.ms.ro/ro/directiile-de-sanatate-publica/</a><br> 
-	    DIRECȚII SANITAR VETERINARE ŞI PENTRU SIGURANŢA ALIMENTELOR <br><a style="color:darkred;" href="http://www.ansvsa.ro" target=”_blank” rel="nofollow" >http://www.ansvsa.ro</a><br> 
-	    BIROUL ROMÂN DE METROLOGIE LEGALĂ - BRML <br><a style="color:darkred;" href="https://www.brml.ro/" target=”_blank” rel="nofollow" >https://www.brml.ro/</a><br>
-	    OFICII DE STUDII PEDOLOGICE ȘI AGROCHIMICE <br><a style="color:darkred;" href="https://icpa.ro/ospa/" target=”_blank” rel="nofollow" >https://icpa.ro/ospa/</a><br> 
-	    IBA BUCUREȘTI <br><a style="color:darkred;" href="https://bioresurse.ro/" target=”_blank” rel="nofollow" >https://bioresurse.ro/</a><br> 
-	    CENTRUL NAȚIONAL PENTRU SECURITATE LA INCENDIU ŞI PROTECŢIE CIVILĂ <br><a style="color:darkred;" href="https://cnsipc.igsu.ro/" target=”_blank” rel="nofollow" >https://cnsipc.igsu.ro/</a><br> 
-	    COMPANIA NAŢIONALĂ DE ADMINISTRARE A INFRASTRUCTURII RUTIERE SA <br><a style="color:darkred;" href="http://www.cnadnr.ro" target=”_blank” rel="nofollow" >http://www.cnadnr.ro</a><br>
-	    COMPANIA NAŢIONALĂ PENTRU CONTROLUL CAZANELOR, INSTALAŢIILOR DE RIDICAT ŞI RECIPIENTELOR SUB PRESIUNE - (CNCIR) S.A. <br><a style="color:darkred;" href="https://cncir.com.ro/ro/" target=”_blank” rel="nofollow" >https://cncir.com.ro/ro/</a><br>
-	    INSEMEX PETROȘANI<br><a style="color:darkred;" href="https://www.insemex.ro/" target=”_blank” rel="nofollow" >https://www.insemex.ro/</a><br> 
-	    COMPANIA NAȚIONALĂ "IMPRIMERIA NAȚIONALĂ" SA <br><a style="color:darkred;" href="https://www.cnin.ro/" target=”_blank” rel="nofollow" >https://www.cnin.ro/</a><br> 
-	    C.N.G.S.C. ROMANIA <br><a style="color:darkred;" href="http://www.gradare.ro" target=”_blank” rel="nofollow" >http://www.gradare.ro</a><br>
-	    IFIN-HH <br><a style="color:darkred;" href="https://www.nipne.ro" target=”_blank” rel="nofollow" >https://www.nipne.ro</a><br>
-	    INSTITUTUL DE CERCETĂRI METALURGICE SA <br><a style="color:darkred;" href="https://www.icem.ro" target=”_blank” rel="nofollow" >https://www.icem.ro</a><br>
-	    ICPE - CA BUCUREŞTI <br><a style="color:darkred;" href="https://www.icpe-ca.ro" target=”_blank” rel="nofollow" >https://www.icpe-ca.ro</a><br>
-	    INMA BUCUREŞTI <br><a style="color:darkred;" href="https://inma.ro/" target=”_blank” rel="nofollow" >https://inma.ro/</a><br>
-	    I.N.C.D.M.T.M. Bucureşti <br><a style="color:darkred;" href="https://www.incdmtm.ro" target=”_blank” rel="nofollow" >https://www.incdmtm.ro</a><br>
-	    ICSI RÂMNICU VÂLCEA <br><a style="color:darkred;" href="https://www.icsi.ro/" target=”_blank” rel="nofollow" >https://www.icsi.ro/</a><br>
-	    ICMET CRAIOVA <br><a style="color:darkred;" href="https://www.icmet.ro/" target=”_blank” rel="nofollow" >https://www.icmet.ro/</a><br>
-	    URBAN-INCERC <br><a style="color:darkred;" href="https://incd.ro" target=”_blank” rel="nofollow" >https://incd.ro</a><br>
-	    INCDO-INOE 2000 <br><a style="color:darkred;" href="https://icia.ro" target=”_blank” rel="nofollow" >https://icia.ro</a><br> 
-	    ICPA BUCUREŞTI <br><a style="color:darkred;" href="https://icpa.ro" target=”_blank” rel="nofollow" >https://icpa.ro</a><br>
-	    INCDTP BUCUREŞTI <br><a style="color:darkred;" href="https://www.certex.ro" target=”_blank” rel="nofollow" >https://www.certex.ro</a><br>
-	    ISIM Timişoara <br><a style="color:darkred;" href="https://www.isim.ro/" target=”_blank” rel="nofollow" >https://www.isim.ro/</a><br>
-	    COMOTI <br><a style="color:darkred;" href="https://comoti.ro" target=”_blank” rel="nofollow" >https://comoti.ro</a></h3>
+	    <h3>AUTORITATEA NAȚIONALĂ PENTRU PROTECȚIA CONSUMATORILOR <br><a style="color:darkred;" href="https://anpc.ro" target=”_blank” rel="nofollow" >https://anpc.ro</a></h3> 
+	    <h3>AUTORITATEA NAŢIONALĂ FITOSANITARĂ <br><a style="color:darkred;" href="https://www.anfdf.ro" target=”_blank” rel="nofollow" >https://www.anfdf.ro</a></h3>
+	    <h3>AUTORITATEA FEROVIARĂ ROMÂNĂ - AFER <br> LABORATOARE (ONFR-L) <br><a style="color:darkred;" href="http://www.afer.ro/onfr/documents/onfr.html" target=”_blank” rel="nofollow" >http://www.afer.ro/onfr/documents/onfr.html</a></h3>
+	    <h3>DIRECȚII DE SĂNĂTATE PUBLICĂ A JUDEȚENE <br><a style="color:darkred;" href="https://www.ms.ro/ro/directiile-de-sanatate-publica/" target=”_blank” rel="nofollow" >https://www.ms.ro/ro/directiile-de-sanatate-publica/</a></h3>
+	    <h3>DIRECȚII SANITAR VETERINARE ŞI PENTRU SIGURANŢA ALIMENTELOR <br><a style="color:darkred;" href="http://www.ansvsa.ro" target=”_blank” rel="nofollow" >http://www.ansvsa.ro</a></h3> 
+	    <h3>BIROUL ROMÂN DE METROLOGIE LEGALĂ - BRML <br><a style="color:darkred;" href="https://www.brml.ro/" target=”_blank” rel="nofollow" >https://www.brml.ro/</a></h3>
+	    <h3>OFICII DE STUDII PEDOLOGICE ȘI AGROCHIMICE <br><a style="color:darkred;" href="https://icpa.ro/ospa/" target=”_blank” rel="nofollow" >https://icpa.ro/ospa/</a></h3>
+	    <h3>IBA BUCUREȘTI <br><a style="color:darkred;" href="https://bioresurse.ro/" target=”_blank” rel="nofollow" >https://bioresurse.ro/</a></h3>
+	    <h3>CENTRUL NAȚIONAL PENTRU SECURITATE LA INCENDIU ŞI PROTECŢIE CIVILĂ <br><a style="color:darkred;" href="https://cnsipc.igsu.ro/" target=”_blank” rel="nofollow" >https://cnsipc.igsu.ro/</a></h3> 
+	    <h3>COMPANIA NAŢIONALĂ DE ADMINISTRARE A INFRASTRUCTURII RUTIERE SA <br><a style="color:darkred;" href="http://www.cnadnr.ro" target=”_blank” rel="nofollow" >http://www.cnadnr.ro</a></h3>
+	    <h3>COMPANIA NAŢIONALĂ PENTRU CONTROLUL CAZANELOR, INSTALAŢIILOR DE RIDICAT ŞI RECIPIENTELOR SUB PRESIUNE - (CNCIR) S.A. <br><a style="color:darkred;" href="https://cncir.com.ro/ro/" target=”_blank” rel="nofollow" >https://cncir.com.ro/ro/</a></h3>
+	    <h3>INSEMEX PETROȘANI<br><a style="color:darkred;" href="https://www.insemex.ro/" target=”_blank” rel="nofollow" >https://www.insemex.ro/</a></h3>
+	    <h3>COMPANIA NAȚIONALĂ "IMPRIMERIA NAȚIONALĂ" SA <br><a style="color:darkred;" href="https://www.cnin.ro/" target=”_blank” rel="nofollow" >https://www.cnin.ro/</a></h3> 
+	    <h3>C.N.G.S.C. ROMANIA <br><a style="color:darkred;" href="http://www.gradare.ro" target=”_blank” rel="nofollow" >http://www.gradare.ro</a></h3>
+	    <h3>IFIN-HH <br><a style="color:darkred;" href="https://www.nipne.ro" target=”_blank” rel="nofollow" >https://www.nipne.ro</a></h3>
+	    <h3>INSTITUTUL DE CERCETĂRI METALURGICE SA <br><a style="color:darkred;" href="https://www.icem.ro" target=”_blank” rel="nofollow" >https://www.icem.ro</a></h3>
+	    <h3>ICPE - CA BUCUREŞTI <br><a style="color:darkred;" href="https://www.icpe-ca.ro" target=”_blank” rel="nofollow" >https://www.icpe-ca.ro</a></h3>
+	    <h3>INMA BUCUREŞTI <br><a style="color:darkred;" href="https://inma.ro/" target=”_blank” rel="nofollow" >https://inma.ro/</a></h3>
+	    <h3>I.N.C.D.M.T.M. Bucureşti <br><a style="color:darkred;" href="https://www.incdmtm.ro" target=”_blank” rel="nofollow" >https://www.incdmtm.ro</a></h3>
+	    <h3>ICSI RÂMNICU VÂLCEA <br><a style="color:darkred;" href="https://www.icsi.ro/" target=”_blank” rel="nofollow" >https://www.icsi.ro/</a></h3>
+	    <h3>ICMET CRAIOVA <br><a style="color:darkred;" href="https://www.icmet.ro/" target=”_blank” rel="nofollow" >https://www.icmet.ro/</a></h3>
+	    <h3>URBAN-INCERC <br><a style="color:darkred;" href="https://incd.ro" target=”_blank” rel="nofollow" >https://incd.ro</a></h3>
+	    <h3>INCDO-INOE 2000 <br><a style="color:darkred;" href="https://icia.ro" target=”_blank” rel="nofollow" >https://icia.ro</a></h3>
+	    <h3>ICPA BUCUREŞTI <br><a style="color:darkred;" href="https://icpa.ro" target=”_blank” rel="nofollow" >https://icpa.ro</a></h3>
+	    <h3>INCDTP BUCUREŞTI <br><a style="color:darkred;" href="https://www.certex.ro" target=”_blank” rel="nofollow" >https://www.certex.ro</a></h3>
+	    <h3>ISIM Timişoara <br><a style="color:darkred;" href="https://www.isim.ro/" target=”_blank” rel="nofollow" >https://www.isim.ro/</a></h3>
+	    <h3>COMOTI <br><a style="color:darkred;" href="https://comoti.ro" target=”_blank” rel="nofollow" >https://comoti.ro</a></h3>
      
  
 	    <br> 
@@ -8848,92 +9044,92 @@ For some products we will try to find suppliers that offer international warrant
 	<h2>Private companies</h2>
  
 
-	     <h3>GENMAR COSMETICS S.R.L. <br><a style="color:darkred;" href="https://genmar.ro/laborator-analize/" target=”_blank” rel="nofollow" >https://genmar.ro/laborator-analize/</a><br>
-	    SRAC CERT SRL <br><a style="color:darkred;" href="https://www.srac.ro" target=”_blank” rel="nofollow" >https://www.srac.ro</a><br> 
-	    ASOCIAŢIA ROMÂNĂ DE EXAMINĂRI NEDISTRUCTIVE - ARoENd <br><a style="color:darkred;" href="https://aroend.ro" target=”_blank” rel="nofollow" >https://aroend.ro</a><br> 
-	    TÜV AUSTRIA ROMÂNIA SRL <br><a style="color:darkred;" href="https://www.tuv-austria.ro/" target=”_blank” rel="nofollow" >https://www.tuv-austria.ro</a><br> 
-	    BLUMENFIELD SRL <br><a style="color:darkred;" href="https://blumenfield.ro" target=”_blank” rel="nofollow" >https://blumenfield.ro</a><br>
-	    AEROQ SA <br><a style="color:darkred;" href="https://www.aeroq.ro" target=”_blank” rel="nofollow" >https://www.aeroq.ro</a><br>
-	    ADR INSPECT <br><a style="color:darkred;" href="https://adrinspect.ro/" target=”_blank” rel="nofollow" >https://adrinspect.ro/</a><br> 
-	    AGRILAB SWISS ANALYTICS SRL <br><a style="color:darkred;" href="https://www.agrilab.ch" target=”_blank” rel="nofollow" >https://www.agrilab.ch</a><br> 
-	    ALL CERT PRODUCT SRL <br><a style="color:darkred;" href="https://allcertproduct.ro/" target=”_blank” rel="nofollow" >https://allcertproduct.ro/</a><br> 
-	    ALL CERT SYSTEMS SRL <br><a style="color:darkred;" href="https://www.allcert.ro/" target=”_blank” rel="nofollow" >https://www.allcert.ro/</a><br> 
-	    AMG INITIUM CERT SRL <br><a style="color:darkred;" href="https://www.initiumcert.ro/" target=”_blank” rel="nofollow" >https://www.initiumcert.ro/</a><br> 
-	    AMS 2000 TRADING IMPEX SRL <br><a style="color:darkred;" href="https://laboratorams.ro" target=”_blank” rel="nofollow" >https://laboratorams.ro</a><br> 
-	    AMSPEC ROMANIA SRL <br><a style="color:darkred;" href="https://www.amspecgroup.com" target=”_blank” rel="nofollow" >https://www.amspecgroup.com</a><br> 
-	    ARC BRAȘOV SRL <br><a style="color:darkred;" href="https://www.arc.ro" target=”_blank” rel="nofollow" >https://www.arc.ro</a><br>
-	    ASOCIAȚIA CLUSTER MOBILIER TRANSILVAN <br><a style="color:darkred;" href="https://mobiliertransilvan.ro/" target=”_blank” rel="nofollow" >https://mobiliertransilvan.ro/</a><br> 
-	    ATMP INSPECT SRL <br><a style="color:darkred;" href="https://atmpinspect.ro/" target=”_blank” rel="nofollow" >https://atmpinspect.ro/</a><br>
-	    BADOTHERM-AMC SA <br><a style="color:darkred;" href="https://www.badotherm.com" target=”_blank” rel="nofollow" >https://www.badotherm.com</a><br> 
-	    BUREAU VERITAS SRL <br><a style="color:darkred;" href="https://www.bureauveritas.ro" target=”_blank” rel="nofollow" >https://www.bureauveritas.ro</a><br>
-	    BIOTEHNOS SA <br><a style="color:darkred;" href="https://biotehnos.ro" target=”_blank” rel="nofollow" >https://biotehnos.ro</a><br>
-	    CEPROCIM SA <br><a style="color:darkred;" href="https://www.ceprocim.ro/" target=”_blank” rel="nofollow" >https://www.ceprocim.ro/</a><br>
-	    CEPROM SA <br><a style="color:darkred;" href="https://www.ceprom.ro" target=”_blank” rel="nofollow" >https://www.ceprom.ro</a><br>
-	    CERTIND SA <br><a style="color:darkred;" href="https://www.certind.ro" target=”_blank” rel="nofollow" >https://www.certind.ro</a><br>
-	    CERTINSPECT REGISTER SRL <br><a style="color:darkred;" href="https://www.certinspect.ro" target=”_blank” rel="nofollow" >https://www.certinspect.ro</a><br> 
-	    CERTROM SRL <br><a style="color:darkred;" href="https://certrom.ro" target=”_blank” rel="nofollow" >https://certrom.ro</a><br>
-	    CESIU SRL <br><a style="color:darkred;" href="https://www.cesiu.ro" target=”_blank” rel="nofollow" >https://www.cesiu.ro</a><br>
-	    CONTROL UNION ROMÂNIA SRL <br><a style="color:darkred;" href="https://www.controlunion.com/" target=”_blank” rel="nofollow" >https://www.controlunion.com/</a><br> 
-	    COTECNA ROMANIA SRL <br><a style="color:darkred;" href="https://www.cotecna.ro" target=”_blank” rel="nofollow" >https://www.cotecna.ro</a><br> 
-	    COV INSPECT SRL <br><a style="color:darkred;" href="https://www.cov.ro/" target=”_blank” rel="nofollow" >https://www.cov.ro/</a><br>
-	    DELTA TEST SRL <br><a style="color:darkred;" href="https://delta-test.ro" target=”_blank” rel="nofollow" >https://delta-test.ro</a><br> 
-	    DYOMEDICA CND SRL <br><a style="color:darkred;" href="https://dyomedicacnd.ro" target=”_blank” rel="nofollow" >https://dyomedicacnd.ro</a><br>
-	    ECOINSPECT SRL <br><a style="color:darkred;" href="https://www.ecoinspect.ro/" target=”_blank” rel="nofollow" >https://www.ecoinspect.ro/</a><br> 
-	    ECOCERT SRL <br><a style="color:darkred;" href="https://www.ecocert.com" target=”_blank” rel="nofollow" >https://www.ecocert.com</a> <br>
-	    ECO-BREF SRL <br><a style="color:darkred;" href="https://www.ecobref.ro" target=”_blank” rel="nofollow" >https://www.ecobref.ro</a><br>
-	    ECO LAB CONSULT SRL <br><a style="color:darkred;" href="https://www.ecolabconsult.ro" target=”_blank” rel="nofollow" >https://www.ecolabconsult.ro</a><br> 
-	    ECOROISCERT SRL <br><a style="color:darkred;" href="https://www.ecoroiscert.ro" target=”_blank” rel="nofollow" >https://www.ecoroiscert.ro</a> <br>
-	    ENVIRONMENTAL TESTING RÂȘNOV SRL <br><a style="color:darkred;" href="https://www.environmental-testing.ro" target=”_blank” rel="nofollow" >https://www.environmental-testing.ro</a><br> 
-	    EUROFINS FOOD TESTING SRL <br><a style="color:darkred;" href="https://www.eurofins.ro" target=”_blank” rel="nofollow" >https://www.eurofins.ro</a><br> 
-	    EUROTEST INSPECTION SRL <br><a style="color:darkred;" href="https://www.eurofins.ro" target=”_blank” rel="nofollow" >https://www.eurotestro.com</a><br>
-	    EXPERT CERT SYSTEMS SRL <br><a style="color:darkred;" href="https://expertcertsystems.ro/" target=”_blank” rel="nofollow" >https://expertcertsystems.ro</a><br> 
-	    FOTOMETRIC RESEARCH LABORATORY SRL <br><a style="color:darkred;" href="http://www.honeylab.ro" target=”_blank” rel="nofollow" >http://www.honeylab.ro/</a> <br>
-	    FUNDAȚIA PENTRU CONTROLUL CALITĂȚII LAPTELUI <br><a style="color:darkred;" href="https://www.control-lapte.ro/" target=”_blank” rel="nofollow" >https://www.control-lapte.ro/</a><br> 
-	    GEOSTUD SRL <br><a style="color:darkred;" href="https://www.geostud.ro" target=”_blank” rel="nofollow" >https://www.geostud.ro</a> <br>
-	    INDUSTRY LAB SRL <br><a style="color:darkred;" href="https://industrylab.ro" target=”_blank” rel="nofollow" >https://industrylab.ro</a> <br>
-	    INCERTRANS SA <br><a style="color:darkred;" href="https://incertrans.ro" target=”_blank” rel="nofollow" >https://incertrans.ro</a> <br>
-	    ICECON SA <br><a style="color:darkred;" href="https://icecon.ro" target=”_blank” rel="nofollow" >https://icecon.ro</a> <br>
-	    INTERNATIONAL CONTROL BUREAU SRL <br><a style="color:darkred;" href="https://ibcsurveyor.ro" target=”_blank” rel="nofollow" >https://ibcsurveyor.ro</a> <br>
-	    INTERTEK <br><a style="color:darkred;" href="https://www.intertek.com" target=”_blank” rel="nofollow" >https://www.intertek.com</a> <br>
-	    IPROCHIM SA <br><a style="color:darkred;" href="https://iprochim.ro" target=”_blank” rel="nofollow" >https://iprochim.ro</a> <br>
-	    IQLAB SERVICE SRL <br><a style="color:darkred;" href="https://www.iqlab.ro" target=”_blank” rel="nofollow" >https://www.iqlab.ro</a> <br>
-	    IRD CERTIFICARE <br><a style="color:darkred;" href="https://irdcertificare.ro/" target=”_blank” rel="nofollow" >https://irdcertificare.ro/</a> <br>
-	    J. S. HAMILTON ROMANIA SRL <br><a style="color:darkred;" href="https://hamilton.com.pl" target=”_blank” rel="nofollow" >https://hamilton.com.pl</a> <br>
-	    LABOREX 2000 SRL <br><a style="color:darkred;" href="https://www.laborex.ro" target=”_blank” rel="nofollow" >https://www.laborex.ro</a> <br>
-	    LABROM SRL <br><a style="color:darkred;" href="https://labrom.ro" target=”_blank” rel="nofollow" >https://labrom.ro</a> <br>
-	    LACECA SA <br><a style="color:darkred;" href="https://laceca.ro" target=”_blank” rel="nofollow" >https://laceca.ro</a> <br>
-	    LAJEDO SRL <br><a style="color:darkred;" href="https://lajedo.ro" target=”_blank” rel="nofollow" >https://lajedo.ro</a> <br>
-	    MANOR LABORATORY CENTER SRL <br><a style="color:darkred;" href="https://www.manorlaborator.ro" target=”_blank” rel="nofollow" >https://www.manorlaborator.ro</a> <br>
-	    MDM STANDARD SRL <br><a style="color:darkred;" href="https://www.mdmstandard.ro" target=”_blank” rel="nofollow" >https://www.mdmstandard.ro</a> <br>
-	    METRON SERV SRL <br><a style="color:darkred;" href="https://www.metronserv.ro" target=”_blank” rel="nofollow" >https://www.metronserv.ro</a> <br>
-	    METROSENZOR SRL <br><a style="color:darkred;" href="https://www.metrosenzor.ro" target=”_blank” rel="nofollow" >https://www.metrosenzor.ro</a> <br>
-	    MINEAR LABORATOARE SRL <br><a style="color:darkred;" href="https://www.minearlaboratoare.ro" target=”_blank” rel="nofollow" >https://www.minearlaboratoare.ro</a> <br>
-	    Mişcarea Română pentru Calitate <br><a style="color:darkred;" href="https://www.mrco.ro/" target=”_blank” rel="nofollow" >https://www.mrco.ro</a> <br>
-	    NATURAL CERT SRL <br><a style="color:darkred;" href="https://natural.org.ro" target=”_blank” rel="nofollow" >https://natural.org.ro</a> <br>
-	    NDT TESTING SRL <br><a style="color:darkred;" href="https://ndt-testing.ro" target=”_blank” rel="nofollow" >https://ndt-testing.ro</a> <br>
-	    OICPE SRL <br><a style="color:darkred;" href="https://www.oicpe.ro" target=”_blank” rel="nofollow" >https://www.oicpe.ro</a> <br>
-	    QUALITAS SA <br><a style="color:darkred;" href="https://www.qualitas.ro/" target=”_blank” rel="nofollow" >https://www.qualitas.ro/</a> <br>
-	    QUALITY-CERT SA <br><a style="color:darkred;" href="https://www.qualitycert.ro/" target=”_blank” rel="nofollow" >https://www.qualitycert.ro/</a> <br>
-	    RAD CERT SRL <br><a style="color:darkred;" href="https://radcert.ro/" target=”_blank” rel="nofollow" >https://radcert.ro/</a> <br>
-	    REGIO METRO CERT SRL <br><a style="color:darkred;" href="https://www.regiometrocert.ro/" target=”_blank” rel="nofollow" >https://www.regiometrocert.ro</a> <br>
-	    ROMCONTROL SA <br><a style="color:darkred;" href="https://www.romcontrol.ro" target=”_blank” rel="nofollow" >https://www.romcontrol.ro</a> <br>
-	    ROMVAC COMPANY SA <br><a style="color:darkred;" href="https://romvac.ro" target=”_blank” rel="nofollow" >https://romvac.ro</a> <br>
-	    SARTOROM IMPEX SRL <br><a style="color:dlarkred;" href="https://www.sartorom.ro" target=”_blank” rel="nofollow" >https://www.sartorom.ro</a> <br>
-	    SERVICE IMPLEMENTARE PRODUCȚIE SA <br><a style="color:darkred;" href="https://www.sip.ro" target=”_blank” rel="nofollow" >https://www.sip.ro</a> <br>
-	    SOCIETATEA DE CERTIFICARE ICECON CERT SRL <br><a style="color:darkred;" href="https://iceconcert.ro" target=”_blank” rel="nofollow" >https://iceconcert.ro</a> <br>
-	    ECHIP INSPECT SRL <br><a style="color:darkred;" href="https://util-inspect.ro" target=”_blank” rel="nofollow" >https://util-inspect.ro</a> <br>
-	    SOCIETATEA NAȚIONALĂ A APELOR MINERALE SA <br><a style="color:darkred;" href="https://www.snam.ro" target=”_blank” rel="nofollow" >https://www.snam.ro</a> <br>
-	    SOCIETATEA ROMÂNĂ PENTRU CERTIFICARE ROCERT SRL <br><a style="color:darkred;" href="https://www.rocert.ro" target=”_blank” rel="nofollow" >https://www.rocert.ro</a> <br>
-	    STRAERO SA <br><a style="color:darkred;" href="https://www.straero.ro" target=”_blank” rel="nofollow" >https://www.straero.ro</a> <br>
-	    SUN CERT SRL <br><a style="color:darkred;" href="https://suncert.ro/" target=”_blank” rel="nofollow" >https://suncert.ro</a> <br>
-	    TECHNICAL WELDING INSPECTION SRL <br><a style="color:darkred;" href="https://twicert.ro" target=”_blank” rel="nofollow" >https://twicert.ro</a> <br>
-	    TOP METROLOGY SRL <br><a style="color:darkred;" href="https://topmetrology.ro" target=”_blank” rel="nofollow" >https://topmetrology.ro</a> <br>
-	    TQ CONSULTANŢĂ ŞI RECRUTARE SRL <br><a style="color:darkred;" href="https://tqconsult.ro" target=”_blank” rel="nofollow" >https://tqconsult.ro</a> <br>
-	    TRESCAL ROMANIA SRL <br><a style="color:darkred;" href="https://www.trescal.com" target=”_blank” rel="nofollow" >https://www.trescal.com</a> <br>
-	    UNICERT SRL <br><a style="color:darkred;" href="https://unicert.ro/" target=”_blank” rel="nofollow" >https://unicert.ro</a> <br>
-	    UNILAB SRL <br><a style="color:darkred;" href="https://unilab.ro" target=”_blank” rel="nofollow" >https://unilab.ro</a> <br>
-	    VETWORK DIAGNOSTIX SRL <br><a style="color:darkred;" href="https://vetworkdiagnostix.ro" target=”_blank” rel="nofollow" >https://vetworkdiagnostix.ro</a> <br>
-	    RINA SIMTEX - ORGANISMUL DE CERTIFICARE SRL <br><a style="color:darkred;" href="https://www.rina.org/ro" target=”_blank” rel="nofollow" >https://www.rina.org/ro</a></h3><br>
+	     <h3>GENMAR COSMETICS S.R.L. <br><a style="color:darkred;" href="https://genmar.ro/laborator-analize/" target=”_blank” rel="nofollow" >https://genmar.ro/laborator-analize/</a></h3>
+	    <h3>SRAC CERT SRL <br><a style="color:darkred;" href="https://www.srac.ro" target=”_blank” rel="nofollow" >https://www.srac.ro</a></h3>
+	    <h3>ASOCIAŢIA ROMÂNĂ DE EXAMINĂRI NEDISTRUCTIVE - ARoENd <br><a style="color:darkred;" href="https://aroend.ro" target=”_blank” rel="nofollow" >https://aroend.ro</a></h3> 
+	    <h3>TÜV AUSTRIA ROMÂNIA SRL <br><a style="color:darkred;" href="https://www.tuv-austria.ro/" target=”_blank” rel="nofollow" >https://www.tuv-austria.ro</a></h3> 
+	    <h3>BLUMENFIELD SRL <br><a style="color:darkred;" href="https://blumenfield.ro" target=”_blank” rel="nofollow" >https://blumenfield.ro</a></h3>
+	    <h3>AEROQ SA <br><a style="color:darkred;" href="https://www.aeroq.ro" target=”_blank” rel="nofollow" >https://www.aeroq.ro</a></h3>
+	    <h3>ADR INSPECT <br><a style="color:darkred;" href="https://adrinspect.ro/" target=”_blank” rel="nofollow" >https://adrinspect.ro/</a></h3> 
+	    <h3>AGRILAB SWISS ANALYTICS SRL <br><a style="color:darkred;" href="https://www.agrilab.ch" target=”_blank” rel="nofollow" >https://www.agrilab.ch</a></h3>
+	    <h3>ALL CERT PRODUCT SRL <br><a style="color:darkred;" href="https://allcertproduct.ro/" target=”_blank” rel="nofollow" >https://allcertproduct.ro/</a></h3>
+	    <h3>ALL CERT SYSTEMS SRL <br><a style="color:darkred;" href="https://www.allcert.ro/" target=”_blank” rel="nofollow" >https://www.allcert.ro/</a></h3> 
+	    <h3>AMG INITIUM CERT SRL <br><a style="color:darkred;" href="https://www.initiumcert.ro/" target=”_blank” rel="nofollow" >https://www.initiumcert.ro/</a></h3> 
+	    <h3>AMS 2000 TRADING IMPEX SRL <br><a style="color:darkred;" href="https://laboratorams.ro" target=”_blank” rel="nofollow" >https://laboratorams.ro</a></h3>
+	    <h3>AMSPEC ROMANIA SRL <br><a style="color:darkred;" href="https://www.amspecgroup.com" target=”_blank” rel="nofollow" >https://www.amspecgroup.com</a></h3> 
+	    <h3>ARC BRAȘOV SRL <br><a style="color:darkred;" href="https://www.arc.ro" target=”_blank” rel="nofollow" >https://www.arc.ro</a></h3>
+	    <h3>ASOCIAȚIA CLUSTER MOBILIER TRANSILVAN <br><a style="color:darkred;" href="https://mobiliertransilvan.ro/" target=”_blank” rel="nofollow" >https://mobiliertransilvan.ro/</a></h3> 
+	    <h3>ATMP INSPECT SRL <br><a style="color:darkred;" href="https://atmpinspect.ro/" target=”_blank” rel="nofollow" >https://atmpinspect.ro/</a></h3>
+	    <h3>BADOTHERM-AMC SA <br><a style="color:darkred;" href="https://www.badotherm.com" target=”_blank” rel="nofollow" >https://www.badotherm.com</a></h3>
+	    <h3>BUREAU VERITAS SRL <br><a style="color:darkred;" href="https://www.bureauveritas.ro" target=”_blank” rel="nofollow" >https://www.bureauveritas.ro</a></h3>
+	    <h3>BIOTEHNOS SA <br><a style="color:darkred;" href="https://biotehnos.ro" target=”_blank” rel="nofollow" >https://biotehnos.ro</a></h3>
+	    <h3>CEPROCIM SA <br><a style="color:darkred;" href="https://www.ceprocim.ro/" target=”_blank” rel="nofollow" >https://www.ceprocim.ro/</a></h3>
+	    <h3>CEPROM SA <br><a style="color:darkred;" href="https://www.ceprom.ro" target=”_blank” rel="nofollow" >https://www.ceprom.ro</a></h3>
+	    <h3>CERTIND SA <br><a style="color:darkred;" href="https://www.certind.ro" target=”_blank” rel="nofollow" >https://www.certind.ro</a></h3>
+	    <h3>CERTINSPECT REGISTER SRL <br><a style="color:darkred;" href="https://www.certinspect.ro" target=”_blank” rel="nofollow" >https://www.certinspect.ro</a></h3>
+	    <h3>CERTROM SRL <br><a style="color:darkred;" href="https://certrom.ro" target=”_blank” rel="nofollow" >https://certrom.ro</a></h3>
+	    <h3>CESIU SRL <br><a style="color:darkred;" href="https://www.cesiu.ro" target=”_blank” rel="nofollow" >https://www.cesiu.ro</a></h3>
+	    <h3>CONTROL UNION ROMÂNIA SRL <br><a style="color:darkred;" href="https://www.controlunion.com/" target=”_blank” rel="nofollow" >https://www.controlunion.com/</a></h3>
+	    <h3>COTECNA ROMANIA SRL <br><a style="color:darkred;" href="https://www.cotecna.ro" target=”_blank” rel="nofollow" >https://www.cotecna.ro</a></h3>
+	    <h3>COV INSPECT SRL <br><a style="color:darkred;" href="https://www.cov.ro/" target=”_blank” rel="nofollow" >https://www.cov.ro/</a></h3>
+	    <h3>DELTA TEST SRL <br><a style="color:darkred;" href="https://delta-test.ro" target=”_blank” rel="nofollow" >https://delta-test.ro</a></h3>
+	    <h3>DYOMEDICA CND SRL <br><a style="color:darkred;" href="https://dyomedicacnd.ro" target=”_blank” rel="nofollow" >https://dyomedicacnd.ro</a></h3>
+	    <h3>ECOINSPECT SRL <br><a style="color:darkred;" href="https://www.ecoinspect.ro/" target=”_blank” rel="nofollow" >https://www.ecoinspect.ro/</a></h3>
+	    <h3>ECOCERT SRL <br><a style="color:darkred;" href="https://www.ecocert.com" target=”_blank” rel="nofollow" >https://www.ecocert.com</a></h3>
+	    <h3>ECO-BREF SRL <br><a style="color:darkred;" href="https://www.ecobref.ro" target=”_blank” rel="nofollow" >https://www.ecobref.ro</a></h3>
+	    <h3>ECO LAB CONSULT SRL <br><a style="color:darkred;" href="https://www.ecolabconsult.ro" target=”_blank” rel="nofollow" >https://www.ecolabconsult.ro</a></h3>
+	    <h3>ECOROISCERT SRL <br><a style="color:darkred;" href="https://www.ecoroiscert.ro" target=”_blank” rel="nofollow" >https://www.ecoroiscert.ro</a></h3>
+	    <h3>ENVIRONMENTAL TESTING RÂȘNOV SRL <br><a style="color:darkred;" href="https://www.environmental-testing.ro" target=”_blank” rel="nofollow" >https://www.environmental-testing.ro</a></h3> 
+	    <h3>EUROFINS FOOD TESTING SRL <br><a style="color:darkred;" href="https://www.eurofins.ro" target=”_blank” rel="nofollow" >https://www.eurofins.ro</a></h3>
+	    <h3>EUROTEST INSPECTION SRL <br><a style="color:darkred;" href="https://www.eurofins.ro" target=”_blank” rel="nofollow" >https://www.eurotestro.com</a></h3>
+	    <h3>EXPERT CERT SYSTEMS SRL <br><a style="color:darkred;" href="https://expertcertsystems.ro/" target=”_blank” rel="nofollow" >https://expertcertsystems.ro</a></h3>
+	    <h3>FOTOMETRIC RESEARCH LABORATORY SRL <br><a style="color:darkred;" href="http://www.honeylab.ro" target=”_blank” rel="nofollow" >http://www.honeylab.ro/</a></h3>
+	    <h3>FUNDAȚIA PENTRU CONTROLUL CALITĂȚII LAPTELUI <br><a style="color:darkred;" href="https://www.control-lapte.ro/" target=”_blank” rel="nofollow" >https://www.control-lapte.ro/</a></h3>
+	    <h3>GEOSTUD SRL <br><a style="color:darkred;" href="https://www.geostud.ro" target=”_blank” rel="nofollow" >https://www.geostud.ro</a></h3>
+	    <h3>INDUSTRY LAB SRL <br><a style="color:darkred;" href="https://industrylab.ro" target=”_blank” rel="nofollow" >https://industrylab.ro</a></h3>
+	    <h3>INCERTRANS SA <br><a style="color:darkred;" href="https://incertrans.ro" target=”_blank” rel="nofollow" >https://incertrans.ro</a></h3>
+	    <h3>ICECON SA <br><a style="color:darkred;" href="https://icecon.ro" target=”_blank” rel="nofollow" >https://icecon.ro</a></h3>
+	    <h3>INTERNATIONAL CONTROL BUREAU SRL <br><a style="color:darkred;" href="https://ibcsurveyor.ro" target=”_blank” rel="nofollow" >https://ibcsurveyor.ro</a></h3>
+	    <h3>INTERTEK <br><a style="color:darkred;" href="https://www.intertek.com" target=”_blank” rel="nofollow" >https://www.intertek.com</a></h3>
+	    <h3>IPROCHIM SA <br><a style="color:darkred;" href="https://iprochim.ro" target=”_blank” rel="nofollow" >https://iprochim.ro</a></h3>
+	    <h3>IQLAB SERVICE SRL <br><a style="color:darkred;" href="https://www.iqlab.ro" target=”_blank” rel="nofollow" >https://www.iqlab.ro</a></h3>
+	    <h3>IRD CERTIFICARE <br><a style="color:darkred;" href="https://irdcertificare.ro/" target=”_blank” rel="nofollow" >https://irdcertificare.ro/</a></h3>
+	    <h3>J. S. HAMILTON ROMANIA SRL <br><a style="color:darkred;" href="https://hamilton.com.pl" target=”_blank” rel="nofollow" >https://hamilton.com.pl</a></h3>
+	    <h3>LABOREX 2000 SRL <br><a style="color:darkred;" href="https://www.laborex.ro" target=”_blank” rel="nofollow" >https://www.laborex.ro</a></h3>
+	    <h3>LABROM SRL <br><a style="color:darkred;" href="https://labrom.ro" target=”_blank” rel="nofollow" >https://labrom.ro</a></h3>
+	    <h3>LACECA SA <br><a style="color:darkred;" href="https://laceca.ro" target=”_blank” rel="nofollow" >https://laceca.ro</a></h3>
+	    <h3>LAJEDO SRL <br><a style="color:darkred;" href="https://lajedo.ro" target=”_blank” rel="nofollow" >https://lajedo.ro</a></h3>
+	    <h3>MANOR LABORATORY CENTER SRL <br><a style="color:darkred;" href="https://www.manorlaborator.ro" target=”_blank” rel="nofollow" >https://www.manorlaborator.ro</a></h3>
+	    <h3>MDM STANDARD SRL <br><a style="color:darkred;" href="https://www.mdmstandard.ro" target=”_blank” rel="nofollow" >https://www.mdmstandard.ro</a></h3>
+	    <h3>METRON SERV SRL <br><a style="color:darkred;" href="https://www.metronserv.ro" target=”_blank” rel="nofollow" >https://www.metronserv.ro</a></h3>
+	    <h3>METROSENZOR SRL <br><a style="color:darkred;" href="https://www.metrosenzor.ro" target=”_blank” rel="nofollow" >https://www.metrosenzor.ro</a></h3>
+	    <h3>MINEAR LABORATOARE SRL <br><a style="color:darkred;" href="https://www.minearlaboratoare.ro" target=”_blank” rel="nofollow" >https://www.minearlaboratoare.ro</a></h3>
+	    <h3>Mişcarea Română pentru Calitate <br><a style="color:darkred;" href="https://www.mrco.ro/" target=”_blank” rel="nofollow" >https://www.mrco.ro</a></h3>
+	    <h3>NATURAL CERT SRL <br><a style="color:darkred;" href="https://natural.org.ro" target=”_blank” rel="nofollow" >https://natural.org.ro</a></h3>
+	    <h3>NDT TESTING SRL <br><a style="color:darkred;" href="https://ndt-testing.ro" target=”_blank” rel="nofollow" >https://ndt-testing.ro</a></h3>
+	    <h3>OICPE SRL <br><a style="color:darkred;" href="https://www.oicpe.ro" target=”_blank” rel="nofollow" >https://www.oicpe.ro</a></h3>
+	    <h3>QUALITAS SA <br><a style="color:darkred;" href="https://www.qualitas.ro/" target=”_blank” rel="nofollow" >https://www.qualitas.ro/</a></h3>
+	    <h3>QUALITY-CERT SA <br><a style="color:darkred;" href="https://www.qualitycert.ro/" target=”_blank” rel="nofollow" >https://www.qualitycert.ro/</a></h3>
+	    <h3>RAD CERT SRL <br><a style="color:darkred;" href="https://radcert.ro/" target=”_blank” rel="nofollow" >https://radcert.ro/</a></h3>
+	    <h3>REGIO METRO CERT SRL <br><a style="color:darkred;" href="https://www.regiometrocert.ro/" target=”_blank” rel="nofollow" >https://www.regiometrocert.ro</a></h3>
+	    <h3>ROMCONTROL SA <br><a style="color:darkred;" href="https://www.romcontrol.ro" target=”_blank” rel="nofollow" >https://www.romcontrol.ro</a></h3>
+	    <h3>ROMVAC COMPANY SA <br><a style="color:darkred;" href="https://romvac.ro" target=”_blank” rel="nofollow" >https://romvac.ro</a></h3>
+	    <h3>SARTOROM IMPEX SRL <br><a style="color:dlarkred;" href="https://www.sartorom.ro" target=”_blank” rel="nofollow" >https://www.sartorom.ro</a></h3>
+	    <h3>SERVICE IMPLEMENTARE PRODUCȚIE SA <br><a style="color:darkred;" href="https://www.sip.ro" target=”_blank” rel="nofollow" >https://www.sip.ro</a></h3>
+	    <h3>SOCIETATEA DE CERTIFICARE ICECON CERT SRL <br><a style="color:darkred;" href="https://iceconcert.ro" target=”_blank” rel="nofollow" >https://iceconcert.ro</a></h3>
+	    <h3>ECHIP INSPECT SRL <br><a style="color:darkred;" href="https://util-inspect.ro" target=”_blank” rel="nofollow" >https://util-inspect.ro</a></h3>
+	    <h3>SOCIETATEA NAȚIONALĂ A APELOR MINERALE SA <br><a style="color:darkred;" href="https://www.snam.ro" target=”_blank” rel="nofollow" >https://www.snam.ro</a></h3>
+	    <h3>SOCIETATEA ROMÂNĂ PENTRU CERTIFICARE ROCERT SRL <br><a style="color:darkred;" href="https://www.rocert.ro" target=”_blank” rel="nofollow" >https://www.rocert.ro</a></h3>
+	    <h3>STRAERO SA <br><a style="color:darkred;" href="https://www.straero.ro" target=”_blank” rel="nofollow" >https://www.straero.ro</a></h3>
+	    <h3>SUN CERT SRL <br><a style="color:darkred;" href="https://suncert.ro/" target=”_blank” rel="nofollow" >https://suncert.ro</a></h3>
+	    <h3>TECHNICAL WELDING INSPECTION SRL <br><a style="color:darkred;" href="https://twicert.ro" target=”_blank” rel="nofollow" >https://twicert.ro</a></h3>
+	    <h3>TOP METROLOGY SRL <br><a style="color:darkred;" href="https://topmetrology.ro" target=”_blank” rel="nofollow" >https://topmetrology.ro</a></h3>
+	    <h3>TQ CONSULTANŢĂ ŞI RECRUTARE SRL <br><a style="color:darkred;" href="https://tqconsult.ro" target=”_blank” rel="nofollow" >https://tqconsult.ro</a></h3>
+	    <h3>TRESCAL ROMANIA SRL <br><a style="color:darkred;" href="https://www.trescal.com" target=”_blank” rel="nofollow" >https://www.trescal.com</a></h3>
+	    <h3>UNICERT SRL <br><a style="color:darkred;" href="https://unicert.ro/" target=”_blank” rel="nofollow" >https://unicert.ro</a></h3>
+	    <h3>UNILAB SRL <br><a style="color:darkred;" href="https://unilab.ro" target=”_blank” rel="nofollow" >https://unilab.ro</a></h3>
+	    <h3>VETWORK DIAGNOSTIX SRL <br><a style="color:darkred;" href="https://vetworkdiagnostix.ro" target=”_blank” rel="nofollow" >https://vetworkdiagnostix.ro</a></h3>
+	    <h3>RINA SIMTEX - ORGANISMUL DE CERTIFICARE SRL <br><a style="color:darkred;" href="https://www.rina.org/ro" target=”_blank” rel="nofollow" >https://www.rina.org/ro</a></h3><br>
  
 
 	<h2>Authorized appraisers</h2>
@@ -9092,211 +9288,211 @@ For some products we will try to find suppliers that offer international warrant
 <h3><b>Banks want legal documents before they allow transactions with companies from countries in this list</b></h3>
 <h2><b>It's just a guide, you will need to contact your bank to see what countries is on their list. Each bank has it's own policy.</b></h2>
 
- <h3>
-  - <span id="en" >The contract</span><br> 
-  - <span id="en" >Invoice / invoices, to cover the value of the transaction</span><br> 
-  - <span id="en" >Certificate of origin issued by the competent authority of the country (or an equivalent document that certifies both the country of the producer and his company name )</span><br>  
-  - <span id="en" >Inspection certificates ( e.g. phytosanitary certificate / health - veterinary certificate and so on )</span> <br>  
-  - <span id="en" >Declaration / certificate of conformity with technical documentation proof</span> <br> 
-  - <span id="en" >Laboratory analysis proof that shows the products are safe and according to EU standards</span> <br>   
-  - <span id="en" >Transport documents</span> <br>  
-  - <span id="en" >The banks may request additional information/documents to clarify the purpose and nature of transactions</span> 
- 
-</h3>
+
+   <h3>- <span id="en" >The contract</span></h3>
+   <h3>- <span id="en" >Invoice / invoices, to cover the value of the transaction</span></h3>
+   <h3>- <span id="en" >Certificate of origin issued by the competent authority of the country (or an equivalent document that certifies both the country of the producer and his company name )</span></h3> 
+   <h3>- <span id="en" >Inspection certificates ( e.g. phytosanitary certificate / health - veterinary certificate and so on )</span></h3>  
+   <h3>- <span id="en" >Declaration / certificate of conformity with technical documentation proof</span></h3>
+   <h3>- <span id="en" >Laboratory analysis proof that shows the products are safe and according to EU standards</span></h3>   
+   <h3>- <span id="en" >Transport documents</span></h3>
+   <h3>- <span id="en" >The banks may request additional information/documents to clarify the purpose and nature of transactions</span></h3> 
+ <br>
+
 
  <h2><b>Countries</b></h2> 
  <h3>
-- <span id="en">Bahamas</span><br> 
-- <span id="en">Jamaica</span><br>  
-- <span id="en">Saint Kitts And Nevis</span><br> 
-- <span id="en">Antigua And Barbuda</span><br> 
-- <span id="en">Montserrat</span><br> 
-- <span id="en">Dominica</span<br> 
-- <span id="en">Saint Lucia</span><br> 
-- <span id="en">Saint Vincent And The Grenadines</span><br> 
-- <span id="en">Barbados</span><br> 
-- <span id="en">Grenada</span><br> 
+<h3>- <span id="en">Bahamas</span></h3> 
+<h3>- <span id="en">Jamaica</span></h3>
+<h3>- <span id="en">Saint Kitts And Nevis</span></h3>
+<h3>- <span id="en">Antigua And Barbuda</span></h3> 
+<h3>- <span id="en">Montserrat</span></h3>
+<h3>- <span id="en">Dominica</span</h3>
+<h3>- <span id="en">Saint Lucia</span></h3>
+<h3>- <span id="en">Saint Vincent And The Grenadines</span></h3>
+<h3>- <span id="en">Barbados</span></h3>
+<h3>- <span id="en">Grenada</span></h3>
 <br>
-- <span id="en">Guatemala</span><br> 
-- <span id="en">Belize</span><br> 
-- <span id="en">Nicaragua</span><br> 
-- <span id="en">Costa Rica</span><br> 
-- <span id="en">Guyana</span><br> 
-- <span id="en">Ecuador</span><br> 
-- <span id="en">Uruguay</span><br> 
+<h3>- <span id="en">Guatemala</span></h3>
+<h3>- <span id="en">Belize</span></h3>
+<h3>- <span id="en">Nicaragua</span></h3>
+<h3>- <span id="en">Costa Rica</span></h3>
+<h3>- <span id="en">Guyana</span></h3> 
+<h3>- <span id="en">Ecuador</span></h3>
+<h3>- <span id="en">Uruguay</span></h3>
 <br>
-- <span id="en">Nauru</span><br> 
-- <span id="en">Marshall Islands</span><br> 
-- <span id="en">Australia</span><br> 
+<h3>- <span id="en">Nauru</span></h3>
+<h3>- <span id="en">Marshall Islands</span></h3>
+<h3>- <span id="en">Australia</span></h3>
 <br>
-- <span id="en">Philippines</span><br> 
-- <span id="en">Hong Kong - China</span><br> 
-- <span id="en">Macao</span><br> 
-- <span id="en">Brunei Darussalam</span><br> 
-- <span id="en">Mongolia</span><br> 
-- <span id="en">Vietnam</span><br> 
-- <span id="en">Cambodia</span><br> 
-- <span id="en">Lao People's Democratic Republic</span><br> 
-- <span id="en">Malaysia</span><br> 
-- <span id="en">Singapore</span><br> 
-- <span id="en">Thailand</span><br> 
-- <span id="en">Sri Lanka</span><br> 	
-- <span id="en">Pakistan</span><br> 		    
-- <span id="en">Maldives</span><br> 
+<h3>- <span id="en">Philippines</span></h3>
+<h3>- <span id="en">Hong Kong - China</span></h3>
+<h3>- <span id="en">Macao</span></h3> 
+<h3>- <span id="en">Brunei Darussalam</span></h3>
+<h3>- <span id="en">Mongolia</span></h3>
+<h3>- <span id="en">Vietnam</span></h3>
+<h3>- <span id="en">Cambodia</span></h3>
+<h3>- <span id="en">Lao People's Democratic Republic</span></h3>
+<h3>- <span id="en">Malaysia</span></h3>
+<h3>- <span id="en">Singapore</span></h3>
+<h3>- <span id="en">Thailand</span></h3>
+<h3>- <span id="en">Sri Lanka</span></h3> 	
+<h3>- <span id="en">Pakistan</span></h3>		    
+<h3>- <span id="en">Maldives</span></h3>
 <br>
-- <span id="en">Bahrain</span><br> 
-- <span id="en">United Arab Emirates</span><br> 	
-- <span id="en">Turkey</span><br> 
-- <span id="en">Jordan</span><br> 	
-- <span id="en">Palestine</span><br> 
-- <span id="en">Egypt</span><br> 
-- <span id="en">Tunisia</span><br> 
-- <span id="en">Mali</span><br> 
-- <span id="en">Algeria</span><br> 
-- <span id="en">Angola</span><br> 
-- <span id="en">Burkina Faso</span><br> 
-- <span id="en">Guinea-bissau</span><br> 
-- <span id="en">Guinea</span><br> 
-- <span id="en">Liberia</span><br> 
-- <span id="en">Cote D'ivoire</span><br> 
-- <span id="en">Ghana</span><br> 
-- <span id="en">Nigeria</span><br> 	
-- <span id="en">Cameroon</span><br> 
-- <span id="en">Botswana</span><br> 
-- <span id="en">Zimbabwe</span><br> 
-- <span id="en">Swaziland / eSwatini</span><br> 
-- <span id="en">Mauritius</span><br> 		
-- <span id="en">Seychelles</span><br> 	
-- <span id="en">Burundi</span><br> 
-- <span id="en">Uganda</span><br> 
-- <span id="en">Ethiopia</span><br> 	
-- <span id="en">Kenya</span><br> 
-- <span id="en">Mozambique</span><br> 
-- <span id="en">Namibia</span><br> 	
-- <span id="en">South Africa</span><br>     
-- <span id="en">Tanzania</span><br>         	
-- <span id="en">Senegal</span><br>        	        	             
+<h3>- <span id="en">Bahrain</span></h3>
+<h3>- <span id="en">United Arab Emirates</span></h3>	
+<h3>- <span id="en">Turkey</span></h3>
+<h3>- <span id="en">Jordan</span></h3>
+<h3>- <span id="en">Palestine</span></h3>
+<h3>- <span id="en">Egypt</span></h3>
+<h3>- <span id="en">Tunisia</span></h3>
+<h3>- <span id="en">Mali</span></h3>
+<h3>- <span id="en">Algeria</span></h3>
+<h3>- <span id="en">Angola</span></h3> 
+<h3>- <span id="en">Burkina Faso</span></h3> 
+<h3>- <span id="en">Guinea-bissau</span></h3>
+<h3>- <span id="en">Guinea</span></h3>
+<h3>- <span id="en">Liberia</span></h3> 
+<h3>- <span id="en">Cote D'ivoire</span></h3>
+<h3>- <span id="en">Ghana</span></h3> 
+<h3>- <span id="en">Nigeria</span></h3> 	
+<h3>- <span id="en">Cameroon</span></h3>
+<h3>- <span id="en">Botswana</span></h3>
+<h3>- <span id="en">Zimbabwe</span></h3> 
+<h3>- <span id="en">Swaziland / eSwatini</span></h3>
+<h3>- <span id="en">Mauritius</span></h3>		
+<h3>- <span id="en">Seychelles</span></h3>	
+<h3>- <span id="en">Burundi</span></h3>
+<h3>- <span id="en">Uganda</span></h3>
+<h3>- <span id="en">Ethiopia</span></h3>	
+<h3>- <span id="en">Kenya</span></h3>
+<h3>- <span id="en">Mozambique</span></h3>
+<h3>- <span id="en">Namibia</span></h3>
+<h3>- <span id="en">South Africa</span></h3>    
+<h3>- <span id="en">Tanzania</span></h3>       	
+<h3>- <span id="en">Senegal</span></h3>        	        	             
 <br>
-- <span id="en">Ireland</span><br> 
-- <span id="en">Andorra</span><br> 	
-- <span id="en">Monaco</span><br> 
-- <span id="en">Switzerland</span><br> 	    
-- <span id="en">Luxembourg</span><br> 
-- <span id="en">Liechtenstein</span><br> 
-- <span id="en">San Marino</span><br> 
-- <span id="en">Malta</span><br> 	
-- <span id="en">Cyprus Republic</span><br> 		
-- <span id="en">Bosnia And Herzegovina</span><br>  
-- <span id="en">Bulgaria</span><br>  
-- <span id="en">Croatia</span><br>  
-- <span id="en">Romania</span><br>  
-- <span id="en">Albania</span></h3>
- <br>
+<h3>- <span id="en">Ireland</span></h3>
+<h3>- <span id="en">Andorra</span></h3>
+<h3>- <span id="en">Monaco</span></h3>
+<h3>- <span id="en">Switzerland</span></h3>	    
+<h3>- <span id="en">Luxembourg</span></h3> 
+<h3>- <span id="en">Liechtenstein</span></h3>
+<h3>- <span id="en">San Marino</span></h3>
+<h3>- <span id="en">Malta</span></h3> 	
+<h3>- <span id="en">Cyprus Republic</span></h3>	
+<h3>- <span id="en">Bosnia And Herzegovina</span></h3>  
+<h3>- <span id="en">Bulgaria</span></h3>  
+<h3>- <span id="en">Croatia</span></h3> 
+<h3>- <span id="en">Romania</span></h3>  
+<h3>- <span id="en">Albania</span></h3>
+ <br><br>
  
 
 <h3><b>Dependencies and Areas of Special Sovereignty</b></h3>
 
 <h2><b>United States</b></h2>
-<h3>
-- <span id="en">Jarvis Island</span><br> 
-- <span id="en">American Samoa</span><br> 
-- <span id="en">Baker Island</span><br> 
-- <span id="en">Guam</span><br> 
-- <span id="en">Howland Island</span><br> 
-- <span id="en">Johnston Atoll</span><br> 
-- <span id="en">Kingman Reef</span><br> 
-- <span id="en">Midway Islands</span><br> 
-- <span id="en">Navassa Island</span><br> 
-- <span id="en">Northern Mariana Islands</span><br> 
-- <span id="en">Palmyra Atoll</span><br> 
-- <span id="en">Puerto Rico</span><br> 
-- <span id="en">Virgin Islands, U.S.</span><br> 
-- <span id="en">Wake Island</span><br> 
-</h3>
+ 
+<h3>- <span id="en">Jarvis Island</span></h3>
+<h3>- <span id="en">American Samoa</span></h3>
+<h3>- <span id="en">Baker Island</span></h3>
+<h3>- <span id="en">Guam</span></h3> 
+<h3>- <span id="en">Howland Island</span></h3>
+<h3>- <span id="en">Johnston Atoll</span></h3> 
+<h3>- <span id="en">Kingman Reef</span></h3> 
+<h3>- <span id="en">Midway Islands</span></h3>
+<h3>- <span id="en">Navassa Island</span></h3>
+<h3>- <span id="en">Northern Mariana Islands</span></h3>
+<h3>- <span id="en">Palmyra Atoll</span></h3> 
+<h3>- <span id="en">Puerto Rico</span></h3>
+<h3>- <span id="en">Virgin Islands, U.S.</span></h3> 
+<h3>- <span id="en">Wake Island</span></h3>
+ 
 <br>
 <h2><b>United Kingdom</b></h2>
-<h3>
-- <span id="en">Akrotiri</span><br> 
-- <span id="en">Anguilla</span><br> 
-- <span id="en">Bermuda</span><br> 
-- <span id="en">British Indian Ocean Territory</span><br> 
-- <span id="en">Cayman Islands</span><br> 
-- <span id="en">Akrotiri and Dhekelia</span><br> 
-- <span id="en">Falkland Islands</span><br> 
-- <span id="en">Gibraltar</span><br> 
-- <span id="en">Guernsey</span><br> 
-- <span id="en">Isle of Man</span><br> 
-- <span id="en">Jersey</span><br> 
-- <span id="en">Montserrat</span><br> 
-- <span id="en">Pitcairn Islands</span><br> 
-- <span id="en">Saint Helena, Ascension, and Tristan da Cunha</span><br> 
-- <span id="en">South Georgia and the South Sandwich Islands</span><br> 
-- <span id="en">Turks and  Caicos Islands</span><br> 
-- <span id="en">Virgin Islands, British</span><br> 
-- <span id="en">Pitcairn</span><br> 
-</h3>
+ 
+<h3>- <span id="en">Akrotiri</span></h3>
+<h3>- <span id="en">Anguilla</span></h3> 
+<h3>- <span id="en">Bermuda</span></h3>
+<h3>- <span id="en">British Indian Ocean Territory</span></h3>
+<h3>- <span id="en">Cayman Islands</span></h3> 
+<h3>- <span id="en">Akrotiri and Dhekelia</span></h3>
+<h3>- <span id="en">Falkland Islands</span></h3>
+<h3>- <span id="en">Gibraltar</span></h3>
+<h3>- <span id="en">Guernsey</span></h3>
+<h3>- <span id="en">Isle of Man</span></h3>
+<h3>- <span id="en">Jersey</span></h3> 
+<h3>- <span id="en">Montserrat</span></h3> 
+<h3>- <span id="en">Pitcairn Islands</span></h3> 
+<h3>- <span id="en">Saint Helena, Ascension, and Tristan da Cunha</span></h3>
+<h3>- <span id="en">South Georgia and the South Sandwich Islands</span></h3>
+<h3>- <span id="en">Turks and  Caicos Islands</span></h3> 
+<h3>- <span id="en">Virgin Islands, British</span></h3>
+<h3>- <span id="en">Pitcairn</span></h3> 
+ 
 <br>
 <h2><b>Australia</b></h2>
-<h3>
-- <span id="en">Ashmore and Cartier Islands</span><br> 
-- <span id="en">Christmas Island</span><br> 
-- <span id="en">Cocos (Keeling) Islands</span><br> 
-- <span id="en">Coral Sea Islands</span><br> 
-- <span id="en">Heard Island and McDonald Islands</span><br> 
-- <span id="en">Norfolk Island</span><br> 
-</h3>
+ 
+<h3>- <span id="en">Ashmore and Cartier Islands</span></h3>
+<h3>- <span id="en">Christmas Island</span></h3> 
+<h3>- <span id="en">Cocos (Keeling) Islands</span></h3> 
+<h3>- <span id="en">Coral Sea Islands</span></h3>
+<h3>- <span id="en">Heard Island and McDonald Islands</span></h3>
+<h3>- <span id="en">Norfolk Island</span></h3>
+ 
 <br>
 <h2><b>New Zealand</b></h2>
-<h3>
-- <span id="en">Niue</span><br> 
-- <span id="en">Cook Islands</span><br> 
-- <span id="en">Tokelau</span><br> 
-</h3>
+ 
+<h3>- <span id="en">Niue</span></h3>
+<h3>- <span id="en">Cook Islands</span></h3>
+<h3>- <span id="en">Tokelau</span></h3>
+ 
 <br>
 <h2><b>France</b></h2>
-<h3>
-- <span id="en">Clipperton Island</span><br> 
-- <span id="en">French Guiana</span><br> 
-- <span id="en">French Polynesia</span><br> 
-- <span id="en">Guadeloupe</span><br> 
-- <span id="en">Martinique</span><br> 
-- <span id="en">Mayotte</span><br> 
-- <span id="en">New Caledonia</span><br> 
-- <span id="en">Reunion</span><br> 
-- <span id="en">Saint Barthélemy</span><br> 
-- <span id="en">Saint Martin</span><br> 
-- <span id="en">Saint Pierre and Miquelon</span><br> 
-- <span id="en">Wallis and Futuna</span><br> 
-</h3>
+ 
+<h3>- <span id="en">Clipperton Island</span></h3>
+<h3>- <span id="en">French Guiana</span></h3>
+<h3>- <span id="en">French Polynesia</span></h3>
+<h3>- <span id="en">Guadeloupe</span></h3> 
+<h3>- <span id="en">Martinique</span></h3>
+<h3>- <span id="en">Mayotte</span></h3>
+<h3>- <span id="en">New Caledonia</span></h3> 
+<h3>- <span id="en">Reunion</span></h3> 
+<h3>- <span id="en">Saint Barthélemy</span></h3>
+<h3>- <span id="en">Saint Martin</span></h3> 
+<h3>- <span id="en">Saint Pierre and Miquelon</span></h3> 
+<h3>- <span id="en">Wallis and Futuna</span></h3>
+ 
 <br>
 <h2><b>Netherlands</b></h2>
 <h3>
-- <span id="en">Sint Eustatius</span><br> 
-- <span id="en">Saba</span><br> 
-- <span id="en">Bonaire</span><br> 
-- <span id="en">Sint Maarten</span><br> 
-- <span id="en">Aruba</span><br> 
-- <span id="en">Curaçao</span><br> 
-</h3>
+<h3>- <span id="en">Sint Eustatius</span></h3> 
+<h3>- <span id="en">Saba</span></h3> 
+<h3>- <span id="en">Bonaire</span></h3>
+<h3>- <span id="en">Sint Maarten</span></h3>
+<h3>- <span id="en">Aruba</span></h3>
+<h3>- <span id="en">Curaçao</span></h3> 
+ 
 <br>
 <h2><b>Norway</b></h2>
-<h3>
-- <span id="en">Bouvet Island</span><br> 
-- <span id="en">Jan Mayen</span><br> 
-- <span id="en">Svalbard</span><br> 
-</h3>
+ 
+<h3>- <span id="en">Bouvet Island</span></h3> 
+<h3>- <span id="en">Jan Mayen</span></h3>
+<h3>- <span id="en">Svalbard</span></h3>
+ 
 <br>
 <h2><b>Denmark</b></h2>
 <h3>
-- <span id="en">Faroe Islands</span><br> 
-- <span id="en">Greenland</span><br> 
-</h3>
+<h3>- <span id="en">Faroe Islands</span></h3> 
+<h3>- <span id="en">Greenland</span></h3>
+ 
 <br>
 <h2><b>China</b></h2>
-<h3>
-- <span id="en">Hong Kong</span><br> 
-- <span id="en">Macau</span><br> 
-</h3>
+ 
+<h3>- <span id="en">Hong Kong</span></h3> 
+<h3>- <span id="en">Macau</span></h3>
+ 
 <br>
 
 
@@ -9304,8 +9500,8 @@ For some products we will try to find suppliers that offer international warrant
 </details>    
 
 <details>
-  <summary>Recalls</summary>
-<h3>All Recalls we will be put here</h3>
+  <summary>Products Recalls</summary>
+<h3>All Products Recalls we will be put here</h3>
 </details>  
 <details>
   <summary>Proof Documents that we payed excise duties to producers in Romania</summary>
@@ -9327,7 +9523,7 @@ In the case of excise duties products ( example bioethanol for fuel use ) in Rom
   <h3>- no reservations yet</h3><br>
 </details>
 <details>
-  <summary>All Commission Contracts List For Complete Transparency</summary>
+  <summary>All Contracts List For Complete Transparency</summary>
   <h2 style="border:0;" >a) All Contracts signed but not paid by our clients</h2>
   <h3>- no contract yet</h3><br>
   <h2 style="border:0;" >b)All Contracts that clients sent payment in advance and ongoing</h2>
@@ -9339,34 +9535,32 @@ In the case of excise duties products ( example bioethanol for fuel use ) in Rom
   <summary>How to Become a Supplier</summary>
 
 <h2>To become a supplier you must send us:</h2>
-<h3>
-- Document proof that you have legal documents<br>
-- Document proof that the products are safe / high quality<br>
-- Document proof that your products can be repaired and that they have interchangeable parts<br>
-- Document proof that your products can be recycled or that they are biodegradable<br>
-- Document proof that your products do not come from deforested areas<br>
-- Document proof that your company is environment friendly<br>
-- Document proof that your company is sustainable<br>
-- Document proof that your company uses renewable energy<br>
-- Document proof that you respect your workers<br>
-- Document proof that you do not steal utilities ( e.g. electricity ) to manufacture products.<br>
-- Document proof that you have production capacity<br>
-- Document proof that you respect intellectual property rights<br> 
-- Document proof that you know exactly what <a href="https://allergen.org/treeview.php" rel="nofollow" target="_blank" ><b><u>allergens</u></b></a> are in your products<br> 
-- Agreement that you allow us to make public all documents you send<br> 
-- Agreement for exclusive rights to buy your products<br> 
 
-<b>and so on</b>
-</h3>
+<h3>- Document proof that you have legal documents</h3>
+<h3>- Document proof that the products are safe / high quality</h3>
+<h3>- Document proof that your products can be repaired and that they have interchangeable parts</h3>
+<h3>- Document proof that your products can be recycled or that they are biodegradable</h3>
+<h3>- Document proof that your products do not come from deforested areas</h3>
+<h3>- Document proof that your company is environment friendly</h3>
+<h3>- Document proof that your company is sustainable</h3>
+<h3>- Document proof that your company uses renewable energy</h3>
+<h3>- Document proof that you respect your workers</h3>
+<h3>- Document proof that you do not steal utilities ( e.g. electricity ) to manufacture products.</h3>
+<h3>- Document proof that you have production capacity</h3>
+<h3>- Document proof that you respect intellectual property rights</h3>
+<h3>- Document proof that you know exactly what <a href="https://allergen.org/treeview.php" rel="nofollow" target="_blank" ><b><u>allergens</u></b></a> are in your products</h3>
+<h3>- Agreement that you allow us to make public all documents you send</h3>
+<h3>- Agreement for exclusive rights to buy your products</h3>
+<h3><b>and so on</b></h3>
 <br>
-<h3><b>More info:</b><br> 
-<a href="https://www.europarl.europa.eu/topics/en/article/20151201STO05603/circular-economy-definition-importance-and-benefits" target="_blank" rel="nofollow" >Circular Economy</a><br>
-<a href="https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en" target="_blank" rel="nofollow" >Carbon Border Adjustment Mechanism</a><br>
-<a href="https://climate.ec.europa.eu/eu-action/climate-strategies-targets/2050-long-term-strategy_en" target="_blank" rel="nofollow" >2050 EU Net Zero Strategy</a><br>
-<a href="https://www.un.org/en/climatechange" target="_blank" rel="nofollow" >Climate Change</a><br>
-<a href="https://unfccc.int/process-and-meetings/the-paris-agreement" target="_blank" rel="nofollow" >The Paris Agreement</a><br>
-<a href="https://green-business.ec.europa.eu/deforestation-regulation-implementation_en" target="_blank" rel="nofollow" >EUDR Deforestation Due Diligence</a><br>
-</h3>
+<h3><b>More info:</b></h3>
+<h3><a href="https://www.europarl.europa.eu/topics/en/article/20151201STO05603/circular-economy-definition-importance-and-benefits" target="_blank" rel="nofollow" >Circular Economy</a></h3>
+<h3><a href="https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en" target="_blank" rel="nofollow" >Carbon Border Adjustment Mechanism</a></h3>
+<h3><a href="https://climate.ec.europa.eu/eu-action/climate-strategies-targets/2050-long-term-strategy_en" target="_blank" rel="nofollow" >2050 EU Net Zero Strategy</a></h3>
+<h3><a href="https://www.un.org/en/climatechange" target="_blank" rel="nofollow" >Climate Change</a></h3>
+<h3><a href="https://unfccc.int/process-and-meetings/the-paris-agreement" target="_blank" rel="nofollow" >The Paris Agreement</a></h3>
+<h3><a href="https://green-business.ec.europa.eu/deforestation-regulation-implementation_en" target="_blank" rel="nofollow" >EUDR Deforestation Due Diligence</a></h3>
+ 
 <br>
 <h3>We will verify all that you say, if the documents you send can not be verified, means they are not proof.</h3>
 <h3>You also must accept to be payed <b>after</b> the clients verify if the products match with clauses agreed in commission contracts. </h3>
@@ -9498,7 +9692,6 @@ const d = new Date();
 let year = d.getFullYear();
 document.getElementById("year").innerHTML = year;
 </script>
-
 
 
 
