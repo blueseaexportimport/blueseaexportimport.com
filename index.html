@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <meta http-equiv="Content-Language" content="en">
 <head>
-<title>Export, import, distribution and brokerage services - BLUE SEA EXPORT IMPORT S.R.L.</title>
+<title>BLUE SEA EXPORT IMPORT S.R.L. - Export, import, distribution and brokerage services</title>
 <link rel="canonical" href="https://blueseaexportimport.com/" />
 <meta name="viewport" content="width=device-width, initial-scale=1"> 
 
@@ -206,7 +206,7 @@ textarea{
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 <script src="jquery.min.js"></script>
 
-<script src="html2pdf.bundle.min.js"></script>
+<script async src="html2pdf.bundle.min.js"></script>
 
 
 <script type="text/javascript" >
@@ -321,8 +321,7 @@ var unitarray = [];
       
 $(".thedoc").each(function (index, value) {
    $(this).click(function() {
-        var thetitle = $(value).attr("title");
-        console.log(index);
+        var thetitle = "Test";
         var thedoc = document.getElementById("html-content"+index);
          html2pdf(thedoc, {
             margin: 1,
