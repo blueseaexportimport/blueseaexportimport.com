@@ -162,7 +162,32 @@ textarea{
 .scheduale{display:block;width:100%;margin: 0px auto;text-indent:10px;}
 .schbin{display:table;width:100%;overflow:hidden;border-bottom:1px #ccc solid;text-align:left;}
 .sch{display:table-cell;padding-top:1%;padding-bottom:1%;width:33%; font-weight:bold;}
-	
+
+.trafficgreen{
+  background:black;
+  padding:0px 5px;
+  color:#7CFC00;
+}
+
+.trafficred{
+  background:black;
+  padding:0px 5px;
+  color:#FF0000;
+}
+
+.trafficorange{
+  background:black;
+  padding:0px 5px;
+  color:orange;
+}
+
+.trafficno{
+  background:black;
+  padding:0px 5px;
+  color:#333;
+}
+
+
 @media print {
   body{
      display:block;
@@ -493,114 +518,263 @@ If you don't understand the google translation, request help from someone that u
 <div>
 
 
-<h4><b><i class="fi fi-be"></i> BE [ Antwerp ]  &rarr; <i class="fi fi-nl"></i> NL [ Rotterdam ] &rarr;</b> </h4>
-<h4><b><i class="fi fi-de"></i> DE [ Duisburg ]  &rarr; <i class="fi fi-de"></i> DE [ Frankfurt am Main ] &rarr;</b> </h4>
-<h4><b><i class="fi fi-de"></i> DE [ Nuremberg ]  &rarr; <i class="fi fi-de"></i> DE [ Kelheim ] &rarr;</b> </h4>
-<h4><b><i class="fi fi-de"></i> DE [ Regensburg ]  &rarr; <i class="fi fi-de"></i> DE [ Deggendorf ] &rarr;</b> </h4>
-<h4><b><i class="fi fi-at"></i> AT [ Linz ]  &rarr; <i class="fi fi-at"></i> AT [ Ennsdorf-Enn ] &rarr;</b> </h4>
-<h4><b><i class="fi fi-at"></i> AT [ Vienna ]  &rarr; <i class="fi fi-sk"></i> SK [ Bratislava ] &rarr;</b> </h4>
-<h4><b><i class="fi fi-hu"></i> HU [ Győr-Gönyű ]  &rarr; <i class="fi fi-hu"></i> HU [ Budapest ] &rarr;</b> </h4>
-<h4><b><i class="fi fi-hu"></i> HU [ Baja ]  &rarr; <i class="fi fi-rs"></i> RS [ Beograd ] &rarr;</b> </h4>
-<h4><b><i class="fi fi-rs"></i> RS [ Pančevo ]  &rarr; <i class="fi fi-ro"></i> RO [ Moldova Veche ] &rarr;</b> </h4>
-<h4><b><i class="fi fi-ro"></i> RO [ Drobeta-Turnu Severin ]  &rarr; <i class="fi fi-bg"></i> BG [ Vidin ] &rarr;</b> </h4>
-<h4><b><i class="fi fi-ro"></i> RO [ Calafat ]  &rarr; <i class="fi fi-bg"></i> BG [ Ruse ] &rarr;</b> </h4>
-<h4><b><i class="fi fi-ro"></i> RO [ Giurgiu ]  &rarr; <i class="fi fi-ro"></i> RO [ Brăila ] &rarr;</b> </h4>
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-be"></i> BE [ Antwerp ]  &rarr; <i class="fi fi-nl"></i> NL [ Rotterdam ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Antwerp Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Antwerp Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Rotterdam Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Rotterdam Port</p>
 
-<h4><b><i class="fi fi-ro"></i> RO [ Galați ]  &rarr; <i class="fi fi-ro"></i> RO [ Tulcea ] &rarr;</b> </h4>
+<h4><b><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficred" >&#9679;</span> <i class="fi fi-de"></i> DE [ Duisburg ]  &rarr; <i class="fi fi-de"></i> DE [ Frankfurt am Main ] &rarr;</b> </h4>
+<p class="product" style="background:#f7e0e0;" ><b>Danger stop and wait ! Water level low</b></p>
 
-<h4><b><i class="fi fi-ro"></i> RO [ Constanța ]  &rarr; <i class="fi fi-tr"></i> TR [ Istanbul ] &rarr;</b> </h4>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Constanta South Container Terminal <a target="_blank" href="https://www.dpworld.com/romania/about-us/who-we-are" >Port Operator: DP World</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Constanta South Container Terminal <a target="_blank" href="https://www.dpworld.com/romania/about-us/who-we-are" >Port Operator: DP World</a></p>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Istanbul Ambarli Container Terminal <a target="_blank" href="https://marport.com.tr/marport" >Port Operator: Marport</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Istanbul Ambarli Container Terminal <a target="_blank" href="https://marport.com.tr/marport" >Port Operator: Marport</a></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Duisburg Port</p>
+<p class="product" ><b>[ Canceled ] Departure:</b> Duisburg Port</p>
+<p class="product" ><b>[ Canceled ] Arrival:</b> <s>Frankfurt am Main Port</s></p>
+<p class="product" ><b>[ Canceled ] Departure:</b> <s>Frankfurt am Main Port</s></p>
 
-<h4><b><i class="fi fi-gr"></i> GR [ Piraeus ]  &rarr; <i class="fi fi-eg"></i> EG [ Port Said ] &rarr;</b> </h4>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Piraeus Port Authority Container Terminal <a target="_blank" href="https://www.olp.gr/en/services/container-terminal" >Port Operator: PPA ( Cosco )</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Piraeus Port Authority Container Terminal <a target="_blank" href="https://www.olp.gr/en/services/container-terminal" >Port Operator: PPA ( Cosco )</a></p>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Suez Canal Container Terminal (SCCT) <a target="_blank" href="https://www.apmterminals.com/en/scct" >Port Operator: Apmterminals ( Maersk )</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Suez Canal Container Terminal (SCCT) <a target="_blank" href="https://www.apmterminals.com/en/scct" >Port Operator: Apmterminals ( Maersk )</a></p>
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-de"></i> DE [ Nuremberg ]  &rarr; <i class="fi fi-de"></i> DE [ Kelheim ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Nuremberg Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Nuremberg Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Kelheim Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Kelheim Port</p>
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-de"></i> DE [ Regensburg ]  &rarr; <i class="fi fi-de"></i> DE [ Deggendorf ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Regensburg Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Regensburg Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Deggendorf Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Deggendorf Port</p>
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-at"></i> AT [ Linz ]  &rarr; <i class="fi fi-at"></i> AT [ Ennsdorf-Enn ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Linz Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Linz Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Ennsdorf-Enn Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Ennsdorf-Enn Port</p>
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-at"></i> AT [ Vienna ]  &rarr; <i class="fi fi-sk"></i> SK [ Bratislava ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Vienna Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Vienna Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Bratislava Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Bratislava Port</p>
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-hu"></i> HU [ Gyor-Gonyu ]  &rarr; <i class="fi fi-hu"></i> HU [ Budapest ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Gyor-Gonyu Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Gyor-Gonyu Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Budapest Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Budapest Port</p>
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-hu"></i> HU [ Baja ]  &rarr; <i class="fi fi-rs"></i> RS [ Beograd ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Baja Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Baja Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Beograd Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Beograd Port</p>
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-rs"></i> RS [ Pancevo ]  &rarr; <i class="fi fi-ro"></i> RO [ Moldova Veche ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Pancevo Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Pancevo Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Moldova Veche Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Moldova Veche Port</p>
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-ro"></i> RO [ Drobeta-Turnu Severin ]  &rarr; <i class="fi fi-bg"></i> BG [ Vidin ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Drobeta-Turnu Severin Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Drobeta-Turnu Severin Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Vidin Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Vidin Port</p>
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-ro"></i> RO [ Calafat ]  &rarr; <i class="fi fi-bg"></i> BG [ Ruse ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Calafat Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Calafat Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Ruse Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Ruse Port</p>
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-ro"></i> RO [ Giurgiu ]  &rarr; <i class="fi fi-ro"></i> RO [ Braila ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Giurgiu Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Giurgiu Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Braila Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Braila Port</p>
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-ro"></i> RO [ Galati ]  &rarr; <i class="fi fi-ro"></i> RO [ Tulcea ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Galati Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Galati Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Tulcea Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Tulcea Port</p>
 
 
-<h4><b><i class="fi fi-sa"></i> SA [ Jeddah ]  &rarr; <i class="fi fi-ae"></i> AE [ Port of Jebel Ali ] &rarr;</b> </h4>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Jeddah South Container Terminal (SCT) <a target="_blank" href="https://www.dpworld.sa/pages/dpworldjeddah" >Port Operator: DP World</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Jeddah South Container Terminal (SCT) <a target="_blank" href="https://www.dpworld.sa/pages/dpworldjeddah" >Port Operator: DP World</a></p>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Jebel Ali Container Terminal ( T1-T4 ) <a target="_blank" href="https://www.dpworld.com/en/uae/ports-and-terminals/jebel-ali-port" >Port Operator: DP World</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Jebel Ali Container Terminal ( T1-T4 ) <a target="_blank" href="https://www.dpworld.com/en/uae/ports-and-terminals/jebel-ali-port" >Port Operator: DP World</a></p>
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-ro"></i> RO [ Constanța ]  &rarr; <i class="fi fi-tr"></i> TR [ Istanbul ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Constanta Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Constanta Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Istanbul Ambarli Port</a></p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Istanbul Ambarli Port</a></p>
 
-<h4><b><i class="fi fi-qa"></i> QA [ Doha ]  &rarr; <i class="fi fi-kw"></i> KW [ Shuwaikh Port ] &rarr;</b> </h4>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Hamad Port Container Terminal ( T1-T3 ) <a target="_blank" href="https://qterminals.com/our-business/#port-and-terminals" >Port Operator: QTerminals ( Mwani )</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Hamad Port Container Terminal ( T1-T3 ) <a target="_blank" href="https://qterminals.com/our-business/#port-and-terminals" >Port Operator: QTerminals ( Mwani )</a></p>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Shuwaikh Container Terminal <a target="_blank" href="https://www.jtckw.com/about-us/" >Port Operator: JTC</a> + <a target="_blank" href="https://cts-kuwait.com/service/" >CTS</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Shuwaikh Container Terminal <a target="_blank" href="https://www.jtckw.com/about-us/" >Port Operator: JTC</a> + <a target="_blank" href="https://cts-kuwait.com/service/" >CTS</a></p>
-
-<h4><b><i class="fi fi-pk"></i> PK [ Karachi ]  &rarr; <i class="fi fi-in"></i> IN [ Mumbai ] &rarr;</b> </h4>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Karachi International Container Terminal <a href="https://hutchisonports.com/en/Our-Ports.html?region=488" >Port Operator: Hutchison Ports</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Karachi International Container Terminal <a href="https://hutchisonports.com/en/Our-Ports.html?region=488" >Port Operator: Hutchison Ports</a></p>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Mumbai Offshore Container Terminal ( OCT ) <a href="https://mumbaiport.gov.in/show_content.php?lang=1&level=2&ls_id=1095&lid=146" >Port Operator: ICTPL</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Mumbai Offshore Container Terminal ( OCT ) <a href="https://mumbaiport.gov.in/show_content.php?lang=1&level=2&ls_id=1095&lid=146" >Port Operator: ICTPL</a></p>
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-gr"></i> GR [ Piraeus ]  &rarr; <i class="fi fi-eg"></i> EG [ Port Said ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Piraeus Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Piraeus Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Port Said</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Port Said</p>
 
 
-<h4><b><i class="fi fi-in"></i> IN [ Cochin ]  &rarr; <i class="fi fi-lk"></i> LK [ Colombo ] &rarr;</b> </h4>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Cochin Container Terminal <a target="_blank" href="https://www.dpworld.com/india/ports-and-terminals/cochin" >Port Operator: DP World</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Cochin Container Terminal <a target="_blank" href="https://www.dpworld.com/india/ports-and-terminals/cochin" >Port Operator: DP World</a></p>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Colombo International Container Terminal ( CICT ) <a target="_blank" href="https://www.cict.lk/about" >Port Operator: CICT ( China Merchants Port )</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Colombo International Container Terminal ( CICT ) <a target="_blank" href="https://www.cict.lk/about" >Port Operator: CICT ( China Merchants Port )</a></p>
+<h4><b><span class="trafficno" >&#9679;</span><span class="trafficorange" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-sa"></i> SA [ Jeddah ]  &rarr; <i class="fi fi-dj"></i> DJ [ Port of Djibouti ] &rarr;</b> </h4>
+<p class="product" style="background:#f7f4e0;" ><b>Avoid Port Djibouti go to Port of Salalah ! Traffic congestion ahead. </b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Jeddah Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Jeddah Port</p>
+<p class="product" ><b>[ Canceled ] Arrival:</b> <s>Port Djibouti</s></p>
+<p class="product" ><b>[ Canceled ] Departure:</b> <s>Port Djibouti</s></p>
 
 
-<h4><b><i class="fi fi-in"></i> IN [ Chennai ]  &rarr; <i class="fi fi-bd"></i> BD [ Chittagong ] &rarr;</b> </h4>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Chennai Container Terminal  <a target="_blank" href="https://www.dpworld.com/india/ports-and-terminals/chennai-container-terminal" >Port Operator: DP World</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Chennai Container Terminal  <a target="_blank" href="https://www.dpworld.com/india/ports-and-terminals/chennai-container-terminal" >Port Operator: DP World</a></p>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Chittagong Container Terminals ( NCT, CCT, GCB ) <a target="_blank" href="https://cpatos.gov.bd/" >Port Operator: Multiple Companies</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Chittagong Container Terminals ( NCT, CCT, GCB ) <a target="_blank" href="https://cpatos.gov.bd/" >Port Operator: Multiple Companies</a></p>
-
-<h4><b><i class="fi fi-my"></i> MY [ Port Klang ]  &rarr; <i class="fi fi-sg"></i> SG [ Singapore ] &rarr;</b> </h4>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Port Klang Container Terminals ( Westports, Northport, KPA ) <a target="_blank" href="https://www.pka.gov.my/index.php/en/" >Port Operator: Klang Port Authority</a> + <a target="_blank" href="https://www.westportsholdings.com/" >Westports</a> + <a target="_blank" href="https://www.mmc.com.my/page31.html" >Northport</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Port Klang Container Terminals ( Westports, Northport, KPA ) <a target="_blank" href="https://www.pka.gov.my/index.php/en/" >Port Operator: Klang Port Authority</a> + <a target="_blank" href="https://www.westportsholdings.com/" >Westports</a> + <a target="_blank" href="https://www.mmc.com.my/page31.html" >Northport</a></p>
-
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Singapore Container Terminals <a target="_blank" href="https://www.singaporepsa.com/our-business/port/" >Port Operator: PSA Corporation Limited</a> + <a target="_blank" href="https://www.jp.com.sg/" >Jurong Port</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Singapore Container Terminals <a target="_blank" href="https://www.singaporepsa.com/our-business/port/" >Port Operator: PSA Corporation Limited + <a target="_blank" href="https://www.jp.com.sg/" >Jurong Port</a></a></p>
-
-<h4><b><i class="fi fi-my"></i> ID [ Tanjung Priok ]  &rarr; <i class="fi fi-ph"></i> TH [ Bangkok ] &rarr;</b> </h4>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Jakarta International Container Terminal ( JICT ) <a target="_blank" href="https://hutchisonports.com/en/Our-Ports.html?region=488" >Port Operator: Hutchison Port + Persero</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Jakarta International Container Terminal ( JICT ) <a target="_blank" href="https://hutchisonports.com/en/Our-Ports.html?region=488" >Port Operator: Hutchison Port + Persero</a></p>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Laem Chabang Port Container Terminals <a target="_blank" href="https://hutchisonports.co.th/laem-chabang-port/" >Port Operator: Hutchison Port</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Laem Chabang Port Container Terminals <a target="_blank" href="https://hutchisonports.co.th/laem-chabang-port/" >Port Operator: Hutchison Port</a></p>
-
-<h4><b><i class="fi fi-kh"></i> KH [ Preah Sihanouk ]  &rarr; <i class="fi fi-vn"></i> VN [ Ho Chi Minh City ] &rarr;</b> </h4>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Sihanoukville Container Terminal <a target="_blank" href="https://www.pas.gov.kh/en/page/new-container-terminal-project" >Port Operator: PAS</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Sihanoukville Container Terminal <a target="_blank" href="https://www.pas.gov.kh/en/page/new-container-terminal-project" >Port Operator: PAS</a></p>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Ho Chi Minh Container Terminals ( TCIT, TCTT, TCCT ) <a target="_blank" href="https://saigonnewport.com.vn/en" >Port Operator: Saigon Newport Corporation</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Ho Chi Minh Container Terminals ( TCIT, TCTT, TCCT ) <a target="_blank" href="https://saigonnewport.com.vn/en" >Port Operator: Saigon Newport Corporation</a></p>
-
-<h4><b><i class="fi fi-cn"></i> CN [ Hong Kong ]  &rarr; <i class="fi fi-cn"></i> CN [ Shanghai ] &rarr;</b> </h4>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Kwai Tsing Container Terminals ( T1-T9 ) <a target="_blank" href="http://www.hkctoa.com/facilities" >Port Operator: Multiple Companies</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Kwai Tsing Container Terminals ( T1-T9 ) <a target="_blank" href="http://www.hkctoa.com/facilities" >Port Operator: Multiple Companies</a></p>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Shanghai Container Terminals <a target="_blank" href="https://en.portshanghai.com.cn/" >Port Operator: SIPG</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Shanghai Container Terminals <a target="_blank" href="https://en.portshanghai.com.cn/" >Port Operator: SIPG</a></p>
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-om"></i> OM [  Port of Salalah ]  &rarr; <i class="fi fi-ae"></i> AE [ Port of Jebel Ali ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Port of Salalah</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Port of Salalah</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Port of Jebel Ali</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Port of Jebel Ali</p>
 
 
-<h4><b><i class="fi fi-kr"></i> KR [ Busan ]  &rarr; <i class="fi fi-jp"></i> JP [ Yokohama ] &rarr;</b> </h4>
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span><i class="fi fi-qa"></i> QA [ Doha ]  &rarr; <i class="fi fi-kw"></i> KW [ Shuwaikh Port ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Hamad Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Hamad Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Shuwaikh Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Shuwaikh Port</p>
 
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Busan Container Terminals <a target="_blank" href="https://www.busanpa.com/eng/Main.do" >Port Operator: Multiple Companies</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Busan Container Terminals <a target="_blank" href="https://www.busanpa.com/eng/Main.do" >Port Operator: Multiple Companies</a></p>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Yokohama Container Terminals <a target="_blank" href="https://yokohamaport.co.jp/en/poy/facilities/" >Port Operator: Multiple Companies</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Yokohama Container Terminals <a target="_blank" href="https://yokohamaport.co.jp/en/poy/facilities/" >Port Operator: Multiple Companies</a></p>
+<h4><b><span class="trafficno" >&#9679;</span><span class="trafficorange" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-pk"></i> PK [ Karachi ]  &rarr; <i class="fi fi-in"></i> IN [ Mumbai ] &rarr;</b> </h4>
+<p class="product" style="background:#f7f4e0;" ><b>Avoid Port Mumbai go to Cochin ! Traffic congestion ahead. </b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Karachi Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Karachi Port</p>
+<p class="product" ><b>[ Canceled ] Arrival:</b> <s>Mumbai Port</s></p>
+<p class="product" ><b>[ Canceled ] Departure:</b> <s>Mumbai Port</s></p>
 
 
-<h4><b><i class="fi fi-jp"></i> JP [ Tokyo ]  &rarr; <i class="fi fi-ca"></i> CA [ Vancouver ] &rarr;</b> </h4>
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Tokyo Container Terminals <a target="_blank" href="https://www.kouwan.metro.tokyo.lg.jp/yakuwari/post_5/" >Port Operator: Multiple Companies</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Tokyo Container Terminals <a target="_blank" href="https://www.kouwan.metro.tokyo.lg.jp/yakuwari/post_5/" >Port Operator: Multiple Companies</a></p>
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-in"></i> IN [ Cochin ]  &rarr; <i class="fi fi-lk"></i> LK [ Colombo ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Cochin Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Cochin Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Colombo Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Colombo Port</p>
 
-<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Vancouver Container Terminals <a target="_blank" href="https://www.portvancouver.com/about/cargo-and-terminals#container" >Port Operator: Multiple Companies</a></p>
-<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Vancouver Container Terminals <a target="_blank" href="https://www.portvancouver.com/about/cargo-and-terminals#container" >Port Operator: Multiple Companies</a></p>
 
-<h4><b><i class="fi fi-us"></i> US [ Seattle ]  &rarr; <i class="fi fi-us"></i> MT - US [ Missoula ] &rarr;</b> </h4>
-<h4><b><i class="fi fi-us"></i> MT - US [ Billings ]  &rarr; <i class="fi fi-us"></i> ND - US [ Bismarck ] &rarr;</b> </h4>
-<h4><b><i class="fi fi-us"></i> ND - US [ Fargo ]  &rarr; <i class="fi fi-us"></i> MN - US [ Minneapolis ] &rarr;</b> </h4>
-<h4><b><i class="fi fi-us"></i> WI - US [ Madison ]  &rarr; <i class="fi fi-us"></i> IL - US [ Chicago ] &rarr;</b> </h4>
-<h4><b><i class="fi fi-us"></i> OH - US [ Cleveland ]  &rarr; <i class="fi fi-us"></i> NY - US [ New York ] &rarr;</b> </h4>
-<h4><b><i class="fi fi-fr"></i> FR [ Le Havre ]  &rarr; <i class="fi fi-gb"></i> UK [ Southampton ] &rarr;</b> </h4>
-<h4><b><i class="fi fi-gb"></i> UK [ Felixstowe ]  &rarr; <i class="fi fi-be"></i> BE [ Antwerp ] &rarr;</b> </h4>
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-in"></i> IN [ Chennai ]  &rarr; <i class="fi fi-bd"></i> BD [ Chittagong ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Chennai Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Chennai Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Chittagong Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Chittagong Port</p>
+
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-my"></i> MY [ Port Klang ]  &rarr; <i class="fi fi-sg"></i> SG [ Singapore ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Port Klang</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Port Klang</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Singapore Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Singapore Port</p>
+
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-my"></i> ID [ Tanjung Priok ]  &rarr; <i class="fi fi-ph"></i> TH [ Bangkok ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Tanjung Priok Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Tanjung Priok Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Laem Chabang Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Laem Chabang Port</p>
+
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-kh"></i> KH [ Preah Sihanouk ]  &rarr; <i class="fi fi-vn"></i> VN [ Ho Chi Minh City ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Sihanoukville Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Sihanoukville Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Ho Chi Minh Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Ho Chi Minh Port</p>
+
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-cn"></i> PH [ Manila ]  &rarr; <i class="fi fi-cn"></i> CN [ Hong Kong ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Manila Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Manila Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Hong Kong Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Hong Kong Port</p>
+
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-kr"></i> KR [ Busan ]  &rarr; <i class="fi fi-jp"></i> JP [ Yokohama ] &rarr;</b> </h4>
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Busan Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Busan Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Yokohama Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Yokohama Port</p>
+
+<h4><b><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficred" >&#9679;</span> <i class="fi fi-jp"></i> JP [ Tokyo ]  &rarr; <i class="fi fi-ca"></i> CA [ Vancouver ] &rarr;</b> </h4>
+<p class="product" style="background:#f7e0e0;" ><b>Danger Go To Seattle Port ! Natural disaster ahead </b></p>
+<p class="product" ><b>[ Canceled ] Arrival:</b> Tokyo Port</p>
+<p class="product" ><b>[ Canceled ] Departure:</b> Tokyo Port</p>
+<p class="product" ><b>[ Canceled ] Arrival:</b> <s>Vancouver Port</s></p>
+<p class="product" ><b>[ Canceled ] Departure:</b> <s>Vancouver Port</s></p>
+
+
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-us"></i> US [ Seattle ]  &rarr; <i class="fi fi-us"></i> MT - US [ Missoula ] &rarr;</b> </h4>
+
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Seattle</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Seattle</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Missoula</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Missoula</p>
+
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-us"></i> MT - US [ Billings ]  &rarr; <i class="fi fi-us"></i> ND - US [ Bismarck ] &rarr;</b> </h4>
+
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Billings</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Billings</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Bismarck</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Bismarck</p>
+
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-us"></i> ND - US [ Fargo ]  &rarr; <i class="fi fi-us"></i> MN - US [ Minneapolis ] &rarr;</b> </h4>
+
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Fargo</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Fargo</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Minneapolis</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Minneapolis</p>
+
+
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-us"></i> WI - US [ Madison ]  &rarr; <i class="fi fi-us"></i> IL - US [ Chicago ] &rarr;</b> </h4>
+
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Madison</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Madison</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Chicago</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Chicago</p>
+
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-us"></i> OH - US [ Cleveland ]  &rarr; <i class="fi fi-us"></i> NY - US [ New York ] &rarr;</b> </h4>
+
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Cleveland</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Cleveland</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> New Jersey - New York Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> New Jersey - New York Port</p>
+
+
+<h4><b><span class="trafficgreen" >&#9679;</span><span class="trafficno" >&#9679;</span><span class="trafficno" >&#9679;</span> <i class="fi fi-fr"></i> FR [ Le Havre ]  &rarr; <i class="fi fi-gb"></i> UK [ Felixstowe ] &rarr;</b> </h4>
+
+<p class="product" style="background:#e7f7e0;" ><b>Clear for next waypoint.</b></p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Le Havre Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Le Havre Port</p>
+<p class="product" ><b>[ ETA 00:00 ] Arrival:</b> Felixstowe Port</p>
+<p class="product" ><b>[ ETD 00:00 ] Departure:</b> Felixstowe Port</p>
+
 
 </div>
 </details>
