@@ -226,6 +226,65 @@ textarea{
 }	
 	
 	
+/* Marquee start */
+           .marquee {
+                font-family: 'Arial', sans-serif;
+                height: 35px;
+                overflow: hidden;
+                position: relative;
+                background: #fff;
+                color: #151fba;
+                font-size:17px !important;
+                font-weight:bold;
+            }
+            
+            .marquee span {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                line-height: 15px;
+                text-align: center;
+                -moz-transform: translateX(100%);
+                -webkit-transform: translateX(100%);
+                transform: translateX(100%);
+                -moz-animation: scroll-left 3s linear infinite;
+                -webkit-animation: scroll-left 3s linear infinite;
+                animation: scroll-left 30s linear infinite;
+            }
+            
+            @-moz-keyframes scroll-left {
+                0% {
+                    -moz-transform: translateX(100%);
+                }
+                100% {
+                    -moz-transform: translateX(-100%);
+                }
+            }
+            
+            @-webkit-keyframes scroll-left {
+                0% {
+                    -webkit-transform: translateX(100%);
+                }
+                100% {
+                    -webkit-transform: translateX(-100%);
+                }
+            }
+            
+            @keyframes scroll-left {
+                0% {
+                    -moz-transform: translateX(100%);
+                    -webkit-transform: translateX(100%);
+                    transform: translateX(100%);
+                }
+                100% {
+                    -moz-transform: translateX(-100%);
+                    -webkit-transform: translateX(-100%);
+                    transform: translateX(-100%);
+                }
+            }
+	
+	
 </style>
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
@@ -398,11 +457,16 @@ function googleTranslateElementInit() {
 
 
 <!-- START BLUE CATALOG  -->
-
+        <div class="marquee">
+            <span> BLUE SEA EXPORT IMPORT S.R.L. from Focsani, Romania is looking for U.S.A. suppliers to prevent spread of communism. Contact us via Whatsapp, Messenger or E-mail. Thank you !</span>
+        </div>
 
 <div id="winter" ><b>On PC / Laptop:</b> Press <span style="color:green;"><b>Ctrl</b></span> and <span style="color:green;"><b>plus key (+)</b></span> to increase font size or Press <span style="color:green;"><b>Ctrl</b></span> and <span style="color:green;"><b>minus key (-)</b></span> to decrease font size</div>
 <div id="winter" ><b>To save the catalog so you can see it offline on PC / Laptop:</b> Press <span style="color:green;"><b>Ctrl</b></span> and <span style="color:green;"><b> letter S</b></span> </div>
 <div id="winter" ><b>On Smartphone / Tablet:</b> <span style="color:green;"><b>Pinch to zoom.</b></span> Touch the screen with two fingers. Move your fingers away from one another, while touching the screen. </div>
+
+
+
 
 <br>
 <div id="winter" >
@@ -421,7 +485,6 @@ If you don't understand the google translation, request help from someone that u
 <br>
 <div id="winter" >For old people, before we sign any contract, you must have a medical certificate that shows you have the <b>mental capacity / discernment / legal competence</b> to sign documents, and for young people, you must be over 21. <br>( e.g. Some people are underage or they are very old or sick. These people are not allowed to sign contracts )</div> 
 
-<br>
 <div id="winter" >A. We do not sell or offer services to private persons. ( <b>We are a B2B company</b> ) </div>
 <div id="winter" >B. We do not store products, we buy the products from suppliers after clients sign contracts and send payment.</div>
 <div id="winter" >C. This way clients will get the products fresh, and we will reduce energy and storage costs.</div>
