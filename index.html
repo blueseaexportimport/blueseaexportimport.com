@@ -238,12 +238,14 @@ textarea{
                 color: #151fba;
                 font-size:17px !important;
                 font-weight:bold;
+                border:0px solid #FF0000;
             }
             
             .marquee span {
+                border:0px solid #000;
                 position: absolute;
                 width: 100%;
-                height: 200%;
+                height: 100%;
                 white-space:nowrap;
                 margin: 0;
                 line-height: 15px;
@@ -251,9 +253,9 @@ textarea{
                 -moz-transform: translateX(100%);
                 -webkit-transform: translateX(100%);
                 transform: translateX(100%);
-                -moz-animation: scroll-left 3s linear infinite;
-                -webkit-animation: scroll-left 3s linear infinite;
-                animation: scroll-left 30s linear infinite;
+                -moz-animation: scroll-left 2s linear infinite;
+                -webkit-animation: scroll-left 2s linear infinite;
+                animation: scroll-left 20s linear infinite;
             }
             
             @-moz-keyframes scroll-left {
@@ -286,6 +288,13 @@ textarea{
                     transform: translateX(-100%);
                 }
             }
+            
+            @media (max-width: 790px) {
+             .marquee span {
+                width: 400%;
+             }
+            }
+
 	
 	
 </style>
@@ -461,7 +470,7 @@ function googleTranslateElementInit() {
 
 <!-- START BLUE CATALOG  -->
         <div class="marquee">
-            <span> BLUE SEA EXPORT IMPORT S.R.L. from Focsani, Romania is looking for U.S.A. suppliers to prevent spread of communism. Contact us via Whatsapp, Messenger or E-mail. Thank you !</span>
+            <span> BLUE SEA EXPORT IMPORT S.R.L. from Focsani, Romania is looking for U.S.A. suppliers to prevent spread of communism. Contact us via Whatsapp, Telegram, Messenger, Letter or E-mail. Thank you !</span>
         </div>
 
 <div id="winter" ><b>On PC / Laptop:</b> Press <span style="color:green;"><b>Ctrl</b></span> and <span style="color:green;"><b>plus key (+)</b></span> to increase font size or Press <span style="color:green;"><b>Ctrl</b></span> and <span style="color:green;"><b>minus key (-)</b></span> to decrease font size</div>
