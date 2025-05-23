@@ -222,6 +222,8 @@ textarea{
   }
   p{border-bottom:1px #000 solid;text-indent:-5px;}
   @page { size: auto;  margin: 0mm; }
+  
+  .marquee{display:none;}
 
 }	
 	
@@ -241,10 +243,11 @@ textarea{
             .marquee span {
                 position: absolute;
                 width: 100%;
-                height: 100%;
+                height: 200%;
+                white-space:nowrap;
                 margin: 0;
                 line-height: 15px;
-                text-align: center;
+                text-align: left;
                 -moz-transform: translateX(100%);
                 -webkit-transform: translateX(100%);
                 transform: translateX(100%);
