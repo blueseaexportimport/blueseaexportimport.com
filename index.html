@@ -177,6 +177,15 @@ textarea{
   color:#333;
 }
 
+/* alert start */
+   .alert{
+     border:1px dashed #151fba;
+     padding:10px;
+     font-weight:bold;
+     color:#151fba;
+     text-align:center;
+     font-family: 'Arial', sans-serif;
+   }
 
 @media print {
   body{
@@ -217,84 +226,14 @@ textarea{
   
   .marquee{display:none;}
   .thehidebtnbin{display:none;}
+  .alert{ display:none; }
 }	
 	
 .bizr{text-align:center;}
 .bizr ul{list-style-type:none;display: flex;flex-direction: row;justify-content:center;}
 .bizr ul li{ font-weight:normal;font-size:17px;text-align:left;padding:10px;}
 @media (max-width: 790px) {.bizr ul{flex-direction: column}}
-	
-/* Marquee start */
-           .marquee {
-                font-family: 'Arial', sans-serif;
-                height: 35px;
-                overflow: hidden;
-                position: relative;
-                background: #fff;
-                color: #151fba;
-                font-size:17px !important;
-                font-weight:bold;
-                border:0px solid #FF0000;
-            }
-            
-            .marquee span {
-                border:0px solid #000;
-                position: absolute;
-                width: 100%;
-                height: 100%;
-                white-space:nowrap;
-                margin: 0;
-                line-height: 15px;
-                text-align: left;
-                -moz-transform: translateX(100%);
-                -webkit-transform: translateX(100%);
-                transform: translateX(100%);
-                -moz-animation: scroll-left 2s linear infinite;
-                -webkit-animation: scroll-left 2s linear infinite;
-                animation: scroll-left 20s linear infinite;
-            }
-            
-            @-moz-keyframes scroll-left {
-                0% {
-                    -moz-transform: translateX(100%);
-                }
-                100% {
-                    -moz-transform: translateX(-100%);
-                }
-            }
-            
-            @-webkit-keyframes scroll-left {
-                0% {
-                    -webkit-transform: translateX(100%);
-                }
-                100% {
-                    -webkit-transform: translateX(-100%);
-                }
-            }
-            
-            @keyframes scroll-left {
-                0% {
-                    -moz-transform: translateX(100%);
-                    -webkit-transform: translateX(100%);
-                    transform: translateX(100%);
-                }
-                100% {
-                    -moz-transform: translateX(-100%);
-                    -webkit-transform: translateX(-100%);
-                    transform: translateX(-100%);
-                }
-            }
-            
-            @media (max-width: 790px) {
-             .marquee span {
-                width: 415%;
-             }
-             
-             
-            }
-
-	
-	
+ 
 </style>
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
@@ -466,17 +405,15 @@ $(".count"+i).html("( "+b+" )");
 <div class="main" >
 
 
-<!-- START BLUE CATALOG  -->
-        <div class="marquee">
-            <span> BLUE SEA EXPORT IMPORT S.R.L. from Focsani, Romania is looking for suppliers and clients. Contact us via WhatsApp, Telegram, Messenger, Letter or E-mail. Thank you !</span>
-        </div>
+<!-- START BLUE CATALOG  BLUE SEA EXPORT IMPORT S.R.L. from Focsani, Romania is looking for suppliers and clients. Contact us via WhatsApp, Telegram, Messenger, Letter or E-mail. Thank you ! -->
+        <div class="alert">
+            <span> Please be advised that European <a href="https://www.euronews.com/my-europe/2025/08/23/europe-to-halt-postal-services-to-us-after-tax-deal-scrapped" >postal services</a> suspended shipments of packages to the United States of America. Until the issue is resolved we can try to tranport small non-food parcels using luggage and cheap flights. <br><br>Your company has to pay all costs. ( plane tickets, visa photos, visa taxes, food, water, coins for toilet, hotel room, health insurance, proof of sufficient funds to cover the trip, tariffs etc ). <br><br>Thank you Mr. Trump !</span>
+        </div><br>
 
 <h1>Products List ( <a href="#!" class="copybutton" >Click Here To Copy</a> )</h1>
 <ul id="list" ></ul>
 <h3><a style="background:#151fba; color:#FFF; padding:5px 10px;" href="#!" onclick="window.print();" class="printbtn" ><b>Print or Save as PDF</b></a><h3>
  
-
-
 
 
 
