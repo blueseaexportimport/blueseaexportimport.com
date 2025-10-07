@@ -995,14 +995,14 @@ For some products we will try to find suppliers that offer international warrant
 
  <p style="font-size:14px !important;border:0;" >
  
-  <span><b>Friendly countries with romanians</b></span><br>
+  <span><b>1. Friendly countries with romanians</b></span><br>
 
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Canada</a> - <b>L? ( <a href="https://www.cbc.ca/listen/live-radio" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3678#850" target="_blank" >Visa: No</a> | CAD | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/canada#fixed" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >FR - S. Pierre & Miquelon</a> - <b>L? ( <a href="https://www.radiofrance.fr/franceinter" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3698#813" target="_blank" >Visa: No</a> | EUR | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/Saint-Pierre-and-Miquelon/spm-telecom.html" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >DK - Greenland</a> - <b>L? ( <a href="https://www.knr.gl/kl/live-radio" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3690#810" target="_blank" >Visa: No</a> | DKK | <a style="font-size:13px;" href="https://www.speedgeo.net/statistics/greenland" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
 
  
-  <br><span><b>Unfriendly countries with romanians</b></span><br>
+  <br><span><b>2. Unfriendly countries with romanians</b></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >United States of America</a> - <b>L? ( <a href="https://radionewyorklive.com/en/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3749#868" target="_blank" >Visa: Yes</a> | USD | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/united-states#fixed" rel="nofollow" target="_blank" >100 Mbps+</a></span><br> 
  <span>- <a href="https://www.mae.ro/travel-alerts/2909" target="_blank" >Mexico</a> - <b>L3 ( <a href="https://wradio.com.mx" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3682#808" target="_blank" >Visa: No</a> | MXN | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/mexico#fixed" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
  </p>
@@ -1011,7 +1011,7 @@ For some products we will try to find suppliers that offer international warrant
  
   <p style="font-size:14px !important;border:0;" >
  
-  <span><b>Friendly countries with romanians</b></span><br>
+  <span><b>1. Friendly countries with romanians</b></span><br>
   
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Chile</a> - <b>L? ( <a href="https://www.adnradio.cl" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3680#888" target="_blank" >Visa: No</a> | CLP | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/chile#fixed" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Paraguay</a> - <b>L? ( <a href="http://webaudio.radionacional.gov.py/920am/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3733#892" target="_blank" >Visa: No</a> | PYG | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/paraguay#fixed" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
@@ -1061,7 +1061,7 @@ For some products we will try to find suppliers that offer international warrant
 
 
 
-  <br><span><b>Unfriendly countries with romanians</b></span><br>
+  <br><span><b>2. Unfriendly countries with romanians</b></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Guyana</a> - <b>L? ( <a href="https://ncnguyana.com/2023/vybzfm/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/44723#891" target="_blank" >Visa: Yes</a> | GYD | <a style="font-size:13px;" href="https://www.speedgeo.net/statistics/guyana" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Suriname</a> - <b>L? ( <a href="https://radiosrs.sr/radio/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/44722#894" target="_blank" >Visa: Yes</a> | SRD | <a style="font-size:13px;" href="https://www.speedgeo.net/statistics/suriname" rel="nofollow" target="_blank" ><b>5-20 Mbps</b></a></span><br>
 
@@ -1090,7 +1090,7 @@ For some products we will try to find suppliers that offer international warrant
  
  <p style="font-size:14px !important;border:0;" >
  
- <span><b>Friendly countries with romanians</b></span><br>
+ <span><b>1. Friendly countries with romanians</b></span><br>
 
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Singapore</a> - <b>L? ( <a href="https://www.melisten.sg/radio/987?al=1&ap=1&c=987fm" target="_blank" rel="nofollow" >Radio</a> )</b> <a href="https://www.mae.ro/travel-conditions/3743#786" target="_blank" >Visa: No</a> | SGD | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/singapore" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >South Korea</a> - <b>L? ( <a href="https://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=11&ch_type=globalList" target="_blank" rel="nofollow" >Radio</a> )</b> <a href="https://www.mae.ro/travel-conditions/3686#770" target="_blank" >Visa: No</a> | KRW | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/south-korea" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
@@ -1103,7 +1103,7 @@ For some products we will try to find suppliers that offer international warrant
  
 
  
- <br><span><b>Unfriendly countries with romanians</b></span><br>
+ <br><span><b>2. Unfriendly countries with romanians</b></span><br>
 
  
  
@@ -1698,4 +1698,3 @@ For some products we will try to find suppliers that offer international warrant
  
 
 </details> 
-  
