@@ -1,0 +1,369 @@
+
+<p class="subproduct" style="background:#151fba;color:#FFF;margin-top:4px;" ><b>Note: For all products in this section, your company has to send the technical specs / quality parameters</b> </p>
+<p class="subproduct" ><b>Note: Your company must be authorized to buy these products. ( We do not accept requests from speculators )</b> </p>
+<p class="subproduct" ><b>Note: Warning ! We must do due diligence for these products to verify if origin is from sustainable sources, even if you have documents.</b> </p>
+<p class="subproduct" ><b>Note: For group 321 all products must not have Amazon rainforest origin and they must be PEFC and/or FSC certified.</b></p>
+<p class="subproduct" ><b>Note: Suppliers are not allowed to add any additives to deteriorate the products faster. ( To force people to buy again and again the same low quality products. )</b></p>
+<p class="subproduct" ><b>Note: According to Harmonized Tariff Nomenclature explanatory note, pulp is generally presented in baled sheets (whether or not perforated), wet or dry, but may sometimes be in slabs, in rolls or in the form of powder or flakes.</b></p>
+<p class="subproduct" ><b>Note: The suppliers must have documents proof that all leftover chemicals used in manufacturing the products are recyclable. In most countries manufacturers are still dumping chemicals in rivers, lakes or in the oceans. </b></p>
+<p class="subproduct" ><b>Note: Suppliers of wood pulp must have their own clean renewable energy power plants.</b> </p>
+<p class="subproduct" ><b>Note: From 2024 In European Union almost all non-food products, parts, semifinished goods must be according with Regulation (EC) No 2024/1781 ( "Ecodesign Regulation" )</b> </p>
+<p class="subproduct" ><b>The products must not contain any toxic chemicals.</b></p>
+
+
+<h3>* goods of <b>group 321</b> (Pulp, paper and paperboard), except of subclass 32194</h3>
+
+<h4>470100 - Wood pulp; mechanical wood pulp</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-470100-0001</b></a> Bulk - ISO 4046-2 - Mechanical Pulp - GWP Groundwood pulp ( Unbleached )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-470100-0002</b></a> Bulk - ISO 4046-2 - Mechanical Pulp - PGW Pressurised stone groundwood ( Unbleached )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-470100-0003</b></a> Bulk - ISO 4046-2 - Mechanical Pulp - RMP Refiner mechanical pulp ( Unbleached )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-470100-0004</b></a> Bulk - ISO 4046-2 - Mechanical Pulp - TMP - Thermo-mechanical pulp ( Unbleached )</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-470100:</b> The client company can specify the type of hardwood and/or softwood the manufacturer should use. [ Most paper mills can bleach the pulp for you if you need this service, they can also make the paper. GWP - Groundwood pulp is the oldest method used to make wood pulp. GWP is also very low quality pulp. ]</p>
+
+
+<h4>470311 - Wood pulp; chemical wood pulp, soda or sulphate, (other than dissolving grades), unbleached, of coniferous wood</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-470311-0001</b></a> Bulk - ISO 4046-2 - Unbleached Softwood Kraft Pulp</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-470311:</b> The client company can specify the type of hardwood and/or softwood the manufacturer should use. [ Most paper mills can bleach the pulp for you if you need this service, they can also make the paper. ]</p>
+
+<h4>470319 - Wood pulp; chemical wood pulp, soda or sulphate, (other than dissolving grades), unbleached, of non-coniferous wood</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-470319-0001</b></a> Bulk - ISO 4046-2 - Unbleached Hardwood Kraft Pulp</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-470319:</b> The client company can specify the type of hardwood and/or softwood the manufacturer should use. [ Most paper mills can bleach the pulp for you if you need this service, they can also make the paper. ]</p>
+
+
+<h4>470321 - Wood pulp; chemical wood pulp, soda or sulphate, (other than dissolving grades), semi-bleached or bleached, of coniferous wood</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-470321-0001</b></a> Bulk - ISO 4046-2 - Bleached Softwood Kraft Pulp ( NBSK or SBSK pulp )</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-470321:</b> The client company can specify the type of hardwood or softwood the manufacturer should use and the level of ISO brightness according to Standard ISO 2470-1. [ NBSK = Northern bleached softwood kraft <b>and</b> SBSK Pulp = Southern bleached softwood kraft. ] </p>
+
+<h4>470329 - Wood pulp; chemical wood pulp, soda or sulphate, (other than dissolving grades), semi-bleached or bleached, of non-coniferous wood</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-470329-0001</b></a> Bulk - ISO 4046-2 - Bleached Hardwood Kraft Pulp ( NBHK or SBHK pulp )</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-470329:</b> The client company can specify the type of hardwood and/or softwood the manufacturer should use and the level of ISO brightness according to Standard ISO 2470-1. [ NBHK = Northern bleached hardwood kraft <b>and</b> SBHK Pulp = Southern bleached mixed hardwood kraft <b>and</b> BHKP Pulp = Bleached hardwood kraft pulp. BHKP has many types of hardwood mixed in the pulp. ] </p>
+
+
+<h4>470500 - Wood pulp; obtained by a combination of mechanical and chemical pulping processes</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-470500-0001</b></a> Bulk - ISO 4046-2 - BCTMP - Bleached Chemi-Thermomechanical Pulp - Hardwood</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-470500-0002</b></a> Bulk - ISO 4046-2 - BCTMP - Bleached Chemi-Thermomechanical Pulp - Softwood</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-470500:</b> The client company can specify the type of hardwood or softwood the manufacturer should use and the level of ISO brightness according to Standard ISO 2470-1. The ISO brightness means also the bleaching level of the pulp.</p>
+
+<h4>470620 - Pulp; of fibres derived from recovered (waste and scrap) paper or paperboard</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-470620-0001</b></a> Bulk - ISO 4046-2 - Bleached Kraft Pulp ( RBK Pulp )</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-470620:</b> For this type of pulp the mills do not sort the waste - scrap. The client company can specify the level of ISO brightness according to Standard ISO 2470-1. [ RBK = Recycled bleached kraft ]. </p>
+
+
+<h4>480100 - Newsprint; made of fibres obtained essentially by a chemi-mechanical process or of a weight, per m2, of more than 57g but not more than 65g, in rolls or sheets</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480100-0001</b></a> Rolls or sheets - ISO 4046-4 - Newsprint - between 57g - 65g/m2  ( from recycled paper ) </p>
+<p class="subproductalert" ><b>Explanatory note BSEI-480100:</b> The client company must specify the size of the paper. Warning ! People have smartphones now. </p>
+
+<h4>480210 - Hand-made paper or paperboard</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480210-0001</b></a> Xuan paper for calligraphy ( Non-Standard )</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-480210:</b> Xuan paper absorbs moisture so you need to store it according to manufacturer specifications. The paper must be made in China.</p>
+
+<h4>480254 - Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing less than 40g/m2, in rolls or sheets</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480254-0001</b></a> Rolls or sheets - ISO 4046-4 - Uncoated unprinted - Lightweight paper - weighing less then 40g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480254-0002</b></a> Rolls or sheets - ISO 4046-4 - Uncoated unprinted - Bible paper - weighing between 30-35g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480254-0003</b></a> Rolls or sheets - ISO 4046-4 - Uncoated unprinted - Wrapping tissue - weighing between 12-30g/m2</p>
+
+<p class="subproductalert" ><b>Explanatory note BSEI-480254:</b> The World Customs Organization does not say the type of paper, could be many types of uncoated paper according to Standard ISO 4046-4. The client company must specify the size according to ISO 216 or other standards. The client company must specify the grammage and thickness according to ISO 536 and ISO 534. Smaller grammage means that you will save energy costs but the paper will have, probably, lower quality.</p>
+
+<h4>480255 - Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing 40g/m2 to 150g/m2, in rolls</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480255-0001</b></a> Rolls - ISO 11108 - Uncoated unprinted - Archival paper - weighing between 70-150g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480255-0002</b></a> Rolls - IS0 9706 - Uncoated unprinted - Paper for documents - weighing between 70-150g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480255-0003</b></a> Rolls - EN 12281 - Uncoated unprinted - Copy paper for home use - weighing between 70-100g/m2</p>
+
+<p class="subproductalert" ><b>Explanatory note BSEI-480255:</b> The World Customs Organization does not say the type of paper, could be many types of uncoated paper according to Standard ISO 4046-4. The client company must specify the size according to ISO 216 or other standards. The client company must specify the grammage and thickness according to ISO 536 and ISO 534. Smaller grammage means that you will save energy costs but the paper will have probably lower quality.</p>
+ 
+<h4>480256 - Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weight 40-150g/m2, in sheets 435mm or less by 297mm or less (unfolded)</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480256-0001</b></a> Sheets - ISO 11108 - Uncoated unprinted - Archival paper - weighing between 70-150g/m2 - under 435x297mm</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480256-0002</b></a> Sheets - IS0 9706 - Uncoated unprinted - Paper for documents - weighing between 70-150g/m2 - under 435x297mm</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480256-0003</b></a> Sheets - EN 12281 - Uncoated unprinted - Copy paper for home use - weighing between 70-100g/m2 - under 435x297mm</p>
+
+<p class="subproductalert" ><b>Explanatory note BSEI-480256:</b> A4 for most office and home use printers is 210 x 297 mm. The World Customs Organization does not say the type of paper, could be many types of uncoated paper according to Standard ISO 4046-4. The client company must specify the size according to ISO 216 or other standards. The client company must specify the grammage and thickness according to ISO 536 and ISO 534. Smaller grammage means that you will save energy costs but the paper will have probably lower quality.</p>
+ 
+<h4>480258 - Uncoated paper and paperboard (not 4801 or 4803); printing, writing or graphic, 10% or less by weight of mechanical or chemi-mechanical processed fibre, weighing more than 150g/m2</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480258-0001</b></a> Rolls or sheets - ISO 4046-4 - Uncoated unprinted - Ivory board or bristol - weighing more than 150g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480258-0002</b></a> Rolls or sheets - ISO 11108 - Uncoated unprinted - Archival paper - weighing between 150-225g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480258-0003</b></a> Rolls or sheets - IS0 9706 - Uncoated unprinted - Paper for documents - weighing between 150-170g/m2</p>
+
+<p class="subproductalert" ><b>Explanatory note BSEI-480258:</b> The World Customs Organization does not say the type of paper, could be many types of uncoated paper according to Standard ISO 4046-4. The client company must specify the size according to ISO 216 or other standards. The client company must specify the grammage and thickness according to ISO 536 and ISO 534. Smaller grammage means that you will save energy costs but the paper will have probably lower quality.</p>
+ 
+<h4>480262 - Uncoated paper and paperboard (not 4801 or 4803); over 10% by weight of mechanical or chemi-mechanical processed fibre, in sheets 435mm or less by 297mm or less (unfolded)</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480262-0001</b></a> Sheets - ISO 4046-4 - Uncoated unprinted - Two-sided coloured paper - weighing between 75-90g/m2 - under 435x297mm</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-480262:</b> A4 for most office and home use printers is 210 x 297 mm. The World Customs Organization does not say the type of paper, could be many types of uncoated paper according to Standard ISO 4046-4. The client company must specify the size according to ISO 216 or other standards. The client company must specify the grammage and thickness according to ISO 536 and ISO 534. Smaller grammage means that you will save energy costs but the paper will have probably lower quality.</p>
+
+<h4>480300 - Tissue, towel, napkin stock or similar; for household or sanitary use, cellulose, wadding webs of cellulose fibres, in rolls exceeding 36cm in width or rectangular sheets with one side more than 36cm in unfolded state</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480300-0001</b></a> Rolls exceeding 36cm in width - ISO 12625-1 - Tissue paper - weighing between 10-50g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480300-0002</b></a> Rectangular sheets with one side more than 36cm in unfolded state - ISO 12625-1 - Tissue paper - weighing between 10-50g/m2</p>
+
+<p class="subproductalert" ><b>Explanatory note BSEI-480300:</b> The tissue paper must be according to Standard ISO 4046-4 and ISO 12625-1. Smaller grammage means that you will save energy costs but the paper will have probably lower quality.</p> 
+ 
+<h4>480411 - Kraft paper and paperboard; kraftliner, uncoated, unbleached, in rolls or sheets, other than that of heading no. 4802 or 4803</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480411-0001</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated unbleached - Kraft liner - weighing 115g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480411-0002</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated unbleached - Kraft liner - weighing 125g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480411-0003</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated unbleached - Kraft liner - weighing 200g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480411-0004</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated unbleached - Kraft liner - weighing 300g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480411-0005</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated unbleached - Kraft liner - weighing 400g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480411-0006</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated unbleached - Kraft liner - weighing 115g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480411-0007</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated unbleached - Kraft liner - weighing 125g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480411-0008</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated unbleached - Kraft liner - weighing 200g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480411-0009</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated unbleached - Kraft liner - weighing 300g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480411-0010</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated unbleached - Kraft liner - weighing 400g/m2</p>
+
+<h4>480419 - Kraft paper and paperboard; kraftliner, uncoated, bleached, in rolls or sheets, other than that of heading no. 4802 or 4803</h4>
+
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480419-0001</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated bleached - Kraft liner - weighing 115g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480419-0002</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated bleached - Kraft liner - weighing 125g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480419-0003</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated bleached - Kraft liner - weighing 200g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480419-0004</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated bleached - Kraft liner - weighing 300g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480419-0005</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated bleached - Kraft liner - weighing 400g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480419-0006</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated bleached - Kraft liner - weighing 115g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480419-0007</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated bleached - Kraft liner - weighing 125g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480419-0008</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated bleached - Kraft liner - weighing 200g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480419-0009</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated bleached - Kraft liner - weighing 300g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480419-0010</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated bleached - Kraft liner - weighing 400g/m2</p>
+ 
+<h4>480421 - Kraft paper and paperboard; sack kraft paper, uncoated, unbleached, in rolls or sheets, other than that of heading no. 4802 or 4803</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480421-0001</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated unbleached - Sack kraft paper - weighing 60g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480421-0002</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated unbleached - Sack kraft paper - weighing 70g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480421-0003</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated unbleached - Sack kraft paper - weighing 80g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480421-0004</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated unbleached - Sack kraft paper - weighing 100g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480421-0005</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated unbleached - Sack kraft paper - weighing 115g/m2</p>
+
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480421-0006</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated unbleached - Sack kraft paper - weighing 60g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480421-0007</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated unbleached - Sack kraft paper - weighing 70g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480421-0008</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated unbleached - Sack kraft paper - weighing 80g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480421-0009</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated unbleached - Sack kraft paper - weighing 100g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480421-0010</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated unbleached - Sack kraft paper - weighing 115g/m2</p>
+
+<h4>480429 - Kraft paper and paperboard; sack kraft paper, uncoated, bleached, in rolls or sheets, other than that of heading no. 4802 or 4803</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480429-0001</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated bleached - Sack kraft paper - weighing 60g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480429-0002</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated bleached - Sack kraft paper - weighing 70g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480429-0003</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated bleached - Sack kraft paper - weighing 80g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480429-0004</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated bleached - Sack kraft paper - weighing 100g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480429-0005</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated bleached - Sack kraft paper - weighing 115g/m2</p>
+
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480429-0006</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated bleached - Sack kraft paper - weighing 60g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480429-0007</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated bleached - Sack kraft paper - weighing 70g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480429-0008</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated bleached - Sack kraft paper - weighing 80g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480429-0009</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated bleached - Sack kraft paper - weighing 100g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480429-0010</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated bleached - Sack kraft paper - weighing 115g/m2</p>
+
+<h4>480431 - Kraft paper and paperboard; uncoated, unbleached, weight 150g/m2 or less, in rolls or sheets, other than that of heading no. 4802 or 4803</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480431-0001</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated unbleached - Kraft paper - weighing less than 115g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480431-0002</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated unbleached - Kraft paper - weighing less than 115g/m2</p>
+
+<h4>480439 - Kraft paper and paperboard; uncoated, bleached, weight 150g/m2 or less, in rolls or sheets, other than that of heading no. 4802 or 4803</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480439-0001</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated bleached - Kraft paper - weighing less than 115g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480439-0002</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated bleached - Kraft paper - weighing less than 115g/m2</p>
+
+<h4>480441 - Kraft paper and paperboard; uncoated, unbleached, weight more than 150g/m2 but less than 225g/m2, in rolls or sheets, other than that of heading no. 4802 or 4803</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480441-0001</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated unbleached - Kraft paper - weighing between 150-225g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480441-0002</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated unbleached - Kraft paper - weighing between 150-225g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480441-0003</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated unbleached - Saturating kraft paper - weighing between 185-225g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480441-0004</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated unbleached - Saturating kraft paper - weighing between 185-225g/m2</p>
+<h4>480442 - Kraft paper and paperboard; uncoated, weight between 150 and 225g/m2, bleached uniformly throughout, more than 95% of total fibre content consists of chemically processed wood fibres, in rolls or sheets</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480442-0001</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated bleached - Kraft paper - weighing between 150-225g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480442-0002</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated bleached - Kraft paper - weighing between 150-225g/m2</p>
+
+<h4>480449 - Kraft paper and paperboard; uncoated, weight more than 150g/m2 but less than 225g/m2, in rolls or sheets, n.e.c. in item no. 4804.4, other than that of heading no. 4802 or 4803</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480449-0001</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated - Other types of kraft paper - weighing between 150-225g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480449-0002</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated - Other types of kraft paper - weighing between 150-225g/m2</p>
+
+<h4>480451 - Kraft paper and paperboard; uncoated, unbleached, weight 225g/m2 or more, in rolls or sheets, other than that of heading no. 4802 or 4803</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480451-0001</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated unbleached - Kraft paper - weighing more than 225g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480451-0002</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated unbleached - Kraft paper -weighing more than 225g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480451-0003</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - IEC 641 or IEC 763 - Uncoated unbleached - Pressboard -weighing more than 225g/m2</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480451-0004</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated unbleached - Food Grade Paperboard -weighing more than 225g/m2</p>
+<h4>480452 - Kraft paper and paperboard; uncoated, weight 225g/m2 or more, bleached uniformly throughout, more than 95% of total fibre content consists of chemically processed wood fibres, in rolls or sheets</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480452-0002</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated bleached - Kraft paper or paperboard - weighing more than 225g/m2</p>
+
+<p class="subproductalert" ><b>Explanatory note BSEI-480411, BSEI-480419, BSEI-480421, BSEI-480429, BSEI-480431, BSEI-480439, BSEI-480441, BSEI-480442, BSEI-480449, BSEI-480451, BSEI-480452:</b>The World Customs Organization does not say the type of product, could be many types. Smaller grammage means that you will save energy costs but the paper will have probably lower quality.</p>
+
+<h4>480511 - Paper and paperboard; uncoated, semi-chemical fluting paper, rolls or sheets</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480511-0001</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated - Semi-chemical fluting paper - weighing between 80-205g/m2</p>
+<h4>480524 - Paper & paperboard; uncoated, testliner (recycled linerboard), weight 150g/m2, or less, in rolls or sheets</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480524-0001</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated - Testliner - weighing less than 150g/m2</p>
+<h4>480525 - Paper & paperboard; uncoated, testliner (recycled linerboard), weight over 150g/m2, in rolls or sheets</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480525-0001</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated - Testliner or boxboard - weighing more than 150g/m2</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-480524, BSEI-480524, BSEI-480525:</b>The client company must specify the size according. The client company must specify the grammage and thickness according to ISO 536 and ISO 534. The paper must not contain any toxic chemicals. Smaller grammage means that you will save energy costs but the paper will have probably lower quality.</p>
+<h4>480540 - Paper and paperboard; filter paper and paperboard, uncoated, in rolls or sheets</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480540-0001</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Uncoated - Filter paper</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480540-0002</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated - Filter paper</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-480540:</b>The products must not contain any toxic chemicals. The World Customs Organization does not say the type of product, could be many types. According to ISO 4046-4 filter paper must provide selective retention of particles from a fluid suspension. There are many possible combinations, the client company must specify the type of uncoated paper, grammage and size. Filter paper should be custom made. </p>
+<h4>480591 - Paper and paperboard; uncoated, weight 150g/m2 or less, in rolls or sheets, n.e.c. in heading no.4805</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480591-0001</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated - Blotting paper - weighing less than 150g/m2</p>
+<h4>480592 - Paper and paperboard; uncoated, weight more than 150g/m2 but less than 225 g/m2, in rolls or sheets, n.e.c. in heading no. 4805</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480592-0001</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated - Blotting paper - weighing between 150-225g/m2</p>
+<h4>480593 - Paper and paperboard; uncoated, weight 225/m2 or more, in rolls or sheets, n.e.c. in heading no. 4805</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480593-0003</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Uncoated - Blotting paper - weighing between more than 225g/m2</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-480591, BSEI-480592, BSEI-480593:</b> The World Customs Organization does not say the type of product, could be many types. There are many possible combinations, the client company must specify the type of uncoated blotting paper, grammage and size.</p>
+ 
+<h4>480610 - Paper; vegetable parchment, in rolls or sheets</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480610-0001</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Vegetable parchment</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480610-0002</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Vegetable parchment</p>
+<h4>480620 - Paper; greaseproof papers, in rolls or sheets</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480620-0001</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Greaseproof paper</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480620-0002</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Greaseproof paper</p>
+<h4>480630 - Paper; tracing papers, in rolls or sheets</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480630-0001</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Prepared translucent drawing paper</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480630-0002</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Prepared translucent drawing paper</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480630-0003</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Natural translucent drawing paper</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480630-0004</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Natural translucent drawing paper</p>
+<h4>480640 - Paper; glassine and other glazed transparent or translucent papers, in rolls or sheets</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480640-0001</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Glassine paper</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480640-0002</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Glassine paper</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-480610, BSEI-480620, BSEI-480630, BSEI-480640:</b> The grease resistance can be determined with ISO 16532 or other standards specified by client company. The client company must specify if the paper should be food or non-food grade. The client company must specify the thickness, grammage, size and type of coating. <b>The products must not be coated - treated with PFAS</b>.</p>
+ 
+<h4>480810 - Paper and paperboard; corrugated, whether or not perforated, in rolls or sheets, other than paper of heading 4803</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480810-0001</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Corrugated fibreboard</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-480810</b> All types of cardboard that enters in contact with food must be approved - certified. Quality of cardboard can only be determined by laboratory analysis. For corrugated fibreboards the client company must specify flute type [ A, C, B, E ] and wall type [ 1.Single face wall, 2. Double wall board, 3. Triple wall board ].</p>
+
+<h4>480840 - Paper and paperboard; kraft paper, creped or crinkled, whether or not embossed or perforated, in rolls or sheets, other than paper of heading 4803</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480840-0001</b></a> Rolls exceeding 36cm in width - ISO 4046-4 - Embossed - kraft paper </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-480840-0002</b></a> Rectangular sheets with one side more than 36cm and the other side exceeding 15 cm in unfolded state - ISO 4046-4 - Embossed - kraft paper </p>
+<p class="subproductalert" ><b>Explanatory note BSEI-480840:</b>This is a non-standard. The client company must specify if this paper is replacement for traditional bubble wrap to protect goods during transport or storage. The client company must specify if the paper should be food or non-food grade. The client company must specify the thickness, grammage, size and type of coating.</p>
+
+<h4>481141 - Paper and paperboard; self-adhesive, in rolls or sheets, other than goods of heading no. 4803, 4809, or 4810</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481141-0001</b></a> Rolls - Paper masking tape</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481141-0002</b></a> Rolls - Other Self-Adhesive Paper tapes ( not to be used as labels )</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-481141:</b>This is a non-standard. The client company must specify if the paper should be food or non-food grade. The client company must specify the thickness, grammage, size and type of coating.</p>
+
+<h4>481160 - Paper and paperboard; coated or impregnated with wax, paraffin wax, stearin, oil or glycerol, other than goods of heading no. 4803, 4809, or 4810</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481160-0001</b></a> Rolls - ISO 4046-4 - Waxed paper ( Natural wax )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481160-0002</b></a> Sheets - ISO 4046-4 - Waxed paper ( Natural wax )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481160-0003</b></a> Rolls - ISO 4046-4 - Waxed paper ( Synthetic wax )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481160-0004</b></a> Sheets - ISO 4046-4 - Waxed paper ( Synthetic wax )</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-481160:</b>The client company must specify the thickness, grammage, size and type of coating. If the coating uses natural wax ( e.g. beeswax ), probably food safety formalities must be done.</p>
+
+<h4>481190 - Paper, paperboard, cellulose wadding and webs of soft cellulose fibres; coated, impregnated, covered, surface-decorated or surface-coloured, n.e.c. in heading no. 4811, in rolls or sheets</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481190-0001</b></a> Rolls - ISO 4046-4 - Thermal-sensitive paper </p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481190-0002</b></a> Sheets - ISO 4046-4 - Thermal-sensitive paper</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-481190:</b>The client company must specify the manufacturing standard, thickness, grammage, size and type of coating.  Thermal-sensitive paper has many applications. ( e.g. Vending machine, POS, ATM, Cash register, Medical devices and so on, Note: not for fax machines )</p>
+
+<h4>481710 - Paper and paperboard; envelopes</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0001</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes B4 ( 250 x 353 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0002</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes B5 ( 250 x 176 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0003</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes B6 ( 125 x 176 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0004</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes C3 ( 324 x 458 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0005</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes C4M ( 318 x 229 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0006</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes CE4 ( 229 x 310 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0007</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes C64M ( 318 x 114 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0008</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes CE64 ( 114 x 310 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0009</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes C4 ( 324 x 229 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0010</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes C5 ( 162 x 229 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0011</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes C6/C5 ( 114 x 229 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0012</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes C6 ( 114 x 162 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0013</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes C7 ( 90 x 140 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0014</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes C7/C6 ( 81 x 162 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0015</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes E4 ( 280 x 400 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0016</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes EC45 ( 220 x 229 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0017</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes EC5 ( 115 x 229 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0018</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes E5 ( 115 x 220 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0019</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes E56 ( 155 x 155 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0020</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes DL / E65 ( 110 x 220 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0021</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes E6 ( 110 x 155 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0022</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes R7 ( 120 x 135 mm  - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0023</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes S4 ( 250 x 330 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0024</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes S5 ( 185 x 255 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0025</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes S65 ( 110 x 255 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0026</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes X5 ( 105 x 216 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0027</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes EX5 ( 155 x 216 mm - Colored, White or Kraft - 70-180g/m2 )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0028</b></a> Bulk - ISO 4046-4 - Paper correspondence envelopes ( Custom size )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0029</b></a> Bulk - Bubbles envelopes A11 ( Int: 100 x 165 mm White or Kraft )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0030</b></a> Bulk - Bubbles envelopes B12 ( Int: 115 x 215 mm White or Kraft )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0031</b></a> Bulk - Bubbles envelopes C13 ( Int: 150 x 215 mm White or Kraft )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0032</b></a> Bulk - Bubbles envelopes CD ( Int: 175 x 165 mm White or Kraft )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0033</b></a> Bulk - Bubbles envelopes D14 ( Int: 180 x 265 mm White or Kraft )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0034</b></a> Bulk - Bubbles envelopes E15 ( Int: 215 x 265 mm White or Kraft )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0035</b></a> Bulk - Bubbles envelopes F16 ( Int: 220 x 340 mm White or Kraft )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0036</b></a> Bulk - Bubbles envelopes G17 ( Int: 230 x 340 mm White or Kraft )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0037</b></a> Bulk - Bubbles envelopes H18 ( Int: 270 x 360 mm White or Kraft )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0038</b></a> Bulk - Bubbles envelopes I19 ( Int: 295 x 445 mm White or Kraft )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0039</b></a> Bulk - Bubbles envelopes K20 ( Int: 345 x 470 mm White or Kraft )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481710-0040</b></a> Bulk - Bubbles envelopes ( Custom size )</p>
+
+<p class="subproductalert" ><b>Explanatory note BSEI-481710:</b>The client company must specify the thickness, grammage, size and type of coating. The paper correspondence envelopes must be made according to ISO 269 ( withdrawn, still in use ) or other standards.</p>
+<p class="subproductalert" ><b>For paper correspondence envelopes</b> the client company must specify the <b>flap type</b>: [ 1. Bankers flap, 2. Announcement, 3. Window, 4. Commercial, 5. Square flap, 6. Wallet flap, 7. Policy, 8. Ticket, 9. Metal clasp, 10. Booklet, 11. Catalog / Hub, 12. Coin, 13. Square, 14. CD / DVD,  15. Cheese blade,  16. Pointed,  17. Monarch,  18. Scalloped,  19. Flip-stick,  20. Extension,  21. Custom flap - send drawing  ], the <b>sealing type</b>: [ 1. Peal and seal, 2. Gummed, 3. Self seal, 4. Non-adhesive flap ], <b>if the product is</b> "window envelope without plastic" or "normal without a window"</p>
+
+<h4>481720 - Paper and paperboard; letter cards, plain postcards and correspondence cards</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481720-0001</b></a> Bulk - ISO 4046-4 - Illustrated lettercard ( Custom size or ISO 328:1974 - A6 105 mm X 148 mm )</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481720-0002</b></a> Bulk - ISO 4046-4 - Illustrated postcard ( Custom size or ISO 328:1974 - A6 105 mm X 148 mm )</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-481720:</b>The client company should send the design. The client must specify the manufacturing standard, thickness, grammage, size, paperboard or paper type and type of coating.</p>
+
+<h4>481810 - Paper articles; toilet paper</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481810-0001</b></a> Rolls - ISO 12625 - Toilet paper</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-481810:</b>The client company must specify the thickness, grammage, size, ply number (e.g. 2-ply, 3-ply, 4-ply ), sheets per roll, self-dissolving or regular, packaging type, embossing type and so on. </p>
+
+
+<h4>481820 - Paper articles; handkerchiefs, cleansing or facial tissues and towels</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481820-0001</b></a> Rolls - ISO 12625 - Tissue kitchen towel</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481820-0002</b></a> Sheets - ISO 12625 - Pocket tissue handkerchief</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481820-0003</b></a> Sheets - ISO 12625 - Paper facial tissue in box</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-481820:</b>The client company must specify the thickness, grammage, size, ply number (e.g. 2-ply, 3-ply, 4-ply ), sheets per roll, packaging type, embossing type and so on. </p>
+
+<h4>481830 - Paper articles; tablecloths and serviettes, of paper, cellulose wadding or fibres</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481830-0001</b></a> Sheets - ISO 12625 - Tissue tablecloths</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481830-0002</b></a> Sheets - ISO 12625 - Tissue serviettes</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481830-0003</b></a> Sheets - ISO 12625 - Tissue table napkins</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-481830:</b>The client company must specify the thickness, grammage, size, ply number (e.g. 2-ply, 3-ply, 4-ply ), sheets per roll, packaging type, embossing type and so on. </p>
+
+<h4>481910 - Paper and paperboard; cartons, boxes and cases, of corrugated paper or paperboard</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481910-0001</b></a> Boxes - EN 14053 - Corrugated boxes</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-481910:</b>To give you a idea of possible corrugated boxes design combinations check <a href="https://www.fefco.org/sites/default/files/files/styles/thumbnail/public/FEFCO%20Code_WEBprotected.pdf" >12th edition FEFCO Codes</a> and the <a href="https://www.fefco.org/sites/default/files/files/FEFCO_ESBO_code_of_designs.pdf" >FEFCO-ESBO codes</a>. For design the client company can send a FEFCO code or a custom template-design. All types of cardboard that enters in contact with food must be approved - certified. Quality of cardboard can only be determined by laboratory analysis. For corrugated fibreboards the client company must specify flute type [ A, C, B, E ] and wall type [ 1.Single face wall, 2. Double wall board, 3. Triple wall board ]. The client company must send text and symbol he wants on the boxes (e.g. <a href="https://www.iso.org/obp/ui/#iso:pub:PUB400001:en" >ISO 7000 Symbols</a> ). <b>The client company can have fun making their own box or they can hire a professional packaging designer.</b> The client company has to send the box design details so the manufacturing companies can understand the needs. </p>
+
+<h4>481920 - Paper and paperboard; folding cartons, boxes and cases, of non-corrugated paper or paperboard</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481920-0001</b></a> Boxes - EN 14054  - Non-corrugated paperboard boxes</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-481920:</b> The client company has to send the carton design details so the manufacturing companies can understand the needs. Here is a few <a href="https://ecma.org/uploads/Bestanden/ECMA%20Sales%20Toolkit/ECMA%20Support%20Tools/New%202022/ECMA%20Codes%20EN%202022.pdf" >ECMA Codes samples</a></p>
+
+<h4>481930 - Paper and paperboard; sacks and bags of paper, paperboard, cellulose wadding or fibres, having a base of a width of 40cm or more</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481930-0001</b></a> Bulk - ISO 6590-1 - Paper - open mouth - sewn - flat - sacks</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481930-0002</b></a> Bulk - ISO 6590-1 - Paper - open mouth - sewn - gusseted - sacks</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481930-0003</b></a> Bulk - ISO 6590-1 - Paper - valved - sewn - flat - sacks</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481930-0004</b></a> Bulk - ISO 6590-1 - Paper - valved - sewn - gusseted - sacks</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481930-0005</b></a> Bulk - ISO 6590-1 - Paper - open mouth - pasted - flat, hexagonal bottom - sacks</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481930-0006</b></a> Bulk - ISO 6590-1 - Paper - open mouth - pasted - flat, turn over bottom - sacks</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481930-0007</b></a> Bulk - ISO 6590-1 - Paper - open mouth - pasted - gusseted, rectangular bottom - sacks</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481930-0008</b></a> Bulk - ISO 6590-1 - Paper - open mouth - pasted - gusseted, turn over bottom - sacks</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481930-0009</b></a> Bulk - ISO 6590-1 - Paper - valved - pasted - flat, hexagonal ends - sacks</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481930-0010</b></a> Bulk - ISO 6590-1 - Paper - valved - pasted - gusseted, rectangular ends - sacks</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481930-0011</b></a> Bulk - EN 770 - Paper - Sacks for the transport of food aid</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-481930:</b> The sacks must have a base of a width of 40 cm or more. The client company has to send the sacks design details so the manufacturing companies can understand the needs. </p>
+
+<h4>481960 - Paper and paperboard; box files, letter trays, storage boxes and similar articles, used in offices, shops or the like of paper, paperboard, cellulose wadding or webs of cellulose fibres</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481960-0001</b></a> Boxes - ISO 16245-A - Corrugated boxes - for storage of paper and parchment documents</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481960-0002</b></a> Boxes - ISO 16245-B - Corrugated boxes - for storage of paper and parchment documents</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-481960-0003</b></a> Bulk - ISO 16245 - File covers - for storage of paper and parchment documents - weight more than 100g/m2</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-481960:</b> The client company has to send the product design details so the manufacturing companies can understand the needs.</p>
+
+<h4>482110 - Paper and paperboard; labels or all kinds, printed</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-482110-0001</b></a> Bulk - Non-adhesive paper tags</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-482110-0002</b></a> Bulk - Non-adhesive paper product labels</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-482110-0003</b></a> Bulk - Non-adhesive other types of paper labels</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-482110:</b> Label design is creative. The client company should specify the paper type, thickness, grammage, size. The client must send the labels design details so the manufacturing companies can understand the needs. <b>According to WCO explanatory notes, self-adhesive printed stickers designed to be used, for example, for publicity, advertising or mere decoration, e.g., “comic stickers” and “window stickers”, are excluded</b></p>
+
+<h4>482210 - Paper pulp, paper or paperboard; bobbins, spools, cops and similar supports, of a kind used for winding textile yarn (whether or not perforated or hardened)</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-482110-0001</b></a> Bulk - ISO 1809:1977 - Paper bobbins or tubes - for winding textile yarn</p>
+<h4>482290 - Paper pulp, paper or paperboard; bobbins, spools, cops and similar supports, other than of a kind used for winding textile yarn (whether or not perforated or hardened)</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-482290-0001</b></a> Bulk - Paper bobbins or tubes - for winding non-textile yarn</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-482110, BSEI-482290:</b> The client company has to send the product design details so the manufacturing companies can understand the needs.</p>
+<h4>482369 - Paper and paperboard; trays, dishes, plates, cups and the like, of paper or paperboard other than of bamboo</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-482369-0001</b></a> Bulk - Food grade paper trays</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-482369-0002</b></a> Bulk - Food grade paper dishes or plates</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-482369-0003</b></a> Bulk - Food grade paper cups</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-482110:</b> The client company has to send the product design details so the manufacturing companies can understand the needs.</p>
+
+<h4>482370 - Paper pulp; moulded or pressed articles or paper pulp</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-482370-0001</b></a> Bulk - Food grade egg trays</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-482370:</b> The client company has to send the product design details so the manufacturing companies can understand the needs.</p>
+    
+<h4>961900 - Sanitary towels (pads) and tampons, napkins and napkin liners for babies and similar articles, of any material</h4>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-961900-0001</b></a> Pack - Absorbent baby blanket</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-961900-0002</b></a> Pack - Baby moist napkins</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-961900-0003</b></a> Pack - Moist toilet tissue</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-961900-0004</b></a> Pack - Intimate tissue</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-961900-0005</b></a> Pack - Women menstrual pads</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-961900-0006</b></a> Pack - Women daily liners pads</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-961900-0007</b></a> Pack - Women tampons</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-961900-0008</b></a> Pack - Adult diapers</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-961900-0009</b></a> Pack - Baby diaper - boy 0-25kg</p>
+<p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-961900-0010</b></a> Pack - Baby diaper - girl 0-25kg</p>
+<p class="subproductalert" ><b>Explanatory note BSEI-961900:</b> The client company has to send the product details so the suppliers companies can understand the needs.</p>
+
