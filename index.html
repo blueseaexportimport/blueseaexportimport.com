@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>BLUE SEA EXPORT IMPORT S.R.L. - Export, import, distribution and brokerage services</title>
@@ -40,6 +40,7 @@
      ul li{padding:3px 0;font-size:23px;font-family: 'Arial', sans-serif;border-bottom:0px dashed #151fba; color:#151fba;font-weight:bold;}
      .delete{text-align:right;}
      summary{padding:5px 0;margin:0;font-size:17px;font-family: 'Arial', sans-serif;border-top:1px dashed #151fba;color:darkred;font-weight:bold;}
+
      summary:hover{cursor: pointer;}
      details{padding:0px 0;font-size:21px;font-family: 'Arial', sans-serif;font-weight:normal;}
      details[open] summary { color: #151fba;}
@@ -73,6 +74,7 @@
     .fa-instagram {background-color: #125688;color: white;background-image: url(instagram.svg);background-repeat:no-repeat; background-size: 21px auto; background-position:center;}
     .fa-facebook {background-color: #3B5998;color: white;background-image: url(facebook-f.svg);background-repeat:no-repeat; background-size: 17px auto; background-position:center;}
     .fa-twitter {background-color: #444444;color: white;background-image: url(X_icon.svg);background-repeat:no-repeat; background-size: 21px auto; background-position:center;}
+
     .fa-tiktok {background-color: #000000;color: white;background-image: url(tiktok.svg);background-repeat:no-repeat; background-size: 21px auto; background-position:center;}
     .fa-viber {background-color: #784f99;color: white;background-image: url(email.svg);background-repeat:no-repeat; background-size: 21px auto; background-position:center;}
     .contact{display:block;text-align:center;padding:7px 0;font-size:19px;} 
@@ -239,6 +241,7 @@ $(".product a").each(function (index, value) {
                      $(this).parent().remove();
                      var ind = myarray.indexOf(textpar); // get index if value found otherwise -1
                          if (ind > -1) { //if found
+
                              myarray.splice(ind, 1);
                          }
  
@@ -261,12 +264,14 @@ var unitarray = [];
        //console.log(qtygetinpindex);
        if(valqty.length > 0){
           qtyarray.push(valqty,);
+
           $('#'+qtygetinpindex).css({'backgroundColor':'#b9ecc8'});
        }else{
           qtyarray.push(valqty,);
           $('#'+qtygetinpindex).css({'backgroundColor':'#f7e0e0'});
        }
    });
+
    
    
    
@@ -294,6 +299,7 @@ var unitarray = [];
  
   var newmyarray = arrunitqty.toString().replace(/,/g, '\n'); 
   newmyarray.split(",").join("\n"); 
+
   navigator.clipboard.writeText(newmyarray);
 
   if( newmyarray.length != 0 ){
@@ -321,6 +327,7 @@ $(".thedoc").each(function (index, value) {
         var thetitle = "Test";
         var thedoc = document.getElementById("html-content"+index);
          html2pdf(thedoc, {
+
             margin: 1,
             filename: thetitle + ".pdf",
             image: { type: "jpeg", quality: 0.98 },
@@ -349,6 +356,7 @@ var b = $("div[id='"+c+"']").find("p[class='product']").length;
 $(".count"+i).html("( "+b+" )");
 
 }
+
  
 
         // load helpfullinks start
@@ -447,27 +455,49 @@ $(".count"+i).html("( "+b+" )");
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100590-0002</b></a> Dent maize for human consumption ( Zea mays var.indentata )</p>
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100590-0003</b></a> Pop corn maize for human consumption ( Zea mays var. evert )</p>
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100590-0004</b></a> White maize for human consumption ( Zea mays var.indentata )</p>
+
 <h4>100610 - Cereals; rice in the husk (paddy or rough)</h4>
+
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100610-0001</b></a> Rice in the husk for human consumption ( Oryza sativa )</p>
+
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100610-0002</b></a> African Rice in the husk for human consumption ( Oryza glaberrima )</p>
+
 <h4>100790 - Cereals; grain sorghum, other than seed</h4>
+
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100790-0001</b></a> Sorghum for human consumption ( Sorghum vulgare / bicolor )</p>
+
 <h4>100810 - Cereals; buckwheat</h4>
+
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100810-0001</b></a> Buckwheat for human consumption ( Fagopyrum esculentum )</p>
+
 <h4>100829 - Cereals; millet, other than seed</h4>
+
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100829-0001</b></a> Millet for human consumption ( Panicum miliaceum )</p>
+
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100829-0002</b></a> Indian barnyard millet for human consumption ( Echinochloa frumentacea )</p>
+
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100829-0003</b></a> Finger millet for human consumption ( Eleusine coracana )</p>
+
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100829-0004</b></a> Kodo millet for human consumption ( Paspalum scrobiculatum )</p>
+
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100829-0005</b></a> Pearl millet for human consumption ( Pennisetum glaucum )</p>
+
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100829-0006</b></a> Foxtail millet for human consumption ( Setaria italica )</p>
+
 <h4>100840 - Cereals; fonio (Digitaria spp.)</h4>
+
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100840-0001</b></a> Fonio for human consumption ( Digitaria exilis )</p>
+
 <h4>100850 - Cereals; quinoa (Chenopodium quinoa)</h4>
+
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100850-0001</b></a> Quinoa for human consumption ( Chenopodium quinoa )</p>
+
 <h4>100860 - Cereals; triticale</h4>
+
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100860-0001</b></a> Triticale for human consumption ( Triticosecale )</p>
+
 <h4>100890 - Cereals; n.e.c. in chapter 10</h4>
+
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100890-0001</b></a> Quihuicha or Inca wheat for human consumption ( Amaranthus caudatus )</p>
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100890-0002</b></a> Canagua or Coaihua for human consumption ( Chenopodium pallidicaule )</p>
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-100890-0003</b></a> Adlay or Job's tears for human consumption ( Coix lacryma-jobi )</p>
@@ -522,6 +552,7 @@ $(".count"+i).html("( "+b+" )");
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-080119-0011</b></a> Coconuts with the outer shell - mesocarp or exocarp - tall ( Cocos nucifera - Kera sagara - Seychelles )</p>
 
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-080119-0012</b></a> Coconuts with the outer shell - mesocarp or exocarp - hybrid ( Cocos nucifera - Kerasankara - WCT x COD )</p>
+
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-080119-0013</b></a> Coconuts with the outer shell - mesocarp or exocarp - hybrid ( Cocos nucifera - Chandralaksha LCT x COD )</p>
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-080119-0014</b></a> Coconuts with the outer shell - mesocarp or exocarp - hybrid ( Cocos nucifera - Keraganga WCT x GBGD )</p>
 <p class="product" ><a id="addtogrocerylist" href="#!" ><b>BSEI-080119-0015</b></a> Coconuts with the outer shell - mesocarp or exocarp - hybrid ( Cocos nucifera - Lakshaganga LCT x GBGD )</p>
@@ -824,6 +855,7 @@ $(".count"+i).html("( "+b+" )");
 
 <!--
 <h3>* goods of <b>group 233</b> (Preparations used in animal feeding; lucerne (alfalfa) meal and pellets)</h3>
+
 <p class="subproduct" ><b>Note: For all products in this group, your company has to send the technical specs / quality parameters</b> </p>
 <p class="subproduct" ><b>Note: Your company must be authorized to buy these products. ( We do not accept requests from speculators )</b> </p>
 <p class="subproduct" ><b>Note: Suppliers must have accredited laboratory test results as proof of safety issued by authorized government agencies for all products. ( Private laboratory test results are not accepted. If the products are poisoned intentionally, it's an act of war ! )</b></p>
@@ -4476,6 +4508,7 @@ EN 10297-2: 2005 Seamless circular steel tubes for mechanical and general engine
 
 
 
+
 Welded tubes
 EN 39: 2001 Loose steel tubes for tube and coupler scaffolds. Technical delivery conditions
 EN 10208-1: 2009 Steel pipes for pipelines for combustible fluids. Pipes of requirement class A. Technical delivery conditions.
@@ -4485,6 +4518,7 @@ EN 10217-2: 2002 Welded steel tubes for pressure purposes. Electric welded non-a
 EN 10217-3: 2002 Welded steel tubes for pressure purposes. Alloy fine grain steel tubes
 EN 10217-4: 2002 Welded steel tubes for pressure purposes. Electric welded non-alloy steel tubes with specified low temperature properties
 EN 10217-5: 2002 Welded steel tubes for pressure purposes. Submerged arc welded non-alloy and alloy steel tubes with specified elevated temperature properties
+
 EN 10217-6: 2002 Welded steel tubes for pressure purposes. Submerged arc welded non-alloy steel tubes with specified low temperature properties
 EN 10217-7: 2005 Welded steel tubes for pressure purposes. Stainless steel tubes
 EN 10224: 2002 Non-alloy steel tubes and fittings for the conveyance of water and other aqueous liquids. Technical delivery conditions
@@ -4563,6 +4597,7 @@ Iron or steel (excluding cast iron)
 tubes and pipes (other than line pipe or casing of a kind used for oil or gas pipelines)
 welded (not longitudinally welded)
 having circular cross-sections, external diameter exceeds 406.4mm
+
 (not seamless)
 
 <h4>730590 - Iron or steel (excluding cast iron); tubes and pipes n.e.c. in heading no. 7305, having circular cross-sections, external diameter exceeds 406.4mm, (not seamless)</h4>
@@ -4576,6 +4611,7 @@ Iron or non-alloy steel (excluding cast iron)
 tubes and pipes (not seamless)
 welded
 of circular cross-section, n.e.c. in chapter 73
+
 
 
 <h4>730640 - Steel, stainless; tubes, pipes and hollow profiles, welded, of circular cross-section, n.e.c. in chapter 73</h4>
@@ -4596,6 +4632,7 @@ Iron or steel (excluding cast iron)
 tubes, pipes and hollow profiles (not seamless)
 welded
 of square or rectangular cross-section n.e.c. in chapter 73
+
 
 
 
@@ -9474,6 +9511,7 @@ EN 13834:2020
 Grills manufactured with steel or cast iron are often coated with enamel materials to protect against corrosion and to facilitate cleaning. Enamel materials are known to contain a variety of silicates and oxides derived from metals, including aluminum, antimony, arsenic, cadmium, chromium, cobalt, iron, lead, lithium and nickel.
 
 
+
 In a recent market surveillance conducted by Consumer Council in Hong Kong, several types of enamel-coated cooking pots were found to release different types of heavy metals. Referencing the international standard ISO 4531 for testing, 1 model's amount of aluminium, arsenic, cadmium and lithium released exceeded the standard by around 0.4 times to 16 times, while another model's cobalt and lithium release levels exceeded the limit by around 0.6 times and 1.3 times respectively. The test results have been referred to the Customs and Excise Department for follow-up action.
 
 -->
@@ -12780,12 +12818,12 @@ of electrical conductors
  
  <span style="font-size:10px;"><i>Don't forget to check your spam folder or to add our emails to your spam filter.</i></span><br>
  
- <span style="font-size: 14px; color:darkred;" ><b>If you don't get answer via email <br>contact us via Telegram, WhatsApp Instagram or Messenger </b></span><br>
+ <span style="font-size: 14px; color:darkred;" ><b>If you don't get answer via email <br>contact us via Telegram, WhatsApp Instagram or Messenger </b></span><br><br>
  
- <!--<span style="font-size: 17px;"><b>Bank Account</b></span><br>
- <span style="font-size: 14px;"><b>Unicredit Bank Romania</b></span><br>
- <span style="font-size: 14px;"><b>RO40BACX0000002794909000 Currency RON</b></span><br>
- <span style="font-size: 14px;"><b>Swift BACXROBU</b></span><br>-->
+ <span style="font-size: 17px;"><b>Bank Account</b></span><br>
+ <span style="font-size: 14px;"><b>Exim Banca Romaneasca S.A.</b></span><br>
+ <span style="font-size: 14px;"><b>RO55BRMA400102579352RO01 Currency RON</b></span><br>
+ <span style="font-size: 14px;"><b>Swift BRMAROBU</b></span><br> 
 	
  <br><span style="font-size: 17px;"><b>Postal</b></span> 
  <span class="srlinfo" style="font-size: 14px;" >BD. UNIRII NR. 9, BL. 9, ET. 7, AP. 27, FOCSANI, ROMANIA, POSTAL CODE 620095</span><br>
