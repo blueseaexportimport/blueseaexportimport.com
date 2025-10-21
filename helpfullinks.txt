@@ -1,3 +1,4 @@
+
  <details id="da1" >
   <summary>Company Information Sheet (CIS) / Company Profile</summary>
   
@@ -12,7 +13,7 @@
   <span><b>4. Public WhatsApp / Telegram:</b> +40 743 307 383  [ We chat via messages and letters only, so all can be recorded ]</span><br> 
   <span><b>5. Public E-Mail:</b> blueseaexportimport [ @ ] outlook or gmail or protonmail [ dot] com</span><br> 
   
-  <span><b>6. Main CAEN ( NACE / NAICS ) Code: </b> 4611 ( <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/noulcertificatdeconstatare.pdf" target="_blank" ><b>Click here to verify</b></a>, or contact <a style="color:darkred;" href="https://www.onrc.ro/index.php/ro/" target="_blank" ><b>O.N.R.C.</b></a> )</span><br>
+  <span><b>6. Main CAEN ( NACE / NAICS ) Code: </b> 4611 ( <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/noulcertificatdeconstatare.pdf" target="_blank" ><b>Click here to verify</b></a>, or contact <a style="color:darkred;" href="https://www.onrc.ro/index.php/ro/" target="_blank" ><b>O.N.R.C.</b></a>. To get our company updated "Certificate of status" you must pay a fee at <a href="https://onrc.ro" >O.N.R.C</a>, you can get it online.  )</span><br>
   <span><b>7. Secondary CAEN ( NACE / NAICS ) Codes: </b> 4613, 4615, 4617, 4618, 4619 [ we can add other nace codes if needed, clients will pay the cost ]</span><br>
   <span><b>8. DUNS number: </b> <a style="color:darkred;word-break: break-all;" href="https://www.dnb.com/business-directory/company-profiles.blue_sea_export_import_srl.21ef48635f2f3347630ca25ee65c83c0.html" target="_blank" ><b>56-734-4553</b></a></span><br> 
   <span><b>9. NCAGE Code: </b> <a style="color:darkred;word-break: break-all;" href="https://eportal.nspa.nato.int/Codification/CageTool/cage-view/1J7YL" target="_blank" ><b>1J7YL</b></a></span><br>
@@ -109,19 +110,10 @@
    <span><b>3. BLUE SEA EXPORT IMPORT S.R.L. does not need to register as courier at ANCOM due to the fact we buy the goods and the transfer of property is made after you sign the handover document when they arrive at your location.  ( In transit the goods belong to us, that means also we don't need to contact you for legal formalities and waste your time ) - EMERGENCY ORDINANCE No. 13 of March 6, 2013 on postal services art. 3, a) and b)</b></span><br> 
    <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/refs/heads/main/documents/raspunsancomtransportbunuri.png" target="_blank" ><b>Click Here To Download</b></a>
  
-
-
-
-
    </p>
    <br>
  <div class="thehidebtnbin" ><a class="thehidebtn"  href="#da1" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
 </details> 
-
-
-
-
-
 
 
 <details id="da2" >
@@ -195,8 +187,10 @@
   <span>- <b>Does not export, import, transport or store</b> tobacco, hunting articles, guns, ammo, drinking alcohol, aerosol spray paints, hemp, hemp seeds, plants or mushrooms that are toxic, prohibited substances, drinks, snacks and sweets that contain banned additives, pirated software, propaganda and indecent materials-prints or printed paper;</span><br><br>
   <span>- <b>Does not export, import, transport or store</b> wood logs or wood products from tropical and subtropical regions, wood logs or wood products that are not FSC and/or PEFC certified , even if you are certified, as supplier company must send proof the products come from sustainable exploitation of forests;</span><br><br>
   <span>- <b>Does not export, import, transport or store</b> religious items, some people are experts at manipulating belief systems for person interest.( e.g. People that want "donations" for performing fake miracles );</span><br><br>
-   <span>- <b>Does not export, import, transport or store</b> products for artists that do political propaganda for corrupt and/or extremist politicans or political parties;</span><br><br>
-  
+   <span>- <b>Does not export, import, transport or store</b> products for artists that do political propaganda for corrupt and/or extremist politicans or political parties;</span><br> 
+   <span>- <b>Does not export, import, transport or store</b> products for any company or organization owner or CEO involved in domestic violence, harassment, sexual harassment or other illegal activities;</span><br><br>
+     
+     
       <span>- <b>Has the right to refuse</b> people who use indecent language, people that try to make a scandal, people under the influence of alcohol or other psychoactive substances, people who break the law or people that incite to break the law;</span><br><br>
       <span>- <b>Has the right to refuse</b> low quality - non-safe - toxic products that don't have traceability and/or legal documents;</span><br><br>
       <span>- <b>Has the right to </b> verify the quality and safety of products before payment is released;</span><br><br>
@@ -264,7 +258,7 @@ For some products we will try to find suppliers that offer international warrant
  <p style="font-size:14px !important;border:0;" >
   <span><b>Scheduled clients</b></span><br>
 
-  <span>People that have children up to 5 years, pregnant women and people with disabilities have priority to be served. For others the rule is "first come, first served".  </span> <br><br>
+  <span>People that have children up to 5 years, pregnant women and people with physical disabilities have priority to be served. For others the rule is "first come, first served".  </span> <br><br>
   
   No clients yet
 </p>
@@ -317,14 +311,14 @@ For some products we will try to find suppliers that offer international warrant
 <span>All suppliers and clients must edit and sign the <a href="https://github.com/blueseaexportimport/blueseaexportimport.com/raw/refs/heads/main/documents/DECLARATION%20OF%20COMPLIANCE%20WITH%20THE%20BLUE%20SEA%20EXPORT%20IMPORT%20PRINCIPLES.doc" target="_blank" ><b>Declaration of Compliance with BLUE SEA EXPORT IMPORT S.R.L. Principles</b></a> before we do any business.</span><br>
 <span><b>1.</b> Send <b>products list</b> via <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%62%6C%75%65%73%65%61%65%78%70%6F%72%74%69%6D%70%6F%72%74%40%6F%75%74%6C%6F%6F%6B%2E%63%6F%6D" target="_blank" style="color:#151fba;text-decoration: underline;" >E-mail</a> or <a style="color:blue;text-decoration: underline;" href="https://t.me/blueseexportimportsrl" target="_blank" >Telegram</a> or Postal Letter [ <b>in the letter, include also your contact info</b> ]</span><br>
 <span><b>2.</b> When you send the list, include also your <b>[ company public documents + declaration of compliance ]</b> and <b>[ technical specifications - quality parameters - datasheets - technical drawings ]</b>.</span><br>
-<span><b>3.</b> We verify your company public documents</span><br>
+<span><b>3.</b> We verify your company public documents and you verify our company documents also. ( To get our company updated <a href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/noulcertificatdeconstatare.pdf" target="_blank" >"Certificate of status"</a> you must pay a fee at <a href="https://onrc.ro" target="_blank" >O.N.R.C</a>, you can get it online. If you are a romanian company you must accept to pay the fee so we get your updated "Certificate of status" at O.N.R.C )</span><br>
 <span><b>4.</b> We verify if products can be sent to you</span><br>
 <span><b>5.</b> We request prices from suppliers</span><br>
 <span><b>6.</b> We select the best prices from suppliers</span><br>
 <span><b>7.</b> We send you the best prices </span>
 <br><br>
 <span><b>If you're happy with the prices</b></span><br>
-<span><b>8.</b> We prepare commission contract clauses, shipping, itinerary and export-import procedures for non-EU countries.</span><br> 
+<span><b>8.</b>We scheduale video calls between CEO's and we prepare commission contract clauses, shipping, itinerary plan and export-import procedures for non-EU countries. </span><br> 
 <span><b>9.</b> The commission fee is 10% out of Total costs. Total costs you will see in the estimated costs annex of the contract.</span><br> 
 <span><b>10.</b> We and the banks check all the documents. If documents are ok, we sign the contract. After we send you the proforma invoice, your company has to transfer the payment via TT / Money Order ( Bank Transfer ).</span><br> 
 <span><b>11.</b> We start the delivery process after payment is confirmed, we also send you a copy of the legal invoice - payment receipt.</span><br> 
@@ -392,6 +386,8 @@ For some products we will try to find suppliers that offer international warrant
   <summary>How to Become a Supplier</summary>
   
  <p style="font-size:14px !important;border:0;" > 
+ 
+ 
 <span>All suppliers must edit and sign the <a href="https://github.com/blueseaexportimport/blueseaexportimport.com/raw/refs/heads/main/documents/DECLARATION%20OF%20COMPLIANCE%20WITH%20THE%20BLUE%20SEA%20EXPORT%20IMPORT%20PRINCIPLES.doc" target="_blank" ><b>Declaration of Compliance With BLUE SEA EXPORT IMPORT S.R.L. Principles</b></a> before we do any business.</span><br><br>
 
 
@@ -403,7 +399,7 @@ For some products we will try to find suppliers that offer international warrant
 <span>- Agreement that the supplier will allow our clients to inspect the products and sign the handover documents at final destination. <span style="color:darkred;" ><b>Payment will be released to the supplier via bank transfer only if the clients sign the handover documents </b></span>.</span><br><br>
 
  
-<span>- Document proof that you have legal documents</span><br><br>
+<span>- Document proof that you have legal documents. We also scheduale video calls between CEO's and we verify your company public documents and you verify our company documents also. ( To get our company updated <a href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/noulcertificatdeconstatare.pdf" target="_blank" >"Certificate of status"</a> you must pay a fee at <a href="https://onrc.ro" target="_blank" >O.N.R.C</a>, you can get it online. If you are a romanian company you must accept to pay the fee so we get your updated "Certificate of status" at O.N.R.C )</span><br><br>
 <span>- Document proof that the products are safe / high quality.</span> <br><span style="font-size:13px; color:darkred;" ><b><i>&nbsp; Note: All products safety documents must have the exportering country representative agencies stamps. ( e.g. If the food is poisoned intentionally we know exactly what country to blame, we don't accept TUV, Eurofins or other private laboratories test results as safety documents. )</i></b></span><br><br>
 <span>- Document proof that your products can be repaired and that they have interchangeable parts</span><br><br>
 <span>- Document proof of instruction manuals and how to use-maintan-install-unboxing videos for your products</span><br><br>
@@ -1712,5 +1708,4 @@ For some products we will try to find suppliers that offer international warrant
 
  <div class="thehidebtnbin" ><a class="thehidebtn" href="#da23" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
  
-
-</details> 
+</details>
