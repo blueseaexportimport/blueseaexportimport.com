@@ -1,4 +1,3 @@
-
  <details id="da1" >
   <summary>Company Information Sheet (CIS) / Company Profile</summary>
   
@@ -13,7 +12,7 @@
   <span><b>4. Public WhatsApp / Telegram:</b> +40 743 307 383  [ We chat via messages and letters only, so all can be recorded ]</span><br> 
   <span><b>5. Public E-Mail:</b> blueseaexportimport [ @ ] outlook or gmail or protonmail [ dot] com</span><br> 
   
-  <span><b>6. Main CAEN ( NACE / NAICS ) Code: </b> 4611 ( <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/noulcertificatdeconstatare.pdf" target="_blank" ><b>Click here to verify</b></a>, or contact <a style="color:darkred;" href="https://www.onrc.ro/index.php/ro/" target="_blank" ><b>O.N.R.C.</b></a>. To get our company updated "Certificate of status" you must pay a fee at <a href="https://onrc.ro" >O.N.R.C</a>, you can get it online.  )</span><br>
+  <span><b>6. Main CAEN ( NACE / NAICS ) Code: </b> 4611 ( <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/noulcertificatdeconstatare.pdf" target="_blank" ><b>Click here to verify</b></a>, or contact <a style="color:darkred;" href="https://www.onrc.ro/index.php/ro/" target="_blank" ><b>O.N.R.C.</b></a>. To get our company updated "Certificate of status" you must pay a fee at <a href="https://onrc.ro" target="_blank" >O.N.R.C</a>, you can get it online.  )</span><br>
   <span><b>7. Secondary CAEN ( NACE / NAICS ) Codes: </b> 4613, 4615, 4617, 4618, 4619 [ we can add other nace codes if needed, clients will pay the cost ]</span><br>
   <span><b>8. DUNS number: </b> <a style="color:darkred;word-break: break-all;" href="https://www.dnb.com/business-directory/company-profiles.blue_sea_export_import_srl.21ef48635f2f3347630ca25ee65c83c0.html" target="_blank" ><b>56-734-4553</b></a></span><br> 
   <span><b>9. NCAGE Code: </b> <a style="color:darkred;word-break: break-all;" href="https://eportal.nspa.nato.int/Codification/CageTool/cage-view/1J7YL" target="_blank" ><b>1J7YL</b></a></span><br>
@@ -110,10 +109,19 @@
    <span><b>3. BLUE SEA EXPORT IMPORT S.R.L. does not need to register as courier at ANCOM due to the fact we buy the goods and the transfer of property is made after you sign the handover document when they arrive at your location.  ( In transit the goods belong to us, that means also we don't need to contact you for legal formalities and waste your time ) - EMERGENCY ORDINANCE No. 13 of March 6, 2013 on postal services art. 3, a) and b)</b></span><br> 
    <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/refs/heads/main/documents/raspunsancomtransportbunuri.png" target="_blank" ><b>Click Here To Download</b></a>
  
+
+
+
+
    </p>
    <br>
  <div class="thehidebtnbin" ><a class="thehidebtn"  href="#da1" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
 </details> 
+
+
+
+
+
 
 
 <details id="da2" >
@@ -318,7 +326,7 @@ For some products we will try to find suppliers that offer international warrant
 <span><b>7.</b> We send you the best prices </span>
 <br><br>
 <span><b>If you're happy with the prices</b></span><br>
-<span><b>8.</b>We scheduale video calls between CEO's and we prepare commission contract clauses, shipping, itinerary plan and export-import procedures for non-EU countries. </span><br> 
+<span><b>8.</b> We scheduale video calls between CEO's and we prepare commission contract clauses, shipping, itinerary plan and export-import procedures for non-EU countries. </span><br> 
 <span><b>9.</b> The commission fee is 10% out of Total costs. Total costs you will see in the estimated costs annex of the contract.</span><br> 
 <span><b>10.</b> We and the banks check all the documents. If documents are ok, we sign the contract. After we send you the proforma invoice, your company has to transfer the payment via TT / Money Order ( Bank Transfer ).</span><br> 
 <span><b>11.</b> We start the delivery process after payment is confirmed, we also send you a copy of the legal invoice - payment receipt.</span><br> 
@@ -1709,3 +1717,4 @@ For some products we will try to find suppliers that offer international warrant
  <div class="thehidebtnbin" ><a class="thehidebtn" href="#da23" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
  
 </details>
+
