@@ -1,5 +1,5 @@
-  
- <details id="da1" >
+   
+<details id="da1" >
   <summary>Company Information Sheet (CIS) / Company Profile</summary>
   
  
@@ -219,11 +219,11 @@
     <span>- Must allow any Person, Institution, NGO, or Company to view or capture images and videos of all public documents, including public price lists. If employees try to sabotage you, report them immediately via email or social media. Such employees will be immediately fired. We will also send you the documents ASAP in PDF or JPG format via email.</span><br><br>
  
      <span><b>MINIMUM ORDER</b></span><br>
- <span><span style="color:darkred;" ><b>If your company is located in New York: 1000 USD</b></span><br>
+ <span><span style="color:darkred;" ><b>If your company is located in New York, for non-food products: 1000 USD</b></span><br>
      
      <span><span style="color:darkred;" ><b>For buying products between European Union Companies: 4000 EUR</b></span><br>
      
-     <span><b>Minimum order</b></span> <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/why100000.png" target="_blank" ><b><u>For Non-EU Companies: 100000 EUR</u></b></a></span><br><br>
+     <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/why100000.png" target="_blank" ><b><u>For Non-EU Companies: 100000 EUR</u></b></a></span><br><br>
 
      <span><b>PAYMENT METHODS</b></span><br>
      <span>We accept bank transfer only. No barter or cash or cards accepted.</span><br>
