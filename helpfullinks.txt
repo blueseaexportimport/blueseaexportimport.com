@@ -1134,7 +1134,7 @@ For some products we will try to find suppliers that offer international warrant
  
    <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Kazakhstan</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/3713#768" target="_blank" >Visa: No</a> | KZT</span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Tajikistan</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/28308#789" target="_blank" >Visa: No</a> | TJS</span><br> 
-  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" ><s>Mongolia</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/12016#777" target="_blank" >Visa: No</a> | MNT</span><br>
+  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Mongolia</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/12016#777" target="_blank" >Visa: No</a> | MNT</span><br>
 
  
  <span>- <a href="https://www.mae.ro/travel-alerts/7812" target="_blank" style="color:#151fba;" >Japan</a> - <b>L2 ( <a href="https://www.jcba.jp/broadcasting.html" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3712#766" target="_blank" >Visa: No</a> | JPY | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/japan" rel="nofollow" target="_blank" >100 Mbps+</a></span><br> 
