@@ -1226,10 +1226,10 @@ For some products we will try to find suppliers that offer international warrant
 <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Marshall Islands</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/31669#873" target="_blank" >Visa: No</a> | USD</span><br>
 <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Kiribati</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/30369#872" target="_blank" >Visa: No</a> | AUD</span><br>
 <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Micronesia</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/31681#874" target="_blank" >Visa: No</a> | USD</span><br>
-<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Solomon Islands</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/30372#879" target="_blank" >Visa: No</a> | SBD</span><br>
-<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Tonga</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/30371#881" target="_blank" >Visa: No</a> | TOP</span><br>
+<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Solomon Islands</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/30372#879" target="_blank" >Visa: No</a> | SBD</span><br>
+<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Tonga</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/30371#881" target="_blank" >Visa: No</a> | TOP</span><br>
  
-<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Papua New Guinea</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/29356#878" target="_blank" >Visa: No</a> | PGK</span><br>
+<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Papua New Guinea</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/29356#878" target="_blank" >Visa: No</a> | PGK</span><br>
  
  
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >FR - French Polynesia</a> - <b>L? ( <a href="https://la1ere.franceinfo.fr/polynesie/programme-audio/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3698#813" target="_blank" >Visa: No</a> | XPF | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/French-Polynesia.html" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
