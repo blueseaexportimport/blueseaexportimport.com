@@ -1,4 +1,4 @@
-<details id="da1" >
+  <details id="da1" >
   <summary>Company Information Sheet (CIS) / Company Profile</summary>
   
  
@@ -1103,12 +1103,11 @@ For some products we will try to find suppliers that offer international warrant
  <span>- <a href="https://www.mae.ro/travel-alerts/4989" target="_blank" >Bolivia</a> - <b>L3 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3674#886" target="_blank" >Visa: Yes</a> | BOB</span><br>
 
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >US - Puerto Rico</a> - <b>L? ( <a href="https://www.lamusica.com/stations/wznt" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3749#868" target="_blank" >Visa: Yes</a> | USD | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/Puerto-Rico/liberty-cablevision-of-puerto-rico.html" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >US - Virgin Islands</a> - <b>L? ( <a href="https://www.wstxradio.com/listen-live" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3749#868" target="_blank" >Visa: Yes</a> | USD | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/Virgin-Islands-US.html" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
- 
- <br><span><b>3. Banned countries</b></span><br>
- 
 
-
+ 
+ <br><span><b>3. Banned countries</b></span><br> 
+ <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>US - Virgin Islands</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/3749#868" target="_blank" >Visa: Yes</a> | USD </span><br>
+ 
  <span>- <a href="https://www.mae.ro/travel-alerts/63692" target="_blank" ><s>Trinidad & Tobago</s></a> - <b>L2 ( - )</b> <a href="https://www.mae.ro/travel-conditions/54766#867" target="_blank" >Visa: No</a> | TTD</span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/12315" target="_blank" ><s>Panama</s></a> - <b>L3 ( - )</b> <a href="https://www.mae.ro/travel-conditions/12400#863" target="_blank" >Visa: No</a> | USD</span><br> 
  
