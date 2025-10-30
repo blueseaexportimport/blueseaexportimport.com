@@ -1,4 +1,4 @@
- <details id="da1" >
+<details id="da1" >
   <summary>Company Information Sheet (CIS) / Company Profile</summary>
   
  
@@ -909,7 +909,8 @@ For some products we will try to find suppliers that offer international warrant
   <br>
   <h3 style="color:#151fba;" ><b>Useful info</b></h3>
   <p style="font-size:14px !important;border:0;" >
-  <a style="font-size:13px;" href="https://www.consilium.europa.eu/en/policies/eu-list-of-non-cooperative-jurisdictions/" rel="nofollow" target="_blank" >Note: Some countries are on the EU list of non cooperative jurisdictions</a><br>
+  <a style="font-size:13px;" href="https://www.mae.ro/node/1549" target="_blank" >Note: Some countries are sanctioned</a><br>
+  <a style="font-size:13px;" href="https://www.consilium.europa.eu/en/policies/eu-list-of-non-cooperative-jurisdictions/" rel="nofollow" target="_blank" >Note: Some countries are on the EU list of non cooperative jurisdictions</a><br> 
   <a style="font-size:13px;" href="https://simple.wikipedia.org/wiki/List_of_states_with_limited_recognition" rel="nofollow" target="_blank" >Note: Some countries are Non-UN states</a><br>
   <a style="font-size:13px;" href="https://en.wikipedia.org/wiki/Dependent_territory" rel="nofollow" target="_blank" >Note: Some territories are Dependencies and Areas of Special Sovereignty</a><br>
   <span style="font-size:13px;" >Some radio stations in asian and african countries transmit 3-4 hours per day, they do not have 24/7 schedule ( like in western countries )</span><br>
@@ -989,14 +990,14 @@ For some products we will try to find suppliers that offer international warrant
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >UK - Guernsey</a> - <b>L? ( <a href="https://www.channel103.com/radioplayer/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3725#843" target="_blank" >Visa: No</a> | GBP | <a style="font-size:13px;" href="https://www.speedgeo.net/statistics/guernsey" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
  
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Montenegro</a> - <b>L? ( <a href="https://rtcg.me/radio/radio-uzivo/rcg-uzivo.html" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3728#829" target="_blank" >Visa: No</a> | EUR | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/liechtenstein#fixed" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Bosnia & Herzegovina </a> - <b>L? ( <a href="https://www.bhrt.ba/uzivo/bhr1" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3675#805" target="_blank" >Visa: No</a> | BAM | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/bosnia-and-herzegovina#fixed" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
+
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >San Marino</a> - <b>L? ( <a href="https://www.sanmarinortv.sm/radio" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/28392#835" target="_blank" >Visa: No</a> | EUR | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/san-marino#fixed" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Vatican City</a> - <b>L? ( <a href="https://www.vaticannews.va/en/epg.html" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/57160#844" target="_blank" >Visa: No</a> | EUR | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/Holy-See-Vatican-City-State.html" rel="nofollow" target="_blank" ><b>5-20 Mbps</b></a></span><br>
  
   <br><span><b>2. Unfriendly countries with romanians</b></span><br>
 
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Hungary</a> - <b>L? ( <a href="https://mediaklikk.hu/kossuth/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3756#817" target="_blank" >Visa: No</a> | HUF | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/hungary#fixed" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
- <span>- <a href="https://www.mae.ro/travel-conditions/3742#836" target="_blank" >Kosovo</a> - <b>L3 ( <a href="https://www.rtklive.com/sq/livestream/radiokosova/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3742#836" target="_blank" >Visa: No</a> | EUR | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/kosovo#fixed" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
+
 
   
   
@@ -1004,7 +1005,12 @@ For some products we will try to find suppliers that offer international warrant
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>NO - Jan Mayen</s></a> - <b>L? ( 0 Population )</b> <a href="https://www.mae.ro/travel-conditions/3729#831" target="_blank" >Visa: No</a> | NOK</span><br>
   <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>MD - Transnistria</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/3739#827" target="_blank" >Visa: No</a> | PRB</span><br>
   <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>MD - Gagauzia</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/3739#827" target="_blank" >Visa: No</a> | MDL</span><br>
+  
+ <span>- <a href="https://www.mae.ro/travel-alerts" ><s>Bosnia & Herzegovina </s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/3675#805" target="_blank" >Visa: No</a> | BAM </span><br>
+  
  <span>- <a href="https://www.mae.ro/travel-alerts/2919" target="_blank" ><s>Serbia</s></a> - <b>L3 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3742#836" target="_blank" >Visa: No</a> | RSD</span><br>
+ <span>- <a href="https://www.mae.ro/travel-conditions/3742#836" target="_blank" ><s>Kosovo</s></a> - <b>L3 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3742#836" target="_blank" >Visa: No</a> | EUR </span><br>
+ 
  <span>- <a href="https://www.mae.ro/travel-conditions/3742#836" target="_blank" ><s>Belarus</s></a> - <b>L3 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3742#836" target="_blank" >Visa: No</a> | BYN</span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/24945" target="_blank" ><s>Ukraine</s></a> - <b>L9 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3755#842" target="_blank" >Visa: No</a> | UAH</span><br>
   
@@ -1045,16 +1051,21 @@ For some products we will try to find suppliers that offer international warrant
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >S. Vinc. & Grenadines</a> - <b>L? ( <a href="https://www.nbcsvg.com/livestream/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/59884#866" target="_blank" >Visa: No</a> | XCD | <a style="font-size:13px;" href="https://www.speedgeo.net/statistics/saint-vincent-and-the-grenadines" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Barbados</a> - <b>L? ( <a href="https://cbc.bb/981fm/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/48635#848" target="_blank" >Visa: No</a> | BBD | <a style="font-size:13px;" href="https://www.speedgeo.net/statistics/barbados" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Grenada</a> - <b>L? ( <a href="https://www.power95fm.com/about-power/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/59904#856" target="_blank" >Visa: No</a> | XCD | <a style="font-size:13px;" href="https://www.speedgeo.net/statistics/grenada" rel="nofollow" target="_blank" ><b>5-20 Mbps</b></a></span><br>
+ 
+
+ 
  <span>- <a href="https://www.mae.ro/travel-alerts/51955" target="_blank" style="color:#151fba;" >Argentina</a> - <b>L3 ( <a href="https://radiomitre.cienradios.com/player/mitre-am790/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3667#885" target="_blank" >Visa: No</a> | ARS | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/argentina#fixed" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/55228" target="_blank" style="color:#151fba;" >Belize</a> - <b>L3 ( <a href="https://lovefm.com/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/33006#849" target="_blank" >Visa: No</a> | BZD | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/belize#fixed" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/2904" target="_blank" style="color:#151fba;" >Costa Rica</a> - <b>L3 ( <a href="https://escucha.los40.co.cr/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3687#851" target="_blank" >Visa: No</a> | CRC | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/costa-rica#fixed" rel="nofollow" target="_blank" >100 Mbps</a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/2918" target="_blank" style="color:#151fba;" >Guatemala</a> - <b>L4 ( <a href="https://radiotgw.gob.gt/radio-tgw-en-linea/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/33017#857" target="_blank" >Visa: No</a> | GTQ | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/guatemala#fixed" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/2933" target="_blank" style="color:#151fba;" >Honduras</a> - <b>L4 ( <a href="https://tnh.gob.hn/rnh/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/33007#859" target="_blank" >Visa: No</a> | HNL | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/honduras#fixed" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/55227" target="_blank" style="color:#151fba;" >El Salvador</a> - <b>L4 ( <a href="https://radioyskl.com/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/33020#855" target="_blank" >Visa: No</a> | USD | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/el-salvador#fixed" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/45810" target="_blank" style="color:#151fba;" >Nicaragua</a> - <b>L5 ( <a href="https://www.nicaradios.com.ni/radios/lite/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/33016#862" target="_blank" >Visa: No</a> | NIO | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/nicaragua#fixed" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
+
  <span>- <a href="https://www.mae.ro/travel-alerts/9319" target="_blank" style="color:#151fba;" >Peru</a> - <b>L5 ( <a href="https://radionacional.gob.pe/alacarta" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3734#893" target="_blank" >Visa: No</a> | PEN | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/peru#fixed" rel="nofollow" target="_blank" >100 Mbps</a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/5063" target="_blank" style="color:#151fba;" >Ecuador</a> - <b>L6 ( <a href="https://www.publicafm.ec/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/31517#890" target="_blank" >Visa: No</a> | USD | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/ecuador#fixed" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2900" target="_blank" style="color:#151fba;" >Colombia</a> - <b>L6 ( <a href="https://olimpicastereo.com.co/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3684#889" target="_blank" >Visa: No</a> | COP | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/colombia#fixed" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts/2900" target="_blank" style="color:#151fba;" >Colombia</a> - <b>L6 ( <a href="https://olimpicastereo.com.co/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3684#889" target="_blank" >Visa: No</a> | COP | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/colombia#fixed" rel="nofollow" target="_blank" >100 Mbps+</a></span><br> 
+ <span>- <a href="https://www.mae.ro/travel-alerts/2889" target="_blank" style="color:#151fba;" >Brazil</a> - <b>L6 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3676#887" target="_blank" >Visa: No</a> | BRL</span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts/2930" target="_blank" style="color:#151fba;" >Haiti</a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30301#858" target="_blank" >Visa: No</a> | HTG</span><br>
  
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >NL - Aruba</a> - <b>L? ( <a href="https://www.radiotropicalaruba.com/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3731#830" target="_blank" >Visa: No</a> | AWG | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/Aruba/setar-aruba.html" rel="nofollow" target="_blank" >100 Mbps+</a></span><br> 
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >NL - Sint Maarten</a> - <b>L? ( <a href="https://www.nporadio1.nl/online-radio-luisteren/nieuws" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3731#830" target="_blank" >Visa: No</a> | XCG | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/Sint-Maarten/caribserve-broadband.html" rel="nofollow" target="_blank" ><b>5-20 Mbps</b></a></span><br>
@@ -1081,23 +1092,28 @@ For some products we will try to find suppliers that offer international warrant
 
 
 
-  <br><span><b>2. Unfriendly countries with romanians</b></span><br>
+  <br><span><b>2. Unfriendly countries with romanians</b></span><br> 
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Guyana</a> - <b>L? ( <a href="https://ncnguyana.com/2023/vybzfm/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/44723#891" target="_blank" >Visa: Yes</a> | GYD | <a style="font-size:13px;" href="https://www.speedgeo.net/statistics/guyana" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Suriname</a> - <b>L? ( <a href="https://radiosrs.sr/radio/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/44722#894" target="_blank" >Visa: Yes</a> | SRD | <a style="font-size:13px;" href="https://www.speedgeo.net/statistics/suriname" rel="nofollow" target="_blank" ><b>5-20 Mbps</b></a></span><br>
 
+ <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Cuba</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/3689#852" target="_blank" >Visa: Yes</a> | CUP</span><br>
+
  <span>- <a href="https://www.mae.ro/travel-alerts/2890" target="_blank" >Jamaica</a> - <b>L2 ( <a href="https://rjr94fm.com/live.php" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/30303#860" target="_blank" >Visa: Yes</a> | JMD | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/jamaica" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
-  
+ 
+ <span>- <a href="https://www.mae.ro/travel-alerts/4989" target="_blank" >Bolivia</a> - <b>L3 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3674#886" target="_blank" >Visa: Yes</a> | BOB</span><br>
+
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >US - Puerto Rico</a> - <b>L? ( <a href="https://www.lamusica.com/stations/wznt" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3749#868" target="_blank" >Visa: Yes</a> | USD | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/Puerto-Rico/liberty-cablevision-of-puerto-rico.html" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >US - Virgin Islands</a> - <b>L? ( <a href="https://www.wstxradio.com/listen-live" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3749#868" target="_blank" >Visa: Yes</a> | USD | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/Virgin-Islands-US.html" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
-
  
  <br><span><b>3. Banned countries</b></span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>Cuba</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/3689#852" target="_blank" >Visa: Yes</a> | CUP</span><br>
+ 
+
+
  <span>- <a href="https://www.mae.ro/travel-alerts/63692" target="_blank" ><s>Trinidad & Tobago</s></a> - <b>L2 ( - )</b> <a href="https://www.mae.ro/travel-conditions/54766#867" target="_blank" >Visa: No</a> | TTD</span><br>
-<span>- <a href="https://www.mae.ro/travel-alerts/12315" target="_blank" ><s>Panama</s></a> - <b>L3 ( - )</b> <a href="https://www.mae.ro/travel-conditions/12400#863" target="_blank" >Visa: No</a> | USD</span><br> 
- <span>- <a href="https://www.mae.ro/travel-alerts/4989" target="_blank" ><s>Bolivia</s></a> - <b>L3 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3674#886" target="_blank" >Visa: Yes</a> | BOB</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2889" target="_blank" ><s>Brazil</s></a> - <b>L6 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3676#887" target="_blank" >Visa: No</a> | BRL</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2930" target="_blank" ><s>Haiti</s></a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30301#858" target="_blank" >Visa: No</a> | HTG</span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts/12315" target="_blank" ><s>Panama</s></a> - <b>L3 ( - )</b> <a href="https://www.mae.ro/travel-conditions/12400#863" target="_blank" >Visa: No</a> | USD</span><br> 
+ 
+  <span>- <a href="https://www.mae.ro/travel-alerts/45810" target="_blank" ><s>Nicaragua</s></a> - <b>L5 ( <a href="https://www.nicaradios.com.ni/radios/lite/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/33016#862" target="_blank" >Visa: No</a> | NIO  </span><br>
+  
  <span>- <a href="https://www.mae.ro/travel-alerts/47970" target="_blank" ><s>Venezuela</s></a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3759#896" target="_blank" >Visa: No</a> | VES</span><br>
 <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>UK - South Georgia</s></a> - <b>L? ( 0 Population )</b> <a href="https://www.mae.ro/travel-conditions/3725#843" target="_blank" >Visa: No</a> | GBP</span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>UK - S. Sandwich Isl.</s></a> - <b>L? ( 0 Population )</b> <a href="https://www.mae.ro/travel-conditions/3725#843" target="_blank" >Visa: No</a> | GBP</span><br>
@@ -1112,64 +1128,75 @@ For some products we will try to find suppliers that offer international warrant
  
  <span><b>1. Friendly countries with romanians</b></span><br>
 
+  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >United Arab Emirates</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/3693#793" target="_blank" >Visa: No</a> | AED</span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Singapore</a> - <b>L? ( <a href="https://www.melisten.sg/radio/987?al=1&ap=1&c=987fm" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3743#786" target="_blank" >Visa: No</a> | SGD | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/singapore" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >South Korea</a> - <b>L? ( <a href="https://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=11&ch_type=globalList" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3686#770" target="_blank" >Visa: No</a> | KRW | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/south-korea" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
+ 
+   <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Kazakhstan</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/3713#768" target="_blank" >Visa: No</a> | KZT</span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Tajikistan</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/28308#789" target="_blank" >Visa: No</a> | TJS</span><br> 
+  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" ><s>Mongolia</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/12016#777" target="_blank" >Visa: No</a> | MNT</span><br>
+
+ 
  <span>- <a href="https://www.mae.ro/travel-alerts/7812" target="_blank" style="color:#151fba;" >Japan</a> - <b>L2 ( <a href="https://www.jcba.jp/broadcasting.html" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3712#766" target="_blank" >Visa: No</a> | JPY | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/japan" rel="nofollow" target="_blank" >100 Mbps+</a></span><br> 
  <span>- <a href="https://www.mae.ro/travel-alerts/51954" target="_blank" style="color:#151fba;" >Oman</a> - <b>L2 ( <a href="https://www.omaninfo.om/omanrd/1" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/25188#779" target="_blank" >Visa: No</a> | OMR | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/oman" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/2911" target="_blank" style="color:#151fba;" >Philippines</a> - <b>L2 ( <a href="https://www.yesfm.com.ph/radio?station=101.1-yes-the-best-manila" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3696#781" target="_blank" >Visa: No</a> | PHP | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/philippines" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
+   <span>- <a href="https://www.mae.ro/travel-alerts/64613" target="_blank" style="color:#151fba;" >Uzbekistan</a> - <b>L2 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3758#794" target="_blank" >Visa: No</a> | UZS</span><br> 
+   
+  <span>- <a href="https://www.mae.ro/travel-alerts/66662" target="_blank" style="color:#151fba;" >Vietnam</a> - <b>L3 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3760#795" target="_blank" >Visa: No</a> | VND</span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts/2893" target="_blank" style="color:#151fba;" >Kyrgyzstan</a> - <b>L3 ( - )</b> <a href="https://www.mae.ro/travel-conditions/28309#772" target="_blank" >Visa: No</a> | KGS</span><br> 
  <span>- <a href="https://www.mae.ro/travel-alerts/56149" target="_blank" style="color:#151fba;" >Brunei</a> - <b>L3 ( <a href="https://www.rtbgo.bn/radio/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/48638#756" target="_blank" >Visa: No</a> | BND | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/brunei" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/2916" target="_blank" style="color:#151fba;" >Georgia</a> - <b>L5 ( <a href="https://player.1tv.ge/radio1" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3699#814" target="_blank" >Visa: No</a> | GEL | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/georgia" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/2938" target="_blank" style="color:#151fba;" >Israel</a> - <b>L7 ( <a href="https://eco99fm.maariv.co.il/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3710#765" target="_blank" >Visa: No</a> | ILS | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/israel" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
  
 
+
  
  <br><span><b>2. Unfriendly countries with romanians</b></span><br>
 
- 
- 
+
+
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Qatar</a> - <b>L? ( <a href="https://qatarradio.qa/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3737#782" target="_blank" >Visa: Yes</a> | QAR | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/qatar" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Bahrain</a> - <b>L? ( <a href="https://www.mia.gov.bh/media-center-ar/radio-bahrain-102-3/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/25187#705" target="_blank" >Visa: Yes</a> | BHD | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/bahrain" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Bhutan</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/44984#755" target="_blank" >Visa: Yes</a> | BTN</span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Laos</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/29456#773" target="_blank" >Visa: Yes</a> | LAK</span><br>
+   
  <span>- <a href="https://www.mae.ro/travel-alerts/66992" target="_blank" >Kuwait</a> - <b>L2 ( <a href="http://www.marinafm.com/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3714#771" target="_blank" >Visa: Yes</a></span> | KWD | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/kuwait" rel="nofollow" target="_blank" >100 Mbps+</a><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/12160" target="_blank" >Maldives</a> - <b>L2 ( <a href="https://psmnews.mv/stream/radio-dhivehi-fm" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/44715#776" target="_blank" >Visa: Yes</a> | MVR | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/maldives" rel="nofollow" target="_blank" ><b>5-20 Mbps</b></a></span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts/51844" target="_blank" >Turkmenistan</a> - <b>L2 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3754#792" target="_blank" >Visa: Yes</a> | TMT </span><br>
+ 
+ <span>- <a href="https://www.mae.ro/travel-alerts/8776" target="_blank" >Cambodia</a> - <b>L3 ( - )</b> <a href="https://www.mae.ro/travel-conditions/31518#758" target="_blank" >Visa: Yes</a> | KHR</span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/2910" target="_blank" >Nepal</a> - <b>L3 ( <a href="https://radionepal.gov.np/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/45506#778" target="_blank" >Visa: Yes</a> | NPR | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/nepal" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/44859" target="_blank" >Jordan</a> - <b>L3 ( <a href="https://www.jrtv.gov.jo/radio" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3705#767" target="_blank" >Visa: Yes</a> | JOD | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/jordan" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/2922" target="_blank" >Sri Lanka</a> - <b>L3 ( <a href="https://www.goldfm.lk/onair.html" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3748#787" target="_blank" >Visa: Yes</a> | LKR | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/sri-lanka" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/2926" target="_blank" >Thailand</a> - <b>L4 ( <a href="https://www.coolism.net/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3751#790" target="_blank" >Visa: Yes</a> | THB | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/thailand" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/2901" target="_blank" >Malaysia</a> - <b>L4 ( <a href="https://radio.rtm.gov.my/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3722#775" target="_blank" >Visa: Yes</a> | MYR | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/malaysia" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>  
+   <span>- <a href="https://www.mae.ro/travel-alerts/2934" target="_blank" >India</a> - <b>L5 ( -  )</b> <a href="https://www.mae.ro/travel-conditions/3703#761" target="_blank" >Visa: Yes</a> | INR</span><br>  
  <span>- <a href="https://www.mae.ro/travel-alerts/2887" target="_blank" >Saudi Arabia</a> - <b>L6 ( <a href="https://radioplus.sba.sa/live/2" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3666#785" target="_blank" >Visa: Yes</a> | SAR | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/saudi-arabia" rel="nofollow" target="_blank" >100 Mbps+</a></span><br> 
- <span>- <a href="https://www.mae.ro/travel-alerts/53727" target="_blank" >Armenia</a> - <b>L7 ( <a href="http://armradioplayer.online/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3668#800" target="_blank" >Visa: No</a> | AMD | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/armenia" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/32390" target="_blank" >Azerbaijan</a> - <b>L7 ( <a href="https://itv.az/live-radio" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3671#802" target="_blank" >Visa: Yes</a> | AZN | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/azerbaijan" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br> 
+ <span>- <a href="https://www.mae.ro/travel-alerts/2915" target="_blank" >Pakistan</a> - <b>L6 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3732#780" target="_blank" >Visa: Yes</a> | PKR</span><br> 
+  <span>- <a href="https://www.mae.ro/travel-alerts/2927" target="_blank" >Timor-Leste</a> - <b>L6 ( - )</b> <a href="https://www.mae.ro/travel-conditions/29354#760" target="_blank" >Visa: Yes</a> | USD</span><br>
   
+ <span>- <a href="https://www.mae.ro/travel-alerts/2935" target="_blank" >Indonesia</a> - <b>L7 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3704#762" target="_blank" >Visa: Yes</a> | IDR</span><br>  
+ <span>- <a href="https://www.mae.ro/travel-alerts/53727" target="_blank" >Armenia</a> - <b>L7 ( <a href="http://armradioplayer.online/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3668#800" target="_blank" >Visa: No</a> | AMD | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/armenia" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts/32390" target="_blank" >Azerbaijan</a> - <b>L7 ( <a href="https://itv.az/live-radio" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3671#802" target="_blank" >Visa: Yes</a> | AZN | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/azerbaijan" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>  
+ <span>- <a href="https://www.mae.ro/travel-alerts/2888" target="_blank" >Bangladesh</a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/45400#706" target="_blank" >Visa: Yes</a> | BDT</span><br> 
+
+
  
   <br><span><b>3. Banned countries</b></span><br>
   <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>CN - Taiwan</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/3681" target="_blank" >Visa: No</a></span> | TWD<br>
-  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>United Arab Emirates</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/3693#793" target="_blank" >Visa: No</a> | AED</span><br>
-  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>Bhutan</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/44984#755" target="_blank" >Visa: Yes</a> | BTN</span><br>
-  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>Kazakhstan</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/3713#768" target="_blank" >Visa: No</a> | KZT</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>Tajikistan</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/28308#789" target="_blank" >Visa: No</a> | TJS</span><br>
-  <span>- <a href="https://www.mae.ro/travel-alerts/64613" target="_blank" ><s>Uzbekistan</s></a> - <b>L2 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3758#794" target="_blank" >Visa: No</a> | UZS</span><br>   
-  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>Mongolia</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/12016#777" target="_blank" >Visa: No</a> | MNT</span><br>
+ 
  <span>- <a href="https://www.mae.ro/travel-alerts/62449" target="_blank" ><s>China</s></a> - <b>L2 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3681" target="_blank" >Visa: No</a> | CNY</span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>CN - Hong Kong</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/3681" target="_blank" >Visa: No</a> | HKD</span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>CN - Macao</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/3681" target="_blank" >Visa: No</a> | MOP</span><br>
  <span>- <a href="https://en.wikipedia.org/wiki/Paracel_Islands" target="_blank" ><s>Paracel Islands</s></a> - <b>L? ( - )</b> Disputed: Yes</span><br>
  <span>- <a href="https://en.wikipedia.org/wiki/Spratly_Islands" target="_blank" ><s>Spratly Islands</s></a> - <b>L? ( - )</b> Disputed: Yes</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/51844" target="_blank" ><s>Turkmenistan</s></a> - <b>L2 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3754#792" target="_blank" >Visa: Yes</a> | TMT </span><br>
-
- <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>Laos</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/29456#773" target="_blank" >Visa: Yes</a> | LAK</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/66662" target="_blank" ><s>Vietnam</s></a> - <b>L3 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3760#795" target="_blank" >Visa: No</a> | VND</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2893" target="_blank" ><s>Kyrgyzstan</s></a> - <b>L3 ( - )</b> <a href="https://www.mae.ro/travel-conditions/28309#772" target="_blank" >Visa: No</a> | KGS</span><br> 
- <span>- <a href="https://www.mae.ro/travel-alerts/8776" target="_blank" ><s>Cambodia</s></a> - <b>L3 ( - )</b> <a href="https://www.mae.ro/travel-conditions/31518#758" target="_blank" >Visa: Yes</a> | KHR</span><br>
+ 
  <span>- <a href="https://www.mae.ro/travel-alerts/15977" target="_blank" ><s>Turkey</s></a> - <b>L4 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3753#791" target="_blank" >Visa: No</a> | TRY</span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/2921" target="_blank" ><s>TR - Northern Cyprus</s></a> - <b>L4 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3753#791" target="_blank" >Visa: No</a> | TRY</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2934" target="_blank" ><s>India</s></a> - <b>L5 ( -  )</b> <a href="https://www.mae.ro/travel-conditions/3703#761" target="_blank" >Visa: Yes</a> | INR</span><br> 
+
  <span>- <a href="https://www.mae.ro/travel-alerts/2916" target="_blank" ><s>GE - Abkhazia</s></a> - <b>L5 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3699#814" target="_blank" >Visa: Yes</a> | RUB</span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/2916" target="_blank" ><s>GE - South Ossetia</s></a> - <b>L5 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3699#814" target="_blank" >Visa: Yes</a> | RUB</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/32390" target="_blank" ><s>AZ - Nagorno-Karabakh</s></a> - <b>L7 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3671#802" target="_blank" >Visa: Yes</a> | AMD</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2915" target="_blank" ><s>Pakistan</s></a> - <b>L6 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3732#780" target="_blank" >Visa: Yes</a> | PKR</span><br> 
- <span>- <a href="https://www.mae.ro/travel-alerts/2927" target="_blank" ><s>Timor-Leste</s></a> - <b>L6 ( - )</b> <a href="https://www.mae.ro/travel-conditions/29354#760" target="_blank" >Visa: Yes</a> | USD</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2935" target="_blank" ><s>Indonesia</s></a> - <b>L7 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3704#762" target="_blank" >Visa: Yes</a> | IDR</span><br>  
- <span>- <a href="https://www.mae.ro/travel-alerts/2888" target="_blank" ><s>Bangladesh</s></a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/45400#706" target="_blank" >Visa: Yes</a> | BDT</span><br> 
+ <span>- <a href="https://www.mae.ro/travel-alerts/32390" target="_blank" ><s>AZ - Nagorno-Karabakh</s></a> - <b>L7 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3671#802" target="_blank" >Visa: Yes</a> | AMD</span><br> 
  <span>- <a href="https://www.mae.ro/travel-alerts/67129" target="_blank" ><s>Russia</s></a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3740#783" target="_blank" >Visa: Yes</a> | RUB</span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/2937" target="_blank" ><s>Iran</s></a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3707#763" target="_blank" >Visa: Yes</a> | IRR</span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/55027" target="_blank" ><s>Myanmar</s></a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/29457#757" target="_blank" >Visa: Yes</a> | MMK</span><br>
@@ -1195,10 +1222,24 @@ For some products we will try to find suppliers that offer international warrant
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >NZ - Cook Islands</a> - <b>L? ( <a href="https://www.rnz.co.nz/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3680#888" target="_blank" >Visa: No</a> | NZD | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/Cook-Islands/vodafone-cook-islands.html" rel="nofollow" target="_blank" ><b>5-20 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >NZ - Tokelau</a> - <b>L? ( <a href="https://www.rnz.co.nz/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3680#888" target="_blank" >Visa: No</a> | NZD | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/Tokelau.html" rel="nofollow" target="_blank" ><b>5-20 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Tuvalu</a> - <b>L? ( <a href="" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/30371#881" target="_blank" >Visa: No</a> | AUD | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/Tuvalu/government-of-tuvalu.html" rel="nofollow" target="_blank" ><b>0-5 Mbps</b></a></span><br>
+ 
+<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Marshall Islands</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/31669#873" target="_blank" >Visa: No</a> | USD</span><br>
+<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Kiribati</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/30369#872" target="_blank" >Visa: No</a> | AUD</span><br>
+<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Micronesia</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/31681#874" target="_blank" >Visa: No</a> | USD</span><br>
+<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Solomon Islands</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/30372#879" target="_blank" >Visa: No</a> | SBD</span><br>
+<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Tonga</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/30371#881" target="_blank" >Visa: No</a> | TOP</span><br>
+ 
+<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Papua New Guinea</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/29356#878" target="_blank" >Visa: No</a> | PGK</span><br>
+ 
+ 
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >FR - French Polynesia</a> - <b>L? ( <a href="https://la1ere.franceinfo.fr/polynesie/programme-audio/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3698#813" target="_blank" >Visa: No</a> | XPF | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/French-Polynesia.html" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >FR - New Caledonia</a> - <b>L? ( <a href="https://la1ere.franceinfo.fr/nouvellecaledonie/programme-audio/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3698#813" target="_blank" >Visa: No</a> | XPF | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/New-Caledonia.html" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >FR - Wallis and Futuna</a> - <b>L? ( <a href="https://la1ere.franceinfo.fr/wallisfutuna/programme-audio/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3698#813" target="_blank" >Visa: No</a> | XPF | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/Wallis-and-Futuna.html" rel="nofollow" target="_blank" ><b>5-20 Mbps</b></a></span><br>
 <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >UK - Pitcairn Islands</a> - <b>L? ( <a href="" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3725#843" target="_blank" >Visa: No</a> | NZD | <a style="font-size:13px;" href="https://bluishcoder.co.nz/2012/05/29/pitcairn-island-and-slow-internet.html" rel="nofollow" target="_blank" ><b>0-5 Mbps</b></a></span><br>
+
+
+
+
 
   <br><span><b>2. Unfriendly countries with romanians</b></span><br>
    
@@ -1206,20 +1247,17 @@ For some products we will try to find suppliers that offer international warrant
 
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >AU - Christmas Isl.</a> - <b>L? ( <a href="https://www.christmas.net.au/radio" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3669#870" target="_blank" >Visa: Yes</a> | AUD | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/Christmas-Island.html" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br> 
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >AU - Cocos Isl.</a> - <b>L? ( <a href="https://www.abc.net.au/listen/live/radionational" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3669#870" target="_blank" >Visa: Yes</a> | AUD | <a style="font-size:13px;" href="https://www.infrastructure.gov.au/territories-regions-cities/territories/indian_ocean/iot_bulletins/2018/A18-2018-mobile-phone-network-update" rel="nofollow" target="_blank" ><b>0-5 Mbps</b></a></span><br> 
- <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >AU - Norfolk Island</a> - <b>L? ( <a href="https://www.abc.net.au/listen/live/radionational" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3669#870" target="_blank" >Visa: Yes</a> | AUD | <a style="font-size:13px;" href="https://testmy.net/hoststats/norfolk_island_data_" rel="nofollow" target="_blank" ><b>0-5 Mbps</b></a></span><br>   
+ <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >AU - Norfolk Island</a> - <b>L? ( <a href="https://www.abc.net.au/listen/live/radionational" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3669#870" target="_blank" >Visa: Yes</a> | AUD | <a style="font-size:13px;" href="https://testmy.net/hoststats/norfolk_island_data_" rel="nofollow" target="_blank" ><b>0-5 Mbps</b></a></span><br> 
+ 
+ 
+ <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Nauru</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/30370#875" target="_blank" >Visa: Yes</a> | AUD</span><br>
+   
 <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >US - N. Mariana Isl.</a> - <b>L? ( <a href="http://www.cnmiradio.com/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3749#868" target="_blank" >Visa: Yes</a> | USD | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/Northern-Mariana-Islands.html" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
-
-
+ 
  <br><span><b>3. Banned countries</b></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>AU - Ashmore Isl.</s></a> - <b>L? ( 0 Population )</b> <a href="https://www.mae.ro/travel-conditions/3669#870" target="_blank" >Visa: Yes</a> | AUD</span><br> 
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>AU - Cartier Isl.</s></a> - <b>L? ( 0 Population )</b> <a href="https://www.mae.ro/travel-conditions/3669#870" target="_blank" >Visa: Yes</a> | AUD</span><br> 
- <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>AU - Coral Sea Isl.</s></a> - <b>L? ( 0 Population )</b> <a href="https://www.mae.ro/travel-conditions/3669#870" target="_blank" >Visa: Yes</a> | AUD</span><br> 
- 
-<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>Marshall Islands</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/31669#873" target="_blank" >Visa: No</a> | USD</span><br>
-<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>Kiribati</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/30369#872" target="_blank" >Visa: No</a> | AUD</span><br>
-<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>Micronesia</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/31681#874" target="_blank" >Visa: No</a> | USD</span><br>
-<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>Solomon Islands</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/30372#879" target="_blank" >Visa: No</a> | SBD</span><br>
-<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>Tonga</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/30371#881" target="_blank" >Visa: No</a> | TOP</span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>AU - Coral Sea Isl.</s></a> - <b>L? ( 0 Population )</b> <a href="https://www.mae.ro/travel-conditions/3669#870" target="_blank" >Visa: Yes</a> | AUD</span><br>  
 <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>Palau</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/31683#877" target="_blank" >Visa: No</a> | USD</span><br>
 <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>Samoa</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/30372#879" target="_blank" >Visa: No</a> | WST</span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>US - American Samoa</s></a> - <b>L? ( <a href="" target="_blank" rel="nofollow" >Radio</a> )</b> <a href="https://www.mae.ro/travel-conditions/3749#868" target="_blank" >Visa: Yes</a> | USD</span><br>
@@ -1231,12 +1269,10 @@ For some products we will try to find suppliers that offer international warrant
 <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>US - Palmyra Atoll</s></a> - <b>L? ( 0 Population )</b> <a href="https://www.mae.ro/travel-conditions/3749#868" target="_blank" >Visa: Yes</a> | USD</span><br>
 <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>US - Baker Island</s></a> - <b>L? ( 0 Population )</b> <a href="https://www.mae.ro/travel-conditions/3749#868" target="_blank" >Visa: Yes</a> | USD</span><br>
 <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>US - Howland Island</s></a> - <b>L? ( 0 Population )</b> <a href="https://www.mae.ro/travel-conditions/3749#868" target="_blank" >Visa: Yes</a> | USD</span><br>
-<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>US - Jarvis Island</s></a> - <b>L? ( 0 Population )</b> <a href="https://www.mae.ro/travel-conditions/3749#868" target="_blank" >Visa: Yes</a> | USD</span><br>
-
-<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>Papua New Guinea</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/29356#878" target="_blank" >Visa: No</a> | PGK</span><br>
+<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>US - Jarvis Island</s></a> - <b>L? ( 0 Population )</b> <a href="https://www.mae.ro/travel-conditions/3749#868" target="_blank" >Visa: Yes</a> | USD</span><br> 
 <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>Vanuatu</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/30373#883" target="_blank" >Visa: No</a> | VUV</span><br> 
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>Fiji</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/30276#871" target="_blank" >Visa: No</a> | FJD</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>Nauru</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/30370#875" target="_blank" >Visa: Yes</a> | AUD</span><br>
+
 <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>FR - Clipperton Island</s></a> - <b>L? ( 0 Population )</b> <a href="https://www.mae.ro/travel-conditions/3698#813" target="_blank" >Visa: No</a> | EUR</span><br>  
 
  
@@ -1252,6 +1288,10 @@ For some products we will try to find suppliers that offer international warrant
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Cabo Verde</a> - <b>L? ( <a href="https://rtc.cv/rcv/direto" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/29355#709" target="_blank" >Visa: No</a> | CVE | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/cape-verde" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Mauritius</a> - <b>L? ( <a href="https://mbcradio.tv/streaming/rm1.html" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/12415#735" target="_blank" >Visa: Yes</a> | MUR | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/mauritius" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >Seychelles</a> - <b>L? ( <a href="https://www.sbc.sc/paradisefm.html" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/12441#743" target="_blank" >Visa: Yes</a> | SCR | <a style="font-size:13px;" href="https://www.speedgeo.net/statistics/seychelles" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts/17521" target="_blank" style="color:#151fba;" >Gambia</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/29270#721" target="_blank" >Visa: No</a> | GMD</span><br>
+
+
+ <span>- <a href="https://www.mae.ro/travel-alerts/2925" target="_blank" style="color:#151fba;" >Tanzania</a> - <b>L5 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30675#749" target="_blank" >Visa: No</a> | TZS</span><br>
  
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >FR - Reunion</a> - <b>L? ( <a href="https://www.antennereunionradio.fr/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3698#813" target="_blank" >Visa: No</a> | EUR | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/Reunion.html" rel="nofollow" target="_blank" >100 Mbps+</a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >FR - Mayotte</a> - <b>L? ( <a href="https://mayottefm.fr/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3698#813" target="_blank" >Visa: No</a> | EUR | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/Mayotte.html" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
@@ -1263,7 +1303,7 @@ For some products we will try to find suppliers that offer international warrant
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >UK - Tristan da Cunha</a> - <b>L? ( <a href="https://orbit.citrus3.com:2020/stream/saintfmcommunityradio" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3725#843" target="_blank" >Visa: No</a> | GPB | <a style="font-size:13px;" href="https://www.broadbandspeedchecker.co.uk/isp-directory/Saint-Helena.html" rel="nofollow" target="_blank" ><b>0-5 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" style="color:#151fba;" >UK - BIOT islands</a> - <b>L? ( <a href="https://mbcradio.tv/streaming/rm1.html" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3725#843" target="_blank" >Visa: No</a> | USD | <a style="font-size:13px;" href="https://www.speedgeo.net/statistics/british-indian-ocean-territory" rel="nofollow" target="_blank" ><b>0-5 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/2905" target="_blank" style="color:#151fba;" >Morocco</a> - <b>L3 ( <a href="https://www.hitradio.ma/fr" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3726#733" target="_blank" >Visa: No</a> | MAD | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/morocco" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2928" target="_blank" style="color:#151fba;" >Tunisia</a> - <b>L3 ( <a href="https://www.radionationale.tn" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3752#751" target="_blank" >Visa: No</a> | TND | <a style="font-size:13px;" href="https://www.speedtest.net/global-index/tunisia" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a></span><br>
+
  
 
   <br><span><b>2. Unfriendly countries with romanians</b></span><br>
@@ -1274,50 +1314,70 @@ For some products we will try to find suppliers that offer international warrant
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Namibia</a> - <b>L? ( <a href="https://www.desertradio.fm/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/12443#737" target="_blank" >Visa: Yes</a> | NAD | <a style="font-size:13px;" href="https://www.speedgeo.net/statistics/namibia" rel="nofollow" target="_blank" ><b>5-20 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/15030" target="_blank" >Sierra Leone</a> - <b>L? ( <a href="https://www.capitalradio.sl/?page_id=40" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/60060#744" target="_blank" >Visa: Yes</a> | SLE | <a style="font-size:13px;" href="https://www.speedgeo.net/statistics/sierra-leone" rel="nofollow" target="_blank" ><b>5-20 Mbps</b></a></span><br>
 
+<span>- <a href="https://www.mae.ro/travel-alerts/49655" target="_blank" >Djibouti</a> - <b>L? ( <a href="" target="_blank" rel="nofollow" >Radio</a> )</b> <a href="https://www.mae.ro/travel-conditions/31501#715" target="_blank" >Visa: Yes</a> | DJF</span><br>
+<span>- <a href="https://www.mae.ro/travel-alerts/2898" target="_blank" >Congo Brazzaville</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/30130#713" target="_blank" >Visa: Yes</a> | XAF</span><br>
+<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Eswatini</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/12234#712" target="_blank" >Visa: Yes</a> | SZL</span><br>
+<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" >Comoros</a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/12609#748" target="_blank" >Visa: Yes</a> | KMF</span><br>
+
+<span>- <a href="https://www.mae.ro/travel-alerts/2905" target="_blank" >MA - Sahrawi Republic</a> - <b>L3 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3726#733" target="_blank" >Visa: Yes</a> | MAD</span><br>
+
+ <span>- <a href="https://www.mae.ro/travel-alerts/2886" target="_blank" >Algeria</a> - <b>L4 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3665#698" target="_blank" >Visa: Yes</a> | DZD</span><br>
+ 
+ <span>- <a href="https://www.mae.ro/travel-alerts/2931" target="_blank" >Uganda</a> - <b>L5 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30676#752" target="_blank" >Visa: Yes</a> | UGX</span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/11942" target="_blank" >Senegal</a> - <b>L5 ( <a href="https://www.rts.sn/radios/live/chaine-nationale" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3741#742" target="_blank" >Visa: No</a> | XOF | <a style="font-size:13px;" href="https://www.speedgeo.net/statistics/senegal" rel="nofollow" target="_blank" ><b>5-20 Mbps</b></a></span><br>
+ 
+<span>- <a href="https://www.mae.ro/travel-alerts/2899" target="_blank" >Madagascar</a> - <b>L6 ( - )</b> <a href="https://www.mae.ro/travel-conditions/12235#730" target="_blank" >Visa: Yes</a> | MGA</span><br>
+<span>- <a href="https://www.mae.ro/travel-alerts/55149" target="_blank" >Eritrea</a> - <b>L6 ( - )</b> <a href="https://www.mae.ro/travel-conditions/31503#718" target="_blank" >Visa: Yes</a> ERN</span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts/2885" target="_blank" >South Africa</a> - <b>L6 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3663#746" target="_blank" >Visa: Yes</a> | ZAR</span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts/2917" target="_blank" >Rwanda</a> - <b>L6 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30842#740" target="_blank" >Visa: Yes</a> | RWD</span><br>
+
+ 
  <span>- <a href="https://www.mae.ro/travel-alerts/18321" target="_blank" >Togo</a> - <b>L6 ( <a href="https://radiokara.tg/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/60061#750" target="_blank" >Visa: Yes</a> | XOF</span> | <a style="font-size:13px;" href="https://www.speedgeo.net/statistics/togo" rel="nofollow" target="_blank" ><b>20-100 Mbps</b></a><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/62130" target="_blank" >Malawi</a> - <b>L6 ( <a href="http://radiostream.mbc.mw:88/broadwavehigh.mp3?src=1" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/3723#731" target="_blank" >Visa: Yes</a> | MWK | <a style="font-size:13px;" href="https://www.speedgeo.net/statistics/malawi" rel="nofollow" target="_blank" ><b>5-20 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/18322" target="_blank" >Benin</a> - <b>L7 ( <a href="https://srtb.bj/radiokifffmsrtb/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-alerts/18322" target="_blank" >Visa: Yes</a> | XOF | <a style="font-size:13px;" href="https://www.speedgeo.net/statistics/benin" rel="nofollow" target="_blank" ><b>5-20 Mbps</b></a></span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/2907" target="_blank" >Mauritania</a> - <b>L7 ( <a href="https://www.radiomauritanie.mr/" target="_blank" rel="nofollow" >R</a> )</b> <a href="https://www.mae.ro/travel-conditions/29507#734" target="_blank" >Visa: Yes</a> | MRU | <a style="font-size:13px;" href="https://www.speedgeo.net/statistics/mauritania" rel="nofollow" target="_blank" ><b>5-20 Mbps</b></a></span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts/2913" target="_blank" >Gabon</a> - <b>L7 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30214#720" target="_blank" >Visa: Yes</a> | XAF</span><br>
+   
+  <span>- <a href="https://www.mae.ro/travel-alerts/8444" target="_blank" >Burkina Faso</a> - <b>L7 ( - )</b> <a href="https://www.mae.ro/travel-conditions/29271#702" target="_blank" >Visa: Yes</a> | XOF</span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts/2906" target="_blank" >Egypt</a> - <b>L7 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3691#716" target="_blank" >Visa: Yes</a> | EGP</span><br>
+
+ <span>- <a href="https://www.mae.ro/travel-alerts/28088" target="_blank" >Liberia</a> - <b>L7 ( - )</b> <a href="https://www.mae.ro/travel-conditions/60059#728" target="_blank" >Visa: Yes</a> | LRD</span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts/36310" target="_blank" >Angola</a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/14431#699" target="_blank" >Visa: Yes</a> | AOA</span><br>
+  
+ <span>- <a href="https://www.mae.ro/travel-alerts/2908" target="_blank" >Ethiopia</a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3695#719" target="_blank" >Visa: Yes</a> | ETB</span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts/28199" target="_blank" >Equatorial Guinea</a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/60057#717" target="_blank" >Visa: Yes</a> | XAF</span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts/2894" target="_blank" >Kenya</a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30273#726" target="_blank" >Visa: Yes</a> | KES</span><br>
+  
+ <span>- <a href="https://www.mae.ro/travel-alerts/2912" target="_blank" >Niger</a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30216#738" target="_blank" >Visa: Yes</a> | XOF</span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts/2914" target="_blank" >Nigeria</a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30217#739" target="_blank" >Visa: Yes</a> | NGN</span><br>
+  
+ <span>- <a href="https://www.mae.ro/travel-alerts/2895" target="_blank" >Chad</a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/64134#711" target="_blank" >Visa: Yes</a> | XAF</span><br>
+ <span>- <a href="https://www.mae.ro/travel-alerts/18323" target="_blank" >Cameroon</a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30844#707" target="_blank" >Visa: Yes</a> | XAF</span><br>  
+  
   
  <br><span><b>3. Banned countries</b></span><br>
 <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank"  ><s>NO - Bouvet Island</s></a> - <b>L? ( 0 Populatioan )</b> <a href="https://www.mae.ro/travel-conditions/3729#831" target="_blank" >Visa: No</a> | NOK</span><br>
 <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>AU - Heard Isl.</s></a> - <b>L? ( 0 Populatioan )</b> <a href="https://www.mae.ro/travel-conditions/3669#870" target="_blank" >Visa: Yes</a> | AYD</span><br> 
  <span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>AU - McDonald Isl.</s></a> - <b>L? ( 0 Populatioan )</b> <a href="https://www.mae.ro/travel-conditions/3669#870" target="_blank" >Visa: Yes</a> | AUD</span><br> 
-<span>- <a href="https://www.mae.ro/travel-alerts/49655" target="_blank" ><s>Djibouti</s></a> - <b>L? ( <a href="" target="_blank" rel="nofollow" >Radio</a> )</b> <a href="https://www.mae.ro/travel-conditions/31501#715" target="_blank" >Visa: Yes</a> | DJF</span><br>
-<span>- <a href="https://www.mae.ro/travel-alerts/2898" target="_blank" ><s>Congo Brazzaville</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/30130#713" target="_blank" >Visa: Yes</a> | XAF</span><br>
-<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>Eswatini</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/12234#712" target="_blank" >Visa: Yes</a> | SZL</span><br>
-<span>- <a href="https://www.mae.ro/travel-alerts/2905" target="_blank" ><s>MA - Sahrawi Republic</s></a> - <b>L3 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3726#733" target="_blank" >Visa: Yes</a> | MAD</span><br>
-<span>- <a href="https://www.mae.ro/travel-alerts" target="_blank" ><s>Comoros</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/12609#748" target="_blank" >Visa: Yes</a> | KMF</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/17521" target="_blank" ><s>Gambia</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/29270#721" target="_blank" >Visa: No</a> | GMD</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2886" target="_blank" ><s>Algeria</s></a> - <b>L4 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3665#698" target="_blank" >Visa: Yes</a> | DZD</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2925" target="_blank" ><s>Tanzania</s></a> - <b>L5 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30675#749" target="_blank" >Visa: No</a> | TZS</span><br>
+ 
+ <span>- <a href="https://www.mae.ro/travel-alerts/2928" target="_blank" ><s>Tunisia</s></a> - <b>L3 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3752#751" target="_blank" >Visa: No</a> | TND </span><br>
+ 
+ 
  <span>- <a href="https://www.mae.ro/travel-alerts/2891" target="_blank" ><s>Burundi</s></a> - <b>L5 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30844#707" target="_blank" >Visa: Yes</a> | BIF</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2931" target="_blank" ><s>Uganda</s></a> - <b>L5 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30676#752" target="_blank" >Visa: Yes</a> | UGX</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/44089" target="_blank" ><s>Zimbabwe</s></a> - <b>L5 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3761#754" target="_blank" >Visa: Yes</a> | ZWG</span><br>
-<span>- <a href="https://www.mae.ro/travel-alerts/2899" target="_blank" ><s>Madagascar</s></a> - <b>L6 ( - )</b> <a href="https://www.mae.ro/travel-conditions/12235#730" target="_blank" >Visa: Yes</a> | MGA</span><br>
-<span>- <a href="https://www.mae.ro/travel-alerts/55149" target="_blank" ><s>Eritrea</s></a> - <b>L6 ( - )</b> <a href="https://www.mae.ro/travel-conditions/31503#718" target="_blank" >Visa: Yes</a> ERN</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2885" target="_blank" ><s>South Africa</s></a> - <b>L6 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3663#746" target="_blank" >Visa: Yes</a> | ZAR</span><br>
+
+ <span>- <a href="https://www.mae.ro/travel-alerts/44089" target="_blank" ><s>Zimbabwe</s></a> - <b>L6 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3761#754" target="_blank" >Visa: Yes</a> | ZWG</span><br>
+
  <span>- <a href="https://www.mae.ro/travel-alerts/2923" target="_blank" ><s>Guinea-bissau</s></a> - <b>L6 ( - )</b> <a href="https://www.mae.ro/travel-conditions/26162#724" target="_blank" >Visa: Yes</a> | XOF</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2917" target="_blank" ><s>Rwanda</s></a> - <b>L6 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30842#740" target="_blank" >Visa: Yes</a> | RWD</span><br>
+
  <span>- <a href="https://www.mae.ro/travel-alerts/17277" target="_blank" ><s>Central African Republic</s></a> - <b>L6 ( - )</b> <a href="https://www.mae.ro/travel-conditions/29374#710" target="_blank" >Visa: Yes</a> | XAF</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2913" target="_blank" ><s>Gabon</s></a> - <b>L7 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30214#720" target="_blank" >Visa: Yes</a> | XAF</span><br>
+
  <span>- <a href="https://www.mae.ro/travel-alerts/2903" target="_blank" ><s>Mali</s></a> - <b>L? ( - )</b> <a href="https://www.mae.ro/travel-conditions/29262#732" target="_blank" >Visa: Yes</a> | XOF</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/8444" target="_blank" ><s>Burkina Faso</s></a> - <b>L7 ( - )</b> <a href="https://www.mae.ro/travel-conditions/29271#702" target="_blank" >Visa: Yes</a> | XOF</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2906" target="_blank" ><s>Egypt</s></a> - <b>L7 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3691#716" target="_blank" >Visa: Yes</a> | EGP</span><br>
+
  <span>- <a href="https://www.mae.ro/travel-alerts/2920" target="_blank" ><s>Guinea</s></a> - <b>L7 ( - )</b> <a href="https://www.mae.ro/travel-conditions/26219#723" target="_blank" >Visa: Yes</a> | GNF</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/28088" target="_blank" ><s>Liberia</s></a> - <b>L7 ( - )</b> <a href="https://www.mae.ro/travel-conditions/60059#728" target="_blank" >Visa: Yes</a> | LRD</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/36310" target="_blank" ><s>Angola</s></a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/14431#699" target="_blank" >Visa: Yes</a> | AOA</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2902" target="_blank" ><s>DR Congo</s></a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30131#714" target="_blank" >Visa: Yes</a> | CDF</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2908" target="_blank" ><s>Ethiopia</s></a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3695#719" target="_blank" >Visa: Yes</a> | ETB</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/28199" target="_blank" ><s>Equatorial Guinea</s></a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/60057#717" target="_blank" >Visa: Yes</a> | XAF</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2894" target="_blank" ><s>Kenya</s></a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30273#726" target="_blank" >Visa: Yes</a> | KES</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2912" target="_blank" ><s>Niger</s></a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30216#738" target="_blank" >Visa: Yes</a> | XOF</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2914" target="_blank" ><s>Nigeria</s></a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30217#739" target="_blank" >Visa: Yes</a> | NGN</span><br>
+  
+ <span>- <a href="https://www.mae.ro/travel-alerts/2902" target="_blank" ><s>DR Congo</s></a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30131#714" target="_blank" >Visa: Yes</a> | CDF</span><br> 
  <span>- <a href="https://www.mae.ro/travel-alerts/2924" target="_blank" ><s>Sudan</s></a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/29372#747" target="_blank" >Visa: Yes</a> | SDG</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/23853" target="_blank" ><s>South Sudan</s></a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/29375#2574" target="_blank" >Visa: Yes</a> | SSP</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/2895" target="_blank" ><s>Chad</s></a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/64134#711" target="_blank" >Visa: Yes</a> | XAF</span><br>
- <span>- <a href="https://www.mae.ro/travel-alerts/18323" target="_blank" ><s>Cameroon</s></a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/30844#707" target="_blank" >Visa: Yes</a> | XAF</span><br>  
+ <span>- <a href="https://www.mae.ro/travel-alerts/23853" target="_blank" ><s>South Sudan</s></a> - <b>L8 ( - )</b> <a href="https://www.mae.ro/travel-conditions/29375#2574" target="_blank" >Visa: Yes</a> | SSP</span><br> 
  <span>- <a href="https://www.mae.ro/travel-alerts/2897" target="_blank" ><s>Libya</s></a> - <b>L9 ( - )</b> <a href="https://www.mae.ro/travel-conditions/3717#729" target="_blank" >Visa: Yes</a> | LYD</span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/2921" target="_blank" ><s>Somalia</s></a> - <b>L9 ( - )</b> <a href="https://www.mae.ro/travel-conditions/29373#745" target="_blank" >Visa: Yes</a> | SOS</span><br>
  <span>- <a href="https://www.mae.ro/travel-alerts/2921" target="_blank" ><s>SO - Somaliland</s></a> - <b>L9 ( - )</b> <a href="https://www.mae.ro/travel-conditions/29373#745" target="_blank" >Visa: Yes</a> | SOS</span><br>
@@ -1717,4 +1777,3 @@ For some products we will try to find suppliers that offer international warrant
  <div class="thehidebtnbin" ><a class="thehidebtn" href="#da23" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
  
 </details>
-
