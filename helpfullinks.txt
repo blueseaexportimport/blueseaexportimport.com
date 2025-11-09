@@ -341,112 +341,112 @@ For some products we will try to find suppliers that offer international warrant
 <br><br>
 <span style="color:#151fba;" ><b>Example of Total costs for Non-EU Countries:</b></span><br>
 	    <span>- <b>Step 1</b> Suppliers scouting price on invoice ( bus-plane tickets, food, room rent, visa etc  ): €1000   </span><br>
-	    <span>- €1000 * 0.1 = <b>€100 ( Our Fee ) </span><br> 
+	    <span>- €1000 * 0.1 = €100 ( Our Fee ) </span><br> 
 	    <span>- €1000 + €100 ( Our Fee ) = <b>€1100 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €1100 * 0.21 = <b>€231 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €1100 + €231 = <b>€1331 ( Total For Step 1 ) </span><br><br> 
 	    
 	    <span>- <b>Step 2</b> Packaging design, label design, trademark registration in USA price on invoice:  €500 </span><br> 
-	    <span>- €500 * 0.1 = <b>€50 ( Our Fee ) </span><br> 
+	    <span>- €500 * 0.1 = €50 ( Our Fee ) </span><br> 
 	    <span>- €500 + €50 ( Our Fee ) = <b>€550 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €550 * 0.21 = <b>€115.5 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €550 + €115,5 = <b>€665.5 ( Total For Step 2 ) </span><br><br> 
 
 	    <span>- <b>Step 3</b> Raw materials Laboratory analysis price on invoice:  €500 </span><br>
-	    <span>- €500 * 0.1 = <b>€50 ( Our Fee ) </span><br> 
+	    <span>- €500 * 0.1 = €50 ( Our Fee ) </span><br> 
 	    <span>- €500 + €50 ( Our Fee ) = <b>€550 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €550 * 0.21 = <b>€115.5 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €550 + €115,5 = <b>€665.5 ( Total For Step 3 ) </span><br><br> 
 	    
 	    <span>- <b>Step 4</b> Documents translation and lawyers price on invoice:  €500 </span><br>
-	    <span>- €500 * 0.1 = <b>€50 ( Our Fee ) </span><br> 
+	    <span>- €500 * 0.1 = €50 ( Our Fee ) </span><br> 
 	    <span>- €500 + €50 ( Our Fee ) = <b>€550 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €550 * 0.21 = <b>€115.5 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €550 + €115,5 = <b>€665.5 ( Total For Step 4 ) </span><br><br> 
 
 	    <span>- <b>Step 5</b> Romania and USA import-export licences and government authorizations price on invoice: €500 </span><br>
-	    <span>- €500 * 0.1 = <b>€50 ( Our Fee ) </span><br> 
+	    <span>- €500 * 0.1 = €50 ( Our Fee ) </span><br> 
 	    <span>- €500 + €50 ( Our Fee ) = <b>€550 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €550 * 0.21 = <b>€115.5 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €550 + €115,5 = <b>€665.5 ( Total For Step 5 ) </span><br><br> 
 	    
 	    <span>- <b>Step 6</b> Almost 10-15year documents archiving price on invoice:  €500 </span><br> 
-	    <span>- €500 * 0.1 = <b>€50 ( Our Fee ) </span><br> 
+	    <span>- €500 * 0.1 = €50 ( Our Fee ) </span><br> 
 	    <span>- €500 + €50 ( Our Fee ) = <b>€550 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €550 * 0.21 = <b>€115.5 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €550 + €115,5 = <b>€665.5 ( Total For Step 6 ) </span><br><br> 
 
             <span>- <b>Step 7</b> Product 1 manufacturing price on invoice: 100pcs x €10 = €1000 </span><br>  
-	    <span>- €1000 * 0.1 = <b>€100 ( Our Fee ) </span><br> 
+	    <span>- €1000 * 0.1 = €100 ( Our Fee ) </span><br> 
 	    <span>- €1000 + €100 ( Our Fee ) = <b>€1100 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €1100 * 0.21 = <b>€231 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €1100 + €231 = <b>€1331 ( Total For Step 7 ) </span><br><br> 
  
             <span>- <b>Step 8</b> Product 2 manufacturing price on invoice: 1000pcs x €10 = €10000 </span><br> 
-	    <span>- €10000 * 0.1 = <b>€1000 ( Our Fee ) </span><br> 
+	    <span>- €10000 * 0.1 = €1000 ( Our Fee ) </span><br> 
 	    <span>- €10000 + €1000 ( Our Fee ) = <b>€11000 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €11000 * 0.21 = <b>€2310 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €11000 + €2310 = <b>€13310 ( Total For Step 8 ) </span><br><br> 
  
             <span>- <b>Step 9</b> Product 3 manufacturing price on invoice: 100pcs x €10 = €1000 </span><br>
-	    <span>- €1000 * 0.1 = <b>€100 ( Our Fee ) </span><br> 
+	    <span>- €1000 * 0.1 = €100 ( Our Fee ) </span><br> 
 	    <span>- €1000 + €100 ( Our Fee ) = <b>€1100 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €1100 * 0.21 = <b>€231 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €1100 + €231 = <b>€1331 ( Total For Step 9 ) </span><br><br> 
  
 	    <span>- <b>Step 10</b> Quality control finite products laboratory analysis fees:  €1500 </span><br>  
-	    <span>- €1500 * 0.1 = <b>€150 ( Our Fee ) </span><br> 
+	    <span>- €1500 * 0.1 = €150 ( Our Fee ) </span><br> 
 	    <span>- €1500 + €150 ( Our Fee ) = <b>€1650 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €1650 * 0.21 = <b>€346.5 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €1650 + €346.5 = <b>€1996.5 ( Total For Step 10 ) </span><br><br> 
 	    
 	    <span>- <b>Step 11</b> Products compliance with EU and USA standards ( e.g. CE marking documents ) price on invoice:  €5000 </span><br>
-	    <span>- €5000 * 0.1 = <b>€500 ( Our Fee ) </span><br> 
+	    <span>- €5000 * 0.1 = €500 ( Our Fee ) </span><br> 
 	    <span>- €5000 + €500 ( Our Fee ) = <b>€5500 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €5500 * 0.21 = <b>€1155 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €5500 + €1155 = <b>€6655 ( Total For Step 11 ) </span><br><br> 
  
 	    <span>- <b>Step 12</b> Certificate of Origin price on invoice:  €500 </span><br>
-	    <span>- €500 * 0.1 = <b>€50 ( Our Fee ) </span><br> 
+	    <span>- €500 * 0.1 = €50 ( Our Fee ) </span><br> 
 	    <span>- €500 + €50 ( Our Fee ) = <b>€550 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €550 * 0.21 = <b>€115.5 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €550 + €115,5 = <b>€665.5 ( Total For Step 12 ) </span><br><br> 
 	     
             <span>- <b>Step 13</b> 40FT Container Rent Focsani - New York price on invoice:  €3000 </span><br>
- 	    <span>- €3000 * 0.1 = <b>€300 ( Our Fee ) </span><br> 
+ 	    <span>- €3000 * 0.1 = €300 ( Our Fee ) </span><br> 
 	    <span>- €3000 + €300 ( Our Fee ) = <b>€3300 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €3300 * 0.21 = <b>€693 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €3300 + €693 = <b>€3993 ( Total For Step 13 ) </span><br><br> 
             
  
             <span>- <b>Step 14</b> Logistics, labeling and packaging price on invoice:  €5000 </span><br> 
-	    <span>- €5000 * 0.1 = <b>€500 ( Our Fee ) </span><br> 
+	    <span>- €5000 * 0.1 = €500 ( Our Fee ) </span><br> 
 	    <span>- €5000 + €500 ( Our Fee ) = <b>€5500 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €5500 * 0.21 = <b>€1155 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €5500 + €1155 = <b>€6655 ( Total For Step 14 ) </span><br><br> 
   
             <span>- <b>Step 15</b> Transport Focsani - New York price price on invoice:  €10000</span><br> 
-            <span>- €10000 * 0 = <b>€0 ( Our Fee ) </span><br> 
+            <span>- €10000 * 0 = €0 ( Our Fee ) </span><br> 
             <span>- €10000 + €0 ( Our Fee ) = <b>€10000 ( Total For Step 15 ) </span><br> 
             <span>- Note: For finding transporters we don't accept any fee or other type of payment, you pay only the transport costs. We help you find transporters in our own interest, the goods must arrive safely at your location so we can earn our commission contract fee, after you sign the delivery documents.</span><br><br>
  
             
 	    <span>- <b>Step 16</b> Export Insurance price on invoice:  €1000 </span><br>
-	    <span>- €1000 * 0.1 = <b>€100 ( Our Fee ) </span><br> 
+	    <span>- €1000 * 0.1 = €100 ( Our Fee ) </span><br> 
 	    <span>- €1000 + €100 ( Our Fee ) = <b>€1100 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €1100 * 0.21 = <b>€231 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €1100 + €231 = <b>€1331 ( Total For Step 16 ) </span><br><br> 
 	    
 	    
             <span>- <b>Step 17</b> Romania and USA Customs brokers price on invoice:  €10000 </span><br>  
-	    <span>- €10000 * 0.1 = <b>€1000 ( Our Fee ) </span><br> 
+	    <span>- €10000 * 0.1 = €1000 ( Our Fee ) </span><br> 
 	    <span>- €10000 + €1000 ( Our Fee ) = <b>€11000 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €11000 * 0.21 = <b>€2310 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €11000 + €2310 = <b>€13310 ( Total For Step 17 ) </span><br><br> 
 
             
 	    <span>- <b>Step 18</b> Tarrifs, Anti-Dumping, Customs and Other Taxes invoice :  €10000 </span><br> 
-	    <span>- €10000 * 0.1 = <b>€1000 ( Our Fee ) </span><br> 
+	    <span>- €10000 * 0.1 = €1000 ( Our Fee ) </span><br> 
 	    <span>- €10000 + €1000 ( Our Fee ) = <b>€11000 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €11000 * 0.21 = <b>€2310 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €11000 + €2310 = <b>€13310 ( Total For Step 18 ) </span><br><br> 
@@ -456,45 +456,45 @@ For some products we will try to find suppliers that offer international warrant
  
  
             <span>- <b>Step 19</b> Accounting price on invoice:  €5000 </span><br>
-	    <span>- €5000 * 0.1 = <b>€500 ( Our Fee ) </span><br> 
+	    <span>- €5000 * 0.1 = €500 ( Our Fee ) </span><br> 
 	    <span>- €5000 + €500 ( Our Fee ) = <b>€5500 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €5500 * 0.21 = <b>€1155 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €5500 + €1155 = <b>€6655 ( Total For Step 19 ) </span><br><br> 
             
 	    <span>- <b>Step 20</b> Romania and USA Products security and monitoring price on invoice:  €5000 </span><br>  
-	    <span>- €5000 * 0.1 = <b>€500 ( Our Fee ) </span><br> 
+	    <span>- €5000 * 0.1 = €500 ( Our Fee ) </span><br> 
 	    <span>- €5000 + €500 ( Our Fee ) = <b>€5500 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €5500 * 0.21 = <b>€1155 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €5500 + €1155 = <b>€6655 ( Total For Step 20 ) </span><br><br> 
 	    
 	    <span>- <b>Step 21</b> Corporate intelligence price on invoice:  €3000 </span><br>  
- 	    <span>- €3000 * 0.1 = <b>€300 ( Our Fee ) </span><br> 
+ 	    <span>- €3000 * 0.1 = €300 ( Our Fee ) </span><br> 
 	    <span>- €3000 + €300 ( Our Fee ) = <b>€3300 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €3300 * 0.21 = <b>€693 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €3300 + €693 = <b>€3993 ( Total For Step 21 ) </span><br><br> 
 	    
 	    <span>- <b>Step 22</b> Communication and IT services price on invoice ( e.g. Romania to USA phone calls ): €500</span><br>
-	    <span>- €500 * 0.1 = <b>€50 ( Our Fee ) </span><br> 
+	    <span>- €500 * 0.1 = €50 ( Our Fee ) </span><br> 
 	    <span>- €500 + €50 ( Our Fee ) = <b>€550 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €550 * 0.21 = <b>€115.5 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €550 + €115,5 = <b>€665.5 ( Total For Step 22 ) </span><br><br> 
 	    
 	    <span>- <b>Step 23</b> Transport New York port -  Syracuse Warehouse price on invoice:  €1500 </span>  
-            <span>- €1500 * 0 = <b>€0 ( Our Fee ) </span><br> 
+            <span>- €1500 * 0 = €0 ( Our Fee ) </span><br> 
             <span>- €1500 + €0 ( Our Fee ) = <b>€1500 ( Total For Step 23 ) </span><br> 
             <span>- Note: For finding transporters we don't accept any fee or other type of payment, you pay only the transport costs. We help you find transporters in our own interest, the goods must arrive safely at your location so we can earn our commission contract fee, after you sign the delivery documents.</span><br><br>
 	    
  
             <span>- <b>Step 24</b> Banking fees cost on invoice:  €4000 </span><br>  
-	    <span>- €4000 * 0.1 = <b>€400 ( Our Fee ) </span><br> 
+	    <span>- €4000 * 0.1 = €400 ( Our Fee ) </span><br> 
 	    <span>- €4000 + €400 ( Our Fee ) = <b>€4400 ( Total without Romanian 21% VAT ) </span><br> 
 	    <span>- €4400 * 0.21 = <b>€924 ( Romanian 21% VAT ) </span><br> 
 	    <span>- €4400 + €924 = <b>€5324 ( Total For Step 24 ) </span><br><br> 
             
             <span>- Total Costs without Romanian 21% VAT:  <b>€75900</b> + ( Transport Step 15 + Step 23 = €11500 not included )</span><br>  
-            <span>- €75900 * 0.21 = <b>€15939 ( Romanian 21% VAT ) </span><br> 
-            <span>- €83490 + €15939 = <b>€91839 ( Total with Romanian 21% VAT but without Transport ) </span><br><br> 
- 	    <span>- €91839 + €11500 ( Transport Step 15 + Step 23 ) = <b>€103339 ( Final Total ) </span><br> 
+            <span>- €75900 * 0.21 = €15939 ( Romanian 21% VAT ) </span><br> 
+            <span>- €83490 + €15939 = €91839 ( Total with Romanian 21% VAT but without Transport ) </span><br><br> 
+ 	    <span>- €91839 + €11500 ( Transport Step 15 + Step 23 ) = €103339 ( Final Total ) </span><br> 
             <span>- Total your company needs to send to BLUE SEA EXPORT IMPORT SRL: <b>€103339</b> </span> 
  
  <br><br>       
