@@ -1714,8 +1714,23 @@ For some products we will try to find suppliers that offer international warrant
 
 <h3 style="border-bottom: 3px solid #f5f5f5;font-size:21px;color:green;" ><b>B. Entertainment</b></h3><br>  
 <!-- START BIZ GRID -->
-<div class="bizgrid" >
+<div class="bizgrid" > 
   <div class="bizbbin" id="biztitle" >1. Movies in Cinema</div>
+  <div class="bizbbin"><a href="https://www.imdb.com/title/tt19847976/" target="_blank" ><b>B1 - Wicked: For Good (2025)</b></a> - <span>Nov 21, 2025 - Family</span></div> 
+  <div class="bizbbin"><a href="https://www.imdb.com/title/tt31844586/" target="_blank" ><b>B1 - Sisu: Road to Revenge (2025)</b></a> - <span>Nov 21, 2025 - Action</span></div>
+  <div class="bizbbin"><a href="https://www.imdb.com/title/tt14142060/" target="_blank" ><b>B1 - Rental Family (2025)</b></a> - <span>Nov 21, 2025 - Comedy</span></div>
+  <div class="bizbbin"><a href="https://www.imdb.com/title/tt26443597/" target="_blank" ><b>B1 - Zootopia 2 (2025)</b></a> - <span>Nov 26, 2025 - Animation</span></div>
+  <div class="bizbbin"><a href="https://www.imdb.com/title/tt32123395/" target="_blank" ><b>B1 - Altered (2025)</b></a> - <span>Nov 21, 2025 - Sci-Fi</span></div>
+  <div class="bizbbin"><a href="https://www.imdb.com/title/tt24950660/" target="_blank" ><b>B1 - Eternity (2025)</b></a> - <span>Nov 26, 2025 - Fantasy</span></div>
+  <div class="bizbbin"><a href="https://www.imdb.com/video/vi4199729177/" target="_blank" ><b>B1 - Tinsel Town (2025)</b></a> - <span>Nov 28, 2025 - Comedy</span></div>
+  <div class="bizbbin"><a href="https://www.imdb.com/video/vi3461662745/" target="_blank" ><b>B1 - Five Nights at Freddy's 2 (2025)</b></a> - <span>Dec 05, 2025 - Horror</span></div>
+  <div class="bizbbin"><a href="https://www.imdb.com/title/tt1757678/" target="_blank" ><b>B1 - Avatar: Fire and Ash (2025)</b></a> - <span>Dec 19, 2025 - Fantasy</span></div>
+  <div class="bizbbin"><a href="https://www.imdb.com/video/vi2401617945/" target="_blank" ><b>B1 - Is This Thing On? (2025)</b></a> - <span>Dec 19, 2025 - Drama</span></div> 
+  <div class="bizbbin"><a href="https://www.imdb.com/video/vi2773731353/" target="_blank" ><b>B1 - Song Sung Blue (2025)</b></a> - <span>Dec 25, 2025 - Drama</span></div>
+  <div class="bizbbin"><a href="https://www.imdb.com/video/vi1763624985/" target="_blank" ><b>B1 - Anaconda (2025)</b></a> - <span>Dec 25, 2025 - Comedy</span></div>
+ 
+ 
+  
   <div class="bizbbin" id="biztitle" >2. TV and Radio Schedule</div>
   <div class="bizbbin" id="biztitle" >3. Chess Parks</div>
   <div class="bizbbin" id="biztitle" >4. Public Baths and Swimming Pools</div>
@@ -1788,6 +1803,11 @@ Use the country credit ratings to plan and manage your international trade.</spa
   
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div>
+  <div class="bizbbin" style="border:1px dashed #151fba;" ><span>We put here restaurants and food vendors that <b>we think</b> are worth trying. It means we never visited this places and we did not eat the food. We are not food critics. </span></div>  
+  
+  
+  
+  
   <div class="bizbbin" id="biztitle" >9. Hotels</div>
   <div class="bizbbin" id="biztitle" >10. Free Clean Public Toilets</div>
   <div class="bizbbin" id="biztitle" >11. Luggage Storage</div>
