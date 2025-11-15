@@ -1,6 +1,5 @@
 <!-- Helpful links -->
-<!-- Helpful links -->
-
+ 
   <details id="da1" >
   <summary>Company Information Sheet (CIS) / Company Profile</summary>
   
