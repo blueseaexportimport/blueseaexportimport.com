@@ -1628,7 +1628,7 @@ For some products we will try to find suppliers that offer international warrant
 <!-- start Itr --> 
 <details id="da24" >
   <summary>International Trade Resources</summary>
-  <div class="itr" ></div>
+  <div id="itr" ></div>
  <div class="thehidebtnbin" ><a class="thehidebtn" href="#da24" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
  
 </details>
