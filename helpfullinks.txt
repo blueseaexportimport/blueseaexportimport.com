@@ -1,6 +1,6 @@
 <!-- Helpful links -->
 
- <details id="da1" >
+<details id="da1" >
   <summary>Company Information Sheet (CIS) / Company Profile</summary>
   
  
@@ -1666,8 +1666,40 @@ For some products we will try to find suppliers that offer international warrant
 
 <div class="bizbbin" id="biztitle" >7. Galleries</div>
 
-<div class="bizbbin" id="biztitle" >8. Museums and Exhibitions</div>
-<div class="bizbbin" ><a href="https://www.911memorial.org" target="_blank" ><b>A8 - 911 Memorial</b></a> - <span>Located at the World Trade Center in New York City, the 9/11 Memorial Museum tells the story of 9/11.</span></div>
+<div class="bizbbin" id="biztitle" >8. Museums and Exhibitions</div>  
+<div class="bizbbin" style="border:1px dashed #151fba;" ><span>Romania</span></div> 
+<div class="bizbbin"><a href="https://mnar.ro/en/" target="_blank" ><b>A8 - National - Museum of Art of Romania</b></a> - <span>Is located in the Royal Palace in Revolution Square, central Bucharest. It features collections of medieval and modern Romanian art, as well as the international collection assembled by the Romanian royal family.</span></div> 
+<div class="bizbbin"><a href="https://www.mnir.ro/welcome-to-nhmr/" target="_blank" ><b>A8 - National Museum of Romanian History</b></a> - <span>The National History Museum of Romania, founded in 1972, is one of the emblematic institutions of Romanian culture. </span></div> 
+<div class="bizbbin"><a href="https://muzeul-satului.ro/en/" target="_blank" ><b>A8 - National - Village Museum "Dimitrie Gusti" </b></a> - <span>On the shores of Lake Herastrau, right in the middle of Romania's capital, visitors from all over the world have the joy of encountering a real "village", with monuments and artifacts from the 17th century to the early 20th century. </span></div>  
+<div class="bizbbin"><a href="https://muzeultaranuluiroman.ro/en/home/" target="_blank" ><b>A8 - National Museum of the Romanian Peasant </b></a> - <span>Is part of the European family of Museums of Popular Art and Traditions.</span></div> 
+<div class="bizbbin"><a href="https://mnac.ro/home" target="_blank" ><b>A8 - National - Museum of the Romanian Peasant </b></a> - <span>The museum is located in a new glass wing of the Palace of the Parliament, one of the largest administrative buildings in the world.</span></div>
+<div class="bizbbin"><a href="https://www.muzeulhartilor.ro/?lang=en" target="_blank" ><b>A8 - National - Museum of Maps </b></a> - <span>The museum opened to the public in 2003 and is hosted in a beautiful villa built in the 1920’s. The main collection belonged to Professor Adrian Nastase’s family and was donated to the Romanian state.</span></div>
+<div class="bizbbin"><a href="https://antipa.ro/" target="_blank" ><b>A8 - National Museum of Natural History "Grigore Antipa"</b></a> - <span>The museum was founded on November 3, 1834, at the initiative of Prince Alexandru Ghica's brother, Grand Ban Mihalache Ghica, who donated important collections, including Greek, Roman and Byzantine coins, collections of minerals, fossils, mollusks, fish, birds and mammals, as well as works of art.</span></div>
+<div class="bizbbin"><a href="https://www.muzeulmilitar.ro/en/" target="_blank" ><b>A8 - National - Military Museum "King Ferdinand" </b></a> - <span>One of the most prestigious cultural institutions in Romania which has played an important role in promoting the military and historical traditions of the Romanian Army.</span></div>
+<div class="bizbbin"><a href="https://muzeu.igsu.ro/" target="_blank" ><b>A8 - National Firefighters Museum </b></a> - <span>In the past it served as an observation tower for fire protection. It was built in 1890, as a surveillance and alarm point for firefighters, two years after the previous tower - the Coltei Tower, built in 1715, that was demolished.</span></div>
+<div class="bizbbin"><a href="https://geology.ro/" target="_blank" ><b>A8 - National Museum of Geology </b></a> - <span>The museum hosts a collection of 80,000 samples of rocks, fossils, and minerals from Romania.</span></div>
+<div class="bizbbin"><a href="https://www.mnt-leonida.ro/en/" target="_blank" ><b>A8 - National - Technical Museum "Dimitrie Leonida"</b></a> - <span>At the beginning of the 20th century, Romania needed specialists in electricity and mechanics. Engineer Dimitrie Leonida founded the School of Electricians and Mechanics, designed to train qualified professionals. In parallel, Leonida began collecting objects for the future Technical Museum. These objects were the first exhibits of the museum, which was to become a point of reference for Romanian technical education.</span></div>
+<div class="bizbbin"><a href="https://www.muzeulcotroceni.ro/index_eng.html" target="_blank" ><b>A8 - National Museum "Cotroceni" </b></a> - <span>Was founded, as a national institution under the authority of the Ministry of Culture. Therefore, the old wing of the palace was opened to the public on December 27th, 1991 and, through the government decision no. 1279 of December 20th 2001, the Museum was placed under the authority of the Presidential Administration.</span></div>
+<div class="bizbbin"><a href="https://www.georgeenescu.ro/" target="_blank" ><b>A8 - National - Museum "George Enescu"  </b></a> - <span> Presents permanent exhibitions at all its locations , exhibitions illustrating the life and work of the great musician, as well as temporary exhibitions with various themes.</span></div>
+<div class="bizbbin"><a href="https://mnlr.ro/" target="_blank" ><b>A8 - National Museum of Romanian Literature </b></a> - <span> Holds an authentic literary treasure consisting of manuscripts, old and rare books, historical and literary documents, personal objects and pieces of furniture that belonged to writers. </span></div> 
+<div class="bizbbin"><a href="https://peles.ro/en/" target="_blank" ><b>A8 - National - Museum "Peles" </b></a> - <span> Peles Castle was built at the initiative of the first King of Romania, Carol I, outside the perimeter of the Podul Neagului commune, a locality with an area of 24 km in 1874, the year in which, at the initiative of the sovereign, the commune was named Sinaia.  </span></div> 
+<div class="bizbbin"><a href="https://muzeulpetrolului.ro/" target="_blank" ><b>A8 - National Museum of Oil </b></a> - <span> The Petroleum Museum was inaugurated in October 1961 and has a heritage estimated at over 8,000 museum pieces. It is the only museum of its kind in Romania.  </span></div> 
+<div class="bizbbin"><a href="https://www.brukenthalmuseum.ro/site/en" target="_blank" ><b>A8 - National - Museum "Brukenthal" </b></a> - <span>A museum in Sibiu, Romania, established in the late 18th century by Samuel von Brukenthal in his city palace.</span></div> 
+<div class="bizbbin"><a href="https://muzeulastra.ro/en/" target="_blank" ><b>A8 - National - Museum "Astra" Complex</b></a> - <span> A important ethnomuseum institution in Romania. The largest open-air museum in Europe. </span></div> 
+<div class="bizbbin"><a href="https://mnit.ro/en/-/" target="_blank" ><b>A8 - National - Museum of the History of Transylvania </b></a> - <span> With an impressive heritage bringing together over 450.000 objects, located in one of the most active, effervescent and cultural cities in Romania, MNIT is one of the most important national cultural institutions and the only museum of national rank in Cluj-Napoca.  </span></div>
+<div class="bizbbin"><a href="https://palatulculturii.ro/" target="_blank" ><b>A8 - National - Museum of "Moldova" Complex </b></a> - <span> Includes four national museums, a heritage research and conservation-restoration center, as well as six other museum sites, located on the territory of the city and, respectively, of Iasi County. </span></div>
+<div class="bizbbin"><a href="https://muzeulnationalbran.ro/" target="_blank" ><b>A8 - National - Museum Bran </b></a> - <span> A public cultural institution subordinated to the Ministry of Culture, has a cultural heritage of great artistic, historical, documentary and ethnographic value, the core of the collections being represented by objects from the royal collections at Bran Castle. </span></div>
+<div class="bizbbin"><a href="https://www.mncr.ro" target="_blank" ><b>A8 - National - Museum of Eastern Carpathians </b></a> - <span> In 1995, the National Museum of Transylvania History established an archaeology section in Sfântu Gheorghe, which was to be transformed into an independent museum according to Government Decision no. 1365 / 1996. </span></div>
+<div class="bizbbin"><a href="http://eminescuipotesti.ro/" target="_blank" ><b>A8 - National - Ipotesti Memorial - "Mihai Eminescu"</b></a> - <span> Cultural festival with recitals, exhibitions, book launches and special guests, dedicated to the memory of Mihai Eminescu. </span></div>
+<div class="bizbbin"><a href="https://mnuai.ro/" target="_blank" ><b>A8 - National - Museum of the Union Alba Iulia</b></a> - <span> Was founded in 1888 on the initiative of the History, Archaeology and Natural Sciences Society of Alba County. </span></div> 
+<div class="bizbbin"><a href="https://muzeulgolesti.ro/en/" target="_blank" ><b>A8 - National - Museum of Viticulture and Fruit Growing Golesti</b></a> - <span> Indoor/outdoor museum complex of traditional rural buildings & farms with vineyards and fruit trees.</span></div>
+<div class="bizbbin"><a href="https://muzeulagriculturii.ro/" target="_blank" ><b>A8 - National - Museum of Agriculture </b></a> - <span> Has as its object of activity the history of agriculture, agrarian anthropology and specific industrial archaeology from all over the country. </span></div>
+<div class="bizbbin"><a href="https://politiaromana.ro/ro/informatii-generale/muzeul-politiei-romane/muzeul-national-al-politiei-romaneB&page=1" target="_blank" ><b>A8 - National - Museum of the Romanian Police </b></a> - <span> Is housed in a building of great artistic and historical value, rebuilt in neoclassical style between 1867 and 1893. </span></div>
+<div class="bizbbin"><a href="https://muzeulmarinei.ro/" target="_blank" ><b>A8 - National - Museum of Romanian Navy </b></a> - <span> The permanent exhibition of the Romanian Navy Museum is organized on the thematic-chronological criteria, in accordance with the periodizations of classical historiography and has four distinct sectors - the eras of Ancient History, Medieval History, Modern History and Contemporary History. </span></div> 
+<div class="bizbbin" style="border:1px dashed #151fba;" ><span>For other <b>public</b> local and regional museums in Romania check Law no. 311 din 8 iulie 2003 </span></div> 
+
+
+
 <div class="bizbbin" id="biztitle" >9. Landmarks</div>
 
 <div class="bizbbin" id="biztitle" >10. Religious Buildings</div>
@@ -1733,7 +1765,6 @@ For some products we will try to find suppliers that offer international warrant
   
   <div class="bizbbin"><a href="https://www.imdb.com/video/vi2773731353/" target="_blank" ><b>B1 - Song Sung Blue (2025)</b></a> - <span>Dec 25, 2025 - Drama</span></div>
   <div class="bizbbin"><a href="https://www.imdb.com/video/vi1763624985/" target="_blank" ><b>B1 - Anaconda (2025)</b></a> - <span>Dec 25, 2025 - Comedy</span></div>
- 
  
  
   
@@ -2049,6 +2080,7 @@ Use the country credit ratings to plan and manage your international trade.</spa
  <div class="thehidebtnbin" ><a class="thehidebtn" href="#da24" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
  
 </details>
+
 
 
 <!-- Helpful links -->
