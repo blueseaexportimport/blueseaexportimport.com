@@ -398,6 +398,15 @@ $(".count"+i).html("( "+b+" )");
          }});
         // load helpfullinks end
 
+        // load itr start
+         let rand = Math.floor((Math.random() * 1000000) + 1);
+         $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/refs/heads/main/itr.txt?" + rand, success: function(result){
+         $("#itr").html(result);
+         }});
+        // load itr end
+
+
+	
 
 });
 </script>
@@ -13468,4 +13477,5 @@ document.getElementById("year").innerHTML = year;
 </body>
 
 </html> 
+
 
