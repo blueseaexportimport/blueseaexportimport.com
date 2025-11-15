@@ -1,0 +1,442 @@
+
+
+<h3 style="border-bottom: 3px solid #f5f5f5;font-size:21px;color:green;" ><b>A. Education and Culture</b></h3><br>  
+<!-- START BIZ GRID -->
+
+<div class="bizgrid" >
+  <div class="bizbbin" id="biztitle" >1. Papers and Journals</div>
+  <div class="bizbbin" ><a href="https://paperity.org" target="_blank" ><b>A1 - Paperity - Journals and Papers Aggregator</b></a> - <span>The 1st multidisciplinary aggregator of Open Access journals & papers. Free fulltext PDF articles from hundreds of disciplines, all in one place.</span></div>
+  <div class="bizbbin" ><a href="https://arxiv.org" target="_blank" ><b>A1 - Arxiv.org - Scholarly Articles</b></a> - <span>A free distribution service and an open-access archive for nearly 2.4 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.</span></div>
+  <div class="bizbbin" ><a href="http://cds.cern.ch" target="_blank" ><b>A1 - CERN - Documents Server</b></a> - <span>Document Server is where you can find the CERN scientific output (articles, preprints, reports, CERN Annual reports, Yellow Reports, CERN Bulletin, etc.).</span></div>
+  <div class="bizbbin" ><a href="https://www.sciencedirect.com" target="_blank" ><b>A1 - ScienceDirect - Journal Articles</b></a> - <span>The world's leading source for scientific, technical, and medical research. Explore journals, books and articles.</span></div>
+  <div class="bizbbin" ><a href="https://www.researchgate.net/search" target="_blank" ><b>A1 - Researchgate - Papers Database</b></a> - <span>A database is a structured collection of records or data that is stored in a computer so that it can be consulted by a program to answer queries.</span></div> 
+  <div class="bizbbin" ><a href="https://scholar.google.com" target="_blank" ><b>A1 - Google Scholar</b></a> - <span>Google Scholar provides a simple way to broadly search for scholarly literature. Search across a wide variety of disciplines and sources</span></div>
+  <div class="bizbbin" ><a href="http://repec.org" target="_blank" ><b>A1 - RePEc - Research Papers in Economics</b></a> - <span> Is an initiative that seeks to enhance the dissemination of research in Economics and related areas. </span></div>
+  <div class="bizbbin" ><a href="https://www.econbiz.de" target="_blank" ><b>A1 - EconBiz - Find Economics Literature</b></a> - <span>Our interactive tour provides an overview of core functions such as searching literature, navigating your result list, download free full texts and searching efficiently for relevant literature.</span></div>
+  
+  <div class="bizbbin" id="biztitle" >2. History</div>
+  <div class="bizbbin" ><a href="https://earthengine.google.com/timelapse" target="_blank" ><b>A2 - Google Timelapse</b></a> - <span>View a map over time with Timelapse and Historical Imagery. Manage your data and projects with enhanced collaboration features.</span></div>
+  <div class="bizbbin" ><a href="https://digi.vatlib.it" target="_blank" ><b>A2 - Vatican Books Database</b></a> - <span>A digital library service. It provides free access to the Vatican Library’s digitized collections: manuscripts, incunabula, archival materials and inventories as well as graphic materials, coins and medals, printed materials (special projects).</span></div>
+  <div class="bizbbin" ><a href="https://eudocs.lib.byu.edu/index.php/Main_Page" target="_blank" ><b>A2 - EuroDocs - European History Database</b></a> - <span>EuroDocs links connect to Western European (mainly primary) historical documents that are transcribed, reproduced in facsimile, or translated. </span></div>
+  <div class="bizbbin" ><a href="https://www.worldhistory.org/index" target="_blank" ><b>A2 - World History - Encyclopedia</b></a> - <span>A non-profit organisation that publishes free, high-quality historical content to advance historical literacy and improve history education worldwide.</span></div>
+  <div class="bizbbin" ><a href="https://ethw.org/Main_Page" target="_blank" ><b>A2 - Engineering and Technology History Wiki</b></a> - <span>A chronological list of important achievements in the history of engineering and technology.</span></div>
+  <div class="bizbbin" ><a href="https://arachne.dainst.org" target="_blank" ><b>A2 - iDAI Objects</b></a> - <span>The central object-database of the German Archaeological Institute (DAI) and the Cologne Digital Archaeology Laboratory (CoDArchLab) at the University of Cologne.</span></div>
+  <div class="bizbbin" ><a href="https://snaccooperative.org" target="_blank" ><b>A2 - SNAC Discovery service</b></a> - <span>A free, online resource that helps users discover primary source documents, such as photographs, letters, and sound recordings, from all over the world and connections across time and place.</span></div>
+  <div class="bizbbin" ><a href="https://itiner-e.org/" target="_blank" ><b>A2 - Itiner-e – The Digital Atlas of Ancient Roads</b></a> - <span>Itiner-e aims to host the most detailed open digital dataset of roads in the entire Roman Empire. The data creation is a collaborative ongoing project edited by a scholarly community.</span></div>
+ 
+<div class="bizbbin" id="biztitle" >3. Astronomy and Cosmology</div>
+<div class="bizbbin" ><a href="https://www.cobs.si" target="_blank" ><b>A3 - Comet Observation database (COBS)</b></a> - <span>It is a free and unique service for comet observers worldwide which allows submission, display and analysis of comet data in a single location.</span></div>
+<div class="bizbbin" ><a href="https://exoplanetarchive.ipac.caltech.edu" target="_blank" ><b>A3 - NASA Exoplanet Archive</b></a> - <span>Astronomical exoplanet catalog and data service that collects and serves public data that support the search for and characterization of exoplanets and their host stars.</span></div>
+<div class="bizbbin" ><a href="http://exoplanet.eu" target="_blank" ><b>A3 - Exoplanets Encyclopedia</b></a> - <span>This encyclopaedia provides the latest detections and data announced by professional astronomers on exoplanetary systems. </span></div>
+<div class="bizbbin" ><a href="http://simbad.u-strasbg.fr/simbad/" target="_blank" ><b>A3 - SIMBAD Astronomical Database</b></a> - <span>Provides basic data, cross-identifications, bibliography and measurements for astronomical objects outside the solar system.</span></div>
+ 
+
+<div class="bizbbin" id="biztitle" >4. Linguistics</div>
+<div class="bizbbin" ><a href="http://glottopedia.org/index.php/Main_Page" target="_blank" ><b>A4 - Glottopedia - Encyclopedia for Linguists</b></a> - <span>Is a freely editable encyclopedia for linguists by linguists that is currently being built up.</span></div>
+<div class="bizbbin" ><a href="https://www.omniglot.com/writing/languages.htm" target="_blank" ><b>A4 - Omniglot - index of (2,193) languages</b></a> - <span>Encyclopedia of writing systems and languages. You can use it to learn about languages, to learn alphabets and other writing systems, and to learn phrases, numbers and other things in many languages.</span></div>
+<div class="bizbbin" ><a href="https://www.oxfordreference.com" target="_blank" ><b>A4 - Oxford Reference</b></a> - <span>Premier online reference product, spanning 22 different subject areas, bringing together 2 million digitized entries across Oxford University Press’s Dictionaries, Companions and Encyclopedias.</span></div>
+<div class="bizbbin" ><a href="https://languages.oup.com/dictionaries" target="_blank" ><b>A4 - Oxford English Dictionary</b></a> - <span>Unsurpassed guide to the English language, documenting 600,000 words through 3.5 million illustrative quotations from over 1,000 years of history across the English-speaking world.</span></div>
+<div class="bizbbin" ><a href="https://ling.auf.net/lingbuzz/" target="_blank" ><b>A4 - LingBuzz - Articles Archive</b></a> - <span>Article archive and a community space for Linguistics.</span></div>
+<div class="bizbbin" ><a href="https://logeion.uchicago.edu/about" target="_blank" ><b>A4 - Logeion - Words Look Up</b></a> - <span>A speaker's platform, or an archive, developed after the example of dvlf.uchicago.edu, to provide simultaneous lookup of entries in the many reference works that make up the Perseus Classical collection - and in the meantime, many others. </span></div>
+ 
+  
+
+<div class="bizbbin" id="biztitle" >5. Theaters and Ballet</div>
+  
+<div class="bizbbin" id="biztitle" >6. Opera Houses and Orchestras</div>
+
+<div class="bizbbin" id="biztitle" >7. Galleries</div>
+
+<div class="bizbbin" id="biztitle" >8. Museums and Exhibitions</div>  
+<div class="bizbbin" style="border:1px dashed #151fba;" ><span>Romania</span></div> 
+<div class="bizbbin"><a href="https://mnar.ro/en/" target="_blank" ><b>A8 - National - Museum of Art of Romania</b></a> - <span>Is located in the Royal Palace in Revolution Square, central Bucharest. It features collections of medieval and modern Romanian art, as well as the international collection assembled by the Romanian royal family.</span></div> 
+<div class="bizbbin"><a href="https://www.mnir.ro/welcome-to-nhmr/" target="_blank" ><b>A8 - National Museum of Romanian History</b></a> - <span>The National History Museum of Romania, founded in 1972, is one of the emblematic institutions of Romanian culture. </span></div> 
+<div class="bizbbin"><a href="https://muzeul-satului.ro/en/" target="_blank" ><b>A8 - National - Village Museum "Dimitrie Gusti" </b></a> - <span>On the shores of Lake Herastrau, right in the middle of Romania's capital, visitors from all over the world have the joy of encountering a real "village", with monuments and artifacts from the 17th century to the early 20th century. </span></div>  
+<div class="bizbbin"><a href="https://muzeultaranuluiroman.ro/en/home/" target="_blank" ><b>A8 - National Museum of the Romanian Peasant </b></a> - <span>Is part of the European family of Museums of Popular Art and Traditions.</span></div> 
+<div class="bizbbin"><a href="https://mnac.ro/home" target="_blank" ><b>A8 - National - Museum of the Romanian Peasant </b></a> - <span>The museum is located in a new glass wing of the Palace of the Parliament, one of the largest administrative buildings in the world.</span></div>
+<div class="bizbbin"><a href="https://www.muzeulhartilor.ro/?lang=en" target="_blank" ><b>A8 - National - Museum of Maps </b></a> - <span>The museum opened to the public in 2003 and is hosted in a beautiful villa built in the 1920’s. The main collection belonged to Professor Adrian Nastase’s family and was donated to the Romanian state.</span></div>
+<div class="bizbbin"><a href="https://antipa.ro/" target="_blank" ><b>A8 - National Museum of Natural History "Grigore Antipa"</b></a> - <span>The museum was founded on November 3, 1834, at the initiative of Prince Alexandru Ghica's brother, Grand Ban Mihalache Ghica, who donated important collections, including Greek, Roman and Byzantine coins, collections of minerals, fossils, mollusks, fish, birds and mammals, as well as works of art.</span></div>
+<div class="bizbbin"><a href="https://www.muzeulmilitar.ro/en/" target="_blank" ><b>A8 - National - Military Museum "King Ferdinand" </b></a> - <span>One of the most prestigious cultural institutions in Romania which has played an important role in promoting the military and historical traditions of the Romanian Army.</span></div>
+<div class="bizbbin"><a href="https://muzeu.igsu.ro/" target="_blank" ><b>A8 - National Firefighters Museum </b></a> - <span>In the past it served as an observation tower for fire protection. It was built in 1890, as a surveillance and alarm point for firefighters, two years after the previous tower - the Coltei Tower, built in 1715, that was demolished.</span></div>
+<div class="bizbbin"><a href="https://geology.ro/" target="_blank" ><b>A8 - National Museum of Geology </b></a> - <span>The museum hosts a collection of 80,000 samples of rocks, fossils, and minerals from Romania.</span></div>
+<div class="bizbbin"><a href="https://www.mnt-leonida.ro/en/" target="_blank" ><b>A8 - National - Technical Museum "Dimitrie Leonida"</b></a> - <span>At the beginning of the 20th century, Romania needed specialists in electricity and mechanics. Engineer Dimitrie Leonida founded the School of Electricians and Mechanics, designed to train qualified professionals. In parallel, Leonida began collecting objects for the future Technical Museum. These objects were the first exhibits of the museum, which was to become a point of reference for Romanian technical education.</span></div>
+<div class="bizbbin"><a href="https://www.muzeulcotroceni.ro/index_eng.html" target="_blank" ><b>A8 - National Museum "Cotroceni" </b></a> - <span>Was founded, as a national institution under the authority of the Ministry of Culture. Therefore, the old wing of the palace was opened to the public on December 27th, 1991 and, through the government decision no. 1279 of December 20th 2001, the Museum was placed under the authority of the Presidential Administration.</span></div>
+<div class="bizbbin"><a href="https://www.georgeenescu.ro/" target="_blank" ><b>A8 - National - Museum "George Enescu"  </b></a> - <span> Presents permanent exhibitions at all its locations , exhibitions illustrating the life and work of the great musician, as well as temporary exhibitions with various themes.</span></div>
+<div class="bizbbin"><a href="https://mnlr.ro/" target="_blank" ><b>A8 - National Museum of Romanian Literature </b></a> - <span> Holds an authentic literary treasure consisting of manuscripts, old and rare books, historical and literary documents, personal objects and pieces of furniture that belonged to writers. </span></div> 
+<div class="bizbbin"><a href="https://peles.ro/en/" target="_blank" ><b>A8 - National - Museum "Peles" </b></a> - <span> Peles Castle was built at the initiative of the first King of Romania, Carol I, outside the perimeter of the Podul Neagului commune, a locality with an area of 24 km in 1874, the year in which, at the initiative of the sovereign, the commune was named Sinaia.  </span></div> 
+<div class="bizbbin"><a href="https://muzeulpetrolului.ro/" target="_blank" ><b>A8 - National Museum of Oil </b></a> - <span> The Petroleum Museum was inaugurated in October 1961 and has a heritage estimated at over 8,000 museum pieces. It is the only museum of its kind in Romania.  </span></div> 
+<div class="bizbbin"><a href="https://www.brukenthalmuseum.ro/site/en" target="_blank" ><b>A8 - National - Museum "Brukenthal" </b></a> - <span>A museum in Sibiu, Romania, established in the late 18th century by Samuel von Brukenthal in his city palace.</span></div> 
+<div class="bizbbin"><a href="https://muzeulastra.ro/en/" target="_blank" ><b>A8 - National - Museum "Astra" Complex</b></a> - <span> A important ethnomuseum institution in Romania. The largest open-air museum in Europe. </span></div> 
+<div class="bizbbin"><a href="https://mnit.ro/en/-/" target="_blank" ><b>A8 - National - Museum of the History of Transylvania </b></a> - <span> With an impressive heritage bringing together over 450.000 objects, located in one of the most active, effervescent and cultural cities in Romania, MNIT is one of the most important national cultural institutions and the only museum of national rank in Cluj-Napoca.  </span></div>
+<div class="bizbbin"><a href="https://palatulculturii.ro/" target="_blank" ><b>A8 - National - Museum of "Moldova" Complex </b></a> - <span> Includes four national museums, a heritage research and conservation-restoration center, as well as six other museum sites, located on the territory of the city and, respectively, of Iasi County. </span></div>
+<div class="bizbbin"><a href="https://muzeulnationalbran.ro/" target="_blank" ><b>A8 - National - Museum Bran </b></a> - <span> A public cultural institution subordinated to the Ministry of Culture, has a cultural heritage of great artistic, historical, documentary and ethnographic value, the core of the collections being represented by objects from the royal collections at Bran Castle. </span></div>
+<div class="bizbbin"><a href="https://www.mncr.ro" target="_blank" ><b>A8 - National - Museum of Eastern Carpathians </b></a> - <span> In 1995, the National Museum of Transylvania History established an archaeology section in Sfântu Gheorghe, which was to be transformed into an independent museum according to Government Decision no. 1365 / 1996. </span></div>
+<div class="bizbbin"><a href="http://eminescuipotesti.ro/" target="_blank" ><b>A8 - National - Ipotesti Memorial - "Mihai Eminescu"</b></a> - <span> Cultural festival with recitals, exhibitions, book launches and special guests, dedicated to the memory of Mihai Eminescu. </span></div>
+<div class="bizbbin"><a href="https://mnuai.ro/" target="_blank" ><b>A8 - National - Museum of the Union Alba Iulia</b></a> - <span> Was founded in 1888 on the initiative of the History, Archaeology and Natural Sciences Society of Alba County. </span></div> 
+<div class="bizbbin"><a href="https://muzeulgolesti.ro/en/" target="_blank" ><b>A8 - National - Museum of Viticulture and Fruit Growing Golesti</b></a> - <span> Indoor/outdoor museum complex of traditional rural buildings & farms with vineyards and fruit trees.</span></div>
+<div class="bizbbin"><a href="https://muzeulagriculturii.ro/" target="_blank" ><b>A8 - National - Museum of Agriculture </b></a> - <span> Has as its object of activity the history of agriculture, agrarian anthropology and specific industrial archaeology from all over the country. </span></div>
+<div class="bizbbin"><a href="https://politiaromana.ro/ro/informatii-generale/muzeul-politiei-romane/muzeul-national-al-politiei-romaneB&page=1" target="_blank" ><b>A8 - National - Museum of the Romanian Police </b></a> - <span> Is housed in a building of great artistic and historical value, rebuilt in neoclassical style between 1867 and 1893. </span></div>
+<div class="bizbbin"><a href="https://muzeulmarinei.ro/" target="_blank" ><b>A8 - National - Museum of Romanian Navy </b></a> - <span> The permanent exhibition of the Romanian Navy Museum is organized on the thematic-chronological criteria, in accordance with the periodizations of classical historiography and has four distinct sectors - the eras of Ancient History, Medieval History, Modern History and Contemporary History. </span></div> 
+<div class="bizbbin" style="border:1px dashed #151fba;" ><span>For other <b>public</b> local and regional museums in Romania check Law no. 311 din 8 iulie 2003 </span></div> 
+
+
+
+<div class="bizbbin" id="biztitle" >9. Landmarks</div>
+
+<div class="bizbbin" id="biztitle" >10. Religious Buildings</div>
+
+<div class="bizbbin" id="biztitle" >11. Planetariums and Observatories</div>
+  
+<div class="bizbbin" id="biztitle" >12. Botanical Gardens</div>
+
+<div class="bizbbin" id="biztitle" >13. Libraries</div>
+    <div class="bizbbin" ><a href="https://www.nypl.org" target="_blank" ><b>A13 - New York Public Library </b></a> - <span>NYPL is an essential provider of free books, information, ideas, and education.</span></div> 
+
+<div class="bizbbin" id="biztitle" >14. Books and Encyclopedias </div>
+<div class="bizbbin" ><a href="https://encyclopediaofmath.org/wiki/Main_Page" target="_blank" ><b>A14 - Encyclopedia of Mathematics</b></a> - <span>The Encyclopedia of Mathematics wiki is an open access resource designed specifically for the mathematics community. </span></div>
+<div class="bizbbin" ><a href="https://www.europeana.eu/en" target="_blank" ><b>A14 - European Cultural Heritage Database</b></a> - <span>Discover Europe's digital cultural heritage. Search, save and share art, books, films and music from thousands of cultural institutions.</span></div>
+<div class="bizbbin" ><a href="https://www.britannica.com" target="_blank" ><b>A14 - Encyclopedia Britannica</b></a> - <span>Explore the fact-checked online encyclopedia from Encyclopaedia Britannica </span></div>
+<div class="bizbbin" ><a href="https://www.encyclopedia.com" target="_blank" ><b>A14 - Encyclopedia.com</b></a> - <span>Search over 200 individual encyclopedias and reference books from the worlds most trusted publishers.</span></div> 
+<div class="bizbbin" ><a href="https://archive.org" target="_blank" ><b>A14 - Archive.org - Internet Archive Database</b></a> - <span>The Internet Archive, a 501(c)(3) non-profit, is building a digital library of Internet sites and other cultural artifacts in digital form. Like a paper library, we provide free access to researchers, historians, scholars, people with print disabilities, and the general public.</span></div>
+<div class="bizbbin" ><a href="https://www.worldcat.org" target="_blank" ><b>A14 - WorldCat - Books Catalog</b></a> - <span> A resource for locating unique, trustworthy materials that you often can’t find anywhere except in a library. By connecting thousands of libraries’ collections in one place, WorldCat.org makes it easy for you to browse the world’s libraries from one search box.</span></div>
+<div class="bizbbin" ><a href="https://openlibrary.org" target="_blank" ><b>A14 - Open Library Books Database</b></a> - <span>Open Library is a project of the Internet Archive that aims to create a web page for every book ever published, serving as both a bibliographic catalog and an online lending library.</span></div>
+<div class="bizbbin" ><a href="https://books.google.com" target="_blank" ><b>A14 - Google Books Database</b></a> - <span>Search the world's most comprehensive index of full-text books. </span></div>
+<div class="bizbbin" ><a href="https://www.gutenberg.org" target="_blank" ><b>A14 - Project Gutenberg</b></a> - <span>Project Gutenberg is a library of over 75,000 free eBooks. Choose among free epub and Kindle eBooks, download them or read them online.</span></div>
+<div class="bizbbin" ><a href="https://www.bookshare.org" target="_blank" ><b>A14 - Bookshare - eBooks Database</b></a> - <span>Bookshare audiobooks and ebooks make reading easy. You can customize your reading experience with assistive reading features that remove reading barriers. </span></div>
+<div class="bizbbin" ><a href="https://www.hathitrust.org" target="_blank" ><b>A14 - HathiTrust - Books Database</b></a> - <span>At HathiTrust, we are stewards of the largest digitized collection of knowledge allowable by copyright law. Why? To empower scholarly research.</span></div> 
+<div class="bizbbin" ><a href="https://librivox.org" target="_blank" ><b>A14 - Librivox - Audiobooks Database</b></a> - <span>LibriVox audiobooks are free for anyone to listen to, on their computers, iPods or other mobile device, or to burn onto a CD.</span></div>
+<div class="bizbbin" ><a href="https://en.wikibooks.org/wiki/Main_Page" target="_blank" ><b>A14 - Wikibooks Database</b></a> - <span>The open-content textbooks collection that anyone can edit.</span></div> 
+<div class="bizbbin" ><a href="https://wikisource.org/wiki/Main_Page" target="_blank" ><b>A14 - Wikisource Knowledge Base</b></a> - <span>Wikisource is an online wiki-based digital library of free-content textual sources operated by the Wikimedia Foundation. </span></div>
+<div class="bizbbin" ><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" target="_blank" ><b>A14 - Wikidata Knowledge Base</b></a> - <span>Wikidata is a free and open knowledge base that can be read and edited by both humans and machines.</span></div>
+<div class="bizbbin" ><a href="https://wikem.org/wiki/Main_Page" target="_blank" ><b>A14 - WikiEM - Global Emergency Medicine Wiki</b></a> - <span>The Global Emergency Medicine Wiki, is the world's largest and most popular emergency medicine open-access reference resource.</span></div>
+<div class="bizbbin" ><a href="http://www.scholarpedia.org/article/Main_Page" target="_blank" ><b>A14 - Scholarpedia Encyclopedia</b></a> - <span>The peer-reviewed open-access encyclopedia, where knowledge is curated by communities of experts.</span></div>  
+<div class="bizbbin" ><a href="https://www.khanacademy.org" target="_blank" ><b>A14 - Khanacademy</b></a> - <span> Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. </span></div>
+ 
+<div class="bizbbin" ><a href="https://customs-taxation.learning.europa.eu/local/mvpdgtaxud/trainingcatalog/index.php" target="_blank" ><b>A14 - Customs & Tax EU Learning Portal</b></a> - <span>The European Commission’s new Learning Portal, offers opportunities for customs and tax professionals to build, upscale or share profession-relevant knowledge and expertise through initiatives ranging from educational online learning to the organisation and hosting of multiple learning events in online and presence formats.</span></div>
+<div class="bizbbin" ><a href="https://learning.intracen.org" target="_blank" ><b>A14 - ITC - SME Trade Academy</b></a> - <span>The SME Trade Academy provides a public learning platform with more than 100 free online courses on export development, sustainability, trade support, entrepreneurship, e-commerce, and market analysis.</span></div>
+<div class="bizbbin" ><a href="https://ocw.mit.edu/" target="_blank" ><b>A14 - MIT - OpenCourseWave</b></a> - <span>MIT OpenCourseWare is a web based publication of virtually all MIT course content. OCW is open and available to the world and is a permanent MIT activity.</span></div>
+<div class="bizbbin" ><a href="https://www.econlib.org/cee/" target="_blank" ><b>A14 - Econlib - Encyclopedia</b></a> - <span>The Library of Economics and Liberty is dedicated to advancing the study of economics, markets, and liberty. It offers a unique combination of resources for students, teachers, researchers, and aficionados of economic thought.</span></div>
+<div class="bizbbin" ><a href="https://www.investopedia.com" target="_blank" ><b>A14 - Investopedia</b></a> - <span>Investopedia was founded in 1999 with the mission of helping people improve their financial outcomes.</span></div>  
+<div class="bizbbin" id="biztitle" >15. Music and Art Fairs</div>
+
+<div class="bizbbin" id="biztitle" >16. Aquariums and Dolphinariums</div>
+
+<div class="bizbbin" id="biztitle" >17. Zoological Gardens</div>
+</div><!-- END BIZ GRID -->
+
+
+<h3 style="border-bottom: 3px solid #f5f5f5;font-size:21px;color:green;" ><b>B. Entertainment</b></h3><br>  
+<!-- START BIZ GRID -->
+<div class="bizgrid" > 
+  <div class="bizbbin" id="biztitle" >1. Movies in Cinema</div>
+  <div class="bizbbin"><a href="https://www.imdb.com/title/tt19847976/" target="_blank" ><b>B1 - Wicked: For Good (2025)</b></a> - <span>Nov 21, 2025 - Family</span></div> 
+  <div class="bizbbin"><a href="https://www.imdb.com/title/tt31844586/" target="_blank" ><b>B1 - Sisu: Road to Revenge (2025)</b></a> - <span>Nov 21, 2025 - Action</span></div>
+  <div class="bizbbin"><a href="https://www.imdb.com/title/tt14142060/" target="_blank" ><b>B1 - Rental Family (2025)</b></a> - <span>Nov 21, 2025 - Comedy</span></div>
+  <div class="bizbbin"><a href="https://www.imdb.com/title/tt32123395/" target="_blank" ><b>B1 - Altered (2025)</b></a> - <span>Nov 21, 2025 - Sci-Fi</span></div>
+  
+  <div class="bizbbin"><a href="https://www.imdb.com/title/tt26443597/" target="_blank" ><b>B1 - Zootopia 2 (2025)</b></a> - <span>Nov 26, 2025 - Animation</span></div> 
+  <div class="bizbbin"><a href="https://www.imdb.com/title/tt24950660/" target="_blank" ><b>B1 - Eternity (2025)</b></a> - <span>Nov 26, 2025 - Fantasy</span></div>
+  
+  <div class="bizbbin"><a href="https://www.imdb.com/video/vi4199729177/" target="_blank" ><b>B1 - Tinsel Town (2025)</b></a> - <span>Nov 28, 2025 - Comedy</span></div>
+  
+  <div class="bizbbin"><a href="https://www.imdb.com/video/vi3461662745/" target="_blank" ><b>B1 - Five Nights at Freddy's 2 (2025)</b></a> - <span>Dec 05, 2025 - Horror</span></div>
+  
+  <div class="bizbbin"><a href="https://www.imdb.com/title/tt1757678/" target="_blank" ><b>B1 - Avatar: Fire and Ash (2025)</b></a> - <span>Dec 19, 2025 - Fantasy</span></div>
+  <div class="bizbbin"><a href="https://www.imdb.com/video/vi2401617945/" target="_blank" ><b>B1 - Is This Thing On? (2025)</b></a> - <span>Dec 19, 2025 - Drama</span></div> 
+  
+  <div class="bizbbin"><a href="https://www.imdb.com/video/vi2773731353/" target="_blank" ><b>B1 - Song Sung Blue (2025)</b></a> - <span>Dec 25, 2025 - Drama</span></div>
+  <div class="bizbbin"><a href="https://www.imdb.com/video/vi1763624985/" target="_blank" ><b>B1 - Anaconda (2025)</b></a> - <span>Dec 25, 2025 - Comedy</span></div>
+ 
+ 
+  
+  <div class="bizbbin" id="biztitle" >2. TV and Radio Schedule</div>
+  <div class="bizbbin" id="biztitle" >3. Chess Parks</div>
+  <div class="bizbbin" id="biztitle" >4. Public Baths and Swimming Pools</div>
+  <div class="bizbbin" id="biztitle" >5. Boating and Yachting</div>
+  <div class="bizbbin" id="biztitle" >6. Amusement Parks</div>
+  <div class="bizbbin" id="biztitle" >7. Circuses</div>
+  <div class="bizbbin" id="biztitle" >8. Concerts</div>
+  <div class="bizbbin" id="biztitle" >9. Festivals</div>
+  <div class="bizbbin" id="biztitle" >10. Stand-up Comedy</div>
+  <div class="bizbbin" id="biztitle" >11. Cabarets</div>
+  <div class="bizbbin" id="biztitle" >12. Magic Shows</div>  
+  <div class="bizbbin" id="biztitle" >13. Sports</div>
+  <div class="bizbbin" id="biztitle" >14. Karting, Bowling Alleys and Pool</div>
+  <div class="bizbbin" id="biztitle" >14. Arcades and Internet Cafes</div>
+  <div class="bizbbin" id="biztitle" >15. Golf Clubs</div>
+  <div class="bizbbin" id="biztitle" >16. Cycling</div>
+  <div class="bizbbin" id="biztitle" >17. Ice skating rinks</div>
+  <div class="bizbbin" id="biztitle" >18. Dance and Jazz Clubs</div>  
+  <div class="bizbbin" id="biztitle" >19. Tours</div>  
+  
+</div><!-- END BIZ GRID -->
+<h3 style="border-bottom: 3px solid #f5f5f5;font-size:21px;color:green;" ><b>C. Transport and Accommodations</b></h3><br>  
+<!-- START BIZ GRID -->
+<div class="bizgrid" >
+  <div class="bizbbin" id="biztitle" >1. Risk and Corruption Info</div>
+<div class="bizbbin" ><a href="https://www.coface.com/news-economy-and-insights/business-risk-dashboard/country-risk-map" target="_blank" ><b>C1 - Coface - Global Country Risk Map</b></a> - <span>Coface's interactive country risk map gives you a global perspective of risk assessments. </span></div> 
+<div class="bizbbin" ><a href="https://www.allianz-trade.com/en_global/economic-research/country-reports.html" target="_blank" ><b>C1 - Allianz Trade - Country Risk Map</b></a> - <span>
+Use the country credit ratings to plan and manage your international trade.</span></div> 
+<div class="bizbbin" ><a href="https://www.transparency.org/en/countries/afghanistan?redirected=1" target="_blank" ><b>C1 - Transparency International - Corruption Index</b></a> - <span>Transparency International — Discover how corruption threatens vital climate funds in the Corruption Perceptions Index. CPI</span></div> 
+<div class="bizbbin" ><a href="https://worldjusticeproject.org/rule-of-law-index/global" target="_blank" ><b>C1 - World Justice Project - Rule of Law Index</b></a> - <span> It evaluates 143 countries and jurisdictions around the world. For the eighth year in a row, the rule of law has declined in most countries.</span></div> 
+<div class="bizbbin" ><a href="https://internationalpropertyrightsindex.org" target="_blank" ><b>C1 - International Property Rights - Index</b></a> - <span>IPRI includes 126 countries, accounting for 93% of the world population and 98% of the global GDP. </span></div> 
+<div class="bizbbin" ><a href="https://www.worldometers.info/world-population/" target="_blank" ><b>C1 - Current World Population</b></a> - <span> The world population clock is based on the latest estimates by the United Nations. It will show the same number wherever you are in the world and whatever time you set on your PC</span></div> 
+<div class="bizbbin" ><a href="https://www.migrationdataportal.org" target="_blank" ><b>C1 - Migration Data Portal</b></a> - <span>The Migration Data Portal brings together publicly available global migration data, allowing users to access the most comprehensive, timely and reliable migration statistics and information.</span></div> 
+<div class="bizbbin" ><a href="https://www.fao.org/interactive/hunger-map/en/" target="_blank" ><b>C1 - WFP - Hunger Map</b></a> - <span> The interactive FAO World Hunger Map 2025 presents the latest global estimates of hunger and food insecurity.</span></div> 
+ 
+  
+  
+  <div class="bizbbin" id="biztitle" >2. Disasters and Pollution</div>
+  <div class="bizbbin" ><a href="https://gdacs.org" target="_blank" ><b>C2 - GDACS - World Disaster Info</b></a> - <span>GDACS is a cooperation framework between the United Nations and the European Commission. It includes disaster managers and disaster information systems worldwide and aims at filling the information and coordination gaps in the first phase after major disasters.</span></div> 
+  <div class="bizbbin" ><a href="https://www.globalquakemodel.org/products?type=Global+map" target="_blank" ><b>C2 - Global Quake Model</b></a> - <span>GEM is a non-profit, scientific, public-private partnership that fosters global collaboration, developing transparent earthquake risk assessment resources for worldwide risk management. </span></div> 
+  <div class="bizbbin" ><a href="https://www.iqair.com/world-air-quality" target="_blank" ><b>C2 - IQAir - World Air Quality Map</b></a> - <span>Compare real-time worldwide air quality levels with AirVisual's interactive air quality and pollution map. </span></div> 
+  <div class="bizbbin" ><a href="https://volcano.si.edu" target="_blank" ><b>C2 - Smithsonian - Volcanoes of the World database</b></a> - <span>A database describing the physical characteristics of Holocene volcanoes and their eruptions. </span></div> 
+ 
+  <div class="bizbbin" id="biztitle" >3. Weather</div>
+  <div class="bizbbin" ><a href="https://www.accuweather.com" target="_blank" ><b>C3 - Accuweather</b></a> - <span>AccuWeather has local and international weather forecasts from the most accurate weather forecasting technology featuring up to the minute weather reports.</span></div> 
+  <div class="bizbbin" ><a href="https://severeweather.wmo.int" target="_blank" ><b>C3 - WMO - World Severe Weather Information Centre</b></a> - <span>A Core Component of the WMO Global Multi-hazard Alert System (GMAS) Framework Supporting UN Early Warnings for All Initiative</span></div> 
+  <div class="bizbbin" ><a href="https://www.seatemperature.org/" target="_blank" ><b>C3 - World Sea Temperatures</b></a> - <span>Get the current and average sea temperatures from over 7,000 locations and 200 countries around the world.</span></div> 
+  <div class="bizbbin" ><a href="https://www.oceanweather.com/data/" target="_blank" ><b>C3 - Ocean Weather Info</b></a> - <span>Oceanweather Inc. is a specialized metocean consulting firm serving the coastal and ocean engineering communities since 1977.</span></div>   
+  <div class="bizbbin" ><a href="https://zoom.earth" target="_blank" ><b>C3 - Zoom.earth</b></a> - <span>Interactive weather & radar map. Track hurricanes, cyclones, storms.</span></div> 
+  <div class="bizbbin" ><a href="https://www.windy.com" target="_blank" ><b>C3 - Windy</b></a> - <span>Weather radar, wind and waves forecast for kiters, surfers, paragliders, pilots, sailors and anyone else.</span></div> 
+  <div class="bizbbin" ><a href="https://www.ventusky.com" target="_blank" ><b>C3 - Venturesky</b></a> - <span>Live wind, rain, radar or temperature maps, more than 50 weather layers, detailed forecast for your place, data from the best weather forecast models.</span></div> 
+  <div class="bizbbin" ><a href="https://earth.nullschool.net" target="_blank" ><b>C3 - Nullschool Earth Map</b></a> - <span>See current wind, weather, ocean, and pollution conditions, as forecast by supercomputers, on an interactive animated map. Updated every three hours.</span></div> 
+  <div class="bizbbin" ><a href="http://www.radareu.cz" target="_blank" ><b>C3 - Radareu.cz - Europe Rainfall info</b></a> - <span>It provides an interactive European rainfall radar map, showing current precipitation intensity across the continent. </span></div> 
+  <div class="bizbbin" ><a href="https://www.eswd.eu" target="_blank" ><b>C3 - ESWD - European Severe Weather Database </b></a> - <span>The objective of the ESWD is to collect and provide detailed and quality-controlled information on severe convective storm events over Europe.</span></div>   
+  <div class="bizbbin" ><a href="https://www.meteoromania.ro" target="_blank" ><b>C3 - ANM - Romania</b></a> - <span>The National Meteorological Administration of Romania. This government organization is responsible for weather forecasting, climate monitoring, and providing meteorological services for the country. </span></div> 
+ 
+ 
+  <div class="bizbbin" id="biztitle" >4. Tides and Currents</div>
+  
+  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div> 
+  
+  <div class="bizbbin" id="biztitle" >6. Traffic</div> 
+  <div class="bizbbin" ><a href="https://marinetraffic.com" target="_blank" ><b>C6 - Marine Traffic</b></a> - <span>MarineTraffic Live Ships Map. Discover information and vessel positions for vessels around the world.</span></div> 
+  <div class="bizbbin" ><a href="https://www.marinevesseltraffic.com/" target="_blank" ><b>C6 - Marine Vessel Traffic</b></a> - <span>Marine Vessel Traffic is AIS map maritime tracker of ships at sea. Locate current position of cargo, military, container, cruise, tanker and fishing vessels.</span></div> 
+  <div class="bizbbin" ><a href="https://www.flightradar24.com" target="_blank" ><b>C6 - Flight Radar 24</b></a> - <span>Live flight tracker that shows air traffic in real time.  </span></div>
+  <div class="bizbbin" ><a href="https://www.waze.com/en/live-map" target="_blank" ><b>C6 - Waze Road Traffic Info</b></a> - <span>Realtime driving directions based on live traffic updates from Waze - Get the best route to your destination from fellow drivers.</span></div>
+  <div class="bizbbin" ><a href="https://www.google.com/maps" target="_blank" ><b>C6 - Google Maps </b></a> - <span>Find local businesses, view maps and get driving directions.</span></div>
+  <div class="bizbbin" ><a href="https://maps.apple.com/" target="_blank" ><b>C6 - Apple Web Maps </b></a> - <span>Apple Maps on the web is available in public beta, allowing users around the world to access Maps directly from their browser.</span></div>
+  
+  
+  <div class="bizbbin" id="biztitle" >7. Public Transport</div>
+  <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div>
+  <div class="bizbbin" style="border:1px dashed #151fba;" ><span>We put here restaurants and food vendors that <b>we think</b> are worth trying. It means we never visited this places and we did not eat the food. We are not food critics. </span></div>  
+  
+  
+  
+  
+  <div class="bizbbin" id="biztitle" >9. Hotels</div>
+  <div class="bizbbin" id="biztitle" >10. Free Clean Public Toilets</div>
+  <div class="bizbbin" id="biztitle" >11. Luggage Storage</div>
+  <div class="bizbbin" id="biztitle" >12. Laundromats</div>  
+  <div class="bizbbin" id="biztitle" >13. Pharmaceris</div>
+  <div class="bizbbin" id="biztitle" >14. Emergency and Helplines</div>
+  <div class="bizbbin" id="biztitle" >15. Free Wi-fi</div>
+  <div class="bizbbin" id="biztitle" >16. PrePay eSIM/SIM cards</div>
+  <div class="bizbbin" id="biztitle" >17. Car Wash</div>
+  <div class="bizbbin" id="biztitle" >18. Paint and Auto Repair</div>  
+  <div class="bizbbin" id="biztitle" >19. Babysitters, Kindergartens and Afterchools</div>  
+  <div class="bizbbin" id="biztitle" >20. Pet Grooming and Hotels</div>  
+  <div class="bizbbin" id="biztitle" >19. Gyms and Fitness</div>  
+  
+  <div class="bizbbin" id="biztitle" >20. Transport and Freight Forwarders</div>
+  <div class="bizbbin" ><a href="https://www.imo.org" target="_blank" ><b>C20 - International Maritime Organization</b></a> - <span> The United Nations specialized agency with responsibility for the safety and security of shipping and the prevention of marine and atmospheric pollution by ships.</span></div> 
+  <div class="bizbbin" ><a href="https://www.emsa.europa.eu/" target="_blank" ><b>C20 - European Maritime Safety Agency (EMSA) </b></a> - <span>The purpose of the Agency is to ensure a high, uniform and effective level of maritime safety, maritime security, prevention of, and response to, pollution caused by ships as well as response to marine pollution caused by oil and gas installations and, where appropriate, to contribute to the overall efficiency of maritime traffic and maritime transport so as to facilitate the establishment of a European Maritime Transport Space without Barriers. </span></div> 
+  <div class="bizbbin" ><a href="https://www.iata.org" target="_blank" ><b>C20 - International Air Transport Association</b></a> - <span>The trade association for the world’s airlines, representing some 350 airlines over 80% of global air traffic. </span></div> 
+  <div class="bizbbin" ><a href="https://fiata.org" target="_blank" ><b>C20 - International Federation of Freight Forwarders Associations Members</b></a> - <span>A non-governmental organisation representing freight forwarders worldwide.</span></div>
+  <div class="bizbbin" ><a href="https://www.iru.org" target="_blank" ><b>C20 - International Road Transport Union Members </b></a> - <span>The world transport organisation, supporting drivers and transport companies all over the world.</span></div>
+  <div class="bizbbin" ><a href="https://www.upu.int/en/home" target="_blank" ><b>C20 - Universal Postal Union </b></a> - <span>The Universal Postal Union is a United Nations specialized agency and the postal sector's primary forum for international cooperation.</span></div>
+  <div class="bizbbin" ><a href="https://www.ems.post/en/global-network" target="_blank" ><b>C20 - EMS Cooperative </b></a> - <span>The EMS Cooperative, a body of the Universal Postal Union, consists of 176 postal operators who have agreed to work together to provide EMS – Express Mail Service – the fastest cross-border postal product. </span></div>
+  <div class="bizbbin" ><a href="https://www.tapaonline.org" target="_blank" ><b>C20 - Transported Asset Protection Association </b></a> - <span>We are the world's leading supply chain security and resilience Association and committed to helping minimise losses from its members.</span></div>
+  <div class="bizbbin" ><a href="https://www.containerownersassociation.com/coa-members-directory/" target="_blank" ><b>C20 - Container Owners Association Members </b></a> - <span>The Container Owners Association was established in November 2004 as an international organisation representing the common interests of owners and operators of intermodal freight containers. The principle aims of the COA are to provide a global forum and expertise, to promote common standards, safety and the environmental benefits of freight containers.</span></div>
+  <div class="bizbbin" ><a href="https://www.bimco.org/" target="_blank" ><b>C20 - The Baltic and International Maritime Council </b></a> - <span>One of the largest of the international shipping associations representing shipowners.</span></div>
+  <div class="bizbbin" ><a href="https://www.bic-code.org/bic-codes/" target="_blank" ><b>C20 - International Register of Container Owner Codes </b></a> - <span>Was originated by the Bureau International des Containers (BIC) and has been published continually since 1970. It was subsequently adopted by the International Organization for Standardization (ISO) in 1972, forming an essential part of the ISO 6346 standard : Freight Containers – Coding, Identification and Marking </span></div> 
+ 
+  
+  
+  <div class="bizbbin" id="biztitle" >21. Fumigation</div>  
+ 
+  
+</div><!-- END BIZ GRID -->
+
+
+
+
+<h3 style="border-bottom: 3px solid #f5f5f5;font-size:21px;color:green;" ><b>D. Business</b></h3><br>  
+<!-- START BIZ GRID -->
+<div class="bizgrid" >
+  <div class="bizbbin" id="biztitle" >1. Environmental Organizations</div>
+  <div class="bizbbin" ><a href="https://www.greenpeace.org/international/" target="_blank" ><b>D1 - Greenpeace</b></a> - <span>Is an independent global campaigning network, founded in Canada in 1971 by a group of environmental activists. Greenpeace states its goal is to ensure the ability of the Earth to nurture life in all its diversity.</span></div> 
+  <div class="bizbbin" ><a href="https://www.edf.org" target="_blank" ><b>D1 - Environmental Defense Fund</b></a> - <span>A global environmental organization driving game-changing solutions to our biggest environmental issues like climate change, air pollution and more.</span></div> 
+  <div class="bizbbin" ><a href="https://www.foei.org" target="_blank" ><b>D1 - Friends of Earth</b></a> - <span>Friends of the Earth International's (FOEI) vision is a peaceful and sustainable world based on societies living in harmony with nature.</span></div> 
+  <div class="bizbbin" ><a href="https://www.nature.org" target="_blank" ><b>D1 - Nature Conservancy</b></a> - <span>A dedicated staff, scientists and members advancing effective, lasting conservation in more than 80 countries and territories.</span></div> 
+  <div class="bizbbin" ><a href="https://oceanconservancy.org" target="_blank" ><b>D1 - Ocean Conservancy</b></a> - <span>Ocean Conservancy is a U.S.-based organization that works globally to protect the ocean. We work on protecting biodiversity, advancing climate solutions and preventing ocean plastics. </span></div> 
+  <div class="bizbbin" ><a href="https://earthjustice.org" target="_blank" ><b>D1 - Earth Justice</b></a> - <span> Earthjustice was founded on the belief that everyone has the right to a healthy environment. The law is the most powerful tool for change. </span></div> 
+  
+ 
+  
+  <div class="bizbbin" id="biztitle" >2. Energy and Natural Resources</div>
+    <div class="bizbbin" ><a href="https://app.electricitymaps.com/map/72h/hourly" target="_blank" ><b>D2 - Electricity Maps</b></a> - <span>Track real-time and historical electricity data worldwide — see production mix, CO2 emissions, prices, cross-border exports, and much more.</span></div> 
+    <div class="bizbbin" ><a href="https://mrdata.usgs.gov/general/map-global.html" target="_blank" ><b>D2 - USGS - Mineral Resources Online Spatial Data</b></a> - <span>This project makes the digital spatial data produced by the Mineral Resources Program available via a web portal so that users can easily access spatial data.</span></div> 
+    <div class="bizbbin" ><a href="http://www.europe-geology.eu/mineral-resources" target="_blank" ><b>D2 - EGDI - Europe Mineral Resources</b></a> - <span>A minerals intelligence network with a database providing access to an overview of European raw materials and a European Minerals Yearbook.</span></div> 
+    <div class="bizbbin" ><a href="https://www.usgs.gov/centers/eros/maps" target="_blank" ><b>D2 - USGS EROS - Resources info</b></a> - <span>The USGS EROS Center is home to a vast collection of remotely sensed data of Earth, including Landsat imagery, aerial photos, and science products.</span></div> 
+    <div class="bizbbin" ><a href="http://animaldiversity.org" target="_blank" ><b>D2 - Animal Diversity Database</b></a> - <span>Is an educational resource written largely by and for college students.</span></div> 
+    <div class="bizbbin" ><a href="https://a-z-animals.com" target="_blank" ><b>D2 - A-Z Animals Database</b></a> - <span>Collection of animal facts, pictures and more! Discover more than 1000 new animals today!</span></div> 
+    <div class="bizbbin" ><a href="https://www.iucnredlist.org" target="_blank" ><b>D2 - IUCN Red List</b></a> - <span>The IUCN Red List is a critical indicator of the health of the world's biodiversity.</span></div> 
+    <div class="bizbbin" ><a href="https://fish-commercial-names.ec.europa.eu/fish-names/home_en" target="_blank" ><b>D2 - EU Fish Commercial Names Database</b></a> - <span>Commercial designations of fishery and aquaculture products. </span></div> 
+    <div class="bizbbin" ><a href="https://www.biodiversitylibrary.org" target="_blank" ><b>D2 - Bio Diversity Library</b></a> - <span>The Biodiversity Heritage Library improves research methodology by collaboratively making biodiversity literature openly available to the world.</span></div> 
+    <div class="bizbbin" ><a href="https://about.worldfloraonline.org" target="_blank" ><b>D2 - World Flora Online</b></a> - <span>The international initiative to achieve Target 1 of the Global Strategy for Plant Conservation and provides a global overview of the diversity of plant species. It is the essential tool for conservation planners, policymakers and practitioners at all levels.</span></div> 
+    <div class="bizbbin" ><a href="https://identify.plantnet.org" target="_blank" ><b>D2 - Pl@ntNet - Plant Identifier</b></a> - <span>A tool to help to identify plants with pictures. Identify, explore and share your observations of wild plants.</span></div> 
+    <div class="bizbbin" ><a href="https://garden.org/plants" target="_blank" ><b>D2 - Garden Plants Database</b></a> - <span>We teach people how to get started gardening and improve their plant growing skills.</span></div> 
+    <div class="bizbbin" ><a href="https://www.chemspider.com" target="_blank" ><b>D2 - Chemspider Database</b></a> - <span>A free chemical structure database providing fast text and structure search access to over 130 million structures from hundreds of data sources.</span></div> 
+    <div class="bizbbin" ><a href="https://pubchem.ncbi.nlm.nih.gov" target="_blank" ><b>D2 - PubChem Database</b></a> - <span>A database of chemical molecules and their activities against biological assays.</span></div>  
+    <div class="bizbbin" ><a href="https://www.mindat.org" target="_blank" ><b>D2 - Mindat - Minerals Database</b></a> - <span>Database of minerals, rocks, meteorites and the localities they come from.</span></div> 
+    <div class="bizbbin" ><a href="https://www.gemdat.org" target="_blank" ><b>D2 - Gemdat - Gemstone and Gemology Database</b></a> - <span>A unique reference web site on gems and gemology with something for everyone from beginners to experts. </span></div> 
+    <div class="bizbbin" ><a href="https://mits.nims.go.jp" target="_blank" ><b>D2 - NIMS - Materials Database</b></a> - <span>Aims to contribute to the development of new materials and the selection of materials.</span></div> 
+    <div class="bizbbin" ><a href="https://www.matweb.com" target="_blank" ><b>D2 - MatWeb - Materials Database</b></a> - <span>Data sheets and spec sheets supplied by manufacturers and distributors - let them know that you saw their material</span></div> 
+    <div class="bizbbin" ><a href="https://next-gen.materialsproject.org" target="_blank" ><b>D2 - The Materials Project - Materials Database and Tools</b></a> - <span></span></div> 
+    <div class="bizbbin" ><a href="https://www.makeitfrom.com" target="_blank" ><b>D2 - MakeItFrom - Materials Properties Database</b></a> - <span>Open web-based access to computed information on known and predicted materials as well as powerful analysis tools.</span></div>  
+    <div class="bizbbin" ><a href="https://sustainabilitymap.org/network" target="_blank" ><b>D2 - ITC Sustainability Map Network</b></a> - <span>Provides online access to a wide-range of information related to sustainability initiatives, standards and trends.</span></div>  
+  
+ 
+  
+  
+  <div class="bizbbin" id="biztitle" >3. Economy and Countries Statistics</div>
+    <div class="bizbbin" ><a href="https://investmentpolicy.unctad.org" target="_blank" ><b>D3 - UNCTAD - Investment Policy Hub</b></a> - <span>One stop shop on all investment policy matters ranging from national and international regulation to cutting-edge publications, news and more</span></div> 
+    <div class="bizbbin" ><a href="https://www.economy.com/indicators" target="_blank" ><b>D3 - Moody's Economic Indicators </b></a> - <span>Moody's Analytics provides data for 7000 economic indicators from 212 countries including actual values, historical time series and news.</span></div> 
+    <div class="bizbbin" ><a href="https://www.cia.gov/the-world-factbook/" target="_blank" ><b>D3 - CIA World Factbook</b></a> - <span>A reference resource produced by the Central Intelligence Agency (CIA) with almanac-style information about the countries of the world. T</span></div> 
+    <div class="bizbbin" ><a href="http://country.eiu.com/AllCountries.aspx" target="_blank" ><b>D3 - Economist Intelligence - EIU</b></a> - <span>Uncover macroeconomic, political & industry trends with reports from EIU global archive.</span></div> 
+    <div class="bizbbin" ><a href="https://globaledge.msu.edu/global-insights/by/country" target="_blank" ><b>D3 - globalEdge - Global Insights</b></a> - <span> Provides international business and trade information on over 200 countries, the 50 US states, as well as nearly two dozen industry sectors.</span></div> 
+    <div class="bizbbin" ><a href="https://ourworldindata.org" target="_blank" ><b>D3 - Our World in Data</b></a> - <span>A scientific online publication that focuses on large global problems such as poverty, disease, hunger, war, climate change.</span></div> 
+    <div class="bizbbin" ><a href="https://www.imf.org/en/Publications/WEO" target="_blank" ><b>D3 - IMF - World Economic Outlook</b></a> - <span>A survey of prospects and policies by the IMF staff, usually published twice a year, with updates in between. It presents analyses and projections of the world economy in the near and medium term, which are integral elements of the IMF’s surveillance of economic developments and policies in its member countries and of the global economic system. </span></div> 
+    <div class="bizbbin" ><a href="https://wits.worldbank.org" target="_blank" ><b>D3 - World Bank - World Integrated Trade Solution</b></a> - <span>Provides access to international merchandise trade, tariff and non-tariff measures (NTM) data.</span></div>  
+    <div class="bizbbin" ><a href="https://oec.world/en" target="_blank" ><b>D3 - OEC - Trade Data</b></a> - <span>The Observatory of Economic Complexity (OEC) offers detailed global trade data, covering over 5000 subnational regions, 5,000 products, and thousands of firms and fund managers</span></div> 
+    <div class="bizbbin" ><a href="https://www.numbeo.com" target="_blank" ><b>D3 - Numbeo - Cost of Living</b></a> - <span> Cost of living database and a crowdsourced global resource for quality of life data.</span></div>  
+    <div class="bizbbin" ><a href="https://www.investmentmap.org/home" target="_blank" ><b>D3 - ITC - Investment Map</b></a> - <span> Collects yearly Foreign Direct Investment (FDI) statistics for about 200 countries.</span></div> 
+    <div class="bizbbin" ><a href="https://www.intracen.org/resources/tools" target="_blank" ><b>D3 - ITC - Tools</b></a> - <span>Offers a range of online tools to make global trade more transparent and facilitate access to markets.</span></div> 
+    <div class="bizbbin" ><a href="https://exportpotential.intracen.org/en" target="_blank" ><b>D3 - ITC - Export Potential Map</b></a> - <span>A free tool that turns economic analysis into practical trade information using the ITC export potential methodology.</span></div> 
+    <div class="bizbbin" ><a href="https://www.trademap.org/Index.aspx" target="_blank" ><b>D3 - ITC - Trade Map</b></a> - Online database on international trade statistics, providing an array of useful indicators on export performance, international demand, alternative markets and the role of competitors from both the product and country perspectives.<span></span></div> 
+    <div class="bizbbin" ><a href="https://www.macmap.org" target="_blank" ><b>D3 - ITC - Market Access Map </b></a> - <span>Customized services to support your trade needs: Targeted info sessions on U.S. tariffs and trade remedies by product and sector.</span></div>  
+  
+  
+  
+  <div class="bizbbin" id="biztitle" >4. International Trade Institutions</div>
+    <div class="bizbbin" ><a href="https://www.wcoomd.org" target="_blank" ><b>D4 - World Customs Organization</b></a> - <span>Provides cutting-edge e-learning platforms designed to empower Customs professionals around the world. </span></div> 
+    <div class="bizbbin" ><a href="https://www.wto.org" target="_blank" ><b>D4 - World Trade Organization – WTO</b></a> - <span>Global international organization dealing with the rules of trade between nations. At its heart are the WTO agreements, negotiated and signed by the bulk of the world’s trading nations and ratified in their parliaments. </span></div> 
+    <div class="bizbbin" ><a href="https://uncitral.un.org" target="_blank" ><b>D4 - United Nations Commission On International Trade Law – UNCITRAL</b></a> - <span>Is the core legal body of the United Nations system in the field of international trade law. </span></div> 
+    <div class="bizbbin" ><a href="https://irta.com" target="_blank" ><b>D4 - International Reciprocal Trade Association – IRTA</b></a> - <span>Is a non-profit organization committed to providing best practices, ethical guidelines, proactive advocacy and certification designations to the international organized trade industry and IRTA members.</span></div> 
+    <div class="bizbbin" ><a href="https://www.fao.org/home/en" target="_blank" ><b>D4 - Food and Agriculture Organization of the United Nations</b></a> - <span>A specialized agency of the United Nations that leads international efforts to defeat hunger.</span></div> 
+    <div class="bizbbin" ><a href="https://www.efsa.europa.eu/en" target="_blank" ><b>D4 - European Food Safety Authority</b></a> - <span>The agency of the European Union that provides independent scientific advice and communicates on existing and emerging risks associated with the food chain. </span></div> 
+ <!--   
+    <div class="bizbbin" ><a href="https://www.fda.gov" target="_blank" ><b>D4 - U.S. Food and Drug Administration</b></a> - <span></span></div> 
+    <div class="bizbbin" ><a href="https://www.trade.gov" target="_blank" ><b>D4 - U.S. International Trade Administration</b></a> - <span></span></div> 
+    <div class="bizbbin" ><a href="https://www.cbp.gov" target="_blank" ><b>D4 - U.S. Customs and Border Protection</b></a> - <span></span></div>  
+    <div class="bizbbin" ><a href="https://www.dhs.gov" target="_blank" ><b>D4 - U.S. Homeland Security</b></a> - <span></span></div> 
+    <div class="bizbbin" ><a href="https://www.bis.gov" target="_blank" ><b>D4 - U.S. Bureau of Industry and Security</b></a> - <span></span></div> 
+    <div class="bizbbin" ><a href="https://www.usda.gov" target="_blank" ><b>D4 - U.S. Department of Agriculture</b></a> - <span></span></div> 
+ -->   
+    
+    <div class="bizbbin" ><a href="https://www.frontex.europa.eu" target="_blank" ><b>D4 - Frontex - European Border and Coast Guard Agency</b></a> - <span>The European Border and Coast Guard Agency, supports EU Member States and Schengen-associated countries in the management of the EU’s external borders and the fight against cross-border crime. </span></div> 
+    <div class="bizbbin" ><a href="https://www.consumersinternational.org" target="_blank" ><b>D4 - Consumers International</b></a> - <span>We work with our members and partners globally, to empower and champion the rights of consumers, and ensure they are treated safely, fairly and honestly.</span></div> 
+    <div class="bizbbin" ><a href="https://www.ippc.int/en/" target="_blank" ><b>D4 - International Plant Protection Convention</b></a> - <span>Is the intergovernmental treaty that aims to protect the world's plants, agricultural products and natural resources from plant pests.</span></div>  
+     
+  
+  <div class="bizbbin" id="biztitle" >5. Regional Institutions</div> 
+    <div class="bizbbin" ><a href="https://www.ecowas.int" target="_blank" ><b>D5 - ECOWAS - Economic Community of West African States</b></a> - <span>To promote cooperation and integration, leading to the establishment of an economic union in West Africa in order to raise the living standards of its peoples, and to maintain and enhance economic stability, foster relations-among Member States and contribute to the progress and development of the African continent.</span></div>  
+    <div class="bizbbin" ><a href="https://www.eac.int/" target="_blank" ><b>D5 - EAC - East African Community</b></a> - <span> Is a regional intergovernmental organisation of eight  (8) Partner States, comprising the Republic of Burundi, Democratic Republic of Congo, Republic of Kenya, Republic of Rwanda, Federal Republic of Somalia, Republic of South Sudan, Republic of Uganda and United Republic of Tanzania, with its headquarters in Arusha, Tanzania.</span></div> 
+    <div class="bizbbin" ><a href="https://www.gcc-sg.org/ar/Pages/default.aspx" target="_blank" ><b>D5 - GCC - Gulf Cooperation Council</b></a> - <span> Is a regional political and economic alliance established in 1981, consisting of six member states: Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates. Formed with goals of achieving economic integration and fostering political and cultural unity, its headquarters are in Riyadh, Saudi Arabia.</span></div> 
+    <div class="bizbbin" ><a href="https://www.comcec.org" target="_blank" ><b>D5 - COMCEC </b></a> - <span>Aims at improving the functioning, effectiveness, and sustainability of transport and communications in the OIC Member States.</span></div> 
+    <div class="bizbbin" ><a href="https://www.unescwa.org" target="_blank" ><b>D5 - UN ESCWA</b></a> - <span>Innovative catalyst for a stable, just and flourishing Arab region.</span></div> 
+    <div class="bizbbin" ><a href="https://wami-imao.org" target="_blank" ><b>D5 - West African Monetary Institute</b></a> - <span>The Institute is to undertake technical preparations for the establishment of a common West African Central Bank and the launching of a single currency for the West African Monetary Zone (WAMZ/Zone). </span></div> 
+    <div class="bizbbin" ><a href="https://au.int/" target="_blank" ><b>D5 - African Union</b></a> - <span>Promoting Africa's growth and economic development by championing citizen inclusion and increased cooperation and integration of African states.</span></div> 
+    <div class="bizbbin" ><a href="https://www.sacu.int/" target="_blank" ><b>D5 - SACU - Southern African Customs Union</b></a> - <span>A customs union among five countries of Southern Africa: Botswana, Eswatini, Lesotho, Namibia and South Africa.</span></div> 
+    <div class="bizbbin" ><a href="https://caricom.org" target="_blank" ><b>D5 - CARICOM - Caribbean Community</b></a> - <span>The oldest surviving integration movement in the developing world. It is a grouping of twenty countries: fifteen Member States and six Associate Members.</span></div>  
+    <div class="bizbbin" ><a href="https://alianzapacifico.net/en/" target="_blank" ><b>D5 - Alianza del Pacífico </b></a> - <span>Trade bloc, formed by Chile, Colombia, Mexico and Peru, which all border the Pacific Ocean.</span></div>  
+    <div class="bizbbin" ><a href="https://www.sica.int" target="_blank" ><b>D5 - SICA - Sistema de la Integración Centroamericana</b></a> - <span>The economic and political organization of Central American states since 1 February 1993.</span></div> 
+    <div class="bizbbin" ><a href="https://www.aladi.org/sitioaladi/" target="_blank" ><b>D5 - ALADI - Asociación Latinoamericana de Integración</b></a> - <span>Is an international and regional scope organization. It was created on 12 August 1980 by the 1980 Montevideo Treaty, replacing the Latin American Free Trade Association.</span></div> 
+    <div class="bizbbin" ><a href="https://www.mercosur.int" target="_blank" ><b>D5 - Mercosur</b></a> - <span>The Southern Common Market is a South American trade bloc established by the Treaty of Asunción in 1991 and Protocol of Ouro Preto in 1994. Its full members are Argentina, Bolivia, Brazil, Paraguay, and Uruguay. Venezuela is a full member but has been suspended since 1 December 2016.</span></div> 
+    <div class="bizbbin" ><a href="https://www.comunidadandina.org" target="_blank" ><b>D5 - Comunidad Andina</b></a> - <span> Is an international organization in South America. It consists of the member states Bolivia, Colombia, Ecuador and Peru and aims at the economic, political and social integration of these states.</span></div> 
+    <div class="bizbbin" ><a href="http://www.sice.oas.org/" target="_blank" ><b>D5 - SICE - OAS Foreign Trade Information System</b></a> - <span>A central source for information on trade policy in the Americas.</span></div> 
+    <div class="bizbbin" ><a href="https://asean.org" target="_blank" ><b>D5 - ASEAN - Association of Southeast Asian Nations</b></a> - <span>Is a regional organization founded in 1967 to promote economic growth, political stability, and social and cultural cooperation among its member countries in Southeast Asia.</span></div>  
+    <div class="bizbbin" ><a href="https://infobrics.org/" target="_blank" ><b>D5 - BRICS </b></a> - <span>BRICS is a group of major emerging economies with 10 member countries: Brazil, Russia, India, China, South Africa, Egypt, Ethiopia, Iran, Saudi Arabia, and the United Arab Emirates. </span></div>  
+    <div class="bizbbin" ><a href="https://eccis.org/" target="_blank" ><b>D5 - Commonwealth of Independent States (CIS) </b></a> - <span>A regional intergovernmental organisation in Eurasia.  </span></div>  
+  
+  <div class="bizbbin" id="biztitle" >6. European Institutions</div>
+  
+    <div class="bizbbin" ><a href="https://europa.eu" target="_blank" ><b>D6 - European Union</b></a> - <span>The European Union is a supranational political and economic union of 27 member states that are located primarily in Europe.</span></div> 
+    <div class="bizbbin" ><a href="https://www.efta.int" target="_blank" ><b>D6 - European Free Trade Association</b></a> - <span>Is an intergovernmental organization promoting free trade among its four member states: Iceland, Liechtenstein, Norway, and Switzerland. </span></div> 
+    <div class="bizbbin" ><a href="https://www.europarl.europa.eu/portal/en" target="_blank" ><b>D6 - European Parliament</b></a> - <span>The European Parliament is one of the two legislative bodies of the European Union and one of its seven institutions. Together with the Council of the European Union, it adopts European legislation, following a proposal by the European Commission.</span></div> 
+    <div class="bizbbin" ><a href="https://www.consilium.europa.eu/en/european-council/" target="_blank" ><b>D6 - European Council</b></a> - <span>A collegiate body and a symbolic collective head of state, that defines the overall political direction and general priorities of the European Union.</span></div> 
+    <div class="bizbbin" ><a href="https://www.consilium.europa.eu/en/council-eu/" target="_blank" ><b>D6 - The Council of the European Union</b></a> - <span>The Council of the EU is where national ministers from each EU country meet to negotiate and adopt EU laws.</span></div> 
+    <div class="bizbbin" ><a href="https://commission.europa.eu/index_en" target="_blank" ><b>D6 - European Commission</b></a> - <span>The European Commission is the EU's main executive body. It proposes legislation, upholds EU treaties and ensures Member States apply EU law and policies.</span></div> 
+    <div class="bizbbin" ><a href="https://www.ombudsman.europa.eu/en/home" target="_blank" ><b>D6 - European Ombudsman</b></a> - <span>The European Ombudsman works to promote good administration at EU level. The Ombudsman investigates complaints about maladministration by EU institutions and bodies, and also proactively looks into broader systemic issues.</span></div> 
+    <div class="bizbbin" ><a href="https://anti-fraud.ec.europa.eu/index_en" target="_blank" ><b>D6 - European Anti-Fraud Office</b></a> - <span>OLAF investigates fraud against the EU budget, corruption and serious misconduct within the European institutions, and develops anti-fraud policy for the European Commission.</span></div> 
+    <div class="bizbbin" ><a href="https://ccre-cemr.org/" target="_blank" ><b>D6 - CEMR - Council of European Municipalities and Regions</b></a> - <span>The first and broadest European association of Local and Regional Governments.</span></div> 
+    <div class="bizbbin" ><a href="https://www.eesc.europa.eu/en" target="_blank" ><b>D6 - EESC - European Economic and Social Committee</b></a> - <span>The European Economic and Social Committee (EESC) is the voice of organised civil society in Europe. It represents employers, workers and civil society organisations. The expertise of its 329 members helps optimise the quality of EU policies and legislation.</span></div> 
+    <div class="bizbbin" ><a href="https://www.nalas.eu/" target="_blank" ><b>D6 - NALAS</b></a> - <span>NALAS is a network of associations of local authorities of South East Europe. The Network brings together 13 Associations which represent roughly 9000 local authorities, directly elected by more than 80 million citizens of this region.</span></div> 
+    <div class="bizbbin" ><a href="https://cor.europa.eu/en/" target="_blank" ><b>D6 - CoR - European Committee of the Regions</b></a> - <span>The European Committee of the Regions (CoR) is the meeting place in Brussels for Europe's regions and cities. Our events bring the voice of regions, cities, municipalities and citizens to decision makers in Brussels.</span></div>  
+    <div class="bizbbin" ><a href="https://curia.europa.eu/jcms/jcms/j_6/en/" target="_blank" ><b>D6 - CJEU - Court of Justice of the European Union</b></a> - <span>It interprets EU law to make sure it is applied in the same way in all EU countries, and settles legal disputes.</span></div>  
+ 
+ <!--
+  <div class="bizbbin" id="biztitle" >7. Local Institutions</div>
+  
+    <div class="bizbbin" ><a href="https://portal.311.nyc.gov" target="_blank" ><b>D7 - NYC 311</b></a> - <span></span></div> 
+    <div class="bizbbin" ><a href="https://www.mta.info" target="_blank" ><b>D7 - Metropolitan Transportation Authority</b></a> - <span></span></div> 
+    <div class="bizbbin" ><a href="https://a858-nycnotify.nyc.gov/notifynyc/" target="_blank" ><b>D7 - NotifyNYC Alerts</b></a> - <span></span></div> 
+    <div class="bizbbin" ><a href="https://www.nyc.gov" target="_blank" ><b>D7 - NYC.gov</b></a> - <span></span></div>  
+    <div class="bizbbin" ><a href="https://www.nyc.gov/site/dss/index.page" target="_blank" ><b>D7 - New York Department of Social Services</b></a> - <span></span></div> 
+    <div class="bizbbin" ><a href="https://www.dasny.org" target="_blank" ><b>D7 - DASNY</b></a> <span></span></div>  
+    <div class="bizbbin" ><a href="https://a856-cityrecord.nyc.gov/" target="_blank" ><b>D7 - CROL - City Record Online</b></a> - <span></span></div> 
+    <div class="bizbbin" ><a href="https://www.nyc.gov/site/sbs/index.page" target="_blank" ><b>D7 - NYC Small Business Services</b></a> - <span></span></div> 
+    <div class="bizbbin" ><a href="https://www.panynj.gov/port/en/index.html" target="_blank" ><b>D7 - Port of New York & New Jersey</b></a> - <span></span></div> 
+    <div class="bizbbin" ><a href="https://esd.ny.gov/" target="_blank" ><b>D7 - Empire State Development</b></a> - <span></span></div> 
+    <div class="bizbbin" ><a href="https://www.sba.gov/" target="_blank" ><b>D7 - U.S. Small Business Development</b></a> - <span></span></div> 
+    <div class="bizbbin" ><a href="http://nycsca.org/" target="_blank" ><b>D7 - New York City School Construction Authority</b></a> - <span></span></div> 
+    <div class="bizbbin" ><a href="https://www.nyc.gov/site/mocs/index.page" target="_blank" ><b>D7 - MOCS - Mayor's Office of Contract Services</b></a> - <span></span></div>  
+    <div class="bizbbin" ><a href="https://comptroller.nyc.gov" target="_blank" ><b>D7 - NYC - Comptroller</b></a> - <span></span></div>  
+    
+ -->
+  
+  <div class="bizbbin" id="biztitle" >8. Trade Shows and Conventions</div>
+  <div class="bizbbin" ><a href="https://www.eventseye.com" target="_blank" ><b>D8 - EventsEye Trade Shows</b></a> - <span> the practical and reliable free Web source dedicated to key exhibitions and trade shows Worldwide.  </span></div>
+  <div class="bizbbin" ><a href="https://www.tsnn.com" target="_blank" ><b>D8 - Trade Shows News Network</b></a> - <span> The world's leading online resource for the trade show, exhibition and event industry since 1996.  </span></div>
+  <div class="bizbbin" ><a href="https://www.bie-paris.org/site/en" target="_blank" ><b>D8 - Bureau International des Expositions</b></a> - <span> The intergovernmental organisation in charge of overseeing and regulating World Expos, since 1931. </span></div>
+  
+ 
+  
+  
+  <div class="bizbbin" id="biztitle" >9. Bazaars, Souks, Flea and Farmers Markets</div>
+  <div class="bizbbin" id="biztitle" >10. Auctions</div>
+  <div class="bizbbin" id="biztitle" >11. Copyshops</div>
+  <div class="bizbbin" id="biztitle" >12. Banks and Insurance</div>
+  <div class="bizbbin" id="biztitle" >13. Chambers of Commerce</div>  
+  <div class="bizbbin" ><a href="https://iccwbo.org/world-chambers-federation/our-chamber-network/" target="_blank" ><b>D13 - International Chamber of Commerce (ICC)</b></a> - <span> A global business organization representing companies and associations in over 170 countries. ICC represents a broad range of sectors and business sizes.  </span></div>
+ 
+  
+  <div class="bizbbin" id="biztitle" >14. Plant Protection Organizations</div>
+  <div class="bizbbin" id="biztitle" >15. Agriculture and Rural Development Institutions</div>
+  <div class="bizbbin" id="biztitle" >16. Food Safety Agencies</div>
+  <div class="bizbbin" id="biztitle" >17. Official Business Registers</div>
+  <div class="bizbbin" id="biztitle" >18. VAT and Currency Exchange Info</div>
+  <div class="bizbbin" id="biztitle" >19. Standards and Intellectual property (IP)</div>  
+  <div class="bizbbin" ><a href="https://www.iso.org/standards.html" target="_blank" ><b>D19 - ISO Standards</b></a> - <span> Are internationally agreed by experts. Think of them as a formula that describes the best way of doing something.  </span></div>
+  <div class="bizbbin" ><a href="https://standards.cencenelec.eu/" target="_blank" ><b>D19 - CEN CENELEC Standards</b></a> - <span> The development of a European Standard (EN) is governed by the principles of consensus, openness, transparency, national commitment and technical coherence. </span></div>
+  <div class="bizbbin" ><a href="https://webstore.iec.ch" target="_blank" ><b>D19 - IEC Standards</b></a> - <span> The International Electrotechnical Commission is an international standards organization that prepares and publishes international standards for all electrical, electronic and related technologies. </span></div>
+  <div class="bizbbin" ><a href="https://standardsmap.org" target="_blank" ><b>D19 - ITC Standards Map</b></a> - <span> Provides information on over 300 standards for environmental protection, worker and labour rights, economic development, quality and food safety, as well as business ethics.</span></div>
+  <div class="bizbbin" ><a href="https://patents.google.com" target="_blank" ><b>D19 - Google Patents</b></a> - <span> Search and read the full text of patents from around the world and find prior art in our index of non-patent literature.  </span></div>
+  <div class="bizbbin" ><a href="https://www.uspto.gov/patents/search" target="_blank" ><b>D19 - US Patents Office</b></a> - <span> Patent basics, trademark basics, identify what kind of IP you have, inventor & entrepreneur resources, access our free services, training and education events.  </span></div>
+  <div class="bizbbin" ><a href="https://www.epo.org/en/service-support/useful-links/national-offices" target="_blank" ><b>D19 - EU Patents</b></a> - <span> The EPO provides high-quality patents and efficient services that foster innovation, competitiveness and economic growth. </span></div>
+  <div class="bizbbin" ><a href="https://worldwide.espacenet.com" target="_blank" ><b>D19 - Espacenet Patents Search</b></a> - <span> free access to over 160 million patent documents. </span></div>
+  <div class="bizbbin" ><a href="https://osim.ro/" target="_blank" ><b>D19 - State Office for Inventions and Trademarks (OSIM)</b></a> - <span> Authority in Romania that provides industrial property protection services.</span></div>
+ 
+ 
+  <div class="bizbbin" id="biztitle" >20. Charity, Food Waste and Voluntary Work</div>
+  <div class="bizbbin" id="biztitle" >21. Students Financial Aid</div>
+  <div class="bizbbin" id="biztitle" >22. Tailors and Shoe Reparir</div>  
+  <div class="bizbbin" id="biztitle" >23. Blacksmiths and Metalsmiths</div>
+  <div class="bizbbin" id="biztitle" >24. Locksmiths and Handymen</div>
+  <div class="bizbbin" id="biztitle" >25. Electronics and Appliances Service</div>
+  <div class="bizbbin" id="biztitle" >26. Newsstands</div>
+</div><!-- END BIZ GRID -->
+<br>
