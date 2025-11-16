@@ -1,4 +1,6 @@
 
+<details id="da24" >
+  <summary>Visitor Statistics</summary>
 
 <h3 style="border-bottom: 3px solid #f5f5f5;font-size:21px;color:green;" ><b>A. Education and Culture</b></h3><br>  
 <!-- START BIZ GRID -->
@@ -440,3 +442,9 @@ Use the country credit ratings to plan and manage your international trade.</spa
   <div class="bizbbin" id="biztitle" >26. Newsstands</div>
 </div><!-- END BIZ GRID -->
 <br>
+ 
+ 
+   
+ <div class="thehidebtnbin" ><a class="thehidebtn" href="#da23" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+ 
+</details>
