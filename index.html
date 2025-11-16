@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>BLUE SEA EXPORT IMPORT S.R.L. - Export, import, distribution and brokerage services</title>
@@ -397,16 +397,15 @@ $(".count"+i).html("( "+b+" )");
          $("#helpfullinks").html(result);
          }});
         // load helpfullinks end
-
+        
+        
         // load itr start
-         let rand = Math.floor((Math.random() * 1000000) + 1);
          $.ajax({url: "https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/refs/heads/main/itr.txt?" + rand, success: function(result){
          $("#itr").html(result);
          }});
         // load itr end
+        
 
-
-	
 
 });
 </script>
@@ -13400,7 +13399,8 @@ of electrical conductors
 <h1>Helpful Links</h1>
 <div id="helpfullinks" >
 </div><!-- End Helpful Links-->
-
+<div id="itr" >
+</div><!-- End Itr -->
  
  
 </div><!-- End Main-->
