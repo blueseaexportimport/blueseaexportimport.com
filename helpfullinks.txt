@@ -1,4 +1,5 @@
 <!-- Helpful links -->
+  
  
   <details id="da1" >
   <summary>Company Information Sheet (CIS) / Company Profile</summary>
@@ -1625,20 +1626,6 @@ For some products we will try to find suppliers that offer international warrant
  
 </details>
  
-<!-- start Itr --> 
-<details id="da24" >
-  <summary>International Trade Resources</summary>
-  <div id="itr" ></div>
- <div class="thehidebtnbin" ><a class="thehidebtn" href="#da24" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
  
-</details>
-
-<!-- End Itr -->
-
-<!-- Helpful links -->
-
- 
-
-
 
 <!-- Helpful links -->
