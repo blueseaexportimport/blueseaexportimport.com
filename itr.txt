@@ -1,5 +1,3 @@
-<!-- START ITR -->
-
 <details id="da24" >
   <summary>International Trade Resources</summary>
 
@@ -12,6 +10,39 @@
 <div class="bizbbin" id="biztitle" >2. Theaters and Ballet</div>
   
 <div class="bizbbin" id="biztitle" >3. Opera Houses and Orchestras</div>
+<div class="bizbbin" style="border:1px dashed #151fba;padding:10px;" ><span>Romania</span></div> 
+<div class="bizbbin"><a href="https://operanb.ro/?lang=en" target="_blank" ><b>A3 - Romanian National Opera </b></a> <br> - <span>Bd. Mihail Kogalniceanu no. 70-72, Sector 5, Bucharest, Romania</span></div>
+<div class="bizbbin"><a href="https://www.opereta.ro/?lang=en" target="_blank" ><b>A3 - Ion Dacian National Operetta and Musical Theater </b></a> <br> - <span>Str. Octavian Goga no. 1, Sector 3, Bucharest, Romania</span></div>
+<div class="bizbbin"><a href="https://www.ort.ro/en/home" target="_blank" ><b>A3 - Timisoara Opera </b></a> <br> - <span>Str. Marasesti no. 2, Timisoara, Romania</span></div>
+<div class="bizbbin"><a href="https://www.operaiasi.ro/en/events/" target="_blank" ><b>A3 - Iasi Opera </b></a> <br> - <span>Str. Agatha Barsescu, no. 18, Iasi, Romania</span></div>
+<div class="bizbbin"><a href="https://operamaghiara.ro/" target="_blank" ><b>A3 - Hungarian Opera </b></a> <br> - <span>Str. Emil Isac no. 26-28, Cluj Napoca, Romania</span></div>
+<div class="bizbbin"><a href="https://operacluj.ro/en/" target="_blank" ><b>A3 - Cluj Opera </b></a> <br> - <span>Piata Stefan cel Mare no. 20, Cluj Napoca, Romania</span></div>
+<div class="bizbbin"><a href="https://www.operacraiova.ro/en/" target="_blank" ><b>A3 - Craiova Opera </b></a> <br> - <span>Str. Popoveni no. 3C, Craiova, Romania</span></div>
+<div class="bizbbin"><a href="https://www.opera-brasov.ro/" target="_blank" ><b>A3 - Brasov Opera </b></a> <br> - <span>Str. Bisericii Romane 51, Brasov, Romania</span></div> 
+<div class="bizbbin"><a href="https://www.filarmonicaenescu.ro/en" target="_blank" ><b>A3 - George Enescu Philarmonic </b></a> <br> - <span>Str. Benjamin Franklin no. 1 - 3, Bucharest, Romania</span></div>
+<div class="bizbbin"><a href="https://www.filarmonicabraila.ro/" target="_blank" ><b>A3 - Braila Philarmonic </b></a> <br> - <span>Str. Ana Aslan no. 29, Braila, Romania</span></div>
+<div class="bizbbin"><a href="https://filarmonicabacau.ro/" target="_blank" ><b>A3 - Mihail Jora Bacau Philarmonic </b></a> <br> - <span>Str. Razboieni 22, Bacau, Romania</span></div>
+<div class="bizbbin"><a href="https://filarmonicabotosani.ro/" target="_blank" ><b>A3 - Botosani Philarmonic </b></a> <br> - <span>Str. Arhimandrit Marchian no. 5, Botosani, Romania</span></div>
+<div class="bizbbin"><a href="https://filarmonicabrasov.ro/" target="_blank" ><b>A3 - Brasov Philarmonic </b></a> <br> - <span>Bd. 15 Noiembrie no. 50A, Brasov, Romania</span></div>
+<div class="bizbbin"><a href="https://www.filarmonicaoltenia.ro/" target="_blank" ><b>A3 - Oltenia Philarmonic </b></a> <br> - <span>Calea Unirii no. 16, Craiova, Romania</span></div>
+<div class="bizbbin"><a href="https://www.filarmonicais.ro/index.php/en/" target="_blank" ><b>A3 - Moldova Iasi Philarmonic </b></a> <br> - <span>Str. Cuza Voda no. 29, Iasi, Romania</span></div>
+<div class="bizbbin"><a href="https://filarmonica-valcea.ro/" target="_blank" ><b>A3 - Valcea Philarmonic </b></a> <br> - <span>Calea lui Traian no. 138 B, Ramnicu Valcea, Romania</span></div>
+<div class="bizbbin"><a href="https://filarmonicaploiesti.ro/" target="_blank" ><b>A3 - Ploiesti Philarmonic </b></a> <br> - <span>Str. Anton Pann no. 5, Ploiesti, Romania</span></div>
+<div class="bizbbin"><a href="https://filarmonica-pitesti.ro/" target="_blank" ><b>A3 - Pitesti Philarmonic </b></a> <br> - <span>Calea Bucuresti no. 2, Pitesti, Romania</span></div>
+<div class="bizbbin"><a href="https://www.filarmonicams.ro/" target="_blank" ><b>A3 - Dinu Lipatti Satu Mare Philarmonic </b></a> <br> - <span>Piata Libertatii no. 8 c.p.79, Satu Mare, Romania</span></div> 
+<div class="bizbbin"><a href="https://www.filarmonicaarad.ro/en/" target="_blank" ><b>A3 - Arad Philarmonic </b></a> <br> - <span>Piata George Enescu no. 1, Arad, Romania</span></div>
+<div class="bizbbin"><a href="https://filarmonicaoradea.ro/" target="_blank" ><b>A3 - Oradea Philarmonic </b></a> <br> - <span>Str Moscovei no. 5, Oradea, Romania</span></div>
+<div class="bizbbin"><a href="https://filarmonicabrasov.ro/" target="_blank" ><b>A3 - Brasov Philarmonic </b></a> <br> - <span>Piata Lucian Blaga no. 1-3, Cluj-Napoca, Romania</span></div> 
+<div class="bizbbin"><a href="https://www.filarmonicams.ro/" target="_blank" ><b>A3 - Targu Mures Philarmonic </b></a> <br> - <span>Piata Victoriei no. 1, Targu Mures, Romania</span></div> 
+<div class="bizbbin"><a href="https://www.ro.filharmonia.ro/" target="_blank" ><b>A3 - Odorheiu Secuiesc Philarmonic </b></a> <br> - <span>Piata Victoriei no. 1, Odorheiu Secuiesc, Romania</span></div> 
+<div class="bizbbin"><a href="https://www.filarmonicasibiu.ro/?locale=en" target="_blank" ><b>A3 - Sibiu Philarmonic </b></a> <br> - <span>Str. Cetatii no. 3-5, Sibiu, Romania</span></div> 
+<div class="bizbbin"><a href="https://filarmonicabanatul.ro/" target="_blank" ><b>A3 - Banatul Timisoara Philarmonic </b></a> <br> - <span>Bd. C. D. Loga no. 2, Timisoara, Romania</span></div> 
+ 
+ 
+ 
+
+ 
+
 
 <div class="bizbbin" id="biztitle" >4. Galleries</div>
 
