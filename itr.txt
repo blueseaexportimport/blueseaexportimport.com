@@ -159,14 +159,14 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
 
 <div class="bizbbin" id="biztitle" >12. Zoological Gardens</div>
 <div class="bizbbin" style="border:1px dashed #151fba;padding:10px;" ><span>Romania</span></div> 
-<div class="bizbbin"><a href="https://bucurestizoo.ro/en/" target="_blank" ><b>A12 - Sibiu Zoo</b></a> <br> - <span>Str. Vadul Moldovei no. 4, Sector 1, Bucharest, Romania</span></div> 
+<div class="bizbbin"><a href="https://bucurestizoo.ro/en/" target="_blank" ><b>A12 - Bucharest Zoo</b></a> <br> - <span>Str. Vadul Moldovei no. 4, Sector 1, Bucharest, Romania</span></div> 
 <div class="bizbbin"><a href="https://zooradea.ro/" target="_blank" ><b>A12 - Oradea Zoo </b></a> <br> - <span>Str. Matei Basarab no. 1, Oradea, Romania</span></div> 
 <div class="bizbbin"><a href="https://zoobrasov.ro/en/" target="_blank" ><b>A12 - Brasov Zoo </b></a> <br> - <span>Str. Brazilor no. 1, Brasov, Romania</span></div> 
 <div class="bizbbin"><a href="https://www.zooresita.ro/" target="_blank" ><b>A12 - Resita Zoo "Prof. Ion Crisan"</b></a> <br> - <span>Str. Parcului no. 1P, Resita, Romania</span></div> 
 <div class="bizbbin"><a href="https://cmsngl.ro/" target="_blank" ><b>A12 - Garboavele Zoo Park</b></a> <br> - <span>Garboavele Forest, Tulucesti, Galati, Romania</span></div> 
 <div class="bizbbin"><a href="https://zootirgumures.ro/" target="_blank" ><b>A12 - Targu Mures Zoo</b></a> <br> - <span>Str. Verii no. 57, Targu Mures, Romania</span></div> 
 <div class="bizbbin"><a href="https://primariabarlad.ro/barlad/agrement/gradina-zoologica/" target="_blank" ><b>A12 - Barlad Zoo</b></a> <br> - <span> Bd. Republicii no. 287 , Barlad, Romania</span></div> 
-<div class="bizbbin"><a href="https://zooploiesti.ro/" target="_blank" ><b>A12 - Ploieşti Zoo</b></a> <br> - <span>Str. Dacia no. 11, Bucov, Prahova, Romania</span></div> 
+<div class="bizbbin"><a href="https://zooploiesti.ro/" target="_blank" ><b>A12 - Ploiesti Zoo</b></a> <br> - <span>Str. Dacia no. 11, Bucov, Prahova, Romania</span></div> 
 <div class="bizbbin"><a href="https://www.zoosibiu.ro/" target="_blank" ><b>A12 - Sibiu Zoo</b></a> <br> - <span>Calea Dumbravii no. 142, Sibiu, Romania</span></div> 
  
 <div class="bizbbin" style="border:1px dashed #151fba;padding:10px;" ><span>Note: Romanian politicians can't even solve the street dogs problem in Romania, <b>please do not send any wild animals to Romania</b>. Wild animals are not safe in Romania.</span></div> 
@@ -619,4 +619,8 @@ Use the country credit ratings to plan and manage your international trade.</spa
  <div class="thehidebtnbin" ><a class="thehidebtn" href="#da23" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
  
 </details>
+
+
+
+
 
