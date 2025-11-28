@@ -1,7 +1,6 @@
 <!-- Helpful links -->
   
- 
-  <details id="da1" >
+ <details id="da1" >
   <summary>Company Information Sheet (CIS) / Company Profile</summary>
   
  
@@ -11,7 +10,7 @@
   <span style="color:green;" ><b>A) BUSINESS LICENSE / O.N.R.C. REGISTRATION CERTIFICATE </b></span><br>
   <span><b>1. Company name:</b> BLUE SEA EXPORT IMPORT S.R.L.</span><br>
   <span><b>2. Company type:</b> S.R.L. ( Limited Liability Company - LLC )</span><br>
-  <span><b>3. Administrator ( C.E.O ):</b> Alin Cătălin Tănase</span><br> 
+  <span><b>3. Administrator ( C.E.O ):</b> Alin Cătălin Tănase ( expires on 08.02.2053 )</span><br> 
   <span><b>4. Public WhatsApp / Telegram:</b> +40 743 307 383  [ We chat via messages and letters only, so all can be recorded ]</span><br> 
   <span><b>5. Public E-Mail:</b> blueseaexportimport [ @ ] outlook or gmail or protonmail [ dot] com</span><br> 
   
@@ -198,7 +197,7 @@
   <span>- <b>Does not export, import, transport or store</b> tobacco, hunting articles, guns, ammo, drinking alcohol, aerosol spray paints, hemp, hemp seeds, plants or mushrooms that are toxic, prohibited substances, drinks, snacks and sweets that contain banned additives, pirated software, propaganda and indecent materials-prints or printed paper;</span><br><br>
   <span>- <b>Does not export, import, transport or store</b> wood logs or wood products from tropical and subtropical regions, wood logs or wood products that are not FSC and/or PEFC certified , even if you are certified, as supplier company must send proof the products come from sustainable exploitation of forests;</span><br><br>
   <span>- <b>Does not export, import, transport or store</b> religious items, some people are experts at manipulating belief systems for person interest.( e.g. People that want "donations" for performing fake miracles );</span><br><br>
-   <span>- <b>Does not export, import, transport or store</b> products for artists that do political propaganda for corrupt and/or extremist politicans or political parties;</span><br> 
+   <span>- <b>Does not export, import, transport or store</b> products for artists that do political propaganda for corrupt and/or extremist politicans or political parties;</span><br><br> 
    <span>- <b>Does not export, import, transport or store</b> products for any company or organization owner or CEO involved in domestic violence, harassment, sexual harassment or other illegal activities;</span><br><br>
      
      
@@ -219,6 +218,8 @@
  
     <span><b>BLUE SEA EXPORT IMPORT S.R.L. EMPLOYEES</b></span><br>
     <span>- Must allow any Person, Institution, NGO, or Company to view or capture images and videos of all public documents, including public price lists. If employees try to sabotage you, report them immediately via email or social media. Such employees will be immediately fired. We will also send you the documents ASAP in PDF or JPG format via email.</span><br><br>
+    <span>- Must always wear comfortable and decent clothing or personal protective equipment when needed.</span><br><br>
+    
  
      <span><b>MINIMUM ORDER</b></span><br>
  <span><span style="color:darkred;" ><b>If your company is located in New York, for non-food products: 1000 USD</b></span><br>
