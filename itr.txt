@@ -1,3 +1,4 @@
+
 <!-- START ITR -->
 
 <details id="da24" >
@@ -58,7 +59,7 @@
   <div class="bizbbin" id="biztitle" >2. Disasters and Pollution</div>
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.geosphere.at/en" target="_blank" ><b>C3 - Geosphere.at</b></a> - <span>Austria</span></a> </div> 
-  <div class="bizbbin" id="biztitle" >4. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >4. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >5. Traffic</div> 
   <div class="bizbbin" id="biztitle" >6. Public Transport</div>
   <div class="bizbbin" id="biztitle" >7. Restaurants and Food Vendors</div> 
@@ -165,7 +166,7 @@
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.meteo.be/en/belgium" target="_blank" ><b>C3 - Meteo.be</b></a> - <span>Belgium</span> </div> 
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -270,7 +271,7 @@
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.meteo.bg/en/forecast/dnesUtre" target="_blank" ><b>C3 - Meteo.bg</b></a> - <span>Bulgaria</span></a> </div> 
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -375,7 +376,7 @@
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://meteo.hr/index_en.php" target="_blank" ><b>C3 - Meteo.hr</b></a> - <span>Croatia</span> </div> 
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -480,7 +481,7 @@
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.dom.org.cy/FORECAST/index.html" target="_blank" ><b>C3 - Dom.org.cy</b></a> - <span>Cyprus</span></a> </div> 
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -584,7 +585,7 @@
   <div class="bizbbin" id="biztitle" >2. Disasters and Pollution</div>
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.chmi.cz" target="_blank" ><b>C3 - Chmi.cz</b></a> - <span>Czech Republic</span> </div> 
-  <div class="bizbbin" id="biztitle" >4. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >4. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >5. Traffic</div> 
   <div class="bizbbin" id="biztitle" >6. Public Transport</div>
   <div class="bizbbin" id="biztitle" >7. Restaurants and Food Vendors</div> 
@@ -688,7 +689,7 @@
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.dmi.dk" target="_blank" ><b>C3 - Dmi.dk</b></a> - <span>Denmark</span></a> </div> 
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -793,7 +794,7 @@
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.ilmateenistus.ee/?lang=en" target="_blank" ><b>C3 - Ilmateenistus.ee</b></a> - <span>Estonia</span></a> </div> 
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -898,7 +899,7 @@
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://en.ilmatieteenlaitos.fi" target="_blank" ><b>C3 - Ilmatieteenlaitos.fi</b></a> - <span>Finland</span> </div> 
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -1004,7 +1005,7 @@
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://meteofrance.com" target="_blank" ><b>C3 - Meteofrance.com</b></a> - <span>France</span></a> </div> 
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -1109,7 +1110,7 @@
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.dwd.de/EN/Home/home_node.html" target="_blank" ><b>C3 - Dwd.de</b></a> - <span>Germany</span> </div> 
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -1214,7 +1215,7 @@
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.emy.gr/en?area=forecast" target="_blank" ><b>C3 - Emy.gr</b></a> - <span>Greece</span></a> </div> 
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -1318,7 +1319,7 @@
   <div class="bizbbin" id="biztitle" >2. Disasters and Pollution</div>
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.met.hu/en/idojaras/" target="_blank" ><b>C3 - Met.hu</b></a> - <span>Hungary</span> </div> 
-  <div class="bizbbin" id="biztitle" >4. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >4. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >5. Traffic</div> 
   <div class="bizbbin" id="biztitle" >6. Public Transport</div>
   <div class="bizbbin" id="biztitle" >7. Restaurants and Food Vendors</div> 
@@ -1422,7 +1423,7 @@
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.met.ie/" target="_blank" ><b>C3 - Met.ie</b></a> - <span>Ireland</span></a> </div> 
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -1527,7 +1528,7 @@
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.meteoam.it/it/home" target="_blank" ><b>C3 - Meteoam.it</b></a> - <span>Italy</span></a> </div>   
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -1632,7 +1633,7 @@
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://videscentrs.lvgmc.lv/" target="_blank" ><b>C3 - Lvgmc.lv</b></a> - <span>Latvia</span> </div>  
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -1738,7 +1739,7 @@
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.meteo.lt/en/" target="_blank" ><b>C3 - Meteo.lt</b></a> - <span>Lithuania</span></a> </div>  
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -1842,7 +1843,7 @@
   <div class="bizbbin" id="biztitle" >2. Disasters and Pollution</div>
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.meteolux.lu/?lang=fr" target="_blank" ><b>C3 - Meteolux.lu</b></a> - <span>Luxembourg</span></a> </div>  
-  <div class="bizbbin" id="biztitle" >4. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >4. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >5. Traffic</div> 
   <div class="bizbbin" id="biztitle" >6. Public Transport</div>
   <div class="bizbbin" id="biztitle" >7. Restaurants and Food Vendors</div> 
@@ -1947,7 +1948,7 @@
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://maltametoffice.com/" target="_blank" ><b>C3 - Maltametoffice.com</b></a> - <span>Lithuania</span></a> </div>   
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -2052,7 +2053,7 @@
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.knmi.nl/home" target="_blank" ><b>C3 - Knmi.nl</b></a> - <span>Netherlands</span></a> </div>  
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -2157,7 +2158,7 @@
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://meteo.imgw.pl/" target="_blank" ><b>C3 - Meteo.imgw.pl</b></a> - <span>Poland</span></a> </div> 
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -2262,7 +2263,7 @@
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.ipma.pt/en/index.html" target="_blank" ><b>C3 - Ipma.pt</b></a> - <span>Portugal</span> </div>  
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -2522,7 +2523,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.meteoromania.ro" target="_blank" ><b>C3 - Meteoromania.ro</b></a> - <span>Romania</span></a> </div>  
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -2630,26 +2631,24 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >2. Disasters and Pollution</div>
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.shmu.sk/en/?page=1" target="_blank" ><b>C3 - Shmu.sk</b></a> - <span>Slovakia</span></a> </div>
-  <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
-  <div class="bizbbin" id="biztitle" >6. Traffic</div> 
-  <div class="bizbbin" id="biztitle" >7. Public Transport</div>
-  <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
-  <div class="bizbbin" id="biztitle" >9. Hotels</div>
-  <div class="bizbbin" id="biztitle" >10. Free Clean Public Toilets</div>
-  <div class="bizbbin" id="biztitle" >11. Luggage Storage</div>
-  <div class="bizbbin" id="biztitle" >12. Laundromats</div>  
-  <div class="bizbbin" id="biztitle" >13. Pharmaceris</div>
-  <div class="bizbbin" id="biztitle" >14. Emergency and Helplines</div>
-  <div class="bizbbin" id="biztitle" >15. Free Wi-fi</div>
-  <div class="bizbbin" id="biztitle" >16. PrePay eSIM/SIM cards</div> 
-  <div class="bizbbin" id="biztitle" >17. Car Wash</div>
-  <div class="bizbbin" id="biztitle" >18. Paint and Auto Repair</div>  
-  <div class="bizbbin" id="biztitle" >19. Babysitters, Kindergartens and Afterchools</div>  
-  <div class="bizbbin" id="biztitle" >20. Pet Grooming and Hotels</div>  
-  <div class="bizbbin" id="biztitle" >21. Gyms and Fitness</div>   
-  <div class="bizbbin" id="biztitle" >22. Transport and Freight Forwarders</div>
-  <div class="bizbbin" id="biztitle" >23. Fumigation</div> 
+  <div class="bizbbin" id="biztitle" >4. Time Zone</div>  
+  <div class="bizbbin" id="biztitle" >5. Traffic</div> 
+  <div class="bizbbin" id="biztitle" >6. Public Transport</div>
+  <div class="bizbbin" id="biztitle" >7. Restaurants and Food Vendors</div> 
+  <div class="bizbbin" id="biztitle" >8. Hotels</div>
+  <div class="bizbbin" id="biztitle" >9. Free Clean Public Toilets</div>
+  <div class="bizbbin" id="biztitle" >10. Luggage Storage</div>
+  <div class="bizbbin" id="biztitle" >11. Laundromats</div>  
+  <div class="bizbbin" id="biztitle" >12. Pharmaceris</div>
+  <div class="bizbbin" id="biztitle" >13. Emergency and Helplines</div>
+  <div class="bizbbin" id="biztitle" >14. Free Wi-fi</div>
+  <div class="bizbbin" id="biztitle" >15. PrePay eSIM/SIM cards</div> 
+  <div class="bizbbin" id="biztitle" >16. Car Wash</div>
+  <div class="bizbbin" id="biztitle" >17. Paint and Auto Repair</div>  
+  <div class="bizbbin" id="biztitle" >18. Babysitters, Kindergartens and Afterchools</div>  
+  <div class="bizbbin" id="biztitle" >19. Pet Grooming and Hotels</div>  
+  <div class="bizbbin" id="biztitle" >20. Gyms and Fitness</div>   
+  <div class="bizbbin" id="biztitle" >21. Transport and Freight Forwarders</div>
 </div><!-- END BIZ GRID -->
 
 <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>D. Slovakia - Business</b></h3>  
@@ -2737,7 +2736,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://meteo.arso.gov.si/" target="_blank" ><b>C3 - Meteo.arso.gov.si</b></a> - <span>Slovenia</span></a> </div>
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -2842,7 +2841,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.aemet.es/es/eltiempo/prediccion/espana?a=pb" target="_blank" ><b>C3 - Aemet.es</b></a> - <span>Spain</span></a> </div>  
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -2947,7 +2946,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.smhi.se/en" target="_blank" ><b>C3 - Smhi.se</b></a> - <span>Sweden</span> </div>  
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -2999,11 +2998,114 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu27" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
 </details><!-- END Country --> 
 
- 
+<!-- START Country --> 
+<details id="eu28" > <summary style="font-size:19px;color:green !important;" >Europe - Dependencies and Areas of Special Sovereignty - Denmark - Faroe Islands</summary> 
+<!-- START BIZ GRID -->
+<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>A. Faroe Islands - Education and Culture</b></h3> 
+<div class="bizgrid" > 
+<div class="bizbbin" id="biztitle" >1. Planetariums and Observatories</div>  
+<div class="bizbbin" id="biztitle" >2. Theaters and Ballet</div>
+<div class="bizbbin" id="biztitle" >3. Opera Houses and Orchestras</div>
+<div class="bizbbin" id="biztitle" >4. Galleries</div>
+<div class="bizbbin" id="biztitle" >5. Museums and Exhibitions</div>  
+<div class="bizbbin" id="biztitle" >6. Landmarks</div> 
+<div class="bizbbin" id="biztitle" >7. Religious Buildings</div> 
+<div class="bizbbin" id="biztitle" >8. Botanical Gardens</div> 
+<div class="bizbbin" id="biztitle" >9. Libraries</div>
+<div class="bizbbin" id="biztitle" >10. Music and Art Fairs</div> 
+<div class="bizbbin" id="biztitle" >11. Aquariums and Dolphinariums</div> 
+<div class="bizbbin" id="biztitle" >12. Zoological Gardens</div>
+<div class="bizbbin" id="biztitle" >13. Animals Shelters</div> 
+<div class="bizbbin" id="biztitle" >14. Online Databases</div>
+</div><!-- END BIZ GRID -->
+
+<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>B. Faroe Islands - Entertainment</b></h3>   
+<div class="bizgrid" > 
+  <div class="bizbbin" id="biztitle" >1. Cinemas</div> 
+  <div class="bizbbin" id="biztitle" >2. TV and Radio Channels</div>
+  <div class="bizbbin" id="biztitle" >3. Chess Parks</div>
+  <div class="bizbbin" id="biztitle" >4. Public Baths and Swimming Pools</div>
+  <div class="bizbbin" id="biztitle" >5. Boating and Yachting</div>
+  <div class="bizbbin" id="biztitle" >6. Amusement Parks</div>
+  <div class="bizbbin" id="biztitle" >7. Circuses</div>
+  <div class="bizbbin" id="biztitle" >8. Concerts</div>
+  <div class="bizbbin" id="biztitle" >9. Festivals</div>
+  <div class="bizbbin" id="biztitle" >10. Stand-up Comedy</div>
+  <div class="bizbbin" id="biztitle" >11. Cabarets</div>
+  <div class="bizbbin" id="biztitle" >12. Magic Shows</div>  
+  <div class="bizbbin" id="biztitle" >13. Sports</div>
+  <div class="bizbbin" id="biztitle" >14. Karting, Bowling Alleys and Pool</div>
+  <div class="bizbbin" id="biztitle" >14. Arcades and Internet Cafes</div>
+  <div class="bizbbin" id="biztitle" >15. Golf Clubs</div>
+  <div class="bizbbin" id="biztitle" >16. Cycling</div>
+  <div class="bizbbin" id="biztitle" >17. Ice skating rinks</div>
+  <div class="bizbbin" id="biztitle" >18. Dance and Jazz Clubs</div>  
+  <div class="bizbbin" id="biztitle" >19. Tours</div>  
+  <div class="bizbbin" id="biztitle" >20. Public Holidays </div>  
+</div><!-- END BIZ GRID -->
+
+<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>C. Faroe Islands - Transport and Accommodations</b></h3> 
+<div class="bizgrid" > 
+  <div class="bizbbin" id="biztitle" >1. Risk and Corruption Info</div>
+  <div class="bizbbin" id="biztitle" >2. Disasters and Pollution</div>
+  <div class="bizbbin" id="biztitle" >3. Weather</div> 
+  <div class="bizbbin" ><a href="https://www.dmi.dk" target="_blank" ><b>C3 - Dmi.dk</b></a> - <span>Denmark - Faroe Islands </span></a> </div> 
+  <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
+  <div class="bizbbin" id="biztitle" >6. Traffic</div> 
+  <div class="bizbbin" id="biztitle" >7. Public Transport</div>
+  <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
+  <div class="bizbbin" id="biztitle" >9. Hotels</div>
+  <div class="bizbbin" id="biztitle" >10. Free Clean Public Toilets</div>
+  <div class="bizbbin" id="biztitle" >11. Luggage Storage</div>
+  <div class="bizbbin" id="biztitle" >12. Laundromats</div>  
+  <div class="bizbbin" id="biztitle" >13. Pharmaceris</div>
+  <div class="bizbbin" id="biztitle" >14. Emergency and Helplines</div>
+  <div class="bizbbin" id="biztitle" >15. Free Wi-fi</div>
+  <div class="bizbbin" id="biztitle" >16. PrePay eSIM/SIM cards</div> 
+  <div class="bizbbin" id="biztitle" >17. Car Wash</div>
+  <div class="bizbbin" id="biztitle" >18. Paint and Auto Repair</div>  
+  <div class="bizbbin" id="biztitle" >19. Babysitters, Kindergartens and Afterchools</div>  
+  <div class="bizbbin" id="biztitle" >20. Pet Grooming and Hotels</div>  
+  <div class="bizbbin" id="biztitle" >21. Gyms and Fitness</div>   
+  <div class="bizbbin" id="biztitle" >22. Transport and Freight Forwarders</div>
+  <div class="bizbbin" id="biztitle" >23. Fumigation</div> 
+</div><!-- END BIZ GRID -->
+
+<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>D. Faroe Islands - Business</b></h3>  
+<div class="bizgrid" > 
+  <div class="bizbbin" id="biztitle" >1. Environmental Organizations</div>
+  <div class="bizbbin" id="biztitle" >2. Energy and Natural Resources</div>
+  <div class="bizbbin" id="biztitle" >3. Economy and Countries Statistics</div>
+  <div class="bizbbin" id="biztitle" >4. International Trade Institutions</div>
+  <div class="bizbbin" id="biztitle" >5. Regional Institutions</div> 
+  <div class="bizbbin" id="biztitle" >6. European Institutions</div>
+  <div class="bizbbin" id="biztitle" >7. Local Institutions</div>
+  <div class="bizbbin" id="biztitle" >8. Trade Shows and Conventions</div>
+  <div class="bizbbin" id="biztitle" >9. Bazaars, Souks, Flea and Farmers Markets</div>
+  <div class="bizbbin" id="biztitle" >10. Auctions</div>
+  <div class="bizbbin" id="biztitle" >11. Copyshops</div>
+  <div class="bizbbin" id="biztitle" >12. Banks and Insurance</div>
+  <div class="bizbbin" id="biztitle" >13. Chambers of Commerce</div>
+  <div class="bizbbin" id="biztitle" >14. Plant Protection Organizations</div>
+  <div class="bizbbin" id="biztitle" >15. Agriculture and Rural Development Institutions</div>
+  <div class="bizbbin" id="biztitle" >16. Food Safety Agencies</div>
+  <div class="bizbbin" id="biztitle" >17. Official Business Registers</div>
+  <div class="bizbbin" id="biztitle" >18. VAT and Currency Exchange Info</div>
+  <div class="bizbbin" id="biztitle" >20. Charity, Food Waste and Voluntary Work</div>
+  <div class="bizbbin" id="biztitle" >21. Students Financial Aid</div>
+  <div class="bizbbin" id="biztitle" >22. Tailors and Shoe Reparir</div>  
+  <div class="bizbbin" id="biztitle" >23. Blacksmiths and Metalsmiths</div>
+  <div class="bizbbin" id="biztitle" >24. Locksmiths and Handymen</div>
+  <div class="bizbbin" id="biztitle" >25. Electronics and Appliances Service</div>
+  <div class="bizbbin" id="biztitle" >26. Newsstands</div>
+</div><!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu28" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
  
  
 <!-- START Country --> 
-<details id="eu28" > <summary style="font-size:19px;color:gray !important;" >European Countries - Albania</summary> 
+<details id="eu29" > <summary style="font-size:19px;color:gray !important;" >European Countries - Albania</summary> 
 <!-- START BIZ GRID -->
 <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>A. Albania - Education and Culture</b></h3> 
 <div class="bizgrid" > 
@@ -3055,7 +3157,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.geo.edu.al/MonitoringForecast/Hydrologic_Meteorological_Forecast/Bulletin_on_Natural_Hazards/" target="_blank" ><b>C3 - Geo.edu.al</b></a> - <span>Albania</span> </div>   
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -3104,11 +3206,11 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >25. Electronics and Appliances Service</div>
   <div class="bizbbin" id="biztitle" >26. Newsstands</div>
 </div><!-- END BIZ GRID -->
-  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu28" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu29" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
 </details><!-- END Country --> 
   
 <!-- START Country --> 
-<details id="eu29" > <summary style="font-size:19px;color:gray !important;" >European Countries - Andorra</summary> 
+<details id="eu30" > <summary style="font-size:19px;color:gray !important;" >European Countries - Andorra</summary> 
 <!-- START BIZ GRID -->
 <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>A. Andorra - Education and Culture</b></h3> 
 <div class="bizgrid" > 
@@ -3159,7 +3261,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >2. Disasters and Pollution</div>
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.meteo.ad/en/forecast" target="_blank" ><b>C3 - Meteo.ad</b></a> - <span>Andorra</span> </div>  
-  <div class="bizbbin" id="biztitle" >4. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >4. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >5. Traffic</div> 
   <div class="bizbbin" id="biztitle" >6. Public Transport</div>
   <div class="bizbbin" id="biztitle" >7. Restaurants and Food Vendors</div> 
@@ -3208,11 +3310,11 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >25. Electronics and Appliances Service</div>
   <div class="bizbbin" id="biztitle" >26. Newsstands</div>
 </div><!-- END BIZ GRID -->
-  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu29" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu30" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
 </details><!-- END Country --> 
  
 <!-- START Country --> 
-<details id="eu30" > <summary style="font-size:19px;color:gray !important;" >European Countries - Iceland</summary> 
+<details id="eu31" > <summary style="font-size:19px;color:gray !important;" >European Countries - Iceland</summary> 
 <!-- START BIZ GRID -->
 <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>A. Iceland - Education and Culture</b></h3> 
 <div class="bizgrid" > 
@@ -3264,7 +3366,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://en.vedur.is/" target="_blank" ><b>C3 - Vedur.is</b></a> - <span>Iceland</span></a> </div> 
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -3313,11 +3415,11 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >25. Electronics and Appliances Service</div>
   <div class="bizbbin" id="biztitle" >26. Newsstands</div>
 </div><!-- END BIZ GRID -->
-  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu30" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu31" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
 </details><!-- END Country --> 
  
 <!-- START Country --> 
-<details id="eu31" > <summary style="font-size:19px;color:gray !important;" >European Countries - Liechtenstein</summary> 
+<details id="eu32" > <summary style="font-size:19px;color:gray !important;" >European Countries - Liechtenstein</summary> 
 <!-- START BIZ GRID -->
 <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>A. Liechtenstein - Education and Culture</b></h3> 
 <div class="bizgrid" > 
@@ -3368,26 +3470,24 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >2. Disasters and Pollution</div>
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://wetterring.li/" target="_blank" ><b>C3 - Wetterring.li</b></a> - <span>Liechtenstein</span> </div>  
-  <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
-  <div class="bizbbin" id="biztitle" >6. Traffic</div> 
-  <div class="bizbbin" id="biztitle" >7. Public Transport</div>
-  <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
-  <div class="bizbbin" id="biztitle" >9. Hotels</div>
-  <div class="bizbbin" id="biztitle" >10. Free Clean Public Toilets</div>
-  <div class="bizbbin" id="biztitle" >11. Luggage Storage</div>
-  <div class="bizbbin" id="biztitle" >12. Laundromats</div>  
-  <div class="bizbbin" id="biztitle" >13. Pharmaceris</div>
-  <div class="bizbbin" id="biztitle" >14. Emergency and Helplines</div>
-  <div class="bizbbin" id="biztitle" >15. Free Wi-fi</div>
-  <div class="bizbbin" id="biztitle" >16. PrePay eSIM/SIM cards</div> 
-  <div class="bizbbin" id="biztitle" >17. Car Wash</div>
-  <div class="bizbbin" id="biztitle" >18. Paint and Auto Repair</div>  
-  <div class="bizbbin" id="biztitle" >19. Babysitters, Kindergartens and Afterchools</div>  
-  <div class="bizbbin" id="biztitle" >20. Pet Grooming and Hotels</div>  
-  <div class="bizbbin" id="biztitle" >21. Gyms and Fitness</div>   
-  <div class="bizbbin" id="biztitle" >22. Transport and Freight Forwarders</div>
-  <div class="bizbbin" id="biztitle" >23. Fumigation</div> 
+  <div class="bizbbin" id="biztitle" >4. Time Zone</div>  
+  <div class="bizbbin" id="biztitle" >5. Traffic</div> 
+  <div class="bizbbin" id="biztitle" >6. Public Transport</div>
+  <div class="bizbbin" id="biztitle" >7. Restaurants and Food Vendors</div> 
+  <div class="bizbbin" id="biztitle" >8. Hotels</div>
+  <div class="bizbbin" id="biztitle" >9. Free Clean Public Toilets</div>
+  <div class="bizbbin" id="biztitle" >10. Luggage Storage</div>
+  <div class="bizbbin" id="biztitle" >11. Laundromats</div>  
+  <div class="bizbbin" id="biztitle" >12. Pharmaceris</div>
+  <div class="bizbbin" id="biztitle" >13. Emergency and Helplines</div>
+  <div class="bizbbin" id="biztitle" >14. Free Wi-fi</div>
+  <div class="bizbbin" id="biztitle" >15. PrePay eSIM/SIM cards</div> 
+  <div class="bizbbin" id="biztitle" >16. Car Wash</div>
+  <div class="bizbbin" id="biztitle" >17. Paint and Auto Repair</div>  
+  <div class="bizbbin" id="biztitle" >18. Babysitters, Kindergartens and Afterchools</div>  
+  <div class="bizbbin" id="biztitle" >19. Pet Grooming and Hotels</div>  
+  <div class="bizbbin" id="biztitle" >20. Gyms and Fitness</div>   
+  <div class="bizbbin" id="biztitle" >21. Transport and Freight Forwarders</div>
 </div><!-- END BIZ GRID -->
 
 <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>D. Liechtenstein - Business</b></h3>  
@@ -3418,11 +3518,11 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >25. Electronics and Appliances Service</div>
   <div class="bizbbin" id="biztitle" >26. Newsstands</div>
 </div><!-- END BIZ GRID -->
-  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu31" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu32" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
 </details><!-- END Country --> 
  
 <!-- START Country --> 
-<details id="eu32" > <summary style="font-size:19px;color:gray !important;" >European Countries - Moldova</summary> 
+<details id="eu33" > <summary style="font-size:19px;color:gray !important;" >European Countries - Moldova</summary> 
 <!-- START BIZ GRID -->
 <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>A. Moldova - Education and Culture</b></h3> 
 <div class="bizgrid" > 
@@ -3473,7 +3573,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >2. Disasters and Pollution</div>
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.meteo.md/index.php/en" target="_blank" ><b>C3 - Meteo.md</b></a> - <span>Moldova</span></a> </div>  
-  <div class="bizbbin" id="biztitle" >4. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >4. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >5. Traffic</div> 
   <div class="bizbbin" id="biztitle" >6. Public Transport</div>
   <div class="bizbbin" id="biztitle" >7. Restaurants and Food Vendors</div> 
@@ -3521,112 +3621,10 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >25. Electronics and Appliances Service</div>
   <div class="bizbbin" id="biztitle" >26. Newsstands</div>
 </div><!-- END BIZ GRID -->
-  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu32" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
-</details><!-- END Country --> 
- 
-<!-- START Country --> 
-<details id="eu33" > <summary style="font-size:19px;color:gray !important;" >European Countries - Monaco</summary> 
-<!-- START BIZ GRID -->
-<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>A. Monaco - Education and Culture</b></h3> 
-<div class="bizgrid" > 
-<div class="bizbbin" id="biztitle" >1. Planetariums and Observatories</div>  
-<div class="bizbbin" id="biztitle" >2. Theaters and Ballet</div>
-<div class="bizbbin" id="biztitle" >3. Opera Houses and Orchestras</div>
-<div class="bizbbin" id="biztitle" >4. Galleries</div>
-<div class="bizbbin" id="biztitle" >5. Museums and Exhibitions</div>  
-<div class="bizbbin" id="biztitle" >6. Landmarks</div> 
-<div class="bizbbin" id="biztitle" >7. Religious Buildings</div> 
-<div class="bizbbin" id="biztitle" >8. Botanical Gardens</div> 
-<div class="bizbbin" id="biztitle" >9. Libraries</div>
-<div class="bizbbin" id="biztitle" >10. Music and Art Fairs</div> 
-<div class="bizbbin" id="biztitle" >11. Aquariums and Dolphinariums</div> 
-<div class="bizbbin" id="biztitle" >12. Zoological Gardens</div>
-<div class="bizbbin" id="biztitle" >13. Animals Shelters</div> 
-<div class="bizbbin" id="biztitle" >14. Online Databases</div>
-</div><!-- END BIZ GRID -->
-
-<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>B. Monaco - Entertainment</b></h3>   
-<div class="bizgrid" > 
-  <div class="bizbbin" id="biztitle" >1. Cinemas</div> 
-  <div class="bizbbin" id="biztitle" >2. TV and Radio Channels</div>
-  <div class="bizbbin" id="biztitle" >3. Chess Parks</div>
-  <div class="bizbbin" id="biztitle" >4. Public Baths and Swimming Pools</div>
-  <div class="bizbbin" id="biztitle" >5. Boating and Yachting</div>
-  <div class="bizbbin" id="biztitle" >6. Amusement Parks</div>
-  <div class="bizbbin" id="biztitle" >7. Circuses</div>
-  <div class="bizbbin" id="biztitle" >8. Concerts</div>
-  <div class="bizbbin" id="biztitle" >9. Festivals</div>
-  <div class="bizbbin" id="biztitle" >10. Stand-up Comedy</div>
-  <div class="bizbbin" id="biztitle" >11. Cabarets</div>
-  <div class="bizbbin" id="biztitle" >12. Magic Shows</div>  
-  <div class="bizbbin" id="biztitle" >13. Sports</div>
-  <div class="bizbbin" id="biztitle" >14. Karting, Bowling Alleys and Pool</div>
-  <div class="bizbbin" id="biztitle" >14. Arcades and Internet Cafes</div>
-  <div class="bizbbin" id="biztitle" >15. Golf Clubs</div>
-  <div class="bizbbin" id="biztitle" >16. Cycling</div>
-  <div class="bizbbin" id="biztitle" >17. Ice skating rinks</div>
-  <div class="bizbbin" id="biztitle" >18. Dance and Jazz Clubs</div>  
-  <div class="bizbbin" id="biztitle" >19. Tours</div>  
-  <div class="bizbbin" id="biztitle" >20. Public Holidays </div>  
-</div><!-- END BIZ GRID -->
-
-<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>C. Monaco - Transport and Accommodations</b></h3> 
-<div class="bizgrid" > 
-  <div class="bizbbin" id="biztitle" >1. Risk and Corruption Info</div>
-  <div class="bizbbin" id="biztitle" >2. Disasters and Pollution</div>
-  <div class="bizbbin" id="biztitle" >3. Weather</div>
-  <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
-  <div class="bizbbin" id="biztitle" >6. Traffic</div> 
-  <div class="bizbbin" id="biztitle" >7. Public Transport</div>
-  <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
-  <div class="bizbbin" id="biztitle" >9. Hotels</div>
-  <div class="bizbbin" id="biztitle" >10. Free Clean Public Toilets</div>
-  <div class="bizbbin" id="biztitle" >11. Luggage Storage</div>
-  <div class="bizbbin" id="biztitle" >12. Laundromats</div>  
-  <div class="bizbbin" id="biztitle" >13. Pharmaceris</div>
-  <div class="bizbbin" id="biztitle" >14. Emergency and Helplines</div>
-  <div class="bizbbin" id="biztitle" >15. Free Wi-fi</div>
-  <div class="bizbbin" id="biztitle" >16. PrePay eSIM/SIM cards</div> 
-  <div class="bizbbin" id="biztitle" >17. Car Wash</div>
-  <div class="bizbbin" id="biztitle" >18. Paint and Auto Repair</div>  
-  <div class="bizbbin" id="biztitle" >19. Babysitters, Kindergartens and Afterchools</div>  
-  <div class="bizbbin" id="biztitle" >20. Pet Grooming and Hotels</div>  
-  <div class="bizbbin" id="biztitle" >21. Gyms and Fitness</div>   
-  <div class="bizbbin" id="biztitle" >22. Transport and Freight Forwarders</div>
-  <div class="bizbbin" id="biztitle" >23. Fumigation</div> 
-</div><!-- END BIZ GRID -->
-
-<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>D. Monaco - Business</b></h3>  
-<div class="bizgrid" > 
-  <div class="bizbbin" id="biztitle" >1. Environmental Organizations</div>
-  <div class="bizbbin" id="biztitle" >2. Energy and Natural Resources</div>
-  <div class="bizbbin" id="biztitle" >3. Economy and Countries Statistics</div>
-  <div class="bizbbin" id="biztitle" >4. International Trade Institutions</div>
-  <div class="bizbbin" id="biztitle" >5. Regional Institutions</div> 
-  <div class="bizbbin" id="biztitle" >6. European Institutions</div>
-  <div class="bizbbin" id="biztitle" >7. Local Institutions</div>
-  <div class="bizbbin" id="biztitle" >8. Trade Shows and Conventions</div>
-  <div class="bizbbin" id="biztitle" >9. Bazaars, Souks, Flea and Farmers Markets</div>
-  <div class="bizbbin" id="biztitle" >10. Auctions</div>
-  <div class="bizbbin" id="biztitle" >11. Copyshops</div>
-  <div class="bizbbin" id="biztitle" >12. Banks and Insurance</div>
-  <div class="bizbbin" id="biztitle" >13. Chambers of Commerce</div>
-  <div class="bizbbin" id="biztitle" >14. Plant Protection Organizations</div>
-  <div class="bizbbin" id="biztitle" >15. Agriculture and Rural Development Institutions</div>
-  <div class="bizbbin" id="biztitle" >16. Food Safety Agencies</div>
-  <div class="bizbbin" id="biztitle" >17. Official Business Registers</div>
-  <div class="bizbbin" id="biztitle" >18. VAT and Currency Exchange Info</div>
-  <div class="bizbbin" id="biztitle" >20. Charity, Food Waste and Voluntary Work</div>
-  <div class="bizbbin" id="biztitle" >21. Students Financial Aid</div>
-  <div class="bizbbin" id="biztitle" >22. Tailors and Shoe Reparir</div>  
-  <div class="bizbbin" id="biztitle" >23. Blacksmiths and Metalsmiths</div>
-  <div class="bizbbin" id="biztitle" >24. Locksmiths and Handymen</div>
-  <div class="bizbbin" id="biztitle" >25. Electronics and Appliances Service</div>
-  <div class="bizbbin" id="biztitle" >26. Newsstands</div>
-</div><!-- END BIZ GRID -->
   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu33" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
 </details><!-- END Country --> 
+ 
+
  
 <!-- START Country --> 
 <details id="eu34" > <summary style="font-size:19px;color:gray !important;" >European Countries - Montenegro</summary> 
@@ -3681,7 +3679,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.meteo.co.me/" target="_blank" ><b>C3 - Meteo.co.me</b></a> - <span>Montenegro</span></a> </div>  
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -3785,7 +3783,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >2. Disasters and Pollution</div>
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://uhmr.gov.mk/" target="_blank" ><b>C3 - Uhmr.gov.mk</b></a> - <span>North Macedonia</span> </div>  
-  <div class="bizbbin" id="biztitle" >4. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >4. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >5. Traffic</div> 
   <div class="bizbbin" id="biztitle" >6. Public Transport</div>
   <div class="bizbbin" id="biztitle" >7. Restaurants and Food Vendors</div> 
@@ -3889,7 +3887,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.yr.no/nb" target="_blank" ><b>C3 - Yr.no</b></a> - <span>Norway</span></a> </div> 
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -3993,7 +3991,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >2. Disasters and Pollution</div>
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.meteoswiss.admin.ch/" target="_blank" ><b>C3 - Meteoswiss.admin.ch</b></a> - <span>Switzerland</span></a> </div> 
-  <div class="bizbbin" id="biztitle" >4. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >4. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >5. Traffic</div> 
   <div class="bizbbin" id="biztitle" >6. Public Transport</div>
   <div class="bizbbin" id="biztitle" >7. Restaurants and Food Vendors</div> 
@@ -4096,7 +4094,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >2. Disasters and Pollution</div>
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.meteo.sm" target="_blank" ><b>C3 - Meteo.sm</b></a> - <span>San Marino</span> </div>  
-  <div class="bizbbin" id="biztitle" >4. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >4. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >5. Traffic</div> 
   <div class="bizbbin" id="biztitle" >6. Public Transport</div>
   <div class="bizbbin" id="biztitle" >7. Restaurants and Food Vendors</div> 
@@ -4200,7 +4198,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://weather.metoffice.gov.uk/forecast/uk" target="_blank" ><b>C3 - Metoffice.gov.uk</b></a> - <span>United Kingdom</span></a> </div>   
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -4304,7 +4302,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >2. Disasters and Pollution</div>
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.meteoam.it/it/home" target="_blank" ><b>C3 - Meteoam.it</b></a> - <span>Italy</span></a> </div>   
-  <div class="bizbbin" id="biztitle" >4. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >4. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >5. Traffic</div> 
   <div class="bizbbin" id="biztitle" >6. Public Transport</div>
   <div class="bizbbin" id="biztitle" >7. Restaurants and Food Vendors</div> 
@@ -4355,114 +4353,11 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu40" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
 </details><!-- END Country --> 
  
-<!-- START Country --> 
-<details id="eu41" > <summary style="font-size:19px;color:gray !important;" >Europe - Dependencies and Areas of Special Sovereignty - Denmark - Faroe Islands</summary> 
-<!-- START BIZ GRID -->
-<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>A. Faroe Islands - Education and Culture</b></h3> 
-<div class="bizgrid" > 
-<div class="bizbbin" id="biztitle" >1. Planetariums and Observatories</div>  
-<div class="bizbbin" id="biztitle" >2. Theaters and Ballet</div>
-<div class="bizbbin" id="biztitle" >3. Opera Houses and Orchestras</div>
-<div class="bizbbin" id="biztitle" >4. Galleries</div>
-<div class="bizbbin" id="biztitle" >5. Museums and Exhibitions</div>  
-<div class="bizbbin" id="biztitle" >6. Landmarks</div> 
-<div class="bizbbin" id="biztitle" >7. Religious Buildings</div> 
-<div class="bizbbin" id="biztitle" >8. Botanical Gardens</div> 
-<div class="bizbbin" id="biztitle" >9. Libraries</div>
-<div class="bizbbin" id="biztitle" >10. Music and Art Fairs</div> 
-<div class="bizbbin" id="biztitle" >11. Aquariums and Dolphinariums</div> 
-<div class="bizbbin" id="biztitle" >12. Zoological Gardens</div>
-<div class="bizbbin" id="biztitle" >13. Animals Shelters</div> 
-<div class="bizbbin" id="biztitle" >14. Online Databases</div>
-</div><!-- END BIZ GRID -->
 
-<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>B. Faroe Islands - Entertainment</b></h3>   
-<div class="bizgrid" > 
-  <div class="bizbbin" id="biztitle" >1. Cinemas</div> 
-  <div class="bizbbin" id="biztitle" >2. TV and Radio Channels</div>
-  <div class="bizbbin" id="biztitle" >3. Chess Parks</div>
-  <div class="bizbbin" id="biztitle" >4. Public Baths and Swimming Pools</div>
-  <div class="bizbbin" id="biztitle" >5. Boating and Yachting</div>
-  <div class="bizbbin" id="biztitle" >6. Amusement Parks</div>
-  <div class="bizbbin" id="biztitle" >7. Circuses</div>
-  <div class="bizbbin" id="biztitle" >8. Concerts</div>
-  <div class="bizbbin" id="biztitle" >9. Festivals</div>
-  <div class="bizbbin" id="biztitle" >10. Stand-up Comedy</div>
-  <div class="bizbbin" id="biztitle" >11. Cabarets</div>
-  <div class="bizbbin" id="biztitle" >12. Magic Shows</div>  
-  <div class="bizbbin" id="biztitle" >13. Sports</div>
-  <div class="bizbbin" id="biztitle" >14. Karting, Bowling Alleys and Pool</div>
-  <div class="bizbbin" id="biztitle" >14. Arcades and Internet Cafes</div>
-  <div class="bizbbin" id="biztitle" >15. Golf Clubs</div>
-  <div class="bizbbin" id="biztitle" >16. Cycling</div>
-  <div class="bizbbin" id="biztitle" >17. Ice skating rinks</div>
-  <div class="bizbbin" id="biztitle" >18. Dance and Jazz Clubs</div>  
-  <div class="bizbbin" id="biztitle" >19. Tours</div>  
-  <div class="bizbbin" id="biztitle" >20. Public Holidays </div>  
-</div><!-- END BIZ GRID -->
-
-<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>C. Faroe Islands - Transport and Accommodations</b></h3> 
-<div class="bizgrid" > 
-  <div class="bizbbin" id="biztitle" >1. Risk and Corruption Info</div>
-  <div class="bizbbin" id="biztitle" >2. Disasters and Pollution</div>
-  <div class="bizbbin" id="biztitle" >3. Weather</div> 
-  <div class="bizbbin" ><a href="https://www.dmi.dk" target="_blank" ><b>C3 - Dmi.dk</b></a> - <span>Denmark - Faroe Islands </span></a> </div> 
-  <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
-  <div class="bizbbin" id="biztitle" >6. Traffic</div> 
-  <div class="bizbbin" id="biztitle" >7. Public Transport</div>
-  <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
-  <div class="bizbbin" id="biztitle" >9. Hotels</div>
-  <div class="bizbbin" id="biztitle" >10. Free Clean Public Toilets</div>
-  <div class="bizbbin" id="biztitle" >11. Luggage Storage</div>
-  <div class="bizbbin" id="biztitle" >12. Laundromats</div>  
-  <div class="bizbbin" id="biztitle" >13. Pharmaceris</div>
-  <div class="bizbbin" id="biztitle" >14. Emergency and Helplines</div>
-  <div class="bizbbin" id="biztitle" >15. Free Wi-fi</div>
-  <div class="bizbbin" id="biztitle" >16. PrePay eSIM/SIM cards</div> 
-  <div class="bizbbin" id="biztitle" >17. Car Wash</div>
-  <div class="bizbbin" id="biztitle" >18. Paint and Auto Repair</div>  
-  <div class="bizbbin" id="biztitle" >19. Babysitters, Kindergartens and Afterchools</div>  
-  <div class="bizbbin" id="biztitle" >20. Pet Grooming and Hotels</div>  
-  <div class="bizbbin" id="biztitle" >21. Gyms and Fitness</div>   
-  <div class="bizbbin" id="biztitle" >22. Transport and Freight Forwarders</div>
-  <div class="bizbbin" id="biztitle" >23. Fumigation</div> 
-</div><!-- END BIZ GRID -->
-
-<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>D. Faroe Islands - Business</b></h3>  
-<div class="bizgrid" > 
-  <div class="bizbbin" id="biztitle" >1. Environmental Organizations</div>
-  <div class="bizbbin" id="biztitle" >2. Energy and Natural Resources</div>
-  <div class="bizbbin" id="biztitle" >3. Economy and Countries Statistics</div>
-  <div class="bizbbin" id="biztitle" >4. International Trade Institutions</div>
-  <div class="bizbbin" id="biztitle" >5. Regional Institutions</div> 
-  <div class="bizbbin" id="biztitle" >6. European Institutions</div>
-  <div class="bizbbin" id="biztitle" >7. Local Institutions</div>
-  <div class="bizbbin" id="biztitle" >8. Trade Shows and Conventions</div>
-  <div class="bizbbin" id="biztitle" >9. Bazaars, Souks, Flea and Farmers Markets</div>
-  <div class="bizbbin" id="biztitle" >10. Auctions</div>
-  <div class="bizbbin" id="biztitle" >11. Copyshops</div>
-  <div class="bizbbin" id="biztitle" >12. Banks and Insurance</div>
-  <div class="bizbbin" id="biztitle" >13. Chambers of Commerce</div>
-  <div class="bizbbin" id="biztitle" >14. Plant Protection Organizations</div>
-  <div class="bizbbin" id="biztitle" >15. Agriculture and Rural Development Institutions</div>
-  <div class="bizbbin" id="biztitle" >16. Food Safety Agencies</div>
-  <div class="bizbbin" id="biztitle" >17. Official Business Registers</div>
-  <div class="bizbbin" id="biztitle" >18. VAT and Currency Exchange Info</div>
-  <div class="bizbbin" id="biztitle" >20. Charity, Food Waste and Voluntary Work</div>
-  <div class="bizbbin" id="biztitle" >21. Students Financial Aid</div>
-  <div class="bizbbin" id="biztitle" >22. Tailors and Shoe Reparir</div>  
-  <div class="bizbbin" id="biztitle" >23. Blacksmiths and Metalsmiths</div>
-  <div class="bizbbin" id="biztitle" >24. Locksmiths and Handymen</div>
-  <div class="bizbbin" id="biztitle" >25. Electronics and Appliances Service</div>
-  <div class="bizbbin" id="biztitle" >26. Newsstands</div>
-</div><!-- END BIZ GRID -->
-  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu41" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
-</details><!-- END Country --> 
  
   
 <!-- START Country --> 
-<details id="eu42" > <summary style="font-size:19px;color:gray !important;" >Europe - Dependencies and Areas of Special Sovereignty - United Kingdom - Akrotiri & Dhekelia</summary> 
+<details id="eu41" > <summary style="font-size:19px;color:gray !important;" >Europe - Dependencies and Areas of Special Sovereignty - United Kingdom - Akrotiri & Dhekelia</summary> 
 <!-- START BIZ GRID -->
 <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>A. Akrotiri & Dhekelia - Education and Culture</b></h3> 
 <div class="bizgrid" > 
@@ -4514,7 +4409,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://weather.metoffice.gov.uk/forecast/uk" target="_blank" ><b>C3 - Metoffice.gov.uk</b></a> - <span>United Kingdom - Akrotiri & Dhekelia</span></a> </div>   
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -4563,11 +4458,11 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >25. Electronics and Appliances Service</div>
   <div class="bizbbin" id="biztitle" >26. Newsstands</div>
 </div><!-- END BIZ GRID -->
-  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu42" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu41" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
 </details><!-- END Country --> 
  
 <!-- START Country --> 
-<details id="eu43" > <summary style="font-size:19px;color:gray !important;" >Europe - Dependencies and Areas of Special Sovereignty - United Kingdom - Gibraltar</summary> 
+<details id="eu42" > <summary style="font-size:19px;color:gray !important;" >Europe - Dependencies and Areas of Special Sovereignty - United Kingdom - Gibraltar</summary> 
 <!-- START BIZ GRID -->
 <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>A. Gibraltar - Education and Culture</b></h3> 
 <div class="bizgrid" > 
@@ -4619,7 +4514,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://weather.metoffice.gov.uk/forecast/uk" target="_blank" ><b>C3 - Metoffice.gov.uk</b></a> - <span>United Kingdom - Gibraltar</span></a> </div>   
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -4668,8 +4563,114 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >25. Electronics and Appliances Service</div>
   <div class="bizbbin" id="biztitle" >26. Newsstands</div>
 </div><!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu42" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu43" > <summary style="font-size:19px;color:gray !important;" >Europe - Dependencies and Areas of Special Sovereignty - United Kingdom - Guernsey</summary> 
+<!-- START BIZ GRID -->
+<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>A. Guernsey - Education and Culture</b></h3> 
+<div class="bizgrid" > 
+<div class="bizbbin" id="biztitle" >1. Planetariums and Observatories</div>  
+<div class="bizbbin" id="biztitle" >2. Theaters and Ballet</div>
+<div class="bizbbin" id="biztitle" >3. Opera Houses and Orchestras</div>
+<div class="bizbbin" id="biztitle" >4. Galleries</div>
+<div class="bizbbin" id="biztitle" >5. Museums and Exhibitions</div>  
+<div class="bizbbin" id="biztitle" >6. Landmarks</div> 
+<div class="bizbbin" id="biztitle" >7. Religious Buildings</div> 
+<div class="bizbbin" id="biztitle" >8. Botanical Gardens</div> 
+<div class="bizbbin" id="biztitle" >9. Libraries</div>
+<div class="bizbbin" id="biztitle" >10. Music and Art Fairs</div> 
+<div class="bizbbin" id="biztitle" >11. Aquariums and Dolphinariums</div> 
+<div class="bizbbin" id="biztitle" >12. Zoological Gardens</div>
+<div class="bizbbin" id="biztitle" >13. Animals Shelters</div> 
+<div class="bizbbin" id="biztitle" >14. Online Databases</div>
+</div><!-- END BIZ GRID -->
+
+<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>B. Guernsey - Entertainment</b></h3>   
+<div class="bizgrid" > 
+  <div class="bizbbin" id="biztitle" >1. Cinemas</div> 
+  <div class="bizbbin" id="biztitle" >2. TV and Radio Channels</div>
+  <div class="bizbbin" id="biztitle" >3. Chess Parks</div>
+  <div class="bizbbin" id="biztitle" >4. Public Baths and Swimming Pools</div>
+  <div class="bizbbin" id="biztitle" >5. Boating and Yachting</div>
+  <div class="bizbbin" id="biztitle" >6. Amusement Parks</div>
+  <div class="bizbbin" id="biztitle" >7. Circuses</div>
+  <div class="bizbbin" id="biztitle" >8. Concerts</div>
+  <div class="bizbbin" id="biztitle" >9. Festivals</div>
+  <div class="bizbbin" id="biztitle" >10. Stand-up Comedy</div>
+  <div class="bizbbin" id="biztitle" >11. Cabarets</div>
+  <div class="bizbbin" id="biztitle" >12. Magic Shows</div>  
+  <div class="bizbbin" id="biztitle" >13. Sports</div>
+  <div class="bizbbin" id="biztitle" >14. Karting, Bowling Alleys and Pool</div>
+  <div class="bizbbin" id="biztitle" >14. Arcades and Internet Cafes</div>
+  <div class="bizbbin" id="biztitle" >15. Golf Clubs</div>
+  <div class="bizbbin" id="biztitle" >16. Cycling</div>
+  <div class="bizbbin" id="biztitle" >17. Ice skating rinks</div>
+  <div class="bizbbin" id="biztitle" >18. Dance and Jazz Clubs</div>  
+  <div class="bizbbin" id="biztitle" >19. Tours</div>  
+  <div class="bizbbin" id="biztitle" >20. Public Holidays </div>  
+</div><!-- END BIZ GRID -->
+
+<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>C. Guernsey - Transport and Accommodations</b></h3> 
+<div class="bizgrid" > 
+  <div class="bizbbin" id="biztitle" >1. Risk and Corruption Info</div>
+  <div class="bizbbin" id="biztitle" >2. Disasters and Pollution</div>
+  <div class="bizbbin" id="biztitle" >3. Weather</div>
+  <div class="bizbbin" ><a href="https://weather.metoffice.gov.uk/forecast/uk" target="_blank" ><b>C3 - Metoffice.gov.uk</b></a> - <span>United Kingdom - Guernsey</span></a> </div>   
+  <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
+  <div class="bizbbin" id="biztitle" >6. Traffic</div> 
+  <div class="bizbbin" id="biztitle" >7. Public Transport</div>
+  <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
+  <div class="bizbbin" id="biztitle" >9. Hotels</div>
+  <div class="bizbbin" id="biztitle" >10. Free Clean Public Toilets</div>
+  <div class="bizbbin" id="biztitle" >11. Luggage Storage</div>
+  <div class="bizbbin" id="biztitle" >12. Laundromats</div>  
+  <div class="bizbbin" id="biztitle" >13. Pharmaceris</div>
+  <div class="bizbbin" id="biztitle" >14. Emergency and Helplines</div>
+  <div class="bizbbin" id="biztitle" >15. Free Wi-fi</div>
+  <div class="bizbbin" id="biztitle" >16. PrePay eSIM/SIM cards</div> 
+  <div class="bizbbin" id="biztitle" >17. Car Wash</div>
+  <div class="bizbbin" id="biztitle" >18. Paint and Auto Repair</div>  
+  <div class="bizbbin" id="biztitle" >19. Babysitters, Kindergartens and Afterchools</div>  
+  <div class="bizbbin" id="biztitle" >20. Pet Grooming and Hotels</div>  
+  <div class="bizbbin" id="biztitle" >21. Gyms and Fitness</div>   
+  <div class="bizbbin" id="biztitle" >22. Transport and Freight Forwarders</div>
+  <div class="bizbbin" id="biztitle" >23. Fumigation</div> 
+</div><!-- END BIZ GRID -->
+
+<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>D. Guernsey - Business</b></h3>  
+<div class="bizgrid" > 
+  <div class="bizbbin" id="biztitle" >1. Environmental Organizations</div>
+  <div class="bizbbin" id="biztitle" >2. Energy and Natural Resources</div>
+  <div class="bizbbin" id="biztitle" >3. Economy and Countries Statistics</div>
+  <div class="bizbbin" id="biztitle" >4. International Trade Institutions</div>
+  <div class="bizbbin" id="biztitle" >5. Regional Institutions</div> 
+  <div class="bizbbin" id="biztitle" >6. European Institutions</div>
+  <div class="bizbbin" id="biztitle" >7. Local Institutions</div>
+  <div class="bizbbin" id="biztitle" >8. Trade Shows and Conventions</div>
+  <div class="bizbbin" id="biztitle" >9. Bazaars, Souks, Flea and Farmers Markets</div>
+  <div class="bizbbin" id="biztitle" >10. Auctions</div>
+  <div class="bizbbin" id="biztitle" >11. Copyshops</div>
+  <div class="bizbbin" id="biztitle" >12. Banks and Insurance</div>
+  <div class="bizbbin" id="biztitle" >13. Chambers of Commerce</div>
+  <div class="bizbbin" id="biztitle" >14. Plant Protection Organizations</div>
+  <div class="bizbbin" id="biztitle" >15. Agriculture and Rural Development Institutions</div>
+  <div class="bizbbin" id="biztitle" >16. Food Safety Agencies</div>
+  <div class="bizbbin" id="biztitle" >17. Official Business Registers</div>
+  <div class="bizbbin" id="biztitle" >18. VAT and Currency Exchange Info</div>
+  <div class="bizbbin" id="biztitle" >20. Charity, Food Waste and Voluntary Work</div>
+  <div class="bizbbin" id="biztitle" >21. Students Financial Aid</div>
+  <div class="bizbbin" id="biztitle" >22. Tailors and Shoe Reparir</div>  
+  <div class="bizbbin" id="biztitle" >23. Blacksmiths and Metalsmiths</div>
+  <div class="bizbbin" id="biztitle" >24. Locksmiths and Handymen</div>
+  <div class="bizbbin" id="biztitle" >25. Electronics and Appliances Service</div>
+  <div class="bizbbin" id="biztitle" >26. Newsstands</div>
+</div><!-- END BIZ GRID -->
   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu43" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
 </details><!-- END Country --> 
+ 
  
 <!-- START Country --> 
 <details id="eu44" > <summary style="font-size:19px;color:gray !important;" >Europe - Dependencies and Areas of Special Sovereignty - United Kingdom - Isle of Man</summary> 
@@ -4724,7 +4725,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://weather.metoffice.gov.uk/forecast/uk" target="_blank" ><b>C3 - Metoffice.gov.uk</b></a> - <span>United Kingdom - Isle of Man</span></a> </div>   
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -4829,7 +4830,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://weather.metoffice.gov.uk/forecast/uk" target="_blank" ><b>C3 - Metoffice.gov.uk</b></a> - <span>United Kingdom - Jersey</span></a> </div>   
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -4881,126 +4882,30 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu45" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
 </details><!-- END Country --> 
  
+
+
+  
+  
 <!-- START Country --> 
-<details id="eu46" > <summary style="font-size:19px;color:gray !important;" >Europe - Dependencies and Areas of Special Sovereignty - United Kingdom - Guernsey</summary> 
-<!-- START BIZ GRID -->
-<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>A. Guernsey - Education and Culture</b></h3> 
-<div class="bizgrid" > 
-<div class="bizbbin" id="biztitle" >1. Planetariums and Observatories</div>  
-<div class="bizbbin" id="biztitle" >2. Theaters and Ballet</div>
-<div class="bizbbin" id="biztitle" >3. Opera Houses and Orchestras</div>
-<div class="bizbbin" id="biztitle" >4. Galleries</div>
-<div class="bizbbin" id="biztitle" >5. Museums and Exhibitions</div>  
-<div class="bizbbin" id="biztitle" >6. Landmarks</div> 
-<div class="bizbbin" id="biztitle" >7. Religious Buildings</div> 
-<div class="bizbbin" id="biztitle" >8. Botanical Gardens</div> 
-<div class="bizbbin" id="biztitle" >9. Libraries</div>
-<div class="bizbbin" id="biztitle" >10. Music and Art Fairs</div> 
-<div class="bizbbin" id="biztitle" >11. Aquariums and Dolphinariums</div> 
-<div class="bizbbin" id="biztitle" >12. Zoological Gardens</div>
-<div class="bizbbin" id="biztitle" >13. Animals Shelters</div> 
-<div class="bizbbin" id="biztitle" >14. Online Databases</div>
-</div><!-- END BIZ GRID -->
-
-<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>B. Guernsey - Entertainment</b></h3>   
-<div class="bizgrid" > 
-  <div class="bizbbin" id="biztitle" >1. Cinemas</div> 
-  <div class="bizbbin" id="biztitle" >2. TV and Radio Channels</div>
-  <div class="bizbbin" id="biztitle" >3. Chess Parks</div>
-  <div class="bizbbin" id="biztitle" >4. Public Baths and Swimming Pools</div>
-  <div class="bizbbin" id="biztitle" >5. Boating and Yachting</div>
-  <div class="bizbbin" id="biztitle" >6. Amusement Parks</div>
-  <div class="bizbbin" id="biztitle" >7. Circuses</div>
-  <div class="bizbbin" id="biztitle" >8. Concerts</div>
-  <div class="bizbbin" id="biztitle" >9. Festivals</div>
-  <div class="bizbbin" id="biztitle" >10. Stand-up Comedy</div>
-  <div class="bizbbin" id="biztitle" >11. Cabarets</div>
-  <div class="bizbbin" id="biztitle" >12. Magic Shows</div>  
-  <div class="bizbbin" id="biztitle" >13. Sports</div>
-  <div class="bizbbin" id="biztitle" >14. Karting, Bowling Alleys and Pool</div>
-  <div class="bizbbin" id="biztitle" >14. Arcades and Internet Cafes</div>
-  <div class="bizbbin" id="biztitle" >15. Golf Clubs</div>
-  <div class="bizbbin" id="biztitle" >16. Cycling</div>
-  <div class="bizbbin" id="biztitle" >17. Ice skating rinks</div>
-  <div class="bizbbin" id="biztitle" >18. Dance and Jazz Clubs</div>  
-  <div class="bizbbin" id="biztitle" >19. Tours</div>  
-  <div class="bizbbin" id="biztitle" >20. Public Holidays </div>  
-</div><!-- END BIZ GRID -->
-
-<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>C. Guernsey - Transport and Accommodations</b></h3> 
-<div class="bizgrid" > 
-  <div class="bizbbin" id="biztitle" >1. Risk and Corruption Info</div>
-  <div class="bizbbin" id="biztitle" >2. Disasters and Pollution</div>
-  <div class="bizbbin" id="biztitle" >3. Weather</div>
-  <div class="bizbbin" ><a href="https://weather.metoffice.gov.uk/forecast/uk" target="_blank" ><b>C3 - Metoffice.gov.uk</b></a> - <span>United Kingdom - Guernsey</span></a> </div>   
-  <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zones and Calendars</div>  
-  <div class="bizbbin" id="biztitle" >6. Traffic</div> 
-  <div class="bizbbin" id="biztitle" >7. Public Transport</div>
-  <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
-  <div class="bizbbin" id="biztitle" >9. Hotels</div>
-  <div class="bizbbin" id="biztitle" >10. Free Clean Public Toilets</div>
-  <div class="bizbbin" id="biztitle" >11. Luggage Storage</div>
-  <div class="bizbbin" id="biztitle" >12. Laundromats</div>  
-  <div class="bizbbin" id="biztitle" >13. Pharmaceris</div>
-  <div class="bizbbin" id="biztitle" >14. Emergency and Helplines</div>
-  <div class="bizbbin" id="biztitle" >15. Free Wi-fi</div>
-  <div class="bizbbin" id="biztitle" >16. PrePay eSIM/SIM cards</div> 
-  <div class="bizbbin" id="biztitle" >17. Car Wash</div>
-  <div class="bizbbin" id="biztitle" >18. Paint and Auto Repair</div>  
-  <div class="bizbbin" id="biztitle" >19. Babysitters, Kindergartens and Afterchools</div>  
-  <div class="bizbbin" id="biztitle" >20. Pet Grooming and Hotels</div>  
-  <div class="bizbbin" id="biztitle" >21. Gyms and Fitness</div>   
-  <div class="bizbbin" id="biztitle" >22. Transport and Freight Forwarders</div>
-  <div class="bizbbin" id="biztitle" >23. Fumigation</div> 
-</div><!-- END BIZ GRID -->
-
-<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>D. Guernsey - Business</b></h3>  
-<div class="bizgrid" > 
-  <div class="bizbbin" id="biztitle" >1. Environmental Organizations</div>
-  <div class="bizbbin" id="biztitle" >2. Energy and Natural Resources</div>
-  <div class="bizbbin" id="biztitle" >3. Economy and Countries Statistics</div>
-  <div class="bizbbin" id="biztitle" >4. International Trade Institutions</div>
-  <div class="bizbbin" id="biztitle" >5. Regional Institutions</div> 
-  <div class="bizbbin" id="biztitle" >6. European Institutions</div>
-  <div class="bizbbin" id="biztitle" >7. Local Institutions</div>
-  <div class="bizbbin" id="biztitle" >8. Trade Shows and Conventions</div>
-  <div class="bizbbin" id="biztitle" >9. Bazaars, Souks, Flea and Farmers Markets</div>
-  <div class="bizbbin" id="biztitle" >10. Auctions</div>
-  <div class="bizbbin" id="biztitle" >11. Copyshops</div>
-  <div class="bizbbin" id="biztitle" >12. Banks and Insurance</div>
-  <div class="bizbbin" id="biztitle" >13. Chambers of Commerce</div>
-  <div class="bizbbin" id="biztitle" >14. Plant Protection Organizations</div>
-  <div class="bizbbin" id="biztitle" >15. Agriculture and Rural Development Institutions</div>
-  <div class="bizbbin" id="biztitle" >16. Food Safety Agencies</div>
-  <div class="bizbbin" id="biztitle" >17. Official Business Registers</div>
-  <div class="bizbbin" id="biztitle" >18. VAT and Currency Exchange Info</div>
-  <div class="bizbbin" id="biztitle" >20. Charity, Food Waste and Voluntary Work</div>
-  <div class="bizbbin" id="biztitle" >21. Students Financial Aid</div>
-  <div class="bizbbin" id="biztitle" >22. Tailors and Shoe Reparir</div>  
-  <div class="bizbbin" id="biztitle" >23. Blacksmiths and Metalsmiths</div>
-  <div class="bizbbin" id="biztitle" >24. Locksmiths and Handymen</div>
-  <div class="bizbbin" id="biztitle" >25. Electronics and Appliances Service</div>
-  <div class="bizbbin" id="biztitle" >26. Newsstands</div>
-</div><!-- END BIZ GRID -->
-  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu46" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
-</details><!-- END Country --> 
- 
-<!-- START Country --> 
-<details id="eu47" > <summary style="font-size:19px;color:red !important;" ><s>Europe - Dependencies and Areas of Special Sovereignty - Norway - Jan Mayen ( 0 Population )</s></summary> 
+<details id="eu46" > <summary style="font-size:19px;color:red !important;" ><s>Europe - Dependencies and Areas of Special Sovereignty - Norway - Jan Mayen ( 0 Population )</s></summary> 
  <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: 0 Population </b></h3>  
-   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu47" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu46" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
 </details><!-- END Country -->  
+<!-- START Country -->  
 <!-- START Country --> 
-<details id="eu48" > <summary style="font-size:19px;color:red !important;" ><s>Europe - Banned Countries - Belarus</s></summary> 
+<details id="eu47" > <summary style="font-size:19px;color:red !important;" ><s>Europe - Banned Countries - Belarus</s></summary> 
  <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Belarus is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>. </b></h3>  
+    <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu47" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+<!-- START Country --> 
+<details id="eu48" > <summary style="font-size:19px;color:red !important;" ><s>Europe - Banned Countries - Bosnia & Herzegovina</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Bosnia & Herzegovina is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>. </b></h3>  
     <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu48" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
 </details><!-- END Country --> 
-<!-- START Country --> 
-<details id="eu49" > <summary style="font-size:19px;color:red !important;" ><s>Europe - Banned Countries - Bosnia & Herzegovina</s></summary> 
- <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Bosnia & Herzegovina is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>. </b></h3>  
-    <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu49" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
-</details><!-- END Country --> 
+<details id="eu49" > <summary style="font-size:19px;color:red !important;" ><s>Europe - Banned Countries - Monaco</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: The EU has designated this country as a <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1675-20250805" target="_blank" >high-risk third country</a>. </b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu49" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
 <!-- START Country --> 
 <details id="eu50" > <summary style="font-size:19px;color:red !important;" ><s>Europe - Banned Countries - Serbia / Kosovo </s></summary> 
  <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Kosovo is not recognized by Romania. Serbia is still on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>.</b></h3>  
@@ -5021,8 +4926,1536 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
 </details><!-- END Country --> 
  
 <!-- END Europe --> 
+  
+ <!-- START North America --> 
+ 
+ <br>
+ <!-- START Country --> 
+<details id="eu54" > <summary style="font-size:19px;color:green !important;" >North America - Canada</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu54" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+ <!-- START Country --> 
+<details id="eu55" > <summary style="font-size:19px;color:green !important;" >North America - Dependencies and Areas of Special Sovereignty - Denmark - Greenland</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu55" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu56" > <summary style="font-size:19px;color:green !important;" >North America - Dependencies and Areas of Special Sovereignty - France - Saint Pierre & Miquelon</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu56" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+
+<!-- START Country --> 
+<details id="eu57" > <summary style="font-size:19px;color:gray !important;" >North America - Mexico</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu57" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+ <!-- START Country --> 
+<details id="eu58" > <summary style="font-size:19px;color:gray !important;" >North America - United States of America</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu58" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+
+
+  <!-- End North America --> 
+  
+  <!-- START Caribbean Region --> 
+  <!-- START Organisation of Eastern Caribbean States --> 
+ <br>
+ <!-- START Country --> 
+<details id="eu59" > <summary style="font-size:19px;color:green !important;" >Caribbean Region - OECS - CARICOM - Antigua and Barbuda</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu59" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+ <!-- START Country --> 
+<details id="eu60" > <summary style="font-size:19px;color:green !important;" >Caribbean Region - OECS - CARICOM - Dominica</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu60" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+ <!-- START Country --> 
+<details id="eu61" > <summary style="font-size:19px;color:green !important;" >Caribbean Region - OECS - CARICOM - Grenada</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu61" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->  
+  
+ <!-- START Country --> 
+<details id="eu62" > <summary style="font-size:19px;color:green !important;" >Caribbean Region - OECS - CARICOM - Saint Kitts and Nevis</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu62" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->  
+
+ <!-- START Country --> 
+<details id="eu63" > <summary style="font-size:19px;color:green !important;" >Caribbean Region - OECS - CARICOM - Saint Lucia</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu63" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+ <!-- START Country --> 
+<details id="eu64" > <summary style="font-size:19px;color:green !important;" >Caribbean Region - OECS - CARICOM - Saint Vincent and the Grenadines</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu64" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+  <!-- END Organisation of Eastern Caribbean States --> 
+
+ 
+ <!-- START Country -->  
+<details id="eu65" > <summary style="font-size:19px;color:green !important;" >Caribbean Region - CARICOM - Bahamas</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu65" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+ <!-- START Country -->  
+<details id="eu66" > <summary style="font-size:19px;color:green !important;" >Caribbean Region - CARICOM - Barbados</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu66" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->  
+
+ <!-- START Country -->  
+<details id="eu67" > <summary style="font-size:19px;color:green !important;" >Caribbean Region - Dominican Republic</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu67" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+ <!-- START Country --> 
+<details id="eu68" > <summary style="font-size:19px;color:green !important;" >Caribbean Region - Dependencies and Areas of Special Sovereignty - France - Guadeloupe</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu68" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu69" > <summary style="font-size:19px;color:green !important;" >Caribbean Region - Dependencies and Areas of Special Sovereignty - France - Martinique</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu69" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu70" > <summary style="font-size:19px;color:green !important;" >Caribbean Region - Dependencies and Areas of Special Sovereignty - France - Saint Barthélemy</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu70" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu71" > <summary style="font-size:19px;color:green !important;" >Caribbean Region - Dependencies and Areas of Special Sovereignty - France - Saint Martin</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu71" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+
+ <!-- START Country --> 
+<details id="eu72" > <summary style="font-size:19px;color:green !important;" >Caribbean Region - Dependencies and Areas of Special Sovereignty - Netherlands - Aruba</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu72" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu73" > <summary style="font-size:19px;color:green !important;" >Caribbean Region - Dependencies and Areas of Special Sovereignty - Netherlands - Bonaire</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu73" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+ <!-- START Country --> 
+<details id="eu74" > <summary style="font-size:19px;color:green !important;" >Caribbean Region - Dependencies and Areas of Special Sovereignty - Netherlands - Curaçao</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu74" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu75" > <summary style="font-size:19px;color:green !important;" >Caribbean Region - Dependencies and Areas of Special Sovereignty - Netherlands - Sint Eustatius</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu75" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu76" > <summary style="font-size:19px;color:green !important;" >Caribbean Region - Dependencies and Areas of Special Sovereignty - Netherlands - Sint Maarten</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu76" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+ 
+ <!-- START Country --> 
+<details id="eu77" > <summary style="font-size:19px;color:gray !important;" >Caribbean Region - CARICOM - Jamaica</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu77" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu78" > <summary style="font-size:19px;color:gray !important;" >Caribbean Region - Cuba</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu78" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+ 
+  <!-- START Country --> 
+<details id="eu79" > <summary style="font-size:19px;color:gray !important;" >Caribbean Region - United States of America - Puerto Rico</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu79" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+  <!-- START Country --> 
+<details id="eu80" > <summary style="font-size:19px;color:gray !important;" >Caribbean Region - United States of America - Virgin Islands</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu80" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu81" > <summary style="font-size:19px;color:gray !important;" >Caribbean Region - Dependencies and Areas of Special Sovereignty - United Kingdom - Anguilla</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu81" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+ 
+ <!-- START Country --> 
+<details id="eu82" > <summary style="font-size:19px;color:gray !important;" >Caribbean Region - Dependencies and Areas of Special Sovereignty - United Kingdom - Bermuda</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu82" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu83" > <summary style="font-size:19px;color:gray !important;" >Caribbean Region - Dependencies and Areas of Special Sovereignty - United Kingdom - Cayman Islands</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu83" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu84" > <summary style="font-size:19px;color:gray !important;" >Caribbean Region - Dependencies and Areas of Special Sovereignty - CARICOM - United Kingdom - Montserrat</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu84" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+  
+ <!-- START Country --> 
+<details id="eu85" > <summary style="font-size:19px;color:gray !important;" >Caribbean Region - Dependencies and Areas of Special Sovereignty - United Kingdom - Turks and Caicos</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu85" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu86" > <summary style="font-size:19px;color:gray !important;" >Caribbean Region - Dependencies and Areas of Special Sovereignty - United Kingdom - Virgin Islands</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu86" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+ 
+<!-- START Country --> 
+<details id="eu87" > <summary style="font-size:19px;color:red !important;" ><s>Caribbean Region - United States of America - Navassa Island ( 0 Population )</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: 0 Population </b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu87" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->  
+
+<!-- START Country --> 
+<details id="eu88" > <summary style="font-size:19px;color:red !important;" ><s>Caribbean Region - Banned Countries - CARICOM - Haiti</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: The EU has designated this country as a <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1675-20250805" target="_blank" >high-risk third country</a>.</b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu88" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu89" > <summary style="font-size:19px;color:red !important;" ><s>Caribbean Region - Banned Countries - Trinidad and Tobago</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: The EU has designated this country as a <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1675-20250805" target="_blank" >high-risk third country</a>.</b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu89" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+ 
+  <!-- END Caribbean Region --> 
+ 
+  
+  
+  <!-- START Central America --> 
+ <br>
+  <!-- START Country --> 
+<details id="eu90" > <summary style="font-size:19px;color:green !important;" >Central America - CA-4 - El Salvador</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu90" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+ 
+ <!-- START Country --> 
+<details id="eu91" > <summary style="font-size:19px;color:green !important;" >Central America - CA-4 - Guatemala</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu91" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+ <!-- START Country --> 
+<details id="eu92" > <summary style="font-size:19px;color:green !important;" >Central America - CA-4 - Honduras</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu92" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+ 
+ <!-- START Country --> 
+<details id="eu93" > <summary style="font-size:19px;color:green !important;" >Central America - CARICOM - Belize</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu93" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+ <!-- START Country --> 
+<details id="eu94" > <summary style="font-size:19px;color:green !important;" >Central America - Costa Rica</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu94" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+ 
+ <!-- START Country --> 
+<details id="eu95" > <summary style="font-size:19px;color:green !important;" >Central America - Panama</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu95" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+ 
+ <!-- START Country --> 
+<details id="eu96" > <summary style="font-size:19px;color:red !important;" ><s>Central America - CA-4 - Banned Countries - Nicaragua</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Nicaragua is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>. </b></h3>   
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu96" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+  <!-- END Central America --> 
+  
+  <!-- START South America --> 
+ <br>
+ <!-- START Country --> 
+<details id="eu97" > <summary style="font-size:19px;color:green !important;" >South America - Mercosur - Argentina</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu97" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu98" > <summary style="font-size:19px;color:green !important;" >South America - Mercosur - Brazil</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu98" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu99" > <summary style="font-size:19px;color:green !important;" >South America - Mercosur - Paraguay</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu99" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu100" > <summary style="font-size:19px;color:green !important;" >South America - Mercosur - Uruguay</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu100" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+  
+ <!-- START Country --> 
+<details id="eu101" > <summary style="font-size:19px;color:green !important;" >South America - Comunidad Andina - Colombia</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu101" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu102" > <summary style="font-size:19px;color:green !important;" >South America - Comunidad Andina - Ecuador</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu102" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu103" > <summary style="font-size:19px;color:green !important;" >South America - Comunidad Andina - Peru</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu103" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+ 
+ <!-- START Country --> 
+<details id="eu104" > <summary style="font-size:19px;color:green !important;" >South America - Chile</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu104" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+
+ <!-- START Country --> 
+<details id="eu105" > <summary style="font-size:19px;color:green !important;" >South America - Dependencies and Areas of Special Sovereignty - France - French Guiana</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu105" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+
+
+ <!-- START Country --> 
+<details id="eu106" > <summary style="font-size:19px;color:gray !important;" >South America - Comunidad Andina - Bolivia</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu106" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu107" > <summary style="font-size:19px;color:gray !important;" >South America - CARICOM - Guyana</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu107" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu108" > <summary style="font-size:19px;color:gray !important;" >South America - CARICOM - Suriname</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu108" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu109" > <summary style="font-size:19px;color:gray !important;" >South America - Dependencies and Areas of Special Sovereignty - United Kingdom - Falkland Islands</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu109" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+<!-- START Country --> 
+<details id="eu110" > <summary style="font-size:19px;color:red !important;" ><s>South America - Dependencies and Areas of Special Sovereignty - United Kingdom - South Georgia ( 0 Population )</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: 0 Population </b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu110" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->  
+
+<!-- START Country --> 
+<details id="eu111" > <summary style="font-size:19px;color:red !important;" ><s>South America - Dependencies and Areas of Special Sovereignty - United Kingdom - South Sandwich Islands ( 0 Population )</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: 0 Population </b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu111" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->   
+
+<!-- START Country --> 
+<details id="eu112" > <summary style="font-size:19px;color:red !important;" ><s>South America - Banned Countries - Venezuela</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Nicaragua is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>. </b></h3>   
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu112" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+  
+  
+  
+  <!-- END South America --> 
+ 
+  <!-- START Oceania --> 
+ <br>
+ 
+<details id="eu113" > <summary style="font-size:19px;color:green !important;" >Oceania - Fiji</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu113" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu114" > <summary style="font-size:19px;color:green !important;" >Oceania - Kiribati</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu114" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+ 
+ <!-- START Country --> 
+<details id="eu115" > <summary style="font-size:19px;color:green !important;" >Oceania - Micronesia</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu115" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+ <!-- START Country --> 
+<details id="eu116" > <summary style="font-size:19px;color:green !important;" >Oceania - New Zealand</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu116" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+<details id="eu117" > <summary style="font-size:19px;color:green !important;" >Oceania - Palau</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu117" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu118" > <summary style="font-size:19px;color:green !important;" >Oceania - Papua New Guinea</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu118" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+<details id="eu119" > <summary style="font-size:19px;color:green !important;" >Oceania - Samoa</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu119" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu120" > <summary style="font-size:19px;color:green !important;" >Oceania - Solomon Islands</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu120" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu121" > <summary style="font-size:19px;color:green !important;" >Oceania - Tonga</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu121" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+ <!-- START Country --> 
+<details id="eu122" > <summary style="font-size:19px;color:green !important;" >Oceania - Tuvalu</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu122" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+<details id="eu123" > <summary style="font-size:19px;color:green !important;" >Oceania - Vanuatu</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu123" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+
+ <!-- START Country --> 
+<details id="eu124" > <summary style="font-size:19px;color:green !important;" >Oceania - Dependencies and Areas of Special Sovereignty - New Zealand - Cook Islands</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu124" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+ 
+ <!-- START Country --> 
+<details id="eu125" > <summary style="font-size:19px;color:green !important;" >Oceania - Dependencies and Areas of Special Sovereignty - New Zealand - Niue</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu125" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+ <!-- START Country --> 
+<details id="eu126" > <summary style="font-size:19px;color:green !important;" >Oceania - Dependencies and Areas of Special Sovereignty - New Zealand - Tokelau</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu126" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu127" > <summary style="font-size:19px;color:green !important;" >Oceania - Dependencies and Areas of Special Sovereignty - France - French Polynesia</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu127" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu128" > <summary style="font-size:19px;color:green !important;" >Oceania - Dependencies and Areas of Special Sovereignty - France - New Caledonia</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu128" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu129" > <summary style="font-size:19px;color:green !important;" >Oceania - Dependencies and Areas of Special Sovereignty - France - Wallis and Futuna</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu129" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+
+
+ <!-- START Country --> 
+<details id="eu130" > <summary style="font-size:19px;color:gray !important;" >Oceania - Australia</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu130" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu131" > <summary style="font-size:19px;color:gray !important;" >Oceania - Marshall Islands - Warning ! </summary> 
+<!-- START BIZ GRID -->
+<h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>The Marshall Islands was used as a nuclear weapons test site and subjected to 67 known nuclear weapon tests. We do not import food from this country.</b></h3>
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu131" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu132" > <summary style="font-size:19px;color:gray !important;" >Oceania - Nauru</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu132" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu133" > <summary style="font-size:19px;color:gray !important;" >Oceania - Dependencies and Areas of Special Sovereignty - Australia - Christmas Islands</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu133" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu134" > <summary style="font-size:19px;color:gray !important;" >Oceania - Dependencies and Areas of Special Sovereignty - Australia - Cocos Islands</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu134" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu135" > <summary style="font-size:19px;color:gray !important;" >Oceania - Dependencies and Areas of Special Sovereignty - Australia - Norfolk Islands</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu135" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+
+ <!-- START Country --> 
+<details id="eu136" > <summary style="font-size:19px;color:gray !important;" >Oceania - Dependencies and Areas of Special Sovereignty - United Kingdom - Pitcairn Islands</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu136" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu137" > <summary style="font-size:19px;color:gray !important;" >Oceania - Dependencies and Areas of Special Sovereignty - United States of America - American Samoa</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu137" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu138" > <summary style="font-size:19px;color:gray !important;" >Oceania - Dependencies and Areas of Special Sovereignty - United States of America - Guam</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu138" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu139" > <summary style="font-size:19px;color:gray !important;" >Oceania - Dependencies and Areas of Special Sovereignty - United States of America - Northern Mariana Islands</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu139" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+ 
+<!-- START Country --> 
+<details id="eu140" > <summary style="font-size:19px;color:red !important;" ><s>Oceania - Dependencies and Areas of Special Sovereignty - Australia - Ashmore and Cartier Islands ( 0 Population )</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: 0 Population </b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu140" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->   
+<!-- START Country --> 
+<details id="eu141" > <summary style="font-size:19px;color:red !important;" ><s>Oceania - Dependencies and Areas of Special Sovereignty - Australia - Coral Sea Islands ( 0 Population )</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: 0 Population </b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu141" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->   
+
+
+<!-- START Country --> 
+<details id="eu142" > <summary style="font-size:19px;color:red !important;" ><s>Oceania - United States of America - Baker Island ( 0 Population )</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: 0 Population </b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu142" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country -->   
+<details id="eu143" > <summary style="font-size:19px;color:red !important;" ><s>Oceania - United States of America - Howland Island ( 0 Population )</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: 0 Population </b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu143" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->  
+
+<!-- START Country -->  
+<details id="eu144" > <summary style="font-size:19px;color:red !important;" ><s>Oceania - United States of America - Jarvis Island ( 0 Population )</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: 0 Population </b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu144" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->   
+
+<!-- START Country --> 
+<details id="eu145" > <summary style="font-size:19px;color:red !important;" ><s>Oceania - United States of America - Kingman Reef ( 0 Population )</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: 0 Population </b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu145" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->  
+
+<!-- START Country --> 
+<details id="eu146" > <summary style="font-size:19px;color:red !important;" ><s>Oceania - United States of America - Midway Islands ( 0 Population )</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: 0 Population </b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu146" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->    
+
+<!-- START Country -->  
+<details id="eu147" > <summary style="font-size:19px;color:red !important;" ><s>Oceania - United States of America - Palmyra Atoll ( 0 Population )</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: 0 Population </b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu147" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->   
+
+<!-- START Country --> 
+<details id="eu148" > <summary style="font-size:19px;color:red !important;" ><s>Oceania - United States of America - Wake Island ( 0 Population )</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: 0 Population </b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu148" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->   
+ 
+<!-- START Country --> 
+<details id="eu149" > <summary style="font-size:19px;color:red !important;" ><s>Oceania - Dependencies and Areas of Special Sovereignty - France - Clipperton Island  ( 0 Population )</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: 0 Population </b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu149" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->  
+
+
+  <!-- END Oceania --> 
+  
+ <!-- START Asia --> 
+<br>
+ <!-- START Country --> 
+<details id="eu150" > <summary style="font-size:19px;color:green !important;" >Asia - Brunei</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu150" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu151" > <summary style="font-size:19px;color:green !important;" >Asia - Georgia</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu151" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu152" > <summary style="font-size:19px;color:green !important;" >Asia - Japan</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu152" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+
+ <!-- START Country --> 
+<details id="eu153" > <summary style="font-size:19px;color:green !important;" >Asia - Kazakhstan</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu153" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu154" > <summary style="font-size:19px;color:green !important;" >Asia - Kyrgyzstan</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu154" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu155" > <summary style="font-size:19px;color:green !important;" >Asia - Mongolia</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu155" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu156" > <summary style="font-size:19px;color:green !important;" >Asia - Oman</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu156" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu157" > <summary style="font-size:19px;color:green !important;" >Asia - Tajikistan</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu157" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu158" > <summary style="font-size:19px;color:green !important;" >Asia - Philippines</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu158" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu159" > <summary style="font-size:19px;color:green !important;" >Asia - Singapore</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu159" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu160" > <summary style="font-size:19px;color:green !important;" >Asia - South Korea</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu160" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+ 
+ <!-- START Country --> 
+<details id="eu161" > <summary style="font-size:19px;color:green !important;" >Asia - United Arab Emirates</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu161" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu162" > <summary style="font-size:19px;color:green !important;" >Asia - Uzbekistan</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu162" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+
+
+
+
+ <!-- START Country --> 
+<details id="eu163" > <summary style="font-size:19px;color:gray !important;" >Asia - Armenia</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu163" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu164" > <summary style="font-size:19px;color:gray !important;" >Asia - Azerbaijan</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu164" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu165" > <summary style="font-size:19px;color:gray !important;" >Asia - Bahrain</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu165" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu166" > <summary style="font-size:19px;color:gray !important;" >Asia - Bangladesh</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu166" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu167" > <summary style="font-size:19px;color:gray !important;" >Asia - Bhutan</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu167" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu168" > <summary style="font-size:19px;color:gray !important;" >Asia - Cambodia</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu168" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu169" > <summary style="font-size:19px;color:gray !important;" >Asia - India</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu169" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu170" > <summary style="font-size:19px;color:gray !important;" >Asia - Indonesia</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu170" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu171" > <summary style="font-size:19px;color:gray !important;" >Asia - Jordan</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu171" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu172" > <summary style="font-size:19px;color:gray !important;" >Asia - Malaysia</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu172" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu173" > <summary style="font-size:19px;color:gray !important;" >Asia - Maldives</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu173" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu174" > <summary style="font-size:19px;color:gray !important;" >Asia - Pakistan</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu174" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu175" > <summary style="font-size:19px;color:gray !important;" >Asia - Qatar</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu175" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu176" > <summary style="font-size:19px;color:gray !important;" >Asia - Saudi Arabia </summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu176" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu177" > <summary style="font-size:19px;color:gray !important;" >Asia - Sri Lanka</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu177" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+
+ <!-- START Country --> 
+<details id="eu178" > <summary style="font-size:19px;color:gray !important;" >Asia - Timor-Leste </summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu178" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+
+ <!-- START Country --> 
+<details id="eu179" > <summary style="font-size:19px;color:gray !important;" >Asia - Thailand</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu179" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+ 
+
+ <!-- START Country --> 
+<details id="eu180" > <summary style="font-size:19px;color:gray !important;" >Asia - Turkmenistan</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu180" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+
+
+
+
+
+ 
+
+<!-- START Country --> 
+<details id="eu181" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - Afghanistan</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>.  </b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu181" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu182" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - China</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: China is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>. The are also dumping low quality products around the world.</b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu182" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu183" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - Iran</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Iran is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>. </b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu183" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu184" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - Iraq</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>. </b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu184" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu185" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - Israel</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: At war with Palestine. Danger ! Bullets are flying. </b></h3>    
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu185" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu186" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - Laos</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: The EU has designated this country as a <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1675-20250805" target="_blank" >high-risk third country</a>.</b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu186" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu187" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - Lebanon</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>. </b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu187" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu188" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - Myanmar</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>. </b></h3> 
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu188" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu189" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - Nepal</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: The EU has designated this country as a <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1675-20250805" target="_blank" >high-risk third country</a>.</b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu189" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu190" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - North Korea</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>. </b></h3> 
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu190" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu191" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - Palestine</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: At war with Israel. Danger ! Bullets are flying. </b></h3>    
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu191" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu192" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - Russia</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: At war with Ukraine. Danger ! Bullets are flying. </b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu192" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu193" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - Syria</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>. </b></h3> 
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu193" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu194" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - Turkey</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>. The are also dumping low quality products around the world.</b></h3> 
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu194" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country -->  
+<details id="eu195" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - Vietnam</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: The EU has designated this country as a <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1675-20250805" target="_blank" >high-risk third country</a>.</b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu195" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+
+<!-- START Country --> 
+<details id="eu196" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - Yemen</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>.  </b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu196" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
  
  
+<!-- START Country --> 
+<details id="eu197" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - Dependencies and Areas of Special Sovereignty - China - Hong Kong</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: China is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>. The are also dumping low quality products around the world.</b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu197" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu198" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - Dependencies and Areas of Special Sovereignty - China - Macao</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: China is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>. They are also dumping low quality products around the world.</b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu198" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+ 
+ 
+<!-- START Country --> 
+<details id="eu200" > <summary style="font-size:19px;color:red !important;" ><s>Asia -  Banned Non-UN states - Azerbaijan - Nagorno-Karabakh</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: This country is not recognized by Romania.</b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu200" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+  
+<!-- START Country --> 
+<details id="eu201" > <summary style="font-size:19px;color:red !important;" ><s>Asia -  Banned Non-UN states - Georgia - Abkhazia</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: This country is not recognized by Romania.</b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu201" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu202" > <summary style="font-size:19px;color:red !important;" ><s>Asia -  Banned Non-UN states - Georgia - South Ossetia</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: This country is not recognized by Romania.</b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu202" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu203" > <summary style="font-size:19px;color:red !important;" ><s>Asia -  Banned Non-UN states - Turkey - Northern Cyprus</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: This country is not recognized by Romania.</b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu203" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+ 
+<!-- START Country --> 
+<details id="eu204" > <summary style="font-size:19px;color:red !important;" ><s>Asia -  Banned Non-UN states - Taiwan</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: This country is not recognized by Romania.</b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu204" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+ 
+<!-- START Country --> 
+<details id="eu205" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Paracel Islands</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Disputed</b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu205" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu206" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Spratly Islands</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Disputed</b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu206" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+ 
+ 
+  <!-- END Asia --> 
+  
+ 
+  <!-- START Africa --> 
+  
+<br>
+ 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Warning ! In Africa, most people use cash and they don't own or use companies to sell their products and services. </b></h3>  
+ 
+ <!-- START Country --> 
+<details id="eu207" > <summary style="font-size:19px;color:green !important;" >Africa - Botswana</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu207" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+ 
+ <!-- START Country --> 
+<details id="eu208" > <summary style="font-size:19px;color:green !important;" >Africa - Cabo Verde</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu208" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu209" > <summary style="font-size:19px;color:green !important;" >Africa - Gambia</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu209" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu210" > <summary style="font-size:19px;color:green !important;" >Africa - Mauritius</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu210" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu211" > <summary style="font-size:19px;color:green !important;" >Africa - Morocco</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu211" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu212" > <summary style="font-size:19px;color:green !important;" >Africa - Sao Tome & Principe</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu212" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu213" > <summary style="font-size:19px;color:green !important;" >Africa - Seychelles</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu213" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu214" > <summary style="font-size:19px;color:green !important;" >Africa - Zambia</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu214" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu215" > <summary style="font-size:19px;color:green !important;" >Oceania - Dependencies and Areas of Special Sovereignty - France - Mayotte</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu215" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+ 
+ <!-- START Country --> 
+<details id="eu216" > <summary style="font-size:19px;color:green !important;" >Oceania - Dependencies and Areas of Special Sovereignty - France - Reunion</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu216" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+ 
+ <!-- START Country --> 
+<details id="eu217" > <summary style="font-size:19px;color:green !important;" >Oceania - Dependencies and Areas of Special Sovereignty - United Kingdom - Ascension</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu217" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+ <!-- START Country --> 
+<details id="eu218" > <summary style="font-size:19px;color:green !important;" >Oceania - Dependencies and Areas of Special Sovereignty - United Kingdom - Tristan da Cunha</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu218" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+<details id="eu219" > <summary style="font-size:19px;color:green !important;" >Oceania - Dependencies and Areas of Special Sovereignty - United Kingdom - Saint Helena</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu219" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+<details id="eu220" > <summary style="font-size:19px;color:green !important;" >Oceania - Dependencies and Areas of Special Sovereignty - United Kingdom - BIOT islands</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu220" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+ 
+ 
+ <!-- START Country --> 
+<details id="eu221" > <summary style="font-size:19px;color:gray !important;" >Africa - Benin</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu221" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu222" > <summary style="font-size:19px;color:gray !important;" >Africa - Chad</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu222" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+ 
+ <!-- START Country --> 
+<details id="eu223" > <summary style="font-size:19px;color:gray !important;" >Africa - Comoros</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu223" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+ 
+ <!-- START Country --> 
+<details id="eu224" > <summary style="font-size:19px;color:gray !important;" >Africa - Congo Brazzaville</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu224" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu225" > <summary style="font-size:19px;color:gray !important;" >Africa - Djibouti</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu225" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu226" > <summary style="font-size:19px;color:gray !important;" >Africa - Egypt</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu226" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu227" > <summary style="font-size:19px;color:gray !important;" >Africa - Equatorial Guinea</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu227" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu228" > <summary style="font-size:19px;color:gray !important;" >Africa - Eritrea</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu228" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu229" > <summary style="font-size:19px;color:gray !important;" >Africa - Eswatini</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu229" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu230" > <summary style="font-size:19px;color:gray !important;" >Africa - Ethiopia</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu230" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu231" > <summary style="font-size:19px;color:gray !important;" >Africa - Gabon</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu231" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+ 
+ <!-- START Country --> 
+<details id="eu232" > <summary style="font-size:19px;color:gray !important;" >Africa - Ghana</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu232" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu233" > <summary style="font-size:19px;color:gray !important;" >Africa - Lesotho</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu233" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu234" > <summary style="font-size:19px;color:gray !important;" >Africa - Liberia</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu234" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu235" > <summary style="font-size:19px;color:gray !important;" >Africa - Madagascar</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu235" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu236" > <summary style="font-size:19px;color:gray !important;" >Africa - Malawi</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu236" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu237" > <summary style="font-size:19px;color:gray !important;" >Africa - Mauritania</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu237" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+
+ <!-- START Country --> 
+<details id="eu238" > <summary style="font-size:19px;color:gray !important;" >Africa - Rwanda</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu238" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu239" > <summary style="font-size:19px;color:gray !important;" >Africa - Senegal</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu239" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu240" > <summary style="font-size:19px;color:gray !important;" >Africa - Sierra Leone</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu240" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu241" > <summary style="font-size:19px;color:gray !important;" >Africa - Togo</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu241" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+ <!-- START Country --> 
+<details id="eu242" > <summary style="font-size:19px;color:gray !important;" >Africa - Uganda</summary> 
+<!-- START BIZ GRID -->
+<!-- END BIZ GRID -->
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu242" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+
+
+
+ 
+ 
+<!-- START Country -->  
+<details id="eu243" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Dependencies and Areas of Special Sovereignty - Australia - Bouvet Island ( 0 Population )</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: 0 Population </b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu243" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->   
+<!-- START Country -->  
+<details id="eu244" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Dependencies and Areas of Special Sovereignty - Australia - Heard Island ( 0 Population )</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: 0 Population </b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu244" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->   
+<!-- START Country -->  
+<details id="eu245" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Dependencies and Areas of Special Sovereignty - Norway - McDonald Island ( 0 Population )</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: 0 Population </b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu245" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->   
+
+<!-- START Country --> 
+<details id="eu246" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Algeria</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: The EU has designated this country as a <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1675-20250805" target="_blank" >high-risk third country</a>.</b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu246" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu247" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Angola</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: The EU has designated this country as a <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1675-20250805" target="_blank" >high-risk third country</a>.</b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu247" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu248" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Burkina Faso</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: The EU has designated this country as a <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1675-20250805" target="_blank" >high-risk third country</a>.</b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu248" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu249" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Burundi</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>.  </b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu249" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu250" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Cameroon</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: The EU has designated this country as a <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1675-20250805" target="_blank" >high-risk third country</a>.</b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu250" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu251" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Central African Republic</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>.  </b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu251" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu252" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Côte d'Ivoire</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: The EU has designated this country as a <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1675-20250805" target="_blank" >high-risk third country</a>.</b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu252" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu253" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - DR Congo</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>.  </b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu253" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu254" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Guinea</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>.  </b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu254" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+<!-- START Country --> 
+<details id="eu255" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Guinea-bissau</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>.  </b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu255" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+<!-- START Country --> 
+<details id="eu256" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Kenya</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: The EU has designated this country as a <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1675-20250805" target="_blank" >high-risk third country</a>.</b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu256" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu257" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Libya</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>.  </b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu257" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+<!-- START Country --> 
+<details id="eu258" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Mali</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>.  </b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu258" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+<!-- START Country --> 
+<details id="eu259" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Mozambique</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: The EU has designated this country as a <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1675-20250805" target="_blank" >high-risk third country</a>.</b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu259" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu260" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Namibia</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: The EU has designated this country as a <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1675-20250805" target="_blank" >high-risk third country</a>.</b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu260" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu261" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Nigeria</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: The EU has designated this country as a <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1675-20250805" target="_blank" >high-risk third country</a>.</b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu261" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->  
+
+<!-- START Country --> 
+<details id="eu262" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Niger</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a>.  </b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu262" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+<!-- START Country --> 
+<details id="eu263" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Somalia</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Civil war. Danger ! Bullets are flying. </b></h3>    
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu263" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu264" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - South Africa</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: The EU has designated this country as a <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1675-20250805" target="_blank" >high-risk third country</a>.</b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu264" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu265" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - South Sudan</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>.  </b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu265" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country -->
+
+<!-- START Country --> 
+<details id="eu266" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Sudan</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Civil war. Danger ! Bullets are flying. </b></h3>    
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu266" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu267" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Tanzania</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: The EU has designated this country as a <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1675-20250805" target="_blank" >high-risk third country</a>.</b></h3>  
+   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu267" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu268" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Tunisia</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>.  </b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu268" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+
+
+<!-- START Country --> 
+<details id="eu269" > <summary style="font-size:19px;color:red !important;" ><s>Africa - Banned Countries - Zimbabwe</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>.  </b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu269" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu270" > <summary style="font-size:19px;color:red !important;" ><s>Africa -  Banned Non-UN states - Somalia - Somaliland</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: This country is not recognized by Romania.</b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu270" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+<!-- START Country --> 
+<details id="eu271" > <summary style="font-size:19px;color:red !important;" ><s>Africa -  Banned Non-UN states - Morocco - Sahrawi Republic</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: This country is not recognized by Romania.</b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu271" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
+
+  <!-- END Africa --> 
+
+ 
+
+ 
+ 
+  
  
  <div class="thehidebtnbin" ><a class="thehidebtn" href="#da23" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div> 
 </details><!-- END ITR --> 
+
