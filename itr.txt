@@ -1,8 +1,68 @@
 
 <!-- START ITR -->
 
+ 
 <details id="da24" >
-  <summary>International Trade Resources</summary>
+  <summary>Friendly, Unfriendly and Banned Countries List</summary>
+  
+ <br>
+ <span><b>*Note: If political regime changes in your country and if the internet is switched off write messages to the world using crop circles, literature, art, sculptures, music. graffiti, put the messages in a bottle, use the wind and hot air balloons. <u>Point using big arrows on the ground where the mass graves are</u> so that spy planes and satellites can find them.</b></span><br> 
+ <br>
+
+  <h3 style="color:#000;" ><b>Banks - Anti Money Laundering Info</b></h3>
+  <p style="font-size:14px !important;border:0;" >
+  <span style="font-size:13px;" >Banks want legal documents before they allow transactions with companies from countries in this list</span><br>
+  <span style="font-size:13px;" >It's just a guide, you will need to contact your bank to see what countries is on their list. Each bank has it's own policy.</span><br>
+  <span style="font-size:13px;" >- The contract</span><br>
+  <span style="font-size:13px;" >- Invoice / invoices, to cover the value of the transaction</span><br>
+  <span style="font-size:13px;" >- Certificate of origin issued by the competent authority of the country (or an equivalent document that certifies both the country of the producer and his company name )</span><br>
+  <span style="font-size:13px;" >- Inspection certificates ( e.g. phytosanitary certificate / health - veterinary certificate and so on )</span><br>
+  <span style="font-size:13px;" >- Declaration / certificate of conformity with technical documentation proof</span><br>
+  <span style="font-size:13px;" >- Laboratory analysis proof that shows the products are safe and according to EU standards</span><br>
+  <span style="font-size:13px;" >- Transport documents</span><br>
+  <span style="font-size:13px;" >- The banks may request additional information/documents to clarify the purpose and nature of transactions</span><br>
+  </p>
+  <br>
+  <h3 style="color:#000;" ><b>Useful info</b></h3>
+  <p style="font-size:14px !important;border:0;" >
+  <a style="font-size:13px;" href="https://www.mae.ro/node/1549" target="_blank" >Note: Some countries are sanctioned</a><br>
+  <a style="font-size:13px;" href="https://www.consilium.europa.eu/en/policies/eu-list-of-non-cooperative-jurisdictions/" rel="nofollow" target="_blank" >Note: Some countries are on the EU list of non cooperative jurisdictions</a><br> 
+  <a style="font-size:13px;" href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1675-20250805" rel="nofollow" target="_blank" >Note: Some countries are designated high-risk by the EU</a><br> 
+  
+  <a style="font-size:13px;" href="https://simple.wikipedia.org/wiki/List_of_states_with_limited_recognition" rel="nofollow" target="_blank" >Note: Some countries are Non-UN states</a><br>
+  <a style="font-size:13px;" href="https://en.wikipedia.org/wiki/Dependent_territory" rel="nofollow" target="_blank" >Note: Some territories are Dependencies and Areas of Special Sovereignty</a><br>
+  <span style="font-size:13px;" >Some radio stations in Asia and Africa transmit 3-4 hours per day, they do not have 24/7 schedule ( like in western countries )</span><br>
+  <span style="font-size:13px;" >Note some radio stations work on Firefox but not on Chrome </span><br><br>
+
+
+   <h3 style="color:#000;" ><b>Some individuals and entities are sanctioned</b></h3>
+   <p style="font-size:14px !important;border:0;" >
+   <span>- <a href="https://scsanctions.un.org/8zpk7en-all.html" rel="nofollow" target="_blank" >United Nations Security Council Consolidated List</a></span><br>
+   <span>- <a href="https://www.interpol.int/How-we-work/Notices/Red-Notices/View-Red-Notices" rel="nofollow" target="_blank" >Interpol Most Wanted List</a></span><br>
+   <span>- <a href="https://eumostwanted.eu/" rel="nofollow" target="_blank" >Europol Most Wanted List</a></span><br> 
+   <span>and so on</span><br>
+
+
+<!--
+  <span style="font-size:13px;" >Countries with <b>0-5 Mbps</b> have <b>very slow internet</b> ( Suitable for basic tasks like web browsing, email, and SD video streaming on one device )</span><br>
+  <span style="font-size:13px;" >Countries with <b>5-20 Mbps</b> have <b>slow internet</b> ( Might handle HD video streaming, but not well on multiple devices )</span><br>
+  <span style="font-size:13px;" >Countries with <b>20-100 Mbps</b> have <b>basic internet</b> ( Suitable for basic tasks like web browsing, email, and SD video streaming on one device )</span><br>
+  <span style="font-size:13px;" >Countries with <b>100 Mbps+</b> have <b>fast internet</b> ( Can support multiple 4K streams, 4K gaming, large file downloads, and use on several devices concurrently. )</span><br>
+  
+  <span style="font-size:13px;" >L? - L4 = Be Careful; L5-L6 = Not Safe; L7-L9 = Danger;</span><br>
+  <span style="font-size:13px;" >R = Radio;</span><br>
+  <br>
+  
+--> 
+  
+  
+  </p>
+  
+ 
+<br>
+  
+  
+  
   
 <!-- START Europe --> 
   
@@ -6018,7 +6078,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   
 <br>
  
- <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Warning ! In Africa, most people use cash and they don't own or use companies to sell their products and services. </b></h3>  
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Warning ! In Africa, most people use cash only and they don't own or use companies to sell their products and services. </b></h3>  
  
  <!-- START Country --> 
 <details id="eu207" > <summary style="font-size:19px;color:green !important;" >Africa - Botswana</summary> 
@@ -6450,10 +6510,51 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
 
   <!-- END Africa --> 
 
+ <br>
+  <h3 style="color:#151fba;" ><b>Other methods we can use to Connect</b></h3>
+  <p style="font-size:14px !important;border:0;" >
+  <span><b>Method A</b></span><br> 
+  <span>If a supplier or client company needs to send us a msg via radio BLUE SEA EXPORT IMPORT S.R.L. can listen via <a style="color:darkred;word-break: break-all;" href="http://websdr.org/" target="_blank" >WebSDR</a> or <a style="color:darkred;word-break: break-all;" href="http://kiwisdr.com/public/" target="_blank" >KiwiSDR</a> </span><br> 
+  <span><b>This method can be used when internet is very expenive in your area.</b></span><br> 
+  
+  <span><b>Step 1. When you visit the website and when you download the catalog blueseaexportimport.com note down our email, postal address and phone number.</b></span><br>   
+  <span><b>Step 2. Verify if the weather is clear sky when you want to send radio messages ( minimum interference - it also helps with bouncing radio waves off the ionosphere )</b></span><br>   
+  <span><b>Step 3. Make sure the message is repeated a few times, so we have time to record it or write it down.</b></span><br> 
+  <span><b>Step 4. At the end of the message specify how should we contact you back to confirm that we undertand the messages: e.g. email or phone call or SMS </b></span><br>  
+  <span> - Note: In the message include the date and time when we should listen the next message: e.g. 10 September 2025 between 10:30 - 10:55 AM - New York (NY) Local time ( second msg )</span><br> 
+  <span><b>Step 5. Send experimental messages or buy radio ads to verify if you can hear the radio messages on WebSDR or KiwiSDR</b></span><br>  
+  <span><b>Step 6. Send to us copies of your public document via letter and include: </b></span><br>   
+  <span> - Your company public phone number and company public email e.g. 1 555 533 5135 - email@companyname.org </span><br> 
+  <span> - The Public SDR link: e.g. http://websdr.k3fef.com:8901 </span><br> 
+  <span> - The Broadcast Frequency e.g. 1110.00 kHz </span><br> 
+  <span> - The Radio Broadcast Band Name: e.g. AM ( Amplitude modulation ) </span>
+  <span> - Specify the date and time when we should listen the first message: e.g. 03 September 2025 between 10:30 - 10:55 AM - New York (NY) Local time ( first msg )</span><br>   
+  <span><b>Step 7. If we understand the message we will contact you back as soon as possible via the method you specified. </b></span><br> 
+  <span><b>Step 8. Anyone can say they are BLUE SEA EXPORT IMPORT S.R.L., when we contact you back, check if it is the same email or phone number noted down in Step 1.</b></span><br> 
  
+  <br><br>
+  <span><b>Method B</b></span><br> 
+  
+  <span><b>This methods we can used when there is no internet or phone coverage in your area</b></span><br>
+  <span><b>Most people read newspapers online, it's no longer a good way to connect offline via classified ads</b></span><br>
+  <span><b>Example: In Kiribati people do not have access <a href="https://www.worldbank.org/en/news/feature/2012/08/03/connecting-people-in-remote-kiribati">to internet or phone service</a></b></span><br>
+  <span><b>1. We can send letters ( your company must pay the cost and fees )</b></span><br> 
+  <span><b>2. We can place Ads on Radio Stations ( your company must pay the cost - fees)</b></span><br>
+  <span><b>3. We can also try to find air cargo companies to airdrop flyers if needed ( your company must pay the cost and fees )</b></span><br>
+  <span><b>4. There is also Starlink, Satellite Phone and SSB Radio, this methods are not cheap, you should check the prices.</b></span><br><br>
+  
+  <span><b>Note: Radios can be shutdown if political regimes change, we do not guarantee that they will accept to broadcast any Ads.</b></span><br><br>
+  
+  <span><b>Human Rights Links </b></span><br> 
+  <span><b><a href="https://www.amnesty.org/en/countries/" >Amnesty International Countries Info</a></b></span><br>
+  <span><b><a href="https://www.transparency.org/en/cpi/2024" >Transparency International Corruption Perceptions Index</a></b></span><br>
+  <span><b><a href="https://www.who.int/data/gho/map-gallery" >World Health Organization Maps</a></b></span><br>
+  <span><b><a href="https://www.omct.org/en/resources/urgent-interventions" >World Organisation Against Torture | OMCT - Urgent Interventions</a></b></span><br>
+  <span><b><a href="https://www.hrw.org/" >Human Rights Watch</a></b></span><br>
+  <span><b><a href="https://freedomhouse.org/explore-the-map" >Freedom House Map</a></b></span><br><br>
 
- 
- 
+
+  </p>
   
  
  <div class="thehidebtnbin" ><a class="thehidebtn" href="#da23" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div> 
