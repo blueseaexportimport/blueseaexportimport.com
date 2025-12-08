@@ -21,7 +21,7 @@
   <span><b>10. Romanian A.P.I.A. grains export-import licenses unique Id:</b> RO012678067 ( <a style="color:darkred;word-break: break-all;" href="https://apia.org.ro/" target="_blank" ><b>Contact A.P.I.A. to verify</b></a> )</span><br>
   <span><b>11. Registered in the database of <a style="color:darkred;word-break: break-all;" href="https://www.madr.ro/inspectia-legume-fructe.html" target="_blank" >I.S.C.T.P.V.L.F.</a> to request certificates of conformity for fruits and vegetables:</b> Yes ( <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/refs/heads/main/documents/madrfructe.png" target="_blank" ><b>Click here to verify</b></a> )</span><br> 
   <span><b>12. National Phytosanitary Authority Certificate No.:</b> <a style="color:darkred;word-break: break-all;" href="https://raw.githubusercontent.com/blueseaexportimport/blueseaexportimport.com/main/documents/Certificat%20de%20inregistrare%20registrul%20operatorilor%20profesionisti%20la%20oficiul%20fitosanitar%20Ministerul%20Agriculturii%20si%20Dezvoltarii%20Rurale%20nou.pdf" target="_blank" ><b>RO / VN / 011 / IE</b></a> [ for import-export activity at third parties ]</span><br>
-  <span><b>13. For 2023-2024 season National Phytosanitary Authority Certificate visa was stamped on:</b> 04.12.2024 [ Note: it is required to obtain the annual visa of the certificate at least 7 days before the expiration of the 1-year term from the date of it’s issuance ]</span><br>
+  <span><b>13. For 2025-2026 season National Phytosanitary Authority Certificate visa was stamped on:</b> 08.12.2025 [ Note: it is required to obtain the annual visa of the certificate at least 7 days before the expiration of the 1-year term from the date of it’s issuance ]</span><br>
   <span><b>14. Registered in the TRACES database:</b> No [ no clients yet ]</span><br>
   <span><b>15. A.N.S.V.S.A. Authorization for Fodder ( Animal food products not for human use ):</b> No [ no clients yet ]</span><br>
   <span><b>16. Romanian Public Health District Authority Authorization:</b> For Current Activities No Need [ according to Order 1030 / 2009 - Romanian Ministry of Health ]</span><br>
@@ -1067,7 +1067,3 @@ For some products we will try to find suppliers that offer international warrant
  
 
 <!-- Helpful links -->
-
-
-
-
