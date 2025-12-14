@@ -1,4 +1,6 @@
+ 
 
+ 
 <!-- START ITR -->
 
  
@@ -5857,12 +5859,7 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu173" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
 </details><!-- END Country -->
 
- <!-- START Country --> 
-<details id="eu174" > <summary style="font-size:19px;color:gray !important;" >Asia - Pakistan</summary> 
-<!-- START BIZ GRID -->
-<!-- END BIZ GRID -->
-  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu174" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
-</details><!-- END Country -->
+
 
  <!-- START Country --> 
 <details id="eu175" > <summary style="font-size:19px;color:gray !important;" >Asia - Qatar</summary> 
@@ -5913,12 +5910,18 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
 
 
 
+ 
 
+<!-- START Country --> 
+<details id="eu174" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - Pakistan</s></summary> 
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Pakistan is a safe havens for terrorists </b></h3>  
+  <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu174" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
+</details><!-- END Country --> 
  
 
 <!-- START Country --> 
 <details id="eu181" > <summary style="font-size:19px;color:red !important;" ><s>Asia - Banned Countries - Afghanistan</s></summary> 
- <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Lebanon is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>.  </b></h3>  
+ <h3 style="border-bottom: 0px solid #f5f5f5;font-size:17px;color:black;" ><b>Reason: Afghanistan is on the <a href="https://www.sanctionsmap.eu/#/main" target="_blank" >EU Sanctions map</a> and on the <a href="https://www.mae.ro/node/1549" target="_blank" >Romanian sanctioned countries list</a>.  </b></h3>  
   <div class="thehidebtnbin" ><a class="thehidebtn" href="#eu181" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div>
 </details><!-- END Country --> 
 
@@ -6560,3 +6563,5 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
  <div class="thehidebtnbin" ><a class="thehidebtn" href="#da23" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div> 
 </details><!-- END ITR --> 
 
+
+ 
