@@ -1,7 +1,3 @@
- 
-
-
- 
 <!-- START ITR -->
 
  
@@ -2538,6 +2534,25 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
 <div class="bizgrid" > 
   <div class="bizbbin" id="biztitle" >1. Cinemas</div> 
   <div class="bizbbin" id="biztitle" >2. TV and Radio Channels</div>
+  <div class="bizbbin"><a href="https://www.rri.ro/frecvente-unde-scurte-internet-receptie-emisiuni-social-media-curierul-romanesc-marinari-audionow-tunein" target="_blank" ><b>B2 - International - Radio Romania International </b></a> <br> - <span>Radio - Type: Terrestrial </span></div>  
+  <div class="bizbbin"><a href="https://www.romania-actualitati.ro/live/" target="_blank" ><b>B2 - National - Radio Romania Actualitati </b></a> <br> - <span>Radio - Type: Terrestrial </span></div> 
+  <div class="bizbbin"><a href="https://www.radioromaniacultural.ro/live/" target="_blank" ><b>B2 - National - Radio Romania Cultural </b></a> <br> - <span>Radio - Type: Terrestrial  </span></div>
+  <div class="bizbbin"><a href="https://2025.radiotrinitas.ro/" target="_blank" ><b>B2 - National - Radio Trinitas </b></a> <br> - <span>Radio - Type: Terrestrial </span></div>
+  <div class="bizbbin"><a href="https://www.europafm.ro/" target="_blank" ><b>B2 - National - Europa FM </b></a> <br> - <span>Radio - Type: Terrestrial  </span></div>
+  <div class="bizbbin"><a href="https://www.nationalfm.ro/" target="_blank" ><b>B2 - National - National FM </b></a> <br> - <span>Radio - Type: Terrestrial </span></div> 
+  <div class="bizbbin"><a href="https://www.digifm.ro/" target="_blank" ><b>B2 - National - Digi FM </b></a> <br> - <span>Radio - Type: Terrestrial </span></div> 
+  <div class="bizbbin"><a href="https://www.kissfm.ro/" target="_blank" ><b>B2 - National - Kiss FM </b></a> <br> - <span>Radio - Type: Terrestrial </span></div>
+  <div class="bizbbin"><a href="https://www.magicfm.ro/" target="_blank" ><b>B2 - National - Magic FM </b></a> <br> - <span>Radio - Type: Terrestrial </span></div> 
+  <div class="bizbbin"><a href="https://www.profm.ro/" target="_blank" ><b>B2 - National - Pro FM </b></a> <br> - <span>Radio - Type: Terrestrial </span></div>  
+  <div class="bizbbin"><a href="https://www.radiozu.ro/live" target="_blank" ><b>B2 - National - Radio ZU </b></a> <br> - <span>Radio - Type: Terrestrial </span></div> 
+  <div class="bizbbin"><a href="https://www.virginradio.ro/" target="_blank" ><b>B2 - National - Virgin Radio </b></a> <br> - <span>Radio - Type: Terrestrial </span></div>
+
+     
+ 
+  <div class="bizbbin" style="border:1px dashed #151fba;padding:10px;" ><span>For other local <b>terrestrial</b> radio stations in Romania check <a href="https://www.cna.ro/a-situatii-privind-licentele-audiovizuale-avizele-de-furnizare-a-serviciilor-media-audiovizuale-la-cerere-avizele-de-retransmisie-si-autorizatiile-de-re-fl7wut28fqxu5c0y94sohaf7/" target="_blank" >CNA Radio licences List</a> </span></div> 
+
+
+    
   <div class="bizbbin" id="biztitle" >3. Chess Parks</div>
   <div class="bizbbin" id="biztitle" >4. Public Baths and Swimming Pools</div>
   <div class="bizbbin" id="biztitle" >5. Boating and Yachting</div>
@@ -2586,7 +2601,12 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >3. Weather</div>
   <div class="bizbbin" ><a href="https://www.meteoromania.ro" target="_blank" ><b>C3 - Meteoromania.ro</b></a> - <span>Romania</span></a> </div>  
   <div class="bizbbin" id="biztitle" >4. Tides and Currents</div> 
-  <div class="bizbbin" id="biztitle" >5. Time Zone</div>  
+  <div class="bizbbin" id="biztitle" >5. Time Zone</div> 
+  <div class="bizbbin"><a href="https://www.gsc-europa.eu/GST" target="_blank" ><b>C5 - UTC +02:00 Bravo Time</b></a> <br> - <span> Longitudes at Sea between 22.5°E to 37.5°E </span></div>  
+    
+ 
+    
+    
   <div class="bizbbin" id="biztitle" >6. Traffic</div> 
   <div class="bizbbin" id="biztitle" >7. Public Transport</div>
   <div class="bizbbin" id="biztitle" >8. Restaurants and Food Vendors</div> 
@@ -2597,7 +2617,13 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
   <div class="bizbbin" id="biztitle" >13. Pharmaceris</div>
   <div class="bizbbin" id="biztitle" >14. Emergency and Helplines</div>
   <div class="bizbbin" id="biztitle" >15. Free Wi-fi</div>
+  <div class="bizbbin"><a href="https://wifi4eu.ec.europa.eu/#/list-accesspoints?lang=en" target="_blank" ><b>C15 - WiFi4EU </b></a> <br> - <span>Coverage: Europe</span></div> 
+  
   <div class="bizbbin" id="biztitle" >16. PrePay eSIM/SIM cards</div> 
+  <div class="bizbbin"><a href="https://www.vodafone.ro/cartela-vodafone" target="_blank" ><b>C16 - Vodafone </b></a> <br> - <span> Romania - SIM / eSIM - Coverage: National</span></div>  
+  <div class="bizbbin"><a href="https://www.orange.ro/prepay/cartela-sim/" target="_blank" ><b>C16 - Orange </b></a> <br> - <span> Romania - SIM / eSIM - Coverage: National</span></div>   
+  <div class="bizbbin"><a href="https://www.digi.ro/oferta-prepaid-optiuni" target="_blank" ><b>C16 - Digi </b></a> <br> - <span> Romania - SIM / eSIM - Coverage: National</span></div>   
+  
   <div class="bizbbin" id="biztitle" >17. Car Wash</div>
   <div class="bizbbin" id="biztitle" >18. Paint and Auto Repair</div>  
   <div class="bizbbin" id="biztitle" >19. Babysitters, Kindergartens and Afterchools</div>  
@@ -6556,3 +6582,5 @@ Anexa 3 LISTA muzeelor de importanţa judeteana
  
  <div class="thehidebtnbin" ><a class="thehidebtn" href="#da23" onclick="this.closest('details').removeAttribute('open')">Close Window</a></div> 
 </details><!-- END ITR --> 
+
+
